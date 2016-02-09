@@ -1,0 +1,4 @@
+siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
+204,Andree Bog,45.725,-93.25,45.725,45.725,-93.25,-93.25,Vascular plants,Scheuchzeria palustris,1.0,NISP,pollen,,10424.0,,,Radiocarbon years BP,545.0,300.0,pollen,6/30/2007,232.0,0.431034482759
+344,Cedar Bog,45.411111,-93.197222,45.411111,45.411111,-93.197222,-93.197222,Vascular plants,Scheuchzeria palustris,1.0,NISP,pollen,,7083.0,,,Radiocarbon years BP,830.0,,pollen,6/30/2007,1094.0,0.091407678245
+344,Cedar Bog,45.411111,-93.197222,45.411111,45.411111,-93.197222,-93.197222,Vascular plants,Scheuchzeria palustris,1.0,NISP,pollen,,10539.0,,,Radiocarbon years BP,1547.0,,pollen,6/30/2007,566.0,0.17667844523

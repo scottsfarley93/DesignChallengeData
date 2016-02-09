@@ -1,0 +1,193 @@
+siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
+1,15/1,55.091667,-75.25,55.091667,55.091667,-75.25,-75.25,Vascular plants,Alnus viridis,114.0,NISP,pollen,,,,,,0.0,244.0,pollen surface sample,6/30/2007,,
+2,15/2,55.833333,-75.016667,55.833333,55.833333,-75.016667,-75.016667,Vascular plants,Alnus viridis,47.0,NISP,pollen,,,,,,0.0,305.0,pollen surface sample,6/30/2007,,
+3,16/1,55.413333,-75.066667,55.413333,55.413333,-75.066667,-75.066667,Vascular plants,Alnus viridis,44.0,NISP,pollen,,,,,,0.0,285.0,pollen surface sample,6/30/2007,,
+4,17/1,55.066667,-75.7,55.066667,55.066667,-75.7,-75.7,Vascular plants,Alnus viridis,75.0,NISP,pollen,,,,,,0.0,235.0,pollen surface sample,6/30/2007,,
+5,17/2,55.25,-74.933333,55.25,55.25,-74.933333,-74.933333,Vascular plants,Alnus viridis,184.0,NISP,pollen,,,,,,0.0,335.0,pollen surface sample,6/30/2007,,
+6,17/3,55.116667,-75.95,55.116667,55.116667,-75.95,-75.95,Vascular plants,Alnus viridis,74.0,NISP,pollen,,,,,,0.0,255.0,pollen surface sample,6/30/2007,,
+19,Akulinin Exposure P1282,47.116667,138.55,47.116667,47.116667,138.55,138.55,Vascular plants,Alnus viridis,26.0,NISP,pollen,,529.0,,,Radiocarbon years BP,60.0,20.0,pollen,6/30/2007,244.0,10.6557377049
+19,Akulinin Exposure P1282,47.116667,138.55,47.116667,47.116667,138.55,138.55,Vascular plants,Alnus viridis,2.0,NISP,pollen,,16293.0,,,Radiocarbon years BP,225.0,20.0,pollen,6/30/2007,327.0,0.611620795107
+19,Akulinin Exposure P1282,47.116667,138.55,47.116667,47.116667,138.55,138.55,Vascular plants,Alnus viridis,4.0,NISP,pollen,,16771.0,,,Radiocarbon years BP,230.0,20.0,pollen,6/30/2007,355.0,1.12676056338
+19,Akulinin Exposure P1282,47.116667,138.55,47.116667,47.116667,138.55,138.55,Vascular plants,Alnus viridis,11.0,NISP,pollen,,17726.0,,,Radiocarbon years BP,240.0,20.0,pollen,6/30/2007,365.0,3.01369863014
+19,Akulinin Exposure P1282,47.116667,138.55,47.116667,47.116667,138.55,138.55,Vascular plants,Alnus viridis,17.0,NISP,pollen,,18204.0,,,Radiocarbon years BP,245.0,20.0,pollen,6/30/2007,365.0,4.65753424658
+19,Akulinin Exposure P1282,47.116667,138.55,47.116667,47.116667,138.55,138.55,Vascular plants,Alnus viridis,82.0,NISP,pollen,,18777.0,,,Radiocarbon years BP,251.0,20.0,pollen,6/30/2007,488.0,16.8032786885
+19,Akulinin Exposure P1282,47.116667,138.55,47.116667,47.116667,138.55,138.55,Vascular plants,Alnus viridis,100.0,NISP,pollen,,19350.0,,,Radiocarbon years BP,257.0,20.0,pollen,6/30/2007,610.0,16.393442623
+19,Akulinin Exposure P1282,47.116667,138.55,47.116667,47.116667,138.55,138.55,Vascular plants,Alnus viridis,246.0,NISP,pollen,,20592.0,,,Radiocarbon years BP,270.0,20.0,pollen,6/30/2007,446.0,55.1569506726
+19,Akulinin Exposure P1282,47.116667,138.55,47.116667,47.116667,138.55,138.55,Vascular plants,Alnus viridis,200.0,NISP,pollen,,21548.0,,,Radiocarbon years BP,280.0,20.0,pollen,6/30/2007,417.0,47.9616306954
+19,Akulinin Exposure P1282,47.116667,138.55,47.116667,47.116667,138.55,138.55,Vascular plants,Alnus viridis,140.0,NISP,pollen,,22026.0,,,Radiocarbon years BP,285.0,20.0,pollen,6/30/2007,563.0,24.8667850799
+19,Akulinin Exposure P1282,47.116667,138.55,47.116667,47.116667,138.55,138.55,Vascular plants,Alnus viridis,57.0,NISP,pollen,,22503.0,,,Radiocarbon years BP,290.0,20.0,pollen,6/30/2007,565.0,10.0884955752
+19,Akulinin Exposure P1282,47.116667,138.55,47.116667,47.116667,138.55,138.55,Vascular plants,Alnus viridis,61.0,NISP,pollen,,22981.0,,,Radiocarbon years BP,295.0,20.0,pollen,6/30/2007,509.0,11.9842829077
+19,Akulinin Exposure P1282,47.116667,138.55,47.116667,47.116667,138.55,138.55,Vascular plants,Alnus viridis,68.0,NISP,pollen,,23745.0,,,Radiocarbon years BP,303.0,20.0,pollen,6/30/2007,758.0,8.9709762533
+19,Akulinin Exposure P1282,47.116667,138.55,47.116667,47.116667,138.55,138.55,Vascular plants,Alnus viridis,92.0,NISP,pollen,,24414.0,,,Radiocarbon years BP,310.0,20.0,pollen,6/30/2007,534.0,17.2284644195
+19,Akulinin Exposure P1282,47.116667,138.55,47.116667,47.116667,138.55,138.55,Vascular plants,Alnus viridis,167.0,NISP,pollen,,24892.0,,,Radiocarbon years BP,315.0,20.0,pollen,6/30/2007,384.0,43.4895833333
+19,Akulinin Exposure P1282,47.116667,138.55,47.116667,47.116667,138.55,138.55,Vascular plants,Alnus viridis,200.0,NISP,pollen,,25370.0,,,Radiocarbon years BP,320.0,20.0,pollen,6/30/2007,465.0,43.0107526882
+19,Akulinin Exposure P1282,47.116667,138.55,47.116667,47.116667,138.55,138.55,Vascular plants,Alnus viridis,250.0,NISP,pollen,,25847.0,,,Radiocarbon years BP,325.0,20.0,pollen,6/30/2007,482.0,51.867219917
+19,Akulinin Exposure P1282,47.116667,138.55,47.116667,47.116667,138.55,138.55,Vascular plants,Alnus viridis,240.0,NISP,pollen,,26325.0,,,Radiocarbon years BP,330.0,20.0,pollen,6/30/2007,530.0,45.2830188679
+19,Akulinin Exposure P1282,47.116667,138.55,47.116667,47.116667,138.55,138.55,Vascular plants,Alnus viridis,250.0,NISP,pollen,,27280.0,,,Radiocarbon years BP,340.0,20.0,pollen,6/30/2007,631.0,39.6196513471
+19,Akulinin Exposure P1282,47.116667,138.55,47.116667,47.116667,138.55,138.55,Vascular plants,Alnus viridis,250.0,NISP,pollen,,28236.0,,,Radiocarbon years BP,350.0,20.0,pollen,6/30/2007,557.0,44.8833034111
+19,Akulinin Exposure P1282,47.116667,138.55,47.116667,47.116667,138.55,138.55,Vascular plants,Alnus viridis,250.0,NISP,pollen,,29191.0,,,Radiocarbon years BP,360.0,20.0,pollen,6/30/2007,465.0,53.7634408602
+19,Akulinin Exposure P1282,47.116667,138.55,47.116667,47.116667,138.55,138.55,Vascular plants,Alnus viridis,250.0,NISP,pollen,,30147.0,,,Radiocarbon years BP,370.0,20.0,pollen,6/30/2007,460.0,54.347826087
+19,Akulinin Exposure P1282,47.116667,138.55,47.116667,47.116667,138.55,138.55,Vascular plants,Alnus viridis,250.0,NISP,pollen,,31102.0,,,Radiocarbon years BP,380.0,20.0,pollen,6/30/2007,445.0,56.1797752809
+19,Akulinin Exposure P1282,47.116667,138.55,47.116667,47.116667,138.55,138.55,Vascular plants,Alnus viridis,250.0,NISP,pollen,,32057.0,,,Radiocarbon years BP,390.0,20.0,pollen,6/30/2007,376.0,66.4893617021
+19,Akulinin Exposure P1282,47.116667,138.55,47.116667,47.116667,138.55,138.55,Vascular plants,Alnus viridis,250.0,NISP,pollen,,33013.0,,,Radiocarbon years BP,400.0,20.0,pollen,6/30/2007,458.0,54.5851528384
+19,Akulinin Exposure P1282,47.116667,138.55,47.116667,47.116667,138.55,138.55,Vascular plants,Alnus viridis,181.0,NISP,pollen,,33968.0,,,Radiocarbon years BP,410.0,20.0,pollen,6/30/2007,518.0,34.9420849421
+19,Akulinin Exposure P1282,47.116667,138.55,47.116667,47.116667,138.55,138.55,Vascular plants,Alnus viridis,187.0,NISP,pollen,,34924.0,,,Radiocarbon years BP,420.0,20.0,pollen,6/30/2007,375.0,49.8666666667
+19,Akulinin Exposure P1282,47.116667,138.55,47.116667,47.116667,138.55,138.55,Vascular plants,Alnus viridis,40.0,NISP,pollen,,38745.0,,,Radiocarbon years BP,460.0,20.0,pollen,6/30/2007,208.0,19.2307692308
+19,Akulinin Exposure P1282,47.116667,138.55,47.116667,47.116667,138.55,138.55,Vascular plants,Alnus viridis,4.0,NISP,pollen,,44478.0,,,Radiocarbon years BP,520.0,20.0,pollen,6/30/2007,355.0,1.12676056338
+30,Almora Lake,46.206111,-95.293611,46.206111,46.206111,-95.293611,-95.293611,Vascular plants,Alnus viridis,2.0,NISP,pollen,,3716.0,,,Radiocarbon years BP,306.7,437.0,pollen,6/30/2007,330.0,0.606060606061
+30,Almora Lake,46.206111,-95.293611,46.206111,46.206111,-95.293611,-95.293611,Vascular plants,Alnus viridis,4.0,NISP,pollen,,4195.0,,,Radiocarbon years BP,325.5,437.0,pollen,6/30/2007,293.0,1.36518771331
+30,Almora Lake,46.206111,-95.293611,46.206111,46.206111,-95.293611,-95.293611,Vascular plants,Alnus viridis,3.0,NISP,pollen,,4450.0,,,Radiocarbon years BP,335.5,437.0,pollen,6/30/2007,317.0,0.946372239748
+30,Almora Lake,46.206111,-95.293611,46.206111,46.206111,-95.293611,-95.293611,Vascular plants,Alnus viridis,3.0,NISP,pollen,,4705.0,,,Radiocarbon years BP,345.5,437.0,pollen,6/30/2007,359.5,0.834492350487
+30,Almora Lake,46.206111,-95.293611,46.206111,46.206111,-95.293611,-95.293611,Vascular plants,Alnus viridis,13.0,NISP,pollen,,4960.0,,,Radiocarbon years BP,355.5,437.0,pollen,6/30/2007,319.0,4.07523510972
+30,Almora Lake,46.206111,-95.293611,46.206111,46.206111,-95.293611,-95.293611,Vascular plants,Alnus viridis,3.0,NISP,pollen,,5215.0,,,Radiocarbon years BP,365.5,437.0,pollen,6/30/2007,344.0,0.872093023256
+30,Almora Lake,46.206111,-95.293611,46.206111,46.206111,-95.293611,-95.293611,Vascular plants,Alnus viridis,4.0,NISP,pollen,,5470.0,,,Radiocarbon years BP,375.5,437.0,pollen,6/30/2007,306.0,1.30718954248
+30,Almora Lake,46.206111,-95.293611,46.206111,46.206111,-95.293611,-95.293611,Vascular plants,Alnus viridis,1.0,NISP,pollen,,5725.0,,,Radiocarbon years BP,385.5,437.0,pollen,6/30/2007,387.0,0.258397932817
+30,Almora Lake,46.206111,-95.293611,46.206111,46.206111,-95.293611,-95.293611,Vascular plants,Alnus viridis,4.0,NISP,pollen,,5916.0,,,Radiocarbon years BP,393.0,437.0,pollen,6/30/2007,385.0,1.03896103896
+30,Almora Lake,46.206111,-95.293611,46.206111,46.206111,-95.293611,-95.293611,Vascular plants,Alnus viridis,1.0,NISP,pollen,,6158.0,,,Radiocarbon years BP,402.5,437.0,pollen,6/30/2007,329.0,0.303951367781
+30,Almora Lake,46.206111,-95.293611,46.206111,46.206111,-95.293611,-95.293611,Vascular plants,Alnus viridis,1.0,NISP,pollen,,7026.0,,,Radiocarbon years BP,420.0,437.0,pollen,6/30/2007,368.0,0.271739130435
+30,Almora Lake,46.206111,-95.293611,46.206111,46.206111,-95.293611,-95.293611,Vascular plants,Alnus viridis,1.0,NISP,pollen,,8708.0,,,Radiocarbon years BP,449.5,437.0,pollen,6/30/2007,526.0,0.190114068441
+30,Almora Lake,46.206111,-95.293611,46.206111,46.206111,-95.293611,-95.293611,Vascular plants,Alnus viridis,4.0,NISP,pollen,,9408.0,,,Radiocarbon years BP,469.5,437.0,pollen,6/30/2007,773.0,0.517464424321
+30,Almora Lake,46.206111,-95.293611,46.206111,46.206111,-95.293611,-95.293611,Vascular plants,Alnus viridis,3.0,NISP,pollen,,9705.0,,,Radiocarbon years BP,479.5,437.0,pollen,6/30/2007,442.0,0.678733031674
+30,Almora Lake,46.206111,-95.293611,46.206111,46.206111,-95.293611,-95.293611,Vascular plants,Alnus viridis,1.0,NISP,pollen,,10137.0,,,Radiocarbon years BP,498.0,437.0,pollen,6/30/2007,356.0,0.280898876404
+30,Almora Lake,46.206111,-95.293611,46.206111,46.206111,-95.293611,-95.293611,Vascular plants,Alnus viridis,2.0,NISP,pollen,,10490.0,,,Radiocarbon years BP,514.5,437.0,pollen,6/30/2007,421.0,0.475059382423
+30,Almora Lake,46.206111,-95.293611,46.206111,46.206111,-95.293611,-95.293611,Vascular plants,Alnus viridis,2.0,NISP,pollen,,10690.0,,,Radiocarbon years BP,524.5,437.0,pollen,6/30/2007,497.0,0.402414486922
+68,Amguema River Valley Exposure 1,67.75,178.7,67.75,67.75,178.7,178.7,Vascular plants,Alnus viridis,33.0,NISP,pollen,,2086.0,,,Radiocarbon years BP,80.0,175.0,pollen,6/30/2007,461.0,7.15835140998
+68,Amguema River Valley Exposure 1,67.75,178.7,67.75,67.75,178.7,178.7,Vascular plants,Alnus viridis,192.0,NISP,pollen,,5475.0,,,Radiocarbon years BP,280.0,175.0,pollen,6/30/2007,491.0,39.1038696538
+68,Amguema River Valley Exposure 1,67.75,178.7,67.75,67.75,178.7,178.7,Vascular plants,Alnus viridis,1.0,NISP,pollen,,20216.0,,,Radiocarbon years BP,1150.0,175.0,pollen,6/30/2007,474.0,0.210970464135
+68,Amguema River Valley Exposure 1,67.75,178.7,67.75,67.75,178.7,178.7,Vascular plants,Alnus viridis,9.0,NISP,pollen,,21064.0,,,Radiocarbon years BP,1200.0,175.0,pollen,6/30/2007,218.0,4.12844036697
+69,Amguema River Valley Exposure 2,67.666667,178.6,67.666667,67.666667,178.6,178.6,Vascular plants,Alnus viridis,5.0,NISP,pollen,,1870.0,,,Radiocarbon years BP,20.0,87.0,pollen,6/30/2007,103.0,4.85436893204
+69,Amguema River Valley Exposure 2,67.666667,178.6,67.666667,67.666667,178.6,178.6,Vascular plants,Alnus viridis,77.0,NISP,pollen,,2000.0,,,Radiocarbon years BP,100.0,87.0,pollen,6/30/2007,313.0,24.6006389776
+69,Amguema River Valley Exposure 2,67.666667,178.6,67.666667,67.666667,178.6,178.6,Vascular plants,Alnus viridis,28.0,NISP,pollen,,2162.0,,,Radiocarbon years BP,200.0,87.0,pollen,6/30/2007,292.0,9.58904109589
+69,Amguema River Valley Exposure 2,67.666667,178.6,67.666667,67.666667,178.6,178.6,Vascular plants,Alnus viridis,17.0,NISP,pollen,,2324.0,,,Radiocarbon years BP,300.0,87.0,pollen,6/30/2007,109.0,15.5963302752
+69,Amguema River Valley Exposure 2,67.666667,178.6,67.666667,67.666667,178.6,178.6,Vascular plants,Alnus viridis,25.0,NISP,pollen,,2486.0,,,Radiocarbon years BP,400.0,87.0,pollen,6/30/2007,305.0,8.19672131148
+69,Amguema River Valley Exposure 2,67.666667,178.6,67.666667,67.666667,178.6,178.6,Vascular plants,Alnus viridis,29.0,NISP,pollen,,2648.0,,,Radiocarbon years BP,500.0,87.0,pollen,6/30/2007,259.0,11.1969111969
+69,Amguema River Valley Exposure 2,67.666667,178.6,67.666667,67.666667,178.6,178.6,Vascular plants,Alnus viridis,30.0,NISP,pollen,,2810.0,,,Radiocarbon years BP,600.0,87.0,pollen,6/30/2007,122.0,24.5901639344
+69,Amguema River Valley Exposure 2,67.666667,178.6,67.666667,67.666667,178.6,178.6,Vascular plants,Alnus viridis,13.0,NISP,pollen,,2972.0,,,Radiocarbon years BP,700.0,87.0,pollen,6/30/2007,106.0,12.2641509434
+70,Amguema River Valley Exposure 3,67.3,178.8,67.3,67.3,178.8,178.8,Vascular plants,Alnus viridis,9.0,NISP,pollen,,,,,Radiocarbon years BP,20.0,83.0,pollen,6/30/2007,274.0,3.28467153285
+70,Amguema River Valley Exposure 3,67.3,178.8,67.3,67.3,178.8,178.8,Vascular plants,Alnus viridis,33.0,NISP,pollen,,,,,Radiocarbon years BP,100.0,83.0,pollen,6/30/2007,227.0,14.5374449339
+70,Amguema River Valley Exposure 3,67.3,178.8,67.3,67.3,178.8,178.8,Vascular plants,Alnus viridis,10.0,NISP,pollen,,,,,Radiocarbon years BP,200.0,83.0,pollen,6/30/2007,44.0,22.7272727273
+70,Amguema River Valley Exposure 3,67.3,178.8,67.3,67.3,178.8,178.8,Vascular plants,Alnus viridis,23.0,NISP,pollen,,3530.0,,,Radiocarbon years BP,300.0,83.0,pollen,6/30/2007,177.0,12.9943502825
+70,Amguema River Valley Exposure 3,67.3,178.8,67.3,67.3,178.8,178.8,Vascular plants,Alnus viridis,7.0,NISP,pollen,,,,,Radiocarbon years BP,700.0,83.0,pollen,6/30/2007,40.0,17.5
+129,Site 59 (Swain unpublished),41.9,-76.23,41.9,41.9,-76.23,-76.23,Vascular plants,Alnus viridis,1.0,NISP,pollen,,,,,,0.0,457.0,pollen surface sample,6/30/2007,,
+161,Site 91 (Swain unpublished),44.15,-73.75,44.15,44.15,-73.75,-73.75,Vascular plants,Alnus viridis,18.0,NISP,pollen,,,,,,0.0,491.0,pollen surface sample,6/30/2007,,
+163,Site 93 (Swain unpublished),44.45,-74.25,44.45,44.45,-74.25,-74.25,Vascular plants,Alnus viridis,2.0,NISP,pollen,,,,,,0.0,504.0,pollen surface sample,6/30/2007,,
+166,Site 96 (Swain unpublished),43.43,-74.05,43.43,43.43,-74.05,-74.05,Vascular plants,Alnus viridis,1.0,NISP,pollen,,,,,,0.0,519.0,pollen surface sample,6/30/2007,,
+170,Site 100 (Swain unpublished),43.92,-73.7,43.92,43.92,-73.7,-73.7,Vascular plants,Alnus viridis,1.0,NISP,pollen,,,,,,0.0,360.0,pollen surface sample,6/30/2007,,
+172,Site 102 (Swain unpublished),43.02,-72.15,43.02,43.02,-72.15,-72.15,Vascular plants,Alnus viridis,1.0,NISP,pollen,,,,,,0.0,389.0,pollen surface sample,6/30/2007,,
+176,Site 106 (Swain unpublished),41.45,-71.95,41.45,41.45,-71.95,-71.95,Vascular plants,Alnus viridis,1.0,NISP,pollen,,,,,,0.0,29.0,pollen surface sample,6/30/2007,,
+177,Site 107 (Swain unpublished),41.87,-71.9,41.87,41.87,-71.9,-71.9,Vascular plants,Alnus viridis,1.0,NISP,pollen,,,,,,0.0,77.0,pollen surface sample,6/30/2007,,
+181,Site 111 (Swain unpublished),41.9,-75.32,41.9,41.9,-75.32,-75.32,Vascular plants,Alnus viridis,1.0,NISP,pollen,,,,,,0.0,413.0,pollen surface sample,6/30/2007,,
+182,Site 112 (Swain unpublished),46.62,-68.02,46.62,46.62,-68.02,-68.02,Vascular plants,Alnus viridis,2.0,NISP,pollen,,,,,,0.0,158.0,pollen surface sample,6/30/2007,,
+183,Site 113 (Swain unpublished),47.03,-68.2,47.03,47.03,-68.2,-68.2,Vascular plants,Alnus viridis,1.0,NISP,pollen,,,,,,0.0,176.0,pollen surface sample,6/30/2007,,
+188,Site 118 (Swain unpublished),45.37,-68.48,45.37,45.37,-68.48,-68.48,Vascular plants,Alnus viridis,1.0,NISP,pollen,,,,,,0.0,65.0,pollen surface sample,6/30/2007,,
+189,Site 119 (Swain unpublished),44.23,-70.03,44.23,44.23,-70.03,-70.03,Vascular plants,Alnus viridis,1.0,NISP,pollen,,,,,,0.0,82.0,pollen surface sample,6/30/2007,,
+195,Hungry Jack Lake,48.15,-91.12,48.15,48.15,-91.12,-91.12,Vascular plants,Alnus viridis,16.0,NISP,pollen,,,,,,0.0,453.0,pollen surface sample,6/30/2007,,
+201,Amurskii Gulf,43.25,131.9,43.25,43.25,131.9,131.9,Vascular plants,Alnus viridis,5.0,NISP,pollen,,,,,,1485.0,-19.0,pollen,6/30/2007,280.0,1.78571428571
+201,Amurskii Gulf,43.25,131.9,43.25,43.25,131.9,131.9,Vascular plants,Alnus viridis,5.0,NISP,pollen,,,,,,1545.0,-19.0,pollen,6/30/2007,326.0,1.53374233129
+201,Amurskii Gulf,43.25,131.9,43.25,43.25,131.9,131.9,Vascular plants,Alnus viridis,2.0,NISP,pollen,,,,,,1665.0,-19.0,pollen,6/30/2007,454.0,0.440528634361
+201,Amurskii Gulf,43.25,131.9,43.25,43.25,131.9,131.9,Vascular plants,Alnus viridis,4.0,NISP,pollen,,,,,,2010.0,-19.0,pollen,6/30/2007,465.0,0.860215053763
+201,Amurskii Gulf,43.25,131.9,43.25,43.25,131.9,131.9,Vascular plants,Alnus viridis,2.0,NISP,pollen,,,,,,2030.0,-19.0,pollen,6/30/2007,271.0,0.738007380074
+201,Amurskii Gulf,43.25,131.9,43.25,43.25,131.9,131.9,Vascular plants,Alnus viridis,16.0,NISP,pollen,,,,,,2170.0,-19.0,pollen,6/30/2007,130.0,12.3076923077
+201,Amurskii Gulf,43.25,131.9,43.25,43.25,131.9,131.9,Vascular plants,Alnus viridis,3.0,NISP,pollen,,,,,,2260.0,-19.0,pollen,6/30/2007,140.0,2.14285714286
+220,Badaran-Yuryakhskoye Exposure,68.85,139.4,68.85,68.85,139.4,139.4,Vascular plants,Alnus viridis,59.0,NISP,pollen,,,,,Radiocarbon years BP,70.0,520.0,pollen,6/30/2007,317.0,18.6119873817
+220,Badaran-Yuryakhskoye Exposure,68.85,139.4,68.85,68.85,139.4,139.4,Vascular plants,Alnus viridis,190.0,NISP,pollen,,,,,Radiocarbon years BP,100.0,520.0,pollen,6/30/2007,376.0,50.5319148936
+220,Badaran-Yuryakhskoye Exposure,68.85,139.4,68.85,68.85,139.4,139.4,Vascular plants,Alnus viridis,122.0,NISP,pollen,,,,,Radiocarbon years BP,140.0,520.0,pollen,6/30/2007,186.0,65.5913978495
+220,Badaran-Yuryakhskoye Exposure,68.85,139.4,68.85,68.85,139.4,139.4,Vascular plants,Alnus viridis,275.0,NISP,pollen,,8170.0,,,Radiocarbon years BP,150.0,520.0,pollen,6/30/2007,421.0,65.3206650831
+220,Badaran-Yuryakhskoye Exposure,68.85,139.4,68.85,68.85,139.4,139.4,Vascular plants,Alnus viridis,13.0,NISP,pollen,,,,,Radiocarbon years BP,160.0,520.0,pollen,6/30/2007,37.0,35.1351351351
+235,Lac Bastien,46.4,-78.916667,46.4,46.4,-78.916667,-78.916667,Vascular plants,Alnus viridis,1.0,NISP,pollen,,-35.0,,,Radiocarbon years BP,905.0,305.0,pollen,6/30/2007,1024.0,0.09765625
+235,Lac Bastien,46.4,-78.916667,46.4,46.4,-78.916667,-78.916667,Vascular plants,Alnus viridis,1.0,NISP,pollen,,87.0,,,Radiocarbon years BP,912.0,305.0,pollen,6/30/2007,1069.0,0.0935453695042
+235,Lac Bastien,46.4,-78.916667,46.4,46.4,-78.916667,-78.916667,Vascular plants,Alnus viridis,1.0,NISP,pollen,,513.0,,,Radiocarbon years BP,936.0,305.0,pollen,6/30/2007,947.0,0.105596620908
+235,Lac Bastien,46.4,-78.916667,46.4,46.4,-78.916667,-78.916667,Vascular plants,Alnus viridis,1.0,NISP,pollen,,657.0,,,Radiocarbon years BP,944.0,305.0,pollen,6/30/2007,922.0,0.108459869848
+235,Lac Bastien,46.4,-78.916667,46.4,46.4,-78.916667,-78.916667,Vascular plants,Alnus viridis,1.0,NISP,pollen,,801.0,,,Radiocarbon years BP,952.0,305.0,pollen,6/30/2007,1010.0,0.0990099009901
+235,Lac Bastien,46.4,-78.916667,46.4,46.4,-78.916667,-78.916667,Vascular plants,Alnus viridis,1.0,NISP,pollen,,947.0,,,Radiocarbon years BP,960.0,305.0,pollen,6/30/2007,1037.0,0.0964320154291
+235,Lac Bastien,46.4,-78.916667,46.4,46.4,-78.916667,-78.916667,Vascular plants,Alnus viridis,2.0,NISP,pollen,,1391.0,,,Radiocarbon years BP,984.0,305.0,pollen,6/30/2007,1132.0,0.17667844523
+235,Lac Bastien,46.4,-78.916667,46.4,46.4,-78.916667,-78.916667,Vascular plants,Alnus viridis,2.0,NISP,pollen,,1540.0,,,Radiocarbon years BP,992.0,305.0,pollen,6/30/2007,1008.0,0.198412698413
+235,Lac Bastien,46.4,-78.916667,46.4,46.4,-78.916667,-78.916667,Vascular plants,Alnus viridis,1.0,NISP,pollen,,1691.0,,,Radiocarbon years BP,1000.0,305.0,pollen,6/30/2007,1069.0,0.0935453695042
+235,Lac Bastien,46.4,-78.916667,46.4,46.4,-78.916667,-78.916667,Vascular plants,Alnus viridis,1.0,NISP,pollen,,2149.0,,,Radiocarbon years BP,1024.0,305.0,pollen,6/30/2007,1004.0,0.0996015936255
+235,Lac Bastien,46.4,-78.916667,46.4,46.4,-78.916667,-78.916667,Vascular plants,Alnus viridis,1.0,NISP,pollen,,3093.0,,,Radiocarbon years BP,1072.0,305.0,pollen,6/30/2007,1027.0,0.0973709834469
+235,Lac Bastien,46.4,-78.916667,46.4,46.4,-78.916667,-78.916667,Vascular plants,Alnus viridis,2.0,NISP,pollen,,3253.0,,,Radiocarbon years BP,1080.0,305.0,pollen,6/30/2007,1037.0,0.192864030858
+235,Lac Bastien,46.4,-78.916667,46.4,46.4,-78.916667,-78.916667,Vascular plants,Alnus viridis,1.0,NISP,pollen,,3415.0,,,Radiocarbon years BP,1088.0,305.0,pollen,6/30/2007,1073.0,0.0931966449208
+235,Lac Bastien,46.4,-78.916667,46.4,46.4,-78.916667,-78.916667,Vascular plants,Alnus viridis,4.0,NISP,pollen,,3578.0,,,Radiocarbon years BP,1096.0,305.0,pollen,6/30/2007,1024.0,0.390625
+235,Lac Bastien,46.4,-78.916667,46.4,46.4,-78.916667,-78.916667,Vascular plants,Alnus viridis,3.0,NISP,pollen,,3762.0,,,Radiocarbon years BP,1105.0,305.0,pollen,6/30/2007,1039.0,0.288739172281
+235,Lac Bastien,46.4,-78.916667,46.4,46.4,-78.916667,-78.916667,Vascular plants,Alnus viridis,4.0,NISP,pollen,,4575.0,,,Radiocarbon years BP,1144.0,305.0,pollen,6/30/2007,1069.0,0.374181478017
+235,Lac Bastien,46.4,-78.916667,46.4,46.4,-78.916667,-78.916667,Vascular plants,Alnus viridis,5.0,NISP,pollen,,4744.0,,,Radiocarbon years BP,1152.0,305.0,pollen,6/30/2007,985.0,0.507614213198
+235,Lac Bastien,46.4,-78.916667,46.4,46.4,-78.916667,-78.916667,Vascular plants,Alnus viridis,3.0,NISP,pollen,,4915.0,,,Radiocarbon years BP,1160.0,305.0,pollen,6/30/2007,1037.0,0.289296046287
+235,Lac Bastien,46.4,-78.916667,46.4,46.4,-78.916667,-78.916667,Vascular plants,Alnus viridis,1.0,NISP,pollen,,5087.0,,,Radiocarbon years BP,1168.0,305.0,pollen,6/30/2007,991.0,0.100908173562
+235,Lac Bastien,46.4,-78.916667,46.4,46.4,-78.916667,-78.916667,Vascular plants,Alnus viridis,2.0,NISP,pollen,,5259.0,,,Radiocarbon years BP,1176.0,305.0,pollen,6/30/2007,1097.0,0.182315405652
+235,Lac Bastien,46.4,-78.916667,46.4,46.4,-78.916667,-78.916667,Vascular plants,Alnus viridis,1.0,NISP,pollen,,5433.0,,,Radiocarbon years BP,1184.0,305.0,pollen,6/30/2007,1051.0,0.0951474785918
+235,Lac Bastien,46.4,-78.916667,46.4,46.4,-78.916667,-78.916667,Vascular plants,Alnus viridis,4.0,NISP,pollen,,5607.0,,,Radiocarbon years BP,1192.0,305.0,pollen,6/30/2007,1064.0,0.375939849624
+235,Lac Bastien,46.4,-78.916667,46.4,46.4,-78.916667,-78.916667,Vascular plants,Alnus viridis,10.0,NISP,pollen,,5695.0,,,Radiocarbon years BP,1196.0,305.0,pollen,6/30/2007,1088.0,0.919117647059
+235,Lac Bastien,46.4,-78.916667,46.4,46.4,-78.916667,-78.916667,Vascular plants,Alnus viridis,8.0,NISP,pollen,,5783.0,,,Radiocarbon years BP,1200.0,305.0,pollen,6/30/2007,1078.0,0.742115027829
+235,Lac Bastien,46.4,-78.916667,46.4,46.4,-78.916667,-78.916667,Vascular plants,Alnus viridis,8.0,NISP,pollen,,5871.0,,,Radiocarbon years BP,1204.0,305.0,pollen,6/30/2007,983.0,0.813835198372
+235,Lac Bastien,46.4,-78.916667,46.4,46.4,-78.916667,-78.916667,Vascular plants,Alnus viridis,3.0,NISP,pollen,,5960.0,,,Radiocarbon years BP,1208.0,305.0,pollen,6/30/2007,1025.0,0.292682926829
+235,Lac Bastien,46.4,-78.916667,46.4,46.4,-78.916667,-78.916667,Vascular plants,Alnus viridis,9.0,NISP,pollen,,6137.0,,,Radiocarbon years BP,1216.0,305.0,pollen,6/30/2007,1018.0,0.884086444008
+235,Lac Bastien,46.4,-78.916667,46.4,46.4,-78.916667,-78.916667,Vascular plants,Alnus viridis,10.0,NISP,pollen,,6226.0,,,Radiocarbon years BP,1220.0,305.0,pollen,6/30/2007,1084.0,0.922509225092
+235,Lac Bastien,46.4,-78.916667,46.4,46.4,-78.916667,-78.916667,Vascular plants,Alnus viridis,7.0,NISP,pollen,,6316.0,,,Radiocarbon years BP,1224.0,305.0,pollen,6/30/2007,1052.0,0.665399239544
+235,Lac Bastien,46.4,-78.916667,46.4,46.4,-78.916667,-78.916667,Vascular plants,Alnus viridis,2.0,NISP,pollen,,6428.0,,,Radiocarbon years BP,1229.0,305.0,pollen,6/30/2007,1015.0,0.197044334975
+235,Lac Bastien,46.4,-78.916667,46.4,46.4,-78.916667,-78.916667,Vascular plants,Alnus viridis,3.0,NISP,pollen,,6540.0,,,Radiocarbon years BP,1234.0,305.0,pollen,6/30/2007,1120.0,0.267857142857
+235,Lac Bastien,46.4,-78.916667,46.4,46.4,-78.916667,-78.916667,Vascular plants,Alnus viridis,1.0,NISP,pollen,,6608.0,,,Radiocarbon years BP,1237.0,305.0,pollen,6/30/2007,1050.0,0.0952380952381
+235,Lac Bastien,46.4,-78.916667,46.4,46.4,-78.916667,-78.916667,Vascular plants,Alnus viridis,14.0,NISP,pollen,,6676.0,,,Radiocarbon years BP,1240.0,305.0,pollen,6/30/2007,1019.0,1.37389597645
+235,Lac Bastien,46.4,-78.916667,46.4,46.4,-78.916667,-78.916667,Vascular plants,Alnus viridis,8.0,NISP,pollen,,6949.0,,,Radiocarbon years BP,1252.0,305.0,pollen,6/30/2007,1068.0,0.749063670412
+235,Lac Bastien,46.4,-78.916667,46.4,46.4,-78.916667,-78.916667,Vascular plants,Alnus viridis,11.0,NISP,pollen,,7040.0,,,Radiocarbon years BP,1256.0,305.0,pollen,6/30/2007,978.0,1.12474437628
+235,Lac Bastien,46.4,-78.916667,46.4,46.4,-78.916667,-78.916667,Vascular plants,Alnus viridis,2.0,NISP,pollen,,7132.0,,,Radiocarbon years BP,1260.0,305.0,pollen,6/30/2007,960.0,0.208333333333
+235,Lac Bastien,46.4,-78.916667,46.4,46.4,-78.916667,-78.916667,Vascular plants,Alnus viridis,3.0,NISP,pollen,,7224.0,,,Radiocarbon years BP,1264.0,305.0,pollen,6/30/2007,1126.0,0.266429840142
+235,Lac Bastien,46.4,-78.916667,46.4,46.4,-78.916667,-78.916667,Vascular plants,Alnus viridis,50.0,NISP,pollen,,7316.0,,,Radiocarbon years BP,1268.0,305.0,pollen,6/30/2007,1071.0,4.6685340803
+235,Lac Bastien,46.4,-78.916667,46.4,46.4,-78.916667,-78.916667,Vascular plants,Alnus viridis,40.0,NISP,pollen,,7408.0,,,Radiocarbon years BP,1272.0,305.0,pollen,6/30/2007,1032.0,3.87596899225
+235,Lac Bastien,46.4,-78.916667,46.4,46.4,-78.916667,-78.916667,Vascular plants,Alnus viridis,92.0,NISP,pollen,,7501.0,,,Radiocarbon years BP,1276.0,305.0,pollen,6/30/2007,1140.0,8.0701754386
+235,Lac Bastien,46.4,-78.916667,46.4,46.4,-78.916667,-78.916667,Vascular plants,Alnus viridis,56.0,NISP,pollen,,7594.0,,,Radiocarbon years BP,1280.0,305.0,pollen,6/30/2007,1007.0,5.56107249255
+235,Lac Bastien,46.4,-78.916667,46.4,46.4,-78.916667,-78.916667,Vascular plants,Alnus viridis,68.0,NISP,pollen,,7687.0,,,Radiocarbon years BP,1284.0,305.0,pollen,6/30/2007,1049.0,6.48236415634
+235,Lac Bastien,46.4,-78.916667,46.4,46.4,-78.916667,-78.916667,Vascular plants,Alnus viridis,43.0,NISP,pollen,,7780.0,,,Radiocarbon years BP,1288.0,305.0,pollen,6/30/2007,1062.0,4.04896421846
+235,Lac Bastien,46.4,-78.916667,46.4,46.4,-78.916667,-78.916667,Vascular plants,Alnus viridis,60.0,NISP,pollen,,7874.0,,,Radiocarbon years BP,1292.0,305.0,pollen,6/30/2007,1003.0,5.98205383848
+235,Lac Bastien,46.4,-78.916667,46.4,46.4,-78.916667,-78.916667,Vascular plants,Alnus viridis,58.0,NISP,pollen,,7968.0,,,Radiocarbon years BP,1296.0,305.0,pollen,6/30/2007,1078.0,5.38033395176
+235,Lac Bastien,46.4,-78.916667,46.4,46.4,-78.916667,-78.916667,Vascular plants,Alnus viridis,91.0,NISP,pollen,,8156.0,,,Radiocarbon years BP,1304.0,305.0,pollen,6/30/2007,1074.0,8.4729981378
+235,Lac Bastien,46.4,-78.916667,46.4,46.4,-78.916667,-78.916667,Vascular plants,Alnus viridis,118.0,NISP,pollen,,8346.0,,,Radiocarbon years BP,1312.0,305.0,pollen,6/30/2007,991.0,11.9071644803
+235,Lac Bastien,46.4,-78.916667,46.4,46.4,-78.916667,-78.916667,Vascular plants,Alnus viridis,13.0,NISP,pollen,,8536.0,,,Radiocarbon years BP,1320.0,305.0,pollen,6/30/2007,993.0,1.30916414904
+235,Lac Bastien,46.4,-78.916667,46.4,46.4,-78.916667,-78.916667,Vascular plants,Alnus viridis,5.0,NISP,pollen,,8728.0,,,Radiocarbon years BP,1328.0,305.0,pollen,6/30/2007,1069.0,0.467726847521
+235,Lac Bastien,46.4,-78.916667,46.4,46.4,-78.916667,-78.916667,Vascular plants,Alnus viridis,7.0,NISP,pollen,,8920.0,,,Radiocarbon years BP,1336.0,305.0,pollen,6/30/2007,1053.0,0.664767331434
+235,Lac Bastien,46.4,-78.916667,46.4,46.4,-78.916667,-78.916667,Vascular plants,Alnus viridis,5.0,NISP,pollen,,9114.0,,,Radiocarbon years BP,1344.0,305.0,pollen,6/30/2007,1018.0,0.49115913556
+251,Belaya Skala Exposure,43.25,134.566667,43.25,43.25,134.566667,134.566667,Vascular plants,Alnus viridis,20.0,NISP,pollen,,1259.0,,,Radiocarbon years BP,10.0,4.0,pollen,6/30/2007,439.0,4.55580865604
+251,Belaya Skala Exposure,43.25,134.566667,43.25,43.25,134.566667,134.566667,Vascular plants,Alnus viridis,1.0,NISP,pollen,,2721.0,,,Radiocarbon years BP,60.0,4.0,pollen,6/30/2007,310.0,0.322580645161
+251,Belaya Skala Exposure,43.25,134.566667,43.25,43.25,134.566667,134.566667,Vascular plants,Alnus viridis,13.0,NISP,pollen,,3891.0,,,Radiocarbon years BP,100.0,4.0,pollen,6/30/2007,313.0,4.15335463259
+251,Belaya Skala Exposure,43.25,134.566667,43.25,43.25,134.566667,134.566667,Vascular plants,Alnus viridis,40.0,NISP,pollen,,5061.0,,,Radiocarbon years BP,140.0,4.0,pollen,6/30/2007,426.0,9.3896713615
+251,Belaya Skala Exposure,43.25,134.566667,43.25,43.25,134.566667,134.566667,Vascular plants,Alnus viridis,6.0,NISP,pollen,,5654.0,,,Radiocarbon years BP,180.0,4.0,pollen,6/30/2007,340.0,1.76470588235
+251,Belaya Skala Exposure,43.25,134.566667,43.25,43.25,134.566667,134.566667,Vascular plants,Alnus viridis,5.0,NISP,pollen,,5747.0,,,Radiocarbon years BP,195.0,4.0,pollen,6/30/2007,311.0,1.6077170418
+251,Belaya Skala Exposure,43.25,134.566667,43.25,43.25,134.566667,134.566667,Vascular plants,Alnus viridis,6.0,NISP,pollen,,5808.0,,,Radiocarbon years BP,205.0,4.0,pollen,6/30/2007,333.0,1.8018018018
+251,Belaya Skala Exposure,43.25,134.566667,43.25,43.25,134.566667,134.566667,Vascular plants,Alnus viridis,4.0,NISP,pollen,,5839.0,,,Radiocarbon years BP,210.0,4.0,pollen,6/30/2007,314.0,1.27388535032
+251,Belaya Skala Exposure,43.25,134.566667,43.25,43.25,134.566667,134.566667,Vascular plants,Alnus viridis,4.0,NISP,pollen,,5870.0,,,Radiocarbon years BP,215.0,4.0,pollen,6/30/2007,273.0,1.4652014652
+256,BI01,57.113333,-76.39,57.113333,57.113333,-76.39,-76.39,Vascular plants,Alnus viridis,123.0,NISP,pollen,,,,,,0.0,190.0,pollen surface sample,6/30/2007,,
+257,Lake BI2,57.116667,-76.378333,57.116667,57.116667,-76.378333,-76.378333,Vascular plants,Alnus viridis,89.0,NISP,pollen,,,,,,0.0,210.0,pollen surface sample,6/30/2007,,
+258,BI03,57.123333,-76.405,57.123333,57.123333,-76.405,-76.405,Vascular plants,Alnus viridis,70.0,NISP,pollen,,,,,,0.0,250.0,pollen surface sample,6/30/2007,,
+259,BI04,57.123333,-76.415,57.123333,57.123333,-76.415,-76.415,Vascular plants,Alnus viridis,102.0,NISP,pollen,,,,,,0.0,250.0,pollen surface sample,6/30/2007,,
+260,BI05,57.125,-76.408333,57.125,57.125,-76.408333,-76.408333,Vascular plants,Alnus viridis,58.0,NISP,pollen,,,,,,0.0,260.0,pollen surface sample,6/30/2007,,
+282,Lake BN1,55.0,-73.516667,55.0,55.0,-73.516667,-73.516667,Vascular plants,Alnus viridis,77.0,NISP,pollen,,,,,,0.0,395.0,pollen surface sample,6/30/2007,,
+283,Lake BN3,55.0,-73.561667,55.0,55.0,-73.561667,-73.561667,Vascular plants,Alnus viridis,43.0,NISP,pollen,,,,,,0.0,395.0,pollen surface sample,6/30/2007,,
+284,Lake BN6,55.001667,-73.541667,55.001667,55.001667,-73.541667,-73.541667,Vascular plants,Alnus viridis,91.0,NISP,pollen,,,,,,0.0,400.0,pollen surface sample,6/30/2007,,
+285,Lake BN2B,55.0,-73.55,55.0,55.0,-73.55,-73.55,Vascular plants,Alnus viridis,70.0,NISP,pollen,,,,,,0.0,395.0,pollen surface sample,6/30/2007,,
+286,Lake BN4B,55.001667,-73.558333,55.001667,55.001667,-73.558333,-73.558333,Vascular plants,Alnus viridis,50.0,NISP,pollen,,,,,,0.0,395.0,pollen surface sample,6/30/2007,,
+287,Lake BN5B,55.003333,-73.545,55.003333,55.003333,-73.545,-73.545,Vascular plants,Alnus viridis,42.0,NISP,pollen,,,,,,0.0,395.0,pollen surface sample,6/30/2007,,
+307,"Brown's Bay, Lake Minnetonka",44.95769,-93.545105,44.96674,44.94864,-93.5309,-93.55931,Vascular plants,Alnus viridis,1.0,NISP,pollen,,-32.0,,,Calendar years BP,1.5,300.0,pollen,6/30/2007,381.0,0.262467191601
+307,"Brown's Bay, Lake Minnetonka",44.95769,-93.545105,44.96674,44.94864,-93.5309,-93.55931,Vascular plants,Alnus viridis,1.0,NISP,pollen,,23.0,,,Calendar years BP,43.5,300.0,pollen,6/30/2007,445.0,0.224719101124
+307,"Brown's Bay, Lake Minnetonka",44.95769,-93.545105,44.96674,44.94864,-93.5309,-93.55931,Vascular plants,Alnus viridis,1.0,NISP,pollen,,46.0,,,Calendar years BP,51.5,300.0,pollen,6/30/2007,427.0,0.234192037471
+307,"Brown's Bay, Lake Minnetonka",44.95769,-93.545105,44.96674,44.94864,-93.5309,-93.55931,Vascular plants,Alnus viridis,2.0,NISP,pollen,,63.0,,,Calendar years BP,55.5,300.0,pollen,6/30/2007,331.0,0.604229607251
+307,"Brown's Bay, Lake Minnetonka",44.95769,-93.545105,44.96674,44.94864,-93.5309,-93.55931,Vascular plants,Alnus viridis,2.0,NISP,pollen,,133.0,,,Calendar years BP,67.5,300.0,pollen,6/30/2007,360.0,0.555555555556
+307,"Brown's Bay, Lake Minnetonka",44.95769,-93.545105,44.96674,44.94864,-93.5309,-93.55931,Vascular plants,Alnus viridis,1.0,NISP,pollen,,584.0,,,Calendar years BP,149.5,300.0,pollen,6/30/2007,393.0,0.254452926209
+318,Burntside Lake,47.924167,-91.994722,47.924167,47.924167,-91.994722,-91.994722,Vascular plants,Alnus viridis,9.0,NISP,pollen,,-24.0,,,Radiocarbon years BP,0.0,,pollen,6/30/2007,383.0,2.3498694517
+318,Burntside Lake,47.924167,-91.994722,47.924167,47.924167,-91.994722,-91.994722,Vascular plants,Alnus viridis,4.0,NISP,pollen,,17.0,,,Radiocarbon years BP,5.0,,pollen,6/30/2007,316.0,1.26582278481
+318,Burntside Lake,47.924167,-91.994722,47.924167,47.924167,-91.994722,-91.994722,Vascular plants,Alnus viridis,8.0,NISP,pollen,,59.0,,,Radiocarbon years BP,10.0,,pollen,6/30/2007,422.0,1.89573459716
+318,Burntside Lake,47.924167,-91.994722,47.924167,47.924167,-91.994722,-91.994722,Vascular plants,Alnus viridis,16.0,NISP,pollen,,100.0,,,Radiocarbon years BP,15.0,,pollen,6/30/2007,309.0,5.17799352751
+318,Burntside Lake,47.924167,-91.994722,47.924167,47.924167,-91.994722,-91.994722,Vascular plants,Alnus viridis,5.0,NISP,pollen,,125.0,,,Radiocarbon years BP,18.0,,pollen,6/30/2007,191.0,2.61780104712
+318,Burntside Lake,47.924167,-91.994722,47.924167,47.924167,-91.994722,-91.994722,Vascular plants,Alnus viridis,8.0,NISP,pollen,,133.0,,,Radiocarbon years BP,19.0,,pollen,6/30/2007,195.0,4.10256410256
+318,Burntside Lake,47.924167,-91.994722,47.924167,47.924167,-91.994722,-91.994722,Vascular plants,Alnus viridis,5.0,NISP,pollen,,142.0,,,Radiocarbon years BP,20.0,,pollen,6/30/2007,289.0,1.73010380623
+318,Burntside Lake,47.924167,-91.994722,47.924167,47.924167,-91.994722,-91.994722,Vascular plants,Alnus viridis,9.0,NISP,pollen,,150.0,,,Radiocarbon years BP,21.0,,pollen,6/30/2007,336.0,2.67857142857
+318,Burntside Lake,47.924167,-91.994722,47.924167,47.924167,-91.994722,-91.994722,Vascular plants,Alnus viridis,10.0,NISP,pollen,,183.0,,,Radiocarbon years BP,25.0,,pollen,6/30/2007,589.0,1.69779286927
+318,Burntside Lake,47.924167,-91.994722,47.924167,47.924167,-91.994722,-91.994722,Vascular plants,Alnus viridis,9.0,NISP,pollen,,225.0,,,Radiocarbon years BP,30.0,,pollen,6/30/2007,397.0,2.26700251889
+318,Burntside Lake,47.924167,-91.994722,47.924167,47.924167,-91.994722,-91.994722,Vascular plants,Alnus viridis,15.0,NISP,pollen,,266.0,,,Radiocarbon years BP,35.0,,pollen,6/30/2007,400.0,3.75
+318,Burntside Lake,47.924167,-91.994722,47.924167,47.924167,-91.994722,-91.994722,Vascular plants,Alnus viridis,6.0,NISP,pollen,,307.0,,,Radiocarbon years BP,40.0,,pollen,6/30/2007,466.0,1.28755364807
+318,Burntside Lake,47.924167,-91.994722,47.924167,47.924167,-91.994722,-91.994722,Vascular plants,Alnus viridis,3.0,NISP,pollen,,390.0,,,Radiocarbon years BP,50.0,,pollen,6/30/2007,401.0,0.74812967581
+318,Burntside Lake,47.924167,-91.994722,47.924167,47.924167,-91.994722,-91.994722,Vascular plants,Alnus viridis,7.0,NISP,pollen,,473.0,,,Radiocarbon years BP,60.0,,pollen,6/30/2007,208.0,3.36538461538
+318,Burntside Lake,47.924167,-91.994722,47.924167,47.924167,-91.994722,-91.994722,Vascular plants,Alnus viridis,3.0,NISP,pollen,,556.0,,,Radiocarbon years BP,70.0,,pollen,6/30/2007,336.0,0.892857142857
+318,Burntside Lake,47.924167,-91.994722,47.924167,47.924167,-91.994722,-91.994722,Vascular plants,Alnus viridis,7.0,NISP,pollen,,639.0,,,Radiocarbon years BP,80.0,,pollen,6/30/2007,300.0,2.33333333333
+318,Burntside Lake,47.924167,-91.994722,47.924167,47.924167,-91.994722,-91.994722,Vascular plants,Alnus viridis,2.0,NISP,pollen,,722.0,,,Radiocarbon years BP,90.0,,pollen,6/30/2007,390.0,0.512820512821
+318,Burntside Lake,47.924167,-91.994722,47.924167,47.924167,-91.994722,-91.994722,Vascular plants,Alnus viridis,9.0,NISP,pollen,,805.0,,,Radiocarbon years BP,100.0,,pollen,6/30/2007,380.0,2.36842105263
+318,Burntside Lake,47.924167,-91.994722,47.924167,47.924167,-91.994722,-91.994722,Vascular plants,Alnus viridis,5.0,NISP,pollen,,846.0,,,Radiocarbon years BP,105.0,,pollen,6/30/2007,314.0,1.5923566879
+318,Burntside Lake,47.924167,-91.994722,47.924167,47.924167,-91.994722,-91.994722,Vascular plants,Alnus viridis,3.0,NISP,pollen,,904.0,,,Radiocarbon years BP,112.0,,pollen,6/30/2007,404.0,0.742574257426

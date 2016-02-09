@@ -1,0 +1,24 @@
+siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
+10,Site 1 (Cohen unpublished),30.83,-82.33,30.83,30.83,-82.33,-82.33,Vascular plants,Nymphaeaceae undiff.,5.0,NISP,pollen,,,,,,0.0,37.0,pollen surface sample,6/30/2007,,
+321,Cahaba Pond,33.5,-86.533333,33.5,33.5,-86.533333,-86.533333,Vascular plants,Nymphaeaceae undiff.,1.0,NISP,pollen,,10130.0,,,Radiocarbon years BP,520.0,204.0,pollen,6/30/2007,401.0,0.249376558603
+582,Site 19 (Delcourt  et al. 1983),31.55,-91.2,31.55,31.55,-91.2,-91.2,Vascular plants,Nymphaeaceae undiff.,1.0,NISP,pollen,,,,,,0.0,110.0,pollen surface sample,6/30/2007,,
+629,Site 66 (Delcourt  et al. 1983),30.82,-85.37,30.82,30.82,-85.37,-85.37,Vascular plants,Nymphaeaceae undiff.,1.0,NISP,pollen,,,,,,0.0,40.0,pollen surface sample,6/30/2007,,
+679,Dismal Swamp (91),36.583333,-76.45,36.583333,36.583333,-76.45,-76.45,Vascular plants,Nymphaeaceae undiff.,1.0,NISP,pollen,,7701.0,,,Radiocarbon years BP,180.0,6.0,pollen,6/30/2007,322.0,0.310559006211
+786,Ernst Brother's Pit,43.233056,-88.041944,43.233056,43.233056,-88.041944,-88.041944,Vascular plants,Nymphaeaceae undiff.,4.0,NISP,pollen,,9695.0,,,Radiocarbon years BP,130.0,244.0,pollen,6/30/2007,225.0,1.77777777778
+830,Saint-Gabriel,46.275833,-73.475833,46.275833,46.275833,-73.475833,-73.475833,Vascular plants,Nymphaeaceae undiff.,1.0,NISP,pollen,,4354.0,,,Radiocarbon years BP,525.0,250.0,pollen,6/30/2007,511.0,0.195694716243
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Nymphaeaceae undiff.,2.0,NISP,pollen,,6646.0,,,Radiocarbon years BP,1550.0,4.0,pollen,6/30/2007,304.0,0.657894736842
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Nymphaeaceae undiff.,4.0,NISP,pollen,,6768.0,,,Radiocarbon years BP,1595.0,4.0,pollen,6/30/2007,350.0,1.14285714286
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Nymphaeaceae undiff.,3.0,NISP,pollen,,7077.0,,,Radiocarbon years BP,1710.0,4.0,pollen,6/30/2007,268.0,1.11940298507
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Nymphaeaceae undiff.,5.0,NISP,pollen,,8801.0,,,Radiocarbon years BP,2350.0,4.0,pollen,6/30/2007,184.0,2.71739130435
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Nymphaeaceae undiff.,1.0,NISP,pollen,,9205.0,,,Radiocarbon years BP,2500.0,4.0,pollen,6/30/2007,514.0,0.194552529183
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Nymphaeaceae undiff.,12.0,NISP,pollen,,9475.0,,,Radiocarbon years BP,2600.0,4.0,pollen,6/30/2007,632.0,1.89873417722
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Nymphaeaceae undiff.,7.0,NISP,pollen,,10000.0,,,Radiocarbon years BP,2795.0,4.0,pollen,6/30/2007,237.0,2.95358649789
+940,Goshen Springs,31.721111,-86.134167,31.721111,31.721111,-86.134167,-86.134167,Vascular plants,Nymphaeaceae undiff.,1.0,NISP,pollen,,50.0,,,Radiocarbon years BP,45.0,105.0,pollen,6/30/2007,483.0,0.207039337474
+940,Goshen Springs,31.721111,-86.134167,31.721111,31.721111,-86.134167,-86.134167,Vascular plants,Nymphaeaceae undiff.,16.0,NISP,pollen,,772.0,,,Radiocarbon years BP,75.0,105.0,pollen,6/30/2007,376.0,4.25531914894
+940,Goshen Springs,31.721111,-86.134167,31.721111,31.721111,-86.134167,-86.134167,Vascular plants,Nymphaeaceae undiff.,1.0,NISP,pollen,,1154.0,,,Radiocarbon years BP,85.0,105.0,pollen,6/30/2007,371.0,0.269541778976
+940,Goshen Springs,31.721111,-86.134167,31.721111,31.721111,-86.134167,-86.134167,Vascular plants,Nymphaeaceae undiff.,1.0,NISP,pollen,,1585.0,,,Radiocarbon years BP,95.0,105.0,pollen,6/30/2007,395.0,0.253164556962
+940,Goshen Springs,31.721111,-86.134167,31.721111,31.721111,-86.134167,-86.134167,Vascular plants,Nymphaeaceae undiff.,2.0,NISP,pollen,,2545.0,,,Radiocarbon years BP,115.0,105.0,pollen,6/30/2007,419.0,0.477326968974
+940,Goshen Springs,31.721111,-86.134167,31.721111,31.721111,-86.134167,-86.134167,Vascular plants,Nymphaeaceae undiff.,2.0,NISP,pollen,,3986.0,,,Radiocarbon years BP,145.0,105.0,pollen,6/30/2007,400.0,0.5
+940,Goshen Springs,31.721111,-86.134167,31.721111,31.721111,-86.134167,-86.134167,Vascular plants,Nymphaeaceae undiff.,1.0,NISP,pollen,,4467.0,,,Radiocarbon years BP,155.0,105.0,pollen,6/30/2007,426.0,0.234741784038
+940,Goshen Springs,31.721111,-86.134167,31.721111,31.721111,-86.134167,-86.134167,Vascular plants,Nymphaeaceae undiff.,1.0,NISP,pollen,,26624.0,,,Radiocarbon years BP,255.0,105.0,pollen,6/30/2007,420.0,0.238095238095
+1355,Joe Lake,66.766667,-157.216667,66.766667,66.766667,-157.216667,-157.216667,Vascular plants,Nymphaeaceae undiff.,1.0,NISP,pollen,,16013.0,,,Radiocarbon years BP,430.0,183.0,pollen,6/30/2007,512.0,0.1953125

@@ -1,0 +1,14 @@
+siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
+322,Saint-Calixte,45.961111,-73.868056,45.961111,45.961111,-73.868056,-73.868056,Vascular plants,Rhamnus cathartica,2.0,NISP,pollen,,540.0,,,Radiocarbon years BP,25.0,261.0,pollen,6/30/2007,695.0,0.287769784173
+322,Saint-Calixte,45.961111,-73.868056,45.961111,45.961111,-73.868056,-73.868056,Vascular plants,Rhamnus cathartica,1.0,NISP,pollen,,3241.0,,,Radiocarbon years BP,150.0,261.0,pollen,6/30/2007,787.0,0.12706480305
+322,Saint-Calixte,45.961111,-73.868056,45.961111,45.961111,-73.868056,-73.868056,Vascular plants,Rhamnus cathartica,1.0,NISP,pollen,,3603.0,,,Radiocarbon years BP,175.0,261.0,pollen,6/30/2007,620.0,0.161290322581
+658,Delorme 1,54.418889,-69.918889,54.418889,54.418889,-69.918889,-69.918889,Vascular plants,Rhamnus cathartica,1.0,NISP,pollen,,1377.0,,,Radiocarbon years BP,40.0,513.0,pollen,6/30/2007,446.0,0.224215246637
+1643,Mansell Pond,45.041667,-68.733333,45.041667,45.041667,-68.733333,-68.733333,Vascular plants,Rhamnus cathartica,1.0,NISP,pollen,,1.0,,,Radiocarbon years BP,671.0,58.0,pollen,6/30/2007,1226.5,0.0815328169588
+1647,Lac Marcotte,47.077778,-71.422778,47.077778,47.077778,-71.422778,-71.422778,Vascular plants,Rhamnus cathartica,1.0,NISP,pollen,,8937.0,,,Radiocarbon years BP,285.0,503.0,pollen,6/30/2007,425.0,0.235294117647
+1658,Baie des Onze Iles,46.746944,-73.130833,46.746944,46.746944,-73.130833,-73.130833,Vascular plants,Rhamnus cathartica,1.0,NISP,pollen,,,,,,75.0,395.0,pollen,6/30/2007,630.0,0.15873015873
+1659,Wapizagonke,46.726389,-73.030556,46.726389,46.726389,-73.030556,-73.030556,Vascular plants,Rhamnus cathartica,1.0,NISP,pollen,,7797.0,,,Radiocarbon years BP,475.0,230.0,pollen,6/30/2007,474.0,0.210970464135
+1786,Ozerki,50.416667,80.466667,50.416667,50.416667,80.466667,80.466667,Vascular plants,Rhamnus cathartica,1.0,NISP,pollen,,8343.0,,,Radiocarbon years BP,360.0,,pollen,6/30/2007,266.0,0.375939849624
+1786,Ozerki,50.416667,80.466667,50.416667,50.416667,80.466667,80.466667,Vascular plants,Rhamnus cathartica,1.0,NISP,pollen,,8818.0,,,Radiocarbon years BP,380.0,,pollen,6/30/2007,229.0,0.436681222707
+2262,Lac Manitou,46.057778,-74.466944,46.057778,46.057778,-74.466944,-74.466944,Vascular plants,Rhamnus cathartica,1.0,NISP,pollen,,284.0,,,Radiocarbon years BP,25.0,454.0,pollen,6/30/2007,719.0,0.139082058414
+2263,Lac aux Quenouilles,46.171944,-74.395833,46.171944,46.171944,-74.395833,-74.395833,Vascular plants,Rhamnus cathartica,1.0,NISP,pollen,,50.0,,,Radiocarbon years BP,5.0,403.0,pollen,6/30/2007,629.0,0.158982511924
+2296,Mont Shefford,45.358889,-72.584722,45.358889,45.358889,-72.584722,-72.584722,Vascular plants,Rhamnus cathartica,1.0,NISP,pollen,,8566.0,,,Radiocarbon years BP,460.0,282.0,pollen,6/30/2007,514.0,0.194552529183

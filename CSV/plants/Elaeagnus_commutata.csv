@@ -1,0 +1,4 @@
+siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
+217,Lac des Atocas,45.543056,-73.311111,45.543056,45.543056,-73.311111,-73.311111,Vascular plants,Elaeagnus commutata,1.0,NISP,pollen,,1942.0,,,Radiocarbon years BP,175.0,114.0,pollen,6/30/2007,711.0,0.14064697609
+338,Lac Castor,46.613889,-72.998611,46.613889,46.613889,-72.998611,-72.998611,Vascular plants,Elaeagnus commutata,1.0,NISP,pollen,,,,,Radiocarbon years BP,820.0,220.0,pollen,6/30/2007,1010.0,0.0990099009901
+512,Crowfoot Lake,51.65,-116.416667,51.65,51.65,-116.416667,-116.416667,Vascular plants,Elaeagnus commutata,1.0,NISP,pollen,,11159.0,,,Radiocarbon years BP,235.0,1940.0,pollen,6/30/2007,706.0,0.14164305949

@@ -1,0 +1,12 @@
+siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
+229,Barchampe Lake,30.622222,-83.253889,30.622222,30.622222,-83.253889,-83.253889,Vascular plants,Arecaceae undiff.,1.0,NISP,pollen,,1040.0,,,Radiocarbon years BP,553.0,34.0,pollen,6/30/2007,455.0,0.21978021978
+229,Barchampe Lake,30.622222,-83.253889,30.622222,30.622222,-83.253889,-83.253889,Vascular plants,Arecaceae undiff.,1.0,NISP,pollen,,1774.0,,,Radiocarbon years BP,593.0,34.0,pollen,6/30/2007,648.0,0.154320987654
+229,Barchampe Lake,30.622222,-83.253889,30.622222,30.622222,-83.253889,-83.253889,Vascular plants,Arecaceae undiff.,1.0,NISP,pollen,,2876.0,,,Radiocarbon years BP,653.0,34.0,pollen,6/30/2007,684.0,0.146198830409
+324,Camel Lake,30.266667,-85.016667,30.266667,30.266667,-85.016667,-85.016667,Vascular plants,Arecaceae undiff.,1.0,NISP,pollen,,7144.0,,,Radiocarbon years BP,470.0,20.0,pollen,6/30/2007,586.0,0.170648464164
+324,Camel Lake,30.266667,-85.016667,30.266667,30.266667,-85.016667,-85.016667,Vascular plants,Arecaceae undiff.,1.0,NISP,pollen,,7637.0,,,Radiocarbon years BP,472.0,20.0,pollen,6/30/2007,546.0,0.18315018315
+324,Camel Lake,30.266667,-85.016667,30.266667,30.266667,-85.016667,-85.016667,Vascular plants,Arecaceae undiff.,2.0,NISP,pollen,,8376.0,,,Radiocarbon years BP,475.0,20.0,pollen,6/30/2007,660.0,0.30303030303
+324,Camel Lake,30.266667,-85.016667,30.266667,30.266667,-85.016667,-85.016667,Vascular plants,Arecaceae undiff.,1.0,NISP,pollen,,10596.0,,,Radiocarbon years BP,494.0,20.0,pollen,6/30/2007,388.0,0.257731958763
+324,Camel Lake,30.266667,-85.016667,30.266667,30.266667,-85.016667,-85.016667,Vascular plants,Arecaceae undiff.,1.0,NISP,pollen,,11084.0,,,Radiocarbon years BP,512.0,20.0,pollen,6/30/2007,386.0,0.259067357513
+324,Camel Lake,30.266667,-85.016667,30.266667,30.266667,-85.016667,-85.016667,Vascular plants,Arecaceae undiff.,1.0,NISP,pollen,,30706.0,,,Radiocarbon years BP,915.0,20.0,pollen,6/30/2007,736.0,0.135869565217
+324,Camel Lake,30.266667,-85.016667,30.266667,30.266667,-85.016667,-85.016667,Vascular plants,Arecaceae undiff.,2.0,NISP,pollen,,34044.0,,,Radiocarbon years BP,1155.0,20.0,pollen,6/30/2007,631.0,0.316957210777
+324,Camel Lake,30.266667,-85.016667,30.266667,30.266667,-85.016667,-85.016667,Vascular plants,Arecaceae undiff.,1.0,NISP,pollen,,35017.0,,,Radiocarbon years BP,1225.0,20.0,pollen,6/30/2007,563.0,0.177619893428

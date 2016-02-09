@@ -1,0 +1,4 @@
+siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
+7,Three Pines Bog,47.0,-80.116667,47.0,47.0,-80.116667,-80.116667,Vascular plants,Typha latifolia,1.0,NISP,pollen,,-26.0,,,Radiocarbon years BP,1.0,294.0,pollen,6/30/2007,461.0,0.216919739696
+7,Three Pines Bog,47.0,-80.116667,47.0,47.0,-80.116667,-80.116667,Vascular plants,Typha latifolia,1.0,NISP,pollen,,3859.0,,,Radiocarbon years BP,210.0,294.0,pollen,6/30/2007,410.0,0.243902439024
+7,Three Pines Bog,47.0,-80.116667,47.0,47.0,-80.116667,-80.116667,Vascular plants,Typha latifolia,1.0,NISP,pollen,,5705.0,,,Radiocarbon years BP,340.0,294.0,pollen,6/30/2007,404.0,0.247524752475

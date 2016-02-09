@@ -1,0 +1,41 @@
+siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
+500,Cottonwood Lake,44.835435,-99.90806,44.84519,44.82568,-99.89006,-99.92606,Vascular plants,Maclura pomifera-type,1.0,NISP,pollen,,10511.0,,,Radiocarbon years BP,916.0,549.0,pollen,6/30/2007,693.0,0.1443001443
+824,French Lake,44.945765,-94.42074,44.9482,44.94333,-94.41676,-94.42472,Vascular plants,Maclura pomifera-type,2.0,NISP,pollen,,20.0,,,Radiocarbon years BP,620.0,327.0,pollen,6/30/2007,901.5,0.221852468109
+824,French Lake,44.945765,-94.42074,44.9482,44.94333,-94.41676,-94.42472,Vascular plants,Maclura pomifera-type,2.0,NISP,pollen,,41.0,,,Radiocarbon years BP,630.0,327.0,pollen,6/30/2007,821.0,0.243605359318
+824,French Lake,44.945765,-94.42074,44.9482,44.94333,-94.41676,-94.42472,Vascular plants,Maclura pomifera-type,1.0,NISP,pollen,,83.0,,,Radiocarbon years BP,650.0,327.0,pollen,6/30/2007,828.5,0.12070006035
+824,French Lake,44.945765,-94.42074,44.9482,44.94333,-94.41676,-94.42472,Vascular plants,Maclura pomifera-type,1.0,NISP,pollen,,610.0,,,Radiocarbon years BP,740.0,327.0,pollen,6/30/2007,756.0,0.132275132275
+824,French Lake,44.945765,-94.42074,44.9482,44.94333,-94.41676,-94.42472,Vascular plants,Maclura pomifera-type,1.0,NISP,pollen,,1572.0,,,Radiocarbon years BP,860.0,327.0,pollen,6/30/2007,864.0,0.115740740741
+824,French Lake,44.945765,-94.42074,44.9482,44.94333,-94.41676,-94.42472,Vascular plants,Maclura pomifera-type,1.0,NISP,pollen,,1893.0,,,Radiocarbon years BP,900.0,327.0,pollen,6/30/2007,778.5,0.128452151574
+824,French Lake,44.945765,-94.42074,44.9482,44.94333,-94.41676,-94.42472,Vascular plants,Maclura pomifera-type,1.0,NISP,pollen,,2808.0,,,Radiocarbon years BP,1040.0,327.0,pollen,6/30/2007,719.5,0.138985406532
+1526,Kylen Lake,47.35,-91.8,47.35,47.35,-91.8,-91.8,Vascular plants,Maclura pomifera-type,1.0,NISP,pollen,,9728.0,,,Radiocarbon years BP,840.0,485.0,pollen,6/30/2007,975.0,0.102564102564
+1586,Lily Lake (US:Minnesota),45.05,-92.825,45.05,45.05,-92.825,-92.825,Vascular plants,Maclura pomifera-type,1.0,NISP,pollen,,350.0,,,Radiocarbon years BP,1315.0,258.0,pollen,6/30/2007,248.0,0.403225806452
+2933,Wolsfeld Lake,45.005,-93.5727,45.008,45.002,-93.5684,-93.577,Vascular plants,Maclura pomifera-type,1.0,NISP,pollen,,742.0,,,Radiocarbon years BP,738.0,292.0,pollen,6/30/2007,966.0,0.103519668737
+2933,Wolsfeld Lake,45.005,-93.5727,45.008,45.002,-93.5684,-93.577,Vascular plants,Maclura pomifera-type,1.0,NISP,pollen,,1097.0,,,Radiocarbon years BP,803.0,292.0,pollen,6/30/2007,982.5,0.101781170483
+2933,Wolsfeld Lake,45.005,-93.5727,45.008,45.002,-93.5684,-93.577,Vascular plants,Maclura pomifera-type,1.0,NISP,pollen,,3146.0,,,Radiocarbon years BP,1010.0,292.0,pollen,6/30/2007,850.5,0.117577895356
+2933,Wolsfeld Lake,45.005,-93.5727,45.008,45.002,-93.5684,-93.577,Vascular plants,Maclura pomifera-type,1.0,NISP,pollen,,5218.0,,,Radiocarbon years BP,1290.0,292.0,pollen,6/30/2007,860.0,0.116279069767
+2933,Wolsfeld Lake,45.005,-93.5727,45.008,45.002,-93.5684,-93.577,Vascular plants,Maclura pomifera-type,1.0,NISP,pollen,,7856.0,,,Radiocarbon years BP,1510.0,292.0,pollen,6/30/2007,421.0,0.237529691211
+9669,Sheridan State Fishing Lake,39.36248,-100.22989,39.36742,39.35754,-100.22603,-100.23375,Vascular plants,Maclura pomifera-type,3.0,NISP,pollen,,-54.0,,,Calendar years BP,,748.0,pollen surface sample,6/30/2014,,
+9719,Turkey 3 Pond,39.10711,-96.58687,39.10723,39.10699,-96.58672,-96.58702,Vascular plants,Maclura pomifera-type,20.0,NISP,pollen,,-58.0,,,Calendar years BP,,365.0,pollen surface sample,8/12/2014,,
+9720,Haines Pond,39.32589,-96.6844,39.32625,39.32553,-96.68398,-96.68482,Vascular plants,Maclura pomifera-type,21.0,NISP,pollen,,-58.0,,,Calendar years BP,,392.0,pollen surface sample,8/12/2014,,
+9721,Bull Pond,39.391925,-96.928015,39.39256,39.39129,-96.92774,-96.92829,Vascular plants,Maclura pomifera-type,4.0,NISP,pollen,,-58.0,,,Calendar years BP,,431.0,pollen surface sample,8/12/2014,,
+9722,Picnic Pond,39.443365,-96.84034,39.44378,39.44295,-96.8399,-96.84078,Vascular plants,Maclura pomifera-type,22.0,NISP,pollen,,-58.0,,,Calendar years BP,,373.0,pollen surface sample,8/12/2014,,
+9723,Rannells Ranch Pond,39.137365,-96.53011,39.13777,39.13696,-96.52973,-96.53049,Vascular plants,Maclura pomifera-type,16.0,NISP,pollen,,-58.0,,,Calendar years BP,,398.0,pollen surface sample,8/12/2014,,
+9724,Sunrock Pond,38.94889,-96.781,38.94941,38.94837,-96.78041,-96.78159,Vascular plants,Maclura pomifera-type,54.0,NISP,pollen,,-59.0,,,Calendar years BP,,389.0,pollen surface sample,8/12/2014,,
+9725,Tallgrass 1 Pond,38.434275,-96.563565,38.43473,38.43382,-96.56296,-96.56417,Vascular plants,Maclura pomifera-type,12.0,NISP,pollen,,-59.0,,,Calendar years BP,,389.0,pollen surface sample,8/12/2014,,
+9726,Tallgrass 2 Pond,38.40737,-96.560305,38.40799,38.40675,-96.55954,-96.56107,Vascular plants,Maclura pomifera-type,10.0,NISP,pollen,,-59.0,,,Calendar years BP,,379.0,pollen surface sample,8/12/2014,,
+9727,4H Pond [Lake Bluestem],38.86432,-96.90135,38.86478,38.86386,-96.90067,-96.90203,Vascular plants,Maclura pomifera-type,28.0,NISP,pollen,,-59.0,,,Calendar years BP,,371.0,pollen surface sample,8/12/2014,,
+9728,Banker Pond,38.399265,-96.46875,38.40025,38.39828,-96.46799,-96.46951,Vascular plants,Maclura pomifera-type,26.0,NISP,pollen,,-59.0,,,Calendar years BP,,368.0,pollen surface sample,8/12/2014,,
+9729,Elm Pond,39.093155,-96.55071,39.09339,39.09292,-96.55032,-96.5511,Vascular plants,Maclura pomifera-type,30.0,NISP,pollen,,-59.0,,,Calendar years BP,,428.0,pollen surface sample,8/12/2014,,
+9730,Ferrell Upland Pond,37.580095,-96.542475,37.58095,37.57924,-96.54163,-96.54332,Vascular plants,Maclura pomifera-type,4.0,NISP,pollen,,-59.0,,,Calendar years BP,,491.0,pollen surface sample,8/12/2014,,
+9731,Ferrell Lowland Pond,37.59335,-96.50677,37.59396,37.59274,-96.50637,-96.50717,Vascular plants,Maclura pomifera-type,1.0,NISP,pollen,,-59.0,,,Calendar years BP,,435.0,pollen surface sample,8/12/2014,,
+9736,Chalk Zimmermann Pond,38.757795,-96.320045,38.75865,38.75694,-96.31941,-96.32068,Vascular plants,Maclura pomifera-type,20.0,NISP,pollen,,-59.0,,,Calendar years BP,,419.0,pollen surface sample,8/14/2014,,
+9737,Houck Pond,38.74185,-96.28077,38.74213,38.74157,-96.28025,-96.28129,Vascular plants,Maclura pomifera-type,18.0,NISP,pollen,,-59.0,,,Calendar years BP,,438.0,pollen surface sample,8/14/2014,,
+9740,Flint Oak Pond,37.518515,-96.043715,37.51895,37.51808,-96.04313,-96.0443,Vascular plants,Maclura pomifera-type,3.0,NISP,pollen,,-59.0,,,Calendar years BP,,336.0,pollen surface sample,8/14/2014,,
+9741,Greenwood Pond,37.93724,-96.20088,37.93771,37.93677,-96.20028,-96.20148,Vascular plants,Maclura pomifera-type,11.0,NISP,pollen,,-59.0,,,Calendar years BP,,338.0,pollen surface sample,8/14/2014,,
+9742,New Konza Pond,38.948315,-96.441615,38.94846,38.94817,-96.44146,-96.44177,Vascular plants,Maclura pomifera-type,18.0,NISP,pollen,,-59.0,,,Calendar years BP,,392.0,pollen surface sample,8/14/2014,,
+9743,Pott 1 Pond,39.316445,-96.37635,39.31698,39.31591,-96.37591,-96.37679,Vascular plants,Maclura pomifera-type,42.0,NISP,pollen,,-59.0,,,Calendar years BP,,346.0,pollen surface sample,8/14/2014,,
+9744,Schwant Pond,39.473045,-96.346745,39.47337,39.47272,-96.34607,-96.34742,Vascular plants,Maclura pomifera-type,55.0,NISP,pollen,,-59.0,,,Calendar years BP,,410.0,pollen surface sample,8/14/2014,,
+9745,Goode Pond,39.460005,-96.5371,39.46092,39.45909,-96.53639,-96.53781,Vascular plants,Maclura pomifera-type,16.0,NISP,pollen,,-59.0,,,Calendar years BP,,419.0,pollen surface sample,8/14/2014,,
+9746,Hippie 1 Pond,38.10608,-96.45788,38.10655,38.10561,-96.45753,-96.45823,Vascular plants,Maclura pomifera-type,26.0,NISP,pollen,,-59.0,,,Calendar years BP,,477.0,pollen surface sample,8/14/2014,,
+9747,Hippie 2 Pond,38.127245,-96.480785,38.12779,38.1267,-96.47997,-96.4816,Vascular plants,Maclura pomifera-type,20.0,NISP,pollen,,-59.0,,,Calendar years BP,,472.0,pollen surface sample,8/14/2014,,
+9748,Byer Pond,39.373185,-96.11764,39.37353,39.37284,-96.11726,-96.11802,Vascular plants,Maclura pomifera-type,8.0,NISP,pollen,,-59.0,,,Calendar years BP,,367.0,pollen surface sample,8/15/2014,,

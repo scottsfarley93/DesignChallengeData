@@ -1,0 +1,219 @@
+siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
+7,Three Pines Bog,47.0,-80.116667,47.0,47.0,-80.116667,-80.116667,Vascular plants,Juglans nigra,1.0,NISP,pollen,,10.0,,,Radiocarbon years BP,10.0,294.0,pollen,6/30/2007,397.0,0.251889168766
+7,Three Pines Bog,47.0,-80.116667,47.0,47.0,-80.116667,-80.116667,Vascular plants,Juglans nigra,1.0,NISP,pollen,,447.0,,,Radiocarbon years BP,50.0,294.0,pollen,6/30/2007,391.0,0.255754475703
+7,Three Pines Bog,47.0,-80.116667,47.0,47.0,-80.116667,-80.116667,Vascular plants,Juglans nigra,1.0,NISP,pollen,,2247.0,,,Radiocarbon years BP,130.0,294.0,pollen,6/30/2007,437.0,0.228832951945
+29,Lake Allie,44.8036,-94.5579,44.8138,44.7934,-94.5483,-94.5675,Vascular plants,Juglans nigra,1.0,NISP,pollen,,18.0,,,Radiocarbon years BP,10.0,328.0,pollen,6/30/2007,415.0,0.240963855422
+29,Lake Allie,44.8036,-94.5579,44.8138,44.7934,-94.5483,-94.5675,Vascular plants,Juglans nigra,2.0,NISP,pollen,,379.0,,,Radiocarbon years BP,120.0,328.0,pollen,6/30/2007,373.0,0.536193029491
+29,Lake Allie,44.8036,-94.5579,44.8138,44.7934,-94.5483,-94.5675,Vascular plants,Juglans nigra,2.0,NISP,pollen,,478.0,,,Radiocarbon years BP,150.0,328.0,pollen,6/30/2007,338.0,0.591715976331
+30,Almora Lake,46.206111,-95.293611,46.206111,46.206111,-95.293611,-95.293611,Vascular plants,Juglans nigra,1.0,NISP,pollen,,6400.0,,,Radiocarbon years BP,412.0,437.0,pollen,6/30/2007,326.0,0.306748466258
+30,Almora Lake,46.206111,-95.293611,46.206111,46.206111,-95.293611,-95.293611,Vascular plants,Juglans nigra,1.0,NISP,pollen,,9705.0,,,Radiocarbon years BP,479.5,437.0,pollen,6/30/2007,442.0,0.226244343891
+120,Site 50 (Swain unpublished),42.1,-78.75,42.1,42.1,-78.75,-78.75,Vascular plants,Juglans nigra,1.0,NISP,pollen,,,,,,0.0,427.0,pollen surface sample,6/30/2007,,
+130,Site 60 (Swain unpublished),41.58,-76.17,41.58,41.58,-76.17,-76.17,Vascular plants,Juglans nigra,1.0,NISP,pollen,,,,,,0.0,335.0,pollen surface sample,6/30/2007,,
+131,Site 61 (Swain unpublished),41.52,-76.6,41.52,41.52,-76.6,-76.6,Vascular plants,Juglans nigra,2.0,NISP,pollen,,,,,,0.0,427.0,pollen surface sample,6/30/2007,,
+133,Site 63 (Swain unpublished),41.3,-76.58,41.3,41.3,-76.58,-76.58,Vascular plants,Juglans nigra,1.0,NISP,pollen,,,,,,0.0,305.0,pollen surface sample,6/30/2007,,
+134,Site 64 (Swain unpublished),41.12,-76.5225,41.12,41.12,-76.5225,-76.5225,Vascular plants,Juglans nigra,4.0,NISP,pollen,,,,,,0.0,152.0,pollen surface sample,6/30/2007,,
+135,Site 65 (Swain unpublished),40.83,-76.37,40.83,40.83,-76.37,-76.37,Vascular plants,Juglans nigra,1.0,NISP,pollen,,,,,,0.0,366.0,pollen surface sample,6/30/2007,,
+136,Site 66 (Swain unpublished),40.62,-76.05,40.62,40.62,-76.05,-76.05,Vascular plants,Juglans nigra,2.0,NISP,pollen,,,,,,0.0,152.0,pollen surface sample,6/30/2007,,
+137,Site 67 (Swain unpublished),40.07,-75.83,40.07,40.07,-75.83,-75.83,Vascular plants,Juglans nigra,2.0,NISP,pollen,,,,,,0.0,183.0,pollen surface sample,6/30/2007,,
+138,Site 68 (Swain unpublished),40.23,-75.53,40.23,40.23,-75.53,-75.53,Vascular plants,Juglans nigra,2.0,NISP,pollen,,,,,,0.0,91.0,pollen surface sample,6/30/2007,,
+139,Site 69 (Swain unpublished),40.33,-75.48,40.33,40.33,-75.48,-75.48,Vascular plants,Juglans nigra,3.0,NISP,pollen,,,,,,0.0,91.0,pollen surface sample,6/30/2007,,
+140,Site 70 (Swain unpublished),40.45,-75.52,40.45,40.45,-75.52,-75.52,Vascular plants,Juglans nigra,5.0,NISP,pollen,,,,,,0.0,152.0,pollen surface sample,6/30/2007,,
+144,Site 74 (Swain unpublished),41.18,-75.75,41.18,41.18,-75.75,-75.75,Vascular plants,Juglans nigra,3.0,NISP,pollen,,,,,,0.0,457.0,pollen surface sample,6/30/2007,,
+145,Site 75 (Swain unpublished),41.27,-76.08,41.27,41.27,-76.08,-76.08,Vascular plants,Juglans nigra,3.0,NISP,pollen,,,,,,0.0,213.0,pollen surface sample,6/30/2007,,
+152,Site 82 (Swain unpublished),42.48,-77.57,42.48,42.48,-77.57,-77.57,Vascular plants,Juglans nigra,1.0,NISP,pollen,,,,,,0.0,518.0,pollen surface sample,6/30/2007,,
+153,Site 83 (Swain unpublished),42.23,-77.98,42.23,42.23,-77.98,-77.98,Vascular plants,Juglans nigra,1.0,NISP,pollen,,,,,,0.0,533.0,pollen surface sample,6/30/2007,,
+155,Site 85 (Swain unpublished),41.55,-74.07,41.55,41.55,-74.07,-74.07,Vascular plants,Juglans nigra,1.0,NISP,pollen,,,,,,0.0,138.0,pollen surface sample,6/30/2007,,
+163,Site 93 (Swain unpublished),44.45,-74.25,44.45,44.45,-74.25,-74.25,Vascular plants,Juglans nigra,1.0,NISP,pollen,,,,,,0.0,504.0,pollen surface sample,6/30/2007,,
+181,Site 111 (Swain unpublished),41.9,-75.32,41.9,41.9,-75.32,-75.32,Vascular plants,Juglans nigra,1.0,NISP,pollen,,,,,,0.0,413.0,pollen surface sample,6/30/2007,,
+191,Site 121 (Swain unpublished),41.88,-74.08,41.88,41.88,-74.08,-74.08,Vascular plants,Juglans nigra,1.0,NISP,pollen,,,,,,0.0,61.0,pollen surface sample,6/30/2007,,
+192,Site 122 (Swain unpublished),42.6,-74.05,42.6,42.6,-74.05,-74.05,Vascular plants,Juglans nigra,1.0,NISP,pollen,,,,,,0.0,412.0,pollen surface sample,6/30/2007,,
+202,Anderson Lake,46.416667,-92.716667,46.416667,46.416667,-92.716667,-92.716667,Vascular plants,Juglans nigra,1.0,NISP,pollen,,10075.0,,,Radiocarbon years BP,760.0,,pollen,6/30/2007,338.0,0.295857988166
+202,Anderson Lake,46.416667,-92.716667,46.416667,46.416667,-92.716667,-92.716667,Vascular plants,Juglans nigra,2.0,NISP,pollen,,10108.0,,,Radiocarbon years BP,770.0,,pollen,6/30/2007,454.0,0.440528634361
+202,Anderson Lake,46.416667,-92.716667,46.416667,46.416667,-92.716667,-92.716667,Vascular plants,Juglans nigra,2.0,NISP,pollen,,10142.0,,,Radiocarbon years BP,780.0,,pollen,6/30/2007,337.0,0.593471810089
+202,Anderson Lake,46.416667,-92.716667,46.416667,46.416667,-92.716667,-92.716667,Vascular plants,Juglans nigra,2.0,NISP,pollen,,10175.0,,,Radiocarbon years BP,790.0,,pollen,6/30/2007,411.0,0.486618004866
+202,Anderson Lake,46.416667,-92.716667,46.416667,46.416667,-92.716667,-92.716667,Vascular plants,Juglans nigra,1.0,NISP,pollen,,10208.0,,,Radiocarbon years BP,800.0,,pollen,6/30/2007,424.0,0.235849056604
+203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Juglans nigra,2.0,NISP,pollen,,0.0,,,Radiocarbon years BP,25.0,303.0,pollen,6/30/2007,536.0,0.373134328358
+203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Juglans nigra,6.0,NISP,pollen,,25.0,,,Radiocarbon years BP,30.0,303.0,pollen,6/30/2007,484.0,1.23966942149
+203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Juglans nigra,2.0,NISP,pollen,,50.0,,,Radiocarbon years BP,35.0,303.0,pollen,6/30/2007,873.0,0.229095074456
+203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Juglans nigra,1.0,NISP,pollen,,75.0,,,Radiocarbon years BP,40.0,303.0,pollen,6/30/2007,891.0,0.112233445567
+203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Juglans nigra,1.0,NISP,pollen,,432.0,,,Radiocarbon years BP,64.0,303.0,pollen,6/30/2007,674.0,0.148367952522
+203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Juglans nigra,2.0,NISP,pollen,,925.0,,,Radiocarbon years BP,68.0,303.0,pollen,6/30/2007,685.0,0.29197080292
+203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Juglans nigra,1.0,NISP,pollen,,1418.0,,,Radiocarbon years BP,72.0,303.0,pollen,6/30/2007,627.0,0.159489633174
+203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Juglans nigra,1.0,NISP,pollen,,9832.0,,,Radiocarbon years BP,132.0,303.0,pollen,6/30/2007,643.0,0.155520995334
+203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Juglans nigra,1.0,NISP,pollen,,12897.0,,,Radiocarbon years BP,216.0,303.0,pollen,6/30/2007,388.0,0.257731958763
+205,Andrus Lake,46.7,-85.040278,46.7,46.7,-85.040278,-85.040278,Vascular plants,Juglans nigra,1.0,NISP,pollen,,-33.0,,,Radiocarbon years BP,0.25,190.0,pollen,6/30/2007,248.0,0.403225806452
+205,Andrus Lake,46.7,-85.040278,46.7,46.7,-85.040278,-85.040278,Vascular plants,Juglans nigra,1.0,NISP,pollen,,54.0,,,Radiocarbon years BP,16.75,190.0,pollen,6/30/2007,268.0,0.373134328358
+217,Lac des Atocas,45.543056,-73.311111,45.543056,45.543056,-73.311111,-73.311111,Vascular plants,Juglans nigra,1.0,NISP,pollen,,0.0,,,Radiocarbon years BP,0.0,114.0,pollen,6/30/2007,386.0,0.259067357513
+217,Lac des Atocas,45.543056,-73.311111,45.543056,45.543056,-73.311111,-73.311111,Vascular plants,Juglans nigra,1.0,NISP,pollen,,277.0,,,Radiocarbon years BP,25.0,114.0,pollen,6/30/2007,367.0,0.272479564033
+217,Lac des Atocas,45.543056,-73.311111,45.543056,45.543056,-73.311111,-73.311111,Vascular plants,Juglans nigra,1.0,NISP,pollen,,555.0,,,Radiocarbon years BP,50.0,114.0,pollen,6/30/2007,513.0,0.194931773879
+217,Lac des Atocas,45.543056,-73.311111,45.543056,45.543056,-73.311111,-73.311111,Vascular plants,Juglans nigra,1.0,NISP,pollen,,2220.0,,,Radiocarbon years BP,200.0,114.0,pollen,6/30/2007,626.0,0.159744408946
+217,Lac des Atocas,45.543056,-73.311111,45.543056,45.543056,-73.311111,-73.311111,Vascular plants,Juglans nigra,1.0,NISP,pollen,,2497.0,,,Radiocarbon years BP,225.0,114.0,pollen,6/30/2007,474.0,0.210970464135
+217,Lac des Atocas,45.543056,-73.311111,45.543056,45.543056,-73.311111,-73.311111,Vascular plants,Juglans nigra,1.0,NISP,pollen,,4070.0,,,Radiocarbon years BP,400.0,114.0,pollen,6/30/2007,473.0,0.211416490486
+217,Lac des Atocas,45.543056,-73.311111,45.543056,45.543056,-73.311111,-73.311111,Vascular plants,Juglans nigra,1.0,NISP,pollen,,5590.0,,,Radiocarbon years BP,562.0,114.0,pollen,6/30/2007,642.0,0.155763239875
+217,Lac des Atocas,45.543056,-73.311111,45.543056,45.543056,-73.311111,-73.311111,Vascular plants,Juglans nigra,1.0,NISP,pollen,,5746.0,,,Radiocarbon years BP,575.0,114.0,pollen,6/30/2007,422.0,0.236966824645
+217,Lac des Atocas,45.543056,-73.311111,45.543056,45.543056,-73.311111,-73.311111,Vascular plants,Juglans nigra,4.0,NISP,pollen,,6044.0,,,Radiocarbon years BP,600.0,114.0,pollen,6/30/2007,827.0,0.483675937122
+217,Lac des Atocas,45.543056,-73.311111,45.543056,45.543056,-73.311111,-73.311111,Vascular plants,Juglans nigra,1.0,NISP,pollen,,7293.0,,,Radiocarbon years BP,700.0,114.0,pollen,6/30/2007,1349.0,0.0741289844329
+219,Axe Lake,45.38,-79.51,45.38,45.38,-79.51,-79.51,Vascular plants,Juglans nigra,1.0,NISP,pollen,,743.0,,,Radiocarbon years BP,60.0,323.0,pollen,6/30/2007,208.0,0.480769230769
+229,Barchampe Lake,30.622222,-83.253889,30.622222,30.622222,-83.253889,-83.253889,Vascular plants,Juglans nigra,1.0,NISP,pollen,,62.0,,,Radiocarbon years BP,474.5,34.0,pollen,6/30/2007,374.0,0.267379679144
+229,Barchampe Lake,30.622222,-83.253889,30.622222,30.622222,-83.253889,-83.253889,Vascular plants,Juglans nigra,1.0,NISP,pollen,,311.0,,,Radiocarbon years BP,499.5,34.0,pollen,6/30/2007,400.0,0.25
+229,Barchampe Lake,30.622222,-83.253889,30.622222,30.622222,-83.253889,-83.253889,Vascular plants,Juglans nigra,1.0,NISP,pollen,,345.0,,,Radiocarbon years BP,502.0,34.0,pollen,6/30/2007,400.0,0.25
+229,Barchampe Lake,30.622222,-83.253889,30.622222,30.622222,-83.253889,-83.253889,Vascular plants,Juglans nigra,1.0,NISP,pollen,,516.0,,,Radiocarbon years BP,514.5,34.0,pollen,6/30/2007,424.0,0.235849056604
+232,Barry Lake,44.3,-77.916667,44.3,44.3,-77.916667,-77.916667,Vascular plants,Juglans nigra,1.0,NISP,pollen,,80.0,,,Radiocarbon years BP,30.0,167.0,pollen,6/30/2007,449.0,0.22271714922
+232,Barry Lake,44.3,-77.916667,44.3,44.3,-77.916667,-77.916667,Vascular plants,Juglans nigra,1.0,NISP,pollen,,276.0,,,Radiocarbon years BP,50.0,167.0,pollen,6/30/2007,435.0,0.229885057471
+232,Barry Lake,44.3,-77.916667,44.3,44.3,-77.916667,-77.916667,Vascular plants,Juglans nigra,1.0,NISP,pollen,,2611.0,,,Radiocarbon years BP,130.0,167.0,pollen,6/30/2007,412.0,0.242718446602
+232,Barry Lake,44.3,-77.916667,44.3,44.3,-77.916667,-77.916667,Vascular plants,Juglans nigra,1.0,NISP,pollen,,4070.0,,,Radiocarbon years BP,180.0,167.0,pollen,6/30/2007,466.0,0.214592274678
+232,Barry Lake,44.3,-77.916667,44.3,44.3,-77.916667,-77.916667,Vascular plants,Juglans nigra,1.0,NISP,pollen,,5267.0,,,Radiocarbon years BP,230.0,167.0,pollen,6/30/2007,481.0,0.2079002079
+232,Barry Lake,44.3,-77.916667,44.3,44.3,-77.916667,-77.916667,Vascular plants,Juglans nigra,1.0,NISP,pollen,,6388.0,,,Radiocarbon years BP,290.0,167.0,pollen,6/30/2007,435.0,0.229885057471
+235,Lac Bastien,46.4,-78.916667,46.4,46.4,-78.916667,-78.916667,Vascular plants,Juglans nigra,1.0,NISP,pollen,,657.0,,,Radiocarbon years BP,944.0,305.0,pollen,6/30/2007,922.0,0.108459869848
+235,Lac Bastien,46.4,-78.916667,46.4,46.4,-78.916667,-78.916667,Vascular plants,Juglans nigra,1.0,NISP,pollen,,1691.0,,,Radiocarbon years BP,1000.0,305.0,pollen,6/30/2007,1069.0,0.0935453695042
+235,Lac Bastien,46.4,-78.916667,46.4,46.4,-78.916667,-78.916667,Vascular plants,Juglans nigra,1.0,NISP,pollen,,5087.0,,,Radiocarbon years BP,1168.0,305.0,pollen,6/30/2007,991.0,0.100908173562
+235,Lac Bastien,46.4,-78.916667,46.4,46.4,-78.916667,-78.916667,Vascular plants,Juglans nigra,1.0,NISP,pollen,,5783.0,,,Radiocarbon years BP,1200.0,305.0,pollen,6/30/2007,1078.0,0.0927643784787
+235,Lac Bastien,46.4,-78.916667,46.4,46.4,-78.916667,-78.916667,Vascular plants,Juglans nigra,1.0,NISP,pollen,,5871.0,,,Radiocarbon years BP,1204.0,305.0,pollen,6/30/2007,983.0,0.101729399797
+235,Lac Bastien,46.4,-78.916667,46.4,46.4,-78.916667,-78.916667,Vascular plants,Juglans nigra,1.0,NISP,pollen,,6048.0,,,Radiocarbon years BP,1212.0,305.0,pollen,6/30/2007,975.0,0.102564102564
+237,Battaglia Bog,41.143889,-81.328611,41.143889,41.143889,-81.328611,-81.328611,Vascular plants,Juglans nigra,1.0,NISP,pollen,,12919.0,,,Radiocarbon years BP,330.0,335.0,pollen,6/30/2007,378.0,0.26455026455
+238,Black Bass Lake,46.128056,-93.703889,46.128056,46.128056,-93.703889,-93.703889,Vascular plants,Juglans nigra,1.0,NISP,pollen,,0.0,,,Radiocarbon years BP,1.0,394.0,pollen,6/30/2007,410.0,0.243902439024
+238,Black Bass Lake,46.128056,-93.703889,46.128056,46.128056,-93.703889,-93.703889,Vascular plants,Juglans nigra,1.0,NISP,pollen,,1530.0,,,Radiocarbon years BP,100.0,394.0,pollen,6/30/2007,405.0,0.246913580247
+240,Site 2 (Hansen unpublished),43.45,-95.55,43.45,43.45,-95.55,-95.55,Vascular plants,Juglans nigra,1.0,NISP,pollen,,,,,,0.0,468.0,pollen surface sample,6/30/2007,,
+245,Beckman Lake,45.425,-93.183333,45.425,45.425,-93.183333,-93.183333,Vascular plants,Juglans nigra,1.0,NISP,pollen,,54.0,,,Radiocarbon years BP,73.0,278.0,pollen,6/30/2007,483.0,0.207039337474
+245,Beckman Lake,45.425,-93.183333,45.425,45.425,-93.183333,-93.183333,Vascular plants,Juglans nigra,1.0,NISP,pollen,,1006.0,,,Radiocarbon years BP,121.0,278.0,pollen,6/30/2007,360.0,0.277777777778
+245,Beckman Lake,45.425,-93.183333,45.425,45.425,-93.183333,-93.183333,Vascular plants,Juglans nigra,1.0,NISP,pollen,,1707.0,,,Radiocarbon years BP,145.0,278.0,pollen,6/30/2007,346.0,0.28901734104
+245,Beckman Lake,45.425,-93.183333,45.425,45.425,-93.183333,-93.183333,Vascular plants,Juglans nigra,1.0,NISP,pollen,,7576.0,,,Radiocarbon years BP,530.0,278.0,pollen,6/30/2007,336.0,0.297619047619
+249,Belmont Bog,42.25,-77.916667,42.25,42.25,-77.916667,-77.916667,Vascular plants,Juglans nigra,1.0,NISP,pollen,,0.0,,,Radiocarbon years BP,10.0,497.0,pollen,6/30/2007,527.0,0.189753320683
+249,Belmont Bog,42.25,-77.916667,42.25,42.25,-77.916667,-77.916667,Vascular plants,Juglans nigra,1.0,NISP,pollen,,1107.0,,,Radiocarbon years BP,70.0,497.0,pollen,6/30/2007,314.0,0.31847133758
+249,Belmont Bog,42.25,-77.916667,42.25,42.25,-77.916667,-77.916667,Vascular plants,Juglans nigra,1.0,NISP,pollen,,1718.0,,,Radiocarbon years BP,90.0,497.0,pollen,6/30/2007,328.0,0.30487804878
+249,Belmont Bog,42.25,-77.916667,42.25,42.25,-77.916667,-77.916667,Vascular plants,Juglans nigra,2.0,NISP,pollen,,2024.0,,,Radiocarbon years BP,100.0,497.0,pollen,6/30/2007,327.0,0.611620795107
+249,Belmont Bog,42.25,-77.916667,42.25,42.25,-77.916667,-77.916667,Vascular plants,Juglans nigra,2.0,NISP,pollen,,3462.0,,,Radiocarbon years BP,150.0,497.0,pollen,6/30/2007,358.0,0.558659217877
+249,Belmont Bog,42.25,-77.916667,42.25,42.25,-77.916667,-77.916667,Vascular plants,Juglans nigra,1.0,NISP,pollen,,3713.0,,,Radiocarbon years BP,170.0,497.0,pollen,6/30/2007,339.0,0.294985250737
+249,Belmont Bog,42.25,-77.916667,42.25,42.25,-77.916667,-77.916667,Vascular plants,Juglans nigra,1.0,NISP,pollen,,3964.0,,,Radiocarbon years BP,190.0,497.0,pollen,6/30/2007,374.0,0.267379679144
+249,Belmont Bog,42.25,-77.916667,42.25,42.25,-77.916667,-77.916667,Vascular plants,Juglans nigra,1.0,NISP,pollen,,4215.0,,,Radiocarbon years BP,210.0,497.0,pollen,6/30/2007,356.0,0.280898876404
+249,Belmont Bog,42.25,-77.916667,42.25,42.25,-77.916667,-77.916667,Vascular plants,Juglans nigra,1.0,NISP,pollen,,4466.0,,,Radiocarbon years BP,230.0,497.0,pollen,6/30/2007,499.0,0.200400801603
+249,Belmont Bog,42.25,-77.916667,42.25,42.25,-77.916667,-77.916667,Vascular plants,Juglans nigra,1.0,NISP,pollen,,5826.0,,,Radiocarbon years BP,270.0,497.0,pollen,6/30/2007,345.0,0.289855072464
+249,Belmont Bog,42.25,-77.916667,42.25,42.25,-77.916667,-77.916667,Vascular plants,Juglans nigra,1.0,NISP,pollen,,10877.0,,,Radiocarbon years BP,370.0,497.0,pollen,6/30/2007,437.0,0.228832951945
+249,Belmont Bog,42.25,-77.916667,42.25,42.25,-77.916667,-77.916667,Vascular plants,Juglans nigra,1.0,NISP,pollen,,11398.0,,,Radiocarbon years BP,400.0,497.0,pollen,6/30/2007,907.0,0.110253583241
+249,Belmont Bog,42.25,-77.916667,42.25,42.25,-77.916667,-77.916667,Vascular plants,Juglans nigra,1.0,NISP,pollen,,13666.0,,,Radiocarbon years BP,540.0,497.0,pollen,6/30/2007,583.0,0.171526586621
+249,Belmont Bog,42.25,-77.916667,42.25,42.25,-77.916667,-77.916667,Vascular plants,Juglans nigra,1.0,NISP,pollen,,14962.0,,,Radiocarbon years BP,620.0,497.0,pollen,6/30/2007,412.0,0.242718446602
+268,Big Pond,39.766667,-78.55,39.766667,39.766667,-78.55,-78.55,Vascular plants,Juglans nigra,1.0,NISP,pollen,,0.0,,,Radiocarbon years BP,0.0,634.0,pollen,6/30/2007,350.0,0.285714285714
+268,Big Pond,39.766667,-78.55,39.766667,39.766667,-78.55,-78.55,Vascular plants,Juglans nigra,2.0,NISP,pollen,,66.0,,,Radiocarbon years BP,5.0,634.0,pollen,6/30/2007,379.0,0.527704485488
+268,Big Pond,39.766667,-78.55,39.766667,39.766667,-78.55,-78.55,Vascular plants,Juglans nigra,1.0,NISP,pollen,,7900.0,,,Radiocarbon years BP,90.0,634.0,pollen,6/30/2007,351.0,0.2849002849
+272,Black Pond,35.620833,-84.186667,35.620833,35.620833,-84.186667,-84.186667,Vascular plants,Juglans nigra,4.0,NISP,pollen,,-9.0,,,Radiocarbon years BP,10.0,262.0,pollen,6/30/2007,527.0,0.759013282732
+272,Black Pond,35.620833,-84.186667,35.620833,35.620833,-84.186667,-84.186667,Vascular plants,Juglans nigra,5.0,NISP,pollen,,14.0,,,Radiocarbon years BP,20.0,262.0,pollen,6/30/2007,527.0,0.948766603416
+272,Black Pond,35.620833,-84.186667,35.620833,35.620833,-84.186667,-84.186667,Vascular plants,Juglans nigra,4.0,NISP,pollen,,36.0,,,Radiocarbon years BP,30.0,262.0,pollen,6/30/2007,673.0,0.594353640416
+272,Black Pond,35.620833,-84.186667,35.620833,35.620833,-84.186667,-84.186667,Vascular plants,Juglans nigra,9.0,NISP,pollen,,59.0,,,Radiocarbon years BP,40.0,262.0,pollen,6/30/2007,751.0,1.19840213049
+272,Black Pond,35.620833,-84.186667,35.620833,35.620833,-84.186667,-84.186667,Vascular plants,Juglans nigra,1.0,NISP,pollen,,82.0,,,Radiocarbon years BP,50.0,262.0,pollen,6/30/2007,979.0,0.102145045965
+272,Black Pond,35.620833,-84.186667,35.620833,35.620833,-84.186667,-84.186667,Vascular plants,Juglans nigra,4.0,NISP,pollen,,128.0,,,Radiocarbon years BP,70.0,262.0,pollen,6/30/2007,598.0,0.66889632107
+272,Black Pond,35.620833,-84.186667,35.620833,35.620833,-84.186667,-84.186667,Vascular plants,Juglans nigra,2.0,NISP,pollen,,173.0,,,Radiocarbon years BP,90.0,262.0,pollen,6/30/2007,750.0,0.266666666667
+272,Black Pond,35.620833,-84.186667,35.620833,35.620833,-84.186667,-84.186667,Vascular plants,Juglans nigra,1.0,NISP,pollen,,356.0,,,Radiocarbon years BP,170.0,262.0,pollen,6/30/2007,455.0,0.21978021978
+272,Black Pond,35.620833,-84.186667,35.620833,35.620833,-84.186667,-84.186667,Vascular plants,Juglans nigra,1.0,NISP,pollen,,413.0,,,Radiocarbon years BP,195.0,262.0,pollen,6/30/2007,351.0,0.2849002849
+272,Black Pond,35.620833,-84.186667,35.620833,35.620833,-84.186667,-84.186667,Vascular plants,Juglans nigra,1.0,NISP,pollen,,1704.0,,,Radiocarbon years BP,235.0,262.0,pollen,6/30/2007,347.0,0.28818443804
+272,Black Pond,35.620833,-84.186667,35.620833,35.620833,-84.186667,-84.186667,Vascular plants,Juglans nigra,2.0,NISP,pollen,,1997.0,,,Radiocarbon years BP,242.5,262.0,pollen,6/30/2007,349.0,0.573065902579
+272,Black Pond,35.620833,-84.186667,35.620833,35.620833,-84.186667,-84.186667,Vascular plants,Juglans nigra,1.0,NISP,pollen,,2095.0,,,Radiocarbon years BP,245.0,262.0,pollen,6/30/2007,348.0,0.287356321839
+272,Black Pond,35.620833,-84.186667,35.620833,35.620833,-84.186667,-84.186667,Vascular plants,Juglans nigra,1.0,NISP,pollen,,2683.0,,,Radiocarbon years BP,260.0,262.0,pollen,6/30/2007,380.0,0.263157894737
+275,BL-Tombigbee,33.563333,-88.474444,33.563333,33.563333,-88.474444,-88.474444,Vascular plants,Juglans nigra,1.0,NISP,pollen,,1494.0,,,Radiocarbon years BP,30.0,49.0,pollen,6/30/2007,210.0,0.47619047619
+275,BL-Tombigbee,33.563333,-88.474444,33.563333,33.563333,-88.474444,-88.474444,Vascular plants,Juglans nigra,1.0,NISP,pollen,,2657.0,,,Radiocarbon years BP,117.0,49.0,pollen,6/30/2007,291.0,0.343642611684
+275,BL-Tombigbee,33.563333,-88.474444,33.563333,33.563333,-88.474444,-88.474444,Vascular plants,Juglans nigra,3.0,NISP,pollen,,5720.0,,,Radiocarbon years BP,142.0,49.0,pollen,6/30/2007,177.0,1.69491525424
+275,BL-Tombigbee,33.563333,-88.474444,33.563333,33.563333,-88.474444,-88.474444,Vascular plants,Juglans nigra,1.0,NISP,pollen,,8849.0,,,Radiocarbon years BP,166.0,49.0,pollen,6/30/2007,145.0,0.689655172414
+275,BL-Tombigbee,33.563333,-88.474444,33.563333,33.563333,-88.474444,-88.474444,Vascular plants,Juglans nigra,2.0,NISP,pollen,,9094.0,,,Radiocarbon years BP,177.0,49.0,pollen,6/30/2007,163.0,1.22699386503
+275,BL-Tombigbee,33.563333,-88.474444,33.563333,33.563333,-88.474444,-88.474444,Vascular plants,Juglans nigra,2.0,NISP,pollen,,9653.0,,,Radiocarbon years BP,202.0,49.0,pollen,6/30/2007,151.0,1.32450331126
+275,BL-Tombigbee,33.563333,-88.474444,33.563333,33.563333,-88.474444,-88.474444,Vascular plants,Juglans nigra,2.0,NISP,pollen,,10501.0,,,Radiocarbon years BP,240.0,49.0,pollen,6/30/2007,131.0,1.52671755725
+275,BL-Tombigbee,33.563333,-88.474444,33.563333,33.563333,-88.474444,-88.474444,Vascular plants,Juglans nigra,2.0,NISP,pollen,,10591.0,,,Radiocarbon years BP,244.0,49.0,pollen,6/30/2007,258.0,0.77519379845
+275,BL-Tombigbee,33.563333,-88.474444,33.563333,33.563333,-88.474444,-88.474444,Vascular plants,Juglans nigra,1.0,NISP,pollen,,10702.0,,,Radiocarbon years BP,249.0,49.0,pollen,6/30/2007,181.0,0.552486187845
+299,Bossuot Lake,44.296475,-93.73571,44.30067,44.29228,-93.72938,-93.74204,Vascular plants,Juglans nigra,3.0,NISP,pollen,,-13.0,,,Radiocarbon years BP,1.0,310.0,pollen,6/30/2007,965.0,0.310880829016
+299,Bossuot Lake,44.296475,-93.73571,44.30067,44.29228,-93.72938,-93.74204,Vascular plants,Juglans nigra,1.0,NISP,pollen,,6.0,,,Radiocarbon years BP,10.0,310.0,pollen,6/30/2007,714.0,0.140056022409
+299,Bossuot Lake,44.296475,-93.73571,44.30067,44.29228,-93.72938,-93.74204,Vascular plants,Juglans nigra,3.0,NISP,pollen,,27.0,,,Radiocarbon years BP,20.0,310.0,pollen,6/30/2007,1222.0,0.245499181669
+299,Bossuot Lake,44.296475,-93.73571,44.30067,44.29228,-93.72938,-93.74204,Vascular plants,Juglans nigra,3.0,NISP,pollen,,48.0,,,Radiocarbon years BP,30.0,310.0,pollen,6/30/2007,640.0,0.46875
+299,Bossuot Lake,44.296475,-93.73571,44.30067,44.29228,-93.72938,-93.74204,Vascular plants,Juglans nigra,2.0,NISP,pollen,,90.0,,,Radiocarbon years BP,50.0,310.0,pollen,6/30/2007,489.0,0.40899795501
+299,Bossuot Lake,44.296475,-93.73571,44.30067,44.29228,-93.72938,-93.74204,Vascular plants,Juglans nigra,1.0,NISP,pollen,,133.0,,,Radiocarbon years BP,60.0,310.0,pollen,6/30/2007,478.0,0.209205020921
+299,Bossuot Lake,44.296475,-93.73571,44.30067,44.29228,-93.72938,-93.74204,Vascular plants,Juglans nigra,1.0,NISP,pollen,,200.0,,,Radiocarbon years BP,70.0,310.0,pollen,6/30/2007,441.0,0.226757369615
+299,Bossuot Lake,44.296475,-93.73571,44.30067,44.29228,-93.72938,-93.74204,Vascular plants,Juglans nigra,1.0,NISP,pollen,,267.0,,,Radiocarbon years BP,80.0,310.0,pollen,6/30/2007,443.0,0.225733634312
+299,Bossuot Lake,44.296475,-93.73571,44.30067,44.29228,-93.72938,-93.74204,Vascular plants,Juglans nigra,1.0,NISP,pollen,,467.0,,,Radiocarbon years BP,110.0,310.0,pollen,6/30/2007,536.0,0.186567164179
+303,Brandreth Bog,43.916667,-74.683333,43.916667,43.916667,-74.683333,-74.683333,Vascular plants,Juglans nigra,1.0,NISP,pollen,,3252.0,,,Radiocarbon years BP,220.0,600.0,pollen,6/30/2007,184.0,0.54347826087
+303,Brandreth Bog,43.916667,-74.683333,43.916667,43.916667,-74.683333,-74.683333,Vascular plants,Juglans nigra,1.0,NISP,pollen,,4151.0,,,Radiocarbon years BP,420.0,600.0,pollen,6/30/2007,411.0,0.243309002433
+303,Brandreth Bog,43.916667,-74.683333,43.916667,43.916667,-74.683333,-74.683333,Vascular plants,Juglans nigra,1.0,NISP,pollen,,5334.0,,,Radiocarbon years BP,580.0,600.0,pollen,6/30/2007,194.0,0.515463917526
+303,Brandreth Bog,43.916667,-74.683333,43.916667,43.916667,-74.683333,-74.683333,Vascular plants,Juglans nigra,1.0,NISP,pollen,,8199.0,,,Radiocarbon years BP,830.0,600.0,pollen,6/30/2007,227.0,0.440528634361
+305,Brophy Ditch,43.22,-81.73,43.22,43.22,-81.73,-81.73,Vascular plants,Juglans nigra,1.0,NISP,pollen,,-6.0,,,Radiocarbon years BP,1.0,184.0,pollen,6/30/2007,212.0,0.471698113208
+305,Brophy Ditch,43.22,-81.73,43.22,43.22,-81.73,-81.73,Vascular plants,Juglans nigra,1.0,NISP,pollen,,276.0,,,Radiocarbon years BP,10.0,184.0,pollen,6/30/2007,164.0,0.609756097561
+305,Brophy Ditch,43.22,-81.73,43.22,43.22,-81.73,-81.73,Vascular plants,Juglans nigra,1.0,NISP,pollen,,2618.0,,,Radiocarbon years BP,70.0,184.0,pollen,6/30/2007,747.0,0.133868808568
+305,Brophy Ditch,43.22,-81.73,43.22,43.22,-81.73,-81.73,Vascular plants,Juglans nigra,1.0,NISP,pollen,,3984.0,,,Radiocarbon years BP,105.0,184.0,pollen,6/30/2007,330.0,0.30303030303
+305,Brophy Ditch,43.22,-81.73,43.22,43.22,-81.73,-81.73,Vascular plants,Juglans nigra,1.0,NISP,pollen,,4180.0,,,Radiocarbon years BP,110.0,184.0,pollen,6/30/2007,336.0,0.297619047619
+307,"Brown's Bay, Lake Minnetonka",44.95769,-93.545105,44.96674,44.94864,-93.5309,-93.55931,Vascular plants,Juglans nigra,1.0,NISP,pollen,,-22.0,,,Calendar years BP,15.5,300.0,pollen,6/30/2007,413.0,0.242130750605
+307,"Brown's Bay, Lake Minnetonka",44.95769,-93.545105,44.96674,44.94864,-93.5309,-93.55931,Vascular plants,Juglans nigra,1.0,NISP,pollen,,13.0,,,Calendar years BP,39.5,300.0,pollen,6/30/2007,552.0,0.18115942029
+307,"Brown's Bay, Lake Minnetonka",44.95769,-93.545105,44.96674,44.94864,-93.5309,-93.55931,Vascular plants,Juglans nigra,1.0,NISP,pollen,,63.0,,,Calendar years BP,55.5,300.0,pollen,6/30/2007,331.0,0.302114803625
+307,"Brown's Bay, Lake Minnetonka",44.95769,-93.545105,44.96674,44.94864,-93.5309,-93.55931,Vascular plants,Juglans nigra,1.0,NISP,pollen,,298.0,,,Calendar years BP,97.5,300.0,pollen,6/30/2007,408.0,0.245098039216
+307,"Brown's Bay, Lake Minnetonka",44.95769,-93.545105,44.96674,44.94864,-93.5309,-93.55931,Vascular plants,Juglans nigra,1.0,NISP,pollen,,507.0,,,Calendar years BP,135.5,300.0,pollen,6/30/2007,384.5,0.260078023407
+309,Browns Pond,38.154722,-79.616389,38.154722,38.154722,-79.616389,-79.616389,Vascular plants,Juglans nigra,2.0,NISP,pollen,,0.0,,,Radiocarbon years BP,0.0,620.0,pollen,6/30/2007,394.0,0.507614213198
+309,Browns Pond,38.154722,-79.616389,38.154722,38.154722,-79.616389,-79.616389,Vascular plants,Juglans nigra,1.0,NISP,pollen,,1213.0,,,Radiocarbon years BP,20.0,620.0,pollen,6/30/2007,423.0,0.236406619385
+309,Browns Pond,38.154722,-79.616389,38.154722,38.154722,-79.616389,-79.616389,Vascular plants,Juglans nigra,1.0,NISP,pollen,,2425.0,,,Radiocarbon years BP,40.0,620.0,pollen,6/30/2007,333.0,0.3003003003
+309,Browns Pond,38.154722,-79.616389,38.154722,38.154722,-79.616389,-79.616389,Vascular plants,Juglans nigra,1.0,NISP,pollen,,8977.0,,,Radiocarbon years BP,150.0,620.0,pollen,6/30/2007,442.0,0.226244343891
+309,Browns Pond,38.154722,-79.616389,38.154722,38.154722,-79.616389,-79.616389,Vascular plants,Juglans nigra,1.0,NISP,pollen,,14712.0,,,Radiocarbon years BP,350.0,620.0,pollen,6/30/2007,377.0,0.26525198939
+317,Burden Lake,42.604167,-73.566667,42.604167,42.604167,-73.566667,-73.566667,Vascular plants,Juglans nigra,1.0,NISP,pollen,,4349.0,,,Radiocarbon years BP,480.0,192.0,pollen,6/30/2007,602.0,0.166112956811
+321,Cahaba Pond,33.5,-86.533333,33.5,33.5,-86.533333,-86.533333,Vascular plants,Juglans nigra,1.0,NISP,pollen,,10012.0,,,Radiocarbon years BP,470.0,204.0,pollen,6/30/2007,360.0,0.277777777778
+321,Cahaba Pond,33.5,-86.533333,33.5,33.5,-86.533333,-86.533333,Vascular plants,Juglans nigra,1.0,NISP,pollen,,10035.0,,,Radiocarbon years BP,480.0,204.0,pollen,6/30/2007,364.0,0.274725274725
+321,Cahaba Pond,33.5,-86.533333,33.5,33.5,-86.533333,-86.533333,Vascular plants,Juglans nigra,1.0,NISP,pollen,,10130.0,,,Radiocarbon years BP,520.0,204.0,pollen,6/30/2007,401.0,0.249376558603
+321,Cahaba Pond,33.5,-86.533333,33.5,33.5,-86.533333,-86.533333,Vascular plants,Juglans nigra,1.0,NISP,pollen,,10998.0,,,Radiocarbon years BP,570.0,204.0,pollen,6/30/2007,344.0,0.290697674419
+321,Cahaba Pond,33.5,-86.533333,33.5,33.5,-86.533333,-86.533333,Vascular plants,Juglans nigra,2.0,NISP,pollen,,11106.0,,,Radiocarbon years BP,600.0,204.0,pollen,6/30/2007,339.0,0.589970501475
+321,Cahaba Pond,33.5,-86.533333,33.5,33.5,-86.533333,-86.533333,Vascular plants,Juglans nigra,1.0,NISP,pollen,,11143.0,,,Radiocarbon years BP,610.0,204.0,pollen,6/30/2007,346.0,0.28901734104
+321,Cahaba Pond,33.5,-86.533333,33.5,33.5,-86.533333,-86.533333,Vascular plants,Juglans nigra,1.0,NISP,pollen,,11301.0,,,Radiocarbon years BP,650.0,204.0,pollen,6/30/2007,333.0,0.3003003003
+321,Cahaba Pond,33.5,-86.533333,33.5,33.5,-86.533333,-86.533333,Vascular plants,Juglans nigra,1.0,NISP,pollen,,11429.0,,,Radiocarbon years BP,670.0,204.0,pollen,6/30/2007,360.0,0.277777777778
+321,Cahaba Pond,33.5,-86.533333,33.5,33.5,-86.533333,-86.533333,Vascular plants,Juglans nigra,1.0,NISP,pollen,,11493.0,,,Radiocarbon years BP,680.0,204.0,pollen,6/30/2007,349.0,0.286532951289
+321,Cahaba Pond,33.5,-86.533333,33.5,33.5,-86.533333,-86.533333,Vascular plants,Juglans nigra,4.0,NISP,pollen,,11620.0,,,Radiocarbon years BP,700.0,204.0,pollen,6/30/2007,323.0,1.23839009288
+321,Cahaba Pond,33.5,-86.533333,33.5,33.5,-86.533333,-86.533333,Vascular plants,Juglans nigra,1.0,NISP,pollen,,11748.0,,,Radiocarbon years BP,720.0,204.0,pollen,6/30/2007,345.0,0.289855072464
+321,Cahaba Pond,33.5,-86.533333,33.5,33.5,-86.533333,-86.533333,Vascular plants,Juglans nigra,1.0,NISP,pollen,,11807.0,,,Radiocarbon years BP,730.0,204.0,pollen,6/30/2007,327.0,0.305810397554
+322,Saint-Calixte,45.961111,-73.868056,45.961111,45.961111,-73.868056,-73.868056,Vascular plants,Juglans nigra,1.0,NISP,pollen,,7147.0,,,Radiocarbon years BP,425.0,261.0,pollen,6/30/2007,829.0,0.120627261761
+324,Camel Lake,30.266667,-85.016667,30.266667,30.266667,-85.016667,-85.016667,Vascular plants,Juglans nigra,1.0,NISP,pollen,,5666.0,,,Radiocarbon years BP,464.0,20.0,pollen,6/30/2007,540.0,0.185185185185
+324,Camel Lake,30.266667,-85.016667,30.266667,30.266667,-85.016667,-85.016667,Vascular plants,Juglans nigra,1.0,NISP,pollen,,6898.0,,,Radiocarbon years BP,469.0,20.0,pollen,6/30/2007,576.0,0.173611111111
+324,Camel Lake,30.266667,-85.016667,30.266667,30.266667,-85.016667,-85.016667,Vascular plants,Juglans nigra,1.0,NISP,pollen,,10386.0,,,Radiocarbon years BP,488.0,20.0,pollen,6/30/2007,442.0,0.226244343891
+324,Camel Lake,30.266667,-85.016667,30.266667,30.266667,-85.016667,-85.016667,Vascular plants,Juglans nigra,1.0,NISP,pollen,,10945.0,,,Radiocarbon years BP,504.0,20.0,pollen,6/30/2007,359.0,0.278551532033
+324,Camel Lake,30.266667,-85.016667,30.266667,30.266667,-85.016667,-85.016667,Vascular plants,Juglans nigra,1.0,NISP,pollen,,10995.0,,,Radiocarbon years BP,506.0,20.0,pollen,6/30/2007,373.0,0.268096514745
+324,Camel Lake,30.266667,-85.016667,30.266667,30.266667,-85.016667,-85.016667,Vascular plants,Juglans nigra,1.0,NISP,pollen,,11084.0,,,Radiocarbon years BP,512.0,20.0,pollen,6/30/2007,386.0,0.259067357513
+324,Camel Lake,30.266667,-85.016667,30.266667,30.266667,-85.016667,-85.016667,Vascular plants,Juglans nigra,1.0,NISP,pollen,,11128.0,,,Radiocarbon years BP,515.0,20.0,pollen,6/30/2007,268.0,0.373134328358
+324,Camel Lake,30.266667,-85.016667,30.266667,30.266667,-85.016667,-85.016667,Vascular plants,Juglans nigra,2.0,NISP,pollen,,11143.0,,,Radiocarbon years BP,516.0,20.0,pollen,6/30/2007,466.0,0.429184549356
+324,Camel Lake,30.266667,-85.016667,30.266667,30.266667,-85.016667,-85.016667,Vascular plants,Juglans nigra,2.0,NISP,pollen,,11232.0,,,Radiocarbon years BP,522.0,20.0,pollen,6/30/2007,341.0,0.58651026393
+324,Camel Lake,30.266667,-85.016667,30.266667,30.266667,-85.016667,-85.016667,Vascular plants,Juglans nigra,2.0,NISP,pollen,,11721.0,,,Radiocarbon years BP,555.0,20.0,pollen,6/30/2007,391.0,0.511508951407
+324,Camel Lake,30.266667,-85.016667,30.266667,30.266667,-85.016667,-85.016667,Vascular plants,Juglans nigra,2.0,NISP,pollen,,12462.0,,,Radiocarbon years BP,605.0,20.0,pollen,6/30/2007,446.0,0.448430493274
+324,Camel Lake,30.266667,-85.016667,30.266667,30.266667,-85.016667,-85.016667,Vascular plants,Juglans nigra,1.0,NISP,pollen,,13040.0,,,Radiocarbon years BP,620.0,20.0,pollen,6/30/2007,622.0,0.16077170418
+324,Camel Lake,30.266667,-85.016667,30.266667,30.266667,-85.016667,-85.016667,Vascular plants,Juglans nigra,1.0,NISP,pollen,,13470.0,,,Radiocarbon years BP,625.0,20.0,pollen,6/30/2007,645.0,0.15503875969
+324,Camel Lake,30.266667,-85.016667,30.266667,30.266667,-85.016667,-85.016667,Vascular plants,Juglans nigra,1.0,NISP,pollen,,31137.0,,,Radiocarbon years BP,946.0,20.0,pollen,6/30/2007,395.0,0.253164556962
+324,Camel Lake,30.266667,-85.016667,30.266667,30.266667,-85.016667,-85.016667,Vascular plants,Juglans nigra,1.0,NISP,pollen,,31958.0,,,Radiocarbon years BP,1005.0,20.0,pollen,6/30/2007,498.0,0.200803212851
+324,Camel Lake,30.266667,-85.016667,30.266667,30.266667,-85.016667,-85.016667,Vascular plants,Juglans nigra,8.0,NISP,pollen,,33488.0,,,Radiocarbon years BP,1115.0,20.0,pollen,6/30/2007,451.0,1.77383592018
+324,Camel Lake,30.266667,-85.016667,30.266667,30.266667,-85.016667,-85.016667,Vascular plants,Juglans nigra,1.0,NISP,pollen,,34141.0,,,Radiocarbon years BP,1162.0,20.0,pollen,6/30/2007,653.0,0.153139356815
+324,Camel Lake,30.266667,-85.016667,30.266667,30.266667,-85.016667,-85.016667,Vascular plants,Juglans nigra,3.0,NISP,pollen,,34322.0,,,Radiocarbon years BP,1175.0,20.0,pollen,6/30/2007,688.0,0.436046511628
+327,Campbell Lake,44.70722,-93.497645,44.71047,44.70397,-93.49075,-93.50454,Vascular plants,Juglans nigra,1.0,NISP,pollen,,11.0,,,Radiocarbon years BP,10.0,281.0,pollen,6/30/2007,708.0,0.141242937853
+327,Campbell Lake,44.70722,-93.497645,44.71047,44.70397,-93.49075,-93.50454,Vascular plants,Juglans nigra,1.0,NISP,pollen,,113.0,,,Radiocarbon years BP,50.0,281.0,pollen,6/30/2007,388.0,0.257731958763
+327,Campbell Lake,44.70722,-93.497645,44.71047,44.70397,-93.49075,-93.50454,Vascular plants,Juglans nigra,1.0,NISP,pollen,,164.0,,,Radiocarbon years BP,70.0,281.0,pollen,6/30/2007,422.0,0.236966824645
+327,Campbell Lake,44.70722,-93.497645,44.71047,44.70397,-93.49075,-93.50454,Vascular plants,Juglans nigra,1.0,NISP,pollen,,343.0,,,Radiocarbon years BP,140.0,281.0,pollen,6/30/2007,459.0,0.217864923747
+361,Chism 1,54.799444,-76.145556,54.799444,54.799444,-76.145556,-76.145556,Vascular plants,Juglans nigra,1.0,NISP,pollen,,5794.0,,,Radiocarbon years BP,140.0,340.0,pollen,6/30/2007,399.0,0.250626566416
+362,Chism 2,53.090833,-76.339167,53.090833,53.090833,-76.339167,-76.339167,Vascular plants,Juglans nigra,1.0,NISP,pollen,,6685.0,,,Radiocarbon years BP,288.0,273.0,pollen,6/30/2007,514.0,0.194552529183
+478,Clear Lake,43.12507,-93.42973,43.14114,43.109,-93.3819,-93.47756,Vascular plants,Juglans nigra,1.0,NISP,pollen,,-30.0,,,Radiocarbon years BP,0.0,374.0,pollen,6/30/2007,426.0,0.234741784038
+478,Clear Lake,43.12507,-93.42973,43.14114,43.109,-93.3819,-93.47756,Vascular plants,Juglans nigra,2.0,NISP,pollen,,22.0,,,Radiocarbon years BP,10.0,374.0,pollen,6/30/2007,364.0,0.549450549451
+478,Clear Lake,43.12507,-93.42973,43.14114,43.109,-93.3819,-93.47756,Vascular plants,Juglans nigra,4.0,NISP,pollen,,74.0,,,Radiocarbon years BP,20.0,374.0,pollen,6/30/2007,354.0,1.12994350282
+478,Clear Lake,43.12507,-93.42973,43.14114,43.109,-93.3819,-93.47756,Vascular plants,Juglans nigra,2.0,NISP,pollen,,193.0,,,Radiocarbon years BP,30.0,374.0,pollen,6/30/2007,385.0,0.519480519481
+478,Clear Lake,43.12507,-93.42973,43.14114,43.109,-93.3819,-93.47756,Vascular plants,Juglans nigra,1.0,NISP,pollen,,378.0,,,Radiocarbon years BP,40.0,374.0,pollen,6/30/2007,330.0,0.30303030303
+478,Clear Lake,43.12507,-93.42973,43.14114,43.109,-93.3819,-93.47756,Vascular plants,Juglans nigra,1.0,NISP,pollen,,750.0,,,Radiocarbon years BP,60.0,374.0,pollen,6/30/2007,361.0,0.277008310249
+478,Clear Lake,43.12507,-93.42973,43.14114,43.109,-93.3819,-93.47756,Vascular plants,Juglans nigra,4.0,NISP,pollen,,1121.0,,,Radiocarbon years BP,80.0,374.0,pollen,6/30/2007,362.0,1.10497237569
+478,Clear Lake,43.12507,-93.42973,43.14114,43.109,-93.3819,-93.47756,Vascular plants,Juglans nigra,3.0,NISP,pollen,,1589.0,,,Radiocarbon years BP,120.0,374.0,pollen,6/30/2007,355.0,0.845070422535
+478,Clear Lake,43.12507,-93.42973,43.14114,43.109,-93.3819,-93.47756,Vascular plants,Juglans nigra,1.0,NISP,pollen,,1745.0,,,Radiocarbon years BP,140.0,374.0,pollen,6/30/2007,343.0,0.291545189504
+478,Clear Lake,43.12507,-93.42973,43.14114,43.109,-93.3819,-93.47756,Vascular plants,Juglans nigra,3.0,NISP,pollen,,1901.0,,,Radiocarbon years BP,160.0,374.0,pollen,6/30/2007,367.0,0.817438692098
+478,Clear Lake,43.12507,-93.42973,43.14114,43.109,-93.3819,-93.47756,Vascular plants,Juglans nigra,1.0,NISP,pollen,,2403.0,,,Radiocarbon years BP,220.0,374.0,pollen,6/30/2007,421.0,0.237529691211
+478,Clear Lake,43.12507,-93.42973,43.14114,43.109,-93.3819,-93.47756,Vascular plants,Juglans nigra,4.0,NISP,pollen,,2770.0,,,Radiocarbon years BP,260.0,374.0,pollen,6/30/2007,330.0,1.21212121212
+478,Clear Lake,43.12507,-93.42973,43.14114,43.109,-93.3819,-93.47756,Vascular plants,Juglans nigra,1.0,NISP,pollen,,2953.0,,,Radiocarbon years BP,280.0,374.0,pollen,6/30/2007,369.0,0.271002710027
+478,Clear Lake,43.12507,-93.42973,43.14114,43.109,-93.3819,-93.47756,Vascular plants,Juglans nigra,1.0,NISP,pollen,,3126.0,,,Radiocarbon years BP,300.0,374.0,pollen,6/30/2007,377.0,0.26525198939
+478,Clear Lake,43.12507,-93.42973,43.14114,43.109,-93.3819,-93.47756,Vascular plants,Juglans nigra,2.0,NISP,pollen,,3272.0,,,Radiocarbon years BP,320.0,374.0,pollen,6/30/2007,386.0,0.518134715026
+478,Clear Lake,43.12507,-93.42973,43.14114,43.109,-93.3819,-93.47756,Vascular plants,Juglans nigra,1.0,NISP,pollen,,3418.0,,,Radiocarbon years BP,340.0,374.0,pollen,6/30/2007,352.0,0.284090909091
+478,Clear Lake,43.12507,-93.42973,43.14114,43.109,-93.3819,-93.47756,Vascular plants,Juglans nigra,4.0,NISP,pollen,,3564.0,,,Radiocarbon years BP,360.0,374.0,pollen,6/30/2007,363.0,1.10192837466
+478,Clear Lake,43.12507,-93.42973,43.14114,43.109,-93.3819,-93.47756,Vascular plants,Juglans nigra,1.0,NISP,pollen,,3710.0,,,Radiocarbon years BP,380.0,374.0,pollen,6/30/2007,358.0,0.279329608939
+478,Clear Lake,43.12507,-93.42973,43.14114,43.109,-93.3819,-93.47756,Vascular plants,Juglans nigra,3.0,NISP,pollen,,3874.0,,,Radiocarbon years BP,400.0,374.0,pollen,6/30/2007,272.0,1.10294117647
+478,Clear Lake,43.12507,-93.42973,43.14114,43.109,-93.3819,-93.47756,Vascular plants,Juglans nigra,2.0,NISP,pollen,,4090.0,,,Radiocarbon years BP,420.0,374.0,pollen,6/30/2007,339.0,0.589970501475
+478,Clear Lake,43.12507,-93.42973,43.14114,43.109,-93.3819,-93.47756,Vascular plants,Juglans nigra,2.0,NISP,pollen,,4738.0,,,Radiocarbon years BP,480.0,374.0,pollen,6/30/2007,348.0,0.574712643678
+478,Clear Lake,43.12507,-93.42973,43.14114,43.109,-93.3819,-93.47756,Vascular plants,Juglans nigra,1.0,NISP,pollen,,4981.0,,,Radiocarbon years BP,500.0,374.0,pollen,6/30/2007,323.0,0.30959752322
+478,Clear Lake,43.12507,-93.42973,43.14114,43.109,-93.3819,-93.47756,Vascular plants,Juglans nigra,3.0,NISP,pollen,,5959.0,,,Radiocarbon years BP,560.0,374.0,pollen,6/30/2007,364.0,0.824175824176
+478,Clear Lake,43.12507,-93.42973,43.14114,43.109,-93.3819,-93.47756,Vascular plants,Juglans nigra,2.0,NISP,pollen,,6554.0,,,Radiocarbon years BP,600.0,374.0,pollen,6/30/2007,341.0,0.58651026393
+478,Clear Lake,43.12507,-93.42973,43.14114,43.109,-93.3819,-93.47756,Vascular plants,Juglans nigra,1.0,NISP,pollen,,6738.0,,,Radiocarbon years BP,620.0,374.0,pollen,6/30/2007,352.0,0.284090909091
+478,Clear Lake,43.12507,-93.42973,43.14114,43.109,-93.3819,-93.47756,Vascular plants,Juglans nigra,4.0,NISP,pollen,,6923.0,,,Radiocarbon years BP,640.0,374.0,pollen,6/30/2007,350.0,1.14285714286
+478,Clear Lake,43.12507,-93.42973,43.14114,43.109,-93.3819,-93.47756,Vascular plants,Juglans nigra,1.0,NISP,pollen,,7107.0,,,Radiocarbon years BP,660.0,374.0,pollen,6/30/2007,380.0,0.263157894737
+478,Clear Lake,43.12507,-93.42973,43.14114,43.109,-93.3819,-93.47756,Vascular plants,Juglans nigra,2.0,NISP,pollen,,7292.0,,,Radiocarbon years BP,680.0,374.0,pollen,6/30/2007,410.0,0.487804878049
+478,Clear Lake,43.12507,-93.42973,43.14114,43.109,-93.3819,-93.47756,Vascular plants,Juglans nigra,1.0,NISP,pollen,,7478.0,,,Radiocarbon years BP,700.0,374.0,pollen,6/30/2007,329.0,0.303951367781
+478,Clear Lake,43.12507,-93.42973,43.14114,43.109,-93.3819,-93.47756,Vascular plants,Juglans nigra,1.0,NISP,pollen,,7860.0,,,Radiocarbon years BP,740.0,374.0,pollen,6/30/2007,363.0,0.275482093664
+478,Clear Lake,43.12507,-93.42973,43.14114,43.109,-93.3819,-93.47756,Vascular plants,Juglans nigra,2.0,NISP,pollen,,8052.0,,,Radiocarbon years BP,760.0,374.0,pollen,6/30/2007,435.0,0.459770114943
+478,Clear Lake,43.12507,-93.42973,43.14114,43.109,-93.3819,-93.47756,Vascular plants,Juglans nigra,1.0,NISP,pollen,,8243.0,,,Radiocarbon years BP,780.0,374.0,pollen,6/30/2007,411.0,0.243309002433
+478,Clear Lake,43.12507,-93.42973,43.14114,43.109,-93.3819,-93.47756,Vascular plants,Juglans nigra,1.0,NISP,pollen,,9860.0,,,Radiocarbon years BP,860.0,374.0,pollen,6/30/2007,514.0,0.194552529183
+484,Coghill Lake,53.9,-66.766667,53.9,53.9,-66.766667,-66.766667,Vascular plants,Juglans nigra,1.0,NISP,pollen,,5004.0,,,Radiocarbon years BP,748.0,530.0,pollen,6/30/2007,416.0,0.240384615385

@@ -1,0 +1,4 @@
+siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
+338,Lac Castor,46.613889,-72.998611,46.613889,46.613889,-72.998611,-72.998611,Vascular plants,Viburnum alnifolium,1.0,NISP,pollen,,5306.0,,,Radiocarbon years BP,425.0,220.0,pollen,6/30/2007,444.0,0.225225225225
+338,Lac Castor,46.613889,-72.998611,46.613889,46.613889,-72.998611,-72.998611,Vascular plants,Viburnum alnifolium,1.0,NISP,pollen,,7717.0,,,Radiocarbon years BP,725.0,220.0,pollen,6/30/2007,1019.0,0.0981354268891
+830,Saint-Gabriel,46.275833,-73.475833,46.275833,46.275833,-73.475833,-73.475833,Vascular plants,Viburnum alnifolium,1.0,NISP,pollen,,9148.0,,,Radiocarbon years BP,730.0,250.0,pollen,6/30/2007,693.0,0.1443001443

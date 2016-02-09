@@ -1,0 +1,117 @@
+siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
+7,Three Pines Bog,47.0,-80.116667,47.0,47.0,-80.116667,-80.116667,Vascular plants,Acer saccharum,10.0,NISP,pollen,,-26.0,,,Radiocarbon years BP,1.0,294.0,pollen,6/30/2007,461.0,2.16919739696
+7,Three Pines Bog,47.0,-80.116667,47.0,47.0,-80.116667,-80.116667,Vascular plants,Acer saccharum,2.0,NISP,pollen,,90.0,,,Radiocarbon years BP,30.0,294.0,pollen,6/30/2007,449.0,0.445434298441
+7,Three Pines Bog,47.0,-80.116667,47.0,47.0,-80.116667,-80.116667,Vascular plants,Acer saccharum,4.0,NISP,pollen,,447.0,,,Radiocarbon years BP,50.0,294.0,pollen,6/30/2007,391.0,1.02301790281
+7,Three Pines Bog,47.0,-80.116667,47.0,47.0,-80.116667,-80.116667,Vascular plants,Acer saccharum,1.0,NISP,pollen,,672.0,,,Radiocarbon years BP,60.0,294.0,pollen,6/30/2007,479.0,0.208768267223
+7,Three Pines Bog,47.0,-80.116667,47.0,47.0,-80.116667,-80.116667,Vascular plants,Acer saccharum,3.0,NISP,pollen,,897.0,,,Radiocarbon years BP,70.0,294.0,pollen,6/30/2007,394.0,0.761421319797
+7,Three Pines Bog,47.0,-80.116667,47.0,47.0,-80.116667,-80.116667,Vascular plants,Acer saccharum,2.0,NISP,pollen,,1122.0,,,Radiocarbon years BP,80.0,294.0,pollen,6/30/2007,477.0,0.41928721174
+7,Three Pines Bog,47.0,-80.116667,47.0,47.0,-80.116667,-80.116667,Vascular plants,Acer saccharum,1.0,NISP,pollen,,1347.0,,,Radiocarbon years BP,90.0,294.0,pollen,6/30/2007,394.0,0.253807106599
+7,Three Pines Bog,47.0,-80.116667,47.0,47.0,-80.116667,-80.116667,Vascular plants,Acer saccharum,1.0,NISP,pollen,,1572.0,,,Radiocarbon years BP,100.0,294.0,pollen,6/30/2007,464.0,0.215517241379
+7,Three Pines Bog,47.0,-80.116667,47.0,47.0,-80.116667,-80.116667,Vascular plants,Acer saccharum,1.0,NISP,pollen,,2247.0,,,Radiocarbon years BP,130.0,294.0,pollen,6/30/2007,437.0,0.228832951945
+7,Three Pines Bog,47.0,-80.116667,47.0,47.0,-80.116667,-80.116667,Vascular plants,Acer saccharum,3.0,NISP,pollen,,2697.0,,,Radiocarbon years BP,150.0,294.0,pollen,6/30/2007,381.0,0.787401574803
+7,Three Pines Bog,47.0,-80.116667,47.0,47.0,-80.116667,-80.116667,Vascular plants,Acer saccharum,1.0,NISP,pollen,,3146.0,,,Radiocarbon years BP,170.0,294.0,pollen,6/30/2007,455.0,0.21978021978
+7,Three Pines Bog,47.0,-80.116667,47.0,47.0,-80.116667,-80.116667,Vascular plants,Acer saccharum,1.0,NISP,pollen,,3575.0,,,Radiocarbon years BP,190.0,294.0,pollen,6/30/2007,441.0,0.226757369615
+7,Three Pines Bog,47.0,-80.116667,47.0,47.0,-80.116667,-80.116667,Vascular plants,Acer saccharum,1.0,NISP,pollen,,3717.0,,,Radiocarbon years BP,200.0,294.0,pollen,6/30/2007,413.0,0.242130750605
+7,Three Pines Bog,47.0,-80.116667,47.0,47.0,-80.116667,-80.116667,Vascular plants,Acer saccharum,1.0,NISP,pollen,,3859.0,,,Radiocarbon years BP,210.0,294.0,pollen,6/30/2007,410.0,0.243902439024
+7,Three Pines Bog,47.0,-80.116667,47.0,47.0,-80.116667,-80.116667,Vascular plants,Acer saccharum,1.0,NISP,pollen,,4427.0,,,Radiocarbon years BP,250.0,294.0,pollen,6/30/2007,353.0,0.28328611898
+7,Three Pines Bog,47.0,-80.116667,47.0,47.0,-80.116667,-80.116667,Vascular plants,Acer saccharum,2.0,NISP,pollen,,4569.0,,,Radiocarbon years BP,260.0,294.0,pollen,6/30/2007,422.0,0.473933649289
+7,Three Pines Bog,47.0,-80.116667,47.0,47.0,-80.116667,-80.116667,Vascular plants,Acer saccharum,1.0,NISP,pollen,,4711.0,,,Radiocarbon years BP,270.0,294.0,pollen,6/30/2007,362.0,0.276243093923
+7,Three Pines Bog,47.0,-80.116667,47.0,47.0,-80.116667,-80.116667,Vascular plants,Acer saccharum,3.0,NISP,pollen,,4995.0,,,Radiocarbon years BP,290.0,294.0,pollen,6/30/2007,353.0,0.849858356941
+7,Three Pines Bog,47.0,-80.116667,47.0,47.0,-80.116667,-80.116667,Vascular plants,Acer saccharum,1.0,NISP,pollen,,5137.0,,,Radiocarbon years BP,300.0,294.0,pollen,6/30/2007,414.0,0.24154589372
+7,Three Pines Bog,47.0,-80.116667,47.0,47.0,-80.116667,-80.116667,Vascular plants,Acer saccharum,1.0,NISP,pollen,,5421.0,,,Radiocarbon years BP,320.0,294.0,pollen,6/30/2007,423.0,0.236406619385
+7,Three Pines Bog,47.0,-80.116667,47.0,47.0,-80.116667,-80.116667,Vascular plants,Acer saccharum,1.0,NISP,pollen,,5705.0,,,Radiocarbon years BP,340.0,294.0,pollen,6/30/2007,404.0,0.247524752475
+7,Three Pines Bog,47.0,-80.116667,47.0,47.0,-80.116667,-80.116667,Vascular plants,Acer saccharum,3.0,NISP,pollen,,6272.0,,,Radiocarbon years BP,380.0,294.0,pollen,6/30/2007,363.0,0.826446280992
+29,Lake Allie,44.8036,-94.5579,44.8138,44.7934,-94.5483,-94.5675,Vascular plants,Acer saccharum,5.0,NISP,pollen,,-12.0,,,Radiocarbon years BP,1.0,328.0,pollen,6/30/2007,404.0,1.23762376238
+29,Lake Allie,44.8036,-94.5579,44.8138,44.7934,-94.5483,-94.5675,Vascular plants,Acer saccharum,2.0,NISP,pollen,,18.0,,,Radiocarbon years BP,10.0,328.0,pollen,6/30/2007,415.0,0.481927710843
+29,Lake Allie,44.8036,-94.5579,44.8138,44.7934,-94.5483,-94.5675,Vascular plants,Acer saccharum,2.0,NISP,pollen,,51.0,,,Radiocarbon years BP,20.0,328.0,pollen,6/30/2007,388.0,0.515463917526
+29,Lake Allie,44.8036,-94.5579,44.8138,44.7934,-94.5483,-94.5675,Vascular plants,Acer saccharum,2.0,NISP,pollen,,116.0,,,Radiocarbon years BP,40.0,328.0,pollen,6/30/2007,336.0,0.595238095238
+29,Lake Allie,44.8036,-94.5579,44.8138,44.7934,-94.5483,-94.5675,Vascular plants,Acer saccharum,1.0,NISP,pollen,,149.0,,,Radiocarbon years BP,50.0,328.0,pollen,6/30/2007,366.0,0.273224043716
+29,Lake Allie,44.8036,-94.5579,44.8138,44.7934,-94.5483,-94.5675,Vascular plants,Acer saccharum,1.0,NISP,pollen,,182.0,,,Radiocarbon years BP,60.0,328.0,pollen,6/30/2007,358.0,0.279329608939
+29,Lake Allie,44.8036,-94.5579,44.8138,44.7934,-94.5483,-94.5675,Vascular plants,Acer saccharum,2.0,NISP,pollen,,248.0,,,Radiocarbon years BP,80.0,328.0,pollen,6/30/2007,338.0,0.591715976331
+29,Lake Allie,44.8036,-94.5579,44.8138,44.7934,-94.5483,-94.5675,Vascular plants,Acer saccharum,1.0,NISP,pollen,,281.0,,,Radiocarbon years BP,90.0,328.0,pollen,6/30/2007,341.0,0.293255131965
+29,Lake Allie,44.8036,-94.5579,44.8138,44.7934,-94.5483,-94.5675,Vascular plants,Acer saccharum,2.0,NISP,pollen,,314.0,,,Radiocarbon years BP,100.0,328.0,pollen,6/30/2007,336.0,0.595238095238
+29,Lake Allie,44.8036,-94.5579,44.8138,44.7934,-94.5483,-94.5675,Vascular plants,Acer saccharum,1.0,NISP,pollen,,379.0,,,Radiocarbon years BP,120.0,328.0,pollen,6/30/2007,373.0,0.268096514745
+29,Lake Allie,44.8036,-94.5579,44.8138,44.7934,-94.5483,-94.5675,Vascular plants,Acer saccharum,2.0,NISP,pollen,,412.0,,,Radiocarbon years BP,130.0,328.0,pollen,6/30/2007,314.0,0.636942675159
+29,Lake Allie,44.8036,-94.5579,44.8138,44.7934,-94.5483,-94.5675,Vascular plants,Acer saccharum,1.0,NISP,pollen,,478.0,,,Radiocarbon years BP,150.0,328.0,pollen,6/30/2007,338.0,0.295857988166
+30,Almora Lake,46.206111,-95.293611,46.206111,46.206111,-95.293611,-95.293611,Vascular plants,Acer saccharum,1.0,NISP,pollen,,11290.0,,,Radiocarbon years BP,554.5,437.0,pollen,6/30/2007,428.0,0.233644859813
+120,Site 50 (Swain unpublished),42.1,-78.75,42.1,42.1,-78.75,-78.75,Vascular plants,Acer saccharum,7.0,NISP,pollen,,,,,,0.0,427.0,pollen surface sample,6/30/2007,,
+121,Site 51 (Swain unpublished),41.75,-79.17,41.75,41.75,-79.17,-79.17,Vascular plants,Acer saccharum,3.0,NISP,pollen,,,,,,0.0,457.0,pollen surface sample,6/30/2007,,
+122,Site 52 (Swain unpublished),41.62,-78.75,41.62,41.62,-78.75,-78.75,Vascular plants,Acer saccharum,16.0,NISP,pollen,,,,,,0.0,518.0,pollen surface sample,6/30/2007,,
+123,Site 53 (Swain unpublished),41.73,-78.42,41.73,41.73,-78.42,-78.42,Vascular plants,Acer saccharum,7.0,NISP,pollen,,,,,,0.0,518.0,pollen surface sample,6/30/2007,,
+124,Site 54 (Swain unpublished),41.83,-77.95,41.83,41.83,-77.95,-77.95,Vascular plants,Acer saccharum,4.0,NISP,pollen,,,,,,0.0,579.0,pollen surface sample,6/30/2007,,
+125,Site 55 (Swain unpublished),41.72,-77.77,41.72,41.72,-77.77,-77.77,Vascular plants,Acer saccharum,11.0,NISP,pollen,,,,,,0.0,518.0,pollen surface sample,6/30/2007,,
+126,Site 56 (Swain unpublished),41.87,-77.05,41.87,41.87,-77.05,-77.05,Vascular plants,Acer saccharum,2.0,NISP,pollen,,,,,,0.0,549.0,pollen surface sample,6/30/2007,,
+128,Site 58 (Swain unpublished),41.88,-76.72,41.88,41.88,-76.72,-76.72,Vascular plants,Acer saccharum,8.0,NISP,pollen,,,,,,0.0,457.0,pollen surface sample,6/30/2007,,
+129,Site 59 (Swain unpublished),41.9,-76.23,41.9,41.9,-76.23,-76.23,Vascular plants,Acer saccharum,7.0,NISP,pollen,,,,,,0.0,457.0,pollen surface sample,6/30/2007,,
+130,Site 60 (Swain unpublished),41.58,-76.17,41.58,41.58,-76.17,-76.17,Vascular plants,Acer saccharum,3.0,NISP,pollen,,,,,,0.0,335.0,pollen surface sample,6/30/2007,,
+131,Site 61 (Swain unpublished),41.52,-76.6,41.52,41.52,-76.6,-76.6,Vascular plants,Acer saccharum,4.0,NISP,pollen,,,,,,0.0,427.0,pollen surface sample,6/30/2007,,
+132,Site 62 (Swain unpublished),41.48,-77.03,41.48,41.48,-77.03,-77.03,Vascular plants,Acer saccharum,6.0,NISP,pollen,,,,,,0.0,335.0,pollen surface sample,6/30/2007,,
+133,Site 63 (Swain unpublished),41.3,-76.58,41.3,41.3,-76.58,-76.58,Vascular plants,Acer saccharum,7.0,NISP,pollen,,,,,,0.0,305.0,pollen surface sample,6/30/2007,,
+134,Site 64 (Swain unpublished),41.12,-76.5225,41.12,41.12,-76.5225,-76.5225,Vascular plants,Acer saccharum,2.0,NISP,pollen,,,,,,0.0,152.0,pollen surface sample,6/30/2007,,
+135,Site 65 (Swain unpublished),40.83,-76.37,40.83,40.83,-76.37,-76.37,Vascular plants,Acer saccharum,1.0,NISP,pollen,,,,,,0.0,366.0,pollen surface sample,6/30/2007,,
+138,Site 68 (Swain unpublished),40.23,-75.53,40.23,40.23,-75.53,-75.53,Vascular plants,Acer saccharum,27.0,NISP,pollen,,,,,,0.0,91.0,pollen surface sample,6/30/2007,,
+139,Site 69 (Swain unpublished),40.33,-75.48,40.33,40.33,-75.48,-75.48,Vascular plants,Acer saccharum,3.0,NISP,pollen,,,,,,0.0,91.0,pollen surface sample,6/30/2007,,
+140,Site 70 (Swain unpublished),40.45,-75.52,40.45,40.45,-75.52,-75.52,Vascular plants,Acer saccharum,1.0,NISP,pollen,,,,,,0.0,152.0,pollen surface sample,6/30/2007,,
+141,Site 71 (Swain unpublished),40.85,-75.8,40.85,40.85,-75.8,-75.8,Vascular plants,Acer saccharum,2.0,NISP,pollen,,,,,,0.0,305.0,pollen surface sample,6/30/2007,,
+142,Site 72 (Swain unpublished),40.82,-76.05,40.82,40.82,-76.05,-76.05,Vascular plants,Acer saccharum,4.0,NISP,pollen,,,,,,0.0,274.0,pollen surface sample,6/30/2007,,
+144,Site 74 (Swain unpublished),41.18,-75.75,41.18,41.18,-75.75,-75.75,Vascular plants,Acer saccharum,2.0,NISP,pollen,,,,,,0.0,457.0,pollen surface sample,6/30/2007,,
+145,Site 75 (Swain unpublished),41.27,-76.08,41.27,41.27,-76.08,-76.08,Vascular plants,Acer saccharum,2.0,NISP,pollen,,,,,,0.0,213.0,pollen surface sample,6/30/2007,,
+146,Site 76 (Swain unpublished),41.6,-75.75,41.6,41.6,-75.75,-75.75,Vascular plants,Acer saccharum,2.0,NISP,pollen,,,,,,0.0,335.0,pollen surface sample,6/30/2007,,
+147,Site 77 (Swain unpublished),41.78,-75.53,41.78,41.78,-75.53,-75.53,Vascular plants,Acer saccharum,6.0,NISP,pollen,,,,,,0.0,610.0,pollen surface sample,6/30/2007,,
+148,Site 78 (Swain unpublished),42.02,-75.45,42.02,42.02,-75.45,-75.45,Vascular plants,Acer saccharum,8.0,NISP,pollen,,,,,,0.0,479.0,pollen surface sample,6/30/2007,,
+150,Site 80 (Swain unpublished),42.25,-76.05,42.25,42.25,-76.05,-76.05,Vascular plants,Acer saccharum,8.0,NISP,pollen,,,,,,0.0,309.0,pollen surface sample,6/30/2007,,
+151,Site 81 (Swain unpublished),42.22,-77.27,42.22,42.22,-77.27,-77.27,Vascular plants,Acer saccharum,6.0,NISP,pollen,,,,,,0.0,381.0,pollen surface sample,6/30/2007,,
+152,Site 82 (Swain unpublished),42.48,-77.57,42.48,42.48,-77.57,-77.57,Vascular plants,Acer saccharum,8.0,NISP,pollen,,,,,,0.0,518.0,pollen surface sample,6/30/2007,,
+153,Site 83 (Swain unpublished),42.23,-77.98,42.23,42.23,-77.98,-77.98,Vascular plants,Acer saccharum,3.0,NISP,pollen,,,,,,0.0,533.0,pollen surface sample,6/30/2007,,
+154,Site 84 (Swain unpublished),42.23,-78.32,42.23,42.23,-78.32,-78.32,Vascular plants,Acer saccharum,5.0,NISP,pollen,,,,,,0.0,471.0,pollen surface sample,6/30/2007,,
+155,Site 85 (Swain unpublished),41.55,-74.07,41.55,41.55,-74.07,-74.07,Vascular plants,Acer saccharum,4.0,NISP,pollen,,,,,,0.0,138.0,pollen surface sample,6/30/2007,,
+156,Site 86 (Swain unpublished),42.2,-74.05,42.2,42.2,-74.05,-74.05,Vascular plants,Acer saccharum,1.0,NISP,pollen,,,,,,0.0,649.0,pollen surface sample,6/30/2007,,
+157,Site 87 (Swain unpublished),43.55,-73.82,43.55,43.55,-73.82,-73.82,Vascular plants,Acer saccharum,8.0,NISP,pollen,,,,,,0.0,243.0,pollen surface sample,6/30/2007,,
+158,Site 88 (Swain unpublished),43.97,-74.13,43.97,43.97,-74.13,-74.13,Vascular plants,Acer saccharum,8.0,NISP,pollen,,,,,,0.0,473.0,pollen surface sample,6/30/2007,,
+159,Site 89 (Swain unpublished),42.93,-73.78,42.93,42.93,-73.78,-73.78,Vascular plants,Acer saccharum,6.0,NISP,pollen,,,,,,0.0,47.0,pollen surface sample,6/30/2007,,
+160,Site 90 (Swain unpublished),44.52,-74.03,44.52,44.52,-74.03,-74.03,Vascular plants,Acer saccharum,3.0,NISP,pollen,,,,,,0.0,518.0,pollen surface sample,6/30/2007,,
+161,Site 91 (Swain unpublished),44.15,-73.75,44.15,44.15,-73.75,-73.75,Vascular plants,Acer saccharum,5.0,NISP,pollen,,,,,,0.0,491.0,pollen surface sample,6/30/2007,,
+162,Site 92 (Swain unpublished),43.98,-74.45,43.98,43.98,-74.45,-74.45,Vascular plants,Acer saccharum,9.0,NISP,pollen,,,,,,0.0,525.0,pollen surface sample,6/30/2007,,
+163,Site 93 (Swain unpublished),44.45,-74.25,44.45,44.45,-74.25,-74.25,Vascular plants,Acer saccharum,4.0,NISP,pollen,,,,,,0.0,504.0,pollen surface sample,6/30/2007,,
+164,Site 94 (Swain unpublished),43.23,-73.72,43.23,43.23,-73.72,-73.72,Vascular plants,Acer saccharum,1.0,NISP,pollen,,,,,,0.0,104.0,pollen surface sample,6/30/2007,,
+165,Site 95 (Swain unpublished),44.32,-74.42,44.32,44.32,-74.42,-74.42,Vascular plants,Acer saccharum,6.0,NISP,pollen,,,,,,0.0,480.0,pollen surface sample,6/30/2007,,
+166,Site 96 (Swain unpublished),43.43,-74.05,43.43,43.43,-74.05,-74.05,Vascular plants,Acer saccharum,7.0,NISP,pollen,,,,,,0.0,519.0,pollen surface sample,6/30/2007,,
+167,Site 97 (Swain unpublished),43.78,-74.25,43.78,43.78,-74.25,-74.25,Vascular plants,Acer saccharum,9.0,NISP,pollen,,,,,,0.0,506.0,pollen surface sample,6/30/2007,,
+168,Site 98 (Swain unpublished),44.08,-74.52,44.08,44.08,-74.52,-74.52,Vascular plants,Acer saccharum,5.0,NISP,pollen,,,,,,0.0,535.0,pollen surface sample,6/30/2007,,
+169,Site 99 (Swain unpublished),43.38,-74.3,43.38,43.38,-74.3,-74.3,Vascular plants,Acer saccharum,10.0,NISP,pollen,,,,,,0.0,299.0,pollen surface sample,6/30/2007,,
+170,Site 100 (Swain unpublished),43.92,-73.7,43.92,43.92,-73.7,-73.7,Vascular plants,Acer saccharum,3.0,NISP,pollen,,,,,,0.0,360.0,pollen surface sample,6/30/2007,,
+173,Site 103 (Swain unpublished),44.7,-72.28,44.7,44.7,-72.28,-72.28,Vascular plants,Acer saccharum,9.0,NISP,pollen,,,,,,0.0,491.0,pollen surface sample,6/30/2007,,
+176,Site 106 (Swain unpublished),41.45,-71.95,41.45,41.45,-71.95,-71.95,Vascular plants,Acer saccharum,3.0,NISP,pollen,,,,,,0.0,29.0,pollen surface sample,6/30/2007,,
+178,Site 108 (Swain unpublished),41.77,-76.58,41.77,41.77,-76.58,-76.58,Vascular plants,Acer saccharum,4.0,NISP,pollen,,,,,,0.0,399.0,pollen surface sample,6/30/2007,,
+180,Site 110 (Swain unpublished),45.953333,-75.87,45.953333,45.953333,-75.87,-75.87,Vascular plants,Acer saccharum,5.0,NISP,pollen,,,,,,0.0,503.0,pollen surface sample,6/30/2007,,
+191,Site 121 (Swain unpublished),41.88,-74.08,41.88,41.88,-74.08,-74.08,Vascular plants,Acer saccharum,3.0,NISP,pollen,,,,,,0.0,61.0,pollen surface sample,6/30/2007,,
+192,Site 122 (Swain unpublished),42.6,-74.05,42.6,42.6,-74.05,-74.05,Vascular plants,Acer saccharum,2.0,NISP,pollen,,,,,,0.0,412.0,pollen surface sample,6/30/2007,,
+193,Site 123 (Swain unpublished),43.65,-74.4,43.65,43.65,-74.4,-74.4,Vascular plants,Acer saccharum,10.0,NISP,pollen,,,,,,0.0,503.0,pollen surface sample,6/30/2007,,
+194,Site 124 (Swain unpublished),43.13,-74.05,43.13,43.13,-74.05,-74.05,Vascular plants,Acer saccharum,11.0,NISP,pollen,,,,,,0.0,442.0,pollen surface sample,6/30/2007,,
+195,Hungry Jack Lake,48.15,-91.12,48.15,48.15,-91.12,-91.12,Vascular plants,Acer saccharum,2.0,NISP,pollen,,,,,,0.0,453.0,pollen surface sample,6/30/2007,,
+198,Greens Lake,42.28,-73.88,42.28,42.28,-73.88,-73.88,Vascular plants,Acer saccharum,3.0,NISP,pollen,,,,,,0.0,77.0,pollen surface sample,6/30/2007,,
+202,Anderson Lake,46.416667,-92.716667,46.416667,46.416667,-92.716667,-92.716667,Vascular plants,Acer saccharum,4.0,NISP,pollen,,10108.0,,,Radiocarbon years BP,770.0,,pollen,6/30/2007,454.0,0.881057268722
+202,Anderson Lake,46.416667,-92.716667,46.416667,46.416667,-92.716667,-92.716667,Vascular plants,Acer saccharum,1.0,NISP,pollen,,10175.0,,,Radiocarbon years BP,790.0,,pollen,6/30/2007,411.0,0.243309002433
+202,Anderson Lake,46.416667,-92.716667,46.416667,46.416667,-92.716667,-92.716667,Vascular plants,Acer saccharum,1.0,NISP,pollen,,10242.0,,,Radiocarbon years BP,810.0,,pollen,6/30/2007,452.0,0.221238938053
+202,Anderson Lake,46.416667,-92.716667,46.416667,46.416667,-92.716667,-92.716667,Vascular plants,Acer saccharum,3.0,NISP,pollen,,10308.0,,,Radiocarbon years BP,830.0,,pollen,6/30/2007,409.0,0.733496332518
+202,Anderson Lake,46.416667,-92.716667,46.416667,46.416667,-92.716667,-92.716667,Vascular plants,Acer saccharum,2.0,NISP,pollen,,10408.0,,,Radiocarbon years BP,860.0,,pollen,6/30/2007,462.0,0.4329004329
+202,Anderson Lake,46.416667,-92.716667,46.416667,46.416667,-92.716667,-92.716667,Vascular plants,Acer saccharum,2.0,NISP,pollen,,10442.0,,,Radiocarbon years BP,870.0,,pollen,6/30/2007,389.0,0.514138817481
+202,Anderson Lake,46.416667,-92.716667,46.416667,46.416667,-92.716667,-92.716667,Vascular plants,Acer saccharum,1.0,NISP,pollen,,10475.0,,,Radiocarbon years BP,880.0,,pollen,6/30/2007,439.0,0.227790432802
+204,Andree Bog,45.725,-93.25,45.725,45.725,-93.25,-93.25,Vascular plants,Acer saccharum,4.0,NISP,pollen,,8970.0,,,Radiocarbon years BP,425.0,300.0,pollen,6/30/2007,557.0,0.718132854578
+204,Andree Bog,45.725,-93.25,45.725,45.725,-93.25,-93.25,Vascular plants,Acer saccharum,2.0,NISP,pollen,,9212.0,,,Radiocarbon years BP,445.0,300.0,pollen,6/30/2007,489.0,0.40899795501
+204,Andree Bog,45.725,-93.25,45.725,45.725,-93.25,-93.25,Vascular plants,Acer saccharum,1.0,NISP,pollen,,9939.0,,,Radiocarbon years BP,505.0,300.0,pollen,6/30/2007,410.0,0.243902439024
+204,Andree Bog,45.725,-93.25,45.725,45.725,-93.25,-93.25,Vascular plants,Acer saccharum,2.0,NISP,pollen,,10061.0,,,Radiocarbon years BP,515.0,300.0,pollen,6/30/2007,968.0,0.206611570248
+204,Andree Bog,45.725,-93.25,45.725,45.725,-93.25,-93.25,Vascular plants,Acer saccharum,1.0,NISP,pollen,,10424.0,,,Radiocarbon years BP,545.0,300.0,pollen,6/30/2007,232.0,0.431034482759
+205,Andrus Lake,46.7,-85.040278,46.7,46.7,-85.040278,-85.040278,Vascular plants,Acer saccharum,1.0,NISP,pollen,,-33.0,,,Radiocarbon years BP,0.25,190.0,pollen,6/30/2007,248.0,0.403225806452
+205,Andrus Lake,46.7,-85.040278,46.7,46.7,-85.040278,-85.040278,Vascular plants,Acer saccharum,1.0,NISP,pollen,,-22.0,,,Radiocarbon years BP,3.25,190.0,pollen,6/30/2007,268.0,0.373134328358
+205,Andrus Lake,46.7,-85.040278,46.7,46.7,-85.040278,-85.040278,Vascular plants,Acer saccharum,1.0,NISP,pollen,,-5.0,,,Radiocarbon years BP,6.25,190.0,pollen,6/30/2007,332.0,0.301204819277
+205,Andrus Lake,46.7,-85.040278,46.7,46.7,-85.040278,-85.040278,Vascular plants,Acer saccharum,2.0,NISP,pollen,,28.0,,,Radiocarbon years BP,10.25,190.0,pollen,6/30/2007,246.0,0.813008130081
+205,Andrus Lake,46.7,-85.040278,46.7,46.7,-85.040278,-85.040278,Vascular plants,Acer saccharum,2.0,NISP,pollen,,32.0,,,Radiocarbon years BP,10.75,190.0,pollen,6/30/2007,242.0,0.826446280992
+205,Andrus Lake,46.7,-85.040278,46.7,46.7,-85.040278,-85.040278,Vascular plants,Acer saccharum,7.0,NISP,pollen,,35.0,,,Radiocarbon years BP,11.25,190.0,pollen,6/30/2007,274.0,2.55474452555
+205,Andrus Lake,46.7,-85.040278,46.7,46.7,-85.040278,-85.040278,Vascular plants,Acer saccharum,1.0,NISP,pollen,,38.0,,,Radiocarbon years BP,11.75,190.0,pollen,6/30/2007,227.0,0.440528634361
+205,Andrus Lake,46.7,-85.040278,46.7,46.7,-85.040278,-85.040278,Vascular plants,Acer saccharum,5.0,NISP,pollen,,40.0,,,Radiocarbon years BP,12.25,190.0,pollen,6/30/2007,248.0,2.01612903226
+205,Andrus Lake,46.7,-85.040278,46.7,46.7,-85.040278,-85.040278,Vascular plants,Acer saccharum,5.0,NISP,pollen,,51.0,,,Radiocarbon years BP,15.25,190.0,pollen,6/30/2007,258.0,1.93798449612
+205,Andrus Lake,46.7,-85.040278,46.7,46.7,-85.040278,-85.040278,Vascular plants,Acer saccharum,3.0,NISP,pollen,,54.0,,,Radiocarbon years BP,16.75,190.0,pollen,6/30/2007,268.0,1.11940298507
+205,Andrus Lake,46.7,-85.040278,46.7,46.7,-85.040278,-85.040278,Vascular plants,Acer saccharum,6.0,NISP,pollen,,58.0,,,Radiocarbon years BP,18.25,190.0,pollen,6/30/2007,272.0,2.20588235294
+205,Andrus Lake,46.7,-85.040278,46.7,46.7,-85.040278,-85.040278,Vascular plants,Acer saccharum,4.0,NISP,pollen,,84.0,,,Radiocarbon years BP,25.25,190.0,pollen,6/30/2007,243.0,1.64609053498
+205,Andrus Lake,46.7,-85.040278,46.7,46.7,-85.040278,-85.040278,Vascular plants,Acer saccharum,5.0,NISP,pollen,,141.0,,,Radiocarbon years BP,40.5,190.0,pollen,6/30/2007,314.0,1.5923566879

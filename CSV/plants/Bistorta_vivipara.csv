@@ -1,0 +1,2 @@
+siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
+69,Amguema River Valley Exposure 2,67.666667,178.6,67.666667,67.666667,178.6,178.6,Vascular plants,Bistorta vivipara,1.0,NISP,pollen,,2324.0,,,Radiocarbon years BP,300.0,87.0,pollen,6/30/2007,109.0,0.917431192661

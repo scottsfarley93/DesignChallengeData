@@ -1,0 +1,84 @@
+siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
+19,Akulinin Exposure P1282,47.116667,138.55,47.116667,47.116667,138.55,138.55,Vascular plants,Picea undiff.,4.0,NISP,pollen,,529.0,,,Radiocarbon years BP,60.0,20.0,pollen,6/30/2007,244.0,1.6393442623
+19,Akulinin Exposure P1282,47.116667,138.55,47.116667,47.116667,138.55,138.55,Vascular plants,Picea undiff.,32.0,NISP,pollen,,16771.0,,,Radiocarbon years BP,230.0,20.0,pollen,6/30/2007,355.0,9.01408450704
+19,Akulinin Exposure P1282,47.116667,138.55,47.116667,47.116667,138.55,138.55,Vascular plants,Picea undiff.,28.0,NISP,pollen,,18777.0,,,Radiocarbon years BP,251.0,20.0,pollen,6/30/2007,488.0,5.73770491803
+19,Akulinin Exposure P1282,47.116667,138.55,47.116667,47.116667,138.55,138.55,Vascular plants,Picea undiff.,11.0,NISP,pollen,,19350.0,,,Radiocarbon years BP,257.0,20.0,pollen,6/30/2007,610.0,1.80327868852
+19,Akulinin Exposure P1282,47.116667,138.55,47.116667,47.116667,138.55,138.55,Vascular plants,Picea undiff.,3.0,NISP,pollen,,20592.0,,,Radiocarbon years BP,270.0,20.0,pollen,6/30/2007,446.0,0.67264573991
+19,Akulinin Exposure P1282,47.116667,138.55,47.116667,47.116667,138.55,138.55,Vascular plants,Picea undiff.,7.0,NISP,pollen,,22026.0,,,Radiocarbon years BP,285.0,20.0,pollen,6/30/2007,563.0,1.243339254
+19,Akulinin Exposure P1282,47.116667,138.55,47.116667,47.116667,138.55,138.55,Vascular plants,Picea undiff.,6.0,NISP,pollen,,22503.0,,,Radiocarbon years BP,290.0,20.0,pollen,6/30/2007,565.0,1.06194690265
+19,Akulinin Exposure P1282,47.116667,138.55,47.116667,47.116667,138.55,138.55,Vascular plants,Picea undiff.,12.0,NISP,pollen,,22981.0,,,Radiocarbon years BP,295.0,20.0,pollen,6/30/2007,509.0,2.35756385069
+19,Akulinin Exposure P1282,47.116667,138.55,47.116667,47.116667,138.55,138.55,Vascular plants,Picea undiff.,10.0,NISP,pollen,,23745.0,,,Radiocarbon years BP,303.0,20.0,pollen,6/30/2007,758.0,1.31926121372
+19,Akulinin Exposure P1282,47.116667,138.55,47.116667,47.116667,138.55,138.55,Vascular plants,Picea undiff.,12.0,NISP,pollen,,24414.0,,,Radiocarbon years BP,310.0,20.0,pollen,6/30/2007,534.0,2.24719101124
+19,Akulinin Exposure P1282,47.116667,138.55,47.116667,47.116667,138.55,138.55,Vascular plants,Picea undiff.,10.0,NISP,pollen,,24892.0,,,Radiocarbon years BP,315.0,20.0,pollen,6/30/2007,384.0,2.60416666667
+19,Akulinin Exposure P1282,47.116667,138.55,47.116667,47.116667,138.55,138.55,Vascular plants,Picea undiff.,9.0,NISP,pollen,,25370.0,,,Radiocarbon years BP,320.0,20.0,pollen,6/30/2007,465.0,1.93548387097
+19,Akulinin Exposure P1282,47.116667,138.55,47.116667,47.116667,138.55,138.55,Vascular plants,Picea undiff.,16.0,NISP,pollen,,26325.0,,,Radiocarbon years BP,330.0,20.0,pollen,6/30/2007,530.0,3.01886792453
+19,Akulinin Exposure P1282,47.116667,138.55,47.116667,47.116667,138.55,138.55,Vascular plants,Picea undiff.,19.0,NISP,pollen,,27280.0,,,Radiocarbon years BP,340.0,20.0,pollen,6/30/2007,631.0,3.01109350238
+19,Akulinin Exposure P1282,47.116667,138.55,47.116667,47.116667,138.55,138.55,Vascular plants,Picea undiff.,10.0,NISP,pollen,,28236.0,,,Radiocarbon years BP,350.0,20.0,pollen,6/30/2007,557.0,1.79533213645
+19,Akulinin Exposure P1282,47.116667,138.55,47.116667,47.116667,138.55,138.55,Vascular plants,Picea undiff.,2.0,NISP,pollen,,29191.0,,,Radiocarbon years BP,360.0,20.0,pollen,6/30/2007,465.0,0.430107526882
+19,Akulinin Exposure P1282,47.116667,138.55,47.116667,47.116667,138.55,138.55,Vascular plants,Picea undiff.,6.0,NISP,pollen,,30147.0,,,Radiocarbon years BP,370.0,20.0,pollen,6/30/2007,460.0,1.30434782609
+19,Akulinin Exposure P1282,47.116667,138.55,47.116667,47.116667,138.55,138.55,Vascular plants,Picea undiff.,5.0,NISP,pollen,,31102.0,,,Radiocarbon years BP,380.0,20.0,pollen,6/30/2007,445.0,1.12359550562
+19,Akulinin Exposure P1282,47.116667,138.55,47.116667,47.116667,138.55,138.55,Vascular plants,Picea undiff.,6.0,NISP,pollen,,32057.0,,,Radiocarbon years BP,390.0,20.0,pollen,6/30/2007,376.0,1.59574468085
+19,Akulinin Exposure P1282,47.116667,138.55,47.116667,47.116667,138.55,138.55,Vascular plants,Picea undiff.,14.0,NISP,pollen,,33013.0,,,Radiocarbon years BP,400.0,20.0,pollen,6/30/2007,458.0,3.05676855895
+19,Akulinin Exposure P1282,47.116667,138.55,47.116667,47.116667,138.55,138.55,Vascular plants,Picea undiff.,3.0,NISP,pollen,,38745.0,,,Radiocarbon years BP,460.0,20.0,pollen,6/30/2007,208.0,1.44230769231
+19,Akulinin Exposure P1282,47.116667,138.55,47.116667,47.116667,138.55,138.55,Vascular plants,Picea undiff.,20.0,NISP,pollen,,44478.0,,,Radiocarbon years BP,520.0,20.0,pollen,6/30/2007,355.0,5.6338028169
+68,Amguema River Valley Exposure 1,67.75,178.7,67.75,67.75,178.7,178.7,Vascular plants,Picea undiff.,1.0,NISP,pollen,,21064.0,,,Radiocarbon years BP,1200.0,175.0,pollen,6/30/2007,218.0,0.45871559633
+69,Amguema River Valley Exposure 2,67.666667,178.6,67.666667,67.666667,178.6,178.6,Vascular plants,Picea undiff.,1.0,NISP,pollen,,2162.0,,,Radiocarbon years BP,200.0,87.0,pollen,6/30/2007,292.0,0.342465753425
+69,Amguema River Valley Exposure 2,67.666667,178.6,67.666667,67.666667,178.6,178.6,Vascular plants,Picea undiff.,1.0,NISP,pollen,,2324.0,,,Radiocarbon years BP,300.0,87.0,pollen,6/30/2007,109.0,0.917431192661
+69,Amguema River Valley Exposure 2,67.666667,178.6,67.666667,67.666667,178.6,178.6,Vascular plants,Picea undiff.,2.0,NISP,pollen,,2648.0,,,Radiocarbon years BP,500.0,87.0,pollen,6/30/2007,259.0,0.772200772201
+69,Amguema River Valley Exposure 2,67.666667,178.6,67.666667,67.666667,178.6,178.6,Vascular plants,Picea undiff.,1.0,NISP,pollen,,2972.0,,,Radiocarbon years BP,700.0,87.0,pollen,6/30/2007,106.0,0.943396226415
+206,Andy Lake,64.65,-128.083333,64.65,64.65,-128.083333,-128.083333,Vascular plants,Picea undiff.,28.5,NISP,pollen,,0.0,,,Radiocarbon years BP,0.0,1360.0,pollen,6/30/2007,419.5,6.79380214541
+206,Andy Lake,64.65,-128.083333,64.65,64.65,-128.083333,-128.083333,Vascular plants,Picea undiff.,31.5,NISP,pollen,,234.0,,,Radiocarbon years BP,2.5,1360.0,pollen,6/30/2007,413.5,7.61789600967
+206,Andy Lake,64.65,-128.083333,64.65,64.65,-128.083333,-128.083333,Vascular plants,Picea undiff.,37.5,NISP,pollen,,468.0,,,Radiocarbon years BP,5.0,1360.0,pollen,6/30/2007,404.0,9.28217821782
+206,Andy Lake,64.65,-128.083333,64.65,64.65,-128.083333,-128.083333,Vascular plants,Picea undiff.,19.5,NISP,pollen,,702.0,,,Radiocarbon years BP,7.5,1360.0,pollen,6/30/2007,295.0,6.61016949153
+206,Andy Lake,64.65,-128.083333,64.65,64.65,-128.083333,-128.083333,Vascular plants,Picea undiff.,45.0,NISP,pollen,,936.0,,,Radiocarbon years BP,10.0,1360.0,pollen,6/30/2007,418.0,10.7655502392
+206,Andy Lake,64.65,-128.083333,64.65,64.65,-128.083333,-128.083333,Vascular plants,Picea undiff.,38.0,NISP,pollen,,1170.0,,,Radiocarbon years BP,12.5,1360.0,pollen,6/30/2007,449.5,8.45383759733
+206,Andy Lake,64.65,-128.083333,64.65,64.65,-128.083333,-128.083333,Vascular plants,Picea undiff.,33.5,NISP,pollen,,1404.0,,,Radiocarbon years BP,15.0,1360.0,pollen,6/30/2007,417.5,8.02395209581
+206,Andy Lake,64.65,-128.083333,64.65,64.65,-128.083333,-128.083333,Vascular plants,Picea undiff.,30.5,NISP,pollen,,1872.0,,,Radiocarbon years BP,20.0,1360.0,pollen,6/30/2007,411.0,7.42092457421
+206,Andy Lake,64.65,-128.083333,64.65,64.65,-128.083333,-128.083333,Vascular plants,Picea undiff.,42.0,NISP,pollen,,2340.0,,,Radiocarbon years BP,25.0,1360.0,pollen,6/30/2007,431.5,9.73348783314
+206,Andy Lake,64.65,-128.083333,64.65,64.65,-128.083333,-128.083333,Vascular plants,Picea undiff.,30.0,NISP,pollen,,2529.0,,,Radiocarbon years BP,30.0,1360.0,pollen,6/30/2007,413.0,7.26392251816
+206,Andy Lake,64.65,-128.083333,64.65,64.65,-128.083333,-128.083333,Vascular plants,Picea undiff.,38.0,NISP,pollen,,2718.0,,,Radiocarbon years BP,35.0,1360.0,pollen,6/30/2007,416.5,9.12364945978
+206,Andy Lake,64.65,-128.083333,64.65,64.65,-128.083333,-128.083333,Vascular plants,Picea undiff.,45.0,NISP,pollen,,2908.0,,,Radiocarbon years BP,40.0,1360.0,pollen,6/30/2007,434.0,10.3686635945
+206,Andy Lake,64.65,-128.083333,64.65,64.65,-128.083333,-128.083333,Vascular plants,Picea undiff.,36.5,NISP,pollen,,3002.0,,,Radiocarbon years BP,42.5,1360.0,pollen,6/30/2007,423.5,8.6186540732
+206,Andy Lake,64.65,-128.083333,64.65,64.65,-128.083333,-128.083333,Vascular plants,Picea undiff.,56.5,NISP,pollen,,3097.0,,,Radiocarbon years BP,45.0,1360.0,pollen,6/30/2007,411.0,13.7469586375
+206,Andy Lake,64.65,-128.083333,64.65,64.65,-128.083333,-128.083333,Vascular plants,Picea undiff.,51.5,NISP,pollen,,3192.0,,,Radiocarbon years BP,47.5,1360.0,pollen,6/30/2007,444.5,11.5860517435
+206,Andy Lake,64.65,-128.083333,64.65,64.65,-128.083333,-128.083333,Vascular plants,Picea undiff.,64.5,NISP,pollen,,3286.0,,,Radiocarbon years BP,50.0,1360.0,pollen,6/30/2007,439.5,14.6757679181
+206,Andy Lake,64.65,-128.083333,64.65,64.65,-128.083333,-128.083333,Vascular plants,Picea undiff.,38.0,NISP,pollen,,3381.0,,,Radiocarbon years BP,52.5,1360.0,pollen,6/30/2007,413.0,9.200968523
+206,Andy Lake,64.65,-128.083333,64.65,64.65,-128.083333,-128.083333,Vascular plants,Picea undiff.,68.0,NISP,pollen,,3475.0,,,Radiocarbon years BP,55.0,1360.0,pollen,6/30/2007,369.0,18.4281842818
+206,Andy Lake,64.65,-128.083333,64.65,64.65,-128.083333,-128.083333,Vascular plants,Picea undiff.,58.0,NISP,pollen,,3570.0,,,Radiocarbon years BP,57.5,1360.0,pollen,6/30/2007,439.0,13.2118451025
+206,Andy Lake,64.65,-128.083333,64.65,64.65,-128.083333,-128.083333,Vascular plants,Picea undiff.,53.0,NISP,pollen,,3665.0,,,Radiocarbon years BP,60.0,1360.0,pollen,6/30/2007,410.0,12.9268292683
+206,Andy Lake,64.65,-128.083333,64.65,64.65,-128.083333,-128.083333,Vascular plants,Picea undiff.,69.5,NISP,pollen,,3759.0,,,Radiocarbon years BP,62.5,1360.0,pollen,6/30/2007,429.5,16.1816065192
+206,Andy Lake,64.65,-128.083333,64.65,64.65,-128.083333,-128.083333,Vascular plants,Picea undiff.,36.5,NISP,pollen,,3854.0,,,Radiocarbon years BP,65.0,1360.0,pollen,6/30/2007,411.5,8.86998784933
+206,Andy Lake,64.65,-128.083333,64.65,64.65,-128.083333,-128.083333,Vascular plants,Picea undiff.,46.5,NISP,pollen,,4043.0,,,Radiocarbon years BP,70.0,1360.0,pollen,6/30/2007,428.5,10.8518086348
+206,Andy Lake,64.65,-128.083333,64.65,64.65,-128.083333,-128.083333,Vascular plants,Picea undiff.,52.5,NISP,pollen,,4232.0,,,Radiocarbon years BP,75.0,1360.0,pollen,6/30/2007,416.0,12.6201923077
+206,Andy Lake,64.65,-128.083333,64.65,64.65,-128.083333,-128.083333,Vascular plants,Picea undiff.,35.5,NISP,pollen,,4422.0,,,Radiocarbon years BP,80.0,1360.0,pollen,6/30/2007,412.5,8.60606060606
+206,Andy Lake,64.65,-128.083333,64.65,64.65,-128.083333,-128.083333,Vascular plants,Picea undiff.,28.5,NISP,pollen,,4611.0,,,Radiocarbon years BP,85.0,1360.0,pollen,6/30/2007,409.5,6.95970695971
+206,Andy Lake,64.65,-128.083333,64.65,64.65,-128.083333,-128.083333,Vascular plants,Picea undiff.,45.5,NISP,pollen,,4800.0,,,Radiocarbon years BP,90.0,1360.0,pollen,6/30/2007,440.5,10.3291713961
+206,Andy Lake,64.65,-128.083333,64.65,64.65,-128.083333,-128.083333,Vascular plants,Picea undiff.,48.0,NISP,pollen,,5013.0,,,Radiocarbon years BP,95.0,1360.0,pollen,6/30/2007,456.0,10.5263157895
+206,Andy Lake,64.65,-128.083333,64.65,64.65,-128.083333,-128.083333,Vascular plants,Picea undiff.,57.5,NISP,pollen,,5226.0,,,Radiocarbon years BP,100.0,1360.0,pollen,6/30/2007,484.0,11.8801652893
+206,Andy Lake,64.65,-128.083333,64.65,64.65,-128.083333,-128.083333,Vascular plants,Picea undiff.,35.0,NISP,pollen,,5439.0,,,Radiocarbon years BP,105.0,1360.0,pollen,6/30/2007,457.0,7.65864332604
+206,Andy Lake,64.65,-128.083333,64.65,64.65,-128.083333,-128.083333,Vascular plants,Picea undiff.,23.0,NISP,pollen,,5651.0,,,Radiocarbon years BP,110.0,1360.0,pollen,6/30/2007,492.5,4.67005076142
+206,Andy Lake,64.65,-128.083333,64.65,64.65,-128.083333,-128.083333,Vascular plants,Picea undiff.,44.0,NISP,pollen,,5864.0,,,Radiocarbon years BP,115.0,1360.0,pollen,6/30/2007,492.5,8.93401015228
+206,Andy Lake,64.65,-128.083333,64.65,64.65,-128.083333,-128.083333,Vascular plants,Picea undiff.,50.5,NISP,pollen,,6077.0,,,Radiocarbon years BP,120.0,1360.0,pollen,6/30/2007,468.0,10.7905982906
+206,Andy Lake,64.65,-128.083333,64.65,64.65,-128.083333,-128.083333,Vascular plants,Picea undiff.,46.0,NISP,pollen,,6290.0,,,Radiocarbon years BP,125.0,1360.0,pollen,6/30/2007,446.5,10.3023516237
+206,Andy Lake,64.65,-128.083333,64.65,64.65,-128.083333,-128.083333,Vascular plants,Picea undiff.,44.0,NISP,pollen,,6415.0,,,Radiocarbon years BP,127.5,1360.0,pollen,6/30/2007,404.0,10.8910891089
+206,Andy Lake,64.65,-128.083333,64.65,64.65,-128.083333,-128.083333,Vascular plants,Picea undiff.,63.5,NISP,pollen,,6541.0,,,Radiocarbon years BP,130.0,1360.0,pollen,6/30/2007,510.5,12.4387855044
+206,Andy Lake,64.65,-128.083333,64.65,64.65,-128.083333,-128.083333,Vascular plants,Picea undiff.,55.0,NISP,pollen,,6666.0,,,Radiocarbon years BP,132.5,1360.0,pollen,6/30/2007,401.5,13.698630137
+206,Andy Lake,64.65,-128.083333,64.65,64.65,-128.083333,-128.083333,Vascular plants,Picea undiff.,39.0,NISP,pollen,,6792.0,,,Radiocarbon years BP,135.0,1360.0,pollen,6/30/2007,434.5,8.97583429229
+206,Andy Lake,64.65,-128.083333,64.65,64.65,-128.083333,-128.083333,Vascular plants,Picea undiff.,33.0,NISP,pollen,,6917.0,,,Radiocarbon years BP,137.5,1360.0,pollen,6/30/2007,417.5,7.90419161677
+206,Andy Lake,64.65,-128.083333,64.65,64.65,-128.083333,-128.083333,Vascular plants,Picea undiff.,46.0,NISP,pollen,,7043.0,,,Radiocarbon years BP,140.0,1360.0,pollen,6/30/2007,414.5,11.097708082
+206,Andy Lake,64.65,-128.083333,64.65,64.65,-128.083333,-128.083333,Vascular plants,Picea undiff.,27.5,NISP,pollen,,7168.0,,,Radiocarbon years BP,142.5,1360.0,pollen,6/30/2007,420.0,6.54761904762
+206,Andy Lake,64.65,-128.083333,64.65,64.65,-128.083333,-128.083333,Vascular plants,Picea undiff.,52.5,NISP,pollen,,7293.0,,,Radiocarbon years BP,145.0,1360.0,pollen,6/30/2007,457.0,11.4879649891
+206,Andy Lake,64.65,-128.083333,64.65,64.65,-128.083333,-128.083333,Vascular plants,Picea undiff.,22.5,NISP,pollen,,7419.0,,,Radiocarbon years BP,147.5,1360.0,pollen,6/30/2007,418.0,5.38277511962
+206,Andy Lake,64.65,-128.083333,64.65,64.65,-128.083333,-128.083333,Vascular plants,Picea undiff.,43.5,NISP,pollen,,7544.0,,,Radiocarbon years BP,150.0,1360.0,pollen,6/30/2007,434.0,10.0230414747
+206,Andy Lake,64.65,-128.083333,64.65,64.65,-128.083333,-128.083333,Vascular plants,Picea undiff.,36.0,NISP,pollen,,7670.0,,,Radiocarbon years BP,152.5,1360.0,pollen,6/30/2007,431.5,8.34298957126
+206,Andy Lake,64.65,-128.083333,64.65,64.65,-128.083333,-128.083333,Vascular plants,Picea undiff.,53.0,NISP,pollen,,7795.0,,,Radiocarbon years BP,155.0,1360.0,pollen,6/30/2007,495.5,10.6962663976
+206,Andy Lake,64.65,-128.083333,64.65,64.65,-128.083333,-128.083333,Vascular plants,Picea undiff.,16.5,NISP,pollen,,7921.0,,,Radiocarbon years BP,157.5,1360.0,pollen,6/30/2007,418.5,3.94265232975
+206,Andy Lake,64.65,-128.083333,64.65,64.65,-128.083333,-128.083333,Vascular plants,Picea undiff.,20.0,NISP,pollen,,8096.0,,,Radiocarbon years BP,161.0,1360.0,pollen,6/30/2007,444.0,4.5045045045
+206,Andy Lake,64.65,-128.083333,64.65,64.65,-128.083333,-128.083333,Vascular plants,Picea undiff.,30.5,NISP,pollen,,8297.0,,,Radiocarbon years BP,165.0,1360.0,pollen,6/30/2007,453.5,6.72546857773
+206,Andy Lake,64.65,-128.083333,64.65,64.65,-128.083333,-128.083333,Vascular plants,Picea undiff.,21.5,NISP,pollen,,8548.0,,,Radiocarbon years BP,170.0,1360.0,pollen,6/30/2007,440.0,4.88636363636
+206,Andy Lake,64.65,-128.083333,64.65,64.65,-128.083333,-128.083333,Vascular plants,Picea undiff.,6.5,NISP,pollen,,8799.0,,,Radiocarbon years BP,175.0,1360.0,pollen,6/30/2007,436.0,1.49082568807
+206,Andy Lake,64.65,-128.083333,64.65,64.65,-128.083333,-128.083333,Vascular plants,Picea undiff.,3.5,NISP,pollen,,9050.0,,,Radiocarbon years BP,180.0,1360.0,pollen,6/30/2007,488.0,0.717213114754
+206,Andy Lake,64.65,-128.083333,64.65,64.65,-128.083333,-128.083333,Vascular plants,Picea undiff.,3.5,NISP,pollen,,9300.0,,,Radiocarbon years BP,185.0,1360.0,pollen,6/30/2007,469.5,0.745473908413
+206,Andy Lake,64.65,-128.083333,64.65,64.65,-128.083333,-128.083333,Vascular plants,Picea undiff.,2.0,NISP,pollen,,9551.0,,,Radiocarbon years BP,190.0,1360.0,pollen,6/30/2007,440.0,0.454545454545
+206,Andy Lake,64.65,-128.083333,64.65,64.65,-128.083333,-128.083333,Vascular plants,Picea undiff.,0.5,NISP,pollen,,9802.0,,,Radiocarbon years BP,195.0,1360.0,pollen,6/30/2007,447.5,0.111731843575
+206,Andy Lake,64.65,-128.083333,64.65,64.65,-128.083333,-128.083333,Vascular plants,Picea undiff.,1.0,NISP,pollen,,11307.0,,,Radiocarbon years BP,225.0,1360.0,pollen,6/30/2007,179.0,0.558659217877

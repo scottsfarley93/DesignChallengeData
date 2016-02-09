@@ -1,0 +1,4 @@
+siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
+824,French Lake,44.945765,-94.42074,44.9482,44.94333,-94.41676,-94.42472,Vascular plants,Trifolium pratense,1.0,NISP,pollen,,93.0,,,Radiocarbon years BP,655.0,327.0,pollen,6/30/2007,922.0,0.108459869848
+2933,Wolsfeld Lake,45.005,-93.5727,45.008,45.002,-93.5684,-93.577,Vascular plants,Trifolium pratense,1.0,NISP,pollen,,21.0,,,Radiocarbon years BP,662.0,292.0,pollen,6/30/2007,879.5,0.113700966458
+2933,Wolsfeld Lake,45.005,-93.5727,45.008,45.002,-93.5684,-93.577,Vascular plants,Trifolium pratense,2.0,NISP,pollen,,93.0,,,Radiocarbon years BP,702.0,292.0,pollen,6/30/2007,627.5,0.318725099602

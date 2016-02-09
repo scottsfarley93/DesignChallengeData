@@ -1,0 +1,6 @@
+siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
+1537,Lago de Ajo,43.05,-6.15,43.05,43.05,-6.15,-6.15,Vascular plants,Cannabis sativa,1.0,NISP,pollen,,722.0,,,Radiocarbon years BP,2120.0,1570.0,pollen,6/30/2007,333.0,0.3003003003
+1537,Lago de Ajo,43.05,-6.15,43.05,43.05,-6.15,-6.15,Vascular plants,Cannabis sativa,1.0,NISP,pollen,,830.0,,,Radiocarbon years BP,2130.0,1570.0,pollen,6/30/2007,317.0,0.315457413249
+1735,Nels Lake,48.033333,-91.9,48.033333,48.033333,-91.9,-91.9,Vascular plants,Cannabis sativa,2.0,NISP,pollen,,3.0,,,Radiocarbon years BP,12.75,428.0,pollen,6/30/2007,242.0,0.826446280992
+2503,Splains Gulch,38.832778,-107.068889,38.832778,38.832778,-107.068889,-107.068889,Vascular plants,Cannabis sativa,1.0,NISP,pollen,,9125.0,,,Radiocarbon years BP,220.0,3150.0,pollen,6/30/2007,319.0,0.313479623824
+2966,Aholami,61.883333,25.216667,61.883333,61.883333,25.216667,25.216667,Vascular plants,Cannabis sativa,1.0,NISP,pollen,,1975.0,,,Radiocarbon years BP,1057.5,114.0,pollen,6/30/2007,1049.0,0.095328884652

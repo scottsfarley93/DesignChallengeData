@@ -1,0 +1,7 @@
+siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
+204,Andree Bog,45.725,-93.25,45.725,45.725,-93.25,-93.25,Vascular plants,Abies balsamea,1.0,NISP,pollen,,8970.0,,,Radiocarbon years BP,425.0,300.0,pollen,6/30/2007,557.0,0.179533213645
+204,Andree Bog,45.725,-93.25,45.725,45.725,-93.25,-93.25,Vascular plants,Abies balsamea,2.0,NISP,pollen,,9212.0,,,Radiocarbon years BP,445.0,300.0,pollen,6/30/2007,489.0,0.40899795501
+204,Andree Bog,45.725,-93.25,45.725,45.725,-93.25,-93.25,Vascular plants,Abies balsamea,1.0,NISP,pollen,,9939.0,,,Radiocarbon years BP,505.0,300.0,pollen,6/30/2007,410.0,0.243902439024
+204,Andree Bog,45.725,-93.25,45.725,45.725,-93.25,-93.25,Vascular plants,Abies balsamea,3.0,NISP,pollen,,10061.0,,,Radiocarbon years BP,515.0,300.0,pollen,6/30/2007,968.0,0.309917355372
+204,Andree Bog,45.725,-93.25,45.725,45.725,-93.25,-93.25,Vascular plants,Abies balsamea,1.0,NISP,pollen,,10909.0,,,Radiocarbon years BP,585.0,300.0,pollen,6/30/2007,578.0,0.173010380623
+204,Andree Bog,45.725,-93.25,45.725,45.725,-93.25,-93.25,Vascular plants,Abies balsamea,1.0,NISP,pollen,,11200.0,,,Radiocarbon years BP,609.0,300.0,pollen,6/30/2007,207.0,0.48309178744

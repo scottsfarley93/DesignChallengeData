@@ -1,0 +1,433 @@
+siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
+2,15/2,55.833333,-75.016667,55.833333,55.833333,-75.016667,-75.016667,Vascular plants,Huperzia selago,1.0,NISP,spore,,,,,,0.0,305.0,pollen surface sample,6/30/2007,,
+9,Adange,43.305556,41.333333,43.305556,43.305556,41.333333,41.333333,Vascular plants,Huperzia selago,1.0,NISP,spore,,404.0,,,Radiocarbon years BP,38.0,1750.0,pollen,6/30/2007,259.0,0.3861003861
+9,Adange,43.305556,41.333333,43.305556,43.305556,41.333333,41.333333,Vascular plants,Huperzia selago,1.0,NISP,spore,,449.0,,,Radiocarbon years BP,42.0,1750.0,pollen,6/30/2007,208.0,0.480769230769
+9,Adange,43.305556,41.333333,43.305556,43.305556,41.333333,41.333333,Vascular plants,Huperzia selago,1.0,NISP,spore,,579.0,,,Radiocarbon years BP,53.5,1750.0,pollen,6/30/2007,124.0,0.806451612903
+9,Adange,43.305556,41.333333,43.305556,43.305556,41.333333,41.333333,Vascular plants,Huperzia selago,1.0,NISP,spore,,3908.0,,,Radiocarbon years BP,195.0,1750.0,pollen,6/30/2007,261.0,0.383141762452
+9,Adange,43.305556,41.333333,43.305556,43.305556,41.333333,41.333333,Vascular plants,Huperzia selago,1.0,NISP,spore,,4000.0,,,Radiocarbon years BP,200.0,1750.0,pollen,6/30/2007,237.0,0.42194092827
+11,"Konus Exposure, Adycha River",67.75,135.583333,67.75,67.75,135.583333,135.583333,Vascular plants,Huperzia selago,1.0,NISP,spore,,1000.0,,,Radiocarbon years BP,0.0,130.0,pollen,6/30/2007,505.0,0.19801980198
+11,"Konus Exposure, Adycha River",67.75,135.583333,67.75,67.75,135.583333,135.583333,Vascular plants,Huperzia selago,1.0,NISP,spore,,4553.0,,,Radiocarbon years BP,150.0,130.0,pollen,6/30/2007,242.0,0.413223140496
+24,Alexander Lake,53.333333,-60.583333,53.333333,53.333333,-60.583333,-60.583333,Vascular plants,Huperzia selago,1.0,NISP,spore,,2821.0,,,Radiocarbon years BP,20.0,143.0,pollen,6/30/2007,410.0,0.243902439024
+24,Alexander Lake,53.333333,-60.583333,53.333333,53.333333,-60.583333,-60.583333,Vascular plants,Huperzia selago,1.0,NISP,spore,,4398.0,,,Radiocarbon years BP,70.0,143.0,pollen,6/30/2007,207.0,0.48309178744
+24,Alexander Lake,53.333333,-60.583333,53.333333,53.333333,-60.583333,-60.583333,Vascular plants,Huperzia selago,1.0,NISP,spore,,4914.0,,,Radiocarbon years BP,100.0,143.0,pollen,6/30/2007,210.0,0.47619047619
+24,Alexander Lake,53.333333,-60.583333,53.333333,53.333333,-60.583333,-60.583333,Vascular plants,Huperzia selago,1.0,NISP,spore,,5954.0,,,Radiocarbon years BP,177.0,143.0,pollen,6/30/2007,276.0,0.36231884058
+200,Amtkel,43.268056,41.308333,43.268056,43.268056,41.308333,41.308333,Vascular plants,Huperzia selago,1.0,NISP,spore,,1839.0,,,Radiocarbon years BP,103.0,1830.0,pollen,6/30/2007,243.0,0.411522633745
+212,Arakamchechen Island Exposure,64.75,-172.083333,64.75,64.75,-172.083333,-172.083333,Vascular plants,Huperzia selago,12.0,NISP,spore,,522.0,,,Radiocarbon years BP,20.0,7.0,pollen,6/30/2007,781.0,1.53649167734
+212,Arakamchechen Island Exposure,64.75,-172.083333,64.75,64.75,-172.083333,-172.083333,Vascular plants,Huperzia selago,2.0,NISP,spore,,2611.0,,,Radiocarbon years BP,100.0,7.0,pollen,6/30/2007,290.0,0.689655172414
+212,Arakamchechen Island Exposure,64.75,-172.083333,64.75,64.75,-172.083333,-172.083333,Vascular plants,Huperzia selago,45.0,NISP,spore,,,,,Radiocarbon years BP,320.0,7.0,pollen,6/30/2007,748.0,6.01604278075
+214,Arts Lough,52.95,-6.433333,52.95,52.95,-6.433333,-6.433333,Vascular plants,Huperzia selago,1.0,NISP,spore,,824.0,,,Radiocarbon years BP,10.0,490.0,pollen,6/30/2007,327.0,0.305810397554
+214,Arts Lough,52.95,-6.433333,52.95,52.95,-6.433333,-6.433333,Vascular plants,Huperzia selago,1.0,NISP,spore,,2354.0,,,Radiocarbon years BP,23.0,490.0,pollen,6/30/2007,296.5,0.337268128162
+222,Baird Inlet [Rock Basin Lake],78.491667,-76.78,78.491667,78.491667,-76.78,-76.78,Vascular plants,Huperzia selago,4.0,NISP,spore,,-29.0,,,Radiocarbon years BP,0.0,295.0,pollen,6/30/2007,104.0,3.84615384615
+222,Baird Inlet [Rock Basin Lake],78.491667,-76.78,78.491667,78.491667,-76.78,-76.78,Vascular plants,Huperzia selago,5.0,NISP,spore,,519.0,,,Radiocarbon years BP,3.0,295.0,pollen,6/30/2007,72.0,6.94444444444
+222,Baird Inlet [Rock Basin Lake],78.491667,-76.78,78.491667,78.491667,-76.78,-76.78,Vascular plants,Huperzia selago,3.0,NISP,spore,,975.0,,,Radiocarbon years BP,5.5,295.0,pollen,6/30/2007,100.0,3.0
+222,Baird Inlet [Rock Basin Lake],78.491667,-76.78,78.491667,78.491667,-76.78,-76.78,Vascular plants,Huperzia selago,5.0,NISP,spore,,1432.0,,,Radiocarbon years BP,8.0,295.0,pollen,6/30/2007,97.0,5.15463917526
+222,Baird Inlet [Rock Basin Lake],78.491667,-76.78,78.491667,78.491667,-76.78,-76.78,Vascular plants,Huperzia selago,6.0,NISP,spore,,1889.0,,,Radiocarbon years BP,10.5,295.0,pollen,6/30/2007,123.0,4.87804878049
+222,Baird Inlet [Rock Basin Lake],78.491667,-76.78,78.491667,78.491667,-76.78,-76.78,Vascular plants,Huperzia selago,6.0,NISP,spore,,2345.0,,,Radiocarbon years BP,13.0,295.0,pollen,6/30/2007,98.0,6.12244897959
+222,Baird Inlet [Rock Basin Lake],78.491667,-76.78,78.491667,78.491667,-76.78,-76.78,Vascular plants,Huperzia selago,5.0,NISP,spore,,2802.0,,,Radiocarbon years BP,15.5,295.0,pollen,6/30/2007,100.0,5.0
+222,Baird Inlet [Rock Basin Lake],78.491667,-76.78,78.491667,78.491667,-76.78,-76.78,Vascular plants,Huperzia selago,5.0,NISP,spore,,3258.0,,,Radiocarbon years BP,18.0,295.0,pollen,6/30/2007,92.0,5.4347826087
+222,Baird Inlet [Rock Basin Lake],78.491667,-76.78,78.491667,78.491667,-76.78,-76.78,Vascular plants,Huperzia selago,11.0,NISP,spore,,3715.0,,,Radiocarbon years BP,20.5,295.0,pollen,6/30/2007,124.0,8.87096774194
+222,Baird Inlet [Rock Basin Lake],78.491667,-76.78,78.491667,78.491667,-76.78,-76.78,Vascular plants,Huperzia selago,6.0,NISP,spore,,4215.0,,,Radiocarbon years BP,23.0,295.0,pollen,6/30/2007,110.0,5.45454545455
+222,Baird Inlet [Rock Basin Lake],78.491667,-76.78,78.491667,78.491667,-76.78,-76.78,Vascular plants,Huperzia selago,5.0,NISP,spore,,4890.0,,,Radiocarbon years BP,25.5,295.0,pollen,6/30/2007,74.0,6.75675675676
+222,Baird Inlet [Rock Basin Lake],78.491667,-76.78,78.491667,78.491667,-76.78,-76.78,Vascular plants,Huperzia selago,1.0,NISP,spore,,5565.0,,,Radiocarbon years BP,28.0,295.0,pollen,6/30/2007,107.0,0.934579439252
+222,Baird Inlet [Rock Basin Lake],78.491667,-76.78,78.491667,78.491667,-76.78,-76.78,Vascular plants,Huperzia selago,7.0,NISP,spore,,6240.0,,,Radiocarbon years BP,30.5,295.0,pollen,6/30/2007,104.0,6.73076923077
+222,Baird Inlet [Rock Basin Lake],78.491667,-76.78,78.491667,78.491667,-76.78,-76.78,Vascular plants,Huperzia selago,5.0,NISP,spore,,6848.0,,,Radiocarbon years BP,33.0,295.0,pollen,6/30/2007,102.0,4.90196078431
+222,Baird Inlet [Rock Basin Lake],78.491667,-76.78,78.491667,78.491667,-76.78,-76.78,Vascular plants,Huperzia selago,6.0,NISP,spore,,7191.0,,,Radiocarbon years BP,35.5,295.0,pollen,6/30/2007,110.0,5.45454545455
+222,Baird Inlet [Rock Basin Lake],78.491667,-76.78,78.491667,78.491667,-76.78,-76.78,Vascular plants,Huperzia selago,3.0,NISP,spore,,7533.0,,,Radiocarbon years BP,38.0,295.0,pollen,6/30/2007,108.0,2.77777777778
+222,Baird Inlet [Rock Basin Lake],78.491667,-76.78,78.491667,78.491667,-76.78,-76.78,Vascular plants,Huperzia selago,4.0,NISP,spore,,7875.0,,,Radiocarbon years BP,40.5,295.0,pollen,6/30/2007,111.0,3.6036036036
+222,Baird Inlet [Rock Basin Lake],78.491667,-76.78,78.491667,78.491667,-76.78,-76.78,Vascular plants,Huperzia selago,3.0,NISP,spore,,8217.0,,,Radiocarbon years BP,43.0,295.0,pollen,6/30/2007,113.0,2.65486725664
+222,Baird Inlet [Rock Basin Lake],78.491667,-76.78,78.491667,78.491667,-76.78,-76.78,Vascular plants,Huperzia selago,7.0,NISP,spore,,8559.0,,,Radiocarbon years BP,45.5,295.0,pollen,6/30/2007,112.0,6.25
+222,Baird Inlet [Rock Basin Lake],78.491667,-76.78,78.491667,78.491667,-76.78,-76.78,Vascular plants,Huperzia selago,4.0,NISP,spore,,8902.0,,,Radiocarbon years BP,48.0,295.0,pollen,6/30/2007,99.0,4.0404040404
+222,Baird Inlet [Rock Basin Lake],78.491667,-76.78,78.491667,78.491667,-76.78,-76.78,Vascular plants,Huperzia selago,2.0,NISP,spore,,9244.0,,,Radiocarbon years BP,50.5,295.0,pollen,6/30/2007,104.0,1.92307692308
+222,Baird Inlet [Rock Basin Lake],78.491667,-76.78,78.491667,78.491667,-76.78,-76.78,Vascular plants,Huperzia selago,2.0,NISP,spore,,9586.0,,,Radiocarbon years BP,53.0,295.0,pollen,6/30/2007,54.0,3.7037037037
+222,Baird Inlet [Rock Basin Lake],78.491667,-76.78,78.491667,78.491667,-76.78,-76.78,Vascular plants,Huperzia selago,5.0,NISP,spore,,9928.0,,,Radiocarbon years BP,55.5,295.0,pollen,6/30/2007,59.0,8.47457627119
+223,Ballinloghig Lake,52.2,-10.308333,52.2,52.2,-10.308333,-10.308333,Vascular plants,Huperzia selago,1.0,NISP,spore,,10117.0,,,Radiocarbon years BP,550.0,84.0,pollen,6/30/2007,368.0,0.271739130435
+223,Ballinloghig Lake,52.2,-10.308333,52.2,52.2,-10.308333,-10.308333,Vascular plants,Huperzia selago,4.0,NISP,spore,,10183.0,,,Radiocarbon years BP,552.0,84.0,pollen,6/30/2007,553.0,0.723327305606
+223,Ballinloghig Lake,52.2,-10.308333,52.2,52.2,-10.308333,-10.308333,Vascular plants,Huperzia selago,5.0,NISP,spore,,10346.0,,,Radiocarbon years BP,557.0,84.0,pollen,6/30/2007,497.0,1.0060362173
+223,Ballinloghig Lake,52.2,-10.308333,52.2,52.2,-10.308333,-10.308333,Vascular plants,Huperzia selago,10.0,NISP,spore,,10483.0,,,Radiocarbon years BP,562.0,84.0,pollen,6/30/2007,424.0,2.35849056604
+223,Ballinloghig Lake,52.2,-10.308333,52.2,52.2,-10.308333,-10.308333,Vascular plants,Huperzia selago,4.0,NISP,spore,,10560.0,,,Radiocarbon years BP,567.0,84.0,pollen,6/30/2007,441.0,0.907029478458
+223,Ballinloghig Lake,52.2,-10.308333,52.2,52.2,-10.308333,-10.308333,Vascular plants,Huperzia selago,1.0,NISP,spore,,10637.0,,,Radiocarbon years BP,572.0,84.0,pollen,6/30/2007,541.0,0.184842883549
+223,Ballinloghig Lake,52.2,-10.308333,52.2,52.2,-10.308333,-10.308333,Vascular plants,Huperzia selago,27.0,NISP,spore,,10714.0,,,Radiocarbon years BP,577.0,84.0,pollen,6/30/2007,461.0,5.8568329718
+223,Ballinloghig Lake,52.2,-10.308333,52.2,52.2,-10.308333,-10.308333,Vascular plants,Huperzia selago,2.0,NISP,spore,,10791.0,,,Radiocarbon years BP,582.0,84.0,pollen,6/30/2007,455.0,0.43956043956
+223,Ballinloghig Lake,52.2,-10.308333,52.2,52.2,-10.308333,-10.308333,Vascular plants,Huperzia selago,1.0,NISP,spore,,10868.0,,,Radiocarbon years BP,587.0,84.0,pollen,6/30/2007,403.0,0.248138957816
+223,Ballinloghig Lake,52.2,-10.308333,52.2,52.2,-10.308333,-10.308333,Vascular plants,Huperzia selago,1.0,NISP,spore,,11431.0,,,Radiocarbon years BP,597.0,84.0,pollen,6/30/2007,367.0,0.272479564033
+223,Ballinloghig Lake,52.2,-10.308333,52.2,52.2,-10.308333,-10.308333,Vascular plants,Huperzia selago,1.0,NISP,spore,,13555.0,,,Radiocarbon years BP,602.0,84.0,pollen,6/30/2007,345.0,0.289855072464
+223,Ballinloghig Lake,52.2,-10.308333,52.2,52.2,-10.308333,-10.308333,Vascular plants,Huperzia selago,1.0,NISP,spore,,14106.0,,,Radiocarbon years BP,612.0,84.0,pollen,6/30/2007,223.0,0.448430493274
+224,Ballybetagh,53.166667,-6.25,53.166667,53.166667,-6.25,-6.25,Vascular plants,Huperzia selago,1.0,NISP,spore,,12755.0,,,Radiocarbon years BP,495.0,250.0,pollen,6/30/2007,350.0,0.285714285714
+255,"Betenkyos Exposure, Adycha River",67.666667,135.583333,67.666667,67.666667,135.583333,135.583333,Vascular plants,Huperzia selago,1.0,NISP,spore,,0.0,,,Radiocarbon years BP,0.0,135.0,pollen,6/30/2007,413.0,0.242130750605
+255,"Betenkyos Exposure, Adycha River",67.666667,135.583333,67.666667,67.666667,135.583333,135.583333,Vascular plants,Huperzia selago,1.0,NISP,spore,,178.0,,,Radiocarbon years BP,30.0,135.0,pollen,6/30/2007,456.0,0.219298245614
+255,"Betenkyos Exposure, Adycha River",67.666667,135.583333,67.666667,67.666667,135.583333,135.583333,Vascular plants,Huperzia selago,2.0,NISP,spore,,296.0,,,Radiocarbon years BP,50.0,135.0,pollen,6/30/2007,330.0,0.606060606061
+255,"Betenkyos Exposure, Adycha River",67.666667,135.583333,67.666667,67.666667,135.583333,135.583333,Vascular plants,Huperzia selago,1.0,NISP,spore,,474.0,,,Radiocarbon years BP,80.0,135.0,pollen,6/30/2007,484.0,0.206611570248
+255,"Betenkyos Exposure, Adycha River",67.666667,135.583333,67.666667,67.666667,135.583333,135.583333,Vascular plants,Huperzia selago,1.0,NISP,spore,,740.0,,,Radiocarbon years BP,125.0,135.0,pollen,6/30/2007,436.0,0.229357798165
+255,"Betenkyos Exposure, Adycha River",67.666667,135.583333,67.666667,67.666667,135.583333,135.583333,Vascular plants,Huperzia selago,1.0,NISP,spore,,1080.0,,,Radiocarbon years BP,175.0,135.0,pollen,6/30/2007,451.0,0.221729490022
+255,"Betenkyos Exposure, Adycha River",67.666667,135.583333,67.666667,67.666667,135.583333,135.583333,Vascular plants,Huperzia selago,1.0,NISP,spore,,1930.0,,,Radiocarbon years BP,300.0,135.0,pollen,6/30/2007,424.0,0.235849056604
+255,"Betenkyos Exposure, Adycha River",67.666667,135.583333,67.666667,67.666667,135.583333,135.583333,Vascular plants,Huperzia selago,1.0,NISP,spore,,2474.0,,,Radiocarbon years BP,380.0,135.0,pollen,6/30/2007,440.0,0.227272727273
+255,"Betenkyos Exposure, Adycha River",67.666667,135.583333,67.666667,67.666667,135.583333,135.583333,Vascular plants,Huperzia selago,2.0,NISP,spore,,2882.0,,,Radiocarbon years BP,440.0,135.0,pollen,6/30/2007,375.0,0.533333333333
+256,BI01,57.113333,-76.39,57.113333,57.113333,-76.39,-76.39,Vascular plants,Huperzia selago,2.0,NISP,spore,,,,,,0.0,190.0,pollen surface sample,6/30/2007,,
+258,BI03,57.123333,-76.405,57.123333,57.123333,-76.405,-76.405,Vascular plants,Huperzia selago,1.0,NISP,spore,,,,,,0.0,250.0,pollen surface sample,6/30/2007,,
+259,BI04,57.123333,-76.415,57.123333,57.123333,-76.415,-76.415,Vascular plants,Huperzia selago,2.0,NISP,spore,,,,,,0.0,250.0,pollen surface sample,6/30/2007,,
+260,BI05,57.125,-76.408333,57.125,57.125,-76.408333,-76.408333,Vascular plants,Huperzia selago,2.0,NISP,spore,,,,,,0.0,260.0,pollen surface sample,6/30/2007,,
+279,Blue Lake,-36.416667,148.316667,-36.416667,-36.416667,148.316667,148.316667,Vascular plants,Huperzia selago,1.0,NISP,spore,,1091.0,,,Radiocarbon years BP,78.0,1890.0,pollen,6/30/2007,157.0,0.636942675159
+279,Blue Lake,-36.416667,148.316667,-36.416667,-36.416667,148.316667,148.316667,Vascular plants,Huperzia selago,1.0,NISP,spore,,4583.0,,,Radiocarbon years BP,306.0,1890.0,pollen,6/30/2007,333.0,0.3003003003
+279,Blue Lake,-36.416667,148.316667,-36.416667,-36.416667,148.316667,148.316667,Vascular plants,Huperzia selago,1.0,NISP,spore,,6752.0,,,Radiocarbon years BP,420.0,1890.0,pollen,6/30/2007,185.0,0.540540540541
+297,Border Beacon,55.333333,-63.2,55.333333,55.333333,-63.2,-63.2,Vascular plants,Huperzia selago,1.0,NISP,spore,,5111.0,,,Radiocarbon years BP,1585.0,470.0,pollen,6/30/2007,402.0,0.248756218905
+297,Border Beacon,55.333333,-63.2,55.333333,55.333333,-63.2,-63.2,Vascular plants,Huperzia selago,1.0,NISP,spore,,6361.0,,,Radiocarbon years BP,1630.0,470.0,pollen,6/30/2007,386.0,0.259067357513
+301,Boundary Lake,55.25,-67.4,55.25,55.25,-67.4,-67.4,Vascular plants,Huperzia selago,1.0,NISP,spore,,2161.0,,,Radiocarbon years BP,15.0,525.0,pollen,6/30/2007,311.0,0.32154340836
+301,Boundary Lake,55.25,-67.4,55.25,55.25,-67.4,-67.4,Vascular plants,Huperzia selago,2.0,NISP,spore,,2324.0,,,Radiocarbon years BP,25.0,525.0,pollen,6/30/2007,303.0,0.660066006601
+301,Boundary Lake,55.25,-67.4,55.25,55.25,-67.4,-67.4,Vascular plants,Huperzia selago,1.0,NISP,spore,,2487.0,,,Radiocarbon years BP,35.0,525.0,pollen,6/30/2007,293.0,0.341296928328
+301,Boundary Lake,55.25,-67.4,55.25,55.25,-67.4,-67.4,Vascular plants,Huperzia selago,1.0,NISP,spore,,3708.0,,,Radiocarbon years BP,110.0,525.0,pollen,6/30/2007,293.0,0.341296928328
+301,Boundary Lake,55.25,-67.4,55.25,55.25,-67.4,-67.4,Vascular plants,Huperzia selago,1.0,NISP,spore,,4034.0,,,Radiocarbon years BP,130.0,525.0,pollen,6/30/2007,299.0,0.334448160535
+301,Boundary Lake,55.25,-67.4,55.25,55.25,-67.4,-67.4,Vascular plants,Huperzia selago,1.0,NISP,spore,,4115.0,,,Radiocarbon years BP,135.0,525.0,pollen,6/30/2007,297.0,0.3367003367
+301,Boundary Lake,55.25,-67.4,55.25,55.25,-67.4,-67.4,Vascular plants,Huperzia selago,1.0,NISP,spore,,4278.0,,,Radiocarbon years BP,145.0,525.0,pollen,6/30/2007,289.0,0.346020761246
+301,Boundary Lake,55.25,-67.4,55.25,55.25,-67.4,-67.4,Vascular plants,Huperzia selago,1.0,NISP,spore,,4522.0,,,Radiocarbon years BP,160.0,525.0,pollen,6/30/2007,296.0,0.337837837838
+301,Boundary Lake,55.25,-67.4,55.25,55.25,-67.4,-67.4,Vascular plants,Huperzia selago,1.0,NISP,spore,,4685.0,,,Radiocarbon years BP,170.0,525.0,pollen,6/30/2007,291.0,0.343642611684
+301,Boundary Lake,55.25,-67.4,55.25,55.25,-67.4,-67.4,Vascular plants,Huperzia selago,1.0,NISP,spore,,5733.0,,,Radiocarbon years BP,225.0,525.0,pollen,6/30/2007,286.0,0.34965034965
+301,Boundary Lake,55.25,-67.4,55.25,55.25,-67.4,-67.4,Vascular plants,Huperzia selago,1.0,NISP,spore,,6200.0,,,Radiocarbon years BP,235.0,525.0,pollen,6/30/2007,256.0,0.390625
+301,Boundary Lake,55.25,-67.4,55.25,55.25,-67.4,-67.4,Vascular plants,Huperzia selago,1.0,NISP,spore,,6433.0,,,Radiocarbon years BP,240.0,525.0,pollen,6/30/2007,210.0,0.47619047619
+301,Boundary Lake,55.25,-67.4,55.25,55.25,-67.4,-67.4,Vascular plants,Huperzia selago,1.0,NISP,spore,,6666.0,,,Radiocarbon years BP,245.0,525.0,pollen,6/30/2007,31.0,3.22580645161
+309,Browns Pond,38.154722,-79.616389,38.154722,38.154722,-79.616389,-79.616389,Vascular plants,Huperzia selago,1.0,NISP,spore,,9531.0,,,Radiocarbon years BP,160.0,620.0,pollen,6/30/2007,337.0,0.296735905045
+309,Browns Pond,38.154722,-79.616389,38.154722,38.154722,-79.616389,-79.616389,Vascular plants,Huperzia selago,1.0,NISP,spore,,12307.0,,,Radiocarbon years BP,210.1,620.0,pollen,6/30/2007,435.0,0.229885057471
+309,Browns Pond,38.154722,-79.616389,38.154722,38.154722,-79.616389,-79.616389,Vascular plants,Huperzia selago,1.0,NISP,spore,,13945.0,,,Radiocarbon years BP,310.1,620.0,pollen,6/30/2007,426.0,0.234741784038
+309,Browns Pond,38.154722,-79.616389,38.154722,38.154722,-79.616389,-79.616389,Vascular plants,Huperzia selago,1.0,NISP,spore,,14473.0,,,Radiocarbon years BP,345.0,620.0,pollen,6/30/2007,434.0,0.230414746544
+316,"Bugutakh Exposure, Adycha River",67.833333,135.116667,67.833333,67.833333,135.116667,135.116667,Vascular plants,Huperzia selago,1.0,NISP,spore,,3905.0,,,Radiocarbon years BP,100.0,128.0,pollen,6/30/2007,476.0,0.210084033613
+316,"Bugutakh Exposure, Adycha River",67.833333,135.116667,67.833333,67.833333,135.116667,135.116667,Vascular plants,Huperzia selago,1.0,NISP,spore,,7810.0,,,Radiocarbon years BP,200.0,128.0,pollen,6/30/2007,971.0,0.10298661174
+316,"Bugutakh Exposure, Adycha River",67.833333,135.116667,67.833333,67.833333,135.116667,135.116667,Vascular plants,Huperzia selago,1.0,NISP,spore,,9371.0,,,Radiocarbon years BP,240.0,128.0,pollen,6/30/2007,973.0,0.102774922919
+316,"Bugutakh Exposure, Adycha River",67.833333,135.116667,67.833333,67.833333,135.116667,135.116667,Vascular plants,Huperzia selago,1.0,NISP,spore,,13276.0,,,Radiocarbon years BP,340.0,128.0,pollen,6/30/2007,379.0,0.263852242744
+316,"Bugutakh Exposure, Adycha River",67.833333,135.116667,67.833333,67.833333,135.116667,135.116667,Vascular plants,Huperzia selago,1.0,NISP,spore,,17571.0,,,Radiocarbon years BP,450.0,128.0,pollen,6/30/2007,426.0,0.234741784038
+334,Caribou Hill,55.666667,-63.25,55.666667,55.666667,-63.25,-63.25,Vascular plants,Huperzia selago,1.0,NISP,spore,,0.0,,,Radiocarbon years BP,580.0,475.0,pollen,6/30/2007,415.0,0.240963855422
+334,Caribou Hill,55.666667,-63.25,55.666667,55.666667,-63.25,-63.25,Vascular plants,Huperzia selago,1.0,NISP,spore,,2405.0,,,Radiocarbon years BP,670.0,475.0,pollen,6/30/2007,466.0,0.214592274678
+334,Caribou Hill,55.666667,-63.25,55.666667,55.666667,-63.25,-63.25,Vascular plants,Huperzia selago,1.0,NISP,spore,,3449.0,,,Radiocarbon years BP,710.0,475.0,pollen,6/30/2007,234.0,0.42735042735
+334,Caribou Hill,55.666667,-63.25,55.666667,55.666667,-63.25,-63.25,Vascular plants,Huperzia selago,1.0,NISP,spore,,4062.0,,,Radiocarbon years BP,760.0,475.0,pollen,6/30/2007,348.0,0.287356321839
+334,Caribou Hill,55.666667,-63.25,55.666667,55.666667,-63.25,-63.25,Vascular plants,Huperzia selago,1.0,NISP,spore,,4599.0,,,Radiocarbon years BP,810.0,475.0,pollen,6/30/2007,345.0,0.289855072464
+334,Caribou Hill,55.666667,-63.25,55.666667,55.666667,-63.25,-63.25,Vascular plants,Huperzia selago,1.0,NISP,spore,,4706.0,,,Radiocarbon years BP,820.0,475.0,pollen,6/30/2007,420.0,0.238095238095
+344,Cedar Bog,45.411111,-93.197222,45.411111,45.411111,-93.197222,-93.197222,Vascular plants,Huperzia selago,1.0,NISP,spore,,4867.0,,,Radiocarbon years BP,510.0,,pollen,6/30/2007,284.0,0.352112676056
+353,Chase Pond,45.651389,-60.675,45.651389,45.651389,-60.675,-60.675,Vascular plants,Huperzia selago,1.0,NISP,spore,,9688.0,,,Radiocarbon years BP,499.0,15.0,pollen,6/30/2007,569.0,0.175746924429
+353,Chase Pond,45.651389,-60.675,45.651389,45.651389,-60.675,-60.675,Vascular plants,Huperzia selago,1.0,NISP,spore,,10167.0,,,Radiocarbon years BP,516.0,15.0,pollen,6/30/2007,290.0,0.344827586207
+353,Chase Pond,45.651389,-60.675,45.651389,45.651389,-60.675,-60.675,Vascular plants,Huperzia selago,1.0,NISP,spore,,10246.0,,,Radiocarbon years BP,518.0,15.0,pollen,6/30/2007,254.0,0.393700787402
+353,Chase Pond,45.651389,-60.675,45.651389,45.651389,-60.675,-60.675,Vascular plants,Huperzia selago,6.0,NISP,spore,,10287.0,,,Radiocarbon years BP,519.0,15.0,pollen,6/30/2007,298.0,2.01342281879
+353,Chase Pond,45.651389,-60.675,45.651389,45.651389,-60.675,-60.675,Vascular plants,Huperzia selago,1.0,NISP,spore,,10465.0,,,Radiocarbon years BP,523.0,15.0,pollen,6/30/2007,323.0,0.30959752322
+353,Chase Pond,45.651389,-60.675,45.651389,45.651389,-60.675,-60.675,Vascular plants,Huperzia selago,2.0,NISP,spore,,10561.0,,,Radiocarbon years BP,525.0,15.0,pollen,6/30/2007,246.0,0.813008130081
+353,Chase Pond,45.651389,-60.675,45.651389,45.651389,-60.675,-60.675,Vascular plants,Huperzia selago,1.0,NISP,spore,,10936.0,,,Radiocarbon years BP,532.0,15.0,pollen,6/30/2007,286.0,0.34965034965
+353,Chase Pond,45.651389,-60.675,45.651389,45.651389,-60.675,-60.675,Vascular plants,Huperzia selago,1.0,NISP,spore,,10994.0,,,Radiocarbon years BP,533.0,15.0,pollen,6/30/2007,278.0,0.359712230216
+353,Chase Pond,45.651389,-60.675,45.651389,45.651389,-60.675,-60.675,Vascular plants,Huperzia selago,1.0,NISP,spore,,11053.0,,,Radiocarbon years BP,534.0,15.0,pollen,6/30/2007,288.0,0.347222222222
+353,Chase Pond,45.651389,-60.675,45.651389,45.651389,-60.675,-60.675,Vascular plants,Huperzia selago,1.0,NISP,spore,,11113.0,,,Radiocarbon years BP,535.0,15.0,pollen,6/30/2007,322.0,0.310559006211
+353,Chase Pond,45.651389,-60.675,45.651389,45.651389,-60.675,-60.675,Vascular plants,Huperzia selago,1.0,NISP,spore,,12257.0,,,Radiocarbon years BP,552.0,15.0,pollen,6/30/2007,306.0,0.326797385621
+353,Chase Pond,45.651389,-60.675,45.651389,45.651389,-60.675,-60.675,Vascular plants,Huperzia selago,1.0,NISP,spore,,13236.0,,,Radiocarbon years BP,566.0,15.0,pollen,6/30/2007,293.0,0.341296928328
+489,Compass Pond,50.034167,-56.196389,50.034167,50.034167,-56.196389,-56.196389,Vascular plants,Huperzia selago,1.0,NISP,spore,,73.0,,,Radiocarbon years BP,5.0,236.0,pollen,6/30/2007,306.0,0.326797385621
+489,Compass Pond,50.034167,-56.196389,50.034167,50.034167,-56.196389,-56.196389,Vascular plants,Huperzia selago,2.0,NISP,spore,,2075.0,,,Radiocarbon years BP,100.0,236.0,pollen,6/30/2007,326.0,0.613496932515
+489,Compass Pond,50.034167,-56.196389,50.034167,50.034167,-56.196389,-56.196389,Vascular plants,Huperzia selago,1.0,NISP,spore,,2175.0,,,Radiocarbon years BP,110.0,236.0,pollen,6/30/2007,329.0,0.303951367781
+489,Compass Pond,50.034167,-56.196389,50.034167,50.034167,-56.196389,-56.196389,Vascular plants,Huperzia selago,1.0,NISP,spore,,4730.0,,,Radiocarbon years BP,300.0,236.0,pollen,6/30/2007,342.0,0.292397660819
+489,Compass Pond,50.034167,-56.196389,50.034167,50.034167,-56.196389,-56.196389,Vascular plants,Huperzia selago,1.0,NISP,spore,,10292.0,,,Radiocarbon years BP,510.0,236.0,pollen,6/30/2007,210.0,0.47619047619
+513,Crowsnest Lake,68.333333,-146.483333,68.333333,68.333333,-146.483333,-146.483333,Vascular plants,Huperzia selago,1.0,NISP,spore,,123.0,,,Radiocarbon years BP,5.0,881.0,pollen,6/30/2007,344.0,0.290697674419
+513,Crowsnest Lake,68.333333,-146.483333,68.333333,68.333333,-146.483333,-146.483333,Vascular plants,Huperzia selago,1.0,NISP,spore,,493.0,,,Radiocarbon years BP,20.0,881.0,pollen,6/30/2007,351.0,0.2849002849
+513,Crowsnest Lake,68.333333,-146.483333,68.333333,68.333333,-146.483333,-146.483333,Vascular plants,Huperzia selago,1.0,NISP,spore,,739.0,,,Radiocarbon years BP,30.0,881.0,pollen,6/30/2007,340.0,0.294117647059
+513,Crowsnest Lake,68.333333,-146.483333,68.333333,68.333333,-146.483333,-146.483333,Vascular plants,Huperzia selago,2.0,NISP,spore,,985.0,,,Radiocarbon years BP,40.0,881.0,pollen,6/30/2007,304.0,0.657894736842
+513,Crowsnest Lake,68.333333,-146.483333,68.333333,68.333333,-146.483333,-146.483333,Vascular plants,Huperzia selago,3.0,NISP,spore,,1232.0,,,Radiocarbon years BP,50.0,881.0,pollen,6/30/2007,379.0,0.791556728232
+513,Crowsnest Lake,68.333333,-146.483333,68.333333,68.333333,-146.483333,-146.483333,Vascular plants,Huperzia selago,4.0,NISP,spore,,2217.0,,,Radiocarbon years BP,90.0,881.0,pollen,6/30/2007,323.0,1.23839009288
+513,Crowsnest Lake,68.333333,-146.483333,68.333333,68.333333,-146.483333,-146.483333,Vascular plants,Huperzia selago,1.0,NISP,spore,,2709.0,,,Radiocarbon years BP,110.0,881.0,pollen,6/30/2007,356.0,0.280898876404
+513,Crowsnest Lake,68.333333,-146.483333,68.333333,68.333333,-146.483333,-146.483333,Vascular plants,Huperzia selago,2.0,NISP,spore,,3202.0,,,Radiocarbon years BP,130.0,881.0,pollen,6/30/2007,390.0,0.512820512821
+513,Crowsnest Lake,68.333333,-146.483333,68.333333,68.333333,-146.483333,-146.483333,Vascular plants,Huperzia selago,1.0,NISP,spore,,3448.0,,,Radiocarbon years BP,140.0,881.0,pollen,6/30/2007,311.0,0.32154340836
+513,Crowsnest Lake,68.333333,-146.483333,68.333333,68.333333,-146.483333,-146.483333,Vascular plants,Huperzia selago,4.0,NISP,spore,,4926.0,,,Radiocarbon years BP,200.0,881.0,pollen,6/30/2007,231.0,1.7316017316
+513,Crowsnest Lake,68.333333,-146.483333,68.333333,68.333333,-146.483333,-146.483333,Vascular plants,Huperzia selago,1.0,NISP,spore,,5665.0,,,Radiocarbon years BP,230.0,881.0,pollen,6/30/2007,319.0,0.313479623824
+513,Crowsnest Lake,68.333333,-146.483333,68.333333,68.333333,-146.483333,-146.483333,Vascular plants,Huperzia selago,1.0,NISP,spore,,6527.0,,,Radiocarbon years BP,275.0,881.0,pollen,6/30/2007,326.0,0.306748466258
+513,Crowsnest Lake,68.333333,-146.483333,68.333333,68.333333,-146.483333,-146.483333,Vascular plants,Huperzia selago,1.0,NISP,spore,,6811.0,,,Radiocarbon years BP,301.0,881.0,pollen,6/30/2007,357.0,0.280112044818
+513,Crowsnest Lake,68.333333,-146.483333,68.333333,68.333333,-146.483333,-146.483333,Vascular plants,Huperzia selago,1.0,NISP,spore,,7128.0,,,Radiocarbon years BP,330.0,881.0,pollen,6/30/2007,299.0,0.334448160535
+513,Crowsnest Lake,68.333333,-146.483333,68.333333,68.333333,-146.483333,-146.483333,Vascular plants,Huperzia selago,1.0,NISP,spore,,7674.0,,,Radiocarbon years BP,380.0,881.0,pollen,6/30/2007,332.0,0.301204819277
+513,Crowsnest Lake,68.333333,-146.483333,68.333333,68.333333,-146.483333,-146.483333,Vascular plants,Huperzia selago,2.0,NISP,spore,,7783.0,,,Radiocarbon years BP,390.0,881.0,pollen,6/30/2007,347.0,0.576368876081
+513,Crowsnest Lake,68.333333,-146.483333,68.333333,68.333333,-146.483333,-146.483333,Vascular plants,Huperzia selago,4.0,NISP,spore,,7893.0,,,Radiocarbon years BP,400.0,881.0,pollen,6/30/2007,220.0,1.81818181818
+513,Crowsnest Lake,68.333333,-146.483333,68.333333,68.333333,-146.483333,-146.483333,Vascular plants,Huperzia selago,1.0,NISP,spore,,7958.0,,,Radiocarbon years BP,406.0,881.0,pollen,6/30/2007,323.0,0.30959752322
+513,Crowsnest Lake,68.333333,-146.483333,68.333333,68.333333,-146.483333,-146.483333,Vascular plants,Huperzia selago,2.0,NISP,spore,,8330.0,,,Radiocarbon years BP,440.0,881.0,pollen,6/30/2007,347.0,0.576368876081
+513,Crowsnest Lake,68.333333,-146.483333,68.333333,68.333333,-146.483333,-146.483333,Vascular plants,Huperzia selago,1.0,NISP,spore,,8548.0,,,Radiocarbon years BP,460.0,881.0,pollen,6/30/2007,342.0,0.292397660819
+513,Crowsnest Lake,68.333333,-146.483333,68.333333,68.333333,-146.483333,-146.483333,Vascular plants,Huperzia selago,1.0,NISP,spore,,8712.0,,,Radiocarbon years BP,475.0,881.0,pollen,6/30/2007,362.0,0.276243093923
+513,Crowsnest Lake,68.333333,-146.483333,68.333333,68.333333,-146.483333,-146.483333,Vascular plants,Huperzia selago,1.0,NISP,spore,,9040.0,,,Radiocarbon years BP,505.0,881.0,pollen,6/30/2007,344.0,0.290697674419
+513,Crowsnest Lake,68.333333,-146.483333,68.333333,68.333333,-146.483333,-146.483333,Vascular plants,Huperzia selago,1.0,NISP,spore,,9165.0,,,Radiocarbon years BP,515.0,881.0,pollen,6/30/2007,307.0,0.325732899023
+513,Crowsnest Lake,68.333333,-146.483333,68.333333,68.333333,-146.483333,-146.483333,Vascular plants,Huperzia selago,1.0,NISP,spore,,9290.0,,,Radiocarbon years BP,525.0,881.0,pollen,6/30/2007,245.0,0.408163265306
+513,Crowsnest Lake,68.333333,-146.483333,68.333333,68.333333,-146.483333,-146.483333,Vascular plants,Huperzia selago,3.0,NISP,spore,,9415.0,,,Radiocarbon years BP,535.0,881.0,pollen,6/30/2007,314.0,0.955414012739
+513,Crowsnest Lake,68.333333,-146.483333,68.333333,68.333333,-146.483333,-146.483333,Vascular plants,Huperzia selago,1.0,NISP,spore,,9615.0,,,Radiocarbon years BP,551.0,881.0,pollen,6/30/2007,362.0,0.276243093923
+513,Crowsnest Lake,68.333333,-146.483333,68.333333,68.333333,-146.483333,-146.483333,Vascular plants,Huperzia selago,1.0,NISP,spore,,9914.0,,,Radiocarbon years BP,575.0,881.0,pollen,6/30/2007,238.0,0.420168067227
+513,Crowsnest Lake,68.333333,-146.483333,68.333333,68.333333,-146.483333,-146.483333,Vascular plants,Huperzia selago,1.0,NISP,spore,,10226.0,,,Radiocarbon years BP,600.0,881.0,pollen,6/30/2007,327.0,0.305810397554
+513,Crowsnest Lake,68.333333,-146.483333,68.333333,68.333333,-146.483333,-146.483333,Vascular plants,Huperzia selago,2.0,NISP,spore,,10476.0,,,Radiocarbon years BP,620.0,881.0,pollen,6/30/2007,361.0,0.554016620499
+513,Crowsnest Lake,68.333333,-146.483333,68.333333,68.333333,-146.483333,-146.483333,Vascular plants,Huperzia selago,1.0,NISP,spore,,10601.0,,,Radiocarbon years BP,630.0,881.0,pollen,6/30/2007,230.0,0.434782608696
+686,Site 1 (Elliot-Fisk et al. 1982),58.27,-63.95,58.27,58.27,-63.95,-63.95,Vascular plants,Huperzia selago,1.0,NISP,spore,,,,,,0.0,650.0,pollen surface sample,6/30/2007,,
+757,Eagle Lake Bog,44.166667,-71.666667,44.166667,44.166667,-71.666667,-71.666667,Vascular plants,Huperzia selago,1.0,NISP,spore,,802.0,,,Radiocarbon years BP,27.0,1275.0,pollen,6/30/2007,355.0,0.281690140845
+757,Eagle Lake Bog,44.166667,-71.666667,44.166667,44.166667,-71.666667,-71.666667,Vascular plants,Huperzia selago,1.0,NISP,spore,,4898.0,,,Radiocarbon years BP,127.0,1275.0,pollen,6/30/2007,350.0,0.285714285714
+757,Eagle Lake Bog,44.166667,-71.666667,44.166667,44.166667,-71.666667,-71.666667,Vascular plants,Huperzia selago,1.0,NISP,spore,,5147.0,,,Radiocarbon years BP,142.0,1275.0,pollen,6/30/2007,343.0,0.291545189504
+757,Eagle Lake Bog,44.166667,-71.666667,44.166667,44.166667,-71.666667,-71.666667,Vascular plants,Huperzia selago,2.0,NISP,spore,,6142.0,,,Radiocarbon years BP,202.0,1275.0,pollen,6/30/2007,395.0,0.506329113924
+757,Eagle Lake Bog,44.166667,-71.666667,44.166667,44.166667,-71.666667,-71.666667,Vascular plants,Huperzia selago,1.0,NISP,spore,,6556.0,,,Radiocarbon years BP,227.0,1275.0,pollen,6/30/2007,343.0,0.291545189504
+757,Eagle Lake Bog,44.166667,-71.666667,44.166667,44.166667,-71.666667,-71.666667,Vascular plants,Huperzia selago,1.0,NISP,spore,,7800.0,,,Radiocarbon years BP,302.0,1275.0,pollen,6/30/2007,341.0,0.293255131965
+757,Eagle Lake Bog,44.166667,-71.666667,44.166667,44.166667,-71.666667,-71.666667,Vascular plants,Huperzia selago,1.0,NISP,spore,,8477.0,,,Radiocarbon years BP,352.0,1275.0,pollen,6/30/2007,345.0,0.289855072464
+758,Eagle Lake,53.233333,-58.55,53.233333,53.233333,-58.55,-58.55,Vascular plants,Huperzia selago,1.0,NISP,spore,,4740.0,,,Radiocarbon years BP,1070.0,400.0,pollen,6/30/2007,365.0,0.27397260274
+758,Eagle Lake,53.233333,-58.55,53.233333,53.233333,-58.55,-58.55,Vascular plants,Huperzia selago,1.0,NISP,spore,,5526.0,,,Radiocarbon years BP,1125.0,400.0,pollen,6/30/2007,297.0,0.3367003367
+758,Eagle Lake,53.233333,-58.55,53.233333,53.233333,-58.55,-58.55,Vascular plants,Huperzia selago,1.0,NISP,spore,,11279.0,,,Radiocarbon years BP,1275.0,400.0,pollen,6/30/2007,317.0,0.315457413249
+758,Eagle Lake,53.233333,-58.55,53.233333,53.233333,-58.55,-58.55,Vascular plants,Huperzia selago,1.0,NISP,spore,,11523.0,,,Radiocarbon years BP,1280.0,400.0,pollen,6/30/2007,313.0,0.319488817891
+772,Elgygytgyn Stream Section,67.416667,172.083333,67.416667,67.416667,172.083333,172.083333,Vascular plants,Huperzia selago,53.0,NISP,spore,,4562.0,,,Radiocarbon years BP,0.0,490.0,pollen,6/30/2007,506.0,10.4743083004
+772,Elgygytgyn Stream Section,67.416667,172.083333,67.416667,67.416667,172.083333,172.083333,Vascular plants,Huperzia selago,27.0,NISP,spore,,4677.0,,,Radiocarbon years BP,15.0,490.0,pollen,6/30/2007,379.0,7.12401055409
+772,Elgygytgyn Stream Section,67.416667,172.083333,67.416667,67.416667,172.083333,172.083333,Vascular plants,Huperzia selago,13.0,NISP,spore,,4907.0,,,Radiocarbon years BP,45.0,490.0,pollen,6/30/2007,640.0,2.03125
+772,Elgygytgyn Stream Section,67.416667,172.083333,67.416667,67.416667,172.083333,172.083333,Vascular plants,Huperzia selago,7.0,NISP,spore,,5214.0,,,Radiocarbon years BP,85.0,490.0,pollen,6/30/2007,362.0,1.93370165746
+780,"Enmyvaam River, 7-9 m Terrace",67.066667,171.616667,67.066667,67.066667,171.616667,171.616667,Vascular plants,Huperzia selago,2.0,NISP,spore,,,,,Radiocarbon years BP,0.0,480.0,pollen,6/30/2007,305.0,0.655737704918
+780,"Enmyvaam River, 7-9 m Terrace",67.066667,171.616667,67.066667,67.066667,171.616667,171.616667,Vascular plants,Huperzia selago,1.0,NISP,spore,,,,,Radiocarbon years BP,270.0,480.0,pollen,6/30/2007,1077.0,0.0928505106778
+780,"Enmyvaam River, 7-9 m Terrace",67.066667,171.616667,67.066667,67.066667,171.616667,171.616667,Vascular plants,Huperzia selago,2.0,NISP,spore,,7500.0,,,Radiocarbon years BP,370.0,480.0,pollen,6/30/2007,698.0,0.286532951289
+780,"Enmyvaam River, 7-9 m Terrace",67.066667,171.616667,67.066667,67.066667,171.616667,171.616667,Vascular plants,Huperzia selago,1.0,NISP,spore,,,,,Radiocarbon years BP,390.0,480.0,pollen,6/30/2007,215.0,0.46511627907
+780,"Enmyvaam River, 7-9 m Terrace",67.066667,171.616667,67.066667,67.066667,171.616667,171.616667,Vascular plants,Huperzia selago,1.0,NISP,spore,,,,,Radiocarbon years BP,470.0,480.0,pollen,6/30/2007,107.0,0.934579439252
+781,Enmynveem River,68.25,166.0,68.25,68.25,166.0,166.0,Vascular plants,Huperzia selago,1.0,NISP,spore,,2500.0,,,Radiocarbon years BP,0.0,500.0,pollen,6/30/2007,476.0,0.210084033613
+781,Enmynveem River,68.25,166.0,68.25,68.25,166.0,166.0,Vascular plants,Huperzia selago,1.0,NISP,spore,,7899.0,,,Radiocarbon years BP,300.0,500.0,pollen,6/30/2007,473.0,0.211416490486
+784,Entarnoye Peat Exposure,59.0,78.333333,59.0,59.0,78.333333,78.333333,Vascular plants,Huperzia selago,1.0,NISP,spore,,1366.0,,,Radiocarbon years BP,40.0,65.0,pollen,6/30/2007,902.0,0.110864745011
+784,Entarnoye Peat Exposure,59.0,78.333333,59.0,59.0,78.333333,78.333333,Vascular plants,Huperzia selago,2.0,NISP,spore,,8451.0,,,Radiocarbon years BP,360.0,65.0,pollen,6/30/2007,784.0,0.255102040816
+784,Entarnoye Peat Exposure,59.0,78.333333,59.0,59.0,78.333333,78.333333,Vascular plants,Huperzia selago,2.0,NISP,spore,,10410.0,,,Radiocarbon years BP,440.0,65.0,pollen,6/30/2007,669.0,0.298953662182
+790,Etivlik Lake,68.133333,-156.033333,68.133333,68.133333,-156.033333,-156.033333,Vascular plants,Huperzia selago,1.0,NISP,spore,,7267.0,,,Radiocarbon years BP,70.0,631.0,pollen,6/30/2007,331.0,0.302114803625
+790,Etivlik Lake,68.133333,-156.033333,68.133333,68.133333,-156.033333,-156.033333,Vascular plants,Huperzia selago,1.0,NISP,spore,,8160.0,,,Radiocarbon years BP,80.0,631.0,pollen,6/30/2007,336.0,0.297619047619
+790,Etivlik Lake,68.133333,-156.033333,68.133333,68.133333,-156.033333,-156.033333,Vascular plants,Huperzia selago,1.0,NISP,spore,,8354.0,,,Radiocarbon years BP,85.0,631.0,pollen,6/30/2007,373.0,0.268096514745
+790,Etivlik Lake,68.133333,-156.033333,68.133333,68.133333,-156.033333,-156.033333,Vascular plants,Huperzia selago,1.0,NISP,spore,,8742.0,,,Radiocarbon years BP,95.0,631.0,pollen,6/30/2007,508.0,0.196850393701
+790,Etivlik Lake,68.133333,-156.033333,68.133333,68.133333,-156.033333,-156.033333,Vascular plants,Huperzia selago,1.0,NISP,spore,,13596.0,,,Radiocarbon years BP,220.0,631.0,pollen,6/30/2007,309.0,0.323624595469
+790,Etivlik Lake,68.133333,-156.033333,68.133333,68.133333,-156.033333,-156.033333,Vascular plants,Huperzia selago,2.0,NISP,spore,,13984.0,,,Radiocarbon years BP,230.0,631.0,pollen,6/30/2007,339.0,0.589970501475
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Huperzia selago,1.0,NISP,spore,,6539.0,,,Radiocarbon years BP,1510.0,4.0,pollen,6/30/2007,151.0,0.662251655629
+846,Glacial Lake,64.866667,-166.266667,64.866667,64.866667,-166.266667,-166.266667,Vascular plants,Huperzia selago,9.0,NISP,spore,,1000.0,,,Radiocarbon years BP,0.0,120.0,pollen,6/30/2007,301.0,2.99003322259
+846,Glacial Lake,64.866667,-166.266667,64.866667,64.866667,-166.266667,-166.266667,Vascular plants,Huperzia selago,2.0,NISP,spore,,1064.0,,,Radiocarbon years BP,6.0,120.0,pollen,6/30/2007,303.0,0.660066006601
+846,Glacial Lake,64.866667,-166.266667,64.866667,64.866667,-166.266667,-166.266667,Vascular plants,Huperzia selago,5.0,NISP,spore,,1106.0,,,Radiocarbon years BP,10.0,120.0,pollen,6/30/2007,282.0,1.77304964539
+846,Glacial Lake,64.866667,-166.266667,64.866667,64.866667,-166.266667,-166.266667,Vascular plants,Huperzia selago,4.0,NISP,spore,,1170.0,,,Radiocarbon years BP,16.0,120.0,pollen,6/30/2007,293.0,1.36518771331
+846,Glacial Lake,64.866667,-166.266667,64.866667,64.866667,-166.266667,-166.266667,Vascular plants,Huperzia selago,3.0,NISP,spore,,1275.0,,,Radiocarbon years BP,26.0,120.0,pollen,6/30/2007,300.0,1.0
+846,Glacial Lake,64.866667,-166.266667,64.866667,64.866667,-166.266667,-166.266667,Vascular plants,Huperzia selago,3.0,NISP,spore,,1487.0,,,Radiocarbon years BP,46.0,120.0,pollen,6/30/2007,313.0,0.958466453674
+846,Glacial Lake,64.866667,-166.266667,64.866667,64.866667,-166.266667,-166.266667,Vascular plants,Huperzia selago,1.0,NISP,spore,,1699.0,,,Radiocarbon years BP,66.0,120.0,pollen,6/30/2007,299.0,0.334448160535
+846,Glacial Lake,64.866667,-166.266667,64.866667,64.866667,-166.266667,-166.266667,Vascular plants,Huperzia selago,1.0,NISP,spore,,1911.0,,,Radiocarbon years BP,86.0,120.0,pollen,6/30/2007,317.0,0.315457413249
+846,Glacial Lake,64.866667,-166.266667,64.866667,64.866667,-166.266667,-166.266667,Vascular plants,Huperzia selago,7.0,NISP,spore,,2123.0,,,Radiocarbon years BP,106.0,120.0,pollen,6/30/2007,311.0,2.25080385852
+846,Glacial Lake,64.866667,-166.266667,64.866667,64.866667,-166.266667,-166.266667,Vascular plants,Huperzia selago,1.0,NISP,spore,,2547.0,,,Radiocarbon years BP,146.0,120.0,pollen,6/30/2007,307.0,0.325732899023
+846,Glacial Lake,64.866667,-166.266667,64.866667,64.866667,-166.266667,-166.266667,Vascular plants,Huperzia selago,1.0,NISP,spore,,2971.0,,,Radiocarbon years BP,186.0,120.0,pollen,6/30/2007,283.0,0.353356890459
+846,Glacial Lake,64.866667,-166.266667,64.866667,64.866667,-166.266667,-166.266667,Vascular plants,Huperzia selago,2.0,NISP,spore,,3183.0,,,Radiocarbon years BP,206.0,120.0,pollen,6/30/2007,314.0,0.636942675159
+846,Glacial Lake,64.866667,-166.266667,64.866667,64.866667,-166.266667,-166.266667,Vascular plants,Huperzia selago,1.0,NISP,spore,,3395.0,,,Radiocarbon years BP,226.0,120.0,pollen,6/30/2007,291.0,0.343642611684
+846,Glacial Lake,64.866667,-166.266667,64.866667,64.866667,-166.266667,-166.266667,Vascular plants,Huperzia selago,5.0,NISP,spore,,3607.0,,,Radiocarbon years BP,246.0,120.0,pollen,6/30/2007,288.0,1.73611111111
+846,Glacial Lake,64.866667,-166.266667,64.866667,64.866667,-166.266667,-166.266667,Vascular plants,Huperzia selago,1.0,NISP,spore,,4242.0,,,Radiocarbon years BP,306.0,120.0,pollen,6/30/2007,339.0,0.294985250737
+846,Glacial Lake,64.866667,-166.266667,64.866667,64.866667,-166.266667,-166.266667,Vascular plants,Huperzia selago,2.0,NISP,spore,,5514.0,,,Radiocarbon years BP,426.0,120.0,pollen,6/30/2007,291.0,0.687285223368
+846,Glacial Lake,64.866667,-166.266667,64.866667,64.866667,-166.266667,-166.266667,Vascular plants,Huperzia selago,3.0,NISP,spore,,5726.0,,,Radiocarbon years BP,446.0,120.0,pollen,6/30/2007,325.0,0.923076923077
+846,Glacial Lake,64.866667,-166.266667,64.866667,64.866667,-166.266667,-166.266667,Vascular plants,Huperzia selago,7.0,NISP,spore,,6362.0,,,Radiocarbon years BP,506.0,120.0,pollen,6/30/2007,323.0,2.16718266254
+846,Glacial Lake,64.866667,-166.266667,64.866667,64.866667,-166.266667,-166.266667,Vascular plants,Huperzia selago,3.0,NISP,spore,,6785.0,,,Radiocarbon years BP,546.0,120.0,pollen,6/30/2007,275.0,1.09090909091
+846,Glacial Lake,64.866667,-166.266667,64.866667,64.866667,-166.266667,-166.266667,Vascular plants,Huperzia selago,2.0,NISP,spore,,6997.0,,,Radiocarbon years BP,566.0,120.0,pollen,6/30/2007,288.0,0.694444444444
+846,Glacial Lake,64.866667,-166.266667,64.866667,64.866667,-166.266667,-166.266667,Vascular plants,Huperzia selago,5.0,NISP,spore,,7209.0,,,Radiocarbon years BP,586.0,120.0,pollen,6/30/2007,316.0,1.58227848101
+846,Glacial Lake,64.866667,-166.266667,64.866667,64.866667,-166.266667,-166.266667,Vascular plants,Huperzia selago,9.0,NISP,spore,,7633.0,,,Radiocarbon years BP,626.0,120.0,pollen,6/30/2007,356.0,2.52808988764
+846,Glacial Lake,64.866667,-166.266667,64.866667,64.866667,-166.266667,-166.266667,Vascular plants,Huperzia selago,4.0,NISP,spore,,8057.0,,,Radiocarbon years BP,666.0,120.0,pollen,6/30/2007,275.0,1.45454545455
+846,Glacial Lake,64.866667,-166.266667,64.866667,64.866667,-166.266667,-166.266667,Vascular plants,Huperzia selago,2.0,NISP,spore,,8481.0,,,Radiocarbon years BP,706.0,120.0,pollen,6/30/2007,321.0,0.623052959502
+846,Glacial Lake,64.866667,-166.266667,64.866667,64.866667,-166.266667,-166.266667,Vascular plants,Huperzia selago,1.0,NISP,spore,,8693.0,,,Radiocarbon years BP,726.0,120.0,pollen,6/30/2007,284.0,0.352112676056
+846,Glacial Lake,64.866667,-166.266667,64.866667,64.866667,-166.266667,-166.266667,Vascular plants,Huperzia selago,1.0,NISP,spore,,9492.0,,,Radiocarbon years BP,786.0,120.0,pollen,6/30/2007,313.0,0.319488817891
+846,Glacial Lake,64.866667,-166.266667,64.866667,64.866667,-166.266667,-166.266667,Vascular plants,Huperzia selago,1.0,NISP,spore,,10127.0,,,Radiocarbon years BP,826.0,120.0,pollen,6/30/2007,250.0,0.4
+846,Glacial Lake,64.866667,-166.266667,64.866667,64.866667,-166.266667,-166.266667,Vascular plants,Huperzia selago,2.0,NISP,spore,,10762.0,,,Radiocarbon years BP,866.0,120.0,pollen,6/30/2007,322.0,0.621118012422
+846,Glacial Lake,64.866667,-166.266667,64.866667,64.866667,-166.266667,-166.266667,Vascular plants,Huperzia selago,2.0,NISP,spore,,12032.0,,,Radiocarbon years BP,946.0,120.0,pollen,6/30/2007,350.0,0.571428571429
+846,Glacial Lake,64.866667,-166.266667,64.866667,64.866667,-166.266667,-166.266667,Vascular plants,Huperzia selago,3.0,NISP,spore,,12667.0,,,Radiocarbon years BP,986.0,120.0,pollen,6/30/2007,308.0,0.974025974026
+846,Glacial Lake,64.866667,-166.266667,64.866667,64.866667,-166.266667,-166.266667,Vascular plants,Huperzia selago,1.0,NISP,spore,,13302.0,,,Radiocarbon years BP,1026.0,120.0,pollen,6/30/2007,318.0,0.314465408805
+846,Glacial Lake,64.866667,-166.266667,64.866667,64.866667,-166.266667,-166.266667,Vascular plants,Huperzia selago,1.0,NISP,spore,,14571.0,,,Radiocarbon years BP,1106.0,120.0,pollen,6/30/2007,299.0,0.334448160535
+947,Grasvatn,63.7,8.7,63.7,63.7,8.7,8.7,Vascular plants,Huperzia selago,1.0,NISP,spore,,1748.0,,,Radiocarbon years BP,60.0,45.0,pollen,6/30/2007,942.0,0.106157112527
+947,Grasvatn,63.7,8.7,63.7,63.7,8.7,8.7,Vascular plants,Huperzia selago,1.0,NISP,spore,,2801.0,,,Radiocarbon years BP,100.0,45.0,pollen,6/30/2007,636.0,0.157232704403
+947,Grasvatn,63.7,8.7,63.7,63.7,8.7,8.7,Vascular plants,Huperzia selago,1.0,NISP,spore,,3059.0,,,Radiocarbon years BP,110.0,45.0,pollen,6/30/2007,631.0,0.158478605388
+947,Grasvatn,63.7,8.7,63.7,63.7,8.7,8.7,Vascular plants,Huperzia selago,1.0,NISP,spore,,4198.0,,,Radiocarbon years BP,155.0,45.0,pollen,6/30/2007,644.0,0.155279503106
+947,Grasvatn,63.7,8.7,63.7,63.7,8.7,8.7,Vascular plants,Huperzia selago,1.0,NISP,spore,,4820.0,,,Radiocarbon years BP,180.0,45.0,pollen,6/30/2007,624.0,0.160256410256
+947,Grasvatn,63.7,8.7,63.7,63.7,8.7,8.7,Vascular plants,Huperzia selago,1.0,NISP,spore,,7008.0,,,Radiocarbon years BP,270.0,45.0,pollen,6/30/2007,998.0,0.100200400802
+947,Grasvatn,63.7,8.7,63.7,63.7,8.7,8.7,Vascular plants,Huperzia selago,2.0,NISP,spore,,7128.0,,,Radiocarbon years BP,275.0,45.0,pollen,6/30/2007,723.0,0.276625172891
+947,Grasvatn,63.7,8.7,63.7,63.7,8.7,8.7,Vascular plants,Huperzia selago,1.0,NISP,spore,,7486.0,,,Radiocarbon years BP,290.0,45.0,pollen,6/30/2007,958.0,0.104384133612
+947,Grasvatn,63.7,8.7,63.7,63.7,8.7,8.7,Vascular plants,Huperzia selago,1.0,NISP,spore,,7961.0,,,Radiocarbon years BP,310.0,45.0,pollen,6/30/2007,643.0,0.155520995334
+947,Grasvatn,63.7,8.7,63.7,63.7,8.7,8.7,Vascular plants,Huperzia selago,1.0,NISP,spore,,8198.0,,,Radiocarbon years BP,320.0,45.0,pollen,6/30/2007,796.0,0.125628140704
+947,Grasvatn,63.7,8.7,63.7,63.7,8.7,8.7,Vascular plants,Huperzia selago,2.0,NISP,spore,,8905.0,,,Radiocarbon years BP,350.0,45.0,pollen,6/30/2007,843.0,0.237247924081
+947,Grasvatn,63.7,8.7,63.7,63.7,8.7,8.7,Vascular plants,Huperzia selago,4.0,NISP,spore,,9140.0,,,Radiocarbon years BP,360.0,45.0,pollen,6/30/2007,811.0,0.493218249075
+947,Grasvatn,63.7,8.7,63.7,63.7,8.7,8.7,Vascular plants,Huperzia selago,1.0,NISP,spore,,9257.0,,,Radiocarbon years BP,365.0,45.0,pollen,6/30/2007,964.0,0.103734439834
+947,Grasvatn,63.7,8.7,63.7,63.7,8.7,8.7,Vascular plants,Huperzia selago,1.0,NISP,spore,,9374.0,,,Radiocarbon years BP,370.0,45.0,pollen,6/30/2007,768.0,0.130208333333
+947,Grasvatn,63.7,8.7,63.7,63.7,8.7,8.7,Vascular plants,Huperzia selago,1.0,NISP,spore,,9724.0,,,Radiocarbon years BP,385.0,45.0,pollen,6/30/2007,1041.0,0.0960614793468
+947,Grasvatn,63.7,8.7,63.7,63.7,8.7,8.7,Vascular plants,Huperzia selago,4.0,NISP,spore,,9841.0,,,Radiocarbon years BP,390.0,45.0,pollen,6/30/2007,1404.0,0.2849002849
+947,Grasvatn,63.7,8.7,63.7,63.7,8.7,8.7,Vascular plants,Huperzia selago,7.0,NISP,spore,,10189.0,,,Radiocarbon years BP,405.0,45.0,pollen,6/30/2007,2308.0,0.303292894281
+947,Grasvatn,63.7,8.7,63.7,63.7,8.7,8.7,Vascular plants,Huperzia selago,5.0,NISP,spore,,10306.0,,,Radiocarbon years BP,410.0,45.0,pollen,6/30/2007,1511.0,0.330906684315
+947,Grasvatn,63.7,8.7,63.7,63.7,8.7,8.7,Vascular plants,Huperzia selago,5.0,NISP,spore,,10537.0,,,Radiocarbon years BP,420.0,45.0,pollen,6/30/2007,1059.0,0.472143531634
+948,Gravel Ridge,55.033333,-62.633333,55.033333,55.033333,-62.633333,-62.633333,Vascular plants,Huperzia selago,2.0,NISP,spore,,99.0,,,Radiocarbon years BP,715.0,565.0,pollen,6/30/2007,295.0,0.677966101695
+948,Gravel Ridge,55.033333,-62.633333,55.033333,55.033333,-62.633333,-62.633333,Vascular plants,Huperzia selago,1.0,NISP,spore,,397.0,,,Radiocarbon years BP,730.0,565.0,pollen,6/30/2007,300.0,0.333333333333
+948,Gravel Ridge,55.033333,-62.633333,55.033333,55.033333,-62.633333,-62.633333,Vascular plants,Huperzia selago,1.0,NISP,spore,,795.0,,,Radiocarbon years BP,750.0,565.0,pollen,6/30/2007,307.0,0.325732899023
+948,Gravel Ridge,55.033333,-62.633333,55.033333,55.033333,-62.633333,-62.633333,Vascular plants,Huperzia selago,1.0,NISP,spore,,1193.0,,,Radiocarbon years BP,770.0,565.0,pollen,6/30/2007,329.0,0.303951367781
+948,Gravel Ridge,55.033333,-62.633333,55.033333,55.033333,-62.633333,-62.633333,Vascular plants,Huperzia selago,1.0,NISP,spore,,4161.0,,,Radiocarbon years BP,930.0,565.0,pollen,6/30/2007,321.0,0.311526479751
+948,Gravel Ridge,55.033333,-62.633333,55.033333,55.033333,-62.633333,-62.633333,Vascular plants,Huperzia selago,1.0,NISP,spore,,4250.0,,,Radiocarbon years BP,935.0,565.0,pollen,6/30/2007,368.0,0.271739130435
+969,Hafichuk Site,50.320556,-105.883889,50.320556,50.320556,-105.883889,-105.883889,Vascular plants,Huperzia selago,1.0,NISP,spore,,10236.0,,,Radiocarbon years BP,275.0,740.0,pollen,6/30/2007,498.0,0.200803212851
+969,Hafichuk Site,50.320556,-105.883889,50.320556,50.320556,-105.883889,-105.883889,Vascular plants,Huperzia selago,1.0,NISP,spore,,10253.0,,,Radiocarbon years BP,280.0,740.0,pollen,6/30/2007,498.0,0.200803212851
+969,Hafichuk Site,50.320556,-105.883889,50.320556,50.320556,-105.883889,-105.883889,Vascular plants,Huperzia selago,1.0,NISP,spore,,10390.0,,,Radiocarbon years BP,320.0,740.0,pollen,6/30/2007,499.0,0.200400801603
+969,Hafichuk Site,50.320556,-105.883889,50.320556,50.320556,-105.883889,-105.883889,Vascular plants,Huperzia selago,1.0,NISP,spore,,11067.0,,,Radiocarbon years BP,435.0,740.0,pollen,6/30/2007,499.0,0.200400801603
+972,Hanging Lake,68.383333,-138.383333,68.383333,68.383333,-138.383333,-138.383333,Vascular plants,Huperzia selago,1.0,NISP,spore,,-402.0,,,Radiocarbon years BP,0.0,500.0,pollen,6/30/2007,1691.0,0.0591366055588
+972,Hanging Lake,68.383333,-138.383333,68.383333,68.383333,-138.383333,-138.383333,Vascular plants,Huperzia selago,1.0,NISP,spore,,224.0,,,Radiocarbon years BP,4.0,500.0,pollen,6/30/2007,1356.0,0.0737463126844
+972,Hanging Lake,68.383333,-138.383333,68.383333,68.383333,-138.383333,-138.383333,Vascular plants,Huperzia selago,1.0,NISP,spore,,1111.0,,,Radiocarbon years BP,10.0,500.0,pollen,6/30/2007,1487.0,0.0672494956288
+972,Hanging Lake,68.383333,-138.383333,68.383333,68.383333,-138.383333,-138.383333,Vascular plants,Huperzia selago,1.0,NISP,spore,,6663.0,,,Radiocarbon years BP,64.0,500.0,pollen,6/30/2007,2232.0,0.0448028673835
+972,Hanging Lake,68.383333,-138.383333,68.383333,68.383333,-138.383333,-138.383333,Vascular plants,Huperzia selago,2.0,NISP,spore,,9898.0,,,Radiocarbon years BP,152.0,500.0,pollen,6/30/2007,1642.0,0.121802679659
+972,Hanging Lake,68.383333,-138.383333,68.383333,68.383333,-138.383333,-138.383333,Vascular plants,Huperzia selago,1.0,NISP,spore,,19981.0,,,Radiocarbon years BP,310.0,500.0,pollen,6/30/2007,450.0,0.222222222222
+972,Hanging Lake,68.383333,-138.383333,68.383333,68.383333,-138.383333,-138.383333,Vascular plants,Huperzia selago,1.0,NISP,spore,,21284.0,,,Radiocarbon years BP,318.0,500.0,pollen,6/30/2007,375.0,0.266666666667
+972,Hanging Lake,68.383333,-138.383333,68.383333,68.383333,-138.383333,-138.383333,Vascular plants,Huperzia selago,1.0,NISP,spore,,33491.0,,,Radiocarbon years BP,372.0,500.0,pollen,6/30/2007,375.0,0.266666666667
+975,Harding Lake,64.444444,-146.9075,64.444444,64.444444,-146.9075,-146.9075,Vascular plants,Huperzia selago,1.0,NISP,spore,,13212.0,,,Radiocarbon years BP,381.0,,pollen,6/30/2007,306.0,0.326797385621
+975,Harding Lake,64.444444,-146.9075,64.444444,64.444444,-146.9075,-146.9075,Vascular plants,Huperzia selago,1.0,NISP,spore,,15647.0,,,Radiocarbon years BP,516.0,,pollen,6/30/2007,309.0,0.323624595469
+975,Harding Lake,64.444444,-146.9075,64.444444,64.444444,-146.9075,-146.9075,Vascular plants,Huperzia selago,1.0,NISP,spore,,16188.0,,,Radiocarbon years BP,546.0,,pollen,6/30/2007,321.0,0.311526479751
+975,Harding Lake,64.444444,-146.9075,64.444444,64.444444,-146.9075,-146.9075,Vascular plants,Huperzia selago,1.0,NISP,spore,,17090.0,,,Radiocarbon years BP,596.0,,pollen,6/30/2007,336.0,0.297619047619
+993,Healy Lake,64.0,-144.75,64.0,64.0,-144.75,-144.75,Vascular plants,Huperzia selago,1.0,NISP,spore,,919.0,,,Radiocarbon years BP,36.0,343.0,pollen,6/30/2007,318.0,0.314465408805
+993,Healy Lake,64.0,-144.75,64.0,64.0,-144.75,-144.75,Vascular plants,Huperzia selago,1.0,NISP,spore,,1932.0,,,Radiocarbon years BP,74.0,343.0,pollen,6/30/2007,350.0,0.285714285714
+993,Healy Lake,64.0,-144.75,64.0,64.0,-144.75,-144.75,Vascular plants,Huperzia selago,1.0,NISP,spore,,2910.0,,,Radiocarbon years BP,110.0,343.0,pollen,6/30/2007,409.0,0.244498777506
+993,Healy Lake,64.0,-144.75,64.0,64.0,-144.75,-144.75,Vascular plants,Huperzia selago,1.0,NISP,spore,,3181.0,,,Radiocarbon years BP,120.0,343.0,pollen,6/30/2007,298.0,0.335570469799
+993,Healy Lake,64.0,-144.75,64.0,64.0,-144.75,-144.75,Vascular plants,Huperzia selago,1.0,NISP,spore,,4268.0,,,Radiocarbon years BP,160.0,343.0,pollen,6/30/2007,343.0,0.291545189504
+993,Healy Lake,64.0,-144.75,64.0,64.0,-144.75,-144.75,Vascular plants,Huperzia selago,1.0,NISP,spore,,6358.0,,,Radiocarbon years BP,237.0,343.0,pollen,6/30/2007,386.0,0.259067357513
+993,Healy Lake,64.0,-144.75,64.0,64.0,-144.75,-144.75,Vascular plants,Huperzia selago,1.0,NISP,spore,,7091.0,,,Radiocarbon years BP,264.0,343.0,pollen,6/30/2007,359.0,0.278551532033
+1021,HFL22,53.616667,-60.75,53.616667,53.616667,-60.75,-60.75,Vascular plants,Huperzia selago,1.0,NISP,spore,,,,,,0.0,136.0,pollen surface sample,6/30/2007,,
+1036,HFL37,55.233333,-62.65,55.233333,55.233333,-62.65,-62.65,Vascular plants,Huperzia selago,1.0,NISP,spore,,,,,,0.0,623.0,pollen surface sample,6/30/2007,,
+1043,HFL44,57.166667,-63.166667,57.166667,57.166667,-63.166667,-63.166667,Vascular plants,Huperzia selago,1.0,NISP,spore,,,,,,0.0,510.0,pollen surface sample,6/30/2007,,
+1045,HFL46,57.333333,-62.8,57.333333,57.333333,-62.8,-62.8,Vascular plants,Huperzia selago,2.0,NISP,spore,,,,,,0.0,500.0,pollen surface sample,6/30/2007,,
+1047,HFL50,56.65,-64.533333,56.65,56.65,-64.533333,-64.533333,Vascular plants,Huperzia selago,1.0,NISP,spore,,,,,,0.0,510.0,pollen surface sample,6/30/2007,,
+1048,HFL51,56.65,-64.5,56.65,56.65,-64.5,-64.5,Vascular plants,Huperzia selago,2.0,NISP,spore,,,,,,0.0,523.0,pollen surface sample,6/30/2007,,
+1049,HFL52,56.583333,-64.5,56.583333,56.583333,-64.5,-64.5,Vascular plants,Huperzia selago,1.0,NISP,spore,,,,,,0.0,510.0,pollen surface sample,6/30/2007,,
+1070,Hickory Ridge Basin,38.947222,-89.113333,38.947222,38.947222,-89.113333,-89.113333,Vascular plants,Huperzia selago,1.0,NISP,spore,,,,,,135.0,167.0,pollen,6/30/2007,594.0,0.16835016835
+1071,Hidden Lake,63.94,-144.658333,63.94,63.94,-144.658333,-144.658333,Vascular plants,Huperzia selago,1.0,NISP,spore,,1071.0,,,Radiocarbon years BP,30.0,,pollen,6/30/2007,307.0,0.325732899023
+1071,Hidden Lake,63.94,-144.658333,63.94,63.94,-144.658333,-144.658333,Vascular plants,Huperzia selago,1.0,NISP,spore,,1428.0,,,Radiocarbon years BP,40.0,,pollen,6/30/2007,311.0,0.32154340836
+1071,Hidden Lake,63.94,-144.658333,63.94,63.94,-144.658333,-144.658333,Vascular plants,Huperzia selago,1.0,NISP,spore,,4970.0,,,Radiocarbon years BP,110.0,,pollen,6/30/2007,304.0,0.328947368421
+1071,Hidden Lake,63.94,-144.658333,63.94,63.94,-144.658333,-144.658333,Vascular plants,Huperzia selago,1.0,NISP,spore,,6763.0,,,Radiocarbon years BP,140.0,,pollen,6/30/2007,301.0,0.332225913621
+1071,Hidden Lake,63.94,-144.658333,63.94,63.94,-144.658333,-144.658333,Vascular plants,Huperzia selago,6.0,NISP,spore,,7797.0,,,Radiocarbon years BP,160.0,,pollen,6/30/2007,309.0,1.94174757282
+1071,Hidden Lake,63.94,-144.658333,63.94,63.94,-144.658333,-144.658333,Vascular plants,Huperzia selago,1.0,NISP,spore,,8830.0,,,Radiocarbon years BP,180.0,,pollen,6/30/2007,333.0,0.3003003003
+1071,Hidden Lake,63.94,-144.658333,63.94,63.94,-144.658333,-144.658333,Vascular plants,Huperzia selago,1.0,NISP,spore,,9863.0,,,Radiocarbon years BP,200.0,,pollen,6/30/2007,284.0,0.352112676056
+1071,Hidden Lake,63.94,-144.658333,63.94,63.94,-144.658333,-144.658333,Vascular plants,Huperzia selago,1.0,NISP,spore,,10122.0,,,Radiocarbon years BP,205.0,,pollen,6/30/2007,297.0,0.3367003367
+1071,Hidden Lake,63.94,-144.658333,63.94,63.94,-144.658333,-144.658333,Vascular plants,Huperzia selago,1.0,NISP,spore,,13958.0,,,Radiocarbon years BP,260.0,,pollen,6/30/2007,346.0,0.28901734104
+1071,Hidden Lake,63.94,-144.658333,63.94,63.94,-144.658333,-144.658333,Vascular plants,Huperzia selago,2.0,NISP,spore,,14868.0,,,Radiocarbon years BP,280.0,,pollen,6/30/2007,213.0,0.93896713615
+1109,Iglutalik Lake,66.135,-66.083333,66.135,66.135,-66.083333,-66.083333,Vascular plants,Huperzia selago,5.0,NISP,spore,,0.0,,,Radiocarbon years BP,0.0,90.0,pollen,6/30/2007,260.0,1.92307692308
+1109,Iglutalik Lake,66.135,-66.083333,66.135,66.135,-66.083333,-66.083333,Vascular plants,Huperzia selago,1.0,NISP,spore,,109.0,,,Radiocarbon years BP,2.0,90.0,pollen,6/30/2007,274.0,0.36496350365
+1109,Iglutalik Lake,66.135,-66.083333,66.135,66.135,-66.083333,-66.083333,Vascular plants,Huperzia selago,3.0,NISP,spore,,218.0,,,Radiocarbon years BP,4.0,90.0,pollen,6/30/2007,272.0,1.10294117647
+1109,Iglutalik Lake,66.135,-66.083333,66.135,66.135,-66.083333,-66.083333,Vascular plants,Huperzia selago,4.0,NISP,spore,,326.0,,,Radiocarbon years BP,6.0,90.0,pollen,6/30/2007,276.0,1.44927536232
+1109,Iglutalik Lake,66.135,-66.083333,66.135,66.135,-66.083333,-66.083333,Vascular plants,Huperzia selago,1.0,NISP,spore,,433.0,,,Radiocarbon years BP,8.0,90.0,pollen,6/30/2007,259.0,0.3861003861
+1109,Iglutalik Lake,66.135,-66.083333,66.135,66.135,-66.083333,-66.083333,Vascular plants,Huperzia selago,1.0,NISP,spore,,540.0,,,Radiocarbon years BP,10.0,90.0,pollen,6/30/2007,270.0,0.37037037037
+1109,Iglutalik Lake,66.135,-66.083333,66.135,66.135,-66.083333,-66.083333,Vascular plants,Huperzia selago,3.0,NISP,spore,,752.0,,,Radiocarbon years BP,14.0,90.0,pollen,6/30/2007,272.0,1.10294117647
+1109,Iglutalik Lake,66.135,-66.083333,66.135,66.135,-66.083333,-66.083333,Vascular plants,Huperzia selago,2.0,NISP,spore,,856.0,,,Radiocarbon years BP,16.0,90.0,pollen,6/30/2007,252.0,0.793650793651
+1109,Iglutalik Lake,66.135,-66.083333,66.135,66.135,-66.083333,-66.083333,Vascular plants,Huperzia selago,3.0,NISP,spore,,960.0,,,Radiocarbon years BP,18.0,90.0,pollen,6/30/2007,268.0,1.11940298507
+1109,Iglutalik Lake,66.135,-66.083333,66.135,66.135,-66.083333,-66.083333,Vascular plants,Huperzia selago,2.0,NISP,spore,,1064.0,,,Radiocarbon years BP,20.0,90.0,pollen,6/30/2007,271.0,0.738007380074
+1109,Iglutalik Lake,66.135,-66.083333,66.135,66.135,-66.083333,-66.083333,Vascular plants,Huperzia selago,3.0,NISP,spore,,1167.0,,,Radiocarbon years BP,22.0,90.0,pollen,6/30/2007,275.0,1.09090909091
+1109,Iglutalik Lake,66.135,-66.083333,66.135,66.135,-66.083333,-66.083333,Vascular plants,Huperzia selago,7.0,NISP,spore,,1269.0,,,Radiocarbon years BP,24.0,90.0,pollen,6/30/2007,261.0,2.68199233716
+1109,Iglutalik Lake,66.135,-66.083333,66.135,66.135,-66.083333,-66.083333,Vascular plants,Huperzia selago,2.0,NISP,spore,,1370.0,,,Radiocarbon years BP,26.0,90.0,pollen,6/30/2007,267.0,0.749063670412
+1109,Iglutalik Lake,66.135,-66.083333,66.135,66.135,-66.083333,-66.083333,Vascular plants,Huperzia selago,3.0,NISP,spore,,1471.0,,,Radiocarbon years BP,28.0,90.0,pollen,6/30/2007,260.0,1.15384615385
+1109,Iglutalik Lake,66.135,-66.083333,66.135,66.135,-66.083333,-66.083333,Vascular plants,Huperzia selago,7.0,NISP,spore,,1571.0,,,Radiocarbon years BP,30.0,90.0,pollen,6/30/2007,275.0,2.54545454545
+1109,Iglutalik Lake,66.135,-66.083333,66.135,66.135,-66.083333,-66.083333,Vascular plants,Huperzia selago,4.0,NISP,spore,,1670.0,,,Radiocarbon years BP,32.0,90.0,pollen,6/30/2007,268.0,1.49253731343
+1109,Iglutalik Lake,66.135,-66.083333,66.135,66.135,-66.083333,-66.083333,Vascular plants,Huperzia selago,2.0,NISP,spore,,1769.0,,,Radiocarbon years BP,34.0,90.0,pollen,6/30/2007,265.0,0.754716981132
+1109,Iglutalik Lake,66.135,-66.083333,66.135,66.135,-66.083333,-66.083333,Vascular plants,Huperzia selago,4.0,NISP,spore,,1867.0,,,Radiocarbon years BP,36.0,90.0,pollen,6/30/2007,262.0,1.52671755725
+1109,Iglutalik Lake,66.135,-66.083333,66.135,66.135,-66.083333,-66.083333,Vascular plants,Huperzia selago,4.0,NISP,spore,,1964.0,,,Radiocarbon years BP,38.0,90.0,pollen,6/30/2007,270.0,1.48148148148
+1109,Iglutalik Lake,66.135,-66.083333,66.135,66.135,-66.083333,-66.083333,Vascular plants,Huperzia selago,1.0,NISP,spore,,2252.0,,,Radiocarbon years BP,44.0,90.0,pollen,6/30/2007,271.0,0.369003690037
+1109,Iglutalik Lake,66.135,-66.083333,66.135,66.135,-66.083333,-66.083333,Vascular plants,Huperzia selago,1.0,NISP,spore,,2346.0,,,Radiocarbon years BP,46.0,90.0,pollen,6/30/2007,278.0,0.359712230216
+1109,Iglutalik Lake,66.135,-66.083333,66.135,66.135,-66.083333,-66.083333,Vascular plants,Huperzia selago,2.0,NISP,spore,,2440.0,,,Radiocarbon years BP,48.0,90.0,pollen,6/30/2007,274.0,0.729927007299
+1109,Iglutalik Lake,66.135,-66.083333,66.135,66.135,-66.083333,-66.083333,Vascular plants,Huperzia selago,1.0,NISP,spore,,2534.0,,,Radiocarbon years BP,50.0,90.0,pollen,6/30/2007,276.0,0.36231884058
+1109,Iglutalik Lake,66.135,-66.083333,66.135,66.135,-66.083333,-66.083333,Vascular plants,Huperzia selago,2.0,NISP,spore,,2626.0,,,Radiocarbon years BP,52.0,90.0,pollen,6/30/2007,267.0,0.749063670412
+1109,Iglutalik Lake,66.135,-66.083333,66.135,66.135,-66.083333,-66.083333,Vascular plants,Huperzia selago,4.0,NISP,spore,,2718.0,,,Radiocarbon years BP,54.0,90.0,pollen,6/30/2007,263.0,1.52091254753
+1109,Iglutalik Lake,66.135,-66.083333,66.135,66.135,-66.083333,-66.083333,Vascular plants,Huperzia selago,2.0,NISP,spore,,2809.0,,,Radiocarbon years BP,56.0,90.0,pollen,6/30/2007,264.0,0.757575757576
+1109,Iglutalik Lake,66.135,-66.083333,66.135,66.135,-66.083333,-66.083333,Vascular plants,Huperzia selago,2.0,NISP,spore,,2900.0,,,Radiocarbon years BP,58.0,90.0,pollen,6/30/2007,268.0,0.746268656716
+1109,Iglutalik Lake,66.135,-66.083333,66.135,66.135,-66.083333,-66.083333,Vascular plants,Huperzia selago,2.0,NISP,spore,,2990.0,,,Radiocarbon years BP,60.0,90.0,pollen,6/30/2007,276.0,0.724637681159
+1109,Iglutalik Lake,66.135,-66.083333,66.135,66.135,-66.083333,-66.083333,Vascular plants,Huperzia selago,3.0,NISP,spore,,3079.0,,,Radiocarbon years BP,62.0,90.0,pollen,6/30/2007,267.0,1.12359550562
+1109,Iglutalik Lake,66.135,-66.083333,66.135,66.135,-66.083333,-66.083333,Vascular plants,Huperzia selago,4.0,NISP,spore,,3168.0,,,Radiocarbon years BP,64.0,90.0,pollen,6/30/2007,536.0,0.746268656716
+1109,Iglutalik Lake,66.135,-66.083333,66.135,66.135,-66.083333,-66.083333,Vascular plants,Huperzia selago,2.0,NISP,spore,,3255.0,,,Radiocarbon years BP,66.0,90.0,pollen,6/30/2007,277.0,0.72202166065
+1109,Iglutalik Lake,66.135,-66.083333,66.135,66.135,-66.083333,-66.083333,Vascular plants,Huperzia selago,3.0,NISP,spore,,3343.0,,,Radiocarbon years BP,68.0,90.0,pollen,6/30/2007,269.0,1.11524163569
+1109,Iglutalik Lake,66.135,-66.083333,66.135,66.135,-66.083333,-66.083333,Vascular plants,Huperzia selago,1.0,NISP,spore,,3429.0,,,Radiocarbon years BP,70.0,90.0,pollen,6/30/2007,269.0,0.371747211896
+1109,Iglutalik Lake,66.135,-66.083333,66.135,66.135,-66.083333,-66.083333,Vascular plants,Huperzia selago,1.0,NISP,spore,,3515.0,,,Radiocarbon years BP,72.0,90.0,pollen,6/30/2007,273.0,0.3663003663
+1109,Iglutalik Lake,66.135,-66.083333,66.135,66.135,-66.083333,-66.083333,Vascular plants,Huperzia selago,2.0,NISP,spore,,3685.0,,,Radiocarbon years BP,76.0,90.0,pollen,6/30/2007,271.0,0.738007380074
+1109,Iglutalik Lake,66.135,-66.083333,66.135,66.135,-66.083333,-66.083333,Vascular plants,Huperzia selago,1.0,NISP,spore,,3768.0,,,Radiocarbon years BP,78.0,90.0,pollen,6/30/2007,268.0,0.373134328358
+1109,Iglutalik Lake,66.135,-66.083333,66.135,66.135,-66.083333,-66.083333,Vascular plants,Huperzia selago,1.0,NISP,spore,,3852.0,,,Radiocarbon years BP,80.0,90.0,pollen,6/30/2007,274.0,0.36496350365
+1109,Iglutalik Lake,66.135,-66.083333,66.135,66.135,-66.083333,-66.083333,Vascular plants,Huperzia selago,4.0,NISP,spore,,4016.0,,,Radiocarbon years BP,84.0,90.0,pollen,6/30/2007,256.0,1.5625
+1109,Iglutalik Lake,66.135,-66.083333,66.135,66.135,-66.083333,-66.083333,Vascular plants,Huperzia selago,5.0,NISP,spore,,4177.0,,,Radiocarbon years BP,88.0,90.0,pollen,6/30/2007,248.0,2.01612903226
+1109,Iglutalik Lake,66.135,-66.083333,66.135,66.135,-66.083333,-66.083333,Vascular plants,Huperzia selago,1.0,NISP,spore,,4257.0,,,Radiocarbon years BP,90.0,90.0,pollen,6/30/2007,270.0,0.37037037037
+1109,Iglutalik Lake,66.135,-66.083333,66.135,66.135,-66.083333,-66.083333,Vascular plants,Huperzia selago,5.0,NISP,spore,,5017.0,,,Radiocarbon years BP,110.0,90.0,pollen,6/30/2007,255.0,1.96078431373
+1109,Iglutalik Lake,66.135,-66.083333,66.135,66.135,-66.083333,-66.083333,Vascular plants,Huperzia selago,1.0,NISP,spore,,5710.0,,,Radiocarbon years BP,130.0,90.0,pollen,6/30/2007,247.0,0.404858299595
+1109,Iglutalik Lake,66.135,-66.083333,66.135,66.135,-66.083333,-66.083333,Vascular plants,Huperzia selago,2.0,NISP,spore,,6031.0,,,Radiocarbon years BP,140.0,90.0,pollen,6/30/2007,232.0,0.862068965517
+1109,Iglutalik Lake,66.135,-66.083333,66.135,66.135,-66.083333,-66.083333,Vascular plants,Huperzia selago,1.0,NISP,spore,,6481.0,,,Radiocarbon years BP,155.0,90.0,pollen,6/30/2007,218.0,0.45871559633
+1109,Iglutalik Lake,66.135,-66.083333,66.135,66.135,-66.083333,-66.083333,Vascular plants,Huperzia selago,1.0,NISP,spore,,6760.0,,,Radiocarbon years BP,165.0,90.0,pollen,6/30/2007,219.0,0.456621004566
+1109,Iglutalik Lake,66.135,-66.083333,66.135,66.135,-66.083333,-66.083333,Vascular plants,Huperzia selago,1.0,NISP,spore,,6893.0,,,Radiocarbon years BP,170.0,90.0,pollen,6/30/2007,232.0,0.431034482759
+1109,Iglutalik Lake,66.135,-66.083333,66.135,66.135,-66.083333,-66.083333,Vascular plants,Huperzia selago,4.0,NISP,spore,,7022.0,,,Radiocarbon years BP,175.0,90.0,pollen,6/30/2007,215.0,1.86046511628
+1109,Iglutalik Lake,66.135,-66.083333,66.135,66.135,-66.083333,-66.083333,Vascular plants,Huperzia selago,7.0,NISP,spore,,7147.0,,,Radiocarbon years BP,180.0,90.0,pollen,6/30/2007,194.0,3.60824742268
+1109,Iglutalik Lake,66.135,-66.083333,66.135,66.135,-66.083333,-66.083333,Vascular plants,Huperzia selago,3.0,NISP,spore,,7384.0,,,Radiocarbon years BP,190.0,90.0,pollen,6/30/2007,234.0,1.28205128205
+1109,Iglutalik Lake,66.135,-66.083333,66.135,66.135,-66.083333,-66.083333,Vascular plants,Huperzia selago,5.0,NISP,spore,,8162.0,,,Radiocarbon years BP,230.0,90.0,pollen,6/30/2007,205.0,2.43902439024
+1109,Iglutalik Lake,66.135,-66.083333,66.135,66.135,-66.083333,-66.083333,Vascular plants,Huperzia selago,2.0,NISP,spore,,8314.0,,,Radiocarbon years BP,240.0,90.0,pollen,6/30/2007,203.0,0.985221674877
+1109,Iglutalik Lake,66.135,-66.083333,66.135,66.135,-66.083333,-66.083333,Vascular plants,Huperzia selago,4.0,NISP,spore,,8449.0,,,Radiocarbon years BP,250.0,90.0,pollen,6/30/2007,174.0,2.29885057471
+1109,Iglutalik Lake,66.135,-66.083333,66.135,66.135,-66.083333,-66.083333,Vascular plants,Huperzia selago,1.0,NISP,spore,,8568.0,,,Radiocarbon years BP,260.0,90.0,pollen,6/30/2007,196.0,0.510204081633
+1109,Iglutalik Lake,66.135,-66.083333,66.135,66.135,-66.083333,-66.083333,Vascular plants,Huperzia selago,6.0,NISP,spore,,9000.0,,,Radiocarbon years BP,290.0,90.0,pollen,6/30/2007,249.0,2.40963855422
+1124,Jack London Lake,62.166667,149.5,62.166667,62.166667,149.5,149.5,Vascular plants,Huperzia selago,1.0,NISP,spore,,11790.0,,,Radiocarbon years BP,145.0,820.0,pollen,6/30/2007,375.0,0.266666666667
+1124,Jack London Lake,62.166667,149.5,62.166667,62.166667,149.5,149.5,Vascular plants,Huperzia selago,1.0,NISP,spore,,13676.0,,,Radiocarbon years BP,187.0,820.0,pollen,6/30/2007,400.0,0.25
+1124,Jack London Lake,62.166667,149.5,62.166667,62.166667,149.5,149.5,Vascular plants,Huperzia selago,2.0,NISP,spore,,15505.0,,,Radiocarbon years BP,229.0,820.0,pollen,6/30/2007,380.0,0.526315789474
+1124,Jack London Lake,62.166667,149.5,62.166667,62.166667,149.5,149.5,Vascular plants,Huperzia selago,1.0,NISP,spore,,16681.0,,,Radiocarbon years BP,256.0,820.0,pollen,6/30/2007,255.0,0.392156862745
+1124,Jack London Lake,62.166667,149.5,62.166667,62.166667,149.5,149.5,Vascular plants,Huperzia selago,1.0,NISP,spore,,19555.0,,,Radiocarbon years BP,322.0,820.0,pollen,6/30/2007,300.0,0.333333333333
+1124,Jack London Lake,62.166667,149.5,62.166667,62.166667,149.5,149.5,Vascular plants,Huperzia selago,1.0,NISP,spore,,25303.0,,,Radiocarbon years BP,454.0,820.0,pollen,6/30/2007,446.0,0.224215246637
+1124,Jack London Lake,62.166667,149.5,62.166667,62.166667,149.5,149.5,Vascular plants,Huperzia selago,1.0,NISP,spore,,25564.0,,,Radiocarbon years BP,460.0,820.0,pollen,6/30/2007,380.0,0.263157894737
+1124,Jack London Lake,62.166667,149.5,62.166667,62.166667,149.5,149.5,Vascular plants,Huperzia selago,2.0,NISP,spore,,26087.0,,,Radiocarbon years BP,472.0,820.0,pollen,6/30/2007,406.0,0.492610837438
+1355,Joe Lake,66.766667,-157.216667,66.766667,66.766667,-157.216667,-157.216667,Vascular plants,Huperzia selago,1.0,NISP,spore,,7745.0,,,Radiocarbon years BP,105.0,183.0,pollen,6/30/2007,319.0,0.313479623824
+1355,Joe Lake,66.766667,-157.216667,66.766667,66.766667,-157.216667,-157.216667,Vascular plants,Huperzia selago,1.0,NISP,spore,,11850.0,,,Radiocarbon years BP,310.0,183.0,pollen,6/30/2007,311.0,0.32154340836
+1355,Joe Lake,66.766667,-157.216667,66.766667,66.766667,-157.216667,-157.216667,Vascular plants,Huperzia selago,1.0,NISP,spore,,12170.0,,,Radiocarbon years BP,330.0,183.0,pollen,6/30/2007,392.0,0.255102040816
+1355,Joe Lake,66.766667,-157.216667,66.766667,66.766667,-157.216667,-157.216667,Vascular plants,Huperzia selago,1.0,NISP,spore,,14383.0,,,Radiocarbon years BP,410.0,183.0,pollen,6/30/2007,533.0,0.187617260788
+1355,Joe Lake,66.766667,-157.216667,66.766667,66.766667,-157.216667,-157.216667,Vascular plants,Huperzia selago,2.0,NISP,spore,,19836.0,,,Radiocarbon years BP,470.0,183.0,pollen,6/30/2007,583.0,0.343053173242
+1355,Joe Lake,66.766667,-157.216667,66.766667,66.766667,-157.216667,-157.216667,Vascular plants,Huperzia selago,1.0,NISP,spore,,22702.0,,,Radiocarbon years BP,500.0,183.0,pollen,6/30/2007,497.0,0.201207243461
+1355,Joe Lake,66.766667,-157.216667,66.766667,66.766667,-157.216667,-157.216667,Vascular plants,Huperzia selago,1.0,NISP,spore,,24614.0,,,Radiocarbon years BP,520.0,183.0,pollen,6/30/2007,509.0,0.196463654224
+1355,Joe Lake,66.766667,-157.216667,66.766667,66.766667,-157.216667,-157.216667,Vascular plants,Huperzia selago,1.0,NISP,spore,,28436.0,,,Radiocarbon years BP,560.0,183.0,pollen,6/30/2007,531.0,0.188323917137
+1355,Joe Lake,66.766667,-157.216667,66.766667,66.766667,-157.216667,-157.216667,Vascular plants,Huperzia selago,1.0,NISP,spore,,32272.0,,,Radiocarbon years BP,630.0,183.0,pollen,6/30/2007,511.0,0.195694716243
+1355,Joe Lake,66.766667,-157.216667,66.766667,66.766667,-157.216667,-157.216667,Vascular plants,Huperzia selago,1.0,NISP,spore,,33553.0,,,Radiocarbon years BP,660.0,183.0,pollen,6/30/2007,1027.0,0.0973709834469
+1355,Joe Lake,66.766667,-157.216667,66.766667,66.766667,-157.216667,-157.216667,Vascular plants,Huperzia selago,2.0,NISP,spore,,33980.0,,,Radiocarbon years BP,670.0,183.0,pollen,6/30/2007,553.0,0.361663652803
+1355,Joe Lake,66.766667,-157.216667,66.766667,66.766667,-157.216667,-157.216667,Vascular plants,Huperzia selago,1.0,NISP,spore,,34407.0,,,Radiocarbon years BP,680.0,183.0,pollen,6/30/2007,513.0,0.194931773879
+1355,Joe Lake,66.766667,-157.216667,66.766667,66.766667,-157.216667,-157.216667,Vascular plants,Huperzia selago,1.0,NISP,spore,,35689.0,,,Radiocarbon years BP,710.0,183.0,pollen,6/30/2007,516.0,0.193798449612
+1355,Joe Lake,66.766667,-157.216667,66.766667,66.766667,-157.216667,-157.216667,Vascular plants,Huperzia selago,2.0,NISP,spore,,36116.0,,,Radiocarbon years BP,720.0,183.0,pollen,6/30/2007,502.0,0.398406374502
+1355,Joe Lake,66.766667,-157.216667,66.766667,66.766667,-157.216667,-157.216667,Vascular plants,Huperzia selago,2.0,NISP,spore,,37824.0,,,Radiocarbon years BP,760.0,183.0,pollen,6/30/2007,503.0,0.397614314115
+1355,Joe Lake,66.766667,-157.216667,66.766667,66.766667,-157.216667,-157.216667,Vascular plants,Huperzia selago,2.0,NISP,spore,,38251.0,,,Radiocarbon years BP,770.0,183.0,pollen,6/30/2007,510.0,0.392156862745
+1355,Joe Lake,66.766667,-157.216667,66.766667,66.766667,-157.216667,-157.216667,Vascular plants,Huperzia selago,1.0,NISP,spore,,39960.0,,,Radiocarbon years BP,810.0,183.0,pollen,6/30/2007,343.0,0.291545189504
+1378,Baker Lake Site 1,64.3,-96.0,64.3,64.3,-96.0,-96.0,Vascular plants,Huperzia selago,1.0,NISP,spore,,,,,,0.0,110.0,pollen surface sample,6/30/2007,,
+1381,Esker (CA:Nunavut),66.22,-92.38,66.22,66.22,-92.38,-92.38,Vascular plants,Huperzia selago,2.0,NISP,spore,,,,,,0.0,250.0,pollen surface sample,6/30/2007,,
+1385,Makar Inlet,68.3,-85.67,68.3,68.3,-85.67,-85.67,Vascular plants,Huperzia selago,3.0,NISP,spore,,,,,,0.0,400.0,pollen surface sample,6/30/2007,,
+1402,Karas'e Lake,53.03,70.22,53.03,53.03,70.22,70.22,Vascular plants,Huperzia selago,1.0,NISP,spore,,3197.0,,,Radiocarbon years BP,225.0,435.0,pollen,6/30/2007,278.0,0.359712230216
+1402,Karas'e Lake,53.03,70.22,53.03,53.03,70.22,70.22,Vascular plants,Huperzia selago,1.0,NISP,spore,,5369.0,,,Radiocarbon years BP,335.0,435.0,pollen,6/30/2007,638.0,0.156739811912
+1477,Khocho,71.05,136.233333,71.05,71.05,136.233333,136.233333,Vascular plants,Huperzia selago,1.0,NISP,spore,,,,,,10.0,6.0,pollen,6/30/2007,334.0,0.299401197605
+1477,Khocho,71.05,136.233333,71.05,71.05,136.233333,136.233333,Vascular plants,Huperzia selago,1.0,NISP,spore,,,,,,80.0,6.0,pollen,6/30/2007,325.0,0.307692307692
+1477,Khocho,71.05,136.233333,71.05,71.05,136.233333,136.233333,Vascular plants,Huperzia selago,1.0,NISP,spore,,,,,,90.0,6.0,pollen,6/30/2007,350.0,0.285714285714
+1477,Khocho,71.05,136.233333,71.05,71.05,136.233333,136.233333,Vascular plants,Huperzia selago,1.0,NISP,spore,,,,,,110.0,6.0,pollen,6/30/2007,297.0,0.3367003367
+1477,Khocho,71.05,136.233333,71.05,71.05,136.233333,136.233333,Vascular plants,Huperzia selago,2.0,NISP,spore,,,,,,120.0,6.0,pollen,6/30/2007,459.0,0.435729847495
+1477,Khocho,71.05,136.233333,71.05,71.05,136.233333,136.233333,Vascular plants,Huperzia selago,1.0,NISP,spore,,,,,,160.0,6.0,pollen,6/30/2007,591.0,0.169204737733
+1477,Khocho,71.05,136.233333,71.05,71.05,136.233333,136.233333,Vascular plants,Huperzia selago,1.0,NISP,spore,,,,,,180.0,6.0,pollen,6/30/2007,419.0,0.238663484487
+1477,Khocho,71.05,136.233333,71.05,71.05,136.233333,136.233333,Vascular plants,Huperzia selago,2.0,NISP,spore,,,,,,270.0,6.0,pollen,6/30/2007,306.0,0.653594771242
+1477,Khocho,71.05,136.233333,71.05,71.05,136.233333,136.233333,Vascular plants,Huperzia selago,1.0,NISP,spore,,,,,,280.0,6.0,pollen,6/30/2007,329.0,0.303951367781
+1479,Khomustakh Lake,63.82,121.62,63.82,63.82,121.62,121.62,Vascular plants,Huperzia selago,1.0,NISP,spore,,6403.0,,,Radiocarbon years BP,270.0,120.0,pollen,6/30/2007,292.0,0.342465753425
+1481,Kinsman Pond,44.133333,-71.733333,44.133333,44.133333,-71.733333,-71.733333,Vascular plants,Huperzia selago,1.0,NISP,spore,,0.0,,,Radiocarbon years BP,0.0,1140.0,pollen,6/30/2007,362.0,0.276243093923
+1481,Kinsman Pond,44.133333,-71.733333,44.133333,44.133333,-71.733333,-71.733333,Vascular plants,Huperzia selago,3.0,NISP,spore,,26.0,,,Radiocarbon years BP,5.0,1140.0,pollen,6/30/2007,393.0,0.763358778626
+1481,Kinsman Pond,44.133333,-71.733333,44.133333,44.133333,-71.733333,-71.733333,Vascular plants,Huperzia selago,1.0,NISP,spore,,47.0,,,Radiocarbon years BP,9.0,1140.0,pollen,6/30/2007,417.0,0.239808153477
+1481,Kinsman Pond,44.133333,-71.733333,44.133333,44.133333,-71.733333,-71.733333,Vascular plants,Huperzia selago,1.0,NISP,spore,,105.0,,,Radiocarbon years BP,20.0,1140.0,pollen,6/30/2007,383.0,0.261096605744
+1481,Kinsman Pond,44.133333,-71.733333,44.133333,44.133333,-71.733333,-71.733333,Vascular plants,Huperzia selago,3.0,NISP,spore,,313.0,,,Radiocarbon years BP,25.0,1140.0,pollen,6/30/2007,402.0,0.746268656716
+1481,Kinsman Pond,44.133333,-71.733333,44.133333,44.133333,-71.733333,-71.733333,Vascular plants,Huperzia selago,3.0,NISP,spore,,522.0,,,Radiocarbon years BP,30.0,1140.0,pollen,6/30/2007,363.0,0.826446280992
+1481,Kinsman Pond,44.133333,-71.733333,44.133333,44.133333,-71.733333,-71.733333,Vascular plants,Huperzia selago,2.0,NISP,spore,,2611.0,,,Radiocarbon years BP,80.0,1140.0,pollen,6/30/2007,360.0,0.555555555556
+1481,Kinsman Pond,44.133333,-71.733333,44.133333,44.133333,-71.733333,-71.733333,Vascular plants,Huperzia selago,3.0,NISP,spore,,3029.0,,,Radiocarbon years BP,90.0,1140.0,pollen,6/30/2007,348.0,0.862068965517
+1481,Kinsman Pond,44.133333,-71.733333,44.133333,44.133333,-71.733333,-71.733333,Vascular plants,Huperzia selago,1.0,NISP,spore,,3446.0,,,Radiocarbon years BP,100.0,1140.0,pollen,6/30/2007,389.0,0.25706940874
+1481,Kinsman Pond,44.133333,-71.733333,44.133333,44.133333,-71.733333,-71.733333,Vascular plants,Huperzia selago,5.0,NISP,spore,,4282.0,,,Radiocarbon years BP,120.0,1140.0,pollen,6/30/2007,350.0,1.42857142857
+1481,Kinsman Pond,44.133333,-71.733333,44.133333,44.133333,-71.733333,-71.733333,Vascular plants,Huperzia selago,1.0,NISP,spore,,4964.0,,,Radiocarbon years BP,140.0,1140.0,pollen,6/30/2007,340.0,0.294117647059
+1481,Kinsman Pond,44.133333,-71.733333,44.133333,44.133333,-71.733333,-71.733333,Vascular plants,Huperzia selago,6.0,NISP,spore,,5494.0,,,Radiocarbon years BP,160.0,1140.0,pollen,6/30/2007,390.0,1.53846153846
+1481,Kinsman Pond,44.133333,-71.733333,44.133333,44.133333,-71.733333,-71.733333,Vascular plants,Huperzia selago,1.0,NISP,spore,,6023.0,,,Radiocarbon years BP,180.0,1140.0,pollen,6/30/2007,366.0,0.273224043716
+1481,Kinsman Pond,44.133333,-71.733333,44.133333,44.133333,-71.733333,-71.733333,Vascular plants,Huperzia selago,1.0,NISP,spore,,7612.0,,,Radiocarbon years BP,240.0,1140.0,pollen,6/30/2007,425.0,0.235294117647
+1481,Kinsman Pond,44.133333,-71.733333,44.133333,44.133333,-71.733333,-71.733333,Vascular plants,Huperzia selago,1.0,NISP,spore,,8671.0,,,Radiocarbon years BP,280.0,1140.0,pollen,6/30/2007,485.0,0.20618556701
+1503,Kollioksak,66.966667,-156.45,66.966667,66.966667,-156.45,-156.45,Vascular plants,Huperzia selago,1.0,NISP,spore,,1693.0,,,Radiocarbon years BP,20.0,213.0,pollen,6/30/2007,354.0,0.282485875706
+1503,Kollioksak,66.966667,-156.45,66.966667,66.966667,-156.45,-156.45,Vascular plants,Huperzia selago,2.0,NISP,spore,,2540.0,,,Radiocarbon years BP,30.0,213.0,pollen,6/30/2007,375.0,0.533333333333
+1503,Kollioksak,66.966667,-156.45,66.966667,66.966667,-156.45,-156.45,Vascular plants,Huperzia selago,2.0,NISP,spore,,3030.0,,,Radiocarbon years BP,60.0,213.0,pollen,6/30/2007,391.0,0.511508951407
+1503,Kollioksak,66.966667,-156.45,66.966667,66.966667,-156.45,-156.45,Vascular plants,Huperzia selago,1.0,NISP,spore,,3193.0,,,Radiocarbon years BP,70.0,213.0,pollen,6/30/2007,365.0,0.27397260274
+1503,Kollioksak,66.966667,-156.45,66.966667,66.966667,-156.45,-156.45,Vascular plants,Huperzia selago,1.0,NISP,spore,,3519.0,,,Radiocarbon years BP,90.0,213.0,pollen,6/30/2007,346.0,0.28901734104
+1503,Kollioksak,66.966667,-156.45,66.966667,66.966667,-156.45,-156.45,Vascular plants,Huperzia selago,1.0,NISP,spore,,3682.0,,,Radiocarbon years BP,100.0,213.0,pollen,6/30/2007,370.0,0.27027027027
+1503,Kollioksak,66.966667,-156.45,66.966667,66.966667,-156.45,-156.45,Vascular plants,Huperzia selago,2.0,NISP,spore,,3846.0,,,Radiocarbon years BP,110.0,213.0,pollen,6/30/2007,419.0,0.477326968974
+1503,Kollioksak,66.966667,-156.45,66.966667,66.966667,-156.45,-156.45,Vascular plants,Huperzia selago,1.0,NISP,spore,,4009.0,,,Radiocarbon years BP,120.0,213.0,pollen,6/30/2007,342.0,0.292397660819
+1503,Kollioksak,66.966667,-156.45,66.966667,66.966667,-156.45,-156.45,Vascular plants,Huperzia selago,1.0,NISP,spore,,4498.0,,,Radiocarbon years BP,150.0,213.0,pollen,6/30/2007,390.0,0.25641025641
+1503,Kollioksak,66.966667,-156.45,66.966667,66.966667,-156.45,-156.45,Vascular plants,Huperzia selago,1.0,NISP,spore,,4662.0,,,Radiocarbon years BP,160.0,213.0,pollen,6/30/2007,380.0,0.263157894737
+1503,Kollioksak,66.966667,-156.45,66.966667,66.966667,-156.45,-156.45,Vascular plants,Huperzia selago,3.0,NISP,spore,,5641.0,,,Radiocarbon years BP,220.0,213.0,pollen,6/30/2007,324.0,0.925925925926
+1503,Kollioksak,66.966667,-156.45,66.966667,66.966667,-156.45,-156.45,Vascular plants,Huperzia selago,1.0,NISP,spore,,5804.0,,,Radiocarbon years BP,230.0,213.0,pollen,6/30/2007,309.0,0.323624595469
+1503,Kollioksak,66.966667,-156.45,66.966667,66.966667,-156.45,-156.45,Vascular plants,Huperzia selago,1.0,NISP,spore,,5967.0,,,Radiocarbon years BP,240.0,213.0,pollen,6/30/2007,403.0,0.248138957816
+1503,Kollioksak,66.966667,-156.45,66.966667,66.966667,-156.45,-156.45,Vascular plants,Huperzia selago,3.0,NISP,spore,,6620.0,,,Radiocarbon years BP,280.0,213.0,pollen,6/30/2007,396.0,0.757575757576
+1503,Kollioksak,66.966667,-156.45,66.966667,66.966667,-156.45,-156.45,Vascular plants,Huperzia selago,1.0,NISP,spore,,7057.0,,,Radiocarbon years BP,300.0,213.0,pollen,6/30/2007,414.0,0.24154589372
+1503,Kollioksak,66.966667,-156.45,66.966667,66.966667,-156.45,-156.45,Vascular plants,Huperzia selago,2.0,NISP,spore,,7494.0,,,Radiocarbon years BP,320.0,213.0,pollen,6/30/2007,451.0,0.443458980044
+1503,Kollioksak,66.966667,-156.45,66.966667,66.966667,-156.45,-156.45,Vascular plants,Huperzia selago,2.0,NISP,spore,,7712.0,,,Radiocarbon years BP,330.0,213.0,pollen,6/30/2007,409.0,0.488997555012
+1503,Kollioksak,66.966667,-156.45,66.966667,66.966667,-156.45,-156.45,Vascular plants,Huperzia selago,2.0,NISP,spore,,8149.0,,,Radiocarbon years BP,350.0,213.0,pollen,6/30/2007,424.0,0.471698113208
+1503,Kollioksak,66.966667,-156.45,66.966667,66.966667,-156.45,-156.45,Vascular plants,Huperzia selago,1.0,NISP,spore,,8367.0,,,Radiocarbon years BP,360.0,213.0,pollen,6/30/2007,354.0,0.282485875706
+1503,Kollioksak,66.966667,-156.45,66.966667,66.966667,-156.45,-156.45,Vascular plants,Huperzia selago,1.0,NISP,spore,,9241.0,,,Radiocarbon years BP,400.0,213.0,pollen,6/30/2007,334.0,0.299401197605
+1503,Kollioksak,66.966667,-156.45,66.966667,66.966667,-156.45,-156.45,Vascular plants,Huperzia selago,2.0,NISP,spore,,9350.0,,,Radiocarbon years BP,405.0,213.0,pollen,6/30/2007,382.0,0.523560209424
+1503,Kollioksak,66.966667,-156.45,66.966667,66.966667,-156.45,-156.45,Vascular plants,Huperzia selago,1.0,NISP,spore,,12344.0,,,Radiocarbon years BP,430.0,213.0,pollen,6/30/2007,414.0,0.24154589372
+1503,Kollioksak,66.966667,-156.45,66.966667,66.966667,-156.45,-156.45,Vascular plants,Huperzia selago,1.0,NISP,spore,,14140.0,,,Radiocarbon years BP,445.0,213.0,pollen,6/30/2007,388.0,0.257731958763
+1503,Kollioksak,66.966667,-156.45,66.966667,66.966667,-156.45,-156.45,Vascular plants,Huperzia selago,2.0,NISP,spore,,15098.0,,,Radiocarbon years BP,453.0,213.0,pollen,6/30/2007,368.0,0.54347826087
+1504,Berelyekh River,63.283333,147.75,63.283333,63.283333,147.75,147.75,Vascular plants,Huperzia selago,1.0,NISP,spore,,932.0,,,Radiocarbon years BP,0.0,800.0,pollen,6/30/2007,236.0,0.423728813559
+1504,Berelyekh River,63.283333,147.75,63.283333,63.283333,147.75,147.75,Vascular plants,Huperzia selago,1.0,NISP,spore,,12538.0,,,Radiocarbon years BP,180.0,800.0,pollen,6/30/2007,263.0,0.380228136882
+1504,Berelyekh River,63.283333,147.75,63.283333,63.283333,147.75,147.75,Vascular plants,Huperzia selago,1.0,NISP,spore,,12771.0,,,Radiocarbon years BP,200.0,800.0,pollen,6/30/2007,264.0,0.378787878788
+1504,Berelyekh River,63.283333,147.75,63.283333,63.283333,147.75,147.75,Vascular plants,Huperzia selago,1.0,NISP,spore,,13704.0,,,Radiocarbon years BP,280.0,800.0,pollen,6/30/2007,91.0,1.0989010989
+1506,Konergino Exposure,65.9,178.9,65.9,65.9,178.9,178.9,Vascular plants,Huperzia selago,1.0,NISP,spore,,,,,Radiocarbon years BP,50.0,3.0,pollen,6/30/2007,880.0,0.113636363636
+1506,Konergino Exposure,65.9,178.9,65.9,65.9,178.9,178.9,Vascular plants,Huperzia selago,1.0,NISP,spore,,,,,Radiocarbon years BP,60.0,3.0,pollen,6/30/2007,914.0,0.109409190372
+1506,Konergino Exposure,65.9,178.9,65.9,65.9,178.9,178.9,Vascular plants,Huperzia selago,1.0,NISP,spore,,,,,Radiocarbon years BP,70.0,3.0,pollen,6/30/2007,938.0,0.106609808102
+1506,Konergino Exposure,65.9,178.9,65.9,65.9,178.9,178.9,Vascular plants,Huperzia selago,1.0,NISP,spore,,7650.0,,,Radiocarbon years BP,240.0,3.0,pollen,6/30/2007,172.0,0.581395348837
+1506,Konergino Exposure,65.9,178.9,65.9,65.9,178.9,178.9,Vascular plants,Huperzia selago,1.0,NISP,spore,,,,,Radiocarbon years BP,320.0,3.0,pollen,6/30/2007,827.0,0.120918984281
+1513,Kresta Gulf Exposure,66.0,-179.0,66.0,66.0,-179.0,-179.0,Vascular plants,Huperzia selago,1.0,NISP,spore,,2625.0,,,Radiocarbon years BP,0.0,5.0,pollen,6/30/2007,843.0,0.11862396204
+1513,Kresta Gulf Exposure,66.0,-179.0,66.0,66.0,-179.0,-179.0,Vascular plants,Huperzia selago,6.0,NISP,spore,,2735.0,,,Radiocarbon years BP,5.0,5.0,pollen,6/30/2007,930.0,0.645161290323
+1513,Kresta Gulf Exposure,66.0,-179.0,66.0,66.0,-179.0,-179.0,Vascular plants,Huperzia selago,1.0,NISP,spore,,3288.0,,,Radiocarbon years BP,30.0,5.0,pollen,6/30/2007,899.0,0.111234705228
+1513,Kresta Gulf Exposure,66.0,-179.0,66.0,66.0,-179.0,-179.0,Vascular plants,Huperzia selago,5.0,NISP,spore,,3730.0,,,Radiocarbon years BP,50.0,5.0,pollen,6/30/2007,814.0,0.614250614251
+1513,Kresta Gulf Exposure,66.0,-179.0,66.0,66.0,-179.0,-179.0,Vascular plants,Huperzia selago,1.0,NISP,spore,,4835.0,,,Radiocarbon years BP,100.0,5.0,pollen,6/30/2007,760.0,0.131578947368
+1515,"Bol'shaya Kuobakh-Baga River, Terrace Site",64.983333,143.375,64.983333,64.983333,143.375,143.375,Vascular plants,Huperzia selago,1.0,NISP,spore,,4400.0,,,Radiocarbon years BP,625.0,500.0,pollen,6/30/2007,167.0,0.59880239521
+1515,"Bol'shaya Kuobakh-Baga River, Terrace Site",64.983333,143.375,64.983333,64.983333,143.375,143.375,Vascular plants,Huperzia selago,1.0,NISP,spore,,5130.0,,,Radiocarbon years BP,740.0,500.0,pollen,6/30/2007,188.0,0.531914893617
+1515,"Bol'shaya Kuobakh-Baga River, Terrace Site",64.983333,143.375,64.983333,64.983333,143.375,143.375,Vascular plants,Huperzia selago,2.0,NISP,spore,,5870.0,,,Radiocarbon years BP,820.0,500.0,pollen,6/30/2007,214.0,0.934579439252
+1522,East Siberian Sea Coast 12,71.066667,156.5,71.066667,71.066667,156.5,156.5,Vascular plants,Huperzia selago,1.0,NISP,spore,,,,,Radiocarbon years BP,340.0,4.0,pollen,6/30/2007,339.0,0.294985250737
+1532,Lac Hamard,54.8,-67.5,54.8,54.8,-67.5,-67.5,Vascular plants,Huperzia selago,1.0,NISP,spore,,2629.0,,,Radiocarbon years BP,25.0,564.0,pollen,6/30/2007,252.0,0.396825396825
+1532,Lac Hamard,54.8,-67.5,54.8,54.8,-67.5,-67.5,Vascular plants,Huperzia selago,3.0,NISP,spore,,3837.0,,,Radiocarbon years BP,45.0,564.0,pollen,6/30/2007,263.0,1.14068441065

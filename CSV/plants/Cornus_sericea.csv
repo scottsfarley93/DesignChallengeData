@@ -1,0 +1,4 @@
+siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
+296,Boone Lake,55.575,-119.433333,55.575,55.575,-119.433333,-119.433333,Vascular plants,Cornus sericea,2.0,NISP,pollen,,10222.0,,,Radiocarbon years BP,492.0,872.0,pollen,6/30/2007,582.0,0.343642611684
+296,Boone Lake,55.575,-119.433333,55.575,55.575,-119.433333,-119.433333,Vascular plants,Cornus sericea,2.0,NISP,pollen,,11268.0,,,Radiocarbon years BP,518.0,872.0,pollen,6/30/2007,565.0,0.353982300885
+307,"Brown's Bay, Lake Minnetonka",44.95769,-93.545105,44.96674,44.94864,-93.5309,-93.55931,Vascular plants,Cornus sericea,1.0,NISP,pollen,,584.0,,,Calendar years BP,149.5,300.0,pollen,6/30/2007,393.0,0.254452926209

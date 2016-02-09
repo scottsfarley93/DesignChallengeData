@@ -1,0 +1,47 @@
+siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
+2,15/2,55.833333,-75.016667,55.833333,55.833333,-75.016667,-75.016667,Vascular plants,Lycopodium clavatum,2.0,NISP,spore,,,,,,0.0,305.0,pollen surface sample,6/30/2007,,
+5,17/2,55.25,-74.933333,55.25,55.25,-74.933333,-74.933333,Vascular plants,Lycopodium clavatum,1.0,NISP,spore,,,,,,0.0,335.0,pollen surface sample,6/30/2007,,
+11,"Konus Exposure, Adycha River",67.75,135.583333,67.75,67.75,135.583333,135.583333,Vascular plants,Lycopodium clavatum,1.0,NISP,spore,,4553.0,,,Radiocarbon years BP,150.0,130.0,pollen,6/30/2007,242.0,0.413223140496
+11,"Konus Exposure, Adycha River",67.75,135.583333,67.75,67.75,135.583333,135.583333,Vascular plants,Lycopodium clavatum,1.0,NISP,spore,,6100.0,,,Radiocarbon years BP,270.0,130.0,pollen,6/30/2007,417.0,0.239808153477
+11,"Konus Exposure, Adycha River",67.75,135.583333,67.75,67.75,135.583333,135.583333,Vascular plants,Lycopodium clavatum,1.0,NISP,spore,,7580.0,,,Radiocarbon years BP,720.0,130.0,pollen,6/30/2007,301.0,0.332225913621
+11,"Konus Exposure, Adycha River",67.75,135.583333,67.75,67.75,135.583333,135.583333,Vascular plants,Lycopodium clavatum,1.0,NISP,spore,,8076.0,,,Radiocarbon years BP,800.0,130.0,pollen,6/30/2007,393.0,0.254452926209
+11,"Konus Exposure, Adycha River",67.75,135.583333,67.75,67.75,135.583333,135.583333,Vascular plants,Lycopodium clavatum,1.0,NISP,spore,,8200.0,,,Radiocarbon years BP,820.0,130.0,pollen,6/30/2007,214.0,0.467289719626
+11,"Konus Exposure, Adycha River",67.75,135.583333,67.75,67.75,135.583333,135.583333,Vascular plants,Lycopodium clavatum,1.0,NISP,spore,,8820.0,,,Radiocarbon years BP,920.0,130.0,pollen,6/30/2007,127.0,0.787401574803
+16,Ahlenmoor,53.7,8.733333,53.7,53.7,8.733333,8.733333,Vascular plants,Lycopodium clavatum,2.0,NISP,spore,,1039.0,,,Radiocarbon years BP,11.0,2.0,pollen,6/30/2007,1511.0,0.132362673726
+16,Ahlenmoor,53.7,8.733333,53.7,53.7,8.733333,8.733333,Vascular plants,Lycopodium clavatum,1.0,NISP,spore,,1138.0,,,Radiocarbon years BP,21.0,2.0,pollen,6/30/2007,858.0,0.11655011655
+16,Ahlenmoor,53.7,8.733333,53.7,53.7,8.733333,8.733333,Vascular plants,Lycopodium clavatum,1.0,NISP,spore,,1237.0,,,Radiocarbon years BP,31.0,2.0,pollen,6/30/2007,830.0,0.120481927711
+16,Ahlenmoor,53.7,8.733333,53.7,53.7,8.733333,8.733333,Vascular plants,Lycopodium clavatum,1.0,NISP,spore,,2177.0,,,Radiocarbon years BP,126.0,2.0,pollen,6/30/2007,719.0,0.139082058414
+16,Ahlenmoor,53.7,8.733333,53.7,53.7,8.733333,8.733333,Vascular plants,Lycopodium clavatum,1.0,NISP,spore,,2425.0,,,Radiocarbon years BP,151.0,2.0,pollen,6/30/2007,1259.0,0.0794281175536
+16,Ahlenmoor,53.7,8.733333,53.7,53.7,8.733333,8.733333,Vascular plants,Lycopodium clavatum,3.0,NISP,spore,,4276.0,,,Radiocarbon years BP,338.0,2.0,pollen,6/30/2007,695.0,0.431654676259
+17,Ajata,-18.25,-69.2,-18.25,-18.25,-69.2,-69.2,Vascular plants,Lycopodium clavatum,1.0,NISP,spore,,2028.0,,,Radiocarbon years BP,250.0,4700.0,pollen,6/30/2007,126.0,0.793650793651
+31,Alut Lake,60.136667,152.312778,60.136667,60.136667,152.312778,152.312778,Vascular plants,Lycopodium clavatum,1.0,NISP,spore,,4357.0,,,Radiocarbon years BP,120.0,480.0,pollen,6/30/2007,1559.0,0.0641436818473
+31,Alut Lake,60.136667,152.312778,60.136667,60.136667,152.312778,152.312778,Vascular plants,Lycopodium clavatum,1.0,NISP,spore,,6106.0,,,Radiocarbon years BP,160.0,480.0,pollen,6/30/2007,1440.0,0.0694444444444
+31,Alut Lake,60.136667,152.312778,60.136667,60.136667,152.312778,152.312778,Vascular plants,Lycopodium clavatum,1.0,NISP,spore,,8053.0,,,Radiocarbon years BP,220.0,480.0,pollen,6/30/2007,1129.0,0.088573959256
+31,Alut Lake,60.136667,152.312778,60.136667,60.136667,152.312778,152.312778,Vascular plants,Lycopodium clavatum,1.0,NISP,spore,,9216.0,,,Radiocarbon years BP,310.0,480.0,pollen,6/30/2007,1081.0,0.0925069380204
+32,Amarete,-15.233333,-68.983333,-15.233333,-15.233333,-68.983333,-68.983333,Vascular plants,Lycopodium clavatum,6.0,NISP,spore,,0.0,,,Radiocarbon years BP,0.0,4000.0,pollen,6/30/2007,240.0,2.5
+32,Amarete,-15.233333,-68.983333,-15.233333,-15.233333,-68.983333,-68.983333,Vascular plants,Lycopodium clavatum,9.0,NISP,spore,,583.0,,,Radiocarbon years BP,20.0,4000.0,pollen,6/30/2007,243.0,3.7037037037
+32,Amarete,-15.233333,-68.983333,-15.233333,-15.233333,-68.983333,-68.983333,Vascular plants,Lycopodium clavatum,10.0,NISP,spore,,1166.0,,,Radiocarbon years BP,40.0,4000.0,pollen,6/30/2007,250.0,4.0
+32,Amarete,-15.233333,-68.983333,-15.233333,-15.233333,-68.983333,-68.983333,Vascular plants,Lycopodium clavatum,5.0,NISP,spore,,1750.0,,,Radiocarbon years BP,60.0,4000.0,pollen,6/30/2007,194.0,2.57731958763
+32,Amarete,-15.233333,-68.983333,-15.233333,-15.233333,-68.983333,-68.983333,Vascular plants,Lycopodium clavatum,14.0,NISP,spore,,2333.0,,,Radiocarbon years BP,80.0,4000.0,pollen,6/30/2007,270.0,5.18518518519
+32,Amarete,-15.233333,-68.983333,-15.233333,-15.233333,-68.983333,-68.983333,Vascular plants,Lycopodium clavatum,4.0,NISP,spore,,2916.0,,,Radiocarbon years BP,100.0,4000.0,pollen,6/30/2007,319.0,1.2539184953
+32,Amarete,-15.233333,-68.983333,-15.233333,-15.233333,-68.983333,-68.983333,Vascular plants,Lycopodium clavatum,6.0,NISP,spore,,3499.0,,,Radiocarbon years BP,120.0,4000.0,pollen,6/30/2007,276.0,2.17391304348
+32,Amarete,-15.233333,-68.983333,-15.233333,-15.233333,-68.983333,-68.983333,Vascular plants,Lycopodium clavatum,2.0,NISP,spore,,4082.0,,,Radiocarbon years BP,140.0,4000.0,pollen,6/30/2007,286.0,0.699300699301
+32,Amarete,-15.233333,-68.983333,-15.233333,-15.233333,-68.983333,-68.983333,Vascular plants,Lycopodium clavatum,5.0,NISP,spore,,4666.0,,,Radiocarbon years BP,160.0,4000.0,pollen,6/30/2007,94.0,5.31914893617
+32,Amarete,-15.233333,-68.983333,-15.233333,-15.233333,-68.983333,-68.983333,Vascular plants,Lycopodium clavatum,1.0,NISP,spore,,5249.0,,,Radiocarbon years BP,180.0,4000.0,pollen,6/30/2007,80.0,1.25
+32,Amarete,-15.233333,-68.983333,-15.233333,-15.233333,-68.983333,-68.983333,Vascular plants,Lycopodium clavatum,3.0,NISP,spore,,5832.0,,,Radiocarbon years BP,200.0,4000.0,pollen,6/30/2007,260.0,1.15384615385
+32,Amarete,-15.233333,-68.983333,-15.233333,-15.233333,-68.983333,-68.983333,Vascular plants,Lycopodium clavatum,2.0,NISP,spore,,6415.0,,,Radiocarbon years BP,220.0,4000.0,pollen,6/30/2007,119.0,1.68067226891
+32,Amarete,-15.233333,-68.983333,-15.233333,-15.233333,-68.983333,-68.983333,Vascular plants,Lycopodium clavatum,4.0,NISP,spore,,6998.0,,,Radiocarbon years BP,240.0,4000.0,pollen,6/30/2007,111.0,3.6036036036
+32,Amarete,-15.233333,-68.983333,-15.233333,-15.233333,-68.983333,-68.983333,Vascular plants,Lycopodium clavatum,4.0,NISP,spore,,7331.0,,,Radiocarbon years BP,260.0,4000.0,pollen,6/30/2007,99.0,4.0404040404
+32,Amarete,-15.233333,-68.983333,-15.233333,-15.233333,-68.983333,-68.983333,Vascular plants,Lycopodium clavatum,1.0,NISP,spore,,9155.0,,,Radiocarbon years BP,700.0,4000.0,pollen,6/30/2007,53.0,1.88679245283
+70,Amguema River Valley Exposure 3,67.3,178.8,67.3,67.3,178.8,178.8,Vascular plants,Lycopodium clavatum,1.0,NISP,spore,,,,,Radiocarbon years BP,20.0,83.0,pollen,6/30/2007,274.0,0.36496350365
+200,Amtkel,43.268056,41.308333,43.268056,43.268056,41.308333,41.308333,Vascular plants,Lycopodium clavatum,1.0,NISP,spore,,1008.0,,,Radiocarbon years BP,50.0,1830.0,pollen,6/30/2007,305.0,0.327868852459
+200,Amtkel,43.268056,41.308333,43.268056,43.268056,41.308333,41.308333,Vascular plants,Lycopodium clavatum,1.0,NISP,spore,,1098.0,,,Radiocarbon years BP,56.0,1830.0,pollen,6/30/2007,258.0,0.387596899225
+200,Amtkel,43.268056,41.308333,43.268056,43.268056,41.308333,41.308333,Vascular plants,Lycopodium clavatum,1.0,NISP,spore,,1522.0,,,Radiocarbon years BP,84.0,1830.0,pollen,6/30/2007,276.0,0.36231884058
+200,Amtkel,43.268056,41.308333,43.268056,43.268056,41.308333,41.308333,Vascular plants,Lycopodium clavatum,2.0,NISP,spore,,1567.0,,,Radiocarbon years BP,87.0,1830.0,pollen,6/30/2007,175.0,1.14285714286
+200,Amtkel,43.268056,41.308333,43.268056,43.268056,41.308333,41.308333,Vascular plants,Lycopodium clavatum,66.0,NISP,spore,,1612.0,,,Radiocarbon years BP,90.0,1830.0,pollen,6/30/2007,299.0,22.0735785953
+200,Amtkel,43.268056,41.308333,43.268056,43.268056,41.308333,41.308333,Vascular plants,Lycopodium clavatum,47.0,NISP,spore,,1839.0,,,Radiocarbon years BP,103.0,1830.0,pollen,6/30/2007,243.0,19.341563786
+200,Amtkel,43.268056,41.308333,43.268056,43.268056,41.308333,41.308333,Vascular plants,Lycopodium clavatum,68.0,NISP,spore,,2200.0,,,Radiocarbon years BP,123.0,1830.0,pollen,6/30/2007,185.0,36.7567567568
+203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Lycopodium clavatum,1.0,NISP,spore,,25.0,,,Radiocarbon years BP,30.0,303.0,pollen,6/30/2007,484.0,0.206611570248
+205,Andrus Lake,46.7,-85.040278,46.7,46.7,-85.040278,-85.040278,Vascular plants,Lycopodium clavatum,1.0,NISP,spore,,51.0,,,Radiocarbon years BP,15.25,190.0,pollen,6/30/2007,258.0,0.387596899225
+205,Andrus Lake,46.7,-85.040278,46.7,46.7,-85.040278,-85.040278,Vascular plants,Lycopodium clavatum,1.0,NISP,spore,,58.0,,,Radiocarbon years BP,18.25,190.0,pollen,6/30/2007,272.0,0.367647058824
+205,Andrus Lake,46.7,-85.040278,46.7,46.7,-85.040278,-85.040278,Vascular plants,Lycopodium clavatum,1.0,NISP,spore,,84.0,,,Radiocarbon years BP,25.25,190.0,pollen,6/30/2007,243.0,0.411522633745

@@ -1,0 +1,8 @@
+siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
+517,Starniki,50.266667,26.016667,50.266667,50.266667,26.016667,26.016667,Vascular plants,Butomus umbellatus,1.0,NISP,pollen,,2092.0,,,Radiocarbon years BP,75.0,198.0,pollen,6/30/2007,309.0,0.323624595469
+839,Gel'myazevskoye,49.666667,31.833333,49.666667,49.666667,31.833333,31.833333,Vascular plants,Butomus umbellatus,1.0,NISP,pollen,,883.0,,,Radiocarbon years BP,12.0,120.0,pollen,6/30/2007,136.0,0.735294117647
+839,Gel'myazevskoye,49.666667,31.833333,49.666667,49.666667,31.833333,31.833333,Vascular plants,Butomus umbellatus,1.0,NISP,pollen,,2150.0,,,Radiocarbon years BP,100.0,120.0,pollen,6/30/2007,146.0,0.684931506849
+839,Gel'myazevskoye,49.666667,31.833333,49.666667,49.666667,31.833333,31.833333,Vascular plants,Butomus umbellatus,1.0,NISP,pollen,,3470.0,,,Radiocarbon years BP,150.0,120.0,pollen,6/30/2007,135.0,0.740740740741
+839,Gel'myazevskoye,49.666667,31.833333,49.666667,49.666667,31.833333,31.833333,Vascular plants,Butomus umbellatus,1.0,NISP,pollen,,4730.0,,,Radiocarbon years BP,200.0,120.0,pollen,6/30/2007,133.0,0.751879699248
+839,Gel'myazevskoye,49.666667,31.833333,49.666667,49.666667,31.833333,31.833333,Vascular plants,Butomus umbellatus,2.0,NISP,pollen,,5520.0,,,Radiocarbon years BP,225.0,120.0,pollen,6/30/2007,148.0,1.35135135135
+1762,Nutt Lake,45.216667,-79.45,45.216667,45.216667,-79.45,-79.45,Vascular plants,Butomus umbellatus,1.0,NISP,pollen,,8055.0,,,Radiocarbon years BP,1216.0,305.0,pollen,6/30/2007,1156.0,0.0865051903114

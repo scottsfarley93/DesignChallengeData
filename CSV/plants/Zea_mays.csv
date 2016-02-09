@@ -1,0 +1,67 @@
+siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
+29,Lake Allie,44.8036,-94.5579,44.8138,44.7934,-94.5483,-94.5675,Vascular plants,Zea mays,4.0,NISP,pollen,,18.0,,,Radiocarbon years BP,10.0,328.0,pollen,6/30/2007,415.0,0.963855421687
+29,Lake Allie,44.8036,-94.5579,44.8138,44.7934,-94.5483,-94.5675,Vascular plants,Zea mays,1.0,NISP,pollen,,51.0,,,Radiocarbon years BP,20.0,328.0,pollen,6/30/2007,388.0,0.257731958763
+229,Barchampe Lake,30.622222,-83.253889,30.622222,30.622222,-83.253889,-83.253889,Vascular plants,Zea mays,1.0,NISP,pollen,,42.0,,,Radiocarbon years BP,469.5,34.0,pollen,6/30/2007,429.0,0.2331002331
+232,Barry Lake,44.3,-77.916667,44.3,44.3,-77.916667,-77.916667,Vascular plants,Zea mays,1.0,NISP,pollen,,-17.0,,,Radiocarbon years BP,1.0,167.0,pollen,6/30/2007,483.0,0.207039337474
+266,Big John Pond,47.559175,-94.970775,47.56018,47.55817,-94.96931,-94.97224,Vascular plants,Zea mays,1.0,NISP,pollen,,-31.0,,,Radiocarbon years BP,0.0,421.0,pollen,6/30/2007,229.5,0.435729847495
+272,Black Pond,35.620833,-84.186667,35.620833,35.620833,-84.186667,-84.186667,Vascular plants,Zea mays,1.0,NISP,pollen,,36.0,,,Radiocarbon years BP,30.0,262.0,pollen,6/30/2007,673.0,0.148588410104
+272,Black Pond,35.620833,-84.186667,35.620833,35.620833,-84.186667,-84.186667,Vascular plants,Zea mays,2.0,NISP,pollen,,59.0,,,Radiocarbon years BP,40.0,262.0,pollen,6/30/2007,751.0,0.266311584554
+272,Black Pond,35.620833,-84.186667,35.620833,35.620833,-84.186667,-84.186667,Vascular plants,Zea mays,1.0,NISP,pollen,,82.0,,,Radiocarbon years BP,50.0,262.0,pollen,6/30/2007,979.0,0.102145045965
+272,Black Pond,35.620833,-84.186667,35.620833,35.620833,-84.186667,-84.186667,Vascular plants,Zea mays,2.0,NISP,pollen,,173.0,,,Radiocarbon years BP,90.0,262.0,pollen,6/30/2007,750.0,0.266666666667
+272,Black Pond,35.620833,-84.186667,35.620833,35.620833,-84.186667,-84.186667,Vascular plants,Zea mays,3.0,NISP,pollen,,310.0,,,Radiocarbon years BP,150.0,262.0,pollen,6/30/2007,1185.0,0.253164556962
+272,Black Pond,35.620833,-84.186667,35.620833,35.620833,-84.186667,-84.186667,Vascular plants,Zea mays,1.0,NISP,pollen,,333.0,,,Radiocarbon years BP,160.0,262.0,pollen,6/30/2007,680.0,0.147058823529
+299,Bossuot Lake,44.296475,-93.73571,44.30067,44.29228,-93.72938,-93.74204,Vascular plants,Zea mays,1.0,NISP,pollen,,-13.0,,,Radiocarbon years BP,1.0,310.0,pollen,6/30/2007,965.0,0.103626943005
+299,Bossuot Lake,44.296475,-93.73571,44.30067,44.29228,-93.72938,-93.74204,Vascular plants,Zea mays,1.0,NISP,pollen,,6.0,,,Radiocarbon years BP,10.0,310.0,pollen,6/30/2007,714.0,0.140056022409
+299,Bossuot Lake,44.296475,-93.73571,44.30067,44.29228,-93.72938,-93.74204,Vascular plants,Zea mays,1.0,NISP,pollen,,27.0,,,Radiocarbon years BP,20.0,310.0,pollen,6/30/2007,1222.0,0.0818330605565
+299,Bossuot Lake,44.296475,-93.73571,44.30067,44.29228,-93.72938,-93.74204,Vascular plants,Zea mays,1.0,NISP,pollen,,90.0,,,Radiocarbon years BP,50.0,310.0,pollen,6/30/2007,489.0,0.204498977505
+327,Campbell Lake,44.70722,-93.497645,44.71047,44.70397,-93.49075,-93.50454,Vascular plants,Zea mays,2.0,NISP,pollen,,-12.0,,,Radiocarbon years BP,1.0,281.0,pollen,6/30/2007,723.0,0.276625172891
+327,Campbell Lake,44.70722,-93.497645,44.71047,44.70397,-93.49075,-93.50454,Vascular plants,Zea mays,3.0,NISP,pollen,,11.0,,,Radiocarbon years BP,10.0,281.0,pollen,6/30/2007,708.0,0.423728813559
+327,Campbell Lake,44.70722,-93.497645,44.71047,44.70397,-93.49075,-93.50454,Vascular plants,Zea mays,1.0,NISP,pollen,,36.0,,,Radiocarbon years BP,20.0,281.0,pollen,6/30/2007,723.0,0.138312586445
+500,Cottonwood Lake,44.835435,-99.90806,44.84519,44.82568,-99.89006,-99.92606,Vascular plants,Zea mays,1.0,NISP,pollen,,159.0,,,Radiocarbon years BP,368.0,549.0,pollen,6/30/2007,451.5,0.221483942414
+503,Cranberry Lake,44.1,-78.1,44.1,44.1,-78.1,-78.1,Vascular plants,Zea mays,1.0,NISP,pollen,,210.0,,,Radiocarbon years BP,50.0,170.0,pollen,6/30/2007,202.0,0.49504950495
+530,Dalton Lake,46.173889,-95.915278,46.173889,46.173889,-95.915278,-95.915278,Vascular plants,Zea mays,2.0,NISP,pollen,,-12.0,,,Radiocarbon years BP,1.0,418.0,pollen,6/30/2007,350.0,0.571428571429
+530,Dalton Lake,46.173889,-95.915278,46.173889,46.173889,-95.915278,-95.915278,Vascular plants,Zea mays,1.0,NISP,pollen,,12.0,,,Radiocarbon years BP,10.0,418.0,pollen,6/30/2007,406.0,0.246305418719
+701,Donut Pond Bog,41.275,-70.058333,41.275,41.275,-70.058333,-70.058333,Vascular plants,Zea mays,1.0,NISP,pollen,,87.0,,,Radiocarbon years BP,28.0,4.0,pollen,6/30/2007,352.0,0.284090909091
+701,Donut Pond Bog,41.275,-70.058333,41.275,41.275,-70.058333,-70.058333,Vascular plants,Zea mays,1.0,NISP,pollen,,187.0,,,Radiocarbon years BP,52.0,4.0,pollen,6/30/2007,551.5,0.181323662738
+701,Donut Pond Bog,41.275,-70.058333,41.275,41.275,-70.058333,-70.058333,Vascular plants,Zea mays,1.0,NISP,pollen,,220.0,,,Radiocarbon years BP,60.0,4.0,pollen,6/30/2007,483.5,0.206825232678
+701,Donut Pond Bog,41.275,-70.058333,41.275,41.275,-70.058333,-70.058333,Vascular plants,Zea mays,1.0,NISP,pollen,,303.0,,,Radiocarbon years BP,80.0,4.0,pollen,6/30/2007,320.0,0.3125
+762,East Twin Lake,45.333333,-93.508333,45.333333,45.333333,-93.508333,-93.508333,Vascular plants,Zea mays,2.0,NISP,pollen,,-5.0,,,Radiocarbon years BP,1.0,281.0,pollen,6/30/2007,578.0,0.346020761246
+767,Eggert Lake,44.47012,-93.619035,44.47252,44.46772,-93.61462,-93.62345,Vascular plants,Zea mays,1.0,NISP,pollen,,18.0,,,Radiocarbon years BP,10.0,312.0,pollen,6/30/2007,1199.0,0.0834028356964
+774,Lake Ellensmere,39.354167,-83.01,39.354167,39.354167,-83.01,-83.01,Vascular plants,Zea mays,1.0,NISP,pollen,,,,,,20.0,197.0,pollen,6/30/2007,487.0,0.205338809035
+774,Lake Ellensmere,39.354167,-83.01,39.354167,39.354167,-83.01,-83.01,Vascular plants,Zea mays,1.0,NISP,pollen,,,,,,35.0,197.0,pollen,6/30/2007,367.0,0.272479564033
+774,Lake Ellensmere,39.354167,-83.01,39.354167,39.354167,-83.01,-83.01,Vascular plants,Zea mays,1.0,NISP,pollen,,,,,,40.0,197.0,pollen,6/30/2007,609.0,0.164203612479
+774,Lake Ellensmere,39.354167,-83.01,39.354167,39.354167,-83.01,-83.01,Vascular plants,Zea mays,2.0,NISP,pollen,,,,,,45.0,197.0,pollen,6/30/2007,374.0,0.534759358289
+774,Lake Ellensmere,39.354167,-83.01,39.354167,39.354167,-83.01,-83.01,Vascular plants,Zea mays,3.0,NISP,pollen,,,,,,60.0,197.0,pollen,6/30/2007,812.0,0.369458128079
+774,Lake Ellensmere,39.354167,-83.01,39.354167,39.354167,-83.01,-83.01,Vascular plants,Zea mays,2.0,NISP,pollen,,,,,,70.0,197.0,pollen,6/30/2007,297.0,0.673400673401
+785,Lake Erie,41.92,-82.76,41.92,41.92,-82.76,-82.76,Vascular plants,Zea mays,1.0,NISP,pollen,,-11.0,,,Radiocarbon years BP,1.0,168.0,pollen,6/30/2007,573.0,0.174520069808
+799,Farquar Lake,44.75815,-93.16449,44.76081,44.75549,-93.15986,-93.16912,Vascular plants,Zea mays,2.0,NISP,pollen,,11.0,,,Radiocarbon years BP,10.0,273.0,pollen,6/30/2007,821.0,0.243605359318
+799,Farquar Lake,44.75815,-93.16449,44.76081,44.75549,-93.15986,-93.16912,Vascular plants,Zea mays,1.0,NISP,pollen,,87.0,,,Radiocarbon years BP,40.0,273.0,pollen,6/30/2007,493.0,0.202839756592
+801,Fawn Lake,46.218889,-94.753333,46.218889,46.218889,-94.753333,-94.753333,Vascular plants,Zea mays,1.0,NISP,pollen,,32.0,,,Radiocarbon years BP,10.0,387.0,pollen,6/30/2007,409.0,0.244498777506
+811,Floating Island Lake,44.55,-107.466667,44.55,44.55,-107.466667,-107.466667,Vascular plants,Zea mays,1.0,NISP,pollen,,2938.0,,,Radiocarbon years BP,370.0,2609.0,pollen,6/30/2007,315.0,0.31746031746
+824,French Lake,44.945765,-94.42074,44.9482,44.94333,-94.41676,-94.42472,Vascular plants,Zea mays,1.0,NISP,pollen,,0.0,,,Radiocarbon years BP,610.0,327.0,pollen,6/30/2007,724.5,0.138026224983
+824,French Lake,44.945765,-94.42074,44.9482,44.94333,-94.41676,-94.42472,Vascular plants,Zea mays,2.0,NISP,pollen,,20.0,,,Radiocarbon years BP,620.0,327.0,pollen,6/30/2007,901.5,0.221852468109
+824,French Lake,44.945765,-94.42074,44.9482,44.94333,-94.41676,-94.42472,Vascular plants,Zea mays,1.0,NISP,pollen,,62.0,,,Radiocarbon years BP,640.0,327.0,pollen,6/30/2007,862.5,0.115942028986
+824,French Lake,44.945765,-94.42074,44.9482,44.94333,-94.41676,-94.42472,Vascular plants,Zea mays,1.0,NISP,pollen,,93.0,,,Radiocarbon years BP,655.0,327.0,pollen,6/30/2007,922.0,0.108459869848
+826,Fresh Pond,41.158333,-71.575,41.158333,41.158333,-71.575,-71.575,Vascular plants,Zea mays,1.0,NISP,pollen,,-38.0,,,Radiocarbon years BP,0.0,28.0,pollen,6/30/2007,439.0,0.227790432802
+826,Fresh Pond,41.158333,-71.575,41.158333,41.158333,-71.575,-71.575,Vascular plants,Zea mays,1.0,NISP,pollen,,18.0,,,Radiocarbon years BP,10.0,28.0,pollen,6/30/2007,375.5,0.266311584554
+826,Fresh Pond,41.158333,-71.575,41.158333,41.158333,-71.575,-71.575,Vascular plants,Zea mays,1.0,NISP,pollen,,75.0,,,Radiocarbon years BP,20.0,28.0,pollen,6/30/2007,382.5,0.261437908497
+826,Fresh Pond,41.158333,-71.575,41.158333,41.158333,-71.575,-71.575,Vascular plants,Zea mays,1.0,NISP,pollen,,131.0,,,Radiocarbon years BP,30.0,28.0,pollen,6/30/2007,337.5,0.296296296296
+841,George Lake,44.2329,-93.87066,44.23611,44.22969,-93.86559,-93.87573,Vascular plants,Zea mays,4.0,NISP,pollen,,51.0,,,Radiocarbon years BP,20.0,301.0,pollen,6/30/2007,557.0,0.718132854578
+841,George Lake,44.2329,-93.87066,44.23611,44.22969,-93.86559,-93.87573,Vascular plants,Zea mays,1.0,NISP,pollen,,84.0,,,Radiocarbon years BP,30.0,301.0,pollen,6/30/2007,511.0,0.195694716243
+843,Serra Campos Gerais,-24.666667,-50.216667,-24.666667,-24.666667,-50.216667,-50.216667,Vascular plants,Zea mays,3.0,NISP,pollen,,-44.0,,,Radiocarbon years BP,0.0,1200.0,pollen,6/30/2007,522.0,0.574712643678
+843,Serra Campos Gerais,-24.666667,-50.216667,-24.666667,-24.666667,-50.216667,-50.216667,Vascular plants,Zea mays,1.0,NISP,pollen,,447.0,,,Radiocarbon years BP,15.0,1200.0,pollen,6/30/2007,503.0,0.198807157058
+843,Serra Campos Gerais,-24.666667,-50.216667,-24.666667,-24.666667,-50.216667,-50.216667,Vascular plants,Zea mays,1.0,NISP,pollen,,774.0,,,Radiocarbon years BP,25.0,1200.0,pollen,6/30/2007,518.0,0.19305019305
+999,Hemo Pond,47.133,-95.47461,47.136,47.13,-95.47,-95.47922,Vascular plants,Zea mays,1.0,NISP,pollen,,-13.0,,,Radiocarbon years BP,1.0,499.0,pollen,6/30/2007,483.0,0.207039337474
+999,Hemo Pond,47.133,-95.47461,47.136,47.13,-95.47,-95.47922,Vascular plants,Zea mays,1.0,NISP,pollen,,2.0,,,Radiocarbon years BP,10.0,499.0,pollen,6/30/2007,478.0,0.209205020921
+1102,Humber Pond 3,43.64,-79.48,43.64,43.64,-79.48,-79.48,Vascular plants,Zea mays,1.0,NISP,pollen,,87.0,,,Radiocarbon years BP,140.0,74.0,pollen,6/30/2007,1155.0,0.0865800865801
+1103,Humber Pond 5,43.64,-79.49,43.64,43.64,-79.49,-79.49,Vascular plants,Zea mays,1.0,NISP,pollen,,524.0,,,Radiocarbon years BP,120.0,74.0,pollen,6/30/2007,393.0,0.254452926209
+1103,Humber Pond 5,43.64,-79.49,43.64,43.64,-79.49,-79.49,Vascular plants,Zea mays,1.0,NISP,pollen,,616.0,,,Radiocarbon years BP,140.0,74.0,pollen,6/30/2007,378.0,0.26455026455
+1104,Humber Pond 7,43.65,-79.5,43.65,43.65,-79.5,-79.5,Vascular plants,Zea mays,1.0,NISP,pollen,,40.0,,,Radiocarbon years BP,10.0,74.0,pollen,6/30/2007,312.0,0.320512820513
+1104,Humber Pond 7,43.65,-79.5,43.65,43.65,-79.5,-79.5,Vascular plants,Zea mays,2.0,NISP,pollen,,318.0,,,Radiocarbon years BP,50.0,74.0,pollen,6/30/2007,2024.0,0.098814229249
+1104,Humber Pond 7,43.65,-79.5,43.65,43.65,-79.5,-79.5,Vascular plants,Zea mays,1.0,NISP,pollen,,457.0,,,Radiocarbon years BP,70.0,74.0,pollen,6/30/2007,1995.0,0.0501253132832
+1125,Jackson Pond,37.43255,-85.72462,37.43362,37.43148,-85.72294,-85.7263,Vascular plants,Zea mays,1.0,NISP,pollen,,70.0,,,Radiocarbon years BP,120.0,260.0,pollen,6/30/2007,558.0,0.179211469534
+1409,Kegan Lake,44.75836,-93.11674,44.76042,44.7563,-93.11416,-93.11932,Vascular plants,Zea mays,1.0,NISP,pollen,,27.0,,,Radiocarbon years BP,10.0,285.0,pollen,6/30/2007,754.0,0.132625994695
+1409,Kegan Lake,44.75836,-93.11674,44.76042,44.7563,-93.11416,-93.11932,Vascular plants,Zea mays,1.0,NISP,pollen,,69.0,,,Radiocarbon years BP,20.0,285.0,pollen,6/30/2007,558.0,0.179211469534
+1544,Lake Ann,45.425,-93.6875,45.425,45.425,-93.6875,-93.6875,Vascular plants,Zea mays,1.0,NISP,pollen,,84.0,,,Radiocarbon years BP,30.0,291.0,pollen,6/30/2007,563.0,0.177619893428
+1548,Lake Carlson,44.79985,-93.15975,44.8009,44.7988,-93.1578,-93.1617,Vascular plants,Zea mays,2.0,NISP,pollen,,95.0,,,Radiocarbon years BP,40.0,254.0,pollen,6/30/2007,494.0,0.404858299595
+1548,Lake Carlson,44.79985,-93.15975,44.8009,44.7988,-93.1578,-93.1617,Vascular plants,Zea mays,1.0,NISP,pollen,,127.0,,,Radiocarbon years BP,45.0,254.0,pollen,6/30/2007,459.0,0.217864923747

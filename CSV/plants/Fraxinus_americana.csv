@@ -1,0 +1,222 @@
+siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
+219,Axe Lake,45.38,-79.51,45.38,45.38,-79.51,-79.51,Vascular plants,Fraxinus americana,1.0,NISP,pollen,,485.0,,,Radiocarbon years BP,40.0,323.0,pollen,6/30/2007,211.0,0.473933649289
+219,Axe Lake,45.38,-79.51,45.38,45.38,-79.51,-79.51,Vascular plants,Fraxinus americana,2.0,NISP,pollen,,743.0,,,Radiocarbon years BP,60.0,323.0,pollen,6/30/2007,208.0,0.961538461538
+219,Axe Lake,45.38,-79.51,45.38,45.38,-79.51,-79.51,Vascular plants,Fraxinus americana,1.0,NISP,pollen,,1001.0,,,Radiocarbon years BP,80.0,323.0,pollen,6/30/2007,210.0,0.47619047619
+219,Axe Lake,45.38,-79.51,45.38,45.38,-79.51,-79.51,Vascular plants,Fraxinus americana,2.0,NISP,pollen,,1259.0,,,Radiocarbon years BP,100.0,323.0,pollen,6/30/2007,208.0,0.961538461538
+219,Axe Lake,45.38,-79.51,45.38,45.38,-79.51,-79.51,Vascular plants,Fraxinus americana,3.0,NISP,pollen,,1516.0,,,Radiocarbon years BP,120.0,323.0,pollen,6/30/2007,203.0,1.47783251232
+219,Axe Lake,45.38,-79.51,45.38,45.38,-79.51,-79.51,Vascular plants,Fraxinus americana,1.0,NISP,pollen,,1774.0,,,Radiocarbon years BP,140.0,323.0,pollen,6/30/2007,205.0,0.487804878049
+219,Axe Lake,45.38,-79.51,45.38,45.38,-79.51,-79.51,Vascular plants,Fraxinus americana,2.0,NISP,pollen,,2290.0,,,Radiocarbon years BP,180.0,323.0,pollen,6/30/2007,202.0,0.990099009901
+219,Axe Lake,45.38,-79.51,45.38,45.38,-79.51,-79.51,Vascular plants,Fraxinus americana,1.0,NISP,pollen,,3578.0,,,Radiocarbon years BP,280.0,323.0,pollen,6/30/2007,207.0,0.48309178744
+219,Axe Lake,45.38,-79.51,45.38,45.38,-79.51,-79.51,Vascular plants,Fraxinus americana,1.0,NISP,pollen,,3836.0,,,Radiocarbon years BP,300.0,323.0,pollen,6/30/2007,207.0,0.48309178744
+219,Axe Lake,45.38,-79.51,45.38,45.38,-79.51,-79.51,Vascular plants,Fraxinus americana,1.0,NISP,pollen,,4094.0,,,Radiocarbon years BP,320.0,323.0,pollen,6/30/2007,208.0,0.480769230769
+219,Axe Lake,45.38,-79.51,45.38,45.38,-79.51,-79.51,Vascular plants,Fraxinus americana,1.0,NISP,pollen,,4351.0,,,Radiocarbon years BP,340.0,323.0,pollen,6/30/2007,209.0,0.478468899522
+219,Axe Lake,45.38,-79.51,45.38,45.38,-79.51,-79.51,Vascular plants,Fraxinus americana,3.0,NISP,pollen,,4609.0,,,Radiocarbon years BP,360.0,323.0,pollen,6/30/2007,205.0,1.46341463415
+233,Baseball Bog,47.23,-79.78,47.23,47.23,-79.78,-79.78,Vascular plants,Fraxinus americana,1.0,NISP,pollen,,4338.0,,,Radiocarbon years BP,140.0,292.0,pollen,6/30/2007,214.0,0.467289719626
+233,Baseball Bog,47.23,-79.78,47.23,47.23,-79.78,-79.78,Vascular plants,Fraxinus americana,1.0,NISP,pollen,,5694.0,,,Radiocarbon years BP,180.0,292.0,pollen,6/30/2007,205.0,0.487804878049
+233,Baseball Bog,47.23,-79.78,47.23,47.23,-79.78,-79.78,Vascular plants,Fraxinus americana,2.0,NISP,pollen,,6372.0,,,Radiocarbon years BP,200.0,292.0,pollen,6/30/2007,204.0,0.980392156863
+233,Baseball Bog,47.23,-79.78,47.23,47.23,-79.78,-79.78,Vascular plants,Fraxinus americana,1.0,NISP,pollen,,6632.0,,,Radiocarbon years BP,210.0,292.0,pollen,6/30/2007,212.0,0.471698113208
+233,Baseball Bog,47.23,-79.78,47.23,47.23,-79.78,-79.78,Vascular plants,Fraxinus americana,1.0,NISP,pollen,,7590.0,,,Radiocarbon years BP,250.0,292.0,pollen,6/30/2007,231.0,0.4329004329
+233,Baseball Bog,47.23,-79.78,47.23,47.23,-79.78,-79.78,Vascular plants,Fraxinus americana,1.0,NISP,pollen,,9628.0,,,Radiocarbon years BP,335.0,292.0,pollen,6/30/2007,216.0,0.462962962963
+233,Baseball Bog,47.23,-79.78,47.23,47.23,-79.78,-79.78,Vascular plants,Fraxinus americana,1.0,NISP,pollen,,9988.0,,,Radiocarbon years BP,350.0,292.0,pollen,6/30/2007,240.0,0.416666666667
+233,Baseball Bog,47.23,-79.78,47.23,47.23,-79.78,-79.78,Vascular plants,Fraxinus americana,1.0,NISP,pollen,,10107.0,,,Radiocarbon years BP,355.0,292.0,pollen,6/30/2007,226.0,0.442477876106
+305,Brophy Ditch,43.22,-81.73,43.22,43.22,-81.73,-81.73,Vascular plants,Fraxinus americana,4.0,NISP,pollen,,-6.0,,,Radiocarbon years BP,1.0,184.0,pollen,6/30/2007,212.0,1.88679245283
+305,Brophy Ditch,43.22,-81.73,43.22,43.22,-81.73,-81.73,Vascular plants,Fraxinus americana,4.0,NISP,pollen,,1056.0,,,Radiocarbon years BP,30.0,184.0,pollen,6/30/2007,170.0,2.35294117647
+305,Brophy Ditch,43.22,-81.73,43.22,43.22,-81.73,-81.73,Vascular plants,Fraxinus americana,1.0,NISP,pollen,,2228.0,,,Radiocarbon years BP,60.0,184.0,pollen,6/30/2007,375.0,0.266666666667
+305,Brophy Ditch,43.22,-81.73,43.22,43.22,-81.73,-81.73,Vascular plants,Fraxinus americana,3.0,NISP,pollen,,2618.0,,,Radiocarbon years BP,70.0,184.0,pollen,6/30/2007,747.0,0.401606425703
+305,Brophy Ditch,43.22,-81.73,43.22,43.22,-81.73,-81.73,Vascular plants,Fraxinus americana,1.0,NISP,pollen,,2813.0,,,Radiocarbon years BP,75.0,184.0,pollen,6/30/2007,360.0,0.277777777778
+305,Brophy Ditch,43.22,-81.73,43.22,43.22,-81.73,-81.73,Vascular plants,Fraxinus americana,2.0,NISP,pollen,,3008.0,,,Radiocarbon years BP,80.0,184.0,pollen,6/30/2007,356.0,0.561797752809
+305,Brophy Ditch,43.22,-81.73,43.22,43.22,-81.73,-81.73,Vascular plants,Fraxinus americana,2.0,NISP,pollen,,3204.0,,,Radiocarbon years BP,85.0,184.0,pollen,6/30/2007,339.0,0.589970501475
+305,Brophy Ditch,43.22,-81.73,43.22,43.22,-81.73,-81.73,Vascular plants,Fraxinus americana,4.0,NISP,pollen,,3399.0,,,Radiocarbon years BP,90.0,184.0,pollen,6/30/2007,317.0,1.261829653
+305,Brophy Ditch,43.22,-81.73,43.22,43.22,-81.73,-81.73,Vascular plants,Fraxinus americana,7.0,NISP,pollen,,3594.0,,,Radiocarbon years BP,95.0,184.0,pollen,6/30/2007,321.0,2.18068535826
+305,Brophy Ditch,43.22,-81.73,43.22,43.22,-81.73,-81.73,Vascular plants,Fraxinus americana,2.0,NISP,pollen,,3789.0,,,Radiocarbon years BP,100.0,184.0,pollen,6/30/2007,329.0,0.607902735562
+305,Brophy Ditch,43.22,-81.73,43.22,43.22,-81.73,-81.73,Vascular plants,Fraxinus americana,2.0,NISP,pollen,,3984.0,,,Radiocarbon years BP,105.0,184.0,pollen,6/30/2007,330.0,0.606060606061
+305,Brophy Ditch,43.22,-81.73,43.22,43.22,-81.73,-81.73,Vascular plants,Fraxinus americana,2.0,NISP,pollen,,4180.0,,,Radiocarbon years BP,110.0,184.0,pollen,6/30/2007,336.0,0.595238095238
+305,Brophy Ditch,43.22,-81.73,43.22,43.22,-81.73,-81.73,Vascular plants,Fraxinus americana,1.0,NISP,pollen,,4570.0,,,Radiocarbon years BP,120.0,184.0,pollen,6/30/2007,328.0,0.30487804878
+503,Cranberry Lake,44.1,-78.1,44.1,44.1,-78.1,-78.1,Vascular plants,Fraxinus americana,2.0,NISP,pollen,,-25.0,,,Radiocarbon years BP,1.0,170.0,pollen,6/30/2007,201.0,0.995024875622
+503,Cranberry Lake,44.1,-78.1,44.1,44.1,-78.1,-78.1,Vascular plants,Fraxinus americana,2.0,NISP,pollen,,18.0,,,Radiocarbon years BP,10.0,170.0,pollen,6/30/2007,201.0,0.995024875622
+503,Cranberry Lake,44.1,-78.1,44.1,44.1,-78.1,-78.1,Vascular plants,Fraxinus americana,1.0,NISP,pollen,,66.0,,,Radiocarbon years BP,20.0,170.0,pollen,6/30/2007,199.0,0.502512562814
+503,Cranberry Lake,44.1,-78.1,44.1,44.1,-78.1,-78.1,Vascular plants,Fraxinus americana,3.0,NISP,pollen,,114.0,,,Radiocarbon years BP,30.0,170.0,pollen,6/30/2007,201.0,1.49253731343
+503,Cranberry Lake,44.1,-78.1,44.1,44.1,-78.1,-78.1,Vascular plants,Fraxinus americana,1.0,NISP,pollen,,162.0,,,Radiocarbon years BP,40.0,170.0,pollen,6/30/2007,200.0,0.5
+503,Cranberry Lake,44.1,-78.1,44.1,44.1,-78.1,-78.1,Vascular plants,Fraxinus americana,2.0,NISP,pollen,,259.0,,,Radiocarbon years BP,60.0,170.0,pollen,6/30/2007,201.0,0.995024875622
+503,Cranberry Lake,44.1,-78.1,44.1,44.1,-78.1,-78.1,Vascular plants,Fraxinus americana,3.0,NISP,pollen,,355.0,,,Radiocarbon years BP,80.0,170.0,pollen,6/30/2007,201.0,1.49253731343
+503,Cranberry Lake,44.1,-78.1,44.1,44.1,-78.1,-78.1,Vascular plants,Fraxinus americana,2.0,NISP,pollen,,403.0,,,Radiocarbon years BP,90.0,170.0,pollen,6/30/2007,196.0,1.02040816327
+503,Cranberry Lake,44.1,-78.1,44.1,44.1,-78.1,-78.1,Vascular plants,Fraxinus americana,1.0,NISP,pollen,,451.0,,,Radiocarbon years BP,100.0,170.0,pollen,6/30/2007,199.0,0.502512562814
+503,Cranberry Lake,44.1,-78.1,44.1,44.1,-78.1,-78.1,Vascular plants,Fraxinus americana,4.0,NISP,pollen,,499.0,,,Radiocarbon years BP,110.0,170.0,pollen,6/30/2007,203.0,1.97044334975
+503,Cranberry Lake,44.1,-78.1,44.1,44.1,-78.1,-78.1,Vascular plants,Fraxinus americana,2.0,NISP,pollen,,547.0,,,Radiocarbon years BP,120.0,170.0,pollen,6/30/2007,201.0,0.995024875622
+503,Cranberry Lake,44.1,-78.1,44.1,44.1,-78.1,-78.1,Vascular plants,Fraxinus americana,3.0,NISP,pollen,,595.0,,,Radiocarbon years BP,130.0,170.0,pollen,6/30/2007,200.0,1.5
+503,Cranberry Lake,44.1,-78.1,44.1,44.1,-78.1,-78.1,Vascular plants,Fraxinus americana,2.0,NISP,pollen,,644.0,,,Radiocarbon years BP,140.0,170.0,pollen,6/30/2007,201.0,0.995024875622
+503,Cranberry Lake,44.1,-78.1,44.1,44.1,-78.1,-78.1,Vascular plants,Fraxinus americana,2.0,NISP,pollen,,692.0,,,Radiocarbon years BP,150.0,170.0,pollen,6/30/2007,200.0,1.0
+503,Cranberry Lake,44.1,-78.1,44.1,44.1,-78.1,-78.1,Vascular plants,Fraxinus americana,3.0,NISP,pollen,,740.0,,,Radiocarbon years BP,160.0,170.0,pollen,6/30/2007,201.0,1.49253731343
+503,Cranberry Lake,44.1,-78.1,44.1,44.1,-78.1,-78.1,Vascular plants,Fraxinus americana,5.0,NISP,pollen,,788.0,,,Radiocarbon years BP,170.0,170.0,pollen,6/30/2007,201.0,2.48756218905
+503,Cranberry Lake,44.1,-78.1,44.1,44.1,-78.1,-78.1,Vascular plants,Fraxinus americana,1.0,NISP,pollen,,884.0,,,Radiocarbon years BP,190.0,170.0,pollen,6/30/2007,203.0,0.492610837438
+503,Cranberry Lake,44.1,-78.1,44.1,44.1,-78.1,-78.1,Vascular plants,Fraxinus americana,2.0,NISP,pollen,,932.0,,,Radiocarbon years BP,200.0,170.0,pollen,6/30/2007,205.0,0.975609756098
+503,Cranberry Lake,44.1,-78.1,44.1,44.1,-78.1,-78.1,Vascular plants,Fraxinus americana,4.0,NISP,pollen,,988.0,,,Radiocarbon years BP,210.0,170.0,pollen,6/30/2007,200.0,2.0
+503,Cranberry Lake,44.1,-78.1,44.1,44.1,-78.1,-78.1,Vascular plants,Fraxinus americana,2.0,NISP,pollen,,1057.0,,,Radiocarbon years BP,220.0,170.0,pollen,6/30/2007,202.0,0.990099009901
+503,Cranberry Lake,44.1,-78.1,44.1,44.1,-78.1,-78.1,Vascular plants,Fraxinus americana,1.0,NISP,pollen,,1126.0,,,Radiocarbon years BP,230.0,170.0,pollen,6/30/2007,201.0,0.497512437811
+503,Cranberry Lake,44.1,-78.1,44.1,44.1,-78.1,-78.1,Vascular plants,Fraxinus americana,3.0,NISP,pollen,,1194.0,,,Radiocarbon years BP,240.0,170.0,pollen,6/30/2007,200.0,1.5
+503,Cranberry Lake,44.1,-78.1,44.1,44.1,-78.1,-78.1,Vascular plants,Fraxinus americana,4.0,NISP,pollen,,1263.0,,,Radiocarbon years BP,250.0,170.0,pollen,6/30/2007,200.0,2.0
+503,Cranberry Lake,44.1,-78.1,44.1,44.1,-78.1,-78.1,Vascular plants,Fraxinus americana,5.0,NISP,pollen,,1332.0,,,Radiocarbon years BP,260.0,170.0,pollen,6/30/2007,200.0,2.5
+503,Cranberry Lake,44.1,-78.1,44.1,44.1,-78.1,-78.1,Vascular plants,Fraxinus americana,3.0,NISP,pollen,,1400.0,,,Radiocarbon years BP,270.0,170.0,pollen,6/30/2007,200.0,1.5
+503,Cranberry Lake,44.1,-78.1,44.1,44.1,-78.1,-78.1,Vascular plants,Fraxinus americana,4.0,NISP,pollen,,1469.0,,,Radiocarbon years BP,280.0,170.0,pollen,6/30/2007,201.0,1.99004975124
+503,Cranberry Lake,44.1,-78.1,44.1,44.1,-78.1,-78.1,Vascular plants,Fraxinus americana,4.0,NISP,pollen,,1538.0,,,Radiocarbon years BP,290.0,170.0,pollen,6/30/2007,201.0,1.99004975124
+503,Cranberry Lake,44.1,-78.1,44.1,44.1,-78.1,-78.1,Vascular plants,Fraxinus americana,9.0,NISP,pollen,,1586.0,,,Radiocarbon years BP,297.0,170.0,pollen,6/30/2007,201.0,4.4776119403
+503,Cranberry Lake,44.1,-78.1,44.1,44.1,-78.1,-78.1,Vascular plants,Fraxinus americana,9.0,NISP,pollen,,1675.0,,,Radiocarbon years BP,310.0,170.0,pollen,6/30/2007,200.0,4.5
+503,Cranberry Lake,44.1,-78.1,44.1,44.1,-78.1,-78.1,Vascular plants,Fraxinus americana,7.0,NISP,pollen,,1743.0,,,Radiocarbon years BP,320.0,170.0,pollen,6/30/2007,200.0,3.5
+503,Cranberry Lake,44.1,-78.1,44.1,44.1,-78.1,-78.1,Vascular plants,Fraxinus americana,2.0,NISP,pollen,,1812.0,,,Radiocarbon years BP,330.0,170.0,pollen,6/30/2007,200.0,1.0
+503,Cranberry Lake,44.1,-78.1,44.1,44.1,-78.1,-78.1,Vascular plants,Fraxinus americana,3.0,NISP,pollen,,1881.0,,,Radiocarbon years BP,340.0,170.0,pollen,6/30/2007,200.0,1.5
+503,Cranberry Lake,44.1,-78.1,44.1,44.1,-78.1,-78.1,Vascular plants,Fraxinus americana,2.0,NISP,pollen,,1949.0,,,Radiocarbon years BP,350.0,170.0,pollen,6/30/2007,199.0,1.00502512563
+503,Cranberry Lake,44.1,-78.1,44.1,44.1,-78.1,-78.1,Vascular plants,Fraxinus americana,5.0,NISP,pollen,,2018.0,,,Radiocarbon years BP,360.0,170.0,pollen,6/30/2007,200.0,2.5
+503,Cranberry Lake,44.1,-78.1,44.1,44.1,-78.1,-78.1,Vascular plants,Fraxinus americana,7.0,NISP,pollen,,2086.0,,,Radiocarbon years BP,370.0,170.0,pollen,6/30/2007,199.0,3.5175879397
+503,Cranberry Lake,44.1,-78.1,44.1,44.1,-78.1,-78.1,Vascular plants,Fraxinus americana,8.0,NISP,pollen,,2155.0,,,Radiocarbon years BP,380.0,170.0,pollen,6/30/2007,200.0,4.0
+503,Cranberry Lake,44.1,-78.1,44.1,44.1,-78.1,-78.1,Vascular plants,Fraxinus americana,4.0,NISP,pollen,,2224.0,,,Radiocarbon years BP,390.0,170.0,pollen,6/30/2007,200.0,2.0
+503,Cranberry Lake,44.1,-78.1,44.1,44.1,-78.1,-78.1,Vascular plants,Fraxinus americana,4.0,NISP,pollen,,2292.0,,,Radiocarbon years BP,400.0,170.0,pollen,6/30/2007,202.0,1.9801980198
+503,Cranberry Lake,44.1,-78.1,44.1,44.1,-78.1,-78.1,Vascular plants,Fraxinus americana,5.0,NISP,pollen,,2361.0,,,Radiocarbon years BP,410.0,170.0,pollen,6/30/2007,200.0,2.5
+503,Cranberry Lake,44.1,-78.1,44.1,44.1,-78.1,-78.1,Vascular plants,Fraxinus americana,8.0,NISP,pollen,,2467.0,,,Radiocarbon years BP,420.0,170.0,pollen,6/30/2007,200.0,4.0
+503,Cranberry Lake,44.1,-78.1,44.1,44.1,-78.1,-78.1,Vascular plants,Fraxinus americana,2.0,NISP,pollen,,2573.0,,,Radiocarbon years BP,430.0,170.0,pollen,6/30/2007,200.0,1.0
+503,Cranberry Lake,44.1,-78.1,44.1,44.1,-78.1,-78.1,Vascular plants,Fraxinus americana,7.0,NISP,pollen,,2679.0,,,Radiocarbon years BP,440.0,170.0,pollen,6/30/2007,200.0,3.5
+503,Cranberry Lake,44.1,-78.1,44.1,44.1,-78.1,-78.1,Vascular plants,Fraxinus americana,5.0,NISP,pollen,,2785.0,,,Radiocarbon years BP,450.0,170.0,pollen,6/30/2007,200.0,2.5
+503,Cranberry Lake,44.1,-78.1,44.1,44.1,-78.1,-78.1,Vascular plants,Fraxinus americana,5.0,NISP,pollen,,2891.0,,,Radiocarbon years BP,460.0,170.0,pollen,6/30/2007,200.0,2.5
+503,Cranberry Lake,44.1,-78.1,44.1,44.1,-78.1,-78.1,Vascular plants,Fraxinus americana,10.0,NISP,pollen,,2996.0,,,Radiocarbon years BP,470.0,170.0,pollen,6/30/2007,200.0,5.0
+503,Cranberry Lake,44.1,-78.1,44.1,44.1,-78.1,-78.1,Vascular plants,Fraxinus americana,4.0,NISP,pollen,,3102.0,,,Radiocarbon years BP,480.0,170.0,pollen,6/30/2007,200.0,2.0
+503,Cranberry Lake,44.1,-78.1,44.1,44.1,-78.1,-78.1,Vascular plants,Fraxinus americana,4.0,NISP,pollen,,3208.0,,,Radiocarbon years BP,490.0,170.0,pollen,6/30/2007,207.0,1.93236714976
+503,Cranberry Lake,44.1,-78.1,44.1,44.1,-78.1,-78.1,Vascular plants,Fraxinus americana,6.0,NISP,pollen,,3314.0,,,Radiocarbon years BP,500.0,170.0,pollen,6/30/2007,202.0,2.9702970297
+503,Cranberry Lake,44.1,-78.1,44.1,44.1,-78.1,-78.1,Vascular plants,Fraxinus americana,7.0,NISP,pollen,,3420.0,,,Radiocarbon years BP,510.0,170.0,pollen,6/30/2007,202.0,3.46534653465
+503,Cranberry Lake,44.1,-78.1,44.1,44.1,-78.1,-78.1,Vascular plants,Fraxinus americana,1.0,NISP,pollen,,3526.0,,,Radiocarbon years BP,520.0,170.0,pollen,6/30/2007,201.0,0.497512437811
+503,Cranberry Lake,44.1,-78.1,44.1,44.1,-78.1,-78.1,Vascular plants,Fraxinus americana,3.0,NISP,pollen,,3632.0,,,Radiocarbon years BP,530.0,170.0,pollen,6/30/2007,200.0,1.5
+503,Cranberry Lake,44.1,-78.1,44.1,44.1,-78.1,-78.1,Vascular plants,Fraxinus americana,3.0,NISP,pollen,,3738.0,,,Radiocarbon years BP,540.0,170.0,pollen,6/30/2007,200.0,1.5
+503,Cranberry Lake,44.1,-78.1,44.1,44.1,-78.1,-78.1,Vascular plants,Fraxinus americana,6.0,NISP,pollen,,3844.0,,,Radiocarbon years BP,550.0,170.0,pollen,6/30/2007,203.0,2.95566502463
+503,Cranberry Lake,44.1,-78.1,44.1,44.1,-78.1,-78.1,Vascular plants,Fraxinus americana,2.0,NISP,pollen,,3950.0,,,Radiocarbon years BP,560.0,170.0,pollen,6/30/2007,193.0,1.03626943005
+503,Cranberry Lake,44.1,-78.1,44.1,44.1,-78.1,-78.1,Vascular plants,Fraxinus americana,2.0,NISP,pollen,,4056.0,,,Radiocarbon years BP,570.0,170.0,pollen,6/30/2007,199.0,1.00502512563
+503,Cranberry Lake,44.1,-78.1,44.1,44.1,-78.1,-78.1,Vascular plants,Fraxinus americana,3.0,NISP,pollen,,4162.0,,,Radiocarbon years BP,580.0,170.0,pollen,6/30/2007,200.0,1.5
+503,Cranberry Lake,44.1,-78.1,44.1,44.1,-78.1,-78.1,Vascular plants,Fraxinus americana,5.0,NISP,pollen,,4268.0,,,Radiocarbon years BP,590.0,170.0,pollen,6/30/2007,200.0,2.5
+503,Cranberry Lake,44.1,-78.1,44.1,44.1,-78.1,-78.1,Vascular plants,Fraxinus americana,1.0,NISP,pollen,,4352.0,,,Radiocarbon years BP,598.0,170.0,pollen,6/30/2007,199.0,0.502512562814
+503,Cranberry Lake,44.1,-78.1,44.1,44.1,-78.1,-78.1,Vascular plants,Fraxinus americana,6.0,NISP,pollen,,4479.0,,,Radiocarbon years BP,610.0,170.0,pollen,6/30/2007,201.0,2.98507462687
+503,Cranberry Lake,44.1,-78.1,44.1,44.1,-78.1,-78.1,Vascular plants,Fraxinus americana,3.0,NISP,pollen,,4585.0,,,Radiocarbon years BP,620.0,170.0,pollen,6/30/2007,201.0,1.49253731343
+503,Cranberry Lake,44.1,-78.1,44.1,44.1,-78.1,-78.1,Vascular plants,Fraxinus americana,5.0,NISP,pollen,,4691.0,,,Radiocarbon years BP,630.0,170.0,pollen,6/30/2007,202.0,2.47524752475
+503,Cranberry Lake,44.1,-78.1,44.1,44.1,-78.1,-78.1,Vascular plants,Fraxinus americana,5.0,NISP,pollen,,4797.0,,,Radiocarbon years BP,640.0,170.0,pollen,6/30/2007,200.0,2.5
+503,Cranberry Lake,44.1,-78.1,44.1,44.1,-78.1,-78.1,Vascular plants,Fraxinus americana,2.0,NISP,pollen,,4903.0,,,Radiocarbon years BP,650.0,170.0,pollen,6/30/2007,204.0,0.980392156863
+503,Cranberry Lake,44.1,-78.1,44.1,44.1,-78.1,-78.1,Vascular plants,Fraxinus americana,4.0,NISP,pollen,,5376.0,,,Radiocarbon years BP,670.0,170.0,pollen,6/30/2007,200.0,2.0
+503,Cranberry Lake,44.1,-78.1,44.1,44.1,-78.1,-78.1,Vascular plants,Fraxinus americana,1.0,NISP,pollen,,5612.0,,,Radiocarbon years BP,680.0,170.0,pollen,6/30/2007,200.0,0.5
+503,Cranberry Lake,44.1,-78.1,44.1,44.1,-78.1,-78.1,Vascular plants,Fraxinus americana,4.0,NISP,pollen,,5849.0,,,Radiocarbon years BP,690.0,170.0,pollen,6/30/2007,200.0,2.0
+503,Cranberry Lake,44.1,-78.1,44.1,44.1,-78.1,-78.1,Vascular plants,Fraxinus americana,1.0,NISP,pollen,,6086.0,,,Radiocarbon years BP,700.0,170.0,pollen,6/30/2007,200.0,0.5
+503,Cranberry Lake,44.1,-78.1,44.1,44.1,-78.1,-78.1,Vascular plants,Fraxinus americana,1.0,NISP,pollen,,6322.0,,,Radiocarbon years BP,710.0,170.0,pollen,6/30/2007,200.0,0.5
+503,Cranberry Lake,44.1,-78.1,44.1,44.1,-78.1,-78.1,Vascular plants,Fraxinus americana,1.0,NISP,pollen,,6636.0,,,Radiocarbon years BP,720.0,170.0,pollen,6/30/2007,200.0,0.5
+503,Cranberry Lake,44.1,-78.1,44.1,44.1,-78.1,-78.1,Vascular plants,Fraxinus americana,2.0,NISP,pollen,,6950.0,,,Radiocarbon years BP,730.0,170.0,pollen,6/30/2007,200.0,1.0
+503,Cranberry Lake,44.1,-78.1,44.1,44.1,-78.1,-78.1,Vascular plants,Fraxinus americana,3.0,NISP,pollen,,7578.0,,,Radiocarbon years BP,750.0,170.0,pollen,6/30/2007,200.0,1.5
+503,Cranberry Lake,44.1,-78.1,44.1,44.1,-78.1,-78.1,Vascular plants,Fraxinus americana,2.0,NISP,pollen,,7892.0,,,Radiocarbon years BP,760.0,170.0,pollen,6/30/2007,200.0,1.0
+503,Cranberry Lake,44.1,-78.1,44.1,44.1,-78.1,-78.1,Vascular plants,Fraxinus americana,3.0,NISP,pollen,,9620.0,,,Radiocarbon years BP,815.0,170.0,pollen,6/30/2007,201.0,1.49253731343
+503,Cranberry Lake,44.1,-78.1,44.1,44.1,-78.1,-78.1,Vascular plants,Fraxinus americana,1.0,NISP,pollen,,12270.0,,,Radiocarbon years BP,845.0,170.0,pollen,6/30/2007,200.0,0.5
+503,Cranberry Lake,44.1,-78.1,44.1,44.1,-78.1,-78.1,Vascular plants,Fraxinus americana,1.0,NISP,pollen,,12838.0,,,Radiocarbon years BP,950.0,170.0,pollen,6/30/2007,200.0,0.5
+509,Creditview Wetland,43.6,-79.6,43.6,43.6,-79.6,-79.6,Vascular plants,Fraxinus americana,2.0,NISP,pollen,,9000.0,,,Radiocarbon years BP,5.0,144.0,pollen,6/30/2007,319.0,0.626959247649
+509,Creditview Wetland,43.6,-79.6,43.6,43.6,-79.6,-79.6,Vascular plants,Fraxinus americana,1.0,NISP,pollen,,9221.0,,,Radiocarbon years BP,20.0,144.0,pollen,6/30/2007,300.0,0.333333333333
+509,Creditview Wetland,43.6,-79.6,43.6,43.6,-79.6,-79.6,Vascular plants,Fraxinus americana,1.0,NISP,pollen,,9368.0,,,Radiocarbon years BP,30.0,144.0,pollen,6/30/2007,300.0,0.333333333333
+509,Creditview Wetland,43.6,-79.6,43.6,43.6,-79.6,-79.6,Vascular plants,Fraxinus americana,1.0,NISP,pollen,,9516.0,,,Radiocarbon years BP,40.0,144.0,pollen,6/30/2007,300.0,0.333333333333
+509,Creditview Wetland,43.6,-79.6,43.6,43.6,-79.6,-79.6,Vascular plants,Fraxinus americana,1.0,NISP,pollen,,9958.0,,,Radiocarbon years BP,70.0,144.0,pollen,6/30/2007,308.0,0.324675324675
+509,Creditview Wetland,43.6,-79.6,43.6,43.6,-79.6,-79.6,Vascular plants,Fraxinus americana,1.0,NISP,pollen,,10105.0,,,Radiocarbon years BP,80.0,144.0,pollen,6/30/2007,440.0,0.227272727273
+509,Creditview Wetland,43.6,-79.6,43.6,43.6,-79.6,-79.6,Vascular plants,Fraxinus americana,1.0,NISP,pollen,,13562.0,,,Radiocarbon years BP,240.0,144.0,pollen,6/30/2007,300.0,0.333333333333
+785,Lake Erie,41.92,-82.76,41.92,41.92,-82.76,-82.76,Vascular plants,Fraxinus americana,5.0,NISP,pollen,,-11.0,,,Radiocarbon years BP,1.0,168.0,pollen,6/30/2007,573.0,0.87260034904
+785,Lake Erie,41.92,-82.76,41.92,41.92,-82.76,-82.76,Vascular plants,Fraxinus americana,6.0,NISP,pollen,,60.0,,,Radiocarbon years BP,10.0,168.0,pollen,6/30/2007,434.0,1.38248847926
+785,Lake Erie,41.92,-82.76,41.92,41.92,-82.76,-82.76,Vascular plants,Fraxinus americana,5.0,NISP,pollen,,298.0,,,Radiocarbon years BP,20.0,168.0,pollen,6/30/2007,387.0,1.29198966408
+785,Lake Erie,41.92,-82.76,41.92,41.92,-82.76,-82.76,Vascular plants,Fraxinus americana,4.0,NISP,pollen,,1091.0,,,Radiocarbon years BP,40.0,168.0,pollen,6/30/2007,345.0,1.15942028986
+785,Lake Erie,41.92,-82.76,41.92,41.92,-82.76,-82.76,Vascular plants,Fraxinus americana,8.0,NISP,pollen,,1884.0,,,Radiocarbon years BP,60.0,168.0,pollen,6/30/2007,352.0,2.27272727273
+785,Lake Erie,41.92,-82.76,41.92,41.92,-82.76,-82.76,Vascular plants,Fraxinus americana,4.0,NISP,pollen,,2281.0,,,Radiocarbon years BP,70.0,168.0,pollen,6/30/2007,392.0,1.02040816327
+785,Lake Erie,41.92,-82.76,41.92,41.92,-82.76,-82.76,Vascular plants,Fraxinus americana,5.0,NISP,pollen,,2677.0,,,Radiocarbon years BP,80.0,168.0,pollen,6/30/2007,379.0,1.31926121372
+785,Lake Erie,41.92,-82.76,41.92,41.92,-82.76,-82.76,Vascular plants,Fraxinus americana,2.0,NISP,pollen,,3470.0,,,Radiocarbon years BP,100.0,168.0,pollen,6/30/2007,456.0,0.438596491228
+785,Lake Erie,41.92,-82.76,41.92,41.92,-82.76,-82.76,Vascular plants,Fraxinus americana,5.0,NISP,pollen,,3867.0,,,Radiocarbon years BP,110.0,168.0,pollen,6/30/2007,536.0,0.932835820896
+785,Lake Erie,41.92,-82.76,41.92,41.92,-82.76,-82.76,Vascular plants,Fraxinus americana,10.0,NISP,pollen,,4263.0,,,Radiocarbon years BP,120.0,168.0,pollen,6/30/2007,488.0,2.04918032787
+785,Lake Erie,41.92,-82.76,41.92,41.92,-82.76,-82.76,Vascular plants,Fraxinus americana,6.0,NISP,pollen,,4660.0,,,Radiocarbon years BP,130.0,168.0,pollen,6/30/2007,689.0,0.870827285922
+785,Lake Erie,41.92,-82.76,41.92,41.92,-82.76,-82.76,Vascular plants,Fraxinus americana,5.0,NISP,pollen,,5056.0,,,Radiocarbon years BP,140.0,168.0,pollen,6/30/2007,611.0,0.818330605565
+785,Lake Erie,41.92,-82.76,41.92,41.92,-82.76,-82.76,Vascular plants,Fraxinus americana,4.0,NISP,pollen,,5453.0,,,Radiocarbon years BP,150.0,168.0,pollen,6/30/2007,514.0,0.778210116732
+785,Lake Erie,41.92,-82.76,41.92,41.92,-82.76,-82.76,Vascular plants,Fraxinus americana,2.0,NISP,pollen,,5826.0,,,Radiocarbon years BP,160.0,168.0,pollen,6/30/2007,466.0,0.429184549356
+785,Lake Erie,41.92,-82.76,41.92,41.92,-82.76,-82.76,Vascular plants,Fraxinus americana,3.0,NISP,pollen,,5978.0,,,Radiocarbon years BP,165.0,168.0,pollen,6/30/2007,394.0,0.761421319797
+785,Lake Erie,41.92,-82.76,41.92,41.92,-82.76,-82.76,Vascular plants,Fraxinus americana,1.0,NISP,pollen,,6130.0,,,Radiocarbon years BP,170.0,168.0,pollen,6/30/2007,358.0,0.279329608939
+785,Lake Erie,41.92,-82.76,41.92,41.92,-82.76,-82.76,Vascular plants,Fraxinus americana,2.0,NISP,pollen,,6433.0,,,Radiocarbon years BP,180.0,168.0,pollen,6/30/2007,375.0,0.533333333333
+785,Lake Erie,41.92,-82.76,41.92,41.92,-82.76,-82.76,Vascular plants,Fraxinus americana,3.0,NISP,pollen,,6737.0,,,Radiocarbon years BP,190.0,168.0,pollen,6/30/2007,341.0,0.879765395894
+785,Lake Erie,41.92,-82.76,41.92,41.92,-82.76,-82.76,Vascular plants,Fraxinus americana,2.0,NISP,pollen,,7648.0,,,Radiocarbon years BP,220.0,168.0,pollen,6/30/2007,365.0,0.547945205479
+785,Lake Erie,41.92,-82.76,41.92,41.92,-82.76,-82.76,Vascular plants,Fraxinus americana,3.0,NISP,pollen,,7952.0,,,Radiocarbon years BP,230.0,168.0,pollen,6/30/2007,360.0,0.833333333333
+785,Lake Erie,41.92,-82.76,41.92,41.92,-82.76,-82.76,Vascular plants,Fraxinus americana,1.0,NISP,pollen,,8255.0,,,Radiocarbon years BP,240.0,168.0,pollen,6/30/2007,373.0,0.268096514745
+785,Lake Erie,41.92,-82.76,41.92,41.92,-82.76,-82.76,Vascular plants,Fraxinus americana,1.0,NISP,pollen,,8559.0,,,Radiocarbon years BP,250.0,168.0,pollen,6/30/2007,345.0,0.289855072464
+785,Lake Erie,41.92,-82.76,41.92,41.92,-82.76,-82.76,Vascular plants,Fraxinus americana,2.0,NISP,pollen,,8862.0,,,Radiocarbon years BP,260.0,168.0,pollen,6/30/2007,361.0,0.554016620499
+785,Lake Erie,41.92,-82.76,41.92,41.92,-82.76,-82.76,Vascular plants,Fraxinus americana,1.0,NISP,pollen,,9166.0,,,Radiocarbon years BP,270.0,168.0,pollen,6/30/2007,395.0,0.253164556962
+785,Lake Erie,41.92,-82.76,41.92,41.92,-82.76,-82.76,Vascular plants,Fraxinus americana,6.0,NISP,pollen,,9470.0,,,Radiocarbon years BP,280.0,168.0,pollen,6/30/2007,435.0,1.37931034483
+785,Lake Erie,41.92,-82.76,41.92,41.92,-82.76,-82.76,Vascular plants,Fraxinus americana,2.0,NISP,pollen,,9774.0,,,Radiocarbon years BP,290.0,168.0,pollen,6/30/2007,413.0,0.484261501211
+785,Lake Erie,41.92,-82.76,41.92,41.92,-82.76,-82.76,Vascular plants,Fraxinus americana,3.0,NISP,pollen,,10077.0,,,Radiocarbon years BP,300.0,168.0,pollen,6/30/2007,382.0,0.785340314136
+785,Lake Erie,41.92,-82.76,41.92,41.92,-82.76,-82.76,Vascular plants,Fraxinus americana,2.0,NISP,pollen,,10381.0,,,Radiocarbon years BP,310.0,168.0,pollen,6/30/2007,402.0,0.497512437811
+785,Lake Erie,41.92,-82.76,41.92,41.92,-82.76,-82.76,Vascular plants,Fraxinus americana,1.0,NISP,pollen,,10684.0,,,Radiocarbon years BP,320.0,168.0,pollen,6/30/2007,365.0,0.27397260274
+785,Lake Erie,41.92,-82.76,41.92,41.92,-82.76,-82.76,Vascular plants,Fraxinus americana,1.0,NISP,pollen,,12272.0,,,Radiocarbon years BP,350.0,168.0,pollen,6/30/2007,658.0,0.151975683891
+785,Lake Erie,41.92,-82.76,41.92,41.92,-82.76,-82.76,Vascular plants,Fraxinus americana,2.0,NISP,pollen,,13028.0,,,Radiocarbon years BP,360.0,168.0,pollen,6/30/2007,827.0,0.241837968561
+803,Fernbank Interglacial,42.55,-76.62,42.55,42.55,-76.62,-76.62,Vascular plants,Fraxinus americana,1.0,NISP,pollen,,,,,,140.0,135.0,pollen,6/30/2007,398.0,0.251256281407
+803,Fernbank Interglacial,42.55,-76.62,42.55,42.55,-76.62,-76.62,Vascular plants,Fraxinus americana,7.0,NISP,pollen,,,,,,360.0,135.0,pollen,6/30/2007,363.0,1.92837465565
+803,Fernbank Interglacial,42.55,-76.62,42.55,42.55,-76.62,-76.62,Vascular plants,Fraxinus americana,18.0,NISP,pollen,,,,,,450.0,135.0,pollen,6/30/2007,329.0,5.47112462006
+803,Fernbank Interglacial,42.55,-76.62,42.55,42.55,-76.62,-76.62,Vascular plants,Fraxinus americana,5.0,NISP,pollen,,,,,,610.0,135.0,pollen,6/30/2007,324.0,1.54320987654
+803,Fernbank Interglacial,42.55,-76.62,42.55,42.55,-76.62,-76.62,Vascular plants,Fraxinus americana,10.0,NISP,pollen,,,,,,820.0,135.0,pollen,6/30/2007,332.0,3.01204819277
+803,Fernbank Interglacial,42.55,-76.62,42.55,42.55,-76.62,-76.62,Vascular plants,Fraxinus americana,11.0,NISP,pollen,,,,,,910.0,135.0,pollen,6/30/2007,321.0,3.42679127726
+825,Frenchmens Bay,43.82,-79.1,43.82,43.82,-79.1,-79.1,Vascular plants,Fraxinus americana,6.0,NISP,pollen,,-26.0,,,Radiocarbon years BP,1.0,75.0,pollen,6/30/2007,208.0,2.88461538462
+825,Frenchmens Bay,43.82,-79.1,43.82,43.82,-79.1,-79.1,Vascular plants,Fraxinus americana,1.0,NISP,pollen,,142.0,,,Radiocarbon years BP,20.0,75.0,pollen,6/30/2007,230.0,0.434782608696
+825,Frenchmens Bay,43.82,-79.1,43.82,43.82,-79.1,-79.1,Vascular plants,Fraxinus americana,1.0,NISP,pollen,,230.0,,,Radiocarbon years BP,30.0,75.0,pollen,6/30/2007,220.0,0.454545454545
+825,Frenchmens Bay,43.82,-79.1,43.82,43.82,-79.1,-79.1,Vascular plants,Fraxinus americana,1.0,NISP,pollen,,407.0,,,Radiocarbon years BP,50.0,75.0,pollen,6/30/2007,213.0,0.469483568075
+825,Frenchmens Bay,43.82,-79.1,43.82,43.82,-79.1,-79.1,Vascular plants,Fraxinus americana,2.0,NISP,pollen,,849.0,,,Radiocarbon years BP,100.0,75.0,pollen,6/30/2007,219.0,0.913242009132
+825,Frenchmens Bay,43.82,-79.1,43.82,43.82,-79.1,-79.1,Vascular plants,Fraxinus americana,2.0,NISP,pollen,,1114.0,,,Radiocarbon years BP,130.0,75.0,pollen,6/30/2007,205.0,0.975609756098
+825,Frenchmens Bay,43.82,-79.1,43.82,43.82,-79.1,-79.1,Vascular plants,Fraxinus americana,2.0,NISP,pollen,,1291.0,,,Radiocarbon years BP,150.0,75.0,pollen,6/30/2007,210.0,0.952380952381
+825,Frenchmens Bay,43.82,-79.1,43.82,43.82,-79.1,-79.1,Vascular plants,Fraxinus americana,1.0,NISP,pollen,,1556.0,,,Radiocarbon years BP,180.0,75.0,pollen,6/30/2007,218.0,0.45871559633
+825,Frenchmens Bay,43.82,-79.1,43.82,43.82,-79.1,-79.1,Vascular plants,Fraxinus americana,3.0,NISP,pollen,,1733.0,,,Radiocarbon years BP,200.0,75.0,pollen,6/30/2007,194.0,1.54639175258
+825,Frenchmens Bay,43.82,-79.1,43.82,43.82,-79.1,-79.1,Vascular plants,Fraxinus americana,2.0,NISP,pollen,,1910.0,,,Radiocarbon years BP,220.0,75.0,pollen,6/30/2007,218.0,0.917431192661
+825,Frenchmens Bay,43.82,-79.1,43.82,43.82,-79.1,-79.1,Vascular plants,Fraxinus americana,1.0,NISP,pollen,,2175.0,,,Radiocarbon years BP,250.0,75.0,pollen,6/30/2007,116.0,0.862068965517
+825,Frenchmens Bay,43.82,-79.1,43.82,43.82,-79.1,-79.1,Vascular plants,Fraxinus americana,3.0,NISP,pollen,,2441.0,,,Radiocarbon years BP,280.0,75.0,pollen,6/30/2007,200.0,1.5
+825,Frenchmens Bay,43.82,-79.1,43.82,43.82,-79.1,-79.1,Vascular plants,Fraxinus americana,3.0,NISP,pollen,,2617.0,,,Radiocarbon years BP,300.0,75.0,pollen,6/30/2007,225.0,1.33333333333
+829,Furnival Lake,48.21,-84.93,48.21,48.21,-84.93,-84.93,Vascular plants,Fraxinus americana,1.0,NISP,pollen,,41.0,,,Radiocarbon years BP,30.0,440.0,pollen,6/30/2007,299.0,0.334448160535
+829,Furnival Lake,48.21,-84.93,48.21,48.21,-84.93,-84.93,Vascular plants,Fraxinus americana,1.0,NISP,pollen,,88.0,,,Radiocarbon years BP,50.0,440.0,pollen,6/30/2007,300.0,0.333333333333
+829,Furnival Lake,48.21,-84.93,48.21,48.21,-84.93,-84.93,Vascular plants,Fraxinus americana,1.0,NISP,pollen,,595.0,,,Radiocarbon years BP,80.0,440.0,pollen,6/30/2007,300.0,0.333333333333
+829,Furnival Lake,48.21,-84.93,48.21,48.21,-84.93,-84.93,Vascular plants,Fraxinus americana,2.0,NISP,pollen,,1387.0,,,Radiocarbon years BP,120.0,440.0,pollen,6/30/2007,301.0,0.664451827243
+829,Furnival Lake,48.21,-84.93,48.21,48.21,-84.93,-84.93,Vascular plants,Fraxinus americana,1.0,NISP,pollen,,1783.0,,,Radiocarbon years BP,140.0,440.0,pollen,6/30/2007,300.0,0.333333333333
+829,Furnival Lake,48.21,-84.93,48.21,48.21,-84.93,-84.93,Vascular plants,Fraxinus americana,3.0,NISP,pollen,,2970.0,,,Radiocarbon years BP,200.0,440.0,pollen,6/30/2007,301.0,0.996677740864
+829,Furnival Lake,48.21,-84.93,48.21,48.21,-84.93,-84.93,Vascular plants,Fraxinus americana,1.0,NISP,pollen,,3366.0,,,Radiocarbon years BP,220.0,440.0,pollen,6/30/2007,300.0,0.333333333333
+829,Furnival Lake,48.21,-84.93,48.21,48.21,-84.93,-84.93,Vascular plants,Fraxinus americana,1.0,NISP,pollen,,4158.0,,,Radiocarbon years BP,260.0,440.0,pollen,6/30/2007,300.0,0.333333333333
+829,Furnival Lake,48.21,-84.93,48.21,48.21,-84.93,-84.93,Vascular plants,Fraxinus americana,2.0,NISP,pollen,,4554.0,,,Radiocarbon years BP,280.0,440.0,pollen,6/30/2007,300.0,0.666666666667
+829,Furnival Lake,48.21,-84.93,48.21,48.21,-84.93,-84.93,Vascular plants,Fraxinus americana,1.0,NISP,pollen,,4950.0,,,Radiocarbon years BP,300.0,440.0,pollen,6/30/2007,300.0,0.333333333333
+829,Furnival Lake,48.21,-84.93,48.21,48.21,-84.93,-84.93,Vascular plants,Fraxinus americana,1.0,NISP,pollen,,6013.0,,,Radiocarbon years BP,360.0,440.0,pollen,6/30/2007,301.0,0.332225913621
+829,Furnival Lake,48.21,-84.93,48.21,48.21,-84.93,-84.93,Vascular plants,Fraxinus americana,1.0,NISP,pollen,,6453.0,,,Radiocarbon years BP,420.0,440.0,pollen,6/30/2007,300.0,0.333333333333
+829,Furnival Lake,48.21,-84.93,48.21,48.21,-84.93,-84.93,Vascular plants,Fraxinus americana,1.0,NISP,pollen,,8213.0,,,Radiocarbon years BP,660.0,440.0,pollen,6/30/2007,300.0,0.333333333333
+835,"Georgian Bay, Lake Huron (1)",44.74,-80.86,44.74,44.74,-80.86,-80.86,Vascular plants,Fraxinus americana,2.0,NISP,pollen,,-18.0,,,Radiocarbon years BP,1.0,176.0,pollen,6/30/2007,292.0,0.684931506849
+835,"Georgian Bay, Lake Huron (1)",44.74,-80.86,44.74,44.74,-80.86,-80.86,Vascular plants,Fraxinus americana,1.0,NISP,pollen,,4514.0,,,Radiocarbon years BP,90.0,176.0,pollen,6/30/2007,220.0,0.454545454545
+835,"Georgian Bay, Lake Huron (1)",44.74,-80.86,44.74,44.74,-80.86,-80.86,Vascular plants,Fraxinus americana,1.0,NISP,pollen,,5080.0,,,Radiocarbon years BP,110.0,176.0,pollen,6/30/2007,237.0,0.42194092827
+835,"Georgian Bay, Lake Huron (1)",44.74,-80.86,44.74,44.74,-80.86,-80.86,Vascular plants,Fraxinus americana,1.0,NISP,pollen,,6200.0,,,Radiocarbon years BP,150.0,176.0,pollen,6/30/2007,227.0,0.440528634361
+835,"Georgian Bay, Lake Huron (1)",44.74,-80.86,44.74,44.74,-80.86,-80.86,Vascular plants,Fraxinus americana,1.0,NISP,pollen,,8109.0,,,Radiocarbon years BP,210.0,176.0,pollen,6/30/2007,246.0,0.406504065041
+835,"Georgian Bay, Lake Huron (1)",44.74,-80.86,44.74,44.74,-80.86,-80.86,Vascular plants,Fraxinus americana,2.0,NISP,pollen,,10146.0,,,Radiocarbon years BP,250.0,176.0,pollen,6/30/2007,226.0,0.884955752212
+835,"Georgian Bay, Lake Huron (1)",44.74,-80.86,44.74,44.74,-80.86,-80.86,Vascular plants,Fraxinus americana,3.0,NISP,pollen,,10440.0,,,Radiocarbon years BP,270.0,176.0,pollen,6/30/2007,352.0,0.852272727273
+835,"Georgian Bay, Lake Huron (1)",44.74,-80.86,44.74,44.74,-80.86,-80.86,Vascular plants,Fraxinus americana,2.0,NISP,pollen,,10466.0,,,Radiocarbon years BP,280.0,176.0,pollen,6/30/2007,255.0,0.78431372549
+835,"Georgian Bay, Lake Huron (1)",44.74,-80.86,44.74,44.74,-80.86,-80.86,Vascular plants,Fraxinus americana,2.0,NISP,pollen,,10493.0,,,Radiocarbon years BP,290.0,176.0,pollen,6/30/2007,271.0,0.738007380074
+835,"Georgian Bay, Lake Huron (1)",44.74,-80.86,44.74,44.74,-80.86,-80.86,Vascular plants,Fraxinus americana,1.0,NISP,pollen,,10546.0,,,Radiocarbon years BP,310.0,176.0,pollen,6/30/2007,278.0,0.359712230216
+835,"Georgian Bay, Lake Huron (1)",44.74,-80.86,44.74,44.74,-80.86,-80.86,Vascular plants,Fraxinus americana,4.0,NISP,pollen,,10652.0,,,Radiocarbon years BP,350.0,176.0,pollen,6/30/2007,309.0,1.29449838188
+835,"Georgian Bay, Lake Huron (1)",44.74,-80.86,44.74,44.74,-80.86,-80.86,Vascular plants,Fraxinus americana,2.0,NISP,pollen,,10758.0,,,Radiocarbon years BP,390.0,176.0,pollen,6/30/2007,309.0,0.647249190939
+835,"Georgian Bay, Lake Huron (1)",44.74,-80.86,44.74,44.74,-80.86,-80.86,Vascular plants,Fraxinus americana,2.0,NISP,pollen,,10864.0,,,Radiocarbon years BP,430.0,176.0,pollen,6/30/2007,260.0,0.769230769231
+835,"Georgian Bay, Lake Huron (1)",44.74,-80.86,44.74,44.74,-80.86,-80.86,Vascular plants,Fraxinus americana,4.0,NISP,pollen,,10917.0,,,Radiocarbon years BP,450.0,176.0,pollen,6/30/2007,266.0,1.5037593985
+835,"Georgian Bay, Lake Huron (1)",44.74,-80.86,44.74,44.74,-80.86,-80.86,Vascular plants,Fraxinus americana,2.0,NISP,pollen,,10970.0,,,Radiocarbon years BP,470.0,176.0,pollen,6/30/2007,270.0,0.740740740741
+835,"Georgian Bay, Lake Huron (1)",44.74,-80.86,44.74,44.74,-80.86,-80.86,Vascular plants,Fraxinus americana,2.0,NISP,pollen,,11129.0,,,Radiocarbon years BP,530.0,176.0,pollen,6/30/2007,291.0,0.687285223368
+835,"Georgian Bay, Lake Huron (1)",44.74,-80.86,44.74,44.74,-80.86,-80.86,Vascular plants,Fraxinus americana,1.0,NISP,pollen,,11235.0,,,Radiocarbon years BP,570.0,176.0,pollen,6/30/2007,298.0,0.335570469799
+835,"Georgian Bay, Lake Huron (1)",44.74,-80.86,44.74,44.74,-80.86,-80.86,Vascular plants,Fraxinus americana,1.0,NISP,pollen,,11341.0,,,Radiocarbon years BP,610.0,176.0,pollen,6/30/2007,268.0,0.373134328358
+835,"Georgian Bay, Lake Huron (1)",44.74,-80.86,44.74,44.74,-80.86,-80.86,Vascular plants,Fraxinus americana,1.0,NISP,pollen,,11394.0,,,Radiocarbon years BP,630.0,176.0,pollen,6/30/2007,276.0,0.36231884058
+836,"Georgian Bay, Lake Huron (2)",45.17,-81.32,45.17,45.17,-81.32,-81.32,Vascular plants,Fraxinus americana,3.0,NISP,pollen,,8580.0,,,Radiocarbon years BP,290.0,176.0,pollen,6/30/2007,200.0,1.5
+836,"Georgian Bay, Lake Huron (2)",45.17,-81.32,45.17,45.17,-81.32,-81.32,Vascular plants,Fraxinus americana,1.0,NISP,pollen,,8860.0,,,Radiocarbon years BP,300.0,176.0,pollen,6/30/2007,214.0,0.467289719626
+836,"Georgian Bay, Lake Huron (2)",45.17,-81.32,45.17,45.17,-81.32,-81.32,Vascular plants,Fraxinus americana,2.0,NISP,pollen,,10408.0,,,Radiocarbon years BP,360.0,176.0,pollen,6/30/2007,241.0,0.829875518672
+836,"Georgian Bay, Lake Huron (2)",45.17,-81.32,45.17,45.17,-81.32,-81.32,Vascular plants,Fraxinus americana,1.0,NISP,pollen,,10438.0,,,Radiocarbon years BP,380.0,176.0,pollen,6/30/2007,222.0,0.45045045045
+836,"Georgian Bay, Lake Huron (2)",45.17,-81.32,45.17,45.17,-81.32,-81.32,Vascular plants,Fraxinus americana,1.0,NISP,pollen,,10469.0,,,Radiocarbon years BP,400.0,176.0,pollen,6/30/2007,233.0,0.429184549356
+836,"Georgian Bay, Lake Huron (2)",45.17,-81.32,45.17,45.17,-81.32,-81.32,Vascular plants,Fraxinus americana,1.0,NISP,pollen,,10561.0,,,Radiocarbon years BP,460.0,176.0,pollen,6/30/2007,235.0,0.425531914894
+836,"Georgian Bay, Lake Huron (2)",45.17,-81.32,45.17,45.17,-81.32,-81.32,Vascular plants,Fraxinus americana,1.0,NISP,pollen,,10683.0,,,Radiocarbon years BP,540.0,176.0,pollen,6/30/2007,223.0,0.448430493274
+836,"Georgian Bay, Lake Huron (2)",45.17,-81.32,45.17,45.17,-81.32,-81.32,Vascular plants,Fraxinus americana,1.0,NISP,pollen,,10744.0,,,Radiocarbon years BP,580.0,176.0,pollen,6/30/2007,227.0,0.440528634361
+836,"Georgian Bay, Lake Huron (2)",45.17,-81.32,45.17,45.17,-81.32,-81.32,Vascular plants,Fraxinus americana,3.0,NISP,pollen,,10867.0,,,Radiocarbon years BP,660.0,176.0,pollen,6/30/2007,228.0,1.31578947368
+836,"Georgian Bay, Lake Huron (2)",45.17,-81.32,45.17,45.17,-81.32,-81.32,Vascular plants,Fraxinus americana,2.0,NISP,pollen,,10990.0,,,Radiocarbon years BP,740.0,176.0,pollen,6/30/2007,168.0,1.19047619048
+836,"Georgian Bay, Lake Huron (2)",45.17,-81.32,45.17,45.17,-81.32,-81.32,Vascular plants,Fraxinus americana,1.0,NISP,pollen,,11112.0,,,Radiocarbon years BP,820.0,176.0,pollen,6/30/2007,222.0,0.45045045045
+836,"Georgian Bay, Lake Huron (2)",45.17,-81.32,45.17,45.17,-81.32,-81.32,Vascular plants,Fraxinus americana,1.0,NISP,pollen,,11418.0,,,Radiocarbon years BP,1020.0,176.0,pollen,6/30/2007,111.0,0.900900900901
+836,"Georgian Bay, Lake Huron (2)",45.17,-81.32,45.17,45.17,-81.32,-81.32,Vascular plants,Fraxinus americana,1.0,NISP,pollen,,11479.0,,,Radiocarbon years BP,1060.0,176.0,pollen,6/30/2007,227.0,0.440528634361
+836,"Georgian Bay, Lake Huron (2)",45.17,-81.32,45.17,45.17,-81.32,-81.32,Vascular plants,Fraxinus americana,1.0,NISP,pollen,,11847.0,,,Radiocarbon years BP,1300.0,176.0,pollen,6/30/2007,176.0,0.568181818182
+836,"Georgian Bay, Lake Huron (2)",45.17,-81.32,45.17,45.17,-81.32,-81.32,Vascular plants,Fraxinus americana,2.0,NISP,pollen,,11908.0,,,Radiocarbon years BP,1340.0,176.0,pollen,6/30/2007,194.0,1.03092783505
+1136,James Bay,50.22,-80.2,50.22,50.22,-80.2,-80.2,Vascular plants,Fraxinus americana,1.0,NISP,pollen,,1135.0,,,Radiocarbon years BP,40.0,,pollen,6/30/2007,115.0,0.869565217391
+1297,JHMS12 (McAndrews and Wright 1969),43.466667,-108.183333,43.466667,43.466667,-108.183333,-108.183333,Vascular plants,Fraxinus americana,1.0,NISP,pollen,,,,,,0.0,1524.0,pollen surface sample,6/30/2007,,
+1312,JHMS27 (McAndrews and Wright 1969),44.666667,-102.066667,44.666667,44.666667,-102.066667,-102.066667,Vascular plants,Fraxinus americana,2.0,NISP,pollen,,,,,,0.0,762.0,pollen surface sample,6/30/2007,,
+1313,JHMS28 (McAndrews and Wright 1969),45.033333,-102.0,45.033333,45.033333,-102.0,-102.0,Vascular plants,Fraxinus americana,1.0,NISP,pollen,,,,,,0.0,793.0,pollen surface sample,6/30/2007,,
+1317,JHMS31 (McAndrews and Wright 1969),45.033333,-99.333333,45.033333,45.033333,-99.333333,-99.333333,Vascular plants,Fraxinus americana,1.0,NISP,pollen,,,,,,0.0,549.0,pollen surface sample,6/30/2007,,
+1356,Joes Pond,48.24,-58.24,48.24,48.24,-58.24,-58.24,Vascular plants,Fraxinus americana,1.0,NISP,pollen,,1348.0,,,Radiocarbon years BP,120.0,100.0,pollen,6/30/2007,204.0,0.490196078431
+1356,Joes Pond,48.24,-58.24,48.24,48.24,-58.24,-58.24,Vascular plants,Fraxinus americana,1.0,NISP,pollen,,2611.0,,,Radiocarbon years BP,230.0,100.0,pollen,6/30/2007,203.0,0.492610837438
+1356,Joes Pond,48.24,-58.24,48.24,48.24,-58.24,-58.24,Vascular plants,Fraxinus americana,1.0,NISP,pollen,,2956.0,,,Radiocarbon years BP,260.0,100.0,pollen,6/30/2007,202.0,0.49504950495
+1356,Joes Pond,48.24,-58.24,48.24,48.24,-58.24,-58.24,Vascular plants,Fraxinus americana,1.0,NISP,pollen,,4681.0,,,Radiocarbon years BP,320.0,100.0,pollen,6/30/2007,230.0,0.434782608696

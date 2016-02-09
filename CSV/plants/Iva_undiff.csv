@@ -1,0 +1,77 @@
+siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
+848,Glatsch Lake,47.28,-92.62,47.28,47.28,-92.62,-92.62,Vascular plants,Iva undiff.,6.0,NISP,pollen,,,,,,910.0,426.0,pollen,6/30/2007,302.0,1.98675496689
+848,Glatsch Lake,47.28,-92.62,47.28,47.28,-92.62,-92.62,Vascular plants,Iva undiff.,7.0,NISP,pollen,,,,,,1040.0,426.0,pollen,6/30/2007,321.0,2.18068535826
+1679,Lake Mendota,43.1,-89.416667,43.1,43.1,-89.416667,-89.416667,Vascular plants,Iva undiff.,2.0,NISP,pollen,,2001.0,,,Radiocarbon years BP,185.5,257.0,pollen,6/30/2007,205.0,0.975609756098
+1691,Garretts Pond,41.7,-70.35,41.7,41.7,-70.35,-70.35,Vascular plants,Iva undiff.,9.0,NISP,pollen,,,,,,0.0,12.0,pollen surface sample,6/30/2007,,
+1766,Lake West Okoboji,43.333333,-95.2,43.333333,43.333333,-95.2,-95.2,Vascular plants,Iva undiff.,2.0,NISP,pollen,,2004.0,,,Radiocarbon years BP,200.0,426.0,pollen,6/30/2007,338.0,0.591715976331
+1787,Site 1 (Cridlebaugh unpublished),35.58,-84.2,35.58,35.58,-84.2,-84.2,Vascular plants,Iva undiff.,3.0,NISP,pollen,,,,,,0.0,244.0,pollen surface sample,6/30/2007,,
+1896,Poland Spring Pond,44.033333,-70.35,44.033333,44.033333,-70.35,-70.35,Vascular plants,Iva undiff.,1.0,NISP,pollen,,1609.0,,,Radiocarbon years BP,480.0,94.0,pollen,6/30/2007,319.0,0.313479623824
+1896,Poland Spring Pond,44.033333,-70.35,44.033333,44.033333,-70.35,-70.35,Vascular plants,Iva undiff.,2.0,NISP,pollen,,3839.0,,,Radiocarbon years BP,640.0,94.0,pollen,6/30/2007,548.0,0.36496350365
+1896,Poland Spring Pond,44.033333,-70.35,44.033333,44.033333,-70.35,-70.35,Vascular plants,Iva undiff.,1.0,NISP,pollen,,5249.0,,,Radiocarbon years BP,800.0,94.0,pollen,6/30/2007,315.0,0.31746031746
+1896,Poland Spring Pond,44.033333,-70.35,44.033333,44.033333,-70.35,-70.35,Vascular plants,Iva undiff.,1.0,NISP,pollen,,5395.0,,,Radiocarbon years BP,880.0,94.0,pollen,6/30/2007,356.0,0.280898876404
+1896,Poland Spring Pond,44.033333,-70.35,44.033333,44.033333,-70.35,-70.35,Vascular plants,Iva undiff.,2.0,NISP,pollen,,6202.0,,,Radiocarbon years BP,960.0,94.0,pollen,6/30/2007,316.0,0.632911392405
+1896,Poland Spring Pond,44.033333,-70.35,44.033333,44.033333,-70.35,-70.35,Vascular plants,Iva undiff.,2.0,NISP,pollen,,7509.0,,,Radiocarbon years BP,1040.0,94.0,pollen,6/30/2007,308.0,0.649350649351
+1957,Rattle Lake,49.35,-92.7,49.35,49.35,-92.7,-92.7,Vascular plants,Iva undiff.,2.0,NISP,pollen,,5785.0,,,Radiocarbon years BP,970.0,460.0,pollen,6/30/2007,488.0,0.409836065574
+1957,Rattle Lake,49.35,-92.7,49.35,49.35,-92.7,-92.7,Vascular plants,Iva undiff.,1.0,NISP,pollen,,5980.0,,,Radiocarbon years BP,985.0,460.0,pollen,6/30/2007,596.0,0.167785234899
+1957,Rattle Lake,49.35,-92.7,49.35,49.35,-92.7,-92.7,Vascular plants,Iva undiff.,1.0,NISP,pollen,,6175.0,,,Radiocarbon years BP,1000.0,460.0,pollen,6/30/2007,713.0,0.140252454418
+1957,Rattle Lake,49.35,-92.7,49.35,49.35,-92.7,-92.7,Vascular plants,Iva undiff.,3.0,NISP,pollen,,6370.0,,,Radiocarbon years BP,1015.0,460.0,pollen,6/30/2007,820.0,0.365853658537
+1957,Rattle Lake,49.35,-92.7,49.35,49.35,-92.7,-92.7,Vascular plants,Iva undiff.,6.0,NISP,pollen,,6572.0,,,Radiocarbon years BP,1030.0,460.0,pollen,6/30/2007,695.0,0.863309352518
+1957,Rattle Lake,49.35,-92.7,49.35,49.35,-92.7,-92.7,Vascular plants,Iva undiff.,4.0,NISP,pollen,,6789.0,,,Radiocarbon years BP,1045.0,460.0,pollen,6/30/2007,643.0,0.622083981337
+1957,Rattle Lake,49.35,-92.7,49.35,49.35,-92.7,-92.7,Vascular plants,Iva undiff.,15.0,NISP,pollen,,7006.0,,,Radiocarbon years BP,1060.0,460.0,pollen,6/30/2007,877.0,1.71037628278
+1957,Rattle Lake,49.35,-92.7,49.35,49.35,-92.7,-92.7,Vascular plants,Iva undiff.,3.0,NISP,pollen,,7195.0,,,Radiocarbon years BP,1075.0,460.0,pollen,6/30/2007,786.0,0.381679389313
+1957,Rattle Lake,49.35,-92.7,49.35,49.35,-92.7,-92.7,Vascular plants,Iva undiff.,2.0,NISP,pollen,,7331.0,,,Radiocarbon years BP,1090.0,460.0,pollen,6/30/2007,742.0,0.269541778976
+1957,Rattle Lake,49.35,-92.7,49.35,49.35,-92.7,-92.7,Vascular plants,Iva undiff.,1.0,NISP,pollen,,7830.0,,,Radiocarbon years BP,1145.0,460.0,pollen,6/30/2007,557.0,0.179533213645
+1957,Rattle Lake,49.35,-92.7,49.35,49.35,-92.7,-92.7,Vascular plants,Iva undiff.,1.0,NISP,pollen,,7921.0,,,Radiocarbon years BP,1155.0,460.0,pollen,6/30/2007,562.0,0.17793594306
+1957,Rattle Lake,49.35,-92.7,49.35,49.35,-92.7,-92.7,Vascular plants,Iva undiff.,1.0,NISP,pollen,,8102.0,,,Radiocarbon years BP,1175.0,460.0,pollen,6/30/2007,666.0,0.15015015015
+1957,Rattle Lake,49.35,-92.7,49.35,49.35,-92.7,-92.7,Vascular plants,Iva undiff.,1.0,NISP,pollen,,8193.0,,,Radiocarbon years BP,1185.0,460.0,pollen,6/30/2007,692.0,0.14450867052
+1957,Rattle Lake,49.35,-92.7,49.35,49.35,-92.7,-92.7,Vascular plants,Iva undiff.,4.0,NISP,pollen,,9285.0,,,Radiocarbon years BP,1225.0,460.0,pollen,6/30/2007,549.0,0.728597449909
+1957,Rattle Lake,49.35,-92.7,49.35,49.35,-92.7,-92.7,Vascular plants,Iva undiff.,1.0,NISP,pollen,,9573.0,,,Radiocarbon years BP,1230.0,460.0,pollen,6/30/2007,550.0,0.181818181818
+1957,Rattle Lake,49.35,-92.7,49.35,49.35,-92.7,-92.7,Vascular plants,Iva undiff.,2.0,NISP,pollen,,10535.0,,,Radiocarbon years BP,1251.0,460.0,pollen,6/30/2007,396.0,0.505050505051
+1957,Rattle Lake,49.35,-92.7,49.35,49.35,-92.7,-92.7,Vascular plants,Iva undiff.,1.0,NISP,pollen,,10815.0,,,Radiocarbon years BP,1259.0,460.0,pollen,6/30/2007,482.0,0.207468879668
+1957,Rattle Lake,49.35,-92.7,49.35,49.35,-92.7,-92.7,Vascular plants,Iva undiff.,2.0,NISP,pollen,,10915.0,,,Radiocarbon years BP,1262.5,460.0,pollen,6/30/2007,366.0,0.546448087432
+1957,Rattle Lake,49.35,-92.7,49.35,49.35,-92.7,-92.7,Vascular plants,Iva undiff.,1.0,NISP,pollen,,11032.0,,,Radiocarbon years BP,1267.0,460.0,pollen,6/30/2007,297.0,0.3367003367
+1957,Rattle Lake,49.35,-92.7,49.35,49.35,-92.7,-92.7,Vascular plants,Iva undiff.,3.0,NISP,pollen,,11110.0,,,Radiocarbon years BP,1270.0,460.0,pollen,6/30/2007,483.0,0.621118012422
+1957,Rattle Lake,49.35,-92.7,49.35,49.35,-92.7,-92.7,Vascular plants,Iva undiff.,3.0,NISP,pollen,,11240.0,,,Radiocarbon years BP,1275.0,460.0,pollen,6/30/2007,339.0,0.884955752212
+1957,Rattle Lake,49.35,-92.7,49.35,49.35,-92.7,-92.7,Vascular plants,Iva undiff.,1.0,NISP,pollen,,11370.0,,,Radiocarbon years BP,1280.0,460.0,pollen,6/30/2007,322.0,0.310559006211
+2721,Menominee Site 2 (Webb unpublished),44.88,-88.52,44.88,44.88,-88.52,-88.52,Vascular plants,Iva undiff.,4.0,NISP,pollen,,,,,,0.0,,pollen surface sample,6/30/2007,,
+2723,Menominee Site 4 (Webb unpublished),44.9,-88.49,44.9,44.9,-88.49,-88.49,Vascular plants,Iva undiff.,1.0,NISP,pollen,,,,,,0.0,,pollen surface sample,6/30/2007,,
+2727,Menominee Site 8 (Webb unpublished),45.01,-88.7,45.01,45.01,-88.7,-88.7,Vascular plants,Iva undiff.,1.0,NISP,pollen,,,,,,0.0,,pollen surface sample,6/30/2007,,
+2728,Menominee Site 9 (Webb unpublished),44.88,-88.66,44.88,44.88,-88.66,-88.66,Vascular plants,Iva undiff.,1.0,NISP,pollen,,,,,,0.0,,pollen surface sample,6/30/2007,,
+2731,Menominee Site 12 (Webb unpublished),45.02,-88.75,45.02,45.02,-88.75,-88.75,Vascular plants,Iva undiff.,2.0,NISP,pollen,,,,,,0.0,,pollen surface sample,6/30/2007,,
+2732,Menominee Site 13 (Webb unpublished),44.94,-88.53,44.94,44.94,-88.53,-88.53,Vascular plants,Iva undiff.,3.0,NISP,pollen,,,,,,0.0,,pollen surface sample,6/30/2007,,
+2733,Menominee Site 14 (Webb unpublished),44.91,-88.58,44.91,44.91,-88.58,-88.58,Vascular plants,Iva undiff.,1.0,NISP,pollen,,,,,,0.0,,pollen surface sample,6/30/2007,,
+2738,Menominee Site 19 (Webb unpublished),45.0,-88.58,45.0,45.0,-88.58,-88.58,Vascular plants,Iva undiff.,1.0,NISP,pollen,,,,,,0.0,,pollen surface sample,6/30/2007,,
+2740,Menominee Site 21 (Webb unpublished),44.89,-88.51,44.89,44.89,-88.51,-88.51,Vascular plants,Iva undiff.,1.0,NISP,pollen,,,,,,0.0,,pollen surface sample,6/30/2007,,
+2741,Menominee Site 22 (Webb unpublished),45.09,-88.7,45.09,45.09,-88.7,-88.7,Vascular plants,Iva undiff.,1.0,NISP,pollen,,,,,,0.0,,pollen surface sample,6/30/2007,,
+2742,Menominee Site 23 (Webb unpublished),44.87,-88.72,44.87,44.87,-88.72,-88.72,Vascular plants,Iva undiff.,2.0,NISP,pollen,,,,,,0.0,,pollen surface sample,6/30/2007,,
+2743,Menominee Site 24 (Webb unpublished),45.0,-88.55,45.0,45.0,-88.55,-88.55,Vascular plants,Iva undiff.,1.0,NISP,pollen,,,,,,0.0,,pollen surface sample,6/30/2007,,
+2747,Menominee Site 28 (Webb unpublished),45.03,-88.82,45.03,45.03,-88.82,-88.82,Vascular plants,Iva undiff.,3.0,NISP,pollen,,,,,,0.0,,pollen surface sample,6/30/2007,,
+2749,Menominee Site 30 (Webb unpublished),44.9,-88.52,44.9,44.9,-88.52,-88.52,Vascular plants,Iva undiff.,2.0,NISP,pollen,,,,,,0.0,,pollen surface sample,6/30/2007,,
+2757,Menominee Site 38 (Webb unpublished),45.09,-88.52,45.09,45.09,-88.52,-88.52,Vascular plants,Iva undiff.,1.0,NISP,pollen,,,,,,0.0,,pollen surface sample,6/30/2007,,
+2758,Menominee Site 39 (Webb unpublished),45.06,-88.96,45.06,45.06,-88.96,-88.96,Vascular plants,Iva undiff.,2.0,NISP,pollen,,,,,,0.0,,pollen surface sample,6/30/2007,,
+2759,Menominee Site 40 (Webb unpublished),44.87,-88.71,44.87,44.87,-88.71,-88.71,Vascular plants,Iva undiff.,1.0,NISP,pollen,,,,,,0.0,,pollen surface sample,6/30/2007,,
+2760,Menominee Site 41 (Webb unpublished),44.89,-88.54,44.89,44.89,-88.54,-88.54,Vascular plants,Iva undiff.,2.0,NISP,pollen,,,,,,0.0,,pollen surface sample,6/30/2007,,
+2762,Menominee Site 43 (Webb unpublished),45.09,-88.51,45.09,45.09,-88.51,-88.51,Vascular plants,Iva undiff.,1.0,NISP,pollen,,,,,,0.0,,pollen surface sample,6/30/2007,,
+2763,Menominee Site 44 (Webb unpublished),44.92,-88.63,44.92,44.92,-88.63,-88.63,Vascular plants,Iva undiff.,2.0,NISP,pollen,,,,,,0.0,,pollen surface sample,6/30/2007,,
+2765,Menominee Site 46 (Webb unpublished),44.98,-88.64,44.98,44.98,-88.64,-88.64,Vascular plants,Iva undiff.,1.0,NISP,pollen,,,,,,0.0,,pollen surface sample,6/30/2007,,
+2768,Menominee Site 49 (Webb unpublished),44.95,-88.52,44.95,44.95,-88.52,-88.52,Vascular plants,Iva undiff.,1.0,NISP,pollen,,,,,,0.0,,pollen surface sample,6/30/2007,,
+2769,Menominee Site 50 (Webb unpublished),45.08,-88.84,45.08,45.08,-88.84,-88.84,Vascular plants,Iva undiff.,1.0,NISP,pollen,,,,,,0.0,,pollen surface sample,6/30/2007,,
+2775,Menominee Site 56 (Webb unpublished),44.89,-88.56,44.89,44.89,-88.56,-88.56,Vascular plants,Iva undiff.,3.0,NISP,pollen,,,,,,0.0,,pollen surface sample,6/30/2007,,
+2776,Menominee Site 57 (Webb unpublished),45.06,-88.75,45.06,45.06,-88.75,-88.75,Vascular plants,Iva undiff.,1.0,NISP,pollen,,,,,,0.0,,pollen surface sample,6/30/2007,,
+2778,Menominee Site 59 (Webb unpublished),44.95,-88.6,44.95,44.95,-88.6,-88.6,Vascular plants,Iva undiff.,1.0,NISP,pollen,,,,,,0.0,,pollen surface sample,6/30/2007,,
+2780,Menominee Site 61 (Webb unpublished),45.07,-88.75,45.07,45.07,-88.75,-88.75,Vascular plants,Iva undiff.,2.0,NISP,pollen,,,,,,0.0,,pollen surface sample,6/30/2007,,
+2781,Menominee Site 62 (Webb unpublished),45.04,-88.89,45.04,45.04,-88.89,-88.89,Vascular plants,Iva undiff.,1.0,NISP,pollen,,,,,,0.0,,pollen surface sample,6/30/2007,,
+562,Tom Swamp,42.516667,-72.2125,42.516667,42.516667,-72.2125,-72.2125,Vascular plants,Iva undiff.,1.0,NISP,pollen,,2640.0,,,Radiocarbon years BP,120.0,231.0,pollen,6/30/2007,95.0,1.05263157895
+2725,Menominee Site 6 (Webb unpublished),44.89,-88.6,44.89,44.89,-88.6,-88.6,Vascular plants,Iva undiff.,2.0,NISP,pollen,,,,,,0.0,,pollen surface sample,6/30/2007,,
+2725,Menominee Site 6 (Webb unpublished),44.89,-88.6,44.89,44.89,-88.6,-88.6,Vascular plants,Iva undiff.,4.0,NISP,pollen,,,,,,0.0,,pollen surface sample,6/30/2007,,
+2720,Menominee Site 1 (Webb unpublished),44.87,-88.51,44.87,44.87,-88.51,-88.51,Vascular plants,Iva undiff.,4.0,NISP,pollen,,,,,,0.0,,pollen surface sample,6/30/2007,,
+2729,Menominee Site 10 (Webb unpublished),45.08,-88.63,45.08,45.08,-88.63,-88.63,Vascular plants,Iva undiff.,2.0,NISP,pollen,,,,,,0.0,,pollen surface sample,6/30/2007,,
+2750,Menominee Site 31 (Webb unpublished),44.98,-88.89,44.98,44.98,-88.89,-88.89,Vascular plants,Iva undiff.,1.0,NISP,pollen,,,,,,0.0,,pollen surface sample,6/30/2007,,
+2738,Menominee Site 19 (Webb unpublished),45.0,-88.58,45.0,45.0,-88.58,-88.58,Vascular plants,Iva undiff.,1.0,NISP,pollen,,,,,,0.0,,pollen surface sample,6/30/2007,,
+2728,Menominee Site 9 (Webb unpublished),44.88,-88.66,44.88,44.88,-88.66,-88.66,Vascular plants,Iva undiff.,1.0,NISP,pollen,,,,,,0.0,,pollen surface sample,6/30/2007,,
+2747,Menominee Site 28 (Webb unpublished),45.03,-88.82,45.03,45.03,-88.82,-88.82,Vascular plants,Iva undiff.,1.0,NISP,pollen,,,,,,0.0,,pollen surface sample,6/30/2007,,
+2733,Menominee Site 14 (Webb unpublished),44.91,-88.58,44.91,44.91,-88.58,-88.58,Vascular plants,Iva undiff.,2.0,NISP,pollen,,,,,,0.0,,pollen surface sample,6/30/2007,,
+2721,Menominee Site 2 (Webb unpublished),44.88,-88.52,44.88,44.88,-88.52,-88.52,Vascular plants,Iva undiff.,1.0,NISP,pollen,,,,,,0.0,,pollen surface sample,6/30/2007,,
+10152,West Hawk Lake,49.76341,-95.191725,49.78481,49.74201,-95.15482,-95.22863,Vascular plants,Iva undiff.,0.999999984307,NISP,pollen,,2836.0,679.0,4942.0,Calibrated radiocarbon years BP,16.9999993896,330.0,pollen,3/5/2015,466.999999543,0.214132759162
+10152,West Hawk Lake,49.76341,-95.191725,49.78481,49.74201,-95.15482,-95.22863,Vascular plants,Iva undiff.,0.999999984307,NISP,pollen,,15886.0,9384.0,29935.0,Calibrated radiocarbon years BP,617.000020897,330.0,pollen,3/5/2015,429.000003919,0.233100227313
+10152,West Hawk Lake,49.76341,-95.191725,49.78481,49.74201,-95.15482,-95.22863,Vascular plants,Iva undiff.,1.99999996861,NISP,pollen,,20211.0,9418.0,44388.0,Calibrated radiocarbon years BP,856.999975899,330.0,pollen,3/5/2015,450.000001872,0.444444435621

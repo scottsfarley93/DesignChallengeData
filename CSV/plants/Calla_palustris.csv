@@ -1,0 +1,15 @@
+siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
+11,"Konus Exposure, Adycha River",67.75,135.583333,67.75,67.75,135.583333,135.583333,Vascular plants,Calla palustris,1.0,NISP,pollen,,6333.0,,,Radiocarbon years BP,340.0,130.0,pollen,6/30/2007,428.0,0.233644859813
+11,"Konus Exposure, Adycha River",67.75,135.583333,67.75,67.75,135.583333,135.583333,Vascular plants,Calla palustris,3.0,NISP,pollen,,6533.0,,,Radiocarbon years BP,400.0,130.0,pollen,6/30/2007,337.0,0.890207715134
+11,"Konus Exposure, Adycha River",67.75,135.583333,67.75,67.75,135.583333,135.583333,Vascular plants,Calla palustris,1.0,NISP,pollen,,8200.0,,,Radiocarbon years BP,820.0,130.0,pollen,6/30/2007,214.0,0.467289719626
+204,Andree Bog,45.725,-93.25,45.725,45.725,-93.25,-93.25,Vascular plants,Calla palustris,1.0,NISP,pollen,,11333.0,,,Radiocarbon years BP,620.0,300.0,pollen,6/30/2007,248.0,0.403225806452
+1643,Mansell Pond,45.041667,-68.733333,45.041667,45.041667,-68.733333,-68.733333,Vascular plants,Calla palustris,2.0,NISP,pollen,,6121.0,,,Radiocarbon years BP,1006.0,58.0,pollen,6/30/2007,1104.0,0.18115942029
+1643,Mansell Pond,45.041667,-68.733333,45.041667,45.041667,-68.733333,-68.733333,Vascular plants,Calla palustris,1.0,NISP,pollen,,6907.0,,,Radiocarbon years BP,1042.0,58.0,pollen,6/30/2007,1093.0,0.0914913083257
+1658,Baie des Onze Iles,46.746944,-73.130833,46.746944,46.746944,-73.130833,-73.130833,Vascular plants,Calla palustris,1.0,NISP,pollen,,,,,,85.0,395.0,pollen,6/30/2007,487.0,0.205338809035
+1659,Wapizagonke,46.726389,-73.030556,46.726389,46.726389,-73.030556,-73.030556,Vascular plants,Calla palustris,1.0,NISP,pollen,,5772.0,,,Radiocarbon years BP,375.0,230.0,pollen,6/30/2007,583.0,0.171526586621
+1660,Sud du Lac du Noyer,46.787778,-72.837778,46.787778,46.787778,-72.837778,-72.837778,Vascular plants,Calla palustris,1.0,NISP,pollen,,5602.0,,,Radiocarbon years BP,300.0,270.0,pollen,6/30/2007,426.0,0.234741784038
+2209,Lac Romer,45.963889,-73.330833,45.963889,45.963889,-73.330833,-73.330833,Vascular plants,Calla palustris,1.0,NISP,pollen,,0.0,,,Radiocarbon years BP,0.0,18.0,pollen,6/30/2007,427.0,0.234192037471
+2209,Lac Romer,45.963889,-73.330833,45.963889,45.963889,-73.330833,-73.330833,Vascular plants,Calla palustris,1.0,NISP,pollen,,225.0,,,Radiocarbon years BP,20.0,18.0,pollen,6/30/2007,987.0,0.101317122594
+2789,"Ulakhan Exposure, Adycha River",67.833333,135.583333,67.833333,67.833333,135.583333,135.583333,Vascular plants,Calla palustris,1.0,NISP,pollen,,4000.0,,,Radiocarbon years BP,0.0,130.0,pollen,6/30/2007,386.0,0.259067357513
+2789,"Ulakhan Exposure, Adycha River",67.833333,135.583333,67.833333,67.833333,135.583333,135.583333,Vascular plants,Calla palustris,2.0,NISP,pollen,,7177.0,,,Radiocarbon years BP,245.0,130.0,pollen,6/30/2007,268.0,0.746268656716
+3075,Czajkow,50.783333,21.283333,50.783333,50.783333,21.283333,21.283333,Vascular plants,Calla palustris,2.0,NISP,pollen,,213.0,,,Radiocarbon years BP,25.0,206.0,pollen,6/30/2007,496.0,0.403225806452

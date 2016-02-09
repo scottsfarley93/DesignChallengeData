@@ -1,0 +1,11 @@
+siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
+204,Andree Bog,45.725,-93.25,45.725,45.725,-93.25,-93.25,Vascular plants,Celtis occidentalis,2.0,NISP,pollen,,8970.0,,,Radiocarbon years BP,425.0,300.0,pollen,6/30/2007,557.0,0.359066427289
+204,Andree Bog,45.725,-93.25,45.725,45.725,-93.25,-93.25,Vascular plants,Celtis occidentalis,1.0,NISP,pollen,,9939.0,,,Radiocarbon years BP,505.0,300.0,pollen,6/30/2007,410.0,0.243902439024
+204,Andree Bog,45.725,-93.25,45.725,45.725,-93.25,-93.25,Vascular plants,Celtis occidentalis,1.0,NISP,pollen,,10061.0,,,Radiocarbon years BP,515.0,300.0,pollen,6/30/2007,968.0,0.103305785124
+204,Andree Bog,45.725,-93.25,45.725,45.725,-93.25,-93.25,Vascular plants,Celtis occidentalis,1.0,NISP,pollen,,10182.0,,,Radiocarbon years BP,525.0,300.0,pollen,6/30/2007,541.0,0.184842883549
+204,Andree Bog,45.725,-93.25,45.725,45.725,-93.25,-93.25,Vascular plants,Celtis occidentalis,1.0,NISP,pollen,,10606.0,,,Radiocarbon years BP,560.0,300.0,pollen,6/30/2007,558.0,0.179211469534
+204,Andree Bog,45.725,-93.25,45.725,45.725,-93.25,-93.25,Vascular plants,Celtis occidentalis,1.0,NISP,pollen,,11091.0,,,Radiocarbon years BP,600.0,300.0,pollen,6/30/2007,325.0,0.307692307692
+292,Bog D Pond,47.1775,-95.162675,47.178,47.177,-95.162,-95.16335,Vascular plants,Celtis occidentalis,1.0,NISP,pollen,,5243.0,,,Radiocarbon years BP,500.0,460.0,pollen,6/30/2007,340.0,0.294117647059
+292,Bog D Pond,47.1775,-95.162675,47.178,47.177,-95.162,-95.16335,Vascular plants,Celtis occidentalis,1.0,NISP,pollen,,5869.0,,,Radiocarbon years BP,540.0,460.0,pollen,6/30/2007,370.0,0.27027027027
+292,Bog D Pond,47.1775,-95.162675,47.178,47.177,-95.162,-95.16335,Vascular plants,Celtis occidentalis,1.0,NISP,pollen,,7433.0,,,Radiocarbon years BP,640.0,460.0,pollen,6/30/2007,392.0,0.255102040816
+292,Bog D Pond,47.1775,-95.162675,47.178,47.177,-95.162,-95.16335,Vascular plants,Celtis occidentalis,1.0,NISP,pollen,,10211.0,,,Radiocarbon years BP,790.0,460.0,pollen,6/30/2007,330.0,0.30303030303

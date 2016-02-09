@@ -1,0 +1,9 @@
+siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
+204,Andree Bog,45.725,-93.25,45.725,45.725,-93.25,-93.25,Vascular plants,Myriophyllum sibiricum-type,3.0,NISP,pollen,,8970.0,,,Radiocarbon years BP,425.0,300.0,pollen,6/30/2007,557.0,0.538599640934
+204,Andree Bog,45.725,-93.25,45.725,45.725,-93.25,-93.25,Vascular plants,Myriophyllum sibiricum-type,2.0,NISP,pollen,,10558.0,,,Radiocarbon years BP,556.0,300.0,pollen,6/30/2007,348.0,0.574712643678
+204,Andree Bog,45.725,-93.25,45.725,45.725,-93.25,-93.25,Vascular plants,Myriophyllum sibiricum-type,3.0,NISP,pollen,,10848.0,,,Radiocarbon years BP,580.0,300.0,pollen,6/30/2007,377.0,0.79575596817
+266,Big John Pond,47.559175,-94.970775,47.56018,47.55817,-94.96931,-94.97224,Vascular plants,Myriophyllum sibiricum-type,1.0,NISP,pollen,,873.0,,,Radiocarbon years BP,40.0,421.0,pollen,6/30/2007,265.0,0.377358490566
+266,Big John Pond,47.559175,-94.970775,47.56018,47.55817,-94.96931,-94.97224,Vascular plants,Myriophyllum sibiricum-type,1.0,NISP,pollen,,2758.0,,,Radiocarbon years BP,105.0,421.0,pollen,6/30/2007,294.5,0.339558573854
+266,Big John Pond,47.559175,-94.970775,47.56018,47.55817,-94.96931,-94.97224,Vascular plants,Myriophyllum sibiricum-type,1.0,NISP,pollen,,3348.0,,,Radiocarbon years BP,125.0,421.0,pollen,6/30/2007,415.5,0.240673886883
+266,Big John Pond,47.559175,-94.970775,47.56018,47.55817,-94.96931,-94.97224,Vascular plants,Myriophyllum sibiricum-type,7.0,NISP,pollen,,3937.0,,,Radiocarbon years BP,145.0,421.0,pollen,6/30/2007,387.5,1.8064516129
+266,Big John Pond,47.559175,-94.970775,47.56018,47.55817,-94.96931,-94.97224,Vascular plants,Myriophyllum sibiricum-type,2.0,NISP,pollen,,5559.0,,,Radiocarbon years BP,200.0,421.0,pollen,6/30/2007,418.0,0.478468899522

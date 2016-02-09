@@ -1,0 +1,64 @@
+siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
+204,Andree Bog,45.725,-93.25,45.725,45.725,-93.25,-93.25,Vascular plants,Pteridium aquilinum,10.0,NISP,spore,,8970.0,,,Radiocarbon years BP,425.0,300.0,pollen,6/30/2007,557.0,1.79533213645
+204,Andree Bog,45.725,-93.25,45.725,45.725,-93.25,-93.25,Vascular plants,Pteridium aquilinum,10.0,NISP,spore,,9212.0,,,Radiocarbon years BP,445.0,300.0,pollen,6/30/2007,489.0,2.04498977505
+204,Andree Bog,45.725,-93.25,45.725,45.725,-93.25,-93.25,Vascular plants,Pteridium aquilinum,1.0,NISP,spore,,9939.0,,,Radiocarbon years BP,505.0,300.0,pollen,6/30/2007,410.0,0.243902439024
+204,Andree Bog,45.725,-93.25,45.725,45.725,-93.25,-93.25,Vascular plants,Pteridium aquilinum,3.0,NISP,spore,,10182.0,,,Radiocarbon years BP,525.0,300.0,pollen,6/30/2007,541.0,0.554528650647
+204,Andree Bog,45.725,-93.25,45.725,45.725,-93.25,-93.25,Vascular plants,Pteridium aquilinum,1.0,NISP,spore,,10558.0,,,Radiocarbon years BP,556.0,300.0,pollen,6/30/2007,348.0,0.287356321839
+204,Andree Bog,45.725,-93.25,45.725,45.725,-93.25,-93.25,Vascular plants,Pteridium aquilinum,2.0,NISP,spore,,11030.0,,,Radiocarbon years BP,595.0,300.0,pollen,6/30/2007,223.0,0.896860986547
+204,Andree Bog,45.725,-93.25,45.725,45.725,-93.25,-93.25,Vascular plants,Pteridium aquilinum,1.0,NISP,spore,,11152.0,,,Radiocarbon years BP,605.0,300.0,pollen,6/30/2007,218.0,0.45871559633
+204,Andree Bog,45.725,-93.25,45.725,45.725,-93.25,-93.25,Vascular plants,Pteridium aquilinum,3.0,NISP,spore,,11333.0,,,Radiocarbon years BP,620.0,300.0,pollen,6/30/2007,248.0,1.20967741935
+276,Blackhoof Site,46.503333,-92.573333,46.503333,46.503333,-92.573333,-92.573333,Vascular plants,Pteridium aquilinum,4.0,NISP,spore,,9750.0,,,Radiocarbon years BP,58.0,328.0,pollen,6/30/2007,373.0,1.07238605898
+276,Blackhoof Site,46.503333,-92.573333,46.503333,46.503333,-92.573333,-92.573333,Vascular plants,Pteridium aquilinum,2.0,NISP,spore,,10000.0,,,Radiocarbon years BP,80.0,328.0,pollen,6/30/2007,345.0,0.579710144928
+276,Blackhoof Site,46.503333,-92.573333,46.503333,46.503333,-92.573333,-92.573333,Vascular plants,Pteridium aquilinum,6.0,NISP,spore,,10011.0,,,Radiocarbon years BP,81.0,328.0,pollen,6/30/2007,461.0,1.30151843818
+276,Blackhoof Site,46.503333,-92.573333,46.503333,46.503333,-92.573333,-92.573333,Vascular plants,Pteridium aquilinum,11.0,NISP,spore,,10034.0,,,Radiocarbon years BP,83.0,328.0,pollen,6/30/2007,649.0,1.69491525424
+276,Blackhoof Site,46.503333,-92.573333,46.503333,46.503333,-92.573333,-92.573333,Vascular plants,Pteridium aquilinum,1.0,NISP,spore,,10080.0,,,Radiocarbon years BP,87.0,328.0,pollen,6/30/2007,588.0,0.170068027211
+276,Blackhoof Site,46.503333,-92.573333,46.503333,46.503333,-92.573333,-92.573333,Vascular plants,Pteridium aquilinum,1.0,NISP,spore,,10193.0,,,Radiocarbon years BP,97.0,328.0,pollen,6/30/2007,337.0,0.296735905045
+292,Bog D Pond,47.1775,-95.162675,47.178,47.177,-95.162,-95.16335,Vascular plants,Pteridium aquilinum,1.0,NISP,spore,,50.0,,,Radiocarbon years BP,20.0,460.0,pollen,6/30/2007,460.0,0.217391304348
+292,Bog D Pond,47.1775,-95.162675,47.178,47.177,-95.162,-95.16335,Vascular plants,Pteridium aquilinum,1.0,NISP,spore,,75.0,,,Radiocarbon years BP,30.0,460.0,pollen,6/30/2007,386.0,0.259067357513
+292,Bog D Pond,47.1775,-95.162675,47.178,47.177,-95.162,-95.16335,Vascular plants,Pteridium aquilinum,1.0,NISP,spore,,1078.0,,,Radiocarbon years BP,120.0,460.0,pollen,6/30/2007,519.0,0.19267822736
+292,Bog D Pond,47.1775,-95.162675,47.178,47.177,-95.162,-95.16335,Vascular plants,Pteridium aquilinum,1.0,NISP,spore,,2668.0,,,Radiocarbon years BP,250.0,460.0,pollen,6/30/2007,394.0,0.253807106599
+292,Bog D Pond,47.1775,-95.162675,47.178,47.177,-95.162,-95.16335,Vascular plants,Pteridium aquilinum,1.0,NISP,spore,,3363.0,,,Radiocarbon years BP,340.0,460.0,pollen,6/30/2007,399.0,0.250626566416
+292,Bog D Pond,47.1775,-95.162675,47.178,47.177,-95.162,-95.16335,Vascular plants,Pteridium aquilinum,1.0,NISP,spore,,3512.0,,,Radiocarbon years BP,360.0,460.0,pollen,6/30/2007,602.0,0.166112956811
+292,Bog D Pond,47.1775,-95.162675,47.178,47.177,-95.162,-95.16335,Vascular plants,Pteridium aquilinum,2.0,NISP,spore,,4305.0,,,Radiocarbon years BP,440.0,460.0,pollen,6/30/2007,834.0,0.239808153477
+292,Bog D Pond,47.1775,-95.162675,47.178,47.177,-95.162,-95.16335,Vascular plants,Pteridium aquilinum,1.0,NISP,spore,,5556.0,,,Radiocarbon years BP,520.0,460.0,pollen,6/30/2007,325.0,0.307692307692
+292,Bog D Pond,47.1775,-95.162675,47.178,47.177,-95.162,-95.16335,Vascular plants,Pteridium aquilinum,1.0,NISP,spore,,7433.0,,,Radiocarbon years BP,640.0,460.0,pollen,6/30/2007,392.0,0.255102040816
+292,Bog D Pond,47.1775,-95.162675,47.178,47.177,-95.162,-95.16335,Vascular plants,Pteridium aquilinum,2.0,NISP,spore,,7746.0,,,Radiocarbon years BP,660.0,460.0,pollen,6/30/2007,417.0,0.479616306954
+292,Bog D Pond,47.1775,-95.162675,47.178,47.177,-95.162,-95.16335,Vascular plants,Pteridium aquilinum,2.0,NISP,spore,,8372.0,,,Radiocarbon years BP,700.0,460.0,pollen,6/30/2007,372.0,0.537634408602
+292,Bog D Pond,47.1775,-95.162675,47.178,47.177,-95.162,-95.16335,Vascular plants,Pteridium aquilinum,4.0,NISP,spore,,8528.0,,,Radiocarbon years BP,710.0,460.0,pollen,6/30/2007,328.0,1.21951219512
+292,Bog D Pond,47.1775,-95.162675,47.178,47.177,-95.162,-95.16335,Vascular plants,Pteridium aquilinum,2.0,NISP,spore,,8729.0,,,Radiocarbon years BP,720.0,460.0,pollen,6/30/2007,419.0,0.477326968974
+292,Bog D Pond,47.1775,-95.162675,47.178,47.177,-95.162,-95.16335,Vascular plants,Pteridium aquilinum,8.0,NISP,spore,,9152.0,,,Radiocarbon years BP,740.0,460.0,pollen,6/30/2007,423.0,1.89125295508
+292,Bog D Pond,47.1775,-95.162675,47.178,47.177,-95.162,-95.16335,Vascular plants,Pteridium aquilinum,12.0,NISP,spore,,9576.0,,,Radiocarbon years BP,760.0,460.0,pollen,6/30/2007,453.0,2.64900662252
+292,Bog D Pond,47.1775,-95.162675,47.178,47.177,-95.162,-95.16335,Vascular plants,Pteridium aquilinum,11.0,NISP,spore,,10000.0,,,Radiocarbon years BP,780.0,460.0,pollen,6/30/2007,395.0,2.78481012658
+296,Boone Lake,55.575,-119.433333,55.575,55.575,-119.433333,-119.433333,Vascular plants,Pteridium aquilinum,1.0,NISP,spore,,8836.0,,,Radiocarbon years BP,460.0,872.0,pollen,6/30/2007,556.0,0.179856115108
+296,Boone Lake,55.575,-119.433333,55.575,55.575,-119.433333,-119.433333,Vascular plants,Pteridium aquilinum,1.0,NISP,spore,,11796.0,,,Radiocarbon years BP,540.0,872.0,pollen,6/30/2007,142.0,0.704225352113
+344,Cedar Bog,45.411111,-93.197222,45.411111,45.411111,-93.197222,-93.197222,Vascular plants,Pteridium aquilinum,4.0,NISP,spore,,-10.0,,,Radiocarbon years BP,130.0,,pollen,6/30/2007,607.0,0.658978583196
+344,Cedar Bog,45.411111,-93.197222,45.411111,45.411111,-93.197222,-93.197222,Vascular plants,Pteridium aquilinum,3.0,NISP,spore,,45.0,,,Radiocarbon years BP,150.0,,pollen,6/30/2007,857.0,0.350058343057
+344,Cedar Bog,45.411111,-93.197222,45.411111,45.411111,-93.197222,-93.197222,Vascular plants,Pteridium aquilinum,2.0,NISP,spore,,1812.0,,,Radiocarbon years BP,270.0,,pollen,6/30/2007,545.0,0.366972477064
+344,Cedar Bog,45.411111,-93.197222,45.411111,45.411111,-93.197222,-93.197222,Vascular plants,Pteridium aquilinum,1.0,NISP,spore,,4313.0,,,Radiocarbon years BP,430.0,,pollen,6/30/2007,305.0,0.327868852459
+344,Cedar Bog,45.411111,-93.197222,45.411111,45.411111,-93.197222,-93.197222,Vascular plants,Pteridium aquilinum,1.0,NISP,spore,,4590.0,,,Radiocarbon years BP,470.0,,pollen,6/30/2007,520.0,0.192307692308
+344,Cedar Bog,45.411111,-93.197222,45.411111,45.411111,-93.197222,-93.197222,Vascular plants,Pteridium aquilinum,1.0,NISP,spore,,5698.0,,,Radiocarbon years BP,630.0,,pollen,6/30/2007,611.0,0.163666121113
+344,Cedar Bog,45.411111,-93.197222,45.411111,45.411111,-93.197222,-93.197222,Vascular plants,Pteridium aquilinum,2.0,NISP,spore,,5975.0,,,Radiocarbon years BP,670.0,,pollen,6/30/2007,775.0,0.258064516129
+344,Cedar Bog,45.411111,-93.197222,45.411111,45.411111,-93.197222,-93.197222,Vascular plants,Pteridium aquilinum,1.0,NISP,spore,,6252.0,,,Radiocarbon years BP,710.0,,pollen,6/30/2007,309.0,0.323624595469
+344,Cedar Bog,45.411111,-93.197222,45.411111,45.411111,-93.197222,-93.197222,Vascular plants,Pteridium aquilinum,2.0,NISP,spore,,6529.0,,,Radiocarbon years BP,750.0,,pollen,6/30/2007,288.0,0.694444444444
+344,Cedar Bog,45.411111,-93.197222,45.411111,45.411111,-93.197222,-93.197222,Vascular plants,Pteridium aquilinum,4.0,NISP,spore,,6806.0,,,Radiocarbon years BP,790.0,,pollen,6/30/2007,511.0,0.782778864971
+344,Cedar Bog,45.411111,-93.197222,45.411111,45.411111,-93.197222,-93.197222,Vascular plants,Pteridium aquilinum,11.0,NISP,spore,,7083.0,,,Radiocarbon years BP,830.0,,pollen,6/30/2007,1094.0,1.00548446069
+344,Cedar Bog,45.411111,-93.197222,45.411111,45.411111,-93.197222,-93.197222,Vascular plants,Pteridium aquilinum,5.0,NISP,spore,,7638.0,,,Radiocarbon years BP,910.0,,pollen,6/30/2007,293.0,1.70648464164
+344,Cedar Bog,45.411111,-93.197222,45.411111,45.411111,-93.197222,-93.197222,Vascular plants,Pteridium aquilinum,14.0,NISP,spore,,7902.0,,,Radiocarbon years BP,950.0,,pollen,6/30/2007,561.0,2.49554367201
+344,Cedar Bog,45.411111,-93.197222,45.411111,45.411111,-93.197222,-93.197222,Vascular plants,Pteridium aquilinum,3.0,NISP,spore,,8079.0,,,Radiocarbon years BP,990.0,,pollen,6/30/2007,213.0,1.40845070423
+344,Cedar Bog,45.411111,-93.197222,45.411111,45.411111,-93.197222,-93.197222,Vascular plants,Pteridium aquilinum,7.0,NISP,spore,,8255.0,,,Radiocarbon years BP,1030.0,,pollen,6/30/2007,1003.0,0.697906281157
+344,Cedar Bog,45.411111,-93.197222,45.411111,45.411111,-93.197222,-93.197222,Vascular plants,Pteridium aquilinum,2.0,NISP,spore,,8432.0,,,Radiocarbon years BP,1070.0,,pollen,6/30/2007,634.0,0.315457413249
+344,Cedar Bog,45.411111,-93.197222,45.411111,45.411111,-93.197222,-93.197222,Vascular plants,Pteridium aquilinum,5.0,NISP,spore,,8609.0,,,Radiocarbon years BP,1110.0,,pollen,6/30/2007,266.0,1.87969924812
+344,Cedar Bog,45.411111,-93.197222,45.411111,45.411111,-93.197222,-93.197222,Vascular plants,Pteridium aquilinum,6.0,NISP,spore,,8785.0,,,Radiocarbon years BP,1150.0,,pollen,6/30/2007,840.0,0.714285714286
+344,Cedar Bog,45.411111,-93.197222,45.411111,45.411111,-93.197222,-93.197222,Vascular plants,Pteridium aquilinum,3.0,NISP,spore,,8962.0,,,Radiocarbon years BP,1190.0,,pollen,6/30/2007,663.0,0.452488687783
+344,Cedar Bog,45.411111,-93.197222,45.411111,45.411111,-93.197222,-93.197222,Vascular plants,Pteridium aquilinum,3.0,NISP,spore,,9139.0,,,Radiocarbon years BP,1230.0,,pollen,6/30/2007,384.0,0.78125
+344,Cedar Bog,45.411111,-93.197222,45.411111,45.411111,-93.197222,-93.197222,Vascular plants,Pteridium aquilinum,5.0,NISP,spore,,9315.0,,,Radiocarbon years BP,1270.0,,pollen,6/30/2007,576.0,0.868055555556
+344,Cedar Bog,45.411111,-93.197222,45.411111,45.411111,-93.197222,-93.197222,Vascular plants,Pteridium aquilinum,6.0,NISP,spore,,9483.0,,,Radiocarbon years BP,1308.0,,pollen,6/30/2007,417.0,1.43884892086
+344,Cedar Bog,45.411111,-93.197222,45.411111,45.411111,-93.197222,-93.197222,Vascular plants,Pteridium aquilinum,20.0,NISP,spore,,9656.0,,,Radiocarbon years BP,1347.0,,pollen,6/30/2007,651.0,3.07219662058
+344,Cedar Bog,45.411111,-93.197222,45.411111,45.411111,-93.197222,-93.197222,Vascular plants,Pteridium aquilinum,18.0,NISP,spore,,9832.0,,,Radiocarbon years BP,1387.0,,pollen,6/30/2007,524.0,3.43511450382
+344,Cedar Bog,45.411111,-93.197222,45.411111,45.411111,-93.197222,-93.197222,Vascular plants,Pteridium aquilinum,9.0,NISP,spore,,10009.0,,,Radiocarbon years BP,1427.0,,pollen,6/30/2007,566.0,1.59010600707
+344,Cedar Bog,45.411111,-93.197222,45.411111,45.411111,-93.197222,-93.197222,Vascular plants,Pteridium aquilinum,8.0,NISP,spore,,10186.0,,,Radiocarbon years BP,1467.0,,pollen,6/30/2007,608.0,1.31578947368
+344,Cedar Bog,45.411111,-93.197222,45.411111,45.411111,-93.197222,-93.197222,Vascular plants,Pteridium aquilinum,6.0,NISP,spore,,10627.0,,,Radiocarbon years BP,1567.0,,pollen,6/30/2007,903.0,0.664451827243
+344,Cedar Bog,45.411111,-93.197222,45.411111,45.411111,-93.197222,-93.197222,Vascular plants,Pteridium aquilinum,5.0,NISP,spore,,10716.0,,,Radiocarbon years BP,1587.0,,pollen,6/30/2007,505.0,0.990099009901
+344,Cedar Bog,45.411111,-93.197222,45.411111,45.411111,-93.197222,-93.197222,Vascular plants,Pteridium aquilinum,5.0,NISP,spore,,10848.0,,,Radiocarbon years BP,1617.0,,pollen,6/30/2007,507.0,0.986193293886
+344,Cedar Bog,45.411111,-93.197222,45.411111,45.411111,-93.197222,-93.197222,Vascular plants,Pteridium aquilinum,2.0,NISP,spore,,10936.0,,,Radiocarbon years BP,1637.0,,pollen,6/30/2007,541.0,0.369685767098
+344,Cedar Bog,45.411111,-93.197222,45.411111,45.411111,-93.197222,-93.197222,Vascular plants,Pteridium aquilinum,2.0,NISP,spore,,11025.0,,,Radiocarbon years BP,1657.0,,pollen,6/30/2007,388.0,0.515463917526

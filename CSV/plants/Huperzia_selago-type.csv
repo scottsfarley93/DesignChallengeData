@@ -1,0 +1,6 @@
+siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
+69,Amguema River Valley Exposure 2,67.666667,178.6,67.666667,67.666667,178.6,178.6,Vascular plants,Huperzia selago-type,1.0,NISP,spore,,2000.0,,,Radiocarbon years BP,100.0,87.0,pollen,6/30/2007,313.0,0.319488817891
+69,Amguema River Valley Exposure 2,67.666667,178.6,67.666667,67.666667,178.6,178.6,Vascular plants,Huperzia selago-type,1.0,NISP,spore,,2324.0,,,Radiocarbon years BP,300.0,87.0,pollen,6/30/2007,109.0,0.917431192661
+70,Amguema River Valley Exposure 3,67.3,178.8,67.3,67.3,178.8,178.8,Vascular plants,Huperzia selago-type,1.0,NISP,spore,,,,,Radiocarbon years BP,20.0,83.0,pollen,6/30/2007,274.0,0.36496350365
+70,Amguema River Valley Exposure 3,67.3,178.8,67.3,67.3,178.8,178.8,Vascular plants,Huperzia selago-type,2.0,NISP,spore,,,,,Radiocarbon years BP,100.0,83.0,pollen,6/30/2007,227.0,0.881057268722
+70,Amguema River Valley Exposure 3,67.3,178.8,67.3,67.3,178.8,178.8,Vascular plants,Huperzia selago-type,1.0,NISP,spore,,,,,Radiocarbon years BP,700.0,83.0,pollen,6/30/2007,40.0,2.5

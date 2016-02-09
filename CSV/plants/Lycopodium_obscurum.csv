@@ -1,0 +1,57 @@
+siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
+1,15/1,55.091667,-75.25,55.091667,55.091667,-75.25,-75.25,Vascular plants,Lycopodium obscurum,2.0,NISP,spore,,,,,,0.0,244.0,pollen surface sample,6/30/2007,,
+2,15/2,55.833333,-75.016667,55.833333,55.833333,-75.016667,-75.016667,Vascular plants,Lycopodium obscurum,1.0,NISP,spore,,,,,,0.0,305.0,pollen surface sample,6/30/2007,,
+4,17/1,55.066667,-75.7,55.066667,55.066667,-75.7,-75.7,Vascular plants,Lycopodium obscurum,1.0,NISP,spore,,,,,,0.0,235.0,pollen surface sample,6/30/2007,,
+5,17/2,55.25,-74.933333,55.25,55.25,-74.933333,-74.933333,Vascular plants,Lycopodium obscurum,1.0,NISP,spore,,,,,,0.0,335.0,pollen surface sample,6/30/2007,,
+235,Lac Bastien,46.4,-78.916667,46.4,46.4,-78.916667,-78.916667,Vascular plants,Lycopodium obscurum,1.0,NISP,spore,,1691.0,,,Radiocarbon years BP,1000.0,305.0,pollen,6/30/2007,1069.0,0.0935453695042
+256,BI01,57.113333,-76.39,57.113333,57.113333,-76.39,-76.39,Vascular plants,Lycopodium obscurum,2.0,NISP,spore,,,,,,0.0,190.0,pollen surface sample,6/30/2007,,
+257,Lake BI2,57.116667,-76.378333,57.116667,57.116667,-76.378333,-76.378333,Vascular plants,Lycopodium obscurum,2.0,NISP,spore,,,,,,0.0,210.0,pollen surface sample,6/30/2007,,
+260,BI05,57.125,-76.408333,57.125,57.125,-76.408333,-76.408333,Vascular plants,Lycopodium obscurum,2.0,NISP,spore,,,,,,0.0,260.0,pollen surface sample,6/30/2007,,
+274,Blandin Pond,47.133333,-93.666667,47.133333,47.133333,-93.666667,-93.666667,Vascular plants,Lycopodium obscurum,1.0,NISP,spore,,483.0,,,Radiocarbon years BP,121.0,468.0,pollen,6/30/2007,428.0,0.233644859813
+282,Lake BN1,55.0,-73.516667,55.0,55.0,-73.516667,-73.516667,Vascular plants,Lycopodium obscurum,1.0,NISP,spore,,,,,,0.0,395.0,pollen surface sample,6/30/2007,,
+283,Lake BN3,55.0,-73.561667,55.0,55.0,-73.561667,-73.561667,Vascular plants,Lycopodium obscurum,1.0,NISP,spore,,,,,,0.0,395.0,pollen surface sample,6/30/2007,,
+287,Lake BN5B,55.003333,-73.545,55.003333,55.003333,-73.545,-73.545,Vascular plants,Lycopodium obscurum,1.0,NISP,spore,,,,,,0.0,395.0,pollen surface sample,6/30/2007,,
+309,Browns Pond,38.154722,-79.616389,38.154722,38.154722,-79.616389,-79.616389,Vascular plants,Lycopodium obscurum,1.0,NISP,spore,,8977.0,,,Radiocarbon years BP,150.0,620.0,pollen,6/30/2007,442.0,0.226244343891
+353,Chase Pond,45.651389,-60.675,45.651389,45.651389,-60.675,-60.675,Vascular plants,Lycopodium obscurum,3.0,NISP,spore,,9290.0,,,Radiocarbon years BP,473.0,15.0,pollen,6/30/2007,326.0,0.920245398773
+353,Chase Pond,45.651389,-60.675,45.651389,45.651389,-60.675,-60.675,Vascular plants,Lycopodium obscurum,1.0,NISP,spore,,9389.0,,,Radiocarbon years BP,479.0,15.0,pollen,6/30/2007,411.0,0.243309002433
+353,Chase Pond,45.651389,-60.675,45.651389,45.651389,-60.675,-60.675,Vascular plants,Lycopodium obscurum,5.0,NISP,spore,,9471.0,,,Radiocarbon years BP,485.0,15.0,pollen,6/30/2007,394.0,1.26903553299
+353,Chase Pond,45.651389,-60.675,45.651389,45.651389,-60.675,-60.675,Vascular plants,Lycopodium obscurum,10.0,NISP,spore,,9553.0,,,Radiocarbon years BP,491.0,15.0,pollen,6/30/2007,336.0,2.97619047619
+353,Chase Pond,45.651389,-60.675,45.651389,45.651389,-60.675,-60.675,Vascular plants,Lycopodium obscurum,8.0,NISP,spore,,9632.0,,,Radiocarbon years BP,496.0,15.0,pollen,6/30/2007,654.0,1.22324159021
+353,Chase Pond,45.651389,-60.675,45.651389,45.651389,-60.675,-60.675,Vascular plants,Lycopodium obscurum,4.0,NISP,spore,,9688.0,,,Radiocarbon years BP,499.0,15.0,pollen,6/30/2007,569.0,0.702987697715
+353,Chase Pond,45.651389,-60.675,45.651389,45.651389,-60.675,-60.675,Vascular plants,Lycopodium obscurum,6.0,NISP,spore,,9821.0,,,Radiocarbon years BP,505.0,15.0,pollen,6/30/2007,541.0,1.10905730129
+353,Chase Pond,45.651389,-60.675,45.651389,45.651389,-60.675,-60.675,Vascular plants,Lycopodium obscurum,3.0,NISP,spore,,9931.0,,,Radiocarbon years BP,509.0,15.0,pollen,6/30/2007,351.0,0.854700854701
+353,Chase Pond,45.651389,-60.675,45.651389,45.651389,-60.675,-60.675,Vascular plants,Lycopodium obscurum,10.0,NISP,spore,,9992.0,,,Radiocarbon years BP,511.0,15.0,pollen,6/30/2007,368.0,2.71739130435
+353,Chase Pond,45.651389,-60.675,45.651389,45.651389,-60.675,-60.675,Vascular plants,Lycopodium obscurum,4.0,NISP,spore,,10094.0,,,Radiocarbon years BP,514.0,15.0,pollen,6/30/2007,240.0,1.66666666667
+353,Chase Pond,45.651389,-60.675,45.651389,45.651389,-60.675,-60.675,Vascular plants,Lycopodium obscurum,5.0,NISP,spore,,10167.0,,,Radiocarbon years BP,516.0,15.0,pollen,6/30/2007,290.0,1.72413793103
+353,Chase Pond,45.651389,-60.675,45.651389,45.651389,-60.675,-60.675,Vascular plants,Lycopodium obscurum,2.0,NISP,spore,,10287.0,,,Radiocarbon years BP,519.0,15.0,pollen,6/30/2007,298.0,0.671140939597
+353,Chase Pond,45.651389,-60.675,45.651389,45.651389,-60.675,-60.675,Vascular plants,Lycopodium obscurum,2.0,NISP,spore,,10374.0,,,Radiocarbon years BP,521.0,15.0,pollen,6/30/2007,257.0,0.778210116732
+353,Chase Pond,45.651389,-60.675,45.651389,45.651389,-60.675,-60.675,Vascular plants,Lycopodium obscurum,1.0,NISP,spore,,10561.0,,,Radiocarbon years BP,525.0,15.0,pollen,6/30/2007,246.0,0.406504065041
+353,Chase Pond,45.651389,-60.675,45.651389,45.651389,-60.675,-60.675,Vascular plants,Lycopodium obscurum,1.0,NISP,spore,,10936.0,,,Radiocarbon years BP,532.0,15.0,pollen,6/30/2007,286.0,0.34965034965
+353,Chase Pond,45.651389,-60.675,45.651389,45.651389,-60.675,-60.675,Vascular plants,Lycopodium obscurum,5.0,NISP,spore,,10994.0,,,Radiocarbon years BP,533.0,15.0,pollen,6/30/2007,278.0,1.79856115108
+353,Chase Pond,45.651389,-60.675,45.651389,45.651389,-60.675,-60.675,Vascular plants,Lycopodium obscurum,3.0,NISP,spore,,11175.0,,,Radiocarbon years BP,536.0,15.0,pollen,6/30/2007,309.0,0.970873786408
+353,Chase Pond,45.651389,-60.675,45.651389,45.651389,-60.675,-60.675,Vascular plants,Lycopodium obscurum,1.0,NISP,spore,,11300.0,,,Radiocarbon years BP,538.0,15.0,pollen,6/30/2007,317.0,0.315457413249
+353,Chase Pond,45.651389,-60.675,45.651389,45.651389,-60.675,-60.675,Vascular plants,Lycopodium obscurum,3.0,NISP,spore,,11429.0,,,Radiocarbon years BP,540.0,15.0,pollen,6/30/2007,334.0,0.898203592814
+353,Chase Pond,45.651389,-60.675,45.651389,45.651389,-60.675,-60.675,Vascular plants,Lycopodium obscurum,2.0,NISP,spore,,11561.0,,,Radiocarbon years BP,542.0,15.0,pollen,6/30/2007,312.0,0.641025641026
+353,Chase Pond,45.651389,-60.675,45.651389,45.651389,-60.675,-60.675,Vascular plants,Lycopodium obscurum,2.0,NISP,spore,,11834.0,,,Radiocarbon years BP,546.0,15.0,pollen,6/30/2007,346.0,0.578034682081
+353,Chase Pond,45.651389,-60.675,45.651389,45.651389,-60.675,-60.675,Vascular plants,Lycopodium obscurum,4.0,NISP,spore,,11973.0,,,Radiocarbon years BP,548.0,15.0,pollen,6/30/2007,280.0,1.42857142857
+353,Chase Pond,45.651389,-60.675,45.651389,45.651389,-60.675,-60.675,Vascular plants,Lycopodium obscurum,2.0,NISP,spore,,12543.0,,,Radiocarbon years BP,556.0,15.0,pollen,6/30/2007,342.0,0.584795321637
+353,Chase Pond,45.651389,-60.675,45.651389,45.651389,-60.675,-60.675,Vascular plants,Lycopodium obscurum,4.0,NISP,spore,,12827.0,,,Radiocarbon years BP,560.0,15.0,pollen,6/30/2007,328.0,1.21951219512
+353,Chase Pond,45.651389,-60.675,45.651389,45.651389,-60.675,-60.675,Vascular plants,Lycopodium obscurum,4.0,NISP,spore,,13721.0,,,Radiocarbon years BP,574.0,15.0,pollen,6/30/2007,315.0,1.26984126984
+353,Chase Pond,45.651389,-60.675,45.651389,45.651389,-60.675,-60.675,Vascular plants,Lycopodium obscurum,1.0,NISP,spore,,14086.0,,,Radiocarbon years BP,582.0,15.0,pollen,6/30/2007,289.0,0.346020761246
+353,Chase Pond,45.651389,-60.675,45.651389,45.651389,-60.675,-60.675,Vascular plants,Lycopodium obscurum,2.0,NISP,spore,,14151.0,,,Radiocarbon years BP,584.0,15.0,pollen,6/30/2007,280.0,0.714285714286
+489,Compass Pond,50.034167,-56.196389,50.034167,50.034167,-56.196389,-56.196389,Vascular plants,Lycopodium obscurum,1.0,NISP,spore,,8925.0,,,Radiocarbon years BP,460.0,236.0,pollen,6/30/2007,375.0,0.266666666667
+489,Compass Pond,50.034167,-56.196389,50.034167,50.034167,-56.196389,-56.196389,Vascular plants,Lycopodium obscurum,1.0,NISP,spore,,10018.0,,,Radiocarbon years BP,500.0,236.0,pollen,6/30/2007,321.0,0.311526479751
+489,Compass Pond,50.034167,-56.196389,50.034167,50.034167,-56.196389,-56.196389,Vascular plants,Lycopodium obscurum,1.0,NISP,spore,,11385.0,,,Radiocarbon years BP,550.0,236.0,pollen,6/30/2007,117.0,0.854700854701
+745,Upper Wallface Pond,44.146389,-74.054167,44.146389,44.146389,-74.054167,-74.054167,Vascular plants,Lycopodium obscurum,1.0,NISP,spore,,,,,,0.0,948.0,pollen surface sample,6/30/2007,,
+760,Easel,54.766667,-66.766667,54.766667,54.766667,-66.766667,-66.766667,Vascular plants,Lycopodium obscurum,1.0,NISP,spore,,,,,,0.0,505.0,pollen surface sample,6/30/2007,,
+846,Glacial Lake,64.866667,-166.266667,64.866667,64.866667,-166.266667,-166.266667,Vascular plants,Lycopodium obscurum,2.0,NISP,spore,,8915.0,,,Radiocarbon years BP,747.0,120.0,pollen,6/30/2007,330.0,0.606060606061
+940,Goshen Springs,31.721111,-86.134167,31.721111,31.721111,-86.134167,-86.134167,Vascular plants,Lycopodium obscurum,1.0,NISP,spore,,15482.0,,,Radiocarbon years BP,225.0,105.0,pollen,6/30/2007,395.0,0.253164556962
+970,Hail Lake,60.033333,-129.016667,60.033333,60.033333,-129.016667,-129.016667,Vascular plants,Lycopodium obscurum,1.0,NISP,spore,,3648.0,,,Radiocarbon years BP,158.0,690.0,pollen,6/30/2007,563.0,0.177619893428
+971,Hams Lake,43.236667,-80.413333,43.236667,43.236667,-80.413333,-80.413333,Vascular plants,Lycopodium obscurum,1.0,NISP,spore,,2982.0,,,Radiocarbon years BP,1018.0,301.0,pollen,6/30/2007,953.0,0.104931794334
+972,Hanging Lake,68.383333,-138.383333,68.383333,68.383333,-138.383333,-138.383333,Vascular plants,Lycopodium obscurum,1.0,NISP,spore,,8680.0,,,Radiocarbon years BP,104.0,500.0,pollen,6/30/2007,543.0,0.184162062615
+972,Hanging Lake,68.383333,-138.383333,68.383333,68.383333,-138.383333,-138.383333,Vascular plants,Lycopodium obscurum,1.0,NISP,spore,,8817.0,,,Radiocarbon years BP,108.0,500.0,pollen,6/30/2007,866.0,0.115473441109
+1079,Houston,54.716667,-66.666667,54.716667,54.716667,-66.666667,-66.666667,Vascular plants,Lycopodium obscurum,2.0,NISP,spore,,,,,,0.0,564.0,pollen surface sample,6/30/2007,,
+1119,Irvin Lake,47.135556,-93.643611,47.135556,47.135556,-93.643611,-93.643611,Vascular plants,Lycopodium obscurum,1.0,NISP,spore,,492.0,,,Radiocarbon years BP,20.0,478.0,pollen,6/30/2007,472.0,0.21186440678
+1119,Irvin Lake,47.135556,-93.643611,47.135556,47.135556,-93.643611,-93.643611,Vascular plants,Lycopodium obscurum,1.0,NISP,spore,,1991.0,,,Radiocarbon years BP,145.0,478.0,pollen,6/30/2007,336.0,0.297619047619
+1125,Jackson Pond,37.43255,-85.72462,37.43362,37.43148,-85.72294,-85.7263,Vascular plants,Lycopodium obscurum,1.0,NISP,spore,,6931.0,,,Radiocarbon years BP,200.0,260.0,pollen,6/30/2007,446.0,0.224215246637
+1125,Jackson Pond,37.43255,-85.72462,37.43362,37.43148,-85.72294,-85.7263,Vascular plants,Lycopodium obscurum,1.0,NISP,spore,,11125.0,,,Radiocarbon years BP,250.0,260.0,pollen,6/30/2007,453.0,0.220750551876
