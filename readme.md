@@ -14,7 +14,8 @@ Several files are provided to help you contextualize the given dataset.  These i
 
 ## Main.csv
 This file gives a listing of the taxa included within the given data sets. 
-Fields:  
+Fields: 
+ 
 	* Taxon Name:  The scientific (latin) name of the taxon
 	* numOccurrences:  The number of records each taxon has (and that you can expect to find within that data file).  This can be used to prioritize "important" species.
 	* fileName: A relative path to the file from either the shapefile or the csv data directory.
@@ -22,6 +23,7 @@ Fields:
 ##Common.csv
 This file provides a bridge between the scientific and common/english name of a taxon.
 Fields:
+
 	* Taxon  Name: The scientific name of the species (as can be found in main.csv)
 	* Common names:  These are possible matches given by the itis.gov service.  Some types have no common names, some have many.  The names are designed to provide context, and it may be beneficial to check wikipedia or another source if an exact match is required.
 	
@@ -29,6 +31,7 @@ Fields:
 ##Taxonomy.csv
 This file enables finding patterns between higher groups of taxa (families, orders, etc).  Some taxa have more detailed hierarchies (i.e., sub-orders) however, most are complete down to the familiy level, and some go all the way from kingdom to species.  Again, a trip to wikipedia may be helpful here.
 Fields:
+
 	* Taxon Name: The scientific name of the the taxon
 	* Taxonomy:  The following fields describe the taxonomic hierarchy of the species from most general (kingdom) to most specific (species).  Completeness varies.
 
@@ -41,6 +44,7 @@ NOT ALL RECORDS IN A SINGLE TAXA FILE CONTAIN THE SAME VARIABLES.  This is espec
 
 
 Fields:
+
 	* siteID:  This is an integer field that represents the site identifier as specified by the database we used to obtain the data.  It is not essential, however, for the intrrepid data explorer, it can be used to link specimens at single sites in a more exact way than say, a spatial join.
 	* siteName: The textual name of the site where the specimen was found or the core taken.
 	* lng: The longitude (x-coordinate in WGS1984) of the specimen).  This is the mean of the bounding box longitudes.
