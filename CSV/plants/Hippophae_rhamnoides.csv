@@ -1,0 +1,114 @@
+siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Hippophae rhamnoides,1.0,NISP,pollen,,253.0,,,Radiocarbon years BP,50.0,,pollen,6/30/2007,289.0,0.346020761246
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Hippophae rhamnoides,1.0,NISP,pollen,,2087.0,,,Radiocarbon years BP,280.0,,pollen,6/30/2007,456.0,0.219298245614
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Hippophae rhamnoides,3.0,NISP,pollen,,2204.0,,,Radiocarbon years BP,320.0,,pollen,6/30/2007,406.0,0.738916256158
+1403,Kardashinski Swamp,46.516667,32.616667,46.516667,46.516667,32.616667,32.616667,Vascular plants,Hippophae rhamnoides,1.0,NISP,pollen,,4948.0,,,Radiocarbon years BP,220.0,4.0,pollen,6/30/2007,457.0,0.218818380744
+1786,Ozerki,50.416667,80.466667,50.416667,50.416667,80.466667,80.466667,Vascular plants,Hippophae rhamnoides,2.0,NISP,pollen,,6003.0,,,Radiocarbon years BP,180.0,,pollen,6/30/2007,257.0,0.778210116732
+1786,Ozerki,50.416667,80.466667,50.416667,50.416667,80.466667,80.466667,Vascular plants,Hippophae rhamnoides,1.0,NISP,pollen,,6450.0,,,Radiocarbon years BP,240.0,,pollen,6/30/2007,255.0,0.392156862745
+1786,Ozerki,50.416667,80.466667,50.416667,50.416667,80.466667,80.466667,Vascular plants,Hippophae rhamnoides,1.0,NISP,pollen,,6597.0,,,Radiocarbon years BP,250.0,,pollen,6/30/2007,303.0,0.3300330033
+1786,Ozerki,50.416667,80.466667,50.416667,50.416667,80.466667,80.466667,Vascular plants,Hippophae rhamnoides,3.0,NISP,pollen,,6744.0,,,Radiocarbon years BP,260.0,,pollen,6/30/2007,351.0,0.854700854701
+1786,Ozerki,50.416667,80.466667,50.416667,50.416667,80.466667,80.466667,Vascular plants,Hippophae rhamnoides,1.0,NISP,pollen,,6892.0,,,Radiocarbon years BP,270.0,,pollen,6/30/2007,224.0,0.446428571429
+1786,Ozerki,50.416667,80.466667,50.416667,50.416667,80.466667,80.466667,Vascular plants,Hippophae rhamnoides,1.0,NISP,pollen,,7186.0,,,Radiocarbon years BP,290.0,,pollen,6/30/2007,351.0,0.2849002849
+1786,Ozerki,50.416667,80.466667,50.416667,50.416667,80.466667,80.466667,Vascular plants,Hippophae rhamnoides,1.0,NISP,pollen,,7343.0,,,Radiocarbon years BP,300.0,,pollen,6/30/2007,300.0,0.333333333333
+1786,Ozerki,50.416667,80.466667,50.416667,50.416667,80.466667,80.466667,Vascular plants,Hippophae rhamnoides,2.0,NISP,pollen,,7677.0,,,Radiocarbon years BP,320.0,,pollen,6/30/2007,338.0,0.591715976331
+1786,Ozerki,50.416667,80.466667,50.416667,50.416667,80.466667,80.466667,Vascular plants,Hippophae rhamnoides,1.0,NISP,pollen,,7843.0,,,Radiocarbon years BP,330.0,,pollen,6/30/2007,348.0,0.287356321839
+1786,Ozerki,50.416667,80.466667,50.416667,50.416667,80.466667,80.466667,Vascular plants,Hippophae rhamnoides,1.0,NISP,pollen,,8010.0,,,Radiocarbon years BP,340.0,,pollen,6/30/2007,226.0,0.442477876106
+1786,Ozerki,50.416667,80.466667,50.416667,50.416667,80.466667,80.466667,Vascular plants,Hippophae rhamnoides,3.0,NISP,pollen,,8177.0,,,Radiocarbon years BP,350.0,,pollen,6/30/2007,271.0,1.10701107011
+1786,Ozerki,50.416667,80.466667,50.416667,50.416667,80.466667,80.466667,Vascular plants,Hippophae rhamnoides,1.0,NISP,pollen,,8510.0,,,Radiocarbon years BP,370.0,,pollen,6/30/2007,256.0,0.390625
+1786,Ozerki,50.416667,80.466667,50.416667,50.416667,80.466667,80.466667,Vascular plants,Hippophae rhamnoides,1.0,NISP,pollen,,8818.0,,,Radiocarbon years BP,380.0,,pollen,6/30/2007,229.0,0.436681222707
+1786,Ozerki,50.416667,80.466667,50.416667,50.416667,80.466667,80.466667,Vascular plants,Hippophae rhamnoides,4.0,NISP,pollen,,9550.0,,,Radiocarbon years BP,400.0,,pollen,6/30/2007,250.0,1.6
+1786,Ozerki,50.416667,80.466667,50.416667,50.416667,80.466667,80.466667,Vascular plants,Hippophae rhamnoides,2.0,NISP,pollen,,10090.0,,,Radiocarbon years BP,410.0,,pollen,6/30/2007,274.0,0.729927007299
+1786,Ozerki,50.416667,80.466667,50.416667,50.416667,80.466667,80.466667,Vascular plants,Hippophae rhamnoides,15.0,NISP,pollen,,10630.0,,,Radiocarbon years BP,420.0,,pollen,6/30/2007,282.0,5.31914893617
+1786,Ozerki,50.416667,80.466667,50.416667,50.416667,80.466667,80.466667,Vascular plants,Hippophae rhamnoides,5.0,NISP,pollen,,11170.0,,,Radiocarbon years BP,430.0,,pollen,6/30/2007,307.0,1.62866449511
+1786,Ozerki,50.416667,80.466667,50.416667,50.416667,80.466667,80.466667,Vascular plants,Hippophae rhamnoides,6.0,NISP,pollen,,11710.0,,,Radiocarbon years BP,440.0,,pollen,6/30/2007,260.0,2.30769230769
+1786,Ozerki,50.416667,80.466667,50.416667,50.416667,80.466667,80.466667,Vascular plants,Hippophae rhamnoides,5.0,NISP,pollen,,12140.0,,,Radiocarbon years BP,450.0,,pollen,6/30/2007,257.0,1.94552529183
+1786,Ozerki,50.416667,80.466667,50.416667,50.416667,80.466667,80.466667,Vascular plants,Hippophae rhamnoides,17.0,NISP,pollen,,12570.0,,,Radiocarbon years BP,460.0,,pollen,6/30/2007,232.0,7.3275862069
+1786,Ozerki,50.416667,80.466667,50.416667,50.416667,80.466667,80.466667,Vascular plants,Hippophae rhamnoides,6.0,NISP,pollen,,13000.0,,,Radiocarbon years BP,470.0,,pollen,6/30/2007,227.0,2.64317180617
+1798,Pashennoe,49.37,75.4,49.37,49.37,75.4,75.4,Vascular plants,Hippophae rhamnoides,1.0,NISP,pollen,,8339.0,,,Radiocarbon years BP,210.0,871.0,pollen,6/30/2007,303.0,0.3300330033
+1798,Pashennoe,49.37,75.4,49.37,49.37,75.4,75.4,Vascular plants,Hippophae rhamnoides,1.0,NISP,pollen,,9004.0,,,Radiocarbon years BP,240.0,871.0,pollen,6/30/2007,262.0,0.381679389313
+1798,Pashennoe,49.37,75.4,49.37,49.37,75.4,75.4,Vascular plants,Hippophae rhamnoides,1.0,NISP,pollen,,10335.0,,,Radiocarbon years BP,300.0,871.0,pollen,6/30/2007,321.0,0.311526479751
+1798,Pashennoe,49.37,75.4,49.37,49.37,75.4,75.4,Vascular plants,Hippophae rhamnoides,1.0,NISP,pollen,,10778.0,,,Radiocarbon years BP,320.0,871.0,pollen,6/30/2007,259.0,0.3861003861
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Hippophae rhamnoides,1.0,NISP,pollen,,,,,,650.0,989.0,pollen,6/30/2007,625.0,0.16
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Hippophae rhamnoides,1.0,NISP,pollen,,,,,,651.0,989.0,pollen,6/30/2007,563.0,0.177619893428
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Hippophae rhamnoides,1.0,NISP,pollen,,,,,,657.0,989.0,pollen,6/30/2007,643.0,0.155520995334
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Hippophae rhamnoides,1.0,NISP,pollen,,,,,,658.0,989.0,pollen,6/30/2007,624.0,0.160256410256
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Hippophae rhamnoides,1.0,NISP,pollen,,,,,,659.0,989.0,pollen,6/30/2007,745.0,0.134228187919
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Hippophae rhamnoides,1.0,NISP,pollen,,,,,,660.0,989.0,pollen,6/30/2007,652.0,0.153374233129
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Hippophae rhamnoides,1.0,NISP,pollen,,,,,,663.0,989.0,pollen,6/30/2007,673.0,0.148588410104
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Hippophae rhamnoides,1.0,NISP,pollen,,,,,,664.0,989.0,pollen,6/30/2007,582.0,0.171821305842
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Hippophae rhamnoides,1.0,NISP,pollen,,,,,,665.0,989.0,pollen,6/30/2007,638.0,0.156739811912
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Hippophae rhamnoides,1.0,NISP,pollen,,,,,,666.0,989.0,pollen,6/30/2007,672.0,0.14880952381
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Hippophae rhamnoides,2.0,NISP,pollen,,,,,,669.0,989.0,pollen,6/30/2007,646.0,0.30959752322
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Hippophae rhamnoides,2.0,NISP,pollen,,,,,,671.0,989.0,pollen,6/30/2007,638.0,0.313479623824
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Hippophae rhamnoides,1.0,NISP,pollen,,,,,,672.0,989.0,pollen,6/30/2007,619.0,0.16155088853
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Hippophae rhamnoides,1.0,NISP,pollen,,,,,,673.0,989.0,pollen,6/30/2007,726.0,0.137741046832
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Hippophae rhamnoides,2.0,NISP,pollen,,,,,,675.0,989.0,pollen,6/30/2007,719.0,0.278164116829
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Hippophae rhamnoides,1.0,NISP,pollen,,,,,,676.0,989.0,pollen,6/30/2007,708.0,0.141242937853
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Hippophae rhamnoides,2.0,NISP,pollen,,,,,,679.0,989.0,pollen,6/30/2007,663.0,0.301659125189
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Hippophae rhamnoides,1.0,NISP,pollen,,,,,,680.0,989.0,pollen,6/30/2007,646.0,0.15479876161
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Hippophae rhamnoides,2.0,NISP,pollen,,,,,,682.0,989.0,pollen,6/30/2007,821.0,0.243605359318
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Hippophae rhamnoides,1.0,NISP,pollen,,,,,,683.0,989.0,pollen,6/30/2007,712.0,0.140449438202
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Hippophae rhamnoides,1.0,NISP,pollen,,,,,,684.0,989.0,pollen,6/30/2007,725.0,0.137931034483
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Hippophae rhamnoides,2.0,NISP,pollen,,,,,,685.0,989.0,pollen,6/30/2007,700.0,0.285714285714
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Hippophae rhamnoides,2.0,NISP,pollen,,,,,,686.0,989.0,pollen,6/30/2007,789.0,0.253485424588
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Hippophae rhamnoides,1.0,NISP,pollen,,,,,,687.0,989.0,pollen,6/30/2007,672.0,0.14880952381
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Hippophae rhamnoides,2.0,NISP,pollen,,,,,,688.0,989.0,pollen,6/30/2007,612.0,0.326797385621
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Hippophae rhamnoides,1.0,NISP,pollen,,,,,,691.0,989.0,pollen,6/30/2007,710.0,0.140845070423
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Hippophae rhamnoides,1.0,NISP,pollen,,,,,,693.0,989.0,pollen,6/30/2007,695.0,0.143884892086
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Hippophae rhamnoides,1.0,NISP,pollen,,,,,,694.0,989.0,pollen,6/30/2007,732.0,0.136612021858
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Hippophae rhamnoides,1.0,NISP,pollen,,,,,,695.0,989.0,pollen,6/30/2007,738.0,0.135501355014
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Hippophae rhamnoides,2.0,NISP,pollen,,,,,,697.0,989.0,pollen,6/30/2007,675.0,0.296296296296
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Hippophae rhamnoides,1.0,NISP,pollen,,,,,,698.0,989.0,pollen,6/30/2007,591.0,0.169204737733
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Hippophae rhamnoides,1.0,NISP,pollen,,,,,,699.0,989.0,pollen,6/30/2007,679.0,0.147275405007
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Hippophae rhamnoides,4.0,NISP,pollen,,,,,,703.0,989.0,pollen,6/30/2007,570.0,0.701754385965
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Hippophae rhamnoides,2.0,NISP,pollen,,,,,,704.0,989.0,pollen,6/30/2007,658.0,0.303951367781
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Hippophae rhamnoides,2.0,NISP,pollen,,,,,,705.0,989.0,pollen,6/30/2007,739.0,0.270635994587
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Hippophae rhamnoides,2.0,NISP,pollen,,,,,,708.0,989.0,pollen,6/30/2007,714.0,0.280112044818
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Hippophae rhamnoides,2.0,NISP,pollen,,,,,,709.0,989.0,pollen,6/30/2007,706.0,0.28328611898
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Hippophae rhamnoides,3.0,NISP,pollen,,,,,,712.0,989.0,pollen,6/30/2007,655.0,0.458015267176
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Hippophae rhamnoides,3.0,NISP,pollen,,,,,,713.0,989.0,pollen,6/30/2007,606.0,0.49504950495
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Hippophae rhamnoides,3.0,NISP,pollen,,,,,,714.0,989.0,pollen,6/30/2007,602.0,0.498338870432
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Hippophae rhamnoides,3.0,NISP,pollen,,,,,,715.0,989.0,pollen,6/30/2007,624.0,0.480769230769
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Hippophae rhamnoides,1.0,NISP,pollen,,,,,,716.0,989.0,pollen,6/30/2007,585.0,0.17094017094
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Hippophae rhamnoides,1.0,NISP,pollen,,,,,,717.0,989.0,pollen,6/30/2007,685.0,0.14598540146
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Hippophae rhamnoides,1.0,NISP,pollen,,,,,,718.0,989.0,pollen,6/30/2007,596.0,0.167785234899
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Hippophae rhamnoides,3.0,NISP,pollen,,,,,,719.0,989.0,pollen,6/30/2007,668.0,0.449101796407
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Hippophae rhamnoides,2.0,NISP,pollen,,,,,,720.0,989.0,pollen,6/30/2007,665.0,0.300751879699
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Hippophae rhamnoides,1.0,NISP,pollen,,,,,,721.0,989.0,pollen,6/30/2007,672.0,0.14880952381
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Hippophae rhamnoides,6.0,NISP,pollen,,,,,,722.0,989.0,pollen,6/30/2007,647.0,0.927357032457
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Hippophae rhamnoides,4.0,NISP,pollen,,,,,,723.0,989.0,pollen,6/30/2007,681.0,0.587371512482
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Hippophae rhamnoides,3.0,NISP,pollen,,,,,,725.0,989.0,pollen,6/30/2007,532.0,0.563909774436
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Hippophae rhamnoides,6.0,NISP,pollen,,,,,,726.0,989.0,pollen,6/30/2007,604.0,0.993377483444
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Hippophae rhamnoides,6.0,NISP,pollen,,,,,,727.0,989.0,pollen,6/30/2007,774.0,0.77519379845
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Hippophae rhamnoides,2.0,NISP,pollen,,,,,,728.0,989.0,pollen,6/30/2007,809.0,0.247218788628
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Hippophae rhamnoides,6.0,NISP,pollen,,,,,,729.0,989.0,pollen,6/30/2007,817.0,0.734394124847
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Hippophae rhamnoides,5.0,NISP,pollen,,,,,,730.0,989.0,pollen,6/30/2007,704.0,0.710227272727
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Hippophae rhamnoides,9.0,NISP,pollen,,,,,,731.0,989.0,pollen,6/30/2007,752.0,1.19680851064
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Hippophae rhamnoides,5.0,NISP,pollen,,,,,,732.0,989.0,pollen,6/30/2007,735.0,0.680272108844
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Hippophae rhamnoides,8.0,NISP,pollen,,,,,,733.0,989.0,pollen,6/30/2007,782.0,1.02301790281
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Hippophae rhamnoides,7.0,NISP,pollen,,,,,,734.0,989.0,pollen,6/30/2007,816.0,0.857843137255
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Hippophae rhamnoides,10.0,NISP,pollen,,,,,,735.0,989.0,pollen,6/30/2007,698.0,1.43266475645
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Hippophae rhamnoides,2.0,NISP,pollen,,,,,,736.0,989.0,pollen,6/30/2007,618.0,0.323624595469
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Hippophae rhamnoides,13.0,NISP,pollen,,,,,,737.0,989.0,pollen,6/30/2007,672.0,1.93452380952
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Hippophae rhamnoides,10.0,NISP,pollen,,,,,,738.0,989.0,pollen,6/30/2007,686.0,1.45772594752
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Hippophae rhamnoides,41.0,NISP,pollen,,,,,,739.0,989.0,pollen,6/30/2007,789.0,5.19645120406
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Hippophae rhamnoides,24.0,NISP,pollen,,,,,,740.0,989.0,pollen,6/30/2007,663.0,3.61990950226
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Hippophae rhamnoides,28.0,NISP,pollen,,,,,,741.0,989.0,pollen,6/30/2007,609.0,4.59770114943
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Hippophae rhamnoides,43.0,NISP,pollen,,,,,,742.0,989.0,pollen,6/30/2007,638.0,6.73981191223
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Hippophae rhamnoides,31.0,NISP,pollen,,,,,,743.0,989.0,pollen,6/30/2007,603.0,5.14096185738
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Hippophae rhamnoides,47.0,NISP,pollen,,,,,,744.0,989.0,pollen,6/30/2007,658.0,7.14285714286
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Hippophae rhamnoides,22.0,NISP,pollen,,,,,,745.0,989.0,pollen,6/30/2007,606.0,3.6303630363
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Hippophae rhamnoides,26.0,NISP,pollen,,,,,,746.0,989.0,pollen,6/30/2007,610.0,4.26229508197
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Hippophae rhamnoides,7.0,NISP,pollen,,,,,,747.0,989.0,pollen,6/30/2007,298.0,2.34899328859
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Hippophae rhamnoides,1.0,NISP,pollen,,,,,,748.0,989.0,pollen,6/30/2007,151.0,0.662251655629
+2973,Amsoldingersee,46.725,7.575,46.725,46.725,7.575,7.575,Vascular plants,Hippophae rhamnoides,1.0,NISP,pollen,,4780.0,,,Radiocarbon years BP,720.0,641.0,pollen,6/30/2007,952.0,0.105042016807
+2973,Amsoldingersee,46.725,7.575,46.725,46.725,7.575,7.575,Vascular plants,Hippophae rhamnoides,9.0,NISP,pollen,,10349.0,,,Radiocarbon years BP,1045.0,641.0,pollen,6/30/2007,733.0,1.2278308322
+2973,Amsoldingersee,46.725,7.575,46.725,46.725,7.575,7.575,Vascular plants,Hippophae rhamnoides,5.0,NISP,pollen,,10512.0,,,Radiocarbon years BP,1050.0,641.0,pollen,6/30/2007,891.0,0.561167227834
+2973,Amsoldingersee,46.725,7.575,46.725,46.725,7.575,7.575,Vascular plants,Hippophae rhamnoides,1.0,NISP,pollen,,10613.0,,,Radiocarbon years BP,1052.5,641.0,pollen,6/30/2007,651.0,0.153609831029
+2973,Amsoldingersee,46.725,7.575,46.725,46.725,7.575,7.575,Vascular plants,Hippophae rhamnoides,4.0,NISP,pollen,,10715.0,,,Radiocarbon years BP,1055.0,641.0,pollen,6/30/2007,1014.0,0.394477317554
+2973,Amsoldingersee,46.725,7.575,46.725,46.725,7.575,7.575,Vascular plants,Hippophae rhamnoides,13.0,NISP,pollen,,10919.0,,,Radiocarbon years BP,1060.0,641.0,pollen,6/30/2007,1144.0,1.13636363636
+2973,Amsoldingersee,46.725,7.575,46.725,46.725,7.575,7.575,Vascular plants,Hippophae rhamnoides,5.0,NISP,pollen,,11600.0,,,Radiocarbon years BP,1065.0,641.0,pollen,6/30/2007,1282.0,0.390015600624
+2973,Amsoldingersee,46.725,7.575,46.725,46.725,7.575,7.575,Vascular plants,Hippophae rhamnoides,8.0,NISP,pollen,,12600.0,,,Radiocarbon years BP,1070.0,641.0,pollen,6/30/2007,1117.0,0.716204118174
+2973,Amsoldingersee,46.725,7.575,46.725,46.725,7.575,7.575,Vascular plants,Hippophae rhamnoides,6.0,NISP,pollen,,13600.0,,,Radiocarbon years BP,1075.0,641.0,pollen,6/30/2007,491.0,1.22199592668
+2973,Amsoldingersee,46.725,7.575,46.725,46.725,7.575,7.575,Vascular plants,Hippophae rhamnoides,2.0,NISP,pollen,,14100.0,,,Radiocarbon years BP,1077.5,641.0,pollen,6/30/2007,513.0,0.389863547758
+2973,Amsoldingersee,46.725,7.575,46.725,46.725,7.575,7.575,Vascular plants,Hippophae rhamnoides,2.0,NISP,pollen,,20600.0,,,Radiocarbon years BP,1110.0,641.0,pollen,6/30/2007,182.0,1.0989010989

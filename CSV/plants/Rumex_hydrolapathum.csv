@@ -1,0 +1,6 @@
+siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Rumex hydrolapathum,3.0,NISP,pollen,,1118.0,,,Radiocarbon years BP,80.0,350.0,pollen,6/30/2007,688.0,0.436046511628
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Rumex hydrolapathum,1.0,NISP,pollen,,1409.0,,,Radiocarbon years BP,100.0,350.0,pollen,6/30/2007,1003.0,0.0997008973081
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Rumex hydrolapathum,1.0,NISP,pollen,,1702.0,,,Radiocarbon years BP,120.0,350.0,pollen,6/30/2007,1657.0,0.060350030175
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Rumex hydrolapathum,1.0,NISP,pollen,,3338.0,,,Radiocarbon years BP,230.0,350.0,pollen,6/30/2007,1332.0,0.0750750750751
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Rumex hydrolapathum,1.0,NISP,pollen,,8701.0,,,Radiocarbon years BP,580.0,350.0,pollen,6/30/2007,554.0,0.180505415162

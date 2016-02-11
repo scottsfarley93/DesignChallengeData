@@ -1,0 +1,27 @@
+siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Fraxinus ornus,3.0,NISP,pollen,,63.0,,,Radiocarbon years BP,5.0,350.0,pollen,6/30/2007,558.0,0.537634408602
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Fraxinus ornus,11.0,NISP,pollen,,266.0,,,Radiocarbon years BP,20.0,350.0,pollen,6/30/2007,1150.0,0.95652173913
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Fraxinus ornus,9.0,NISP,pollen,,405.0,,,Radiocarbon years BP,30.0,350.0,pollen,6/30/2007,656.0,1.37195121951
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Fraxinus ornus,6.0,NISP,pollen,,974.0,,,Radiocarbon years BP,70.0,350.0,pollen,6/30/2007,342.0,1.75438596491
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Fraxinus ornus,6.0,NISP,pollen,,1118.0,,,Radiocarbon years BP,80.0,350.0,pollen,6/30/2007,688.0,0.872093023256
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Fraxinus ornus,15.0,NISP,pollen,,1409.0,,,Radiocarbon years BP,100.0,350.0,pollen,6/30/2007,1003.0,1.49551345962
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Fraxinus ornus,6.0,NISP,pollen,,1702.0,,,Radiocarbon years BP,120.0,350.0,pollen,6/30/2007,1657.0,0.36210018105
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Fraxinus ornus,18.0,NISP,pollen,,1996.0,,,Radiocarbon years BP,140.0,350.0,pollen,6/30/2007,1200.0,1.5
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Fraxinus ornus,4.0,NISP,pollen,,2292.0,,,Radiocarbon years BP,160.0,350.0,pollen,6/30/2007,679.0,0.589101620029
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Fraxinus ornus,9.0,NISP,pollen,,2441.0,,,Radiocarbon years BP,170.0,350.0,pollen,6/30/2007,774.0,1.16279069767
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Fraxinus ornus,5.0,NISP,pollen,,2739.0,,,Radiocarbon years BP,190.0,350.0,pollen,6/30/2007,622.0,0.8038585209
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Fraxinus ornus,10.0,NISP,pollen,,3038.0,,,Radiocarbon years BP,210.0,350.0,pollen,6/30/2007,724.0,1.38121546961
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Fraxinus ornus,11.0,NISP,pollen,,3338.0,,,Radiocarbon years BP,230.0,350.0,pollen,6/30/2007,1332.0,0.825825825826
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Fraxinus ornus,2.0,NISP,pollen,,3639.0,,,Radiocarbon years BP,250.0,350.0,pollen,6/30/2007,1184.0,0.168918918919
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Fraxinus ornus,1.0,NISP,pollen,,3941.0,,,Radiocarbon years BP,270.0,350.0,pollen,6/30/2007,791.0,0.126422250316
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Fraxinus ornus,4.0,NISP,pollen,,4244.0,,,Radiocarbon years BP,290.0,350.0,pollen,6/30/2007,2154.0,0.185701021356
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Fraxinus ornus,7.0,NISP,pollen,,4320.0,,,Radiocarbon years BP,295.0,350.0,pollen,6/30/2007,1315.0,0.532319391635
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Fraxinus ornus,5.0,NISP,pollen,,4700.0,,,Radiocarbon years BP,320.0,350.0,pollen,6/30/2007,885.0,0.564971751412
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Fraxinus ornus,1.0,NISP,pollen,,5157.0,,,Radiocarbon years BP,350.0,350.0,pollen,6/30/2007,589.0,0.169779286927
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Fraxinus ornus,18.0,NISP,pollen,,5462.0,,,Radiocarbon years BP,370.0,350.0,pollen,6/30/2007,1273.0,1.41398271799
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Fraxinus ornus,9.0,NISP,pollen,,5768.0,,,Radiocarbon years BP,390.0,350.0,pollen,6/30/2007,677.0,1.329394387
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Fraxinus ornus,10.0,NISP,pollen,,6382.0,,,Radiocarbon years BP,430.0,350.0,pollen,6/30/2007,727.0,1.37551581843
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Fraxinus ornus,34.0,NISP,pollen,,6844.0,,,Radiocarbon years BP,460.0,350.0,pollen,6/30/2007,1406.0,2.41820768137
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Fraxinus ornus,7.0,NISP,pollen,,7152.0,,,Radiocarbon years BP,480.0,350.0,pollen,6/30/2007,456.0,1.5350877193
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Fraxinus ornus,2.0,NISP,pollen,,8080.0,,,Radiocarbon years BP,540.0,350.0,pollen,6/30/2007,502.0,0.398406374502
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Fraxinus ornus,2.0,NISP,pollen,,8701.0,,,Radiocarbon years BP,580.0,350.0,pollen,6/30/2007,554.0,0.361010830325

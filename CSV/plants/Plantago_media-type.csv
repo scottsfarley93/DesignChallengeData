@@ -1,0 +1,13 @@
+siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
+223,Ballinloghig Lake,52.2,-10.308333,52.2,52.2,-10.308333,-10.308333,Vascular plants,Plantago media-type,1.0,NISP,pollen,,9803.0,,,Radiocarbon years BP,535.0,84.0,pollen,6/30/2007,351.0,0.2849002849
+223,Ballinloghig Lake,52.2,-10.308333,52.2,52.2,-10.308333,-10.308333,Vascular plants,Plantago media-type,1.0,NISP,pollen,,10637.0,,,Radiocarbon years BP,572.0,84.0,pollen,6/30/2007,541.0,0.184842883549
+223,Ballinloghig Lake,52.2,-10.308333,52.2,52.2,-10.308333,-10.308333,Vascular plants,Plantago media-type,1.0,NISP,pollen,,14036.0,,,Radiocarbon years BP,607.0,84.0,pollen,6/30/2007,372.0,0.268817204301
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Plantago media-type,4.0,NISP,pollen,,1409.0,,,Radiocarbon years BP,100.0,350.0,pollen,6/30/2007,1003.0,0.398803589232
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Plantago media-type,3.0,NISP,pollen,,1702.0,,,Radiocarbon years BP,120.0,350.0,pollen,6/30/2007,1657.0,0.181050090525
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Plantago media-type,1.0,NISP,pollen,,1996.0,,,Radiocarbon years BP,140.0,350.0,pollen,6/30/2007,1200.0,0.0833333333333
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Plantago media-type,2.0,NISP,pollen,,4244.0,,,Radiocarbon years BP,290.0,350.0,pollen,6/30/2007,2154.0,0.0928505106778
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Plantago media-type,1.0,NISP,pollen,,7152.0,,,Radiocarbon years BP,480.0,350.0,pollen,6/30/2007,456.0,0.219298245614
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Plantago media-type,1.0,NISP,pollen,,7925.0,,,Radiocarbon years BP,530.0,350.0,pollen,6/30/2007,540.0,0.185185185185
+2989,Atxuri,43.25,-1.55,43.25,43.25,-1.55,-1.55,Vascular plants,Plantago media-type,1.0,NISP,pollen,,1089.0,,,Radiocarbon years BP,15.0,500.0,pollen,6/30/2007,369.0,0.271002710027
+2989,Atxuri,43.25,-1.55,43.25,43.25,-1.55,-1.55,Vascular plants,Plantago media-type,1.0,NISP,pollen,,3520.0,,,Radiocarbon years BP,75.0,500.0,pollen,6/30/2007,381.0,0.262467191601
+2989,Atxuri,43.25,-1.55,43.25,43.25,-1.55,-1.55,Vascular plants,Plantago media-type,1.0,NISP,pollen,,3723.0,,,Radiocarbon years BP,80.0,500.0,pollen,6/30/2007,359.0,0.278551532033

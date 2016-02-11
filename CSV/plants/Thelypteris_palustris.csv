@@ -1,0 +1,115 @@
+siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
+16,Ahlenmoor,53.7,8.733333,53.7,53.7,8.733333,8.733333,Vascular plants,Thelypteris palustris,1.0,NISP,spore,,4276.0,,,Radiocarbon years BP,338.0,2.0,pollen,6/30/2007,695.0,0.143884892086
+204,Andree Bog,45.725,-93.25,45.725,45.725,-93.25,-93.25,Vascular plants,Thelypteris palustris,1.0,NISP,spore,,9939.0,,,Radiocarbon years BP,505.0,300.0,pollen,6/30/2007,410.0,0.243902439024
+245,Beckman Lake,45.425,-93.183333,45.425,45.425,-93.183333,-93.183333,Vascular plants,Thelypteris palustris,1.0,NISP,spore,,772.0,,,Radiocarbon years BP,113.0,278.0,pollen,6/30/2007,322.0,0.310559006211
+245,Beckman Lake,45.425,-93.183333,45.425,45.425,-93.183333,-93.183333,Vascular plants,Thelypteris palustris,1.0,NISP,spore,,1707.0,,,Radiocarbon years BP,145.0,278.0,pollen,6/30/2007,346.0,0.28901734104
+245,Beckman Lake,45.425,-93.183333,45.425,45.425,-93.183333,-93.183333,Vascular plants,Thelypteris palustris,1.0,NISP,spore,,7576.0,,,Radiocarbon years BP,530.0,278.0,pollen,6/30/2007,336.0,0.297619047619
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Thelypteris palustris,1.0,NISP,spore,,2940.0,,,Radiocarbon years BP,510.0,4.0,pollen,6/30/2007,180.0,0.555555555556
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Thelypteris palustris,11.0,NISP,spore,,3875.0,,,Radiocarbon years BP,650.0,4.0,pollen,6/30/2007,187.0,5.88235294118
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Thelypteris palustris,4.0,NISP,spore,,4708.0,,,Radiocarbon years BP,695.0,4.0,pollen,6/30/2007,133.0,3.00751879699
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Thelypteris palustris,17.0,NISP,spore,,4987.0,,,Radiocarbon years BP,795.0,4.0,pollen,6/30/2007,127.0,13.3858267717
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Thelypteris palustris,35.0,NISP,spore,,5016.0,,,Radiocarbon years BP,810.0,4.0,pollen,6/30/2007,198.0,17.6767676768
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Thelypteris palustris,7.0,NISP,spore,,5095.0,,,Radiocarbon years BP,850.0,4.0,pollen,6/30/2007,266.0,2.63157894737
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Thelypteris palustris,3.0,NISP,spore,,5184.0,,,Radiocarbon years BP,895.0,4.0,pollen,6/30/2007,77.0,3.8961038961
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Thelypteris palustris,7.0,NISP,spore,,5213.0,,,Radiocarbon years BP,910.0,4.0,pollen,6/30/2007,170.0,4.11764705882
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Thelypteris palustris,3.0,NISP,spore,,5292.0,,,Radiocarbon years BP,950.0,4.0,pollen,6/30/2007,117.0,2.5641025641
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Thelypteris palustris,8.0,NISP,spore,,5380.0,,,Radiocarbon years BP,995.0,4.0,pollen,6/30/2007,155.0,5.16129032258
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Thelypteris palustris,2.0,NISP,spore,,5489.0,,,Radiocarbon years BP,1050.0,4.0,pollen,6/30/2007,357.0,0.560224089636
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Thelypteris palustris,3.0,NISP,spore,,5607.0,,,Radiocarbon years BP,1110.0,4.0,pollen,6/30/2007,136.0,2.20588235294
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Thelypteris palustris,3.0,NISP,spore,,5685.0,,,Radiocarbon years BP,1150.0,4.0,pollen,6/30/2007,199.0,1.50753768844
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Thelypteris palustris,12.0,NISP,spore,,5754.0,,,Radiocarbon years BP,1185.0,4.0,pollen,6/30/2007,233.0,5.15021459227
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Thelypteris palustris,2.0,NISP,spore,,5803.0,,,Radiocarbon years BP,1210.0,4.0,pollen,6/30/2007,163.0,1.22699386503
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Thelypteris palustris,4.0,NISP,spore,,5882.0,,,Radiocarbon years BP,1250.0,4.0,pollen,6/30/2007,172.0,2.32558139535
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Thelypteris palustris,8.0,NISP,spore,,6108.0,,,Radiocarbon years BP,1350.0,4.0,pollen,6/30/2007,174.0,4.59770114943
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Thelypteris palustris,1.0,NISP,spore,,6229.0,,,Radiocarbon years BP,1395.0,4.0,pollen,6/30/2007,106.0,0.943396226415
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Thelypteris palustris,2.0,NISP,spore,,6498.0,,,Radiocarbon years BP,1495.0,4.0,pollen,6/30/2007,122.0,1.6393442623
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Thelypteris palustris,2.0,NISP,spore,,6646.0,,,Radiocarbon years BP,1550.0,4.0,pollen,6/30/2007,304.0,0.657894736842
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Thelypteris palustris,1.0,NISP,spore,,6768.0,,,Radiocarbon years BP,1595.0,4.0,pollen,6/30/2007,350.0,0.285714285714
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Thelypteris palustris,1.0,NISP,spore,,7306.0,,,Radiocarbon years BP,1795.0,4.0,pollen,6/30/2007,289.0,0.346020761246
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Thelypteris palustris,1.0,NISP,spore,,7455.0,,,Radiocarbon years BP,1850.0,4.0,pollen,6/30/2007,160.0,0.625
+1407,Kayakskoye Zaimitschye,55.0,81.0,55.0,55.0,81.0,81.0,Vascular plants,Thelypteris palustris,10.0,NISP,spore,,1061.0,,,Radiocarbon years BP,50.0,150.0,pollen,6/30/2007,1096.0,0.912408759124
+1407,Kayakskoye Zaimitschye,55.0,81.0,55.0,55.0,81.0,81.0,Vascular plants,Thelypteris palustris,15.0,NISP,spore,,1285.0,,,Radiocarbon years BP,70.0,150.0,pollen,6/30/2007,939.0,1.59744408946
+1407,Kayakskoye Zaimitschye,55.0,81.0,55.0,55.0,81.0,81.0,Vascular plants,Thelypteris palustris,30.0,NISP,spore,,1397.0,,,Radiocarbon years BP,80.0,150.0,pollen,6/30/2007,839.0,3.57568533969
+1407,Kayakskoye Zaimitschye,55.0,81.0,55.0,55.0,81.0,81.0,Vascular plants,Thelypteris palustris,10.0,NISP,spore,,1509.0,,,Radiocarbon years BP,90.0,150.0,pollen,6/30/2007,933.0,1.0718113612
+1407,Kayakskoye Zaimitschye,55.0,81.0,55.0,55.0,81.0,81.0,Vascular plants,Thelypteris palustris,10.0,NISP,spore,,1845.0,,,Radiocarbon years BP,120.0,150.0,pollen,6/30/2007,1011.0,0.989119683482
+1407,Kayakskoye Zaimitschye,55.0,81.0,55.0,55.0,81.0,81.0,Vascular plants,Thelypteris palustris,98.0,NISP,spore,,1958.0,,,Radiocarbon years BP,130.0,150.0,pollen,6/30/2007,606.0,16.1716171617
+1407,Kayakskoye Zaimitschye,55.0,81.0,55.0,55.0,81.0,81.0,Vascular plants,Thelypteris palustris,120.0,NISP,spore,,2070.0,,,Radiocarbon years BP,140.0,150.0,pollen,6/30/2007,888.0,13.5135135135
+1407,Kayakskoye Zaimitschye,55.0,81.0,55.0,55.0,81.0,81.0,Vascular plants,Thelypteris palustris,92.0,NISP,spore,,2182.0,,,Radiocarbon years BP,150.0,150.0,pollen,6/30/2007,412.0,22.3300970874
+1407,Kayakskoye Zaimitschye,55.0,81.0,55.0,55.0,81.0,81.0,Vascular plants,Thelypteris palustris,7.0,NISP,spore,,2294.0,,,Radiocarbon years BP,160.0,150.0,pollen,6/30/2007,540.0,1.2962962963
+1407,Kayakskoye Zaimitschye,55.0,81.0,55.0,55.0,81.0,81.0,Vascular plants,Thelypteris palustris,8.0,NISP,spore,,2438.0,,,Radiocarbon years BP,170.0,150.0,pollen,6/30/2007,627.0,1.27591706539
+1407,Kayakskoye Zaimitschye,55.0,81.0,55.0,55.0,81.0,81.0,Vascular plants,Thelypteris palustris,9.0,NISP,spore,,2614.0,,,Radiocarbon years BP,180.0,150.0,pollen,6/30/2007,560.0,1.60714285714
+1407,Kayakskoye Zaimitschye,55.0,81.0,55.0,55.0,81.0,81.0,Vascular plants,Thelypteris palustris,35.0,NISP,spore,,2790.0,,,Radiocarbon years BP,190.0,150.0,pollen,6/30/2007,672.0,5.20833333333
+1407,Kayakskoye Zaimitschye,55.0,81.0,55.0,55.0,81.0,81.0,Vascular plants,Thelypteris palustris,100.0,NISP,spore,,2966.0,,,Radiocarbon years BP,200.0,150.0,pollen,6/30/2007,912.0,10.9649122807
+1407,Kayakskoye Zaimitschye,55.0,81.0,55.0,55.0,81.0,81.0,Vascular plants,Thelypteris palustris,190.0,NISP,spore,,3142.0,,,Radiocarbon years BP,210.0,150.0,pollen,6/30/2007,541.0,35.1201478743
+1407,Kayakskoye Zaimitschye,55.0,81.0,55.0,55.0,81.0,81.0,Vascular plants,Thelypteris palustris,350.0,NISP,spore,,3318.0,,,Radiocarbon years BP,220.0,150.0,pollen,6/30/2007,237.0,147.679324895
+1407,Kayakskoye Zaimitschye,55.0,81.0,55.0,55.0,81.0,81.0,Vascular plants,Thelypteris palustris,300.0,NISP,spore,,3494.0,,,Radiocarbon years BP,230.0,150.0,pollen,6/30/2007,449.0,66.8151447661
+1407,Kayakskoye Zaimitschye,55.0,81.0,55.0,55.0,81.0,81.0,Vascular plants,Thelypteris palustris,380.0,NISP,spore,,3670.0,,,Radiocarbon years BP,240.0,150.0,pollen,6/30/2007,393.0,96.6921119593
+1407,Kayakskoye Zaimitschye,55.0,81.0,55.0,55.0,81.0,81.0,Vascular plants,Thelypteris palustris,240.0,NISP,spore,,3846.0,,,Radiocarbon years BP,250.0,150.0,pollen,6/30/2007,427.0,56.206088993
+1407,Kayakskoye Zaimitschye,55.0,81.0,55.0,55.0,81.0,81.0,Vascular plants,Thelypteris palustris,350.0,NISP,spore,,4022.0,,,Radiocarbon years BP,260.0,150.0,pollen,6/30/2007,306.0,114.379084967
+1407,Kayakskoye Zaimitschye,55.0,81.0,55.0,55.0,81.0,81.0,Vascular plants,Thelypteris palustris,210.0,NISP,spore,,4307.0,,,Radiocarbon years BP,270.0,150.0,pollen,6/30/2007,170.0,123.529411765
+1407,Kayakskoye Zaimitschye,55.0,81.0,55.0,55.0,81.0,81.0,Vascular plants,Thelypteris palustris,320.0,NISP,spore,,4701.0,,,Radiocarbon years BP,280.0,150.0,pollen,6/30/2007,204.0,156.862745098
+1407,Kayakskoye Zaimitschye,55.0,81.0,55.0,55.0,81.0,81.0,Vascular plants,Thelypteris palustris,450.0,NISP,spore,,5096.0,,,Radiocarbon years BP,290.0,150.0,pollen,6/30/2007,381.0,118.11023622
+1407,Kayakskoye Zaimitschye,55.0,81.0,55.0,55.0,81.0,81.0,Vascular plants,Thelypteris palustris,480.0,NISP,spore,,5490.0,,,Radiocarbon years BP,300.0,150.0,pollen,6/30/2007,483.0,99.3788819876
+1407,Kayakskoye Zaimitschye,55.0,81.0,55.0,55.0,81.0,81.0,Vascular plants,Thelypteris palustris,455.0,NISP,spore,,6610.0,,,Radiocarbon years BP,310.0,150.0,pollen,6/30/2007,395.0,115.189873418
+1704,Mokhovoye,53.766667,64.25,53.766667,53.766667,64.25,64.25,Vascular plants,Thelypteris palustris,1.0,NISP,spore,,1415.0,,,Radiocarbon years BP,80.0,178.0,pollen,6/30/2007,298.0,0.335570469799
+1704,Mokhovoye,53.766667,64.25,53.766667,53.766667,64.25,64.25,Vascular plants,Thelypteris palustris,1.0,NISP,spore,,1705.0,,,Radiocarbon years BP,120.0,178.0,pollen,6/30/2007,314.0,0.31847133758
+1704,Mokhovoye,53.766667,64.25,53.766667,53.766667,64.25,64.25,Vascular plants,Thelypteris palustris,1.0,NISP,spore,,1715.0,,,Radiocarbon years BP,130.0,178.0,pollen,6/30/2007,337.0,0.296735905045
+1704,Mokhovoye,53.766667,64.25,53.766667,53.766667,64.25,64.25,Vascular plants,Thelypteris palustris,1.0,NISP,spore,,1725.0,,,Radiocarbon years BP,140.0,178.0,pollen,6/30/2007,337.0,0.296735905045
+1704,Mokhovoye,53.766667,64.25,53.766667,53.766667,64.25,64.25,Vascular plants,Thelypteris palustris,1.0,NISP,spore,,1735.0,,,Radiocarbon years BP,150.0,178.0,pollen,6/30/2007,351.0,0.2849002849
+1704,Mokhovoye,53.766667,64.25,53.766667,53.766667,64.25,64.25,Vascular plants,Thelypteris palustris,1.0,NISP,spore,,1745.0,,,Radiocarbon years BP,160.0,178.0,pollen,6/30/2007,335.0,0.298507462687
+1704,Mokhovoye,53.766667,64.25,53.766667,53.766667,64.25,64.25,Vascular plants,Thelypteris palustris,1.0,NISP,spore,,1755.0,,,Radiocarbon years BP,170.0,178.0,pollen,6/30/2007,293.0,0.341296928328
+1704,Mokhovoye,53.766667,64.25,53.766667,53.766667,64.25,64.25,Vascular plants,Thelypteris palustris,1.0,NISP,spore,,1765.0,,,Radiocarbon years BP,180.0,178.0,pollen,6/30/2007,325.0,0.307692307692
+1704,Mokhovoye,53.766667,64.25,53.766667,53.766667,64.25,64.25,Vascular plants,Thelypteris palustris,1.0,NISP,spore,,1775.0,,,Radiocarbon years BP,190.0,178.0,pollen,6/30/2007,282.0,0.354609929078
+1704,Mokhovoye,53.766667,64.25,53.766667,53.766667,64.25,64.25,Vascular plants,Thelypteris palustris,1.0,NISP,spore,,1878.0,,,Radiocarbon years BP,200.0,178.0,pollen,6/30/2007,267.0,0.374531835206
+1704,Mokhovoye,53.766667,64.25,53.766667,53.766667,64.25,64.25,Vascular plants,Thelypteris palustris,1.0,NISP,spore,,2074.0,,,Radiocarbon years BP,210.0,178.0,pollen,6/30/2007,370.0,0.27027027027
+1704,Mokhovoye,53.766667,64.25,53.766667,53.766667,64.25,64.25,Vascular plants,Thelypteris palustris,1.0,NISP,spore,,2466.0,,,Radiocarbon years BP,230.0,178.0,pollen,6/30/2007,353.0,0.28328611898
+1704,Mokhovoye,53.766667,64.25,53.766667,53.766667,64.25,64.25,Vascular plants,Thelypteris palustris,1.0,NISP,spore,,2662.0,,,Radiocarbon years BP,240.0,178.0,pollen,6/30/2007,317.0,0.315457413249
+1704,Mokhovoye,53.766667,64.25,53.766667,53.766667,64.25,64.25,Vascular plants,Thelypteris palustris,1.0,NISP,spore,,3540.0,,,Radiocarbon years BP,260.0,178.0,pollen,6/30/2007,359.0,0.278551532033
+1704,Mokhovoye,53.766667,64.25,53.766667,53.766667,64.25,64.25,Vascular plants,Thelypteris palustris,1.0,NISP,spore,,5325.0,,,Radiocarbon years BP,300.0,178.0,pollen,6/30/2007,278.0,0.359712230216
+1704,Mokhovoye,53.766667,64.25,53.766667,53.766667,64.25,64.25,Vascular plants,Thelypteris palustris,1.0,NISP,spore,,5550.0,,,Radiocarbon years BP,310.0,178.0,pollen,6/30/2007,263.0,0.380228136882
+1704,Mokhovoye,53.766667,64.25,53.766667,53.766667,64.25,64.25,Vascular plants,Thelypteris palustris,1.0,NISP,spore,,5775.0,,,Radiocarbon years BP,320.0,178.0,pollen,6/30/2007,196.0,0.510204081633
+1814,Pogonia Bog Pond,45.03503,-93.6305,45.03619,45.03387,-93.62724,-93.63376,Vascular plants,Thelypteris palustris,8.0,NISP,spore,,,,,,0.0,292.0,pollen surface sample,6/30/2007,,
+1957,Rattle Lake,49.35,-92.7,49.35,49.35,-92.7,-92.7,Vascular plants,Thelypteris palustris,1.0,NISP,spore,,11630.0,,,Radiocarbon years BP,1290.0,460.0,pollen,6/30/2007,336.0,0.297619047619
+1957,Rattle Lake,49.35,-92.7,49.35,49.35,-92.7,-92.7,Vascular plants,Thelypteris palustris,1.0,NISP,spore,,12150.0,,,Radiocarbon years BP,1310.0,460.0,pollen,6/30/2007,352.0,0.284090909091
+2519,Stone Lake Tamarack Swamp,44.891667,-93.691667,44.891667,44.891667,-93.691667,-93.691667,Vascular plants,Thelypteris palustris,1.0,NISP,spore,,1669.0,,,Radiocarbon years BP,120.0,288.0,pollen,6/30/2007,437.0,0.228832951945
+2519,Stone Lake Tamarack Swamp,44.891667,-93.691667,44.891667,44.891667,-93.691667,-93.691667,Vascular plants,Thelypteris palustris,3.0,NISP,spore,,2060.0,,,Radiocarbon years BP,140.0,288.0,pollen,6/30/2007,1364.0,0.219941348974
+2519,Stone Lake Tamarack Swamp,44.891667,-93.691667,44.891667,44.891667,-93.691667,-93.691667,Vascular plants,Thelypteris palustris,1.0,NISP,spore,,3136.0,,,Radiocarbon years BP,195.0,288.0,pollen,6/30/2007,924.0,0.108225108225
+2519,Stone Lake Tamarack Swamp,44.891667,-93.691667,44.891667,44.891667,-93.691667,-93.691667,Vascular plants,Thelypteris palustris,2.0,NISP,spore,,9458.0,,,Radiocarbon years BP,566.0,288.0,pollen,6/30/2007,356.0,0.561797752809
+2522,Sulphur Lake,60.95,-137.957778,60.95,60.95,-137.957778,-137.957778,Vascular plants,Thelypteris palustris,1.0,NISP,spore,,145.0,,,Radiocarbon years BP,12.4,847.0,pollen,6/30/2007,514.0,0.194552529183
+2522,Sulphur Lake,60.95,-137.957778,60.95,60.95,-137.957778,-137.957778,Vascular plants,Thelypteris palustris,1.0,NISP,spore,,5477.0,,,Radiocarbon years BP,285.0,847.0,pollen,6/30/2007,515.0,0.194174757282
+2522,Sulphur Lake,60.95,-137.957778,60.95,60.95,-137.957778,-137.957778,Vascular plants,Thelypteris palustris,1.0,NISP,spore,,8502.0,,,Radiocarbon years BP,404.0,847.0,pollen,6/30/2007,479.0,0.208768267223
+2522,Sulphur Lake,60.95,-137.957778,60.95,60.95,-137.957778,-137.957778,Vascular plants,Thelypteris palustris,1.0,NISP,spore,,8654.0,,,Radiocarbon years BP,409.0,847.0,pollen,6/30/2007,491.5,0.203458799593
+245,Beckman Lake,45.425,-93.183333,45.425,45.425,-93.183333,-93.183333,Vascular plants,Thelypteris palustris,1.0,NISP,spore,,-10.0,,,Radiocarbon years BP,5.0,278.0,pollen,6/30/2007,394.0,0.253807106599
+1814,Pogonia Bog Pond,45.03503,-93.6305,45.03619,45.03387,-93.62724,-93.63376,Vascular plants,Thelypteris palustris,23.0,NISP,spore,,,,,,0.0,292.0,pollen surface sample,6/30/2007,,
+1815,Third Lake,48.108333,-92.016667,48.108333,48.108333,-92.016667,-92.016667,Vascular plants,Thelypteris palustris,1.0,NISP,spore,,,,,,0.0,446.0,pollen surface sample,6/30/2007,,
+1814,Pogonia Bog Pond,45.03503,-93.6305,45.03619,45.03387,-93.62724,-93.63376,Vascular plants,Thelypteris palustris,106.0,NISP,spore,,,,,,0.0,292.0,pollen surface sample,6/30/2007,,
+1814,Pogonia Bog Pond,45.03503,-93.6305,45.03619,45.03387,-93.62724,-93.63376,Vascular plants,Thelypteris palustris,1.0,NISP,spore,,,,,,0.0,292.0,pollen surface sample,6/30/2007,,
+1814,Pogonia Bog Pond,45.03503,-93.6305,45.03619,45.03387,-93.62724,-93.63376,Vascular plants,Thelypteris palustris,8.0,NISP,spore,,,,,,0.0,292.0,pollen surface sample,6/30/2007,,
+1814,Pogonia Bog Pond,45.03503,-93.6305,45.03619,45.03387,-93.62724,-93.63376,Vascular plants,Thelypteris palustris,71.0,NISP,spore,,,,,,0.0,292.0,pollen surface sample,6/30/2007,,
+1814,Pogonia Bog Pond,45.03503,-93.6305,45.03619,45.03387,-93.62724,-93.63376,Vascular plants,Thelypteris palustris,11.0,NISP,spore,,,,,,0.0,292.0,pollen surface sample,6/30/2007,,
+1814,Pogonia Bog Pond,45.03503,-93.6305,45.03619,45.03387,-93.62724,-93.63376,Vascular plants,Thelypteris palustris,46.0,NISP,spore,,,,,,0.0,292.0,pollen surface sample,6/30/2007,,
+1814,Pogonia Bog Pond,45.03503,-93.6305,45.03619,45.03387,-93.62724,-93.63376,Vascular plants,Thelypteris palustris,3.0,NISP,spore,,,,,,0.0,292.0,pollen surface sample,6/30/2007,,
+1814,Pogonia Bog Pond,45.03503,-93.6305,45.03619,45.03387,-93.62724,-93.63376,Vascular plants,Thelypteris palustris,71.0,NISP,spore,,-24.0,,,Radiocarbon years BP,0.0,292.0,pollen,6/30/2007,492.0,14.4308943089
+1814,Pogonia Bog Pond,45.03503,-93.6305,45.03619,45.03387,-93.62724,-93.63376,Vascular plants,Thelypteris palustris,62.0,NISP,spore,,-20.0,,,Radiocarbon years BP,1.0,292.0,pollen,6/30/2007,628.0,9.87261146497
+1814,Pogonia Bog Pond,45.03503,-93.6305,45.03619,45.03387,-93.62724,-93.63376,Vascular plants,Thelypteris palustris,28.0,NISP,spore,,-13.0,,,Radiocarbon years BP,3.0,292.0,pollen,6/30/2007,447.0,6.26398210291
+1814,Pogonia Bog Pond,45.03503,-93.6305,45.03619,45.03387,-93.62724,-93.63376,Vascular plants,Thelypteris palustris,16.0,NISP,spore,,14.0,,,Radiocarbon years BP,10.0,292.0,pollen,6/30/2007,518.0,3.0888030888
+1814,Pogonia Bog Pond,45.03503,-93.6305,45.03619,45.03387,-93.62724,-93.63376,Vascular plants,Thelypteris palustris,2.0,NISP,spore,,26.0,,,Radiocarbon years BP,13.0,292.0,pollen,6/30/2007,571.0,0.350262697023
+1814,Pogonia Bog Pond,45.03503,-93.6305,45.03619,45.03387,-93.62724,-93.63376,Vascular plants,Thelypteris palustris,18.0,NISP,spore,,71.0,,,Radiocarbon years BP,25.0,292.0,pollen,6/30/2007,429.0,4.1958041958
+1814,Pogonia Bog Pond,45.03503,-93.6305,45.03619,45.03387,-93.62724,-93.63376,Vascular plants,Thelypteris palustris,9.0,NISP,spore,,79.0,,,Radiocarbon years BP,27.0,292.0,pollen,6/30/2007,279.0,3.22580645161
+1814,Pogonia Bog Pond,45.03503,-93.6305,45.03619,45.03387,-93.62724,-93.63376,Vascular plants,Thelypteris palustris,3.0,NISP,spore,,90.0,,,Radiocarbon years BP,30.0,292.0,pollen,6/30/2007,673.0,0.445765230312
+1814,Pogonia Bog Pond,45.03503,-93.6305,45.03619,45.03387,-93.62724,-93.63376,Vascular plants,Thelypteris palustris,6.0,NISP,spore,,110.0,,,Radiocarbon years BP,35.0,292.0,pollen,6/30/2007,614.0,0.977198697068
+1814,Pogonia Bog Pond,45.03503,-93.6305,45.03619,45.03387,-93.62724,-93.63376,Vascular plants,Thelypteris palustris,2.0,NISP,spore,,129.0,,,Radiocarbon years BP,40.0,292.0,pollen,6/30/2007,293.0,0.682593856655
+1814,Pogonia Bog Pond,45.03503,-93.6305,45.03619,45.03387,-93.62724,-93.63376,Vascular plants,Thelypteris palustris,1.0,NISP,spore,,148.0,,,Radiocarbon years BP,45.0,292.0,pollen,6/30/2007,644.0,0.155279503106
+2519,Stone Lake Tamarack Swamp,44.891667,-93.691667,44.891667,44.891667,-93.691667,-93.691667,Vascular plants,Thelypteris palustris,9.0,NISP,spore,,150.0,,,Radiocarbon years BP,1.0,288.0,pollen,6/30/2007,714.0,1.26050420168
+1815,Third Lake,48.108333,-92.016667,48.108333,48.108333,-92.016667,-92.016667,Vascular plants,Thelypteris palustris,1.0,NISP,spore,,4838.0,,,Radiocarbon years BP,445.0,446.0,pollen,6/30/2007,451.0,0.221729490022
+1815,Third Lake,48.108333,-92.016667,48.108333,48.108333,-92.016667,-92.016667,Vascular plants,Thelypteris palustris,1.0,NISP,spore,,1446.0,,,Radiocarbon years BP,155.0,446.0,pollen,6/30/2007,314.0,0.31847133758
+1815,Third Lake,48.108333,-92.016667,48.108333,48.108333,-92.016667,-92.016667,Vascular plants,Thelypteris palustris,2.0,NISP,spore,,105.0,,,Radiocarbon years BP,5.0,446.0,pollen,6/30/2007,359.0,0.557103064067
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Thelypteris palustris,2.0,NISP,spore,,,,,,705.0,989.0,pollen,6/30/2007,739.0,0.270635994587
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Thelypteris palustris,1.0,NISP,spore,,,,,,706.0,989.0,pollen,6/30/2007,711.0,0.14064697609
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Thelypteris palustris,1.0,NISP,spore,,,,,,722.0,989.0,pollen,6/30/2007,647.0,0.15455950541
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Thelypteris palustris,1.0,NISP,spore,,,,,,120.0,242.0,pollen,6/30/2007,613.0,0.163132137031
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Thelypteris palustris,1.0,NISP,spore,,,,,,232.0,242.0,pollen,6/30/2007,622.0,0.16077170418
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Thelypteris palustris,4.0,NISP,spore,,,,,,236.0,242.0,pollen,6/30/2007,697.0,0.573888091822
+3003,Tontelange Heideknapp,49.719444,5.82,49.719444,49.719444,5.82,5.82,Vascular plants,Thelypteris palustris,1.0,NISP,spore,,,,,,56.0,325.0,pollen,6/30/2007,213.0,0.469483568075
+3003,Tontelange Heideknapp,49.719444,5.82,49.719444,49.719444,5.82,5.82,Vascular plants,Thelypteris palustris,1.0,NISP,spore,,,,,,58.0,325.0,pollen,6/30/2007,218.0,0.45871559633
+3009,Bergakyllen,57.166667,16.15,57.166667,57.166667,16.15,16.15,Vascular plants,Thelypteris palustris,1.0,NISP,spore,,13463.0,,,Radiocarbon years BP,9800.0,73.0,pollen,6/30/2007,399.0,0.250626566416

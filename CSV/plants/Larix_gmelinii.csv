@@ -1,0 +1,549 @@
+siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,2.0,NISP,pollen,,40.0,,,Radiocarbon years BP,2.0,290.0,pollen,6/30/2007,229.0,0.873362445415
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,2.0,NISP,pollen,,178.0,,,Radiocarbon years BP,9.0,290.0,pollen,6/30/2007,251.0,0.796812749004
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,2.0,NISP,pollen,,396.0,,,Radiocarbon years BP,20.0,290.0,pollen,6/30/2007,278.0,0.719424460432
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,1.0,NISP,pollen,,595.0,,,Radiocarbon years BP,30.0,290.0,pollen,6/30/2007,276.0,0.36231884058
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,1.0,NISP,pollen,,991.0,,,Radiocarbon years BP,50.0,290.0,pollen,6/30/2007,307.0,0.325732899023
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,6.0,NISP,pollen,,1189.0,,,Radiocarbon years BP,60.0,290.0,pollen,6/30/2007,258.0,2.32558139535
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,3.0,NISP,pollen,,1348.0,,,Radiocarbon years BP,68.0,290.0,pollen,6/30/2007,308.0,0.974025974026
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,4.0,NISP,pollen,,1387.0,,,Radiocarbon years BP,70.0,290.0,pollen,6/30/2007,252.0,1.5873015873
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,3.0,NISP,pollen,,1585.0,,,Radiocarbon years BP,80.0,290.0,pollen,6/30/2007,261.0,1.14942528736
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,4.0,NISP,pollen,,2041.0,,,Radiocarbon years BP,103.0,290.0,pollen,6/30/2007,277.0,1.4440433213
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,6.0,NISP,pollen,,2306.0,,,Radiocarbon years BP,123.0,290.0,pollen,6/30/2007,234.0,2.5641025641
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,4.0,NISP,pollen,,2404.0,,,Radiocarbon years BP,133.0,290.0,pollen,6/30/2007,287.0,1.393728223
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,2.0,NISP,pollen,,2501.0,,,Radiocarbon years BP,143.0,290.0,pollen,6/30/2007,256.0,0.78125
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,2.0,NISP,pollen,,2598.0,,,Radiocarbon years BP,153.0,290.0,pollen,6/30/2007,255.0,0.78431372549
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,4.0,NISP,pollen,,2647.0,,,Radiocarbon years BP,158.0,290.0,pollen,6/30/2007,262.0,1.52671755725
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,2.0,NISP,pollen,,2744.0,,,Radiocarbon years BP,168.0,290.0,pollen,6/30/2007,229.0,0.873362445415
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,1.0,NISP,pollen,,2890.0,,,Radiocarbon years BP,183.0,290.0,pollen,6/30/2007,256.0,0.390625
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,3.0,NISP,pollen,,2939.0,,,Radiocarbon years BP,188.0,290.0,pollen,6/30/2007,292.0,1.02739726027
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,2.0,NISP,pollen,,3182.0,,,Radiocarbon years BP,213.0,290.0,pollen,6/30/2007,300.0,0.666666666667
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,1.0,NISP,pollen,,3260.0,,,Radiocarbon years BP,223.0,290.0,pollen,6/30/2007,334.0,0.299401197605
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,4.0,NISP,pollen,,3294.0,,,Radiocarbon years BP,233.0,290.0,pollen,6/30/2007,253.0,1.58102766798
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,3.0,NISP,pollen,,3328.0,,,Radiocarbon years BP,243.0,290.0,pollen,6/30/2007,378.0,0.793650793651
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,4.0,NISP,pollen,,3362.0,,,Radiocarbon years BP,253.0,290.0,pollen,6/30/2007,314.0,1.27388535032
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,1.0,NISP,pollen,,3396.0,,,Radiocarbon years BP,263.0,290.0,pollen,6/30/2007,263.0,0.380228136882
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,2.0,NISP,pollen,,3430.0,,,Radiocarbon years BP,273.0,290.0,pollen,6/30/2007,296.0,0.675675675676
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,1.0,NISP,pollen,,3447.0,,,Radiocarbon years BP,278.0,290.0,pollen,6/30/2007,258.0,0.387596899225
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,1.0,NISP,pollen,,3515.0,,,Radiocarbon years BP,298.0,290.0,pollen,6/30/2007,270.0,0.37037037037
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,1.0,NISP,pollen,,3532.0,,,Radiocarbon years BP,303.0,290.0,pollen,6/30/2007,260.0,0.384615384615
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,1.0,NISP,pollen,,3566.0,,,Radiocarbon years BP,313.0,290.0,pollen,6/30/2007,243.0,0.411522633745
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,1.0,NISP,pollen,,3601.0,,,Radiocarbon years BP,323.0,290.0,pollen,6/30/2007,226.0,0.442477876106
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,3.0,NISP,pollen,,3635.0,,,Radiocarbon years BP,333.0,290.0,pollen,6/30/2007,215.0,1.39534883721
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,2.0,NISP,pollen,,3669.0,,,Radiocarbon years BP,343.0,290.0,pollen,6/30/2007,264.0,0.757575757576
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,2.0,NISP,pollen,,3703.0,,,Radiocarbon years BP,353.0,290.0,pollen,6/30/2007,231.0,0.865800865801
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,2.0,NISP,pollen,,3737.0,,,Radiocarbon years BP,363.0,290.0,pollen,6/30/2007,230.0,0.869565217391
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,2.0,NISP,pollen,,3771.0,,,Radiocarbon years BP,373.0,290.0,pollen,6/30/2007,286.0,0.699300699301
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,2.0,NISP,pollen,,4319.0,,,Radiocarbon years BP,393.0,290.0,pollen,6/30/2007,258.0,0.77519379845
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,2.0,NISP,pollen,,4596.0,,,Radiocarbon years BP,403.0,290.0,pollen,6/30/2007,283.0,0.706713780919
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,4.0,NISP,pollen,,4956.0,,,Radiocarbon years BP,433.0,290.0,pollen,6/30/2007,232.0,1.72413793103
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,4.0,NISP,pollen,,5076.0,,,Radiocarbon years BP,443.0,290.0,pollen,6/30/2007,237.0,1.68776371308
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,7.0,NISP,pollen,,5316.0,,,Radiocarbon years BP,463.0,290.0,pollen,6/30/2007,237.0,2.95358649789
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,5.0,NISP,pollen,,5436.0,,,Radiocarbon years BP,473.0,290.0,pollen,6/30/2007,270.0,1.85185185185
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,6.0,NISP,pollen,,5556.0,,,Radiocarbon years BP,483.0,290.0,pollen,6/30/2007,253.0,2.37154150198
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,2.0,NISP,pollen,,5676.0,,,Radiocarbon years BP,493.0,290.0,pollen,6/30/2007,262.0,0.763358778626
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,5.0,NISP,pollen,,5796.0,,,Radiocarbon years BP,503.0,290.0,pollen,6/30/2007,244.0,2.04918032787
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,14.0,NISP,pollen,,5916.0,,,Radiocarbon years BP,513.0,290.0,pollen,6/30/2007,274.0,5.10948905109
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,3.0,NISP,pollen,,6100.0,,,Radiocarbon years BP,523.0,290.0,pollen,6/30/2007,272.0,1.10294117647
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,8.0,NISP,pollen,,6433.0,,,Radiocarbon years BP,533.0,290.0,pollen,6/30/2007,280.0,2.85714285714
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,5.0,NISP,pollen,,6767.0,,,Radiocarbon years BP,543.0,290.0,pollen,6/30/2007,278.0,1.79856115108
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,1.0,NISP,pollen,,7100.0,,,Radiocarbon years BP,553.0,290.0,pollen,6/30/2007,241.0,0.414937759336
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,3.0,NISP,pollen,,7267.0,,,Radiocarbon years BP,558.0,290.0,pollen,6/30/2007,263.0,1.14068441065
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,7.0,NISP,pollen,,7600.0,,,Radiocarbon years BP,568.0,290.0,pollen,6/30/2007,265.0,2.64150943396
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,14.0,NISP,pollen,,7767.0,,,Radiocarbon years BP,573.0,290.0,pollen,6/30/2007,282.0,4.96453900709
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,2.0,NISP,pollen,,8022.0,,,Radiocarbon years BP,583.0,290.0,pollen,6/30/2007,265.0,0.754716981132
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,3.0,NISP,pollen,,8098.0,,,Radiocarbon years BP,593.0,290.0,pollen,6/30/2007,323.0,0.928792569659
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,4.0,NISP,pollen,,8135.0,,,Radiocarbon years BP,598.0,290.0,pollen,6/30/2007,274.0,1.4598540146
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,3.0,NISP,pollen,,8172.0,,,Radiocarbon years BP,603.0,290.0,pollen,6/30/2007,245.0,1.22448979592
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,3.0,NISP,pollen,,8210.0,,,Radiocarbon years BP,608.0,290.0,pollen,6/30/2007,221.0,1.35746606335
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,2.0,NISP,pollen,,8315.0,,,Radiocarbon years BP,623.0,290.0,pollen,6/30/2007,199.0,1.00502512563
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,11.0,NISP,pollen,,8365.0,,,Radiocarbon years BP,633.0,290.0,pollen,6/30/2007,272.0,4.04411764706
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,1.0,NISP,pollen,,8415.0,,,Radiocarbon years BP,643.0,290.0,pollen,6/30/2007,170.0,0.588235294118
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,7.0,NISP,pollen,,8465.0,,,Radiocarbon years BP,653.0,290.0,pollen,6/30/2007,243.0,2.88065843621
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,4.0,NISP,pollen,,8515.0,,,Radiocarbon years BP,663.0,290.0,pollen,6/30/2007,273.0,1.4652014652
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,3.0,NISP,pollen,,8565.0,,,Radiocarbon years BP,673.0,290.0,pollen,6/30/2007,277.0,1.08303249097
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,3.0,NISP,pollen,,8625.0,,,Radiocarbon years BP,683.0,290.0,pollen,6/30/2007,269.0,1.11524163569
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,4.0,NISP,pollen,,8795.0,,,Radiocarbon years BP,703.0,290.0,pollen,6/30/2007,267.0,1.49812734082
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,1.0,NISP,pollen,,8879.0,,,Radiocarbon years BP,713.0,290.0,pollen,6/30/2007,225.0,0.444444444444
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,6.0,NISP,pollen,,8964.0,,,Radiocarbon years BP,723.0,290.0,pollen,6/30/2007,285.0,2.10526315789
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,1.0,NISP,pollen,,9048.0,,,Radiocarbon years BP,733.0,290.0,pollen,6/30/2007,253.0,0.395256916996
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,2.0,NISP,pollen,,9210.0,,,Radiocarbon years BP,753.0,290.0,pollen,6/30/2007,294.0,0.680272108844
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,4.0,NISP,pollen,,9285.0,,,Radiocarbon years BP,763.0,290.0,pollen,6/30/2007,291.0,1.37457044674
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,2.0,NISP,pollen,,9460.0,,,Radiocarbon years BP,773.0,290.0,pollen,6/30/2007,102.0,1.96078431373
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,2.0,NISP,pollen,,9606.0,,,Radiocarbon years BP,783.0,290.0,pollen,6/30/2007,305.0,0.655737704918
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,1.0,NISP,pollen,,9626.0,,,Radiocarbon years BP,793.0,290.0,pollen,6/30/2007,269.0,0.371747211896
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,2.0,NISP,pollen,,9676.0,,,Radiocarbon years BP,818.0,290.0,pollen,6/30/2007,260.0,0.769230769231
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,2.0,NISP,pollen,,9696.0,,,Radiocarbon years BP,828.0,290.0,pollen,6/30/2007,280.0,0.714285714286
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,3.0,NISP,pollen,,9706.0,,,Radiocarbon years BP,833.0,290.0,pollen,6/30/2007,285.0,1.05263157895
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,1.0,NISP,pollen,,9726.0,,,Radiocarbon years BP,843.0,290.0,pollen,6/30/2007,248.0,0.403225806452
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,1.0,NISP,pollen,,9746.0,,,Radiocarbon years BP,853.0,290.0,pollen,6/30/2007,257.0,0.389105058366
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,1.0,NISP,pollen,,9756.0,,,Radiocarbon years BP,858.0,290.0,pollen,6/30/2007,278.0,0.359712230216
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,2.0,NISP,pollen,,9766.0,,,Radiocarbon years BP,863.0,290.0,pollen,6/30/2007,278.0,0.719424460432
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,1.0,NISP,pollen,,9786.0,,,Radiocarbon years BP,873.0,290.0,pollen,6/30/2007,262.0,0.381679389313
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,7.0,NISP,pollen,,10000.0,,,Radiocarbon years BP,888.0,290.0,pollen,6/30/2007,455.0,1.53846153846
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,3.0,NISP,pollen,,10125.0,,,Radiocarbon years BP,893.0,290.0,pollen,6/30/2007,587.0,0.511073253833
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,6.0,NISP,pollen,,10250.0,,,Radiocarbon years BP,898.0,290.0,pollen,6/30/2007,436.0,1.37614678899
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,3.0,NISP,pollen,,10412.0,,,Radiocarbon years BP,908.0,290.0,pollen,6/30/2007,388.0,0.773195876289
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,2.0,NISP,pollen,,10482.0,,,Radiocarbon years BP,913.0,290.0,pollen,6/30/2007,342.0,0.584795321637
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,6.0,NISP,pollen,,10552.0,,,Radiocarbon years BP,918.0,290.0,pollen,6/30/2007,719.0,0.834492350487
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,2.0,NISP,pollen,,10622.0,,,Radiocarbon years BP,923.0,290.0,pollen,6/30/2007,455.0,0.43956043956
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,3.0,NISP,pollen,,10692.0,,,Radiocarbon years BP,928.0,290.0,pollen,6/30/2007,389.0,0.771208226221
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,2.0,NISP,pollen,,10762.0,,,Radiocarbon years BP,933.0,290.0,pollen,6/30/2007,537.0,0.372439478585
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,3.0,NISP,pollen,,10832.0,,,Radiocarbon years BP,938.0,290.0,pollen,6/30/2007,478.0,0.627615062762
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,4.0,NISP,pollen,,10972.0,,,Radiocarbon years BP,948.0,290.0,pollen,6/30/2007,481.0,0.831600831601
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,1.0,NISP,pollen,,11112.0,,,Radiocarbon years BP,958.0,290.0,pollen,6/30/2007,406.0,0.246305418719
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,1.0,NISP,pollen,,11252.0,,,Radiocarbon years BP,968.0,290.0,pollen,6/30/2007,411.0,0.243309002433
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Larix gmelinii,6.0,NISP,pollen,,463.0,,,Radiocarbon years BP,30.0,700.0,pollen,6/30/2007,273.0,2.1978021978
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Larix gmelinii,7.0,NISP,pollen,,618.0,,,Radiocarbon years BP,40.0,700.0,pollen,6/30/2007,385.0,1.81818181818
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Larix gmelinii,43.0,NISP,pollen,,772.0,,,Radiocarbon years BP,50.0,700.0,pollen,6/30/2007,360.0,11.9444444444
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Larix gmelinii,17.0,NISP,pollen,,926.0,,,Radiocarbon years BP,60.0,700.0,pollen,6/30/2007,358.0,4.74860335196
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Larix gmelinii,15.0,NISP,pollen,,1081.0,,,Radiocarbon years BP,70.0,700.0,pollen,6/30/2007,297.0,5.05050505051
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Larix gmelinii,8.0,NISP,pollen,,1235.0,,,Radiocarbon years BP,80.0,700.0,pollen,6/30/2007,283.0,2.82685512367
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Larix gmelinii,10.0,NISP,pollen,,1390.0,,,Radiocarbon years BP,90.0,700.0,pollen,6/30/2007,285.0,3.50877192982
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Larix gmelinii,19.0,NISP,pollen,,1544.0,,,Radiocarbon years BP,100.0,700.0,pollen,6/30/2007,272.0,6.98529411765
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Larix gmelinii,14.0,NISP,pollen,,1699.0,,,Radiocarbon years BP,110.0,700.0,pollen,6/30/2007,374.0,3.74331550802
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Larix gmelinii,7.0,NISP,pollen,,1853.0,,,Radiocarbon years BP,120.0,700.0,pollen,6/30/2007,279.0,2.50896057348
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Larix gmelinii,12.0,NISP,pollen,,2007.0,,,Radiocarbon years BP,130.0,700.0,pollen,6/30/2007,246.0,4.87804878049
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Larix gmelinii,1.0,NISP,pollen,,2162.0,,,Radiocarbon years BP,140.0,700.0,pollen,6/30/2007,246.0,0.406504065041
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Larix gmelinii,7.0,NISP,pollen,,2316.0,,,Radiocarbon years BP,150.0,700.0,pollen,6/30/2007,272.0,2.57352941176
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Larix gmelinii,11.0,NISP,pollen,,2471.0,,,Radiocarbon years BP,160.0,700.0,pollen,6/30/2007,283.0,3.88692579505
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Larix gmelinii,18.0,NISP,pollen,,2625.0,,,Radiocarbon years BP,170.0,700.0,pollen,6/30/2007,360.0,5.0
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Larix gmelinii,16.0,NISP,pollen,,2787.0,,,Radiocarbon years BP,180.0,700.0,pollen,6/30/2007,252.0,6.34920634921
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Larix gmelinii,11.0,NISP,pollen,,2958.0,,,Radiocarbon years BP,190.0,700.0,pollen,6/30/2007,327.0,3.36391437309
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Larix gmelinii,12.0,NISP,pollen,,3130.0,,,Radiocarbon years BP,200.0,700.0,pollen,6/30/2007,297.0,4.0404040404
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Larix gmelinii,10.0,NISP,pollen,,3301.0,,,Radiocarbon years BP,210.0,700.0,pollen,6/30/2007,509.0,1.96463654224
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Larix gmelinii,11.0,NISP,pollen,,3473.0,,,Radiocarbon years BP,220.0,700.0,pollen,6/30/2007,359.0,3.06406685237
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Larix gmelinii,8.0,NISP,pollen,,3644.0,,,Radiocarbon years BP,230.0,700.0,pollen,6/30/2007,262.0,3.0534351145
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Larix gmelinii,5.0,NISP,pollen,,3815.0,,,Radiocarbon years BP,240.0,700.0,pollen,6/30/2007,270.0,1.85185185185
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Larix gmelinii,9.0,NISP,pollen,,3987.0,,,Radiocarbon years BP,250.0,700.0,pollen,6/30/2007,257.0,3.50194552529
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Larix gmelinii,15.0,NISP,pollen,,4158.0,,,Radiocarbon years BP,260.0,700.0,pollen,6/30/2007,239.0,6.27615062762
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Larix gmelinii,14.0,NISP,pollen,,4329.0,,,Radiocarbon years BP,270.0,700.0,pollen,6/30/2007,510.0,2.74509803922
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Larix gmelinii,16.0,NISP,pollen,,4501.0,,,Radiocarbon years BP,280.0,700.0,pollen,6/30/2007,289.0,5.53633217993
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Larix gmelinii,19.0,NISP,pollen,,4672.0,,,Radiocarbon years BP,290.0,700.0,pollen,6/30/2007,236.0,8.05084745763
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Larix gmelinii,8.0,NISP,pollen,,4843.0,,,Radiocarbon years BP,300.0,700.0,pollen,6/30/2007,271.0,2.9520295203
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Larix gmelinii,6.0,NISP,pollen,,5015.0,,,Radiocarbon years BP,310.0,700.0,pollen,6/30/2007,260.0,2.30769230769
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Larix gmelinii,10.0,NISP,pollen,,5186.0,,,Radiocarbon years BP,320.0,700.0,pollen,6/30/2007,513.0,1.94931773879
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Larix gmelinii,2.0,NISP,pollen,,5357.0,,,Radiocarbon years BP,330.0,700.0,pollen,6/30/2007,402.0,0.497512437811
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Larix gmelinii,3.0,NISP,pollen,,5529.0,,,Radiocarbon years BP,340.0,700.0,pollen,6/30/2007,241.0,1.24481327801
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Larix gmelinii,5.0,NISP,pollen,,5700.0,,,Radiocarbon years BP,350.0,700.0,pollen,6/30/2007,261.0,1.91570881226
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Larix gmelinii,8.0,NISP,pollen,,5871.0,,,Radiocarbon years BP,360.0,700.0,pollen,6/30/2007,453.0,1.76600441501
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Larix gmelinii,12.0,NISP,pollen,,6095.0,,,Radiocarbon years BP,370.0,700.0,pollen,6/30/2007,437.0,2.74599542334
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Larix gmelinii,6.0,NISP,pollen,,6473.0,,,Radiocarbon years BP,380.0,700.0,pollen,6/30/2007,248.0,2.41935483871
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Larix gmelinii,10.0,NISP,pollen,,6852.0,,,Radiocarbon years BP,390.0,700.0,pollen,6/30/2007,249.0,4.01606425703
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Larix gmelinii,6.0,NISP,pollen,,7230.0,,,Radiocarbon years BP,400.0,700.0,pollen,6/30/2007,298.0,2.01342281879
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Larix gmelinii,5.0,NISP,pollen,,7609.0,,,Radiocarbon years BP,410.0,700.0,pollen,6/30/2007,304.0,1.64473684211
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Larix gmelinii,20.0,NISP,pollen,,7988.0,,,Radiocarbon years BP,420.0,700.0,pollen,6/30/2007,382.0,5.23560209424
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Larix gmelinii,9.0,NISP,pollen,,8366.0,,,Radiocarbon years BP,430.0,700.0,pollen,6/30/2007,593.0,1.51770657673
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Larix gmelinii,13.0,NISP,pollen,,8745.0,,,Radiocarbon years BP,440.0,700.0,pollen,6/30/2007,556.0,2.3381294964
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Larix gmelinii,10.0,NISP,pollen,,9123.0,,,Radiocarbon years BP,450.0,700.0,pollen,6/30/2007,291.0,3.43642611684
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Larix gmelinii,8.0,NISP,pollen,,9502.0,,,Radiocarbon years BP,460.0,700.0,pollen,6/30/2007,333.0,2.4024024024
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Larix gmelinii,7.0,NISP,pollen,,9880.0,,,Radiocarbon years BP,470.0,700.0,pollen,6/30/2007,254.0,2.75590551181
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Larix gmelinii,5.0,NISP,pollen,,10259.0,,,Radiocarbon years BP,480.0,700.0,pollen,6/30/2007,411.0,1.21654501217
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Larix gmelinii,8.0,NISP,pollen,,10638.0,,,Radiocarbon years BP,490.0,700.0,pollen,6/30/2007,236.0,3.38983050847
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Larix gmelinii,8.0,NISP,pollen,,11016.0,,,Radiocarbon years BP,500.0,700.0,pollen,6/30/2007,304.0,2.63157894737
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Larix gmelinii,1.0,NISP,pollen,,11395.0,,,Radiocarbon years BP,510.0,700.0,pollen,6/30/2007,242.0,0.413223140496
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Larix gmelinii,2.0,NISP,pollen,,11773.0,,,Radiocarbon years BP,520.0,700.0,pollen,6/30/2007,255.0,0.78431372549
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Larix gmelinii,4.0,NISP,pollen,,12152.0,,,Radiocarbon years BP,530.0,700.0,pollen,6/30/2007,292.0,1.3698630137
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Larix gmelinii,6.0,NISP,pollen,,12530.0,,,Radiocarbon years BP,540.0,700.0,pollen,6/30/2007,315.0,1.90476190476
+1402,Karas'e Lake,53.03,70.22,53.03,53.03,70.22,70.22,Vascular plants,Larix gmelinii,1.0,NISP,pollen,,2200.0,,,Radiocarbon years BP,130.0,435.0,pollen,6/30/2007,368.0,0.271739130435
+1402,Karas'e Lake,53.03,70.22,53.03,53.03,70.22,70.22,Vascular plants,Larix gmelinii,1.0,NISP,pollen,,3138.0,,,Radiocarbon years BP,215.0,435.0,pollen,6/30/2007,308.0,0.324675324675
+1477,Khocho,71.05,136.233333,71.05,71.05,136.233333,136.233333,Vascular plants,Larix gmelinii,24.0,NISP,pollen,,,,,,10.0,6.0,pollen,6/30/2007,334.0,7.18562874251
+1477,Khocho,71.05,136.233333,71.05,71.05,136.233333,136.233333,Vascular plants,Larix gmelinii,2.0,NISP,pollen,,,,,,20.0,6.0,pollen,6/30/2007,293.0,0.682593856655
+1477,Khocho,71.05,136.233333,71.05,71.05,136.233333,136.233333,Vascular plants,Larix gmelinii,6.0,NISP,pollen,,,,,,30.0,6.0,pollen,6/30/2007,355.0,1.69014084507
+1477,Khocho,71.05,136.233333,71.05,71.05,136.233333,136.233333,Vascular plants,Larix gmelinii,4.0,NISP,pollen,,,,,,40.0,6.0,pollen,6/30/2007,343.0,1.16618075802
+1477,Khocho,71.05,136.233333,71.05,71.05,136.233333,136.233333,Vascular plants,Larix gmelinii,2.0,NISP,pollen,,,,,,50.0,6.0,pollen,6/30/2007,291.0,0.687285223368
+1477,Khocho,71.05,136.233333,71.05,71.05,136.233333,136.233333,Vascular plants,Larix gmelinii,10.0,NISP,pollen,,,,,,60.0,6.0,pollen,6/30/2007,336.0,2.97619047619
+1477,Khocho,71.05,136.233333,71.05,71.05,136.233333,136.233333,Vascular plants,Larix gmelinii,8.0,NISP,pollen,,,,,,70.0,6.0,pollen,6/30/2007,359.0,2.22841225627
+1477,Khocho,71.05,136.233333,71.05,71.05,136.233333,136.233333,Vascular plants,Larix gmelinii,1.0,NISP,pollen,,,,,,80.0,6.0,pollen,6/30/2007,325.0,0.307692307692
+1477,Khocho,71.05,136.233333,71.05,71.05,136.233333,136.233333,Vascular plants,Larix gmelinii,1.0,NISP,pollen,,,,,,100.0,6.0,pollen,6/30/2007,307.0,0.325732899023
+1477,Khocho,71.05,136.233333,71.05,71.05,136.233333,136.233333,Vascular plants,Larix gmelinii,14.0,NISP,pollen,,,,,,110.0,6.0,pollen,6/30/2007,297.0,4.7138047138
+1477,Khocho,71.05,136.233333,71.05,71.05,136.233333,136.233333,Vascular plants,Larix gmelinii,10.0,NISP,pollen,,,,,,120.0,6.0,pollen,6/30/2007,459.0,2.17864923747
+1477,Khocho,71.05,136.233333,71.05,71.05,136.233333,136.233333,Vascular plants,Larix gmelinii,3.0,NISP,pollen,,,,,,130.0,6.0,pollen,6/30/2007,326.0,0.920245398773
+1477,Khocho,71.05,136.233333,71.05,71.05,136.233333,136.233333,Vascular plants,Larix gmelinii,3.0,NISP,pollen,,,,,,150.0,6.0,pollen,6/30/2007,467.0,0.642398286938
+1477,Khocho,71.05,136.233333,71.05,71.05,136.233333,136.233333,Vascular plants,Larix gmelinii,1.0,NISP,pollen,,,,,,160.0,6.0,pollen,6/30/2007,591.0,0.169204737733
+1477,Khocho,71.05,136.233333,71.05,71.05,136.233333,136.233333,Vascular plants,Larix gmelinii,1.0,NISP,pollen,,,,,,170.0,6.0,pollen,6/30/2007,364.0,0.274725274725
+1477,Khocho,71.05,136.233333,71.05,71.05,136.233333,136.233333,Vascular plants,Larix gmelinii,4.0,NISP,pollen,,,,,,180.0,6.0,pollen,6/30/2007,419.0,0.954653937947
+1477,Khocho,71.05,136.233333,71.05,71.05,136.233333,136.233333,Vascular plants,Larix gmelinii,3.0,NISP,pollen,,,,,,190.0,6.0,pollen,6/30/2007,377.0,0.79575596817
+1477,Khocho,71.05,136.233333,71.05,71.05,136.233333,136.233333,Vascular plants,Larix gmelinii,4.0,NISP,pollen,,,,,,200.0,6.0,pollen,6/30/2007,501.0,0.798403193613
+1477,Khocho,71.05,136.233333,71.05,71.05,136.233333,136.233333,Vascular plants,Larix gmelinii,6.0,NISP,pollen,,,,,,230.0,6.0,pollen,6/30/2007,357.0,1.68067226891
+1477,Khocho,71.05,136.233333,71.05,71.05,136.233333,136.233333,Vascular plants,Larix gmelinii,5.0,NISP,pollen,,,,,,250.0,6.0,pollen,6/30/2007,332.0,1.50602409639
+1477,Khocho,71.05,136.233333,71.05,71.05,136.233333,136.233333,Vascular plants,Larix gmelinii,1.0,NISP,pollen,,,,,,270.0,6.0,pollen,6/30/2007,306.0,0.326797385621
+1477,Khocho,71.05,136.233333,71.05,71.05,136.233333,136.233333,Vascular plants,Larix gmelinii,1.0,NISP,pollen,,,,,,280.0,6.0,pollen,6/30/2007,329.0,0.303951367781
+1477,Khocho,71.05,136.233333,71.05,71.05,136.233333,136.233333,Vascular plants,Larix gmelinii,1.0,NISP,pollen,,,,,,290.0,6.0,pollen,6/30/2007,382.0,0.261780104712
+1477,Khocho,71.05,136.233333,71.05,71.05,136.233333,136.233333,Vascular plants,Larix gmelinii,2.0,NISP,pollen,,,,,,300.0,6.0,pollen,6/30/2007,516.0,0.387596899225
+1477,Khocho,71.05,136.233333,71.05,71.05,136.233333,136.233333,Vascular plants,Larix gmelinii,9.0,NISP,pollen,,,,,,320.0,6.0,pollen,6/30/2007,376.0,2.39361702128
+1477,Khocho,71.05,136.233333,71.05,71.05,136.233333,136.233333,Vascular plants,Larix gmelinii,2.0,NISP,pollen,,,,,,340.0,6.0,pollen,6/30/2007,381.0,0.524934383202
+1479,Khomustakh Lake,63.82,121.62,63.82,63.82,121.62,121.62,Vascular plants,Larix gmelinii,1.0,NISP,pollen,,385.0,,,Radiocarbon years BP,10.0,120.0,pollen,6/30/2007,336.0,0.297619047619
+1479,Khomustakh Lake,63.82,121.62,63.82,63.82,121.62,121.62,Vascular plants,Larix gmelinii,1.0,NISP,pollen,,770.0,,,Radiocarbon years BP,20.0,120.0,pollen,6/30/2007,500.0,0.2
+1479,Khomustakh Lake,63.82,121.62,63.82,63.82,121.62,121.62,Vascular plants,Larix gmelinii,2.0,NISP,pollen,,1925.0,,,Radiocarbon years BP,50.0,120.0,pollen,6/30/2007,340.0,0.588235294118
+1479,Khomustakh Lake,63.82,121.62,63.82,63.82,121.62,121.62,Vascular plants,Larix gmelinii,1.0,NISP,pollen,,2310.0,,,Radiocarbon years BP,60.0,120.0,pollen,6/30/2007,331.0,0.302114803625
+1479,Khomustakh Lake,63.82,121.62,63.82,63.82,121.62,121.62,Vascular plants,Larix gmelinii,2.0,NISP,pollen,,3850.0,,,Radiocarbon years BP,100.0,120.0,pollen,6/30/2007,303.0,0.660066006601
+1479,Khomustakh Lake,63.82,121.62,63.82,63.82,121.62,121.62,Vascular plants,Larix gmelinii,4.0,NISP,pollen,,4718.0,,,Radiocarbon years BP,130.0,120.0,pollen,6/30/2007,319.0,1.2539184953
+1479,Khomustakh Lake,63.82,121.62,63.82,63.82,121.62,121.62,Vascular plants,Larix gmelinii,2.0,NISP,pollen,,4816.0,,,Radiocarbon years BP,140.0,120.0,pollen,6/30/2007,294.0,0.680272108844
+1479,Khomustakh Lake,63.82,121.62,63.82,63.82,121.62,121.62,Vascular plants,Larix gmelinii,1.0,NISP,pollen,,5110.0,,,Radiocarbon years BP,170.0,120.0,pollen,6/30/2007,332.0,0.301204819277
+1479,Khomustakh Lake,63.82,121.62,63.82,63.82,121.62,121.62,Vascular plants,Larix gmelinii,2.0,NISP,pollen,,5239.0,,,Radiocarbon years BP,180.0,120.0,pollen,6/30/2007,318.0,0.62893081761
+1479,Khomustakh Lake,63.82,121.62,63.82,63.82,121.62,121.62,Vascular plants,Larix gmelinii,1.0,NISP,pollen,,5369.0,,,Radiocarbon years BP,190.0,120.0,pollen,6/30/2007,275.0,0.363636363636
+1479,Khomustakh Lake,63.82,121.62,63.82,63.82,121.62,121.62,Vascular plants,Larix gmelinii,1.0,NISP,pollen,,5498.0,,,Radiocarbon years BP,200.0,120.0,pollen,6/30/2007,268.0,0.373134328358
+1479,Khomustakh Lake,63.82,121.62,63.82,63.82,121.62,121.62,Vascular plants,Larix gmelinii,1.0,NISP,pollen,,5627.0,,,Radiocarbon years BP,210.0,120.0,pollen,6/30/2007,282.0,0.354609929078
+1479,Khomustakh Lake,63.82,121.62,63.82,63.82,121.62,121.62,Vascular plants,Larix gmelinii,1.0,NISP,pollen,,6015.0,,,Radiocarbon years BP,240.0,120.0,pollen,6/30/2007,305.0,0.327868852459
+1479,Khomustakh Lake,63.82,121.62,63.82,63.82,121.62,121.62,Vascular plants,Larix gmelinii,1.0,NISP,pollen,,6145.0,,,Radiocarbon years BP,250.0,120.0,pollen,6/30/2007,330.0,0.30303030303
+1479,Khomustakh Lake,63.82,121.62,63.82,63.82,121.62,121.62,Vascular plants,Larix gmelinii,1.0,NISP,pollen,,6533.0,,,Radiocarbon years BP,280.0,120.0,pollen,6/30/2007,294.0,0.340136054422
+1479,Khomustakh Lake,63.82,121.62,63.82,63.82,121.62,121.62,Vascular plants,Larix gmelinii,1.0,NISP,pollen,,6662.0,,,Radiocarbon years BP,290.0,120.0,pollen,6/30/2007,278.0,0.359712230216
+1479,Khomustakh Lake,63.82,121.62,63.82,63.82,121.62,121.62,Vascular plants,Larix gmelinii,1.0,NISP,pollen,,6791.0,,,Radiocarbon years BP,300.0,120.0,pollen,6/30/2007,231.0,0.4329004329
+1479,Khomustakh Lake,63.82,121.62,63.82,63.82,121.62,121.62,Vascular plants,Larix gmelinii,2.0,NISP,pollen,,7050.0,,,Radiocarbon years BP,320.0,120.0,pollen,6/30/2007,290.0,0.689655172414
+1479,Khomustakh Lake,63.82,121.62,63.82,63.82,121.62,121.62,Vascular plants,Larix gmelinii,2.0,NISP,pollen,,7327.0,,,Radiocarbon years BP,330.0,120.0,pollen,6/30/2007,244.0,0.819672131148
+1479,Khomustakh Lake,63.82,121.62,63.82,63.82,121.62,121.62,Vascular plants,Larix gmelinii,3.0,NISP,pollen,,7603.0,,,Radiocarbon years BP,340.0,120.0,pollen,6/30/2007,207.0,1.44927536232
+1479,Khomustakh Lake,63.82,121.62,63.82,63.82,121.62,121.62,Vascular plants,Larix gmelinii,1.0,NISP,pollen,,7894.0,,,Radiocarbon years BP,360.0,120.0,pollen,6/30/2007,328.0,0.30487804878
+1479,Khomustakh Lake,63.82,121.62,63.82,63.82,121.62,121.62,Vascular plants,Larix gmelinii,2.0,NISP,pollen,,7908.0,,,Radiocarbon years BP,370.0,120.0,pollen,6/30/2007,284.0,0.704225352113
+1479,Khomustakh Lake,63.82,121.62,63.82,63.82,121.62,121.62,Vascular plants,Larix gmelinii,2.0,NISP,pollen,,7922.0,,,Radiocarbon years BP,380.0,120.0,pollen,6/30/2007,283.0,0.706713780919
+1479,Khomustakh Lake,63.82,121.62,63.82,63.82,121.62,121.62,Vascular plants,Larix gmelinii,1.0,NISP,pollen,,7936.0,,,Radiocarbon years BP,390.0,120.0,pollen,6/30/2007,221.0,0.452488687783
+1479,Khomustakh Lake,63.82,121.62,63.82,63.82,121.62,121.62,Vascular plants,Larix gmelinii,2.0,NISP,pollen,,8034.0,,,Radiocarbon years BP,410.0,120.0,pollen,6/30/2007,280.0,0.714285714286
+1479,Khomustakh Lake,63.82,121.62,63.82,63.82,121.62,121.62,Vascular plants,Larix gmelinii,2.0,NISP,pollen,,8286.0,,,Radiocarbon years BP,440.0,120.0,pollen,6/30/2007,279.0,0.716845878136
+1479,Khomustakh Lake,63.82,121.62,63.82,63.82,121.62,121.62,Vascular plants,Larix gmelinii,2.0,NISP,pollen,,9579.0,,,Radiocarbon years BP,490.0,120.0,pollen,6/30/2007,274.0,0.729927007299
+1479,Khomustakh Lake,63.82,121.62,63.82,63.82,121.62,121.62,Vascular plants,Larix gmelinii,2.0,NISP,pollen,,9740.0,,,Radiocarbon years BP,500.0,120.0,pollen,6/30/2007,334.0,0.59880239521
+1479,Khomustakh Lake,63.82,121.62,63.82,63.82,121.62,121.62,Vascular plants,Larix gmelinii,1.0,NISP,pollen,,9761.0,,,Radiocarbon years BP,510.0,120.0,pollen,6/30/2007,127.0,0.787401574803
+1479,Khomustakh Lake,63.82,121.62,63.82,63.82,121.62,121.62,Vascular plants,Larix gmelinii,3.0,NISP,pollen,,9782.0,,,Radiocarbon years BP,520.0,120.0,pollen,6/30/2007,259.0,1.1583011583
+1479,Khomustakh Lake,63.82,121.62,63.82,63.82,121.62,121.62,Vascular plants,Larix gmelinii,2.0,NISP,pollen,,9803.0,,,Radiocarbon years BP,530.0,120.0,pollen,6/30/2007,286.0,0.699300699301
+1479,Khomustakh Lake,63.82,121.62,63.82,63.82,121.62,121.62,Vascular plants,Larix gmelinii,2.0,NISP,pollen,,9824.0,,,Radiocarbon years BP,540.0,120.0,pollen,6/30/2007,305.0,0.655737704918
+1479,Khomustakh Lake,63.82,121.62,63.82,63.82,121.62,121.62,Vascular plants,Larix gmelinii,1.0,NISP,pollen,,9844.0,,,Radiocarbon years BP,550.0,120.0,pollen,6/30/2007,325.0,0.307692307692
+1479,Khomustakh Lake,63.82,121.62,63.82,63.82,121.62,121.62,Vascular plants,Larix gmelinii,3.0,NISP,pollen,,9865.0,,,Radiocarbon years BP,560.0,120.0,pollen,6/30/2007,281.0,1.06761565836
+1479,Khomustakh Lake,63.82,121.62,63.82,63.82,121.62,121.62,Vascular plants,Larix gmelinii,1.0,NISP,pollen,,9886.0,,,Radiocarbon years BP,570.0,120.0,pollen,6/30/2007,333.0,0.3003003003
+1479,Khomustakh Lake,63.82,121.62,63.82,63.82,121.62,121.62,Vascular plants,Larix gmelinii,12.0,NISP,pollen,,9907.0,,,Radiocarbon years BP,580.0,120.0,pollen,6/30/2007,315.0,3.80952380952
+1479,Khomustakh Lake,63.82,121.62,63.82,63.82,121.62,121.62,Vascular plants,Larix gmelinii,15.0,NISP,pollen,,9948.0,,,Radiocarbon years BP,600.0,120.0,pollen,6/30/2007,302.0,4.96688741722
+1479,Khomustakh Lake,63.82,121.62,63.82,63.82,121.62,121.62,Vascular plants,Larix gmelinii,7.0,NISP,pollen,,9969.0,,,Radiocarbon years BP,610.0,120.0,pollen,6/30/2007,299.0,2.34113712375
+1479,Khomustakh Lake,63.82,121.62,63.82,63.82,121.62,121.62,Vascular plants,Larix gmelinii,5.0,NISP,pollen,,9990.0,,,Radiocarbon years BP,620.0,120.0,pollen,6/30/2007,240.0,2.08333333333
+1479,Khomustakh Lake,63.82,121.62,63.82,63.82,121.62,121.62,Vascular plants,Larix gmelinii,4.0,NISP,pollen,,10031.0,,,Radiocarbon years BP,630.0,120.0,pollen,6/30/2007,310.0,1.29032258065
+1479,Khomustakh Lake,63.82,121.62,63.82,63.82,121.62,121.62,Vascular plants,Larix gmelinii,2.0,NISP,pollen,,10072.0,,,Radiocarbon years BP,640.0,120.0,pollen,6/30/2007,432.0,0.462962962963
+1479,Khomustakh Lake,63.82,121.62,63.82,63.82,121.62,121.62,Vascular plants,Larix gmelinii,5.0,NISP,pollen,,10113.0,,,Radiocarbon years BP,650.0,120.0,pollen,6/30/2007,396.0,1.26262626263
+1479,Khomustakh Lake,63.82,121.62,63.82,63.82,121.62,121.62,Vascular plants,Larix gmelinii,3.0,NISP,pollen,,10154.0,,,Radiocarbon years BP,660.0,120.0,pollen,6/30/2007,245.0,1.22448979592
+1479,Khomustakh Lake,63.82,121.62,63.82,63.82,121.62,121.62,Vascular plants,Larix gmelinii,1.0,NISP,pollen,,10195.0,,,Radiocarbon years BP,670.0,120.0,pollen,6/30/2007,238.0,0.420168067227
+1479,Khomustakh Lake,63.82,121.62,63.82,63.82,121.62,121.62,Vascular plants,Larix gmelinii,3.0,NISP,pollen,,10236.0,,,Radiocarbon years BP,680.0,120.0,pollen,6/30/2007,308.0,0.974025974026
+1479,Khomustakh Lake,63.82,121.62,63.82,63.82,121.62,121.62,Vascular plants,Larix gmelinii,5.0,NISP,pollen,,10277.0,,,Radiocarbon years BP,690.0,120.0,pollen,6/30/2007,283.0,1.7667844523
+1479,Khomustakh Lake,63.82,121.62,63.82,63.82,121.62,121.62,Vascular plants,Larix gmelinii,4.0,NISP,pollen,,10318.0,,,Radiocarbon years BP,700.0,120.0,pollen,6/30/2007,275.0,1.45454545455
+1479,Khomustakh Lake,63.82,121.62,63.82,63.82,121.62,121.62,Vascular plants,Larix gmelinii,5.0,NISP,pollen,,10359.0,,,Radiocarbon years BP,710.0,120.0,pollen,6/30/2007,270.0,1.85185185185
+1479,Khomustakh Lake,63.82,121.62,63.82,63.82,121.62,121.62,Vascular plants,Larix gmelinii,9.0,NISP,pollen,,10400.0,,,Radiocarbon years BP,720.0,120.0,pollen,6/30/2007,343.0,2.62390670554
+1479,Khomustakh Lake,63.82,121.62,63.82,63.82,121.62,121.62,Vascular plants,Larix gmelinii,8.0,NISP,pollen,,10441.0,,,Radiocarbon years BP,730.0,120.0,pollen,6/30/2007,219.0,3.65296803653
+1479,Khomustakh Lake,63.82,121.62,63.82,63.82,121.62,121.62,Vascular plants,Larix gmelinii,3.0,NISP,pollen,,10482.0,,,Radiocarbon years BP,740.0,120.0,pollen,6/30/2007,253.0,1.18577075099
+1511,Kotyrkol' Peat Bog,52.966667,70.416667,52.966667,52.966667,70.416667,70.416667,Vascular plants,Larix gmelinii,2.0,NISP,pollen,,3101.0,,,Radiocarbon years BP,140.0,439.0,pollen,6/30/2007,320.0,0.625
+1511,Kotyrkol' Peat Bog,52.966667,70.416667,52.966667,52.966667,70.416667,70.416667,Vascular plants,Larix gmelinii,1.0,NISP,pollen,,3766.0,,,Radiocarbon years BP,170.0,439.0,pollen,6/30/2007,315.0,0.31746031746
+1511,Kotyrkol' Peat Bog,52.966667,70.416667,52.966667,52.966667,70.416667,70.416667,Vascular plants,Larix gmelinii,1.0,NISP,pollen,,4430.0,,,Radiocarbon years BP,200.0,439.0,pollen,6/30/2007,358.0,0.279329608939
+1511,Kotyrkol' Peat Bog,52.966667,70.416667,52.966667,52.966667,70.416667,70.416667,Vascular plants,Larix gmelinii,1.0,NISP,pollen,,4652.0,,,Radiocarbon years BP,210.0,439.0,pollen,6/30/2007,397.0,0.251889168766
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Larix gmelinii,30.0,NISP,pollen,,200.0,,,Radiocarbon years BP,10.0,160.0,pollen,6/30/2007,280.0,10.7142857143
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Larix gmelinii,16.0,NISP,pollen,,435.0,,,Radiocarbon years BP,20.0,160.0,pollen,6/30/2007,291.0,5.49828178694
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Larix gmelinii,20.0,NISP,pollen,,670.0,,,Radiocarbon years BP,30.0,160.0,pollen,6/30/2007,254.0,7.87401574803
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Larix gmelinii,22.0,NISP,pollen,,905.0,,,Radiocarbon years BP,40.0,160.0,pollen,6/30/2007,271.0,8.11808118081
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Larix gmelinii,24.0,NISP,pollen,,1140.0,,,Radiocarbon years BP,50.0,160.0,pollen,6/30/2007,248.0,9.67741935484
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Larix gmelinii,24.0,NISP,pollen,,1375.0,,,Radiocarbon years BP,60.0,160.0,pollen,6/30/2007,247.0,9.71659919028
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Larix gmelinii,12.0,NISP,pollen,,1610.0,,,Radiocarbon years BP,70.0,160.0,pollen,6/30/2007,268.0,4.4776119403
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Larix gmelinii,28.0,NISP,pollen,,1659.0,,,Radiocarbon years BP,80.0,160.0,pollen,6/30/2007,232.0,12.0689655172
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Larix gmelinii,30.0,NISP,pollen,,1708.0,,,Radiocarbon years BP,90.0,160.0,pollen,6/30/2007,243.0,12.3456790123
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Larix gmelinii,27.0,NISP,pollen,,1757.0,,,Radiocarbon years BP,100.0,160.0,pollen,6/30/2007,253.0,10.6719367589
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Larix gmelinii,28.0,NISP,pollen,,1806.0,,,Radiocarbon years BP,110.0,160.0,pollen,6/30/2007,236.0,11.8644067797
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Larix gmelinii,20.0,NISP,pollen,,1855.0,,,Radiocarbon years BP,120.0,160.0,pollen,6/30/2007,243.0,8.2304526749
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Larix gmelinii,31.0,NISP,pollen,,1904.0,,,Radiocarbon years BP,130.0,160.0,pollen,6/30/2007,299.0,10.3678929766
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Larix gmelinii,19.0,NISP,pollen,,1953.0,,,Radiocarbon years BP,140.0,160.0,pollen,6/30/2007,263.0,7.22433460076
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Larix gmelinii,4.0,NISP,pollen,,2002.0,,,Radiocarbon years BP,150.0,160.0,pollen,6/30/2007,273.0,1.4652014652
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Larix gmelinii,2.0,NISP,pollen,,2051.0,,,Radiocarbon years BP,160.0,160.0,pollen,6/30/2007,235.0,0.851063829787
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Larix gmelinii,16.0,NISP,pollen,,2100.0,,,Radiocarbon years BP,170.0,160.0,pollen,6/30/2007,272.0,5.88235294118
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Larix gmelinii,6.0,NISP,pollen,,2135.0,,,Radiocarbon years BP,180.0,160.0,pollen,6/30/2007,264.0,2.27272727273
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Larix gmelinii,23.0,NISP,pollen,,2170.0,,,Radiocarbon years BP,190.0,160.0,pollen,6/30/2007,274.0,8.39416058394
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Larix gmelinii,22.0,NISP,pollen,,2274.0,,,Radiocarbon years BP,200.0,160.0,pollen,6/30/2007,294.0,7.48299319728
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Larix gmelinii,9.0,NISP,pollen,,2378.0,,,Radiocarbon years BP,210.0,160.0,pollen,6/30/2007,260.0,3.46153846154
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Larix gmelinii,12.0,NISP,pollen,,2481.0,,,Radiocarbon years BP,220.0,160.0,pollen,6/30/2007,246.0,4.87804878049
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Larix gmelinii,14.0,NISP,pollen,,2585.0,,,Radiocarbon years BP,230.0,160.0,pollen,6/30/2007,259.0,5.40540540541
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Larix gmelinii,12.0,NISP,pollen,,2689.0,,,Radiocarbon years BP,240.0,160.0,pollen,6/30/2007,257.0,4.66926070039
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Larix gmelinii,5.0,NISP,pollen,,2792.0,,,Radiocarbon years BP,250.0,160.0,pollen,6/30/2007,121.0,4.13223140496
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Larix gmelinii,23.0,NISP,pollen,,2896.0,,,Radiocarbon years BP,260.0,160.0,pollen,6/30/2007,262.0,8.7786259542
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Larix gmelinii,15.0,NISP,pollen,,3000.0,,,Radiocarbon years BP,270.0,160.0,pollen,6/30/2007,254.0,5.90551181102
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Larix gmelinii,8.0,NISP,pollen,,3061.0,,,Radiocarbon years BP,280.0,160.0,pollen,6/30/2007,276.0,2.89855072464
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Larix gmelinii,19.0,NISP,pollen,,3122.0,,,Radiocarbon years BP,290.0,160.0,pollen,6/30/2007,262.0,7.25190839695
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Larix gmelinii,22.0,NISP,pollen,,3183.0,,,Radiocarbon years BP,300.0,160.0,pollen,6/30/2007,285.0,7.71929824561
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Larix gmelinii,11.0,NISP,pollen,,3244.0,,,Radiocarbon years BP,310.0,160.0,pollen,6/30/2007,240.0,4.58333333333
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Larix gmelinii,12.0,NISP,pollen,,3305.0,,,Radiocarbon years BP,320.0,160.0,pollen,6/30/2007,221.0,5.42986425339
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Larix gmelinii,15.0,NISP,pollen,,3366.0,,,Radiocarbon years BP,330.0,160.0,pollen,6/30/2007,258.0,5.81395348837
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Larix gmelinii,9.0,NISP,pollen,,3427.0,,,Radiocarbon years BP,340.0,160.0,pollen,6/30/2007,258.0,3.48837209302
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Larix gmelinii,15.0,NISP,pollen,,3488.0,,,Radiocarbon years BP,350.0,160.0,pollen,6/30/2007,236.0,6.35593220339
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Larix gmelinii,19.0,NISP,pollen,,3549.0,,,Radiocarbon years BP,360.0,160.0,pollen,6/30/2007,244.0,7.7868852459
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Larix gmelinii,36.0,NISP,pollen,,3610.0,,,Radiocarbon years BP,370.0,160.0,pollen,6/30/2007,287.0,12.543554007
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Larix gmelinii,21.0,NISP,pollen,,3783.0,,,Radiocarbon years BP,380.0,160.0,pollen,6/30/2007,265.0,7.92452830189
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Larix gmelinii,30.0,NISP,pollen,,3955.0,,,Radiocarbon years BP,390.0,160.0,pollen,6/30/2007,265.0,11.320754717
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Larix gmelinii,21.0,NISP,pollen,,4128.0,,,Radiocarbon years BP,400.0,160.0,pollen,6/30/2007,268.0,7.83582089552
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Larix gmelinii,16.0,NISP,pollen,,4301.0,,,Radiocarbon years BP,410.0,160.0,pollen,6/30/2007,278.0,5.75539568345
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Larix gmelinii,19.0,NISP,pollen,,4474.0,,,Radiocarbon years BP,420.0,160.0,pollen,6/30/2007,286.0,6.64335664336
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Larix gmelinii,18.0,NISP,pollen,,4646.0,,,Radiocarbon years BP,430.0,160.0,pollen,6/30/2007,314.0,5.73248407643
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Larix gmelinii,16.0,NISP,pollen,,4819.0,,,Radiocarbon years BP,440.0,160.0,pollen,6/30/2007,282.0,5.67375886525
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Larix gmelinii,21.0,NISP,pollen,,4992.0,,,Radiocarbon years BP,450.0,160.0,pollen,6/30/2007,259.0,8.10810810811
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Larix gmelinii,30.0,NISP,pollen,,5165.0,,,Radiocarbon years BP,460.0,160.0,pollen,6/30/2007,272.0,11.0294117647
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Larix gmelinii,25.0,NISP,pollen,,5337.0,,,Radiocarbon years BP,470.0,160.0,pollen,6/30/2007,260.0,9.61538461538
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Larix gmelinii,25.0,NISP,pollen,,5510.0,,,Radiocarbon years BP,480.0,160.0,pollen,6/30/2007,311.0,8.038585209
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Larix gmelinii,21.0,NISP,pollen,,5543.0,,,Radiocarbon years BP,490.0,160.0,pollen,6/30/2007,265.0,7.92452830189
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Larix gmelinii,9.0,NISP,pollen,,5575.0,,,Radiocarbon years BP,500.0,160.0,pollen,6/30/2007,275.0,3.27272727273
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Larix gmelinii,30.0,NISP,pollen,,5608.0,,,Radiocarbon years BP,510.0,160.0,pollen,6/30/2007,250.0,12.0
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Larix gmelinii,5.0,NISP,pollen,,5641.0,,,Radiocarbon years BP,520.0,160.0,pollen,6/30/2007,255.0,1.96078431373
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Larix gmelinii,20.0,NISP,pollen,,5673.0,,,Radiocarbon years BP,530.0,160.0,pollen,6/30/2007,237.0,8.4388185654
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Larix gmelinii,15.0,NISP,pollen,,5706.0,,,Radiocarbon years BP,540.0,160.0,pollen,6/30/2007,281.0,5.33807829181
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Larix gmelinii,21.0,NISP,pollen,,5739.0,,,Radiocarbon years BP,550.0,160.0,pollen,6/30/2007,260.0,8.07692307692
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Larix gmelinii,35.0,NISP,pollen,,5771.0,,,Radiocarbon years BP,560.0,160.0,pollen,6/30/2007,258.0,13.5658914729
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Larix gmelinii,6.0,NISP,pollen,,5804.0,,,Radiocarbon years BP,570.0,160.0,pollen,6/30/2007,311.0,1.92926045016
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Larix gmelinii,26.0,NISP,pollen,,5837.0,,,Radiocarbon years BP,580.0,160.0,pollen,6/30/2007,306.0,8.49673202614
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Larix gmelinii,11.0,NISP,pollen,,5869.0,,,Radiocarbon years BP,590.0,160.0,pollen,6/30/2007,283.0,3.88692579505
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Larix gmelinii,20.0,NISP,pollen,,5902.0,,,Radiocarbon years BP,600.0,160.0,pollen,6/30/2007,263.0,7.60456273764
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Larix gmelinii,37.0,NISP,pollen,,5935.0,,,Radiocarbon years BP,610.0,160.0,pollen,6/30/2007,266.0,13.9097744361
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Larix gmelinii,22.0,NISP,pollen,,5967.0,,,Radiocarbon years BP,620.0,160.0,pollen,6/30/2007,270.0,8.14814814815
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Larix gmelinii,28.0,NISP,pollen,,6000.0,,,Radiocarbon years BP,630.0,160.0,pollen,6/30/2007,287.0,9.75609756098
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Larix gmelinii,10.0,NISP,pollen,,6033.0,,,Radiocarbon years BP,640.0,160.0,pollen,6/30/2007,269.0,3.71747211896
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Larix gmelinii,15.0,NISP,pollen,,6065.0,,,Radiocarbon years BP,650.0,160.0,pollen,6/30/2007,293.0,5.11945392491
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Larix gmelinii,16.0,NISP,pollen,,6098.0,,,Radiocarbon years BP,660.0,160.0,pollen,6/30/2007,236.0,6.77966101695
+1786,Ozerki,50.416667,80.466667,50.416667,50.416667,80.466667,80.466667,Vascular plants,Larix gmelinii,3.0,NISP,pollen,,12140.0,,,Radiocarbon years BP,450.0,,pollen,6/30/2007,257.0,1.1673151751
+1798,Pashennoe,49.37,75.4,49.37,49.37,75.4,75.4,Vascular plants,Larix gmelinii,2.0,NISP,pollen,,500.0,,,Radiocarbon years BP,10.0,871.0,pollen,6/30/2007,358.0,0.558659217877
+2254,Samandon,70.766667,136.25,70.766667,70.766667,136.25,136.25,Vascular plants,Larix gmelinii,10.0,NISP,pollen,,,,,,10.0,10.0,pollen,6/30/2007,336.0,2.97619047619
+2254,Samandon,70.766667,136.25,70.766667,70.766667,136.25,136.25,Vascular plants,Larix gmelinii,19.0,NISP,pollen,,,,,,20.0,10.0,pollen,6/30/2007,368.0,5.16304347826
+2254,Samandon,70.766667,136.25,70.766667,70.766667,136.25,136.25,Vascular plants,Larix gmelinii,8.0,NISP,pollen,,,,,,30.0,10.0,pollen,6/30/2007,300.0,2.66666666667
+2254,Samandon,70.766667,136.25,70.766667,70.766667,136.25,136.25,Vascular plants,Larix gmelinii,5.0,NISP,pollen,,,,,,60.0,10.0,pollen,6/30/2007,524.0,0.954198473282
+2254,Samandon,70.766667,136.25,70.766667,70.766667,136.25,136.25,Vascular plants,Larix gmelinii,12.0,NISP,pollen,,,,,,80.0,10.0,pollen,6/30/2007,340.0,3.52941176471
+2254,Samandon,70.766667,136.25,70.766667,70.766667,136.25,136.25,Vascular plants,Larix gmelinii,7.0,NISP,pollen,,,,,,90.0,10.0,pollen,6/30/2007,399.0,1.75438596491
+2254,Samandon,70.766667,136.25,70.766667,70.766667,136.25,136.25,Vascular plants,Larix gmelinii,9.0,NISP,pollen,,,,,,100.0,10.0,pollen,6/30/2007,456.0,1.97368421053
+2254,Samandon,70.766667,136.25,70.766667,70.766667,136.25,136.25,Vascular plants,Larix gmelinii,7.0,NISP,pollen,,,,,,110.0,10.0,pollen,6/30/2007,422.0,1.65876777251
+2254,Samandon,70.766667,136.25,70.766667,70.766667,136.25,136.25,Vascular plants,Larix gmelinii,2.0,NISP,pollen,,,,,,120.0,10.0,pollen,6/30/2007,546.0,0.3663003663
+2254,Samandon,70.766667,136.25,70.766667,70.766667,136.25,136.25,Vascular plants,Larix gmelinii,9.0,NISP,pollen,,,,,,130.0,10.0,pollen,6/30/2007,367.0,2.45231607629
+2254,Samandon,70.766667,136.25,70.766667,70.766667,136.25,136.25,Vascular plants,Larix gmelinii,6.0,NISP,pollen,,,,,,140.0,10.0,pollen,6/30/2007,395.0,1.51898734177
+2254,Samandon,70.766667,136.25,70.766667,70.766667,136.25,136.25,Vascular plants,Larix gmelinii,6.0,NISP,pollen,,,,,,150.0,10.0,pollen,6/30/2007,440.0,1.36363636364
+2254,Samandon,70.766667,136.25,70.766667,70.766667,136.25,136.25,Vascular plants,Larix gmelinii,11.0,NISP,pollen,,,,,,160.0,10.0,pollen,6/30/2007,411.0,2.67639902676
+2254,Samandon,70.766667,136.25,70.766667,70.766667,136.25,136.25,Vascular plants,Larix gmelinii,11.0,NISP,pollen,,,,,,170.0,10.0,pollen,6/30/2007,457.0,2.40700218818
+2254,Samandon,70.766667,136.25,70.766667,70.766667,136.25,136.25,Vascular plants,Larix gmelinii,4.0,NISP,pollen,,,,,,180.0,10.0,pollen,6/30/2007,429.0,0.932400932401
+2254,Samandon,70.766667,136.25,70.766667,70.766667,136.25,136.25,Vascular plants,Larix gmelinii,11.0,NISP,pollen,,,,,,190.0,10.0,pollen,6/30/2007,342.0,3.21637426901
+2254,Samandon,70.766667,136.25,70.766667,70.766667,136.25,136.25,Vascular plants,Larix gmelinii,6.0,NISP,pollen,,,,,,200.0,10.0,pollen,6/30/2007,342.0,1.75438596491
+2254,Samandon,70.766667,136.25,70.766667,70.766667,136.25,136.25,Vascular plants,Larix gmelinii,6.0,NISP,pollen,,,,,,220.0,10.0,pollen,6/30/2007,331.0,1.81268882175
+2254,Samandon,70.766667,136.25,70.766667,70.766667,136.25,136.25,Vascular plants,Larix gmelinii,3.0,NISP,pollen,,,,,,230.0,10.0,pollen,6/30/2007,493.0,0.608519269777
+2254,Samandon,70.766667,136.25,70.766667,70.766667,136.25,136.25,Vascular plants,Larix gmelinii,2.0,NISP,pollen,,,,,,240.0,10.0,pollen,6/30/2007,377.0,0.53050397878
+2254,Samandon,70.766667,136.25,70.766667,70.766667,136.25,136.25,Vascular plants,Larix gmelinii,16.0,NISP,pollen,,,,,,250.0,10.0,pollen,6/30/2007,528.0,3.0303030303
+2254,Samandon,70.766667,136.25,70.766667,70.766667,136.25,136.25,Vascular plants,Larix gmelinii,2.0,NISP,pollen,,,,,,270.0,10.0,pollen,6/30/2007,280.0,0.714285714286
+2254,Samandon,70.766667,136.25,70.766667,70.766667,136.25,136.25,Vascular plants,Larix gmelinii,8.0,NISP,pollen,,,,,,280.0,10.0,pollen,6/30/2007,311.0,2.57234726688
+2254,Samandon,70.766667,136.25,70.766667,70.766667,136.25,136.25,Vascular plants,Larix gmelinii,1.0,NISP,pollen,,,,,,290.0,10.0,pollen,6/30/2007,303.0,0.3300330033
+2525,Suollakh,57.05,123.85,57.05,57.05,123.85,123.85,Vascular plants,Larix gmelinii,3.0,NISP,pollen,,2565.0,,,Radiocarbon years BP,15.0,,pollen,6/30/2007,224.0,1.33928571429
+2525,Suollakh,57.05,123.85,57.05,57.05,123.85,123.85,Vascular plants,Larix gmelinii,5.0,NISP,pollen,,3677.0,,,Radiocarbon years BP,30.0,,pollen,6/30/2007,259.0,1.9305019305
+2525,Suollakh,57.05,123.85,57.05,57.05,123.85,123.85,Vascular plants,Larix gmelinii,7.0,NISP,pollen,,3934.0,,,Radiocarbon years BP,40.0,,pollen,6/30/2007,253.0,2.76679841897
+2525,Suollakh,57.05,123.85,57.05,57.05,123.85,123.85,Vascular plants,Larix gmelinii,11.0,NISP,pollen,,4192.0,,,Radiocarbon years BP,50.0,,pollen,6/30/2007,249.0,4.41767068273
+2525,Suollakh,57.05,123.85,57.05,57.05,123.85,123.85,Vascular plants,Larix gmelinii,8.0,NISP,pollen,,4577.0,,,Radiocarbon years BP,65.0,,pollen,6/30/2007,252.0,3.1746031746
+2525,Suollakh,57.05,123.85,57.05,57.05,123.85,123.85,Vascular plants,Larix gmelinii,7.0,NISP,pollen,,4706.0,,,Radiocarbon years BP,70.0,,pollen,6/30/2007,237.0,2.95358649789
+2525,Suollakh,57.05,123.85,57.05,57.05,123.85,123.85,Vascular plants,Larix gmelinii,14.0,NISP,pollen,,4963.0,,,Radiocarbon years BP,80.0,,pollen,6/30/2007,253.0,5.53359683794
+2525,Suollakh,57.05,123.85,57.05,57.05,123.85,123.85,Vascular plants,Larix gmelinii,6.0,NISP,pollen,,5220.0,,,Radiocarbon years BP,90.0,,pollen,6/30/2007,248.0,2.41935483871
+2525,Suollakh,57.05,123.85,57.05,57.05,123.85,123.85,Vascular plants,Larix gmelinii,5.0,NISP,pollen,,5478.0,,,Radiocarbon years BP,100.0,,pollen,6/30/2007,267.0,1.87265917603
+2525,Suollakh,57.05,123.85,57.05,57.05,123.85,123.85,Vascular plants,Larix gmelinii,4.0,NISP,pollen,,5735.0,,,Radiocarbon years BP,110.0,,pollen,6/30/2007,251.0,1.59362549801
+2525,Suollakh,57.05,123.85,57.05,57.05,123.85,123.85,Vascular plants,Larix gmelinii,2.0,NISP,pollen,,5863.0,,,Radiocarbon years BP,115.0,,pollen,6/30/2007,227.0,0.881057268722
+2525,Suollakh,57.05,123.85,57.05,57.05,123.85,123.85,Vascular plants,Larix gmelinii,9.0,NISP,pollen,,5992.0,,,Radiocarbon years BP,120.0,,pollen,6/30/2007,238.0,3.78151260504
+2525,Suollakh,57.05,123.85,57.05,57.05,123.85,123.85,Vascular plants,Larix gmelinii,15.0,NISP,pollen,,6121.0,,,Radiocarbon years BP,125.0,,pollen,6/30/2007,258.0,5.81395348837
+2525,Suollakh,57.05,123.85,57.05,57.05,123.85,123.85,Vascular plants,Larix gmelinii,10.0,NISP,pollen,,6249.0,,,Radiocarbon years BP,130.0,,pollen,6/30/2007,269.0,3.71747211896
+2525,Suollakh,57.05,123.85,57.05,57.05,123.85,123.85,Vascular plants,Larix gmelinii,4.0,NISP,pollen,,6507.0,,,Radiocarbon years BP,140.0,,pollen,6/30/2007,306.0,1.30718954248
+2525,Suollakh,57.05,123.85,57.05,57.05,123.85,123.85,Vascular plants,Larix gmelinii,4.0,NISP,pollen,,6764.0,,,Radiocarbon years BP,150.0,,pollen,6/30/2007,273.0,1.4652014652
+2525,Suollakh,57.05,123.85,57.05,57.05,123.85,123.85,Vascular plants,Larix gmelinii,3.0,NISP,pollen,,6892.0,,,Radiocarbon years BP,155.0,,pollen,6/30/2007,259.0,1.1583011583
+2525,Suollakh,57.05,123.85,57.05,57.05,123.85,123.85,Vascular plants,Larix gmelinii,4.0,NISP,pollen,,7150.0,,,Radiocarbon years BP,165.0,,pollen,6/30/2007,254.0,1.57480314961
+2525,Suollakh,57.05,123.85,57.05,57.05,123.85,123.85,Vascular plants,Larix gmelinii,3.0,NISP,pollen,,7278.0,,,Radiocarbon years BP,170.0,,pollen,6/30/2007,238.0,1.26050420168
+2525,Suollakh,57.05,123.85,57.05,57.05,123.85,123.85,Vascular plants,Larix gmelinii,5.0,NISP,pollen,,7407.0,,,Radiocarbon years BP,175.0,,pollen,6/30/2007,206.0,2.42718446602
+2525,Suollakh,57.05,123.85,57.05,57.05,123.85,123.85,Vascular plants,Larix gmelinii,8.0,NISP,pollen,,7535.0,,,Radiocarbon years BP,180.0,,pollen,6/30/2007,262.0,3.0534351145
+2525,Suollakh,57.05,123.85,57.05,57.05,123.85,123.85,Vascular plants,Larix gmelinii,7.0,NISP,pollen,,7793.0,,,Radiocarbon years BP,190.0,,pollen,6/30/2007,227.0,3.08370044053
+2525,Suollakh,57.05,123.85,57.05,57.05,123.85,123.85,Vascular plants,Larix gmelinii,9.0,NISP,pollen,,7921.0,,,Radiocarbon years BP,195.0,,pollen,6/30/2007,256.0,3.515625
+2525,Suollakh,57.05,123.85,57.05,57.05,123.85,123.85,Vascular plants,Larix gmelinii,8.0,NISP,pollen,,8050.0,,,Radiocarbon years BP,200.0,,pollen,6/30/2007,221.0,3.61990950226
+2525,Suollakh,57.05,123.85,57.05,57.05,123.85,123.85,Vascular plants,Larix gmelinii,4.0,NISP,pollen,,8307.0,,,Radiocarbon years BP,210.0,,pollen,6/30/2007,250.0,1.6
+2525,Suollakh,57.05,123.85,57.05,57.05,123.85,123.85,Vascular plants,Larix gmelinii,15.0,NISP,pollen,,8436.0,,,Radiocarbon years BP,215.0,,pollen,6/30/2007,231.0,6.49350649351
+2525,Suollakh,57.05,123.85,57.05,57.05,123.85,123.85,Vascular plants,Larix gmelinii,2.0,NISP,pollen,,8564.0,,,Radiocarbon years BP,220.0,,pollen,6/30/2007,185.0,1.08108108108
+2525,Suollakh,57.05,123.85,57.05,57.05,123.85,123.85,Vascular plants,Larix gmelinii,11.0,NISP,pollen,,8950.0,,,Radiocarbon years BP,235.0,,pollen,6/30/2007,247.0,4.45344129555
+2525,Suollakh,57.05,123.85,57.05,57.05,123.85,123.85,Vascular plants,Larix gmelinii,10.0,NISP,pollen,,9026.0,,,Radiocarbon years BP,240.0,,pollen,6/30/2007,274.0,3.6496350365
+2525,Suollakh,57.05,123.85,57.05,57.05,123.85,123.85,Vascular plants,Larix gmelinii,5.0,NISP,pollen,,9178.0,,,Radiocarbon years BP,250.0,,pollen,6/30/2007,262.0,1.90839694656
+2525,Suollakh,57.05,123.85,57.05,57.05,123.85,123.85,Vascular plants,Larix gmelinii,6.0,NISP,pollen,,9255.0,,,Radiocarbon years BP,255.0,,pollen,6/30/2007,285.0,2.10526315789
+2525,Suollakh,57.05,123.85,57.05,57.05,123.85,123.85,Vascular plants,Larix gmelinii,9.0,NISP,pollen,,9331.0,,,Radiocarbon years BP,260.0,,pollen,6/30/2007,258.0,3.48837209302
+2525,Suollakh,57.05,123.85,57.05,57.05,123.85,123.85,Vascular plants,Larix gmelinii,15.0,NISP,pollen,,9483.0,,,Radiocarbon years BP,270.0,,pollen,6/30/2007,250.0,6.0
+2525,Suollakh,57.05,123.85,57.05,57.05,123.85,123.85,Vascular plants,Larix gmelinii,10.0,NISP,pollen,,9559.0,,,Radiocarbon years BP,275.0,,pollen,6/30/2007,234.0,4.2735042735
+2525,Suollakh,57.05,123.85,57.05,57.05,123.85,123.85,Vascular plants,Larix gmelinii,12.0,NISP,pollen,,9635.0,,,Radiocarbon years BP,280.0,,pollen,6/30/2007,264.0,4.54545454545
+2525,Suollakh,57.05,123.85,57.05,57.05,123.85,123.85,Vascular plants,Larix gmelinii,7.0,NISP,pollen,,9788.0,,,Radiocarbon years BP,290.0,,pollen,6/30/2007,249.0,2.81124497992
+2525,Suollakh,57.05,123.85,57.05,57.05,123.85,123.85,Vascular plants,Larix gmelinii,3.0,NISP,pollen,,9864.0,,,Radiocarbon years BP,295.0,,pollen,6/30/2007,252.0,1.19047619048
+2525,Suollakh,57.05,123.85,57.05,57.05,123.85,123.85,Vascular plants,Larix gmelinii,4.0,NISP,pollen,,9940.0,,,Radiocarbon years BP,300.0,,pollen,6/30/2007,224.0,1.78571428571
+2525,Suollakh,57.05,123.85,57.05,57.05,123.85,123.85,Vascular plants,Larix gmelinii,6.0,NISP,pollen,,9982.0,,,Radiocarbon years BP,305.0,,pollen,6/30/2007,242.0,2.47933884298
+2525,Suollakh,57.05,123.85,57.05,57.05,123.85,123.85,Vascular plants,Larix gmelinii,2.0,NISP,pollen,,10108.0,,,Radiocarbon years BP,320.0,,pollen,6/30/2007,240.0,0.833333333333
+2525,Suollakh,57.05,123.85,57.05,57.05,123.85,123.85,Vascular plants,Larix gmelinii,3.0,NISP,pollen,,10191.0,,,Radiocarbon years BP,330.0,,pollen,6/30/2007,281.0,1.06761565836
+2525,Suollakh,57.05,123.85,57.05,57.05,123.85,123.85,Vascular plants,Larix gmelinii,3.0,NISP,pollen,,10275.0,,,Radiocarbon years BP,340.0,,pollen,6/30/2007,251.0,1.19521912351
+2525,Suollakh,57.05,123.85,57.05,57.05,123.85,123.85,Vascular plants,Larix gmelinii,10.0,NISP,pollen,,10359.0,,,Radiocarbon years BP,350.0,,pollen,6/30/2007,287.0,3.48432055749
+2525,Suollakh,57.05,123.85,57.05,57.05,123.85,123.85,Vascular plants,Larix gmelinii,6.0,NISP,pollen,,10442.0,,,Radiocarbon years BP,360.0,,pollen,6/30/2007,251.0,2.39043824701
+2525,Suollakh,57.05,123.85,57.05,57.05,123.85,123.85,Vascular plants,Larix gmelinii,13.0,NISP,pollen,,10484.0,,,Radiocarbon years BP,365.0,,pollen,6/30/2007,295.0,4.40677966102
+2525,Suollakh,57.05,123.85,57.05,57.05,123.85,123.85,Vascular plants,Larix gmelinii,10.0,NISP,pollen,,10568.0,,,Radiocarbon years BP,375.0,,pollen,6/30/2007,302.0,3.31125827815
+2525,Suollakh,57.05,123.85,57.05,57.05,123.85,123.85,Vascular plants,Larix gmelinii,15.0,NISP,pollen,,10610.0,,,Radiocarbon years BP,380.0,,pollen,6/30/2007,271.0,5.53505535055
+2525,Suollakh,57.05,123.85,57.05,57.05,123.85,123.85,Vascular plants,Larix gmelinii,18.0,NISP,pollen,,10652.0,,,Radiocarbon years BP,385.0,,pollen,6/30/2007,312.0,5.76923076923
+2525,Suollakh,57.05,123.85,57.05,57.05,123.85,123.85,Vascular plants,Larix gmelinii,12.0,NISP,pollen,,10694.0,,,Radiocarbon years BP,390.0,,pollen,6/30/2007,305.0,3.93442622951
+2525,Suollakh,57.05,123.85,57.05,57.05,123.85,123.85,Vascular plants,Larix gmelinii,10.0,NISP,pollen,,10736.0,,,Radiocarbon years BP,395.0,,pollen,6/30/2007,290.0,3.44827586207
+2528,Sverdrup,74.5,79.5,74.5,74.5,79.5,79.5,Vascular plants,Larix gmelinii,1.0,NISP,pollen,,,,,Radiocarbon years BP,10.0,7.0,pollen,6/30/2007,143.0,0.699300699301
+2528,Sverdrup,74.5,79.5,74.5,74.5,79.5,79.5,Vascular plants,Larix gmelinii,1.0,NISP,pollen,,10121.0,,,Radiocarbon years BP,50.0,7.0,pollen,6/30/2007,360.0,0.277777777778
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Larix gmelinii,16.0,NISP,pollen,,681.0,,,Radiocarbon years BP,10.0,120.0,pollen,6/30/2007,212.0,7.54716981132
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Larix gmelinii,13.0,NISP,pollen,,1072.0,,,Radiocarbon years BP,20.0,120.0,pollen,6/30/2007,252.0,5.15873015873
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Larix gmelinii,12.0,NISP,pollen,,1398.0,,,Radiocarbon years BP,30.0,120.0,pollen,6/30/2007,251.0,4.78087649402
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Larix gmelinii,7.0,NISP,pollen,,1687.0,,,Radiocarbon years BP,40.0,120.0,pollen,6/30/2007,236.0,2.96610169492
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Larix gmelinii,10.0,NISP,pollen,,1952.0,,,Radiocarbon years BP,50.0,120.0,pollen,6/30/2007,244.0,4.09836065574
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Larix gmelinii,13.0,NISP,pollen,,2199.0,,,Radiocarbon years BP,60.0,120.0,pollen,6/30/2007,231.0,5.62770562771
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Larix gmelinii,10.0,NISP,pollen,,2432.0,,,Radiocarbon years BP,70.0,120.0,pollen,6/30/2007,225.0,4.44444444444
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Larix gmelinii,7.0,NISP,pollen,,2654.0,,,Radiocarbon years BP,80.0,120.0,pollen,6/30/2007,248.0,2.82258064516
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Larix gmelinii,7.0,NISP,pollen,,2867.0,,,Radiocarbon years BP,90.0,120.0,pollen,6/30/2007,275.0,2.54545454545
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Larix gmelinii,3.0,NISP,pollen,,3071.0,,,Radiocarbon years BP,100.0,120.0,pollen,6/30/2007,252.0,1.19047619048
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Larix gmelinii,2.0,NISP,pollen,,3269.0,,,Radiocarbon years BP,110.0,120.0,pollen,6/30/2007,235.0,0.851063829787
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Larix gmelinii,5.0,NISP,pollen,,3460.0,,,Radiocarbon years BP,120.0,120.0,pollen,6/30/2007,242.0,2.06611570248
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Larix gmelinii,3.0,NISP,pollen,,3646.0,,,Radiocarbon years BP,130.0,120.0,pollen,6/30/2007,250.0,1.2
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Larix gmelinii,4.0,NISP,pollen,,3827.0,,,Radiocarbon years BP,140.0,120.0,pollen,6/30/2007,229.0,1.74672489083
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Larix gmelinii,4.0,NISP,pollen,,4004.0,,,Radiocarbon years BP,150.0,120.0,pollen,6/30/2007,225.0,1.77777777778
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Larix gmelinii,8.0,NISP,pollen,,4176.0,,,Radiocarbon years BP,160.0,120.0,pollen,6/30/2007,249.0,3.21285140562
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Larix gmelinii,3.0,NISP,pollen,,4345.0,,,Radiocarbon years BP,170.0,120.0,pollen,6/30/2007,237.0,1.26582278481
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Larix gmelinii,3.0,NISP,pollen,,4511.0,,,Radiocarbon years BP,180.0,120.0,pollen,6/30/2007,234.0,1.28205128205
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Larix gmelinii,8.0,NISP,pollen,,4673.0,,,Radiocarbon years BP,190.0,120.0,pollen,6/30/2007,276.0,2.89855072464
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Larix gmelinii,5.0,NISP,pollen,,4833.0,,,Radiocarbon years BP,200.0,120.0,pollen,6/30/2007,241.0,2.07468879668
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Larix gmelinii,2.0,NISP,pollen,,4989.0,,,Radiocarbon years BP,210.0,120.0,pollen,6/30/2007,256.0,0.78125
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Larix gmelinii,1.0,NISP,pollen,,5143.0,,,Radiocarbon years BP,220.0,120.0,pollen,6/30/2007,231.0,0.4329004329
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Larix gmelinii,2.0,NISP,pollen,,5295.0,,,Radiocarbon years BP,230.0,120.0,pollen,6/30/2007,258.0,0.77519379845
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Larix gmelinii,3.0,NISP,pollen,,5445.0,,,Radiocarbon years BP,240.0,120.0,pollen,6/30/2007,239.0,1.25523012552
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Larix gmelinii,2.0,NISP,pollen,,5592.0,,,Radiocarbon years BP,250.0,120.0,pollen,6/30/2007,229.0,0.873362445415
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Larix gmelinii,4.0,NISP,pollen,,5737.0,,,Radiocarbon years BP,260.0,120.0,pollen,6/30/2007,230.0,1.73913043478
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Larix gmelinii,3.0,NISP,pollen,,5880.0,,,Radiocarbon years BP,270.0,120.0,pollen,6/30/2007,246.0,1.21951219512
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Larix gmelinii,4.0,NISP,pollen,,6022.0,,,Radiocarbon years BP,280.0,120.0,pollen,6/30/2007,237.0,1.68776371308
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Larix gmelinii,6.0,NISP,pollen,,6162.0,,,Radiocarbon years BP,290.0,120.0,pollen,6/30/2007,267.0,2.24719101124
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Larix gmelinii,5.0,NISP,pollen,,6300.0,,,Radiocarbon years BP,300.0,120.0,pollen,6/30/2007,267.0,1.87265917603
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Larix gmelinii,3.0,NISP,pollen,,6436.0,,,Radiocarbon years BP,310.0,120.0,pollen,6/30/2007,204.0,1.47058823529
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Larix gmelinii,5.0,NISP,pollen,,6571.0,,,Radiocarbon years BP,320.0,120.0,pollen,6/30/2007,126.0,3.96825396825
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Larix gmelinii,8.0,NISP,pollen,,6705.0,,,Radiocarbon years BP,330.0,120.0,pollen,6/30/2007,243.0,3.29218106996
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Larix gmelinii,6.0,NISP,pollen,,6837.0,,,Radiocarbon years BP,340.0,120.0,pollen,6/30/2007,250.0,2.4
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Larix gmelinii,4.0,NISP,pollen,,6968.0,,,Radiocarbon years BP,350.0,120.0,pollen,6/30/2007,251.0,1.59362549801
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Larix gmelinii,2.0,NISP,pollen,,7098.0,,,Radiocarbon years BP,360.0,120.0,pollen,6/30/2007,245.0,0.816326530612
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Larix gmelinii,1.0,NISP,pollen,,7226.0,,,Radiocarbon years BP,370.0,120.0,pollen,6/30/2007,281.0,0.355871886121
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Larix gmelinii,2.0,NISP,pollen,,7353.0,,,Radiocarbon years BP,380.0,120.0,pollen,6/30/2007,266.0,0.751879699248
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Larix gmelinii,3.0,NISP,pollen,,7479.0,,,Radiocarbon years BP,390.0,120.0,pollen,6/30/2007,251.0,1.19521912351
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Larix gmelinii,7.0,NISP,pollen,,7604.0,,,Radiocarbon years BP,400.0,120.0,pollen,6/30/2007,171.0,4.09356725146
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Larix gmelinii,6.0,NISP,pollen,,7728.0,,,Radiocarbon years BP,410.0,120.0,pollen,6/30/2007,195.0,3.07692307692
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Larix gmelinii,4.0,NISP,pollen,,7850.0,,,Radiocarbon years BP,420.0,120.0,pollen,6/30/2007,141.0,2.83687943262
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Larix gmelinii,10.0,NISP,pollen,,7972.0,,,Radiocarbon years BP,430.0,120.0,pollen,6/30/2007,258.0,3.87596899225
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Larix gmelinii,3.0,NISP,pollen,,8093.0,,,Radiocarbon years BP,440.0,120.0,pollen,6/30/2007,217.0,1.38248847926
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Larix gmelinii,9.0,NISP,pollen,,8213.0,,,Radiocarbon years BP,450.0,120.0,pollen,6/30/2007,265.0,3.39622641509
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Larix gmelinii,8.0,NISP,pollen,,8332.0,,,Radiocarbon years BP,460.0,120.0,pollen,6/30/2007,278.0,2.87769784173
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Larix gmelinii,8.0,NISP,pollen,,8450.0,,,Radiocarbon years BP,470.0,120.0,pollen,6/30/2007,335.0,2.38805970149
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Larix gmelinii,30.0,NISP,pollen,,8567.0,,,Radiocarbon years BP,480.0,120.0,pollen,6/30/2007,286.0,10.4895104895
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Larix gmelinii,9.0,NISP,pollen,,8683.0,,,Radiocarbon years BP,490.0,120.0,pollen,6/30/2007,267.0,3.37078651685
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Larix gmelinii,11.0,NISP,pollen,,8798.0,,,Radiocarbon years BP,500.0,120.0,pollen,6/30/2007,316.0,3.48101265823
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Larix gmelinii,17.0,NISP,pollen,,8913.0,,,Radiocarbon years BP,510.0,120.0,pollen,6/30/2007,309.0,5.50161812298
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Larix gmelinii,16.0,NISP,pollen,,9027.0,,,Radiocarbon years BP,520.0,120.0,pollen,6/30/2007,319.0,5.01567398119
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Larix gmelinii,14.0,NISP,pollen,,9140.0,,,Radiocarbon years BP,530.0,120.0,pollen,6/30/2007,299.0,4.68227424749
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Larix gmelinii,25.0,NISP,pollen,,9253.0,,,Radiocarbon years BP,540.0,120.0,pollen,6/30/2007,320.0,7.8125
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Larix gmelinii,8.0,NISP,pollen,,9364.0,,,Radiocarbon years BP,550.0,120.0,pollen,6/30/2007,300.0,2.66666666667
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Larix gmelinii,12.0,NISP,pollen,,9475.0,,,Radiocarbon years BP,560.0,120.0,pollen,6/30/2007,299.0,4.01337792642
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Larix gmelinii,17.0,NISP,pollen,,9586.0,,,Radiocarbon years BP,570.0,120.0,pollen,6/30/2007,332.0,5.12048192771
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Larix gmelinii,4.0,NISP,pollen,,9695.0,,,Radiocarbon years BP,580.0,120.0,pollen,6/30/2007,334.0,1.19760479042
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,6.0,NISP,pollen,,105.0,,,Radiocarbon years BP,10.0,290.0,pollen,6/30/2007,254.0,2.36220472441
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,8.0,NISP,pollen,,210.0,,,Radiocarbon years BP,20.0,290.0,pollen,6/30/2007,246.0,3.25203252033
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,2.0,NISP,pollen,,429.0,,,Radiocarbon years BP,30.0,290.0,pollen,6/30/2007,242.0,0.826446280992
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,7.0,NISP,pollen,,648.0,,,Radiocarbon years BP,40.0,290.0,pollen,6/30/2007,240.0,2.91666666667
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,9.0,NISP,pollen,,867.0,,,Radiocarbon years BP,50.0,290.0,pollen,6/30/2007,255.0,3.52941176471
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,9.0,NISP,pollen,,1086.0,,,Radiocarbon years BP,60.0,290.0,pollen,6/30/2007,246.0,3.65853658537
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,6.0,NISP,pollen,,1304.0,,,Radiocarbon years BP,70.0,290.0,pollen,6/30/2007,234.0,2.5641025641
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,5.0,NISP,pollen,,1523.0,,,Radiocarbon years BP,80.0,290.0,pollen,6/30/2007,222.0,2.25225225225
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,1.0,NISP,pollen,,1742.0,,,Radiocarbon years BP,90.0,290.0,pollen,6/30/2007,210.0,0.47619047619
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,6.0,NISP,pollen,,1961.0,,,Radiocarbon years BP,100.0,290.0,pollen,6/30/2007,241.0,2.48962655602
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,7.0,NISP,pollen,,2180.0,,,Radiocarbon years BP,110.0,290.0,pollen,6/30/2007,225.0,3.11111111111
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,6.0,NISP,pollen,,2277.0,,,Radiocarbon years BP,120.0,290.0,pollen,6/30/2007,252.0,2.38095238095
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,5.0,NISP,pollen,,2375.0,,,Radiocarbon years BP,130.0,290.0,pollen,6/30/2007,227.0,2.20264317181
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,3.0,NISP,pollen,,2472.0,,,Radiocarbon years BP,140.0,290.0,pollen,6/30/2007,233.0,1.28755364807
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,6.0,NISP,pollen,,2569.0,,,Radiocarbon years BP,150.0,290.0,pollen,6/30/2007,250.0,2.4
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,2.0,NISP,pollen,,2666.0,,,Radiocarbon years BP,160.0,290.0,pollen,6/30/2007,247.0,0.80971659919
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,7.0,NISP,pollen,,2764.0,,,Radiocarbon years BP,170.0,290.0,pollen,6/30/2007,258.0,2.71317829457
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,11.0,NISP,pollen,,2861.0,,,Radiocarbon years BP,180.0,290.0,pollen,6/30/2007,244.0,4.50819672131
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,8.0,NISP,pollen,,2958.0,,,Radiocarbon years BP,190.0,290.0,pollen,6/30/2007,252.0,3.1746031746
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,5.0,NISP,pollen,,3055.0,,,Radiocarbon years BP,200.0,290.0,pollen,6/30/2007,258.0,1.93798449612
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,4.0,NISP,pollen,,3153.0,,,Radiocarbon years BP,210.0,290.0,pollen,6/30/2007,239.0,1.67364016736
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,3.0,NISP,pollen,,3250.0,,,Radiocarbon years BP,220.0,290.0,pollen,6/30/2007,282.0,1.06382978723
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,3.0,NISP,pollen,,3286.0,,,Radiocarbon years BP,230.0,290.0,pollen,6/30/2007,238.0,1.26050420168
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,5.0,NISP,pollen,,3321.0,,,Radiocarbon years BP,240.0,290.0,pollen,6/30/2007,279.0,1.79211469534
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,4.0,NISP,pollen,,3357.0,,,Radiocarbon years BP,250.0,290.0,pollen,6/30/2007,271.0,1.47601476015
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,3.0,NISP,pollen,,3393.0,,,Radiocarbon years BP,260.0,290.0,pollen,6/30/2007,249.0,1.20481927711
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,4.0,NISP,pollen,,3428.0,,,Radiocarbon years BP,270.0,290.0,pollen,6/30/2007,260.0,1.53846153846
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,4.0,NISP,pollen,,3464.0,,,Radiocarbon years BP,280.0,290.0,pollen,6/30/2007,248.0,1.61290322581
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,5.0,NISP,pollen,,3499.0,,,Radiocarbon years BP,290.0,290.0,pollen,6/30/2007,244.0,2.04918032787
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,5.0,NISP,pollen,,3535.0,,,Radiocarbon years BP,300.0,290.0,pollen,6/30/2007,231.0,2.1645021645
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,8.0,NISP,pollen,,3571.0,,,Radiocarbon years BP,310.0,290.0,pollen,6/30/2007,225.0,3.55555555556
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,6.0,NISP,pollen,,3606.0,,,Radiocarbon years BP,320.0,290.0,pollen,6/30/2007,234.0,2.5641025641
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,4.0,NISP,pollen,,3642.0,,,Radiocarbon years BP,330.0,290.0,pollen,6/30/2007,266.0,1.5037593985
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,6.0,NISP,pollen,,3678.0,,,Radiocarbon years BP,340.0,290.0,pollen,6/30/2007,234.0,2.5641025641
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,8.0,NISP,pollen,,3713.0,,,Radiocarbon years BP,350.0,290.0,pollen,6/30/2007,242.0,3.30578512397
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,9.0,NISP,pollen,,3749.0,,,Radiocarbon years BP,360.0,290.0,pollen,6/30/2007,276.0,3.26086956522
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,6.0,NISP,pollen,,3784.0,,,Radiocarbon years BP,370.0,290.0,pollen,6/30/2007,240.0,2.5
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,8.0,NISP,pollen,,3820.0,,,Radiocarbon years BP,380.0,290.0,pollen,6/30/2007,260.0,3.07692307692
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,2.0,NISP,pollen,,4016.0,,,Radiocarbon years BP,390.0,290.0,pollen,6/30/2007,237.0,0.84388185654
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,8.0,NISP,pollen,,4212.0,,,Radiocarbon years BP,400.0,290.0,pollen,6/30/2007,245.0,3.26530612245
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,3.0,NISP,pollen,,4408.0,,,Radiocarbon years BP,410.0,290.0,pollen,6/30/2007,246.0,1.21951219512
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,5.0,NISP,pollen,,4604.0,,,Radiocarbon years BP,420.0,290.0,pollen,6/30/2007,234.0,2.13675213675
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,14.0,NISP,pollen,,4800.0,,,Radiocarbon years BP,430.0,290.0,pollen,6/30/2007,236.0,5.93220338983
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,9.0,NISP,pollen,,4996.0,,,Radiocarbon years BP,440.0,290.0,pollen,6/30/2007,280.0,3.21428571429
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,18.0,NISP,pollen,,5192.0,,,Radiocarbon years BP,450.0,290.0,pollen,6/30/2007,279.0,6.45161290323
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,2.0,NISP,pollen,,5388.0,,,Radiocarbon years BP,460.0,290.0,pollen,6/30/2007,256.0,0.78125
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,2.0,NISP,pollen,,5584.0,,,Radiocarbon years BP,470.0,290.0,pollen,6/30/2007,271.0,0.738007380074
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,3.0,NISP,pollen,,5780.0,,,Radiocarbon years BP,480.0,290.0,pollen,6/30/2007,257.0,1.1673151751
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,4.0,NISP,pollen,,5976.0,,,Radiocarbon years BP,490.0,290.0,pollen,6/30/2007,238.0,1.68067226891
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,4.0,NISP,pollen,,6172.0,,,Radiocarbon years BP,500.0,290.0,pollen,6/30/2007,269.0,1.48698884758
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,5.0,NISP,pollen,,6368.0,,,Radiocarbon years BP,510.0,290.0,pollen,6/30/2007,331.0,1.51057401813
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,7.0,NISP,pollen,,6564.0,,,Radiocarbon years BP,520.0,290.0,pollen,6/30/2007,245.0,2.85714285714
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,4.0,NISP,pollen,,6760.0,,,Radiocarbon years BP,530.0,290.0,pollen,6/30/2007,260.0,1.53846153846
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,6.0,NISP,pollen,,6956.0,,,Radiocarbon years BP,540.0,290.0,pollen,6/30/2007,274.0,2.1897810219
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,6.0,NISP,pollen,,7152.0,,,Radiocarbon years BP,550.0,290.0,pollen,6/30/2007,276.0,2.17391304348
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,3.0,NISP,pollen,,7348.0,,,Radiocarbon years BP,560.0,290.0,pollen,6/30/2007,258.0,1.16279069767
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,10.0,NISP,pollen,,7544.0,,,Radiocarbon years BP,570.0,290.0,pollen,6/30/2007,304.0,3.28947368421
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,4.0,NISP,pollen,,7740.0,,,Radiocarbon years BP,580.0,290.0,pollen,6/30/2007,235.0,1.70212765957
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,5.0,NISP,pollen,,7936.0,,,Radiocarbon years BP,590.0,290.0,pollen,6/30/2007,250.0,2.0
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,9.0,NISP,pollen,,8132.0,,,Radiocarbon years BP,600.0,290.0,pollen,6/30/2007,269.0,3.34572490706
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,9.0,NISP,pollen,,8328.0,,,Radiocarbon years BP,610.0,290.0,pollen,6/30/2007,208.0,4.32692307692
+346,Chabada Lake,61.983333,129.366667,61.983333,61.983333,129.366667,129.366667,Vascular plants,Larix gmelinii,3.0,NISP,pollen,,8524.0,,,Radiocarbon years BP,620.0,290.0,pollen,6/30/2007,258.0,1.16279069767
+3054,Chernoe Lake,50.95,106.633333,50.95,50.95,106.633333,106.633333,Vascular plants,Larix gmelinii,1.0,NISP,pollen,,-167.0,,,Radiocarbon years BP,40.0,500.0,pollen,6/30/2007,249.0,0.401606425703
+3054,Chernoe Lake,50.95,106.633333,50.95,50.95,106.633333,106.633333,Vascular plants,Larix gmelinii,4.0,NISP,pollen,,667.0,,,Radiocarbon years BP,65.0,500.0,pollen,6/30/2007,458.0,0.873362445415
+3054,Chernoe Lake,50.95,106.633333,50.95,50.95,106.633333,106.633333,Vascular plants,Larix gmelinii,2.0,NISP,pollen,,1500.0,,,Radiocarbon years BP,90.0,500.0,pollen,6/30/2007,389.0,0.514138817481
+3054,Chernoe Lake,50.95,106.633333,50.95,50.95,106.633333,106.633333,Vascular plants,Larix gmelinii,1.0,NISP,pollen,,2333.0,,,Radiocarbon years BP,115.0,500.0,pollen,6/30/2007,356.0,0.280898876404
+3054,Chernoe Lake,50.95,106.633333,50.95,50.95,106.633333,106.633333,Vascular plants,Larix gmelinii,5.0,NISP,pollen,,3167.0,,,Radiocarbon years BP,140.0,500.0,pollen,6/30/2007,375.0,1.33333333333
+3054,Chernoe Lake,50.95,106.633333,50.95,50.95,106.633333,106.633333,Vascular plants,Larix gmelinii,4.0,NISP,pollen,,4000.0,,,Radiocarbon years BP,165.0,500.0,pollen,6/30/2007,372.0,1.0752688172
+3054,Chernoe Lake,50.95,106.633333,50.95,50.95,106.633333,106.633333,Vascular plants,Larix gmelinii,2.0,NISP,pollen,,4833.0,,,Radiocarbon years BP,190.0,500.0,pollen,6/30/2007,425.0,0.470588235294
+3054,Chernoe Lake,50.95,106.633333,50.95,50.95,106.633333,106.633333,Vascular plants,Larix gmelinii,1.0,NISP,pollen,,5680.0,,,Radiocarbon years BP,215.0,500.0,pollen,6/30/2007,250.0,0.4
+3054,Chernoe Lake,50.95,106.633333,50.95,50.95,106.633333,106.633333,Vascular plants,Larix gmelinii,3.0,NISP,pollen,,6540.0,,,Radiocarbon years BP,240.0,500.0,pollen,6/30/2007,316.0,0.949367088608
+3054,Chernoe Lake,50.95,106.633333,50.95,50.95,106.633333,106.633333,Vascular plants,Larix gmelinii,1.0,NISP,pollen,,7240.0,,,Radiocarbon years BP,265.0,500.0,pollen,6/30/2007,299.0,0.334448160535
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Larix gmelinii,41.0,NISP,pollen,,63.0,,,Radiocarbon years BP,10.0,260.0,pollen,6/30/2007,255.0,16.0784313725
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Larix gmelinii,31.0,NISP,pollen,,105.0,,,Radiocarbon years BP,20.0,260.0,pollen,6/30/2007,265.0,11.6981132075
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Larix gmelinii,24.0,NISP,pollen,,132.0,,,Radiocarbon years BP,30.0,260.0,pollen,6/30/2007,247.0,9.71659919028
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Larix gmelinii,33.0,NISP,pollen,,153.0,,,Radiocarbon years BP,40.0,260.0,pollen,6/30/2007,252.0,13.0952380952
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Larix gmelinii,22.0,NISP,pollen,,173.0,,,Radiocarbon years BP,50.0,260.0,pollen,6/30/2007,244.0,9.01639344262
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Larix gmelinii,23.0,NISP,pollen,,201.0,,,Radiocarbon years BP,60.0,260.0,pollen,6/30/2007,242.0,9.5041322314
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Larix gmelinii,29.0,NISP,pollen,,242.0,,,Radiocarbon years BP,70.0,260.0,pollen,6/30/2007,257.0,11.2840466926
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Larix gmelinii,38.0,NISP,pollen,,305.0,,,Radiocarbon years BP,80.0,260.0,pollen,6/30/2007,256.0,14.84375
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Larix gmelinii,18.0,NISP,pollen,,396.0,,,Radiocarbon years BP,90.0,260.0,pollen,6/30/2007,235.0,7.65957446809
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Larix gmelinii,17.0,NISP,pollen,,523.0,,,Radiocarbon years BP,100.0,260.0,pollen,6/30/2007,281.0,6.04982206406
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Larix gmelinii,19.0,NISP,pollen,,692.0,,,Radiocarbon years BP,110.0,260.0,pollen,6/30/2007,259.0,7.33590733591
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Larix gmelinii,15.0,NISP,pollen,,910.0,,,Radiocarbon years BP,120.0,260.0,pollen,6/30/2007,238.0,6.3025210084
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Larix gmelinii,28.0,NISP,pollen,,1181.0,,,Radiocarbon years BP,130.0,260.0,pollen,6/30/2007,252.0,11.1111111111
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Larix gmelinii,28.0,NISP,pollen,,1494.0,,,Radiocarbon years BP,140.0,260.0,pollen,6/30/2007,264.0,10.6060606061
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Larix gmelinii,31.0,NISP,pollen,,1833.0,,,Radiocarbon years BP,150.0,260.0,pollen,6/30/2007,242.0,12.8099173554
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Larix gmelinii,36.0,NISP,pollen,,2185.0,,,Radiocarbon years BP,160.0,260.0,pollen,6/30/2007,245.0,14.693877551
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Larix gmelinii,21.0,NISP,pollen,,2533.0,,,Radiocarbon years BP,170.0,260.0,pollen,6/30/2007,227.0,9.25110132159
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Larix gmelinii,19.0,NISP,pollen,,2863.0,,,Radiocarbon years BP,180.0,260.0,pollen,6/30/2007,247.0,7.69230769231
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Larix gmelinii,26.0,NISP,pollen,,3160.0,,,Radiocarbon years BP,190.0,260.0,pollen,6/30/2007,230.0,11.3043478261
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Larix gmelinii,38.0,NISP,pollen,,3413.0,,,Radiocarbon years BP,200.0,260.0,pollen,6/30/2007,245.0,15.5102040816
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Larix gmelinii,28.0,NISP,pollen,,3622.0,,,Radiocarbon years BP,210.0,260.0,pollen,6/30/2007,255.0,10.9803921569
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Larix gmelinii,29.0,NISP,pollen,,3794.0,,,Radiocarbon years BP,220.0,260.0,pollen,6/30/2007,277.0,10.4693140794
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Larix gmelinii,19.0,NISP,pollen,,3932.0,,,Radiocarbon years BP,230.0,260.0,pollen,6/30/2007,235.0,8.08510638298
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Larix gmelinii,17.0,NISP,pollen,,4041.0,,,Radiocarbon years BP,240.0,260.0,pollen,6/30/2007,262.0,6.48854961832
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Larix gmelinii,33.0,NISP,pollen,,4127.0,,,Radiocarbon years BP,250.0,260.0,pollen,6/30/2007,261.0,12.6436781609
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Larix gmelinii,3.0,NISP,pollen,,4193.0,,,Radiocarbon years BP,260.0,260.0,pollen,6/30/2007,381.0,0.787401574803
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Larix gmelinii,18.0,NISP,pollen,,4245.0,,,Radiocarbon years BP,270.0,260.0,pollen,6/30/2007,286.0,6.29370629371
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Larix gmelinii,14.0,NISP,pollen,,4288.0,,,Radiocarbon years BP,280.0,260.0,pollen,6/30/2007,275.0,5.09090909091
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Larix gmelinii,11.0,NISP,pollen,,4326.0,,,Radiocarbon years BP,290.0,260.0,pollen,6/30/2007,246.0,4.47154471545
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Larix gmelinii,2.0,NISP,pollen,,4364.0,,,Radiocarbon years BP,300.0,260.0,pollen,6/30/2007,262.0,0.763358778626
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Larix gmelinii,12.0,NISP,pollen,,4407.0,,,Radiocarbon years BP,310.0,260.0,pollen,6/30/2007,262.0,4.58015267176
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Larix gmelinii,8.0,NISP,pollen,,4460.0,,,Radiocarbon years BP,320.0,260.0,pollen,6/30/2007,237.0,3.37552742616
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Larix gmelinii,10.0,NISP,pollen,,4526.0,,,Radiocarbon years BP,330.0,260.0,pollen,6/30/2007,319.0,3.13479623824
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Larix gmelinii,28.0,NISP,pollen,,4605.0,,,Radiocarbon years BP,340.0,260.0,pollen,6/30/2007,282.0,9.92907801418
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Larix gmelinii,4.0,NISP,pollen,,4694.0,,,Radiocarbon years BP,350.0,260.0,pollen,6/30/2007,253.0,1.58102766798
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Larix gmelinii,5.0,NISP,pollen,,4792.0,,,Radiocarbon years BP,360.0,260.0,pollen,6/30/2007,269.0,1.85873605948
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Larix gmelinii,6.0,NISP,pollen,,4896.0,,,Radiocarbon years BP,370.0,260.0,pollen,6/30/2007,404.0,1.48514851485
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Larix gmelinii,4.0,NISP,pollen,,5005.0,,,Radiocarbon years BP,380.0,260.0,pollen,6/30/2007,271.0,1.47601476015
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Larix gmelinii,6.0,NISP,pollen,,5117.0,,,Radiocarbon years BP,390.0,260.0,pollen,6/30/2007,285.0,2.10526315789
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Larix gmelinii,3.0,NISP,pollen,,5229.0,,,Radiocarbon years BP,400.0,260.0,pollen,6/30/2007,327.0,0.917431192661
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Larix gmelinii,3.0,NISP,pollen,,5340.0,,,Radiocarbon years BP,410.0,260.0,pollen,6/30/2007,266.0,1.12781954887
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Larix gmelinii,2.0,NISP,pollen,,5448.0,,,Radiocarbon years BP,420.0,260.0,pollen,6/30/2007,270.0,0.740740740741
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Larix gmelinii,7.0,NISP,pollen,,5550.0,,,Radiocarbon years BP,430.0,260.0,pollen,6/30/2007,242.0,2.89256198347
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Larix gmelinii,15.0,NISP,pollen,,5645.0,,,Radiocarbon years BP,440.0,260.0,pollen,6/30/2007,235.0,6.3829787234
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Larix gmelinii,17.0,NISP,pollen,,5731.0,,,Radiocarbon years BP,450.0,260.0,pollen,6/30/2007,240.0,7.08333333333

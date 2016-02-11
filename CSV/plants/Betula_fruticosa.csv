@@ -1,0 +1,522 @@
+siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
+220,Badaran-Yuryakhskoye Exposure,68.85,139.4,68.85,68.85,139.4,139.4,Vascular plants,Betula fruticosa,10.0,NISP,pollen,,,,,Radiocarbon years BP,70.0,520.0,pollen,6/30/2007,317.0,3.15457413249
+220,Badaran-Yuryakhskoye Exposure,68.85,139.4,68.85,68.85,139.4,139.4,Vascular plants,Betula fruticosa,15.0,NISP,pollen,,,,,Radiocarbon years BP,100.0,520.0,pollen,6/30/2007,376.0,3.98936170213
+365,Chubukulakhskoye Exposure,69.266667,138.623611,69.266667,69.266667,138.623611,138.623611,Vascular plants,Betula fruticosa,4.0,NISP,pollen,,,,,Radiocarbon years BP,50.0,430.0,pollen,6/30/2007,218.0,1.83486238532
+365,Chubukulakhskoye Exposure,69.266667,138.623611,69.266667,69.266667,138.623611,138.623611,Vascular plants,Betula fruticosa,25.0,NISP,pollen,,,,,Radiocarbon years BP,110.0,430.0,pollen,6/30/2007,325.0,7.69230769231
+365,Chubukulakhskoye Exposure,69.266667,138.623611,69.266667,69.266667,138.623611,138.623611,Vascular plants,Betula fruticosa,11.0,NISP,pollen,,,,,Radiocarbon years BP,120.0,430.0,pollen,6/30/2007,331.0,3.32326283988
+365,Chubukulakhskoye Exposure,69.266667,138.623611,69.266667,69.266667,138.623611,138.623611,Vascular plants,Betula fruticosa,33.0,NISP,pollen,,4065.0,,,Radiocarbon years BP,150.0,430.0,pollen,6/30/2007,438.0,7.53424657534
+365,Chubukulakhskoye Exposure,69.266667,138.623611,69.266667,69.266667,138.623611,138.623611,Vascular plants,Betula fruticosa,18.0,NISP,pollen,,,,,Radiocarbon years BP,170.0,430.0,pollen,6/30/2007,281.0,6.40569395018
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Betula fruticosa,19.0,NISP,pollen,,463.0,,,Radiocarbon years BP,30.0,700.0,pollen,6/30/2007,273.0,6.95970695971
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Betula fruticosa,16.0,NISP,pollen,,618.0,,,Radiocarbon years BP,40.0,700.0,pollen,6/30/2007,385.0,4.15584415584
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Betula fruticosa,6.0,NISP,pollen,,772.0,,,Radiocarbon years BP,50.0,700.0,pollen,6/30/2007,360.0,1.66666666667
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Betula fruticosa,16.0,NISP,pollen,,926.0,,,Radiocarbon years BP,60.0,700.0,pollen,6/30/2007,358.0,4.46927374302
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Betula fruticosa,15.0,NISP,pollen,,1081.0,,,Radiocarbon years BP,70.0,700.0,pollen,6/30/2007,297.0,5.05050505051
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Betula fruticosa,13.0,NISP,pollen,,1235.0,,,Radiocarbon years BP,80.0,700.0,pollen,6/30/2007,283.0,4.59363957597
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Betula fruticosa,11.0,NISP,pollen,,1390.0,,,Radiocarbon years BP,90.0,700.0,pollen,6/30/2007,285.0,3.85964912281
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Betula fruticosa,10.0,NISP,pollen,,1544.0,,,Radiocarbon years BP,100.0,700.0,pollen,6/30/2007,272.0,3.67647058824
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Betula fruticosa,25.0,NISP,pollen,,1699.0,,,Radiocarbon years BP,110.0,700.0,pollen,6/30/2007,374.0,6.68449197861
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Betula fruticosa,8.0,NISP,pollen,,1853.0,,,Radiocarbon years BP,120.0,700.0,pollen,6/30/2007,279.0,2.86738351254
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Betula fruticosa,22.0,NISP,pollen,,2007.0,,,Radiocarbon years BP,130.0,700.0,pollen,6/30/2007,246.0,8.94308943089
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Betula fruticosa,22.0,NISP,pollen,,2162.0,,,Radiocarbon years BP,140.0,700.0,pollen,6/30/2007,246.0,8.94308943089
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Betula fruticosa,12.0,NISP,pollen,,2316.0,,,Radiocarbon years BP,150.0,700.0,pollen,6/30/2007,272.0,4.41176470588
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Betula fruticosa,18.0,NISP,pollen,,2471.0,,,Radiocarbon years BP,160.0,700.0,pollen,6/30/2007,283.0,6.36042402827
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Betula fruticosa,10.0,NISP,pollen,,2625.0,,,Radiocarbon years BP,170.0,700.0,pollen,6/30/2007,360.0,2.77777777778
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Betula fruticosa,25.0,NISP,pollen,,2787.0,,,Radiocarbon years BP,180.0,700.0,pollen,6/30/2007,252.0,9.92063492063
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Betula fruticosa,19.0,NISP,pollen,,2958.0,,,Radiocarbon years BP,190.0,700.0,pollen,6/30/2007,327.0,5.81039755352
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Betula fruticosa,16.0,NISP,pollen,,3130.0,,,Radiocarbon years BP,200.0,700.0,pollen,6/30/2007,297.0,5.38720538721
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Betula fruticosa,28.0,NISP,pollen,,3301.0,,,Radiocarbon years BP,210.0,700.0,pollen,6/30/2007,509.0,5.50098231827
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Betula fruticosa,7.0,NISP,pollen,,3473.0,,,Radiocarbon years BP,220.0,700.0,pollen,6/30/2007,359.0,1.94986072423
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Betula fruticosa,19.0,NISP,pollen,,3644.0,,,Radiocarbon years BP,230.0,700.0,pollen,6/30/2007,262.0,7.25190839695
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Betula fruticosa,25.0,NISP,pollen,,3815.0,,,Radiocarbon years BP,240.0,700.0,pollen,6/30/2007,270.0,9.25925925926
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Betula fruticosa,22.0,NISP,pollen,,3987.0,,,Radiocarbon years BP,250.0,700.0,pollen,6/30/2007,257.0,8.56031128405
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Betula fruticosa,12.0,NISP,pollen,,4158.0,,,Radiocarbon years BP,260.0,700.0,pollen,6/30/2007,239.0,5.02092050209
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Betula fruticosa,26.0,NISP,pollen,,4329.0,,,Radiocarbon years BP,270.0,700.0,pollen,6/30/2007,510.0,5.09803921569
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Betula fruticosa,16.0,NISP,pollen,,4501.0,,,Radiocarbon years BP,280.0,700.0,pollen,6/30/2007,289.0,5.53633217993
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Betula fruticosa,9.0,NISP,pollen,,4672.0,,,Radiocarbon years BP,290.0,700.0,pollen,6/30/2007,236.0,3.81355932203
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Betula fruticosa,21.0,NISP,pollen,,4843.0,,,Radiocarbon years BP,300.0,700.0,pollen,6/30/2007,271.0,7.74907749077
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Betula fruticosa,19.0,NISP,pollen,,5015.0,,,Radiocarbon years BP,310.0,700.0,pollen,6/30/2007,260.0,7.30769230769
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Betula fruticosa,28.0,NISP,pollen,,5186.0,,,Radiocarbon years BP,320.0,700.0,pollen,6/30/2007,513.0,5.45808966862
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Betula fruticosa,46.0,NISP,pollen,,5357.0,,,Radiocarbon years BP,330.0,700.0,pollen,6/30/2007,402.0,11.4427860697
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Betula fruticosa,17.0,NISP,pollen,,5529.0,,,Radiocarbon years BP,340.0,700.0,pollen,6/30/2007,241.0,7.05394190871
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Betula fruticosa,8.0,NISP,pollen,,5700.0,,,Radiocarbon years BP,350.0,700.0,pollen,6/30/2007,261.0,3.06513409962
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Betula fruticosa,33.0,NISP,pollen,,5871.0,,,Radiocarbon years BP,360.0,700.0,pollen,6/30/2007,453.0,7.28476821192
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Betula fruticosa,35.0,NISP,pollen,,6095.0,,,Radiocarbon years BP,370.0,700.0,pollen,6/30/2007,437.0,8.00915331808
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Betula fruticosa,14.0,NISP,pollen,,6473.0,,,Radiocarbon years BP,380.0,700.0,pollen,6/30/2007,248.0,5.64516129032
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Betula fruticosa,26.0,NISP,pollen,,6852.0,,,Radiocarbon years BP,390.0,700.0,pollen,6/30/2007,249.0,10.4417670683
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Betula fruticosa,17.0,NISP,pollen,,7230.0,,,Radiocarbon years BP,400.0,700.0,pollen,6/30/2007,298.0,5.70469798658
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Betula fruticosa,45.0,NISP,pollen,,7609.0,,,Radiocarbon years BP,410.0,700.0,pollen,6/30/2007,304.0,14.8026315789
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Betula fruticosa,21.0,NISP,pollen,,7988.0,,,Radiocarbon years BP,420.0,700.0,pollen,6/30/2007,382.0,5.49738219895
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Betula fruticosa,11.0,NISP,pollen,,8366.0,,,Radiocarbon years BP,430.0,700.0,pollen,6/30/2007,593.0,1.85497470489
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Betula fruticosa,26.0,NISP,pollen,,8745.0,,,Radiocarbon years BP,440.0,700.0,pollen,6/30/2007,556.0,4.67625899281
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Betula fruticosa,21.0,NISP,pollen,,9123.0,,,Radiocarbon years BP,450.0,700.0,pollen,6/30/2007,291.0,7.21649484536
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Betula fruticosa,20.0,NISP,pollen,,9502.0,,,Radiocarbon years BP,460.0,700.0,pollen,6/30/2007,333.0,6.00600600601
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Betula fruticosa,31.0,NISP,pollen,,9880.0,,,Radiocarbon years BP,470.0,700.0,pollen,6/30/2007,254.0,12.2047244094
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Betula fruticosa,34.0,NISP,pollen,,10259.0,,,Radiocarbon years BP,480.0,700.0,pollen,6/30/2007,411.0,8.27250608273
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Betula fruticosa,20.0,NISP,pollen,,10638.0,,,Radiocarbon years BP,490.0,700.0,pollen,6/30/2007,236.0,8.47457627119
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Betula fruticosa,32.0,NISP,pollen,,11016.0,,,Radiocarbon years BP,500.0,700.0,pollen,6/30/2007,304.0,10.5263157895
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Betula fruticosa,19.0,NISP,pollen,,11395.0,,,Radiocarbon years BP,510.0,700.0,pollen,6/30/2007,242.0,7.85123966942
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Betula fruticosa,22.0,NISP,pollen,,11773.0,,,Radiocarbon years BP,520.0,700.0,pollen,6/30/2007,255.0,8.62745098039
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Betula fruticosa,15.0,NISP,pollen,,12152.0,,,Radiocarbon years BP,530.0,700.0,pollen,6/30/2007,292.0,5.13698630137
+664,Derput,57.033333,124.116667,57.033333,57.033333,124.116667,124.116667,Vascular plants,Betula fruticosa,32.0,NISP,pollen,,12530.0,,,Radiocarbon years BP,540.0,700.0,pollen,6/30/2007,315.0,10.1587301587
+1477,Khocho,71.05,136.233333,71.05,71.05,136.233333,136.233333,Vascular plants,Betula fruticosa,1.0,NISP,pollen,,,,,,10.0,6.0,pollen,6/30/2007,334.0,0.299401197605
+1477,Khocho,71.05,136.233333,71.05,71.05,136.233333,136.233333,Vascular plants,Betula fruticosa,3.0,NISP,pollen,,,,,,20.0,6.0,pollen,6/30/2007,293.0,1.02389078498
+1477,Khocho,71.05,136.233333,71.05,71.05,136.233333,136.233333,Vascular plants,Betula fruticosa,6.0,NISP,pollen,,,,,,30.0,6.0,pollen,6/30/2007,355.0,1.69014084507
+1477,Khocho,71.05,136.233333,71.05,71.05,136.233333,136.233333,Vascular plants,Betula fruticosa,9.0,NISP,pollen,,,,,,40.0,6.0,pollen,6/30/2007,343.0,2.62390670554
+1477,Khocho,71.05,136.233333,71.05,71.05,136.233333,136.233333,Vascular plants,Betula fruticosa,4.0,NISP,pollen,,,,,,50.0,6.0,pollen,6/30/2007,291.0,1.37457044674
+1477,Khocho,71.05,136.233333,71.05,71.05,136.233333,136.233333,Vascular plants,Betula fruticosa,2.0,NISP,pollen,,,,,,60.0,6.0,pollen,6/30/2007,336.0,0.595238095238
+1477,Khocho,71.05,136.233333,71.05,71.05,136.233333,136.233333,Vascular plants,Betula fruticosa,4.0,NISP,pollen,,,,,,70.0,6.0,pollen,6/30/2007,359.0,1.11420612813
+1477,Khocho,71.05,136.233333,71.05,71.05,136.233333,136.233333,Vascular plants,Betula fruticosa,3.0,NISP,pollen,,,,,,80.0,6.0,pollen,6/30/2007,325.0,0.923076923077
+1477,Khocho,71.05,136.233333,71.05,71.05,136.233333,136.233333,Vascular plants,Betula fruticosa,4.0,NISP,pollen,,,,,,90.0,6.0,pollen,6/30/2007,350.0,1.14285714286
+1477,Khocho,71.05,136.233333,71.05,71.05,136.233333,136.233333,Vascular plants,Betula fruticosa,5.0,NISP,pollen,,,,,,100.0,6.0,pollen,6/30/2007,307.0,1.62866449511
+1477,Khocho,71.05,136.233333,71.05,71.05,136.233333,136.233333,Vascular plants,Betula fruticosa,3.0,NISP,pollen,,,,,,110.0,6.0,pollen,6/30/2007,297.0,1.0101010101
+1477,Khocho,71.05,136.233333,71.05,71.05,136.233333,136.233333,Vascular plants,Betula fruticosa,6.0,NISP,pollen,,,,,,120.0,6.0,pollen,6/30/2007,459.0,1.30718954248
+1477,Khocho,71.05,136.233333,71.05,71.05,136.233333,136.233333,Vascular plants,Betula fruticosa,2.0,NISP,pollen,,,,,,130.0,6.0,pollen,6/30/2007,326.0,0.613496932515
+1477,Khocho,71.05,136.233333,71.05,71.05,136.233333,136.233333,Vascular plants,Betula fruticosa,8.0,NISP,pollen,,,,,,140.0,6.0,pollen,6/30/2007,353.0,2.26628895184
+1477,Khocho,71.05,136.233333,71.05,71.05,136.233333,136.233333,Vascular plants,Betula fruticosa,5.0,NISP,pollen,,,,,,150.0,6.0,pollen,6/30/2007,467.0,1.07066381156
+1477,Khocho,71.05,136.233333,71.05,71.05,136.233333,136.233333,Vascular plants,Betula fruticosa,5.0,NISP,pollen,,,,,,160.0,6.0,pollen,6/30/2007,591.0,0.846023688663
+1477,Khocho,71.05,136.233333,71.05,71.05,136.233333,136.233333,Vascular plants,Betula fruticosa,12.0,NISP,pollen,,,,,,170.0,6.0,pollen,6/30/2007,364.0,3.2967032967
+1477,Khocho,71.05,136.233333,71.05,71.05,136.233333,136.233333,Vascular plants,Betula fruticosa,3.0,NISP,pollen,,,,,,180.0,6.0,pollen,6/30/2007,419.0,0.715990453461
+1477,Khocho,71.05,136.233333,71.05,71.05,136.233333,136.233333,Vascular plants,Betula fruticosa,5.0,NISP,pollen,,,,,,190.0,6.0,pollen,6/30/2007,377.0,1.32625994695
+1477,Khocho,71.05,136.233333,71.05,71.05,136.233333,136.233333,Vascular plants,Betula fruticosa,8.0,NISP,pollen,,,,,,200.0,6.0,pollen,6/30/2007,501.0,1.59680638723
+1477,Khocho,71.05,136.233333,71.05,71.05,136.233333,136.233333,Vascular plants,Betula fruticosa,5.0,NISP,pollen,,,,,,210.0,6.0,pollen,6/30/2007,425.0,1.17647058824
+1477,Khocho,71.05,136.233333,71.05,71.05,136.233333,136.233333,Vascular plants,Betula fruticosa,5.0,NISP,pollen,,,,,,220.0,6.0,pollen,6/30/2007,327.0,1.52905198777
+1477,Khocho,71.05,136.233333,71.05,71.05,136.233333,136.233333,Vascular plants,Betula fruticosa,4.0,NISP,pollen,,,,,,230.0,6.0,pollen,6/30/2007,357.0,1.12044817927
+1477,Khocho,71.05,136.233333,71.05,71.05,136.233333,136.233333,Vascular plants,Betula fruticosa,9.0,NISP,pollen,,,,,,240.0,6.0,pollen,6/30/2007,318.0,2.83018867925
+1477,Khocho,71.05,136.233333,71.05,71.05,136.233333,136.233333,Vascular plants,Betula fruticosa,9.0,NISP,pollen,,,,,,250.0,6.0,pollen,6/30/2007,332.0,2.71084337349
+1477,Khocho,71.05,136.233333,71.05,71.05,136.233333,136.233333,Vascular plants,Betula fruticosa,14.0,NISP,pollen,,,,,,260.0,6.0,pollen,6/30/2007,324.0,4.32098765432
+1477,Khocho,71.05,136.233333,71.05,71.05,136.233333,136.233333,Vascular plants,Betula fruticosa,5.0,NISP,pollen,,,,,,270.0,6.0,pollen,6/30/2007,306.0,1.6339869281
+1477,Khocho,71.05,136.233333,71.05,71.05,136.233333,136.233333,Vascular plants,Betula fruticosa,7.0,NISP,pollen,,,,,,280.0,6.0,pollen,6/30/2007,329.0,2.12765957447
+1477,Khocho,71.05,136.233333,71.05,71.05,136.233333,136.233333,Vascular plants,Betula fruticosa,6.0,NISP,pollen,,,,,,290.0,6.0,pollen,6/30/2007,382.0,1.57068062827
+1477,Khocho,71.05,136.233333,71.05,71.05,136.233333,136.233333,Vascular plants,Betula fruticosa,2.0,NISP,pollen,,,,,,300.0,6.0,pollen,6/30/2007,516.0,0.387596899225
+1477,Khocho,71.05,136.233333,71.05,71.05,136.233333,136.233333,Vascular plants,Betula fruticosa,9.0,NISP,pollen,,,,,,320.0,6.0,pollen,6/30/2007,376.0,2.39361702128
+1477,Khocho,71.05,136.233333,71.05,71.05,136.233333,136.233333,Vascular plants,Betula fruticosa,2.0,NISP,pollen,,,,,,340.0,6.0,pollen,6/30/2007,381.0,0.524934383202
+1477,Khocho,71.05,136.233333,71.05,71.05,136.233333,136.233333,Vascular plants,Betula fruticosa,14.0,NISP,pollen,,,,,,350.0,6.0,pollen,6/30/2007,322.0,4.34782608696
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Betula fruticosa,25.0,NISP,pollen,,200.0,,,Radiocarbon years BP,10.0,160.0,pollen,6/30/2007,280.0,8.92857142857
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Betula fruticosa,18.0,NISP,pollen,,435.0,,,Radiocarbon years BP,20.0,160.0,pollen,6/30/2007,291.0,6.18556701031
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Betula fruticosa,24.0,NISP,pollen,,670.0,,,Radiocarbon years BP,30.0,160.0,pollen,6/30/2007,254.0,9.44881889764
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Betula fruticosa,30.0,NISP,pollen,,905.0,,,Radiocarbon years BP,40.0,160.0,pollen,6/30/2007,271.0,11.0701107011
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Betula fruticosa,25.0,NISP,pollen,,1140.0,,,Radiocarbon years BP,50.0,160.0,pollen,6/30/2007,248.0,10.0806451613
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Betula fruticosa,32.0,NISP,pollen,,1375.0,,,Radiocarbon years BP,60.0,160.0,pollen,6/30/2007,247.0,12.955465587
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Betula fruticosa,26.0,NISP,pollen,,1610.0,,,Radiocarbon years BP,70.0,160.0,pollen,6/30/2007,268.0,9.70149253731
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Betula fruticosa,29.0,NISP,pollen,,1659.0,,,Radiocarbon years BP,80.0,160.0,pollen,6/30/2007,232.0,12.5
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Betula fruticosa,27.0,NISP,pollen,,1708.0,,,Radiocarbon years BP,90.0,160.0,pollen,6/30/2007,243.0,11.1111111111
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Betula fruticosa,24.0,NISP,pollen,,1757.0,,,Radiocarbon years BP,100.0,160.0,pollen,6/30/2007,253.0,9.48616600791
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Betula fruticosa,28.0,NISP,pollen,,1806.0,,,Radiocarbon years BP,110.0,160.0,pollen,6/30/2007,236.0,11.8644067797
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Betula fruticosa,23.0,NISP,pollen,,1855.0,,,Radiocarbon years BP,120.0,160.0,pollen,6/30/2007,243.0,9.46502057613
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Betula fruticosa,31.0,NISP,pollen,,1904.0,,,Radiocarbon years BP,130.0,160.0,pollen,6/30/2007,299.0,10.3678929766
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Betula fruticosa,31.0,NISP,pollen,,1953.0,,,Radiocarbon years BP,140.0,160.0,pollen,6/30/2007,263.0,11.7870722433
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Betula fruticosa,29.0,NISP,pollen,,2002.0,,,Radiocarbon years BP,150.0,160.0,pollen,6/30/2007,273.0,10.6227106227
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Betula fruticosa,25.0,NISP,pollen,,2051.0,,,Radiocarbon years BP,160.0,160.0,pollen,6/30/2007,235.0,10.6382978723
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Betula fruticosa,29.0,NISP,pollen,,2100.0,,,Radiocarbon years BP,170.0,160.0,pollen,6/30/2007,272.0,10.6617647059
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Betula fruticosa,30.0,NISP,pollen,,2135.0,,,Radiocarbon years BP,180.0,160.0,pollen,6/30/2007,264.0,11.3636363636
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Betula fruticosa,22.0,NISP,pollen,,2170.0,,,Radiocarbon years BP,190.0,160.0,pollen,6/30/2007,274.0,8.02919708029
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Betula fruticosa,31.0,NISP,pollen,,2274.0,,,Radiocarbon years BP,200.0,160.0,pollen,6/30/2007,294.0,10.5442176871
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Betula fruticosa,29.0,NISP,pollen,,2378.0,,,Radiocarbon years BP,210.0,160.0,pollen,6/30/2007,260.0,11.1538461538
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Betula fruticosa,27.0,NISP,pollen,,2481.0,,,Radiocarbon years BP,220.0,160.0,pollen,6/30/2007,246.0,10.9756097561
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Betula fruticosa,25.0,NISP,pollen,,2585.0,,,Radiocarbon years BP,230.0,160.0,pollen,6/30/2007,259.0,9.65250965251
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Betula fruticosa,28.0,NISP,pollen,,2689.0,,,Radiocarbon years BP,240.0,160.0,pollen,6/30/2007,257.0,10.8949416342
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Betula fruticosa,13.0,NISP,pollen,,2792.0,,,Radiocarbon years BP,250.0,160.0,pollen,6/30/2007,121.0,10.7438016529
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Betula fruticosa,23.0,NISP,pollen,,2896.0,,,Radiocarbon years BP,260.0,160.0,pollen,6/30/2007,262.0,8.7786259542
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Betula fruticosa,8.0,NISP,pollen,,3000.0,,,Radiocarbon years BP,270.0,160.0,pollen,6/30/2007,254.0,3.14960629921
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Betula fruticosa,30.0,NISP,pollen,,3061.0,,,Radiocarbon years BP,280.0,160.0,pollen,6/30/2007,276.0,10.8695652174
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Betula fruticosa,27.0,NISP,pollen,,3122.0,,,Radiocarbon years BP,290.0,160.0,pollen,6/30/2007,262.0,10.3053435115
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Betula fruticosa,30.0,NISP,pollen,,3183.0,,,Radiocarbon years BP,300.0,160.0,pollen,6/30/2007,285.0,10.5263157895
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Betula fruticosa,26.0,NISP,pollen,,3244.0,,,Radiocarbon years BP,310.0,160.0,pollen,6/30/2007,240.0,10.8333333333
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Betula fruticosa,25.0,NISP,pollen,,3305.0,,,Radiocarbon years BP,320.0,160.0,pollen,6/30/2007,221.0,11.3122171946
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Betula fruticosa,27.0,NISP,pollen,,3366.0,,,Radiocarbon years BP,330.0,160.0,pollen,6/30/2007,258.0,10.4651162791
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Betula fruticosa,23.0,NISP,pollen,,3427.0,,,Radiocarbon years BP,340.0,160.0,pollen,6/30/2007,258.0,8.91472868217
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Betula fruticosa,20.0,NISP,pollen,,3488.0,,,Radiocarbon years BP,350.0,160.0,pollen,6/30/2007,236.0,8.47457627119
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Betula fruticosa,16.0,NISP,pollen,,3549.0,,,Radiocarbon years BP,360.0,160.0,pollen,6/30/2007,244.0,6.55737704918
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Betula fruticosa,19.0,NISP,pollen,,3610.0,,,Radiocarbon years BP,370.0,160.0,pollen,6/30/2007,287.0,6.62020905923
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Betula fruticosa,17.0,NISP,pollen,,3783.0,,,Radiocarbon years BP,380.0,160.0,pollen,6/30/2007,265.0,6.41509433962
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Betula fruticosa,20.0,NISP,pollen,,3955.0,,,Radiocarbon years BP,390.0,160.0,pollen,6/30/2007,265.0,7.54716981132
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Betula fruticosa,21.0,NISP,pollen,,4128.0,,,Radiocarbon years BP,400.0,160.0,pollen,6/30/2007,268.0,7.83582089552
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Betula fruticosa,23.0,NISP,pollen,,4301.0,,,Radiocarbon years BP,410.0,160.0,pollen,6/30/2007,278.0,8.27338129496
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Betula fruticosa,24.0,NISP,pollen,,4474.0,,,Radiocarbon years BP,420.0,160.0,pollen,6/30/2007,286.0,8.39160839161
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Betula fruticosa,22.0,NISP,pollen,,4646.0,,,Radiocarbon years BP,430.0,160.0,pollen,6/30/2007,314.0,7.00636942675
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Betula fruticosa,21.0,NISP,pollen,,4819.0,,,Radiocarbon years BP,440.0,160.0,pollen,6/30/2007,282.0,7.44680851064
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Betula fruticosa,22.0,NISP,pollen,,4992.0,,,Radiocarbon years BP,450.0,160.0,pollen,6/30/2007,259.0,8.49420849421
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Betula fruticosa,28.0,NISP,pollen,,5165.0,,,Radiocarbon years BP,460.0,160.0,pollen,6/30/2007,272.0,10.2941176471
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Betula fruticosa,26.0,NISP,pollen,,5337.0,,,Radiocarbon years BP,470.0,160.0,pollen,6/30/2007,260.0,10.0
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Betula fruticosa,24.0,NISP,pollen,,5510.0,,,Radiocarbon years BP,480.0,160.0,pollen,6/30/2007,311.0,7.71704180064
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Betula fruticosa,24.0,NISP,pollen,,5543.0,,,Radiocarbon years BP,490.0,160.0,pollen,6/30/2007,265.0,9.05660377358
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Betula fruticosa,24.0,NISP,pollen,,5575.0,,,Radiocarbon years BP,500.0,160.0,pollen,6/30/2007,275.0,8.72727272727
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Betula fruticosa,23.0,NISP,pollen,,5608.0,,,Radiocarbon years BP,510.0,160.0,pollen,6/30/2007,250.0,9.2
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Betula fruticosa,30.0,NISP,pollen,,5641.0,,,Radiocarbon years BP,520.0,160.0,pollen,6/30/2007,255.0,11.7647058824
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Betula fruticosa,21.0,NISP,pollen,,5673.0,,,Radiocarbon years BP,530.0,160.0,pollen,6/30/2007,237.0,8.86075949367
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Betula fruticosa,29.0,NISP,pollen,,5706.0,,,Radiocarbon years BP,540.0,160.0,pollen,6/30/2007,281.0,10.3202846975
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Betula fruticosa,24.0,NISP,pollen,,5739.0,,,Radiocarbon years BP,550.0,160.0,pollen,6/30/2007,260.0,9.23076923077
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Betula fruticosa,29.0,NISP,pollen,,5771.0,,,Radiocarbon years BP,560.0,160.0,pollen,6/30/2007,258.0,11.2403100775
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Betula fruticosa,35.0,NISP,pollen,,5804.0,,,Radiocarbon years BP,570.0,160.0,pollen,6/30/2007,311.0,11.2540192926
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Betula fruticosa,32.0,NISP,pollen,,5837.0,,,Radiocarbon years BP,580.0,160.0,pollen,6/30/2007,306.0,10.4575163399
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Betula fruticosa,31.0,NISP,pollen,,5869.0,,,Radiocarbon years BP,590.0,160.0,pollen,6/30/2007,283.0,10.9540636042
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Betula fruticosa,22.0,NISP,pollen,,5902.0,,,Radiocarbon years BP,600.0,160.0,pollen,6/30/2007,263.0,8.36501901141
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Betula fruticosa,32.0,NISP,pollen,,5935.0,,,Radiocarbon years BP,610.0,160.0,pollen,6/30/2007,266.0,12.030075188
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Betula fruticosa,38.0,NISP,pollen,,5967.0,,,Radiocarbon years BP,620.0,160.0,pollen,6/30/2007,270.0,14.0740740741
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Betula fruticosa,31.0,NISP,pollen,,6000.0,,,Radiocarbon years BP,630.0,160.0,pollen,6/30/2007,287.0,10.8013937282
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Betula fruticosa,36.0,NISP,pollen,,6033.0,,,Radiocarbon years BP,640.0,160.0,pollen,6/30/2007,269.0,13.3828996283
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Betula fruticosa,32.0,NISP,pollen,,6065.0,,,Radiocarbon years BP,650.0,160.0,pollen,6/30/2007,293.0,10.9215017065
+1632,Lake Madjagara,64.833333,120.966667,64.833333,64.833333,120.966667,120.966667,Vascular plants,Betula fruticosa,26.0,NISP,pollen,,6098.0,,,Radiocarbon years BP,660.0,160.0,pollen,6/30/2007,236.0,11.0169491525
+1958,Rauchua Exposure,69.5,166.366667,69.5,69.5,166.366667,166.366667,Vascular plants,Betula fruticosa,4.0,NISP,pollen,,,,,Radiocarbon years BP,180.0,36.0,pollen,6/30/2007,329.0,1.21580547112
+1958,Rauchua Exposure,69.5,166.366667,69.5,69.5,166.366667,166.366667,Vascular plants,Betula fruticosa,2.0,NISP,pollen,,,,,Radiocarbon years BP,280.0,36.0,pollen,6/30/2007,325.0,0.615384615385
+1958,Rauchua Exposure,69.5,166.366667,69.5,69.5,166.366667,166.366667,Vascular plants,Betula fruticosa,1.0,NISP,pollen,,8400.0,,,Radiocarbon years BP,380.0,36.0,pollen,6/30/2007,301.0,0.332225913621
+1958,Rauchua Exposure,69.5,166.366667,69.5,69.5,166.366667,166.366667,Vascular plants,Betula fruticosa,1.0,NISP,pollen,,,,,Radiocarbon years BP,480.0,36.0,pollen,6/30/2007,230.0,0.434782608696
+1958,Rauchua Exposure,69.5,166.366667,69.5,69.5,166.366667,166.366667,Vascular plants,Betula fruticosa,2.0,NISP,pollen,,,,,Radiocarbon years BP,980.0,36.0,pollen,6/30/2007,462.0,0.4329004329
+2246,Salaa Exposure,69.102778,139.016667,69.102778,69.102778,139.016667,139.016667,Vascular plants,Betula fruticosa,15.0,NISP,pollen,,,,,Radiocarbon years BP,50.0,470.0,pollen,6/30/2007,262.0,5.72519083969
+2246,Salaa Exposure,69.102778,139.016667,69.102778,69.102778,139.016667,139.016667,Vascular plants,Betula fruticosa,24.0,NISP,pollen,,,,,Radiocarbon years BP,70.0,470.0,pollen,6/30/2007,459.0,5.22875816993
+2246,Salaa Exposure,69.102778,139.016667,69.102778,69.102778,139.016667,139.016667,Vascular plants,Betula fruticosa,5.0,NISP,pollen,,,,,Radiocarbon years BP,80.0,470.0,pollen,6/30/2007,347.0,1.4409221902
+2246,Salaa Exposure,69.102778,139.016667,69.102778,69.102778,139.016667,139.016667,Vascular plants,Betula fruticosa,9.0,NISP,pollen,,1345.0,,,Radiocarbon years BP,100.0,470.0,pollen,6/30/2007,358.0,2.51396648045
+2246,Salaa Exposure,69.102778,139.016667,69.102778,69.102778,139.016667,139.016667,Vascular plants,Betula fruticosa,24.0,NISP,pollen,,,,,Radiocarbon years BP,200.0,470.0,pollen,6/30/2007,304.0,7.89473684211
+2254,Samandon,70.766667,136.25,70.766667,70.766667,136.25,136.25,Vascular plants,Betula fruticosa,3.0,NISP,pollen,,,,,,10.0,10.0,pollen,6/30/2007,336.0,0.892857142857
+2254,Samandon,70.766667,136.25,70.766667,70.766667,136.25,136.25,Vascular plants,Betula fruticosa,5.0,NISP,pollen,,,,,,20.0,10.0,pollen,6/30/2007,368.0,1.35869565217
+2254,Samandon,70.766667,136.25,70.766667,70.766667,136.25,136.25,Vascular plants,Betula fruticosa,12.0,NISP,pollen,,,,,,30.0,10.0,pollen,6/30/2007,300.0,4.0
+2254,Samandon,70.766667,136.25,70.766667,70.766667,136.25,136.25,Vascular plants,Betula fruticosa,3.0,NISP,pollen,,,,,,40.0,10.0,pollen,6/30/2007,326.0,0.920245398773
+2254,Samandon,70.766667,136.25,70.766667,70.766667,136.25,136.25,Vascular plants,Betula fruticosa,20.0,NISP,pollen,,,,,,60.0,10.0,pollen,6/30/2007,524.0,3.81679389313
+2254,Samandon,70.766667,136.25,70.766667,70.766667,136.25,136.25,Vascular plants,Betula fruticosa,11.0,NISP,pollen,,,,,,70.0,10.0,pollen,6/30/2007,342.0,3.21637426901
+2254,Samandon,70.766667,136.25,70.766667,70.766667,136.25,136.25,Vascular plants,Betula fruticosa,8.0,NISP,pollen,,,,,,80.0,10.0,pollen,6/30/2007,340.0,2.35294117647
+2254,Samandon,70.766667,136.25,70.766667,70.766667,136.25,136.25,Vascular plants,Betula fruticosa,11.0,NISP,pollen,,,,,,90.0,10.0,pollen,6/30/2007,399.0,2.75689223058
+2254,Samandon,70.766667,136.25,70.766667,70.766667,136.25,136.25,Vascular plants,Betula fruticosa,8.0,NISP,pollen,,,,,,100.0,10.0,pollen,6/30/2007,456.0,1.75438596491
+2254,Samandon,70.766667,136.25,70.766667,70.766667,136.25,136.25,Vascular plants,Betula fruticosa,12.0,NISP,pollen,,,,,,110.0,10.0,pollen,6/30/2007,422.0,2.84360189573
+2254,Samandon,70.766667,136.25,70.766667,70.766667,136.25,136.25,Vascular plants,Betula fruticosa,8.0,NISP,pollen,,,,,,120.0,10.0,pollen,6/30/2007,546.0,1.4652014652
+2254,Samandon,70.766667,136.25,70.766667,70.766667,136.25,136.25,Vascular plants,Betula fruticosa,8.0,NISP,pollen,,,,,,130.0,10.0,pollen,6/30/2007,367.0,2.17983651226
+2254,Samandon,70.766667,136.25,70.766667,70.766667,136.25,136.25,Vascular plants,Betula fruticosa,11.0,NISP,pollen,,,,,,140.0,10.0,pollen,6/30/2007,395.0,2.78481012658
+2254,Samandon,70.766667,136.25,70.766667,70.766667,136.25,136.25,Vascular plants,Betula fruticosa,9.0,NISP,pollen,,,,,,150.0,10.0,pollen,6/30/2007,440.0,2.04545454545
+2254,Samandon,70.766667,136.25,70.766667,70.766667,136.25,136.25,Vascular plants,Betula fruticosa,22.0,NISP,pollen,,,,,,160.0,10.0,pollen,6/30/2007,411.0,5.35279805353
+2254,Samandon,70.766667,136.25,70.766667,70.766667,136.25,136.25,Vascular plants,Betula fruticosa,12.0,NISP,pollen,,,,,,170.0,10.0,pollen,6/30/2007,457.0,2.62582056893
+2254,Samandon,70.766667,136.25,70.766667,70.766667,136.25,136.25,Vascular plants,Betula fruticosa,11.0,NISP,pollen,,,,,,180.0,10.0,pollen,6/30/2007,429.0,2.5641025641
+2254,Samandon,70.766667,136.25,70.766667,70.766667,136.25,136.25,Vascular plants,Betula fruticosa,9.0,NISP,pollen,,,,,,190.0,10.0,pollen,6/30/2007,342.0,2.63157894737
+2254,Samandon,70.766667,136.25,70.766667,70.766667,136.25,136.25,Vascular plants,Betula fruticosa,13.0,NISP,pollen,,,,,,200.0,10.0,pollen,6/30/2007,342.0,3.80116959064
+2254,Samandon,70.766667,136.25,70.766667,70.766667,136.25,136.25,Vascular plants,Betula fruticosa,6.0,NISP,pollen,,,,,,220.0,10.0,pollen,6/30/2007,331.0,1.81268882175
+2254,Samandon,70.766667,136.25,70.766667,70.766667,136.25,136.25,Vascular plants,Betula fruticosa,6.0,NISP,pollen,,,,,,230.0,10.0,pollen,6/30/2007,493.0,1.21703853955
+2254,Samandon,70.766667,136.25,70.766667,70.766667,136.25,136.25,Vascular plants,Betula fruticosa,11.0,NISP,pollen,,,,,,240.0,10.0,pollen,6/30/2007,377.0,2.91777188329
+2254,Samandon,70.766667,136.25,70.766667,70.766667,136.25,136.25,Vascular plants,Betula fruticosa,10.0,NISP,pollen,,,,,,250.0,10.0,pollen,6/30/2007,528.0,1.89393939394
+2254,Samandon,70.766667,136.25,70.766667,70.766667,136.25,136.25,Vascular plants,Betula fruticosa,7.0,NISP,pollen,,,,,,260.0,10.0,pollen,6/30/2007,351.0,1.9943019943
+2254,Samandon,70.766667,136.25,70.766667,70.766667,136.25,136.25,Vascular plants,Betula fruticosa,6.0,NISP,pollen,,,,,,270.0,10.0,pollen,6/30/2007,280.0,2.14285714286
+2254,Samandon,70.766667,136.25,70.766667,70.766667,136.25,136.25,Vascular plants,Betula fruticosa,9.0,NISP,pollen,,,,,,280.0,10.0,pollen,6/30/2007,311.0,2.89389067524
+2254,Samandon,70.766667,136.25,70.766667,70.766667,136.25,136.25,Vascular plants,Betula fruticosa,4.0,NISP,pollen,,,,,,290.0,10.0,pollen,6/30/2007,303.0,1.3201320132
+2254,Samandon,70.766667,136.25,70.766667,70.766667,136.25,136.25,Vascular plants,Betula fruticosa,5.0,NISP,pollen,,,,,,300.0,10.0,pollen,6/30/2007,285.0,1.75438596491
+2276,Selennyakhskaya-1 Exposure,69.240278,137.822222,69.240278,69.240278,137.822222,137.822222,Vascular plants,Betula fruticosa,2.0,NISP,pollen,,3210.0,,,Radiocarbon years BP,60.0,354.0,pollen,6/30/2007,598.0,0.334448160535
+2276,Selennyakhskaya-1 Exposure,69.240278,137.822222,69.240278,69.240278,137.822222,137.822222,Vascular plants,Betula fruticosa,1.0,NISP,pollen,,8227.0,,,Radiocarbon years BP,260.0,354.0,pollen,6/30/2007,517.0,0.193423597679
+1958,Rauchua Exposure,69.5,166.366667,69.5,69.5,166.366667,166.366667,Vascular plants,Betula fruticosa,1.0,NISP,pollen,,,,,,1000.0,36.0,pollen,6/30/2007,398.0,0.251256281407
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Betula fruticosa,4.0,NISP,pollen,,681.0,,,Radiocarbon years BP,10.0,120.0,pollen,6/30/2007,212.0,1.88679245283
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Betula fruticosa,3.0,NISP,pollen,,1072.0,,,Radiocarbon years BP,20.0,120.0,pollen,6/30/2007,252.0,1.19047619048
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Betula fruticosa,2.0,NISP,pollen,,1398.0,,,Radiocarbon years BP,30.0,120.0,pollen,6/30/2007,251.0,0.796812749004
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Betula fruticosa,5.0,NISP,pollen,,1687.0,,,Radiocarbon years BP,40.0,120.0,pollen,6/30/2007,236.0,2.1186440678
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Betula fruticosa,6.0,NISP,pollen,,1952.0,,,Radiocarbon years BP,50.0,120.0,pollen,6/30/2007,244.0,2.45901639344
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Betula fruticosa,7.0,NISP,pollen,,2199.0,,,Radiocarbon years BP,60.0,120.0,pollen,6/30/2007,231.0,3.0303030303
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Betula fruticosa,8.0,NISP,pollen,,2432.0,,,Radiocarbon years BP,70.0,120.0,pollen,6/30/2007,225.0,3.55555555556
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Betula fruticosa,8.0,NISP,pollen,,2654.0,,,Radiocarbon years BP,80.0,120.0,pollen,6/30/2007,248.0,3.22580645161
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Betula fruticosa,3.0,NISP,pollen,,2867.0,,,Radiocarbon years BP,90.0,120.0,pollen,6/30/2007,275.0,1.09090909091
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Betula fruticosa,7.0,NISP,pollen,,3071.0,,,Radiocarbon years BP,100.0,120.0,pollen,6/30/2007,252.0,2.77777777778
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Betula fruticosa,4.0,NISP,pollen,,3269.0,,,Radiocarbon years BP,110.0,120.0,pollen,6/30/2007,235.0,1.70212765957
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Betula fruticosa,6.0,NISP,pollen,,3460.0,,,Radiocarbon years BP,120.0,120.0,pollen,6/30/2007,242.0,2.47933884298
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Betula fruticosa,7.0,NISP,pollen,,3646.0,,,Radiocarbon years BP,130.0,120.0,pollen,6/30/2007,250.0,2.8
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Betula fruticosa,8.0,NISP,pollen,,3827.0,,,Radiocarbon years BP,140.0,120.0,pollen,6/30/2007,229.0,3.49344978166
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Betula fruticosa,7.0,NISP,pollen,,4004.0,,,Radiocarbon years BP,150.0,120.0,pollen,6/30/2007,225.0,3.11111111111
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Betula fruticosa,8.0,NISP,pollen,,4176.0,,,Radiocarbon years BP,160.0,120.0,pollen,6/30/2007,249.0,3.21285140562
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Betula fruticosa,7.0,NISP,pollen,,4345.0,,,Radiocarbon years BP,170.0,120.0,pollen,6/30/2007,237.0,2.95358649789
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Betula fruticosa,8.0,NISP,pollen,,4511.0,,,Radiocarbon years BP,180.0,120.0,pollen,6/30/2007,234.0,3.4188034188
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Betula fruticosa,8.0,NISP,pollen,,4673.0,,,Radiocarbon years BP,190.0,120.0,pollen,6/30/2007,276.0,2.89855072464
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Betula fruticosa,10.0,NISP,pollen,,4833.0,,,Radiocarbon years BP,200.0,120.0,pollen,6/30/2007,241.0,4.14937759336
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Betula fruticosa,7.0,NISP,pollen,,4989.0,,,Radiocarbon years BP,210.0,120.0,pollen,6/30/2007,256.0,2.734375
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Betula fruticosa,16.0,NISP,pollen,,5143.0,,,Radiocarbon years BP,220.0,120.0,pollen,6/30/2007,231.0,6.92640692641
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Betula fruticosa,14.0,NISP,pollen,,5295.0,,,Radiocarbon years BP,230.0,120.0,pollen,6/30/2007,258.0,5.42635658915
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Betula fruticosa,18.0,NISP,pollen,,5445.0,,,Radiocarbon years BP,240.0,120.0,pollen,6/30/2007,239.0,7.53138075314
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Betula fruticosa,12.0,NISP,pollen,,5592.0,,,Radiocarbon years BP,250.0,120.0,pollen,6/30/2007,229.0,5.24017467249
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Betula fruticosa,10.0,NISP,pollen,,5737.0,,,Radiocarbon years BP,260.0,120.0,pollen,6/30/2007,230.0,4.34782608696
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Betula fruticosa,10.0,NISP,pollen,,5880.0,,,Radiocarbon years BP,270.0,120.0,pollen,6/30/2007,246.0,4.06504065041
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Betula fruticosa,20.0,NISP,pollen,,6022.0,,,Radiocarbon years BP,280.0,120.0,pollen,6/30/2007,237.0,8.4388185654
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Betula fruticosa,14.0,NISP,pollen,,6162.0,,,Radiocarbon years BP,290.0,120.0,pollen,6/30/2007,267.0,5.24344569288
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Betula fruticosa,12.0,NISP,pollen,,6300.0,,,Radiocarbon years BP,300.0,120.0,pollen,6/30/2007,267.0,4.49438202247
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Betula fruticosa,11.0,NISP,pollen,,6436.0,,,Radiocarbon years BP,310.0,120.0,pollen,6/30/2007,204.0,5.39215686275
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Betula fruticosa,10.0,NISP,pollen,,6571.0,,,Radiocarbon years BP,320.0,120.0,pollen,6/30/2007,126.0,7.93650793651
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Betula fruticosa,19.0,NISP,pollen,,6705.0,,,Radiocarbon years BP,330.0,120.0,pollen,6/30/2007,243.0,7.81893004115
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Betula fruticosa,23.0,NISP,pollen,,6837.0,,,Radiocarbon years BP,340.0,120.0,pollen,6/30/2007,250.0,9.2
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Betula fruticosa,12.0,NISP,pollen,,6968.0,,,Radiocarbon years BP,350.0,120.0,pollen,6/30/2007,251.0,4.78087649402
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Betula fruticosa,14.0,NISP,pollen,,7098.0,,,Radiocarbon years BP,360.0,120.0,pollen,6/30/2007,245.0,5.71428571429
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Betula fruticosa,24.0,NISP,pollen,,7226.0,,,Radiocarbon years BP,370.0,120.0,pollen,6/30/2007,281.0,8.5409252669
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Betula fruticosa,19.0,NISP,pollen,,7353.0,,,Radiocarbon years BP,380.0,120.0,pollen,6/30/2007,266.0,7.14285714286
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Betula fruticosa,18.0,NISP,pollen,,7479.0,,,Radiocarbon years BP,390.0,120.0,pollen,6/30/2007,251.0,7.17131474104
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Betula fruticosa,7.0,NISP,pollen,,7604.0,,,Radiocarbon years BP,400.0,120.0,pollen,6/30/2007,171.0,4.09356725146
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Betula fruticosa,11.0,NISP,pollen,,7728.0,,,Radiocarbon years BP,410.0,120.0,pollen,6/30/2007,195.0,5.64102564103
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Betula fruticosa,4.0,NISP,pollen,,7850.0,,,Radiocarbon years BP,420.0,120.0,pollen,6/30/2007,141.0,2.83687943262
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Betula fruticosa,20.0,NISP,pollen,,7972.0,,,Radiocarbon years BP,430.0,120.0,pollen,6/30/2007,258.0,7.7519379845
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Betula fruticosa,18.0,NISP,pollen,,8093.0,,,Radiocarbon years BP,440.0,120.0,pollen,6/30/2007,217.0,8.29493087558
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Betula fruticosa,35.0,NISP,pollen,,8213.0,,,Radiocarbon years BP,450.0,120.0,pollen,6/30/2007,265.0,13.2075471698
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Betula fruticosa,21.0,NISP,pollen,,8332.0,,,Radiocarbon years BP,460.0,120.0,pollen,6/30/2007,278.0,7.55395683453
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Betula fruticosa,10.0,NISP,pollen,,8450.0,,,Radiocarbon years BP,470.0,120.0,pollen,6/30/2007,335.0,2.98507462687
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Betula fruticosa,12.0,NISP,pollen,,8567.0,,,Radiocarbon years BP,480.0,120.0,pollen,6/30/2007,286.0,4.1958041958
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Betula fruticosa,19.0,NISP,pollen,,8683.0,,,Radiocarbon years BP,490.0,120.0,pollen,6/30/2007,267.0,7.11610486891
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Betula fruticosa,10.0,NISP,pollen,,8798.0,,,Radiocarbon years BP,500.0,120.0,pollen,6/30/2007,316.0,3.16455696203
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Betula fruticosa,18.0,NISP,pollen,,8913.0,,,Radiocarbon years BP,510.0,120.0,pollen,6/30/2007,309.0,5.82524271845
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Betula fruticosa,20.0,NISP,pollen,,9027.0,,,Radiocarbon years BP,520.0,120.0,pollen,6/30/2007,319.0,6.26959247649
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Betula fruticosa,21.0,NISP,pollen,,9140.0,,,Radiocarbon years BP,530.0,120.0,pollen,6/30/2007,299.0,7.02341137124
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Betula fruticosa,18.0,NISP,pollen,,9253.0,,,Radiocarbon years BP,540.0,120.0,pollen,6/30/2007,320.0,5.625
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Betula fruticosa,18.0,NISP,pollen,,9364.0,,,Radiocarbon years BP,550.0,120.0,pollen,6/30/2007,300.0,6.0
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Betula fruticosa,18.0,NISP,pollen,,9475.0,,,Radiocarbon years BP,560.0,120.0,pollen,6/30/2007,299.0,6.02006688963
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Betula fruticosa,18.0,NISP,pollen,,9586.0,,,Radiocarbon years BP,570.0,120.0,pollen,6/30/2007,332.0,5.42168674699
+3029,Lake Boguda,63.666667,123.25,63.666667,63.666667,123.25,123.25,Vascular plants,Betula fruticosa,26.0,NISP,pollen,,9695.0,,,Radiocarbon years BP,580.0,120.0,pollen,6/30/2007,334.0,7.78443113772
+3055,Cherny Yar,56.066667,161.0,56.066667,56.066667,161.0,161.0,Vascular plants,Betula fruticosa,4.0,NISP,pollen,,,,,,12.0,148.0,pollen,6/30/2007,283.0,1.41342756184
+3055,Cherny Yar,56.066667,161.0,56.066667,56.066667,161.0,161.0,Vascular plants,Betula fruticosa,5.0,NISP,pollen,,,,,,17.0,148.0,pollen,6/30/2007,260.0,1.92307692308
+3055,Cherny Yar,56.066667,161.0,56.066667,56.066667,161.0,161.0,Vascular plants,Betula fruticosa,2.0,NISP,pollen,,,,,,28.0,148.0,pollen,6/30/2007,303.0,0.660066006601
+3055,Cherny Yar,56.066667,161.0,56.066667,56.066667,161.0,161.0,Vascular plants,Betula fruticosa,3.0,NISP,pollen,,,,,,32.0,148.0,pollen,6/30/2007,316.0,0.949367088608
+3055,Cherny Yar,56.066667,161.0,56.066667,56.066667,161.0,161.0,Vascular plants,Betula fruticosa,3.0,NISP,pollen,,,,,,43.0,148.0,pollen,6/30/2007,277.0,1.08303249097
+3055,Cherny Yar,56.066667,161.0,56.066667,56.066667,161.0,161.0,Vascular plants,Betula fruticosa,5.0,NISP,pollen,,,,,,47.0,148.0,pollen,6/30/2007,242.0,2.06611570248
+3055,Cherny Yar,56.066667,161.0,56.066667,56.066667,161.0,161.0,Vascular plants,Betula fruticosa,15.0,NISP,pollen,,,,,,58.0,148.0,pollen,6/30/2007,287.0,5.22648083624
+3055,Cherny Yar,56.066667,161.0,56.066667,56.066667,161.0,161.0,Vascular plants,Betula fruticosa,9.0,NISP,pollen,,,,,,65.0,148.0,pollen,6/30/2007,234.0,3.84615384615
+3055,Cherny Yar,56.066667,161.0,56.066667,56.066667,161.0,161.0,Vascular plants,Betula fruticosa,7.0,NISP,pollen,,,,,,85.0,148.0,pollen,6/30/2007,292.0,2.39726027397
+3055,Cherny Yar,56.066667,161.0,56.066667,56.066667,161.0,161.0,Vascular plants,Betula fruticosa,4.0,NISP,pollen,,,,,,90.0,148.0,pollen,6/30/2007,338.0,1.18343195266
+3055,Cherny Yar,56.066667,161.0,56.066667,56.066667,161.0,161.0,Vascular plants,Betula fruticosa,7.0,NISP,pollen,,,,,,168.0,148.0,pollen,6/30/2007,205.0,3.41463414634
+3055,Cherny Yar,56.066667,161.0,56.066667,56.066667,161.0,161.0,Vascular plants,Betula fruticosa,3.0,NISP,pollen,,,,,,202.0,148.0,pollen,6/30/2007,306.0,0.980392156863
+3055,Cherny Yar,56.066667,161.0,56.066667,56.066667,161.0,161.0,Vascular plants,Betula fruticosa,2.0,NISP,pollen,,,,,,236.0,148.0,pollen,6/30/2007,282.0,0.709219858156
+3055,Cherny Yar,56.066667,161.0,56.066667,56.066667,161.0,161.0,Vascular plants,Betula fruticosa,4.0,NISP,pollen,,,,,,263.0,148.0,pollen,6/30/2007,384.0,1.04166666667
+3055,Cherny Yar,56.066667,161.0,56.066667,56.066667,161.0,161.0,Vascular plants,Betula fruticosa,8.0,NISP,pollen,,,,,,310.0,148.0,pollen,6/30/2007,273.0,2.9304029304
+3182,Karasieozerskoe,56.766667,60.75,56.766667,56.766667,60.75,60.75,Vascular plants,Betula fruticosa,1.0,NISP,pollen,,6305.0,,,Radiocarbon years BP,215.0,230.0,pollen,6/30/2007,325.0,0.307692307692
+3182,Karasieozerskoe,56.766667,60.75,56.766667,56.766667,60.75,60.75,Vascular plants,Betula fruticosa,1.0,NISP,pollen,,9331.0,,,Radiocarbon years BP,260.0,230.0,pollen,6/30/2007,270.0,0.37037037037
+3211,Kunyok,67.833333,33.666667,67.833333,67.833333,33.666667,33.666667,Vascular plants,Betula fruticosa,46.0,NISP,pollen,,-25.0,,,Radiocarbon years BP,3.0,220.0,pollen,6/30/2007,336.0,13.6904761905
+3211,Kunyok,67.833333,33.666667,67.833333,67.833333,33.666667,33.666667,Vascular plants,Betula fruticosa,11.0,NISP,pollen,,814.0,,,Radiocarbon years BP,23.0,220.0,pollen,6/30/2007,338.0,3.25443786982
+3211,Kunyok,67.833333,33.666667,67.833333,67.833333,33.666667,33.666667,Vascular plants,Betula fruticosa,18.0,NISP,pollen,,2360.0,,,Radiocarbon years BP,43.0,220.0,pollen,6/30/2007,459.0,3.92156862745
+3211,Kunyok,67.833333,33.666667,67.833333,67.833333,33.666667,33.666667,Vascular plants,Betula fruticosa,18.0,NISP,pollen,,3510.0,,,Radiocarbon years BP,51.0,220.0,pollen,6/30/2007,587.0,3.066439523
+3211,Kunyok,67.833333,33.666667,67.833333,67.833333,33.666667,33.666667,Vascular plants,Betula fruticosa,19.0,NISP,pollen,,4398.0,,,Radiocarbon years BP,57.0,220.0,pollen,6/30/2007,643.0,2.95489891135
+3211,Kunyok,67.833333,33.666667,67.833333,67.833333,33.666667,33.666667,Vascular plants,Betula fruticosa,2.0,NISP,pollen,,4793.0,,,Radiocarbon years BP,63.0,220.0,pollen,6/30/2007,426.0,0.469483568075
+3211,Kunyok,67.833333,33.666667,67.833333,67.833333,33.666667,33.666667,Vascular plants,Betula fruticosa,6.0,NISP,pollen,,5101.0,,,Radiocarbon years BP,71.0,220.0,pollen,6/30/2007,639.0,0.93896713615
+3211,Kunyok,67.833333,33.666667,67.833333,67.833333,33.666667,33.666667,Vascular plants,Betula fruticosa,23.0,NISP,pollen,,5316.0,,,Radiocarbon years BP,78.0,220.0,pollen,6/30/2007,498.0,4.61847389558
+3211,Kunyok,67.833333,33.666667,67.833333,67.833333,33.666667,33.666667,Vascular plants,Betula fruticosa,9.0,NISP,pollen,,5463.0,,,Radiocarbon years BP,83.0,220.0,pollen,6/30/2007,740.0,1.21621621622
+3211,Kunyok,67.833333,33.666667,67.833333,67.833333,33.666667,33.666667,Vascular plants,Betula fruticosa,38.0,NISP,pollen,,5580.0,,,Radiocarbon years BP,87.0,220.0,pollen,6/30/2007,838.0,4.53460620525
+3211,Kunyok,67.833333,33.666667,67.833333,67.833333,33.666667,33.666667,Vascular plants,Betula fruticosa,3.0,NISP,pollen,,6429.0,,,Radiocarbon years BP,93.0,220.0,pollen,6/30/2007,518.0,0.579150579151
+3211,Kunyok,67.833333,33.666667,67.833333,67.833333,33.666667,33.666667,Vascular plants,Betula fruticosa,28.0,NISP,pollen,,7054.0,,,Radiocarbon years BP,105.0,220.0,pollen,6/30/2007,647.0,4.32766615147
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Betula fruticosa,3.0,NISP,pollen,,63.0,,,Radiocarbon years BP,10.0,260.0,pollen,6/30/2007,255.0,1.17647058824
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Betula fruticosa,2.0,NISP,pollen,,105.0,,,Radiocarbon years BP,20.0,260.0,pollen,6/30/2007,265.0,0.754716981132
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Betula fruticosa,4.0,NISP,pollen,,132.0,,,Radiocarbon years BP,30.0,260.0,pollen,6/30/2007,247.0,1.61943319838
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Betula fruticosa,8.0,NISP,pollen,,153.0,,,Radiocarbon years BP,40.0,260.0,pollen,6/30/2007,252.0,3.1746031746
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Betula fruticosa,3.0,NISP,pollen,,173.0,,,Radiocarbon years BP,50.0,260.0,pollen,6/30/2007,244.0,1.22950819672
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Betula fruticosa,7.0,NISP,pollen,,201.0,,,Radiocarbon years BP,60.0,260.0,pollen,6/30/2007,242.0,2.89256198347
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Betula fruticosa,5.0,NISP,pollen,,242.0,,,Radiocarbon years BP,70.0,260.0,pollen,6/30/2007,257.0,1.94552529183
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Betula fruticosa,2.0,NISP,pollen,,305.0,,,Radiocarbon years BP,80.0,260.0,pollen,6/30/2007,256.0,0.78125
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Betula fruticosa,2.0,NISP,pollen,,396.0,,,Radiocarbon years BP,90.0,260.0,pollen,6/30/2007,235.0,0.851063829787
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Betula fruticosa,3.0,NISP,pollen,,523.0,,,Radiocarbon years BP,100.0,260.0,pollen,6/30/2007,281.0,1.06761565836
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Betula fruticosa,4.0,NISP,pollen,,692.0,,,Radiocarbon years BP,110.0,260.0,pollen,6/30/2007,259.0,1.5444015444
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Betula fruticosa,7.0,NISP,pollen,,910.0,,,Radiocarbon years BP,120.0,260.0,pollen,6/30/2007,238.0,2.94117647059
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Betula fruticosa,4.0,NISP,pollen,,1181.0,,,Radiocarbon years BP,130.0,260.0,pollen,6/30/2007,252.0,1.5873015873
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Betula fruticosa,3.0,NISP,pollen,,1494.0,,,Radiocarbon years BP,140.0,260.0,pollen,6/30/2007,264.0,1.13636363636
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Betula fruticosa,1.0,NISP,pollen,,1833.0,,,Radiocarbon years BP,150.0,260.0,pollen,6/30/2007,242.0,0.413223140496
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Betula fruticosa,2.0,NISP,pollen,,2185.0,,,Radiocarbon years BP,160.0,260.0,pollen,6/30/2007,245.0,0.816326530612
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Betula fruticosa,3.0,NISP,pollen,,2533.0,,,Radiocarbon years BP,170.0,260.0,pollen,6/30/2007,227.0,1.32158590308
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Betula fruticosa,4.0,NISP,pollen,,2863.0,,,Radiocarbon years BP,180.0,260.0,pollen,6/30/2007,247.0,1.61943319838
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Betula fruticosa,3.0,NISP,pollen,,3160.0,,,Radiocarbon years BP,190.0,260.0,pollen,6/30/2007,230.0,1.30434782609
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Betula fruticosa,6.0,NISP,pollen,,3413.0,,,Radiocarbon years BP,200.0,260.0,pollen,6/30/2007,245.0,2.44897959184
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Betula fruticosa,4.0,NISP,pollen,,3622.0,,,Radiocarbon years BP,210.0,260.0,pollen,6/30/2007,255.0,1.56862745098
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Betula fruticosa,6.0,NISP,pollen,,3794.0,,,Radiocarbon years BP,220.0,260.0,pollen,6/30/2007,277.0,2.16606498195
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Betula fruticosa,4.0,NISP,pollen,,3932.0,,,Radiocarbon years BP,230.0,260.0,pollen,6/30/2007,235.0,1.70212765957
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Betula fruticosa,5.0,NISP,pollen,,4041.0,,,Radiocarbon years BP,240.0,260.0,pollen,6/30/2007,262.0,1.90839694656
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Betula fruticosa,1.0,NISP,pollen,,4127.0,,,Radiocarbon years BP,250.0,260.0,pollen,6/30/2007,261.0,0.383141762452
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Betula fruticosa,5.0,NISP,pollen,,4193.0,,,Radiocarbon years BP,260.0,260.0,pollen,6/30/2007,381.0,1.31233595801
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Betula fruticosa,1.0,NISP,pollen,,4245.0,,,Radiocarbon years BP,270.0,260.0,pollen,6/30/2007,286.0,0.34965034965
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Betula fruticosa,2.0,NISP,pollen,,4288.0,,,Radiocarbon years BP,280.0,260.0,pollen,6/30/2007,275.0,0.727272727273
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Betula fruticosa,2.0,NISP,pollen,,4326.0,,,Radiocarbon years BP,290.0,260.0,pollen,6/30/2007,246.0,0.813008130081
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Betula fruticosa,9.0,NISP,pollen,,4364.0,,,Radiocarbon years BP,300.0,260.0,pollen,6/30/2007,262.0,3.43511450382
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Betula fruticosa,7.0,NISP,pollen,,4407.0,,,Radiocarbon years BP,310.0,260.0,pollen,6/30/2007,262.0,2.67175572519
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Betula fruticosa,9.0,NISP,pollen,,4460.0,,,Radiocarbon years BP,320.0,260.0,pollen,6/30/2007,237.0,3.79746835443
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Betula fruticosa,12.0,NISP,pollen,,4526.0,,,Radiocarbon years BP,330.0,260.0,pollen,6/30/2007,319.0,3.76175548589
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Betula fruticosa,2.0,NISP,pollen,,4605.0,,,Radiocarbon years BP,340.0,260.0,pollen,6/30/2007,282.0,0.709219858156
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Betula fruticosa,3.0,NISP,pollen,,4694.0,,,Radiocarbon years BP,350.0,260.0,pollen,6/30/2007,253.0,1.18577075099
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Betula fruticosa,9.0,NISP,pollen,,4792.0,,,Radiocarbon years BP,360.0,260.0,pollen,6/30/2007,269.0,3.34572490706
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Betula fruticosa,6.0,NISP,pollen,,4896.0,,,Radiocarbon years BP,370.0,260.0,pollen,6/30/2007,404.0,1.48514851485
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Betula fruticosa,7.0,NISP,pollen,,5005.0,,,Radiocarbon years BP,380.0,260.0,pollen,6/30/2007,271.0,2.58302583026
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Betula fruticosa,9.0,NISP,pollen,,5117.0,,,Radiocarbon years BP,390.0,260.0,pollen,6/30/2007,285.0,3.15789473684
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Betula fruticosa,27.0,NISP,pollen,,5229.0,,,Radiocarbon years BP,400.0,260.0,pollen,6/30/2007,327.0,8.25688073394
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Betula fruticosa,7.0,NISP,pollen,,5340.0,,,Radiocarbon years BP,410.0,260.0,pollen,6/30/2007,266.0,2.63157894737
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Betula fruticosa,10.0,NISP,pollen,,5448.0,,,Radiocarbon years BP,420.0,260.0,pollen,6/30/2007,270.0,3.7037037037
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Betula fruticosa,9.0,NISP,pollen,,5550.0,,,Radiocarbon years BP,430.0,260.0,pollen,6/30/2007,242.0,3.71900826446
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Betula fruticosa,2.0,NISP,pollen,,5645.0,,,Radiocarbon years BP,440.0,260.0,pollen,6/30/2007,235.0,0.851063829787
+3325,Lake Nuochaga,61.3,129.55,61.3,61.3,129.55,129.55,Vascular plants,Betula fruticosa,2.0,NISP,pollen,,5731.0,,,Radiocarbon years BP,450.0,260.0,pollen,6/30/2007,240.0,0.833333333333
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,1.0,NISP,pollen,,,,,,5.0,150.0,pollen,6/30/2007,140.0,0.714285714286
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,1.0,NISP,pollen,,,,,,25.0,150.0,pollen,6/30/2007,141.0,0.709219858156
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,1.0,NISP,pollen,,,,,,65.0,150.0,pollen,6/30/2007,183.0,0.546448087432
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,1.0,NISP,pollen,,,,,,105.0,150.0,pollen,6/30/2007,67.0,1.49253731343
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,1.0,NISP,pollen,,,,,,195.0,150.0,pollen,6/30/2007,125.0,0.8
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,1.0,NISP,pollen,,,,,,210.0,150.0,pollen,6/30/2007,194.0,0.515463917526
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,1.0,NISP,pollen,,,,,,350.0,150.0,pollen,6/30/2007,229.0,0.436681222707
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,1.0,NISP,pollen,,,,,,410.0,150.0,pollen,6/30/2007,200.0,0.5
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,2.0,NISP,pollen,,,,,,470.0,150.0,pollen,6/30/2007,313.0,0.638977635783
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,2.0,NISP,pollen,,,,,,530.0,150.0,pollen,6/30/2007,249.0,0.803212851406
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,1.0,NISP,pollen,,,,,,590.0,150.0,pollen,6/30/2007,372.0,0.268817204301
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,6.0,NISP,pollen,,,,,,650.0,150.0,pollen,6/30/2007,233.0,2.57510729614
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,1.0,NISP,pollen,,,,,,720.0,150.0,pollen,6/30/2007,211.0,0.473933649289
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,3.0,NISP,pollen,,,,,,800.0,150.0,pollen,6/30/2007,329.0,0.911854103343
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,1.0,NISP,pollen,,,,,,880.0,150.0,pollen,6/30/2007,422.0,0.236966824645
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,2.0,NISP,pollen,,,,,,1000.0,150.0,pollen,6/30/2007,120.0,1.66666666667
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,1.0,NISP,pollen,,,,,,1040.0,150.0,pollen,6/30/2007,86.0,1.16279069767
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,3.0,NISP,pollen,,,,,,1120.0,150.0,pollen,6/30/2007,653.0,0.459418070444
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,2.0,NISP,pollen,,,,,,1200.0,150.0,pollen,6/30/2007,397.0,0.503778337531
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,2.0,NISP,pollen,,,,,,1280.0,150.0,pollen,6/30/2007,347.0,0.576368876081
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,2.0,NISP,pollen,,,,,,1360.0,150.0,pollen,6/30/2007,358.0,0.558659217877
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,3.0,NISP,pollen,,,,,,1440.0,150.0,pollen,6/30/2007,103.0,2.91262135922
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,3.0,NISP,pollen,,,,,,1480.0,150.0,pollen,6/30/2007,109.0,2.75229357798
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,2.0,NISP,pollen,,,,,,1520.0,150.0,pollen,6/30/2007,327.0,0.611620795107
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,1.0,NISP,pollen,,,,,,1600.0,150.0,pollen,6/30/2007,262.0,0.381679389313
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,2.0,NISP,pollen,,,,,,1680.0,150.0,pollen,6/30/2007,186.0,1.0752688172
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,4.0,NISP,pollen,,,,,,1760.0,150.0,pollen,6/30/2007,315.0,1.26984126984
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,1.0,NISP,pollen,,,,,,1800.0,150.0,pollen,6/30/2007,252.0,0.396825396825
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,1.0,NISP,pollen,,,,,,1910.0,150.0,pollen,6/30/2007,256.0,0.390625
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,1.0,NISP,pollen,,,,,,1941.0,150.0,pollen,6/30/2007,148.0,0.675675675676
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,3.0,NISP,pollen,,,,,,1970.0,150.0,pollen,6/30/2007,226.0,1.32743362832
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,2.0,NISP,pollen,,,,,,2000.0,150.0,pollen,6/30/2007,197.0,1.0152284264
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,4.0,NISP,pollen,,,,,,2080.0,150.0,pollen,6/30/2007,197.0,2.03045685279
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,5.0,NISP,pollen,,,,,,2160.0,150.0,pollen,6/30/2007,248.0,2.01612903226
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,9.0,NISP,pollen,,,,,,2240.0,150.0,pollen,6/30/2007,233.0,3.86266094421
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,2.0,NISP,pollen,,,,,,2320.0,150.0,pollen,6/30/2007,234.0,0.854700854701
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,5.0,NISP,pollen,,,,,,2400.0,150.0,pollen,6/30/2007,192.0,2.60416666667
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,2.0,NISP,pollen,,,,,,2440.0,150.0,pollen,6/30/2007,126.0,1.5873015873
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,10.0,NISP,pollen,,,,,,2480.0,150.0,pollen,6/30/2007,205.0,4.87804878049
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,3.0,NISP,pollen,,,,,,2520.0,150.0,pollen,6/30/2007,198.0,1.51515151515
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,8.0,NISP,pollen,,,,,,2550.0,150.0,pollen,6/30/2007,225.0,3.55555555556
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,3.0,NISP,pollen,,,,,,2610.0,150.0,pollen,6/30/2007,141.0,2.12765957447
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,10.0,NISP,pollen,,,,,,2670.0,150.0,pollen,6/30/2007,146.0,6.84931506849
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,10.0,NISP,pollen,,,,,,2730.0,150.0,pollen,6/30/2007,213.0,4.69483568075
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,1.0,NISP,pollen,,,,,,2800.0,150.0,pollen,6/30/2007,190.0,0.526315789474
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,9.0,NISP,pollen,,,,,,2850.0,150.0,pollen,6/30/2007,191.0,4.71204188482
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,5.0,NISP,pollen,,,,,,2900.0,150.0,pollen,6/30/2007,193.0,2.59067357513
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,9.0,NISP,pollen,,,,,,2950.0,150.0,pollen,6/30/2007,159.0,5.66037735849
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,3.0,NISP,pollen,,,,,,2980.0,150.0,pollen,6/30/2007,202.0,1.48514851485
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,8.0,NISP,pollen,,,,,,3050.0,150.0,pollen,6/30/2007,210.0,3.80952380952
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,6.0,NISP,pollen,,,,,,3110.0,150.0,pollen,6/30/2007,197.0,3.04568527919
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,16.0,NISP,pollen,,,,,,3170.0,150.0,pollen,6/30/2007,235.0,6.8085106383
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,9.0,NISP,pollen,,,,,,3230.0,150.0,pollen,6/30/2007,188.0,4.78723404255
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,21.0,NISP,pollen,,,,,,3290.0,150.0,pollen,6/30/2007,283.0,7.42049469965
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,10.0,NISP,pollen,,,,,,3350.0,150.0,pollen,6/30/2007,281.0,3.55871886121
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,3.0,NISP,pollen,,,,,,3410.0,150.0,pollen,6/30/2007,277.0,1.08303249097
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,12.0,NISP,pollen,,,,,,3470.0,150.0,pollen,6/30/2007,285.0,4.21052631579
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,2.0,NISP,pollen,,,,,,3530.0,150.0,pollen,6/30/2007,312.0,0.641025641026
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,3.0,NISP,pollen,,,,,,3600.0,150.0,pollen,6/30/2007,312.0,0.961538461538
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,2.0,NISP,pollen,,,,,,3680.0,150.0,pollen,6/30/2007,307.0,0.651465798046
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,8.0,NISP,pollen,,,,,,3740.0,150.0,pollen,6/30/2007,284.0,2.81690140845
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,5.0,NISP,pollen,,,,,,3800.0,150.0,pollen,6/30/2007,351.0,1.4245014245
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,14.0,NISP,pollen,,,,,,3940.0,150.0,pollen,6/30/2007,280.0,5.0
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,20.0,NISP,pollen,,,,,,4030.0,150.0,pollen,6/30/2007,310.0,6.45161290323
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,11.0,NISP,pollen,,,,,,4090.0,150.0,pollen,6/30/2007,248.0,4.43548387097
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,22.0,NISP,pollen,,,,,,4150.0,150.0,pollen,6/30/2007,198.0,11.1111111111
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,8.0,NISP,pollen,,,,,,4270.0,150.0,pollen,6/30/2007,235.0,3.40425531915
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,18.0,NISP,pollen,,,,,,4330.0,150.0,pollen,6/30/2007,215.0,8.37209302326
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,12.0,NISP,pollen,,,,,,4390.0,150.0,pollen,6/30/2007,198.0,6.06060606061
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,8.0,NISP,pollen,,,,,,4450.0,150.0,pollen,6/30/2007,155.0,5.16129032258
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,15.0,NISP,pollen,,,,,,4490.0,150.0,pollen,6/30/2007,195.0,7.69230769231
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,19.0,NISP,pollen,,,,,,4650.0,150.0,pollen,6/30/2007,242.0,7.85123966942
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,1.0,NISP,pollen,,,,,,4680.0,150.0,pollen,6/30/2007,376.0,0.265957446809
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,2.0,NISP,pollen,,,,,,4740.0,150.0,pollen,6/30/2007,473.0,0.422832980973
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,1.0,NISP,pollen,,,,,,4800.0,150.0,pollen,6/30/2007,294.0,0.340136054422
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,2.0,NISP,pollen,,,,,,4980.0,150.0,pollen,6/30/2007,269.0,0.743494423792
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,2.0,NISP,pollen,,,,,,5070.0,150.0,pollen,6/30/2007,328.0,0.609756097561
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,1.0,NISP,pollen,,,,,,5130.0,150.0,pollen,6/30/2007,316.0,0.316455696203
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,4.0,NISP,pollen,,,,,,5200.0,150.0,pollen,6/30/2007,290.0,1.37931034483
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,5.0,NISP,pollen,,,,,,5280.0,150.0,pollen,6/30/2007,196.0,2.55102040816
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,6.0,NISP,pollen,,,,,,5340.0,150.0,pollen,6/30/2007,269.0,2.23048327138
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,8.0,NISP,pollen,,,,,,5400.0,150.0,pollen,6/30/2007,207.0,3.86473429952
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,3.0,NISP,pollen,,,,,,5530.0,150.0,pollen,6/30/2007,192.0,1.5625
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,7.0,NISP,pollen,,,,,,5560.0,150.0,pollen,6/30/2007,182.0,3.84615384615
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,13.0,NISP,pollen,,,,,,5600.0,150.0,pollen,6/30/2007,239.0,5.43933054393
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,11.0,NISP,pollen,,,,,,5620.0,150.0,pollen,6/30/2007,232.0,4.74137931034
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,10.0,NISP,pollen,,,,,,5680.0,150.0,pollen,6/30/2007,173.0,5.78034682081
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,17.0,NISP,pollen,,,,,,5750.0,150.0,pollen,6/30/2007,174.0,9.77011494253
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,11.0,NISP,pollen,,,,,,5810.0,150.0,pollen,6/30/2007,249.0,4.41767068273
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,5.0,NISP,pollen,,,,,,5870.0,150.0,pollen,6/30/2007,223.0,2.24215246637
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,1.0,NISP,pollen,,,,,,5900.0,150.0,pollen,6/30/2007,201.0,0.497512437811
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,3.0,NISP,pollen,,,,,,5950.0,150.0,pollen,6/30/2007,181.0,1.65745856354
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,2.0,NISP,pollen,,,,,,6000.0,150.0,pollen,6/30/2007,141.0,1.41843971631
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,4.0,NISP,pollen,,,,,,6050.0,150.0,pollen,6/30/2007,202.0,1.9801980198
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,3.0,NISP,pollen,,,,,,6100.0,150.0,pollen,6/30/2007,189.0,1.5873015873
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,2.0,NISP,pollen,,,,,,6200.0,150.0,pollen,6/30/2007,174.0,1.14942528736
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,3.0,NISP,pollen,,,,,,6290.0,150.0,pollen,6/30/2007,162.0,1.85185185185
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,3.0,NISP,pollen,,,,,,6400.0,150.0,pollen,6/30/2007,137.0,2.1897810219
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,8.0,NISP,pollen,,,,,,6490.0,150.0,pollen,6/30/2007,181.0,4.41988950276
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,1.0,NISP,pollen,,,,,,6600.0,150.0,pollen,6/30/2007,174.0,0.574712643678
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,3.0,NISP,pollen,,,,,,6665.0,150.0,pollen,6/30/2007,149.0,2.01342281879
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,3.0,NISP,pollen,,,,,,6700.0,150.0,pollen,6/30/2007,153.0,1.96078431373
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,2.0,NISP,pollen,,,,,,6800.0,150.0,pollen,6/30/2007,115.0,1.73913043478
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,4.0,NISP,pollen,,,,,,6900.0,150.0,pollen,6/30/2007,33.0,12.1212121212
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,4.0,NISP,pollen,,,,,,7000.0,150.0,pollen,6/30/2007,211.0,1.89573459716
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,3.0,NISP,pollen,,,,,,7100.0,150.0,pollen,6/30/2007,133.0,2.25563909774
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,2.0,NISP,pollen,,,,,,7180.0,150.0,pollen,6/30/2007,138.0,1.44927536232
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,4.0,NISP,pollen,,,,,,7300.0,150.0,pollen,6/30/2007,203.0,1.97044334975
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,1.0,NISP,pollen,,,,,,7400.0,150.0,pollen,6/30/2007,203.0,0.492610837438
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,1.0,NISP,pollen,,,,,,7500.0,150.0,pollen,6/30/2007,180.0,0.555555555556
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,2.0,NISP,pollen,,,,,,7600.0,150.0,pollen,6/30/2007,195.0,1.02564102564
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,2.0,NISP,pollen,,,,,,7980.0,150.0,pollen,6/30/2007,165.0,1.21212121212
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,3.0,NISP,pollen,,,,,,8040.0,150.0,pollen,6/30/2007,263.0,1.14068441065
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,4.0,NISP,pollen,,,,,,8070.0,150.0,pollen,6/30/2007,313.0,1.27795527157
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,6.0,NISP,pollen,,,,,,8120.0,150.0,pollen,6/30/2007,253.0,2.37154150198
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,1.0,NISP,pollen,,,,,,8160.0,150.0,pollen,6/30/2007,170.0,0.588235294118
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Betula fruticosa,3.0,NISP,pollen,,,,,,8340.0,150.0,pollen,6/30/2007,173.0,1.73410404624
+3392,Plesheevo Lake,56.75,38.5,56.75,56.75,38.5,38.5,Vascular plants,Betula fruticosa,12.0,NISP,pollen,,2978.0,,,Radiocarbon years BP,80.0,148.0,pollen,6/30/2007,178.0,6.74157303371
+3392,Plesheevo Lake,56.75,38.5,56.75,56.75,38.5,38.5,Vascular plants,Betula fruticosa,11.0,NISP,pollen,,3536.0,,,Radiocarbon years BP,95.0,148.0,pollen,6/30/2007,132.0,8.33333333333
+3392,Plesheevo Lake,56.75,38.5,56.75,56.75,38.5,38.5,Vascular plants,Betula fruticosa,7.0,NISP,pollen,,3722.0,,,Radiocarbon years BP,100.0,148.0,pollen,6/30/2007,176.0,3.97727272727
+3392,Plesheevo Lake,56.75,38.5,56.75,56.75,38.5,38.5,Vascular plants,Betula fruticosa,3.0,NISP,pollen,,4281.0,,,Radiocarbon years BP,115.0,148.0,pollen,6/30/2007,259.0,1.1583011583
+3392,Plesheevo Lake,56.75,38.5,56.75,56.75,38.5,38.5,Vascular plants,Betula fruticosa,2.0,NISP,pollen,,4653.0,,,Radiocarbon years BP,125.0,148.0,pollen,6/30/2007,199.0,1.00502512563
+3392,Plesheevo Lake,56.75,38.5,56.75,56.75,38.5,38.5,Vascular plants,Betula fruticosa,4.0,NISP,pollen,,5211.0,,,Radiocarbon years BP,140.0,148.0,pollen,6/30/2007,243.0,1.64609053498
+3392,Plesheevo Lake,56.75,38.5,56.75,56.75,38.5,38.5,Vascular plants,Betula fruticosa,2.0,NISP,pollen,,5398.0,,,Radiocarbon years BP,145.0,148.0,pollen,6/30/2007,146.0,1.3698630137
+3392,Plesheevo Lake,56.75,38.5,56.75,56.75,38.5,38.5,Vascular plants,Betula fruticosa,4.0,NISP,pollen,,5956.0,,,Radiocarbon years BP,160.0,148.0,pollen,6/30/2007,341.0,1.17302052786
+3392,Plesheevo Lake,56.75,38.5,56.75,56.75,38.5,38.5,Vascular plants,Betula fruticosa,2.0,NISP,pollen,,6328.0,,,Radiocarbon years BP,170.0,148.0,pollen,6/30/2007,298.0,0.671140939597
+3392,Plesheevo Lake,56.75,38.5,56.75,56.75,38.5,38.5,Vascular plants,Betula fruticosa,4.0,NISP,pollen,,6700.0,,,Radiocarbon years BP,180.0,148.0,pollen,6/30/2007,258.0,1.5503875969
+3392,Plesheevo Lake,56.75,38.5,56.75,56.75,38.5,38.5,Vascular plants,Betula fruticosa,1.0,NISP,pollen,,7073.0,,,Radiocarbon years BP,190.0,148.0,pollen,6/30/2007,118.0,0.847457627119
+3392,Plesheevo Lake,56.75,38.5,56.75,56.75,38.5,38.5,Vascular plants,Betula fruticosa,1.0,NISP,pollen,,7445.0,,,Radiocarbon years BP,200.0,148.0,pollen,6/30/2007,139.0,0.719424460432
+3392,Plesheevo Lake,56.75,38.5,56.75,56.75,38.5,38.5,Vascular plants,Betula fruticosa,1.0,NISP,pollen,,7631.0,,,Radiocarbon years BP,205.0,148.0,pollen,6/30/2007,259.0,0.3861003861
+3392,Plesheevo Lake,56.75,38.5,56.75,56.75,38.5,38.5,Vascular plants,Betula fruticosa,3.0,NISP,pollen,,8003.0,,,Radiocarbon years BP,215.0,148.0,pollen,6/30/2007,206.0,1.45631067961
+3392,Plesheevo Lake,56.75,38.5,56.75,56.75,38.5,38.5,Vascular plants,Betula fruticosa,4.0,NISP,pollen,,8189.0,,,Radiocarbon years BP,220.0,148.0,pollen,6/30/2007,218.0,1.83486238532
+3392,Plesheevo Lake,56.75,38.5,56.75,56.75,38.5,38.5,Vascular plants,Betula fruticosa,6.0,NISP,pollen,,8376.0,,,Radiocarbon years BP,225.0,148.0,pollen,6/30/2007,307.0,1.95439739414
+3392,Plesheevo Lake,56.75,38.5,56.75,56.75,38.5,38.5,Vascular plants,Betula fruticosa,12.0,NISP,pollen,,8562.0,,,Radiocarbon years BP,230.0,148.0,pollen,6/30/2007,486.0,2.46913580247
+3392,Plesheevo Lake,56.75,38.5,56.75,56.75,38.5,38.5,Vascular plants,Betula fruticosa,3.0,NISP,pollen,,8934.0,,,Radiocarbon years BP,240.0,148.0,pollen,6/30/2007,91.0,3.2967032967
+3392,Plesheevo Lake,56.75,38.5,56.75,56.75,38.5,38.5,Vascular plants,Betula fruticosa,2.0,NISP,pollen,,10711.0,,,Radiocarbon years BP,270.0,148.0,pollen,6/30/2007,53.0,3.77358490566
+3392,Plesheevo Lake,56.75,38.5,56.75,56.75,38.5,38.5,Vascular plants,Betula fruticosa,2.0,NISP,pollen,,11030.0,,,Radiocarbon years BP,275.0,148.0,pollen,6/30/2007,82.0,2.43902439024
+3392,Plesheevo Lake,56.75,38.5,56.75,56.75,38.5,38.5,Vascular plants,Betula fruticosa,2.0,NISP,pollen,,13257.0,,,Radiocarbon years BP,310.0,148.0,pollen,6/30/2007,57.0,3.50877192982
+3392,Plesheevo Lake,56.75,38.5,56.75,56.75,38.5,38.5,Vascular plants,Betula fruticosa,6.0,NISP,pollen,,15803.0,,,Radiocarbon years BP,350.0,148.0,pollen,6/30/2007,145.0,4.13793103448
+3392,Plesheevo Lake,56.75,38.5,56.75,56.75,38.5,38.5,Vascular plants,Betula fruticosa,7.0,NISP,pollen,,16440.0,,,Radiocarbon years BP,360.0,148.0,pollen,6/30/2007,97.0,7.21649484536
+3392,Plesheevo Lake,56.75,38.5,56.75,56.75,38.5,38.5,Vascular plants,Betula fruticosa,9.0,NISP,pollen,,17713.0,,,Radiocarbon years BP,380.0,148.0,pollen,6/30/2007,223.0,4.03587443946
+3392,Plesheevo Lake,56.75,38.5,56.75,56.75,38.5,38.5,Vascular plants,Betula fruticosa,1.0,NISP,pollen,,18668.0,,,Radiocarbon years BP,395.0,148.0,pollen,6/30/2007,200.0,0.5
+3392,Plesheevo Lake,56.75,38.5,56.75,56.75,38.5,38.5,Vascular plants,Betula fruticosa,11.0,NISP,pollen,,19623.0,,,Radiocarbon years BP,410.0,148.0,pollen,6/30/2007,102.0,10.7843137255
+3392,Plesheevo Lake,56.75,38.5,56.75,56.75,38.5,38.5,Vascular plants,Betula fruticosa,3.0,NISP,pollen,,22169.0,,,Radiocarbon years BP,450.0,148.0,pollen,6/30/2007,84.0,3.57142857143
+3392,Plesheevo Lake,56.75,38.5,56.75,56.75,38.5,38.5,Vascular plants,Betula fruticosa,2.0,NISP,pollen,,28534.0,,,Radiocarbon years BP,550.0,148.0,pollen,6/30/2007,59.0,3.38983050847
+3392,Plesheevo Lake,56.75,38.5,56.75,56.75,38.5,38.5,Vascular plants,Betula fruticosa,4.0,NISP,pollen,,29807.0,,,Radiocarbon years BP,570.0,148.0,pollen,6/30/2007,38.0,10.5263157895
+3392,Plesheevo Lake,56.75,38.5,56.75,56.75,38.5,38.5,Vascular plants,Betula fruticosa,5.0,NISP,pollen,,31080.0,,,Radiocarbon years BP,590.0,148.0,pollen,6/30/2007,92.0,5.4347826087
+3392,Plesheevo Lake,56.75,38.5,56.75,56.75,38.5,38.5,Vascular plants,Betula fruticosa,1.0,NISP,pollen,,32353.0,,,Radiocarbon years BP,610.0,148.0,pollen,6/30/2007,146.0,0.684931506849
+3392,Plesheevo Lake,56.75,38.5,56.75,56.75,38.5,38.5,Vascular plants,Betula fruticosa,3.0,NISP,pollen,,33626.0,,,Radiocarbon years BP,630.0,148.0,pollen,6/30/2007,224.0,1.33928571429
+3392,Plesheevo Lake,56.75,38.5,56.75,56.75,38.5,38.5,Vascular plants,Betula fruticosa,30.0,NISP,pollen,,34581.0,,,Radiocarbon years BP,645.0,148.0,pollen,6/30/2007,229.0,13.1004366812
+3392,Plesheevo Lake,56.75,38.5,56.75,56.75,38.5,38.5,Vascular plants,Betula fruticosa,6.0,NISP,pollen,,35854.0,,,Radiocarbon years BP,665.0,148.0,pollen,6/30/2007,390.0,1.53846153846
+3392,Plesheevo Lake,56.75,38.5,56.75,56.75,38.5,38.5,Vascular plants,Betula fruticosa,5.0,NISP,pollen,,36172.0,,,Radiocarbon years BP,670.0,148.0,pollen,6/30/2007,151.0,3.31125827815
+3392,Plesheevo Lake,56.75,38.5,56.75,56.75,38.5,38.5,Vascular plants,Betula fruticosa,4.0,NISP,pollen,,36809.0,,,Radiocarbon years BP,680.0,148.0,pollen,6/30/2007,570.0,0.701754385965
+3392,Plesheevo Lake,56.75,38.5,56.75,56.75,38.5,38.5,Vascular plants,Betula fruticosa,15.0,NISP,pollen,,38082.0,,,Radiocarbon years BP,700.0,148.0,pollen,6/30/2007,371.0,4.04312668464
+3392,Plesheevo Lake,56.75,38.5,56.75,56.75,38.5,38.5,Vascular plants,Betula fruticosa,20.0,NISP,pollen,,42728.0,,,Radiocarbon years BP,773.0,148.0,pollen,6/30/2007,266.0,7.51879699248
+3392,Plesheevo Lake,56.75,38.5,56.75,56.75,38.5,38.5,Vascular plants,Betula fruticosa,5.0,NISP,pollen,,45083.0,,,Radiocarbon years BP,810.0,148.0,pollen,6/30/2007,241.0,2.07468879668
+3392,Plesheevo Lake,56.75,38.5,56.75,56.75,38.5,38.5,Vascular plants,Betula fruticosa,2.0,NISP,pollen,,46993.0,,,Radiocarbon years BP,840.0,148.0,pollen,6/30/2007,272.0,0.735294117647
+3392,Plesheevo Lake,56.75,38.5,56.75,56.75,38.5,38.5,Vascular plants,Betula fruticosa,13.0,NISP,pollen,,47948.0,,,Radiocarbon years BP,855.0,148.0,pollen,6/30/2007,219.0,5.93607305936
+3392,Plesheevo Lake,56.75,38.5,56.75,56.75,38.5,38.5,Vascular plants,Betula fruticosa,3.0,NISP,pollen,,49539.0,,,Radiocarbon years BP,880.0,148.0,pollen,6/30/2007,357.0,0.840336134454
+3392,Plesheevo Lake,56.75,38.5,56.75,56.75,38.5,38.5,Vascular plants,Betula fruticosa,2.0,NISP,pollen,,50812.0,,,Radiocarbon years BP,900.0,148.0,pollen,6/30/2007,339.0,0.589970501475
+3392,Plesheevo Lake,56.75,38.5,56.75,56.75,38.5,38.5,Vascular plants,Betula fruticosa,6.0,NISP,pollen,,51449.0,,,Radiocarbon years BP,910.0,148.0,pollen,6/30/2007,344.0,1.74418604651
+3392,Plesheevo Lake,56.75,38.5,56.75,56.75,38.5,38.5,Vascular plants,Betula fruticosa,2.0,NISP,pollen,,52403.0,,,Radiocarbon years BP,925.0,148.0,pollen,6/30/2007,385.0,0.519480519481
+3392,Plesheevo Lake,56.75,38.5,56.75,56.75,38.5,38.5,Vascular plants,Betula fruticosa,4.0,NISP,pollen,,53995.0,,,Radiocarbon years BP,950.0,148.0,pollen,6/30/2007,242.0,1.65289256198
+3392,Plesheevo Lake,56.75,38.5,56.75,56.75,38.5,38.5,Vascular plants,Betula fruticosa,6.0,NISP,pollen,,54504.0,,,Radiocarbon years BP,958.0,148.0,pollen,6/30/2007,271.0,2.21402214022
+3392,Plesheevo Lake,56.75,38.5,56.75,56.75,38.5,38.5,Vascular plants,Betula fruticosa,4.0,NISP,pollen,,57496.0,,,Radiocarbon years BP,1005.0,148.0,pollen,6/30/2007,252.0,1.5873015873
+3392,Plesheevo Lake,56.75,38.5,56.75,56.75,38.5,38.5,Vascular plants,Betula fruticosa,3.0,NISP,pollen,,57814.0,,,Radiocarbon years BP,1010.0,148.0,pollen,6/30/2007,255.0,1.17647058824
+3392,Plesheevo Lake,56.75,38.5,56.75,56.75,38.5,38.5,Vascular plants,Betula fruticosa,10.0,NISP,pollen,,58450.0,,,Radiocarbon years BP,1020.0,148.0,pollen,6/30/2007,304.0,3.28947368421
+3392,Plesheevo Lake,56.75,38.5,56.75,56.75,38.5,38.5,Vascular plants,Betula fruticosa,4.0,NISP,pollen,,58769.0,,,Radiocarbon years BP,1025.0,148.0,pollen,6/30/2007,286.0,1.3986013986
+3392,Plesheevo Lake,56.75,38.5,56.75,56.75,38.5,38.5,Vascular plants,Betula fruticosa,7.0,NISP,pollen,,59914.0,,,Radiocarbon years BP,1043.0,148.0,pollen,6/30/2007,313.0,2.23642172524
+3392,Plesheevo Lake,56.75,38.5,56.75,56.75,38.5,38.5,Vascular plants,Betula fruticosa,7.0,NISP,pollen,,60042.0,,,Radiocarbon years BP,1045.0,148.0,pollen,6/30/2007,310.0,2.25806451613
+3392,Plesheevo Lake,56.75,38.5,56.75,56.75,38.5,38.5,Vascular plants,Betula fruticosa,5.0,NISP,pollen,,61506.0,,,Radiocarbon years BP,1068.0,148.0,pollen,6/30/2007,231.0,2.1645021645
+3392,Plesheevo Lake,56.75,38.5,56.75,56.75,38.5,38.5,Vascular plants,Betula fruticosa,7.0,NISP,pollen,,63479.0,,,Radiocarbon years BP,1099.0,148.0,pollen,6/30/2007,281.0,2.49110320285
+3392,Plesheevo Lake,56.75,38.5,56.75,56.75,38.5,38.5,Vascular plants,Betula fruticosa,5.0,NISP,pollen,,64816.0,,,Radiocarbon years BP,1120.0,148.0,pollen,6/30/2007,301.0,1.66112956811
+3392,Plesheevo Lake,56.75,38.5,56.75,56.75,38.5,38.5,Vascular plants,Betula fruticosa,13.0,NISP,pollen,,66089.0,,,Radiocarbon years BP,1140.0,148.0,pollen,6/30/2007,342.0,3.80116959064
+3392,Plesheevo Lake,56.75,38.5,56.75,56.75,38.5,38.5,Vascular plants,Betula fruticosa,3.0,NISP,pollen,,68635.0,,,Radiocarbon years BP,1180.0,148.0,pollen,6/30/2007,285.0,1.05263157895
+3392,Plesheevo Lake,56.75,38.5,56.75,56.75,38.5,38.5,Vascular plants,Betula fruticosa,4.0,NISP,pollen,,68953.0,,,Radiocarbon years BP,1185.0,148.0,pollen,6/30/2007,140.0,2.85714285714
+3392,Plesheevo Lake,56.75,38.5,56.75,56.75,38.5,38.5,Vascular plants,Betula fruticosa,1.0,NISP,pollen,,70544.0,,,Radiocarbon years BP,1210.0,148.0,pollen,6/30/2007,282.0,0.354609929078
+3392,Plesheevo Lake,56.75,38.5,56.75,56.75,38.5,38.5,Vascular plants,Betula fruticosa,3.0,NISP,pollen,,72454.0,,,Radiocarbon years BP,1240.0,148.0,pollen,6/30/2007,102.0,2.94117647059
+3392,Plesheevo Lake,56.75,38.5,56.75,56.75,38.5,38.5,Vascular plants,Betula fruticosa,3.0,NISP,pollen,,74682.0,,,Radiocarbon years BP,1275.0,148.0,pollen,6/30/2007,238.0,1.26050420168
+3392,Plesheevo Lake,56.75,38.5,56.75,56.75,38.5,38.5,Vascular plants,Betula fruticosa,2.0,NISP,pollen,,76209.0,,,Radiocarbon years BP,1299.0,148.0,pollen,6/30/2007,251.0,0.796812749004
+3392,Plesheevo Lake,56.75,38.5,56.75,56.75,38.5,38.5,Vascular plants,Betula fruticosa,5.0,NISP,pollen,,76910.0,,,Radiocarbon years BP,1310.0,148.0,pollen,6/30/2007,288.0,1.73611111111
+3392,Plesheevo Lake,56.75,38.5,56.75,56.75,38.5,38.5,Vascular plants,Betula fruticosa,1.0,NISP,pollen,,77546.0,,,Radiocarbon years BP,1320.0,148.0,pollen,6/30/2007,383.0,0.261096605744
+3392,Plesheevo Lake,56.75,38.5,56.75,56.75,38.5,38.5,Vascular plants,Betula fruticosa,1.0,NISP,pollen,,79456.0,,,Radiocarbon years BP,1350.0,148.0,pollen,6/30/2007,275.0,0.363636363636
+3392,Plesheevo Lake,56.75,38.5,56.75,56.75,38.5,38.5,Vascular plants,Betula fruticosa,10.0,NISP,pollen,,80601.0,,,Radiocarbon years BP,1368.0,148.0,pollen,6/30/2007,400.0,2.5
+3392,Plesheevo Lake,56.75,38.5,56.75,56.75,38.5,38.5,Vascular plants,Betula fruticosa,6.0,NISP,pollen,,82002.0,,,Radiocarbon years BP,1390.0,148.0,pollen,6/30/2007,270.0,2.22222222222
+3392,Plesheevo Lake,56.75,38.5,56.75,56.75,38.5,38.5,Vascular plants,Betula fruticosa,2.0,NISP,pollen,,82511.0,,,Radiocarbon years BP,1398.0,148.0,pollen,6/30/2007,168.0,1.19047619048
+3392,Plesheevo Lake,56.75,38.5,56.75,56.75,38.5,38.5,Vascular plants,Betula fruticosa,1.0,NISP,pollen,,82957.0,,,Radiocarbon years BP,1405.0,148.0,pollen,6/30/2007,218.0,0.45871559633
+3392,Plesheevo Lake,56.75,38.5,56.75,56.75,38.5,38.5,Vascular plants,Betula fruticosa,1.0,NISP,pollen,,84548.0,,,Radiocarbon years BP,1430.0,148.0,pollen,6/30/2007,247.0,0.404858299595
+3392,Plesheevo Lake,56.75,38.5,56.75,56.75,38.5,38.5,Vascular plants,Betula fruticosa,4.0,NISP,pollen,,85503.0,,,Radiocarbon years BP,1445.0,148.0,pollen,6/30/2007,210.0,1.90476190476
+3392,Plesheevo Lake,56.75,38.5,56.75,56.75,38.5,38.5,Vascular plants,Betula fruticosa,3.0,NISP,pollen,,85821.0,,,Radiocarbon years BP,1450.0,148.0,pollen,6/30/2007,267.0,1.12359550562

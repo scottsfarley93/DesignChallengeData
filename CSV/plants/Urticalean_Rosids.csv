@@ -1,0 +1,283 @@
+siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
+1702,Paramo de Miranda,8.916667,-70.833333,8.916667,8.916667,-70.833333,-70.833333,Vascular plants,Urticalean Rosids,3.0,NISP,pollen,,312.0,,,Radiocarbon years BP,10.0,3290.0,pollen,6/30/2007,791.0,0.379266750948
+1702,Paramo de Miranda,8.916667,-70.833333,8.916667,8.916667,-70.833333,-70.833333,Vascular plants,Urticalean Rosids,2.0,NISP,pollen,,1562.0,,,Radiocarbon years BP,45.0,3290.0,pollen,6/30/2007,629.0,0.317965023847
+1702,Paramo de Miranda,8.916667,-70.833333,8.916667,8.916667,-70.833333,-70.833333,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,2188.0,,,Radiocarbon years BP,60.0,3290.0,pollen,6/30/2007,728.0,0.137362637363
+1702,Paramo de Miranda,8.916667,-70.833333,8.916667,8.916667,-70.833333,-70.833333,Vascular plants,Urticalean Rosids,2.0,NISP,pollen,,2500.0,,,Radiocarbon years BP,70.0,3290.0,pollen,6/30/2007,775.0,0.258064516129
+1702,Paramo de Miranda,8.916667,-70.833333,8.916667,8.916667,-70.833333,-70.833333,Vascular plants,Urticalean Rosids,2.0,NISP,pollen,,3246.0,,,Radiocarbon years BP,85.0,3290.0,pollen,6/30/2007,941.0,0.212539851222
+1702,Paramo de Miranda,8.916667,-70.833333,8.916667,8.916667,-70.833333,-70.833333,Vascular plants,Urticalean Rosids,2.0,NISP,pollen,,3743.0,,,Radiocarbon years BP,95.0,3290.0,pollen,6/30/2007,787.0,0.254129606099
+1702,Paramo de Miranda,8.916667,-70.833333,8.916667,8.916667,-70.833333,-70.833333,Vascular plants,Urticalean Rosids,4.0,NISP,pollen,,3991.0,,,Radiocarbon years BP,110.0,3290.0,pollen,6/30/2007,1381.0,0.289645184649
+1702,Paramo de Miranda,8.916667,-70.833333,8.916667,8.916667,-70.833333,-70.833333,Vascular plants,Urticalean Rosids,3.0,NISP,pollen,,4756.0,,,Radiocarbon years BP,120.0,3290.0,pollen,6/30/2007,1295.0,0.23166023166
+1702,Paramo de Miranda,8.916667,-70.833333,8.916667,8.916667,-70.833333,-70.833333,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,9921.0,,,Radiocarbon years BP,170.0,3290.0,pollen,6/30/2007,977.0,0.102354145343
+1830,Paramo de Piedras Blancas,9.166667,-70.833333,9.166667,9.166667,-70.833333,-70.833333,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,0.0,,,Radiocarbon years BP,0.0,4080.0,pollen,6/30/2007,782.0,0.127877237852
+1830,Paramo de Piedras Blancas,9.166667,-70.833333,9.166667,9.166667,-70.833333,-70.833333,Vascular plants,Urticalean Rosids,3.0,NISP,pollen,,260.0,,,Radiocarbon years BP,20.0,4080.0,pollen,6/30/2007,321.0,0.934579439252
+1830,Paramo de Piedras Blancas,9.166667,-70.833333,9.166667,9.166667,-70.833333,-70.833333,Vascular plants,Urticalean Rosids,2.0,NISP,pollen,,300.0,,,Radiocarbon years BP,30.0,4080.0,pollen,6/30/2007,435.0,0.459770114943
+1830,Paramo de Piedras Blancas,9.166667,-70.833333,9.166667,9.166667,-70.833333,-70.833333,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,540.0,,,Radiocarbon years BP,90.0,4080.0,pollen,6/30/2007,194.0,0.515463917526
+1830,Paramo de Piedras Blancas,9.166667,-70.833333,9.166667,9.166667,-70.833333,-70.833333,Vascular plants,Urticalean Rosids,2.0,NISP,pollen,,660.0,,,Radiocarbon years BP,120.0,4080.0,pollen,6/30/2007,216.0,0.925925925926
+1830,Paramo de Piedras Blancas,9.166667,-70.833333,9.166667,9.166667,-70.833333,-70.833333,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,1300.0,,,Radiocarbon years BP,280.0,4080.0,pollen,6/30/2007,414.0,0.24154589372
+2989,Atxuri,43.25,-1.55,43.25,43.25,-1.55,-1.55,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,3723.0,,,Radiocarbon years BP,80.0,500.0,pollen,6/30/2007,359.0,0.278551532033
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,,,,,1.0,375.0,pollen,6/30/2007,420.0,0.238095238095
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,4.0,NISP,pollen,,,,,,2.0,375.0,pollen,6/30/2007,405.0,0.987654320988
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,5.0,NISP,pollen,,,,,,3.0,375.0,pollen,6/30/2007,325.0,1.53846153846
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,2.0,NISP,pollen,,,,,,4.0,375.0,pollen,6/30/2007,322.0,0.621118012422
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,3.0,NISP,pollen,,,,,,5.0,375.0,pollen,6/30/2007,380.0,0.789473684211
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,3.0,NISP,pollen,,,,,,6.0,375.0,pollen,6/30/2007,168.0,1.78571428571
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,,,,,7.0,375.0,pollen,6/30/2007,302.0,0.331125827815
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,,,,,8.0,375.0,pollen,6/30/2007,243.0,0.411522633745
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,2.0,NISP,pollen,,,,,,9.0,375.0,pollen,6/30/2007,263.0,0.760456273764
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,3.0,NISP,pollen,,,,,,10.0,375.0,pollen,6/30/2007,722.0,0.415512465374
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,4.0,NISP,pollen,,,,,,12.0,375.0,pollen,6/30/2007,359.0,1.11420612813
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,7.0,NISP,pollen,,,,,,13.0,375.0,pollen,6/30/2007,326.0,2.1472392638
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,640.0,NISP,pollen,,,,,,14.0,375.0,pollen,6/30/2007,809.0,79.1100123609
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,2550.0,NISP,pollen,,,,,,15.0,375.0,pollen,6/30/2007,2762.0,92.3244026068
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,1224.0,NISP,pollen,,,,,,16.0,375.0,pollen,6/30/2007,1470.0,83.2653061224
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,655.0,NISP,pollen,,,,,,17.0,375.0,pollen,6/30/2007,918.0,71.3507625272
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,1176.0,NISP,pollen,,,,,,18.0,375.0,pollen,6/30/2007,1419.0,82.8752642706
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,527.0,NISP,pollen,,,,,,19.0,375.0,pollen,6/30/2007,798.0,66.0401002506
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,108.0,NISP,pollen,,,,,,20.0,375.0,pollen,6/30/2007,368.0,29.347826087
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,275.0,NISP,pollen,,,,,,21.0,375.0,pollen,6/30/2007,582.0,47.2508591065
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,316.0,NISP,pollen,,,,,,22.0,375.0,pollen,6/30/2007,641.0,49.2979719189
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,3.0,NISP,pollen,,,,,,23.0,375.0,pollen,6/30/2007,302.0,0.993377483444
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,,,,,24.0,375.0,pollen,6/30/2007,395.0,0.253164556962
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,2.0,NISP,pollen,,,,,,25.0,375.0,pollen,6/30/2007,405.0,0.493827160494
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,14.0,NISP,pollen,,,,,,27.0,375.0,pollen,6/30/2007,373.0,3.75335120643
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,3.0,NISP,pollen,,,,,,29.0,375.0,pollen,6/30/2007,286.0,1.04895104895
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,2.0,NISP,pollen,,,,,,30.0,375.0,pollen,6/30/2007,271.0,0.738007380074
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,,,,,31.0,375.0,pollen,6/30/2007,259.0,0.3861003861
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,9.0,NISP,pollen,,,,,,32.0,375.0,pollen,6/30/2007,522.0,1.72413793103
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,,,,,33.0,375.0,pollen,6/30/2007,365.0,0.27397260274
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,2.0,NISP,pollen,,,,,,34.0,375.0,pollen,6/30/2007,406.0,0.492610837438
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,7.0,NISP,pollen,,,,,,35.0,375.0,pollen,6/30/2007,287.0,2.43902439024
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,1448.0,NISP,pollen,,,,,,36.0,375.0,pollen,6/30/2007,1703.0,85.0264239577
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,455.0,NISP,pollen,,,,,,37.0,375.0,pollen,6/30/2007,704.0,64.6306818182
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,1860.0,NISP,pollen,,,,,,38.0,375.0,pollen,6/30/2007,2258.0,82.3737821081
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,746.0,NISP,pollen,,,,,,39.0,375.0,pollen,6/30/2007,1102.0,67.6950998185
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,12.0,NISP,pollen,,,,,,40.0,375.0,pollen,6/30/2007,269.0,4.46096654275
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,107.0,NISP,pollen,,,,,,41.0,375.0,pollen,6/30/2007,422.0,25.355450237
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,153.0,NISP,pollen,,,,,,42.0,375.0,pollen,6/30/2007,442.0,34.6153846154
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,40.0,NISP,pollen,,,,,,43.0,375.0,pollen,6/30/2007,322.0,12.4223602484
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,,,,,44.0,375.0,pollen,6/30/2007,417.0,0.239808153477
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,4.0,NISP,pollen,,,,,,45.0,375.0,pollen,6/30/2007,370.0,1.08108108108
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,5.0,NISP,pollen,,,,,,46.0,375.0,pollen,6/30/2007,361.0,1.38504155125
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,3.0,NISP,pollen,,,,,,47.0,375.0,pollen,6/30/2007,335.0,0.89552238806
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,,,,,48.0,375.0,pollen,6/30/2007,349.0,0.286532951289
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,12.0,NISP,pollen,,,,,,50.0,375.0,pollen,6/30/2007,459.0,2.61437908497
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,77.0,NISP,pollen,,,,,,51.0,375.0,pollen,6/30/2007,536.0,14.3656716418
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,2601.0,NISP,pollen,,,,,,52.0,375.0,pollen,6/30/2007,2906.0,89.5044735031
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,1743.0,NISP,pollen,,,,,,53.0,375.0,pollen,6/30/2007,2013.0,86.5871833085
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,1390.0,NISP,pollen,,,,,,54.0,375.0,pollen,6/30/2007,1818.0,76.4576457646
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,3.0,NISP,pollen,,,,,,57.0,375.0,pollen,6/30/2007,224.0,1.33928571429
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,5.0,NISP,pollen,,,,,,58.0,375.0,pollen,6/30/2007,522.0,0.95785440613
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,3.0,NISP,pollen,,,,,,59.0,375.0,pollen,6/30/2007,483.0,0.621118012422
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,2.0,NISP,pollen,,,,,,60.0,375.0,pollen,6/30/2007,383.0,0.522193211488
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,1776.0,NISP,pollen,,,,,,61.0,375.0,pollen,6/30/2007,2063.0,86.0882210373
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,3.0,NISP,pollen,,,,,,62.0,375.0,pollen,6/30/2007,600.0,0.5
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,,,,,63.0,375.0,pollen,6/30/2007,304.0,0.328947368421
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,12.0,NISP,pollen,,,,,,64.0,375.0,pollen,6/30/2007,442.0,2.7149321267
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,5.0,NISP,pollen,,,,,,65.0,375.0,pollen,6/30/2007,1140.0,0.438596491228
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,2.0,NISP,pollen,,,,,,66.0,375.0,pollen,6/30/2007,875.0,0.228571428571
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,4.0,NISP,pollen,,,,,,67.0,375.0,pollen,6/30/2007,422.0,0.947867298578
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,2.0,NISP,pollen,,,,,,69.0,375.0,pollen,6/30/2007,227.0,0.881057268722
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,5.0,NISP,pollen,,,,,,70.0,375.0,pollen,6/30/2007,630.0,0.793650793651
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,,,,,71.0,375.0,pollen,6/30/2007,440.0,0.227272727273
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,627.0,NISP,pollen,,,,,,72.0,375.0,pollen,6/30/2007,916.0,68.4497816594
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,,,,,73.0,375.0,pollen,6/30/2007,216.0,0.462962962963
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,3.0,NISP,pollen,,,,,,74.0,375.0,pollen,6/30/2007,335.0,0.89552238806
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,4.0,NISP,pollen,,,,,,75.0,375.0,pollen,6/30/2007,245.0,1.63265306122
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,3.0,NISP,pollen,,,,,,76.0,375.0,pollen,6/30/2007,456.0,0.657894736842
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,1679.0,NISP,pollen,,,,,,102.0,375.0,pollen,6/30/2007,1938.0,86.6357069143
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,861.0,NISP,pollen,,,,,,105.0,375.0,pollen,6/30/2007,1142.0,75.3940455342
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,926.0,NISP,pollen,,,,,,107.0,375.0,pollen,6/30/2007,1217.0,76.0887428102
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,90.0,NISP,pollen,,,,,,120.0,375.0,pollen,6/30/2007,371.0,24.2587601078
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,8.0,NISP,pollen,,,,,,122.0,375.0,pollen,6/30/2007,269.0,2.97397769517
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,15.0,NISP,pollen,,,,,,125.0,375.0,pollen,6/30/2007,285.0,5.26315789474
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,,,,,127.0,375.0,pollen,6/30/2007,254.0,0.393700787402
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,9.0,NISP,pollen,,,,,,130.0,375.0,pollen,6/30/2007,281.0,3.20284697509
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,7.0,NISP,pollen,,,,,,135.0,375.0,pollen,6/30/2007,381.0,1.83727034121
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,2.0,NISP,pollen,,,,,,136.0,375.0,pollen,6/30/2007,254.0,0.787401574803
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,5.0,NISP,pollen,,,,,,137.0,375.0,pollen,6/30/2007,286.0,1.74825174825
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,2.0,NISP,pollen,,,,,,138.0,375.0,pollen,6/30/2007,305.0,0.655737704918
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,5.0,NISP,pollen,,,,,,139.0,375.0,pollen,6/30/2007,372.0,1.34408602151
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,11.0,NISP,pollen,,,,,,140.0,375.0,pollen,6/30/2007,360.0,3.05555555556
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,4.0,NISP,pollen,,,,,,142.0,375.0,pollen,6/30/2007,476.0,0.840336134454
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,24.0,NISP,pollen,,,,,,143.0,375.0,pollen,6/30/2007,490.0,4.89795918367
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,3.0,NISP,pollen,,,,,,145.0,375.0,pollen,6/30/2007,505.0,0.594059405941
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,17.0,NISP,pollen,,,,,,146.0,375.0,pollen,6/30/2007,417.0,4.07673860911
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,17.0,NISP,pollen,,,,,,148.0,375.0,pollen,6/30/2007,344.0,4.94186046512
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,17.0,NISP,pollen,,,,,,149.0,375.0,pollen,6/30/2007,367.0,4.63215258856
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,,,,,7.0,375.0,pollen,6/30/2007,230.0,0.434782608696
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,,,,,8.5,375.0,pollen,6/30/2007,293.0,0.341296928328
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,,,,,11.0,375.0,pollen,6/30/2007,296.0,0.337837837838
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,,,,,12.5,375.0,pollen,6/30/2007,284.0,0.352112676056
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Urticalean Rosids,2.0,NISP,pollen,,,,,,17.5,375.0,pollen,6/30/2007,357.0,0.560224089636
+3002,Ethe source du Cron,49.606667,5.595,49.606667,49.606667,5.595,5.595,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,,,,,22.0,245.0,pollen,6/30/2007,138.0,0.724637681159
+3002,Ethe source du Cron,49.606667,5.595,49.606667,49.606667,5.595,5.595,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,,,,,23.0,245.0,pollen,6/30/2007,117.0,0.854700854701
+3002,Ethe source du Cron,49.606667,5.595,49.606667,49.606667,5.595,5.595,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,,,,,25.0,245.0,pollen,6/30/2007,136.0,0.735294117647
+3002,Ethe source du Cron,49.606667,5.595,49.606667,49.606667,5.595,5.595,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,,,,,26.0,245.0,pollen,6/30/2007,138.0,0.724637681159
+3002,Ethe source du Cron,49.606667,5.595,49.606667,49.606667,5.595,5.595,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,,,,,32.0,245.0,pollen,6/30/2007,141.0,0.709219858156
+3003,Tontelange Heideknapp,49.719444,5.82,49.719444,49.719444,5.82,5.82,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,,,,,3.0,325.0,pollen,6/30/2007,314.0,0.31847133758
+3003,Tontelange Heideknapp,49.719444,5.82,49.719444,49.719444,5.82,5.82,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,,,,,6.0,325.0,pollen,6/30/2007,328.0,0.30487804878
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Urticalean Rosids,4.0,NISP,pollen,,,,,,144.0,215.0,pollen,6/30/2007,214.0,1.8691588785
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Urticalean Rosids,2.0,NISP,pollen,,,,,,169.0,215.0,pollen,6/30/2007,253.0,0.790513833992
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Urticalean Rosids,2.0,NISP,pollen,,,,,,174.0,215.0,pollen,6/30/2007,172.0,1.16279069767
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,,,,,179.0,215.0,pollen,6/30/2007,167.0,0.59880239521
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Urticalean Rosids,4.0,NISP,pollen,,,,,,187.0,215.0,pollen,6/30/2007,451.0,0.886917960089
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,,,,,189.0,215.0,pollen,6/30/2007,240.0,0.416666666667
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Urticalean Rosids,2.0,NISP,pollen,,,,,,192.0,215.0,pollen,6/30/2007,188.0,1.06382978723
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Urticalean Rosids,3.0,NISP,pollen,,,,,,138.0,215.0,pollen,6/30/2007,171.0,1.75438596491
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Urticalean Rosids,7.0,NISP,pollen,,,,,,139.0,215.0,pollen,6/30/2007,155.0,4.51612903226
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Urticalean Rosids,6.0,NISP,pollen,,,,,,141.0,215.0,pollen,6/30/2007,193.0,3.10880829016
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,,,,,143.0,215.0,pollen,6/30/2007,166.0,0.602409638554
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,,,,,151.0,215.0,pollen,6/30/2007,250.0,0.4
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,,,,,168.0,215.0,pollen,6/30/2007,156.0,0.641025641026
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,,,,,193.0,215.0,pollen,6/30/2007,185.0,0.540540540541
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Urticalean Rosids,3.0,NISP,pollen,,,,,,198.0,215.0,pollen,6/30/2007,219.0,1.3698630137
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,,,,,191.0,215.0,pollen,6/30/2007,132.0,0.757575757576
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Urticalean Rosids,3.0,NISP,pollen,,,,,,66.0,215.0,pollen,6/30/2007,211.0,1.42180094787
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,,,,,70.0,215.0,pollen,6/30/2007,158.0,0.632911392405
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Urticalean Rosids,2.0,NISP,pollen,,,,,,74.0,215.0,pollen,6/30/2007,193.0,1.03626943005
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Urticalean Rosids,2.0,NISP,pollen,,,,,,76.0,215.0,pollen,6/30/2007,165.0,1.21212121212
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,,,,,78.0,215.0,pollen,6/30/2007,203.0,0.492610837438
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,,,,,80.0,215.0,pollen,6/30/2007,156.0,0.641025641026
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Urticalean Rosids,3.0,NISP,pollen,,,,,,82.0,215.0,pollen,6/30/2007,151.0,1.98675496689
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Urticalean Rosids,2.0,NISP,pollen,,,,,,84.0,215.0,pollen,6/30/2007,217.0,0.921658986175
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Urticalean Rosids,5.0,NISP,pollen,,,,,,88.0,215.0,pollen,6/30/2007,264.0,1.89393939394
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Urticalean Rosids,3.0,NISP,pollen,,,,,,90.0,215.0,pollen,6/30/2007,190.0,1.57894736842
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,,,,,104.0,215.0,pollen,6/30/2007,222.0,0.45045045045
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,,,,,108.0,215.0,pollen,6/30/2007,204.0,0.490196078431
+3231,Lake Lednica,52.556944,17.390278,52.556944,52.556944,17.390278,17.390278,Vascular plants,Urticalean Rosids,2.0,NISP,pollen,,1802.0,,,Radiocarbon years BP,1400.0,109.0,pollen,6/30/2007,615.0,0.325203252033
+3231,Lake Lednica,52.556944,17.390278,52.556944,52.556944,17.390278,17.390278,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,1863.0,,,Radiocarbon years BP,1410.0,109.0,pollen,6/30/2007,745.0,0.134228187919
+3231,Lake Lednica,52.556944,17.390278,52.556944,52.556944,17.390278,17.390278,Vascular plants,Urticalean Rosids,2.0,NISP,pollen,,1924.0,,,Radiocarbon years BP,1420.0,109.0,pollen,6/30/2007,690.0,0.289855072464
+3231,Lake Lednica,52.556944,17.390278,52.556944,52.556944,17.390278,17.390278,Vascular plants,Urticalean Rosids,2.0,NISP,pollen,,2049.0,,,Radiocarbon years BP,1440.0,109.0,pollen,6/30/2007,602.0,0.332225913621
+3231,Lake Lednica,52.556944,17.390278,52.556944,52.556944,17.390278,17.390278,Vascular plants,Urticalean Rosids,3.0,NISP,pollen,,2508.0,,,Radiocarbon years BP,1510.0,109.0,pollen,6/30/2007,642.0,0.467289719626
+3231,Lake Lednica,52.556944,17.390278,52.556944,52.556944,17.390278,17.390278,Vascular plants,Urticalean Rosids,2.0,NISP,pollen,,2646.0,,,Radiocarbon years BP,1530.0,109.0,pollen,6/30/2007,674.0,0.296735905045
+3231,Lake Lednica,52.556944,17.390278,52.556944,52.556944,17.390278,17.390278,Vascular plants,Urticalean Rosids,2.0,NISP,pollen,,3148.0,,,Radiocarbon years BP,1600.0,109.0,pollen,6/30/2007,587.0,0.340715502555
+3231,Lake Lednica,52.556944,17.390278,52.556944,52.556944,17.390278,17.390278,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,3526.0,,,Radiocarbon years BP,1650.0,109.0,pollen,6/30/2007,597.0,0.167504187605
+3231,Lake Lednica,52.556944,17.390278,52.556944,52.556944,17.390278,17.390278,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,5582.0,,,Radiocarbon years BP,1890.0,109.0,pollen,6/30/2007,1078.0,0.0927643784787
+3231,Lake Lednica,52.556944,17.390278,52.556944,52.556944,17.390278,17.390278,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,6756.0,,,Radiocarbon years BP,2010.0,109.0,pollen,6/30/2007,558.0,0.179211469534
+3258,Beaufort Birkenbach,49.847222,6.125833,49.847222,49.847222,6.125833,6.125833,Vascular plants,Urticalean Rosids,8.0,NISP,pollen,,0.0,,,Radiocarbon years BP,0.0,360.0,pollen,6/30/2007,345.0,2.31884057971
+3258,Beaufort Birkenbach,49.847222,6.125833,49.847222,49.847222,6.125833,6.125833,Vascular plants,Urticalean Rosids,3.0,NISP,pollen,,66.0,,,Radiocarbon years BP,2.0,360.0,pollen,6/30/2007,243.0,1.23456790123
+3258,Beaufort Birkenbach,49.847222,6.125833,49.847222,49.847222,6.125833,6.125833,Vascular plants,Urticalean Rosids,3.0,NISP,pollen,,132.0,,,Radiocarbon years BP,4.0,360.0,pollen,6/30/2007,183.0,1.6393442623
+3258,Beaufort Birkenbach,49.847222,6.125833,49.847222,49.847222,6.125833,6.125833,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,264.0,,,Radiocarbon years BP,8.0,360.0,pollen,6/30/2007,144.0,0.694444444444
+3258,Beaufort Birkenbach,49.847222,6.125833,49.847222,49.847222,6.125833,6.125833,Vascular plants,Urticalean Rosids,2.0,NISP,pollen,,330.0,,,Radiocarbon years BP,10.0,360.0,pollen,6/30/2007,282.0,0.709219858156
+3258,Beaufort Birkenbach,49.847222,6.125833,49.847222,49.847222,6.125833,6.125833,Vascular plants,Urticalean Rosids,2.0,NISP,pollen,,660.0,,,Radiocarbon years BP,20.0,360.0,pollen,6/30/2007,244.0,0.819672131148
+3258,Beaufort Birkenbach,49.847222,6.125833,49.847222,49.847222,6.125833,6.125833,Vascular plants,Urticalean Rosids,2.0,NISP,pollen,,726.0,,,Radiocarbon years BP,22.0,360.0,pollen,6/30/2007,279.0,0.716845878136
+3258,Beaufort Birkenbach,49.847222,6.125833,49.847222,49.847222,6.125833,6.125833,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,924.0,,,Radiocarbon years BP,28.0,360.0,pollen,6/30/2007,249.0,0.401606425703
+3258,Beaufort Birkenbach,49.847222,6.125833,49.847222,49.847222,6.125833,6.125833,Vascular plants,Urticalean Rosids,2.0,NISP,pollen,,990.0,,,Radiocarbon years BP,30.0,360.0,pollen,6/30/2007,255.0,0.78431372549
+3258,Beaufort Birkenbach,49.847222,6.125833,49.847222,49.847222,6.125833,6.125833,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,1057.0,,,Radiocarbon years BP,32.0,360.0,pollen,6/30/2007,288.0,0.347222222222
+3258,Beaufort Birkenbach,49.847222,6.125833,49.847222,49.847222,6.125833,6.125833,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,1123.0,,,Radiocarbon years BP,34.0,360.0,pollen,6/30/2007,270.0,0.37037037037
+3258,Beaufort Birkenbach,49.847222,6.125833,49.847222,49.847222,6.125833,6.125833,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,1321.0,,,Radiocarbon years BP,40.0,360.0,pollen,6/30/2007,291.0,0.343642611684
+3258,Beaufort Birkenbach,49.847222,6.125833,49.847222,49.847222,6.125833,6.125833,Vascular plants,Urticalean Rosids,2.0,NISP,pollen,,1651.0,,,Radiocarbon years BP,50.0,360.0,pollen,6/30/2007,311.0,0.64308681672
+3258,Beaufort Birkenbach,49.847222,6.125833,49.847222,49.847222,6.125833,6.125833,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,1915.0,,,Radiocarbon years BP,58.0,360.0,pollen,6/30/2007,258.0,0.387596899225
+3258,Beaufort Birkenbach,49.847222,6.125833,49.847222,49.847222,6.125833,6.125833,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,1981.0,,,Radiocarbon years BP,60.0,360.0,pollen,6/30/2007,271.0,0.369003690037
+3258,Beaufort Birkenbach,49.847222,6.125833,49.847222,49.847222,6.125833,6.125833,Vascular plants,Urticalean Rosids,2.0,NISP,pollen,,2179.0,,,Radiocarbon years BP,66.0,360.0,pollen,6/30/2007,262.0,0.763358778626
+3258,Beaufort Birkenbach,49.847222,6.125833,49.847222,49.847222,6.125833,6.125833,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,2245.0,,,Radiocarbon years BP,68.0,360.0,pollen,6/30/2007,296.0,0.337837837838
+3258,Beaufort Birkenbach,49.847222,6.125833,49.847222,49.847222,6.125833,6.125833,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,2377.0,,,Radiocarbon years BP,72.0,360.0,pollen,6/30/2007,323.0,0.30959752322
+3258,Beaufort Birkenbach,49.847222,6.125833,49.847222,49.847222,6.125833,6.125833,Vascular plants,Urticalean Rosids,3.0,NISP,pollen,,2641.0,,,Radiocarbon years BP,80.0,360.0,pollen,6/30/2007,271.0,1.10701107011
+3258,Beaufort Birkenbach,49.847222,6.125833,49.847222,49.847222,6.125833,6.125833,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,2707.0,,,Radiocarbon years BP,82.0,360.0,pollen,6/30/2007,333.0,0.3003003003
+3258,Beaufort Birkenbach,49.847222,6.125833,49.847222,49.847222,6.125833,6.125833,Vascular plants,Urticalean Rosids,2.0,NISP,pollen,,2773.0,,,Radiocarbon years BP,84.0,360.0,pollen,6/30/2007,337.0,0.593471810089
+3258,Beaufort Birkenbach,49.847222,6.125833,49.847222,49.847222,6.125833,6.125833,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,2839.0,,,Radiocarbon years BP,86.0,360.0,pollen,6/30/2007,261.0,0.383141762452
+3258,Beaufort Birkenbach,49.847222,6.125833,49.847222,49.847222,6.125833,6.125833,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,2905.0,,,Radiocarbon years BP,88.0,360.0,pollen,6/30/2007,341.0,0.293255131965
+3258,Beaufort Birkenbach,49.847222,6.125833,49.847222,49.847222,6.125833,6.125833,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,3037.0,,,Radiocarbon years BP,92.0,360.0,pollen,6/30/2007,321.0,0.311526479751
+3258,Beaufort Birkenbach,49.847222,6.125833,49.847222,49.847222,6.125833,6.125833,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,3269.0,,,Radiocarbon years BP,99.0,360.0,pollen,6/30/2007,283.0,0.353356890459
+3258,Beaufort Birkenbach,49.847222,6.125833,49.847222,49.847222,6.125833,6.125833,Vascular plants,Urticalean Rosids,2.0,NISP,pollen,,3302.0,,,Radiocarbon years BP,100.0,360.0,pollen,6/30/2007,281.0,0.711743772242
+3258,Beaufort Birkenbach,49.847222,6.125833,49.847222,49.847222,6.125833,6.125833,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,3335.0,,,Radiocarbon years BP,101.0,360.0,pollen,6/30/2007,278.0,0.359712230216
+3259,Berdorf Aesbaach,49.830278,6.436667,49.830278,49.830278,6.436667,6.436667,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,,,,,58.0,190.0,pollen,6/30/2007,144.0,0.694444444444
+3259,Berdorf Aesbaach,49.830278,6.436667,49.830278,49.830278,6.436667,6.436667,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,,,,,62.0,190.0,pollen,6/30/2007,143.0,0.699300699301
+3259,Berdorf Aesbaach,49.830278,6.436667,49.830278,49.830278,6.436667,6.436667,Vascular plants,Urticalean Rosids,2.0,NISP,pollen,,,,,,501.0,190.0,pollen,6/30/2007,206.0,0.970873786408
+3259,Berdorf Aesbaach,49.830278,6.436667,49.830278,49.830278,6.436667,6.436667,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,,,,,502.0,190.0,pollen,6/30/2007,213.0,0.469483568075
+3259,Berdorf Aesbaach,49.830278,6.436667,49.830278,49.830278,6.436667,6.436667,Vascular plants,Urticalean Rosids,3.0,NISP,pollen,,,,,,503.0,190.0,pollen,6/30/2007,220.0,1.36363636364
+3259,Berdorf Aesbaach,49.830278,6.436667,49.830278,49.830278,6.436667,6.436667,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,,,,,504.0,190.0,pollen,6/30/2007,223.0,0.448430493274
+3259,Berdorf Aesbaach,49.830278,6.436667,49.830278,49.830278,6.436667,6.436667,Vascular plants,Urticalean Rosids,2.0,NISP,pollen,,,,,,505.0,190.0,pollen,6/30/2007,216.0,0.925925925926
+3259,Berdorf Aesbaach,49.830278,6.436667,49.830278,49.830278,6.436667,6.436667,Vascular plants,Urticalean Rosids,2.0,NISP,pollen,,,,,,506.0,190.0,pollen,6/30/2007,232.0,0.862068965517
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,,,,,87.0,170.0,pollen,6/30/2007,243.0,0.411522633745
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,,,,,100.0,170.0,pollen,6/30/2007,243.0,0.411522633745
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,,,,,135.0,170.0,pollen,6/30/2007,329.0,0.303951367781
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Urticalean Rosids,2.0,NISP,pollen,,,,,,137.0,170.0,pollen,6/30/2007,236.0,0.847457627119
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,,,,,140.0,170.0,pollen,6/30/2007,177.0,0.564971751412
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,,,,,144.0,170.0,pollen,6/30/2007,326.0,0.306748466258
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Urticalean Rosids,2.0,NISP,pollen,,,,,,149.0,170.0,pollen,6/30/2007,324.0,0.617283950617
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Urticalean Rosids,2.0,NISP,pollen,,,,,,159.0,170.0,pollen,6/30/2007,322.0,0.621118012422
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,,,,,118.0,170.0,pollen,6/30/2007,275.0,0.363636363636
+3262,Pettange sur Alzette,49.780556,6.108333,49.780556,49.780556,6.108333,6.108333,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,,,,,450.0,218.0,pollen,6/30/2007,161.0,0.621118012422
+3262,Pettange sur Alzette,49.780556,6.108333,49.780556,49.780556,6.108333,6.108333,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,,,,,490.0,218.0,pollen,6/30/2007,160.0,0.625
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Urticalean Rosids,4.0,NISP,pollen,,,,,,2.0,369.0,pollen,6/30/2007,247.0,1.61943319838
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,,,,,12.0,369.0,pollen,6/30/2007,303.0,0.3300330033
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Urticalean Rosids,2.0,NISP,pollen,,,,,,7.0,369.0,pollen,6/30/2007,318.0,0.62893081761
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,,,,,9.0,369.0,pollen,6/30/2007,319.0,0.313479623824
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Urticalean Rosids,2.0,NISP,pollen,,,,,,11.0,369.0,pollen,6/30/2007,306.0,0.653594771242
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,,,,,13.0,369.0,pollen,6/30/2007,300.0,0.333333333333
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,,,,,1.0,369.0,pollen,6/30/2007,302.0,0.331125827815
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Urticalean Rosids,2.0,NISP,pollen,,,,,,2.0,369.0,pollen,6/30/2007,261.0,0.766283524904
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Urticalean Rosids,7.0,NISP,pollen,,,,,,3.0,369.0,pollen,6/30/2007,274.0,2.55474452555
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Urticalean Rosids,14.0,NISP,pollen,,,,,,4.0,369.0,pollen,6/30/2007,353.0,3.96600566572
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Urticalean Rosids,4.0,NISP,pollen,,,,,,5.0,369.0,pollen,6/30/2007,285.0,1.40350877193
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Urticalean Rosids,7.0,NISP,pollen,,,,,,6.0,369.0,pollen,6/30/2007,261.0,2.68199233716
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Urticalean Rosids,3.0,NISP,pollen,,,,,,7.0,369.0,pollen,6/30/2007,265.0,1.1320754717
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Urticalean Rosids,2.0,NISP,pollen,,,,,,8.0,369.0,pollen,6/30/2007,280.0,0.714285714286
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Urticalean Rosids,13.0,NISP,pollen,,,,,,9.0,369.0,pollen,6/30/2007,328.0,3.96341463415
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Urticalean Rosids,2.0,NISP,pollen,,,,,,10.0,369.0,pollen,6/30/2007,326.0,0.613496932515
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,,,,,11.0,369.0,pollen,6/30/2007,241.0,0.414937759336
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Urticalean Rosids,2.0,NISP,pollen,,,,,,12.0,369.0,pollen,6/30/2007,247.0,0.80971659919
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Urticalean Rosids,2.0,NISP,pollen,,,,,,13.0,369.0,pollen,6/30/2007,237.0,0.84388185654
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,,,,,14.0,369.0,pollen,6/30/2007,303.0,0.3300330033
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,,,,,22.0,369.0,pollen,6/30/2007,304.0,0.328947368421
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,,,,,30.0,369.0,pollen,6/30/2007,212.0,0.471698113208
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,,,,,8.0,369.0,pollen,6/30/2007,277.0,0.361010830325
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,,,,,10.0,369.0,pollen,6/30/2007,280.0,0.357142857143
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Urticalean Rosids,2.0,NISP,pollen,,,,,,12.0,369.0,pollen,6/30/2007,302.0,0.662251655629
+10194,Laguna de Chochos,-7.635095,-77.474705,-7.63376,-7.63643,-77.47335,-77.47606,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,136.0,,,Calibrated radiocarbon years BP,2.0,3285.0,pollen,3/18/2015,267.0,0.374531835206
+10194,Laguna de Chochos,-7.635095,-77.474705,-7.63376,-7.63643,-77.47335,-77.47606,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,638.0,,,Calibrated radiocarbon years BP,14.0,3285.0,pollen,3/18/2015,361.0,0.277008310249
+10194,Laguna de Chochos,-7.635095,-77.474705,-7.63376,-7.63643,-77.47335,-77.47606,Vascular plants,Urticalean Rosids,3.0,NISP,pollen,,1473.0,,,Calibrated radiocarbon years BP,66.0,3285.0,pollen,3/18/2015,271.0,1.10701107011
+10194,Laguna de Chochos,-7.635095,-77.474705,-7.63376,-7.63643,-77.47335,-77.47606,Vascular plants,Urticalean Rosids,2.0,NISP,pollen,,1826.0,,,Calibrated radiocarbon years BP,88.0,3285.0,pollen,3/18/2015,296.0,0.675675675676
+10194,Laguna de Chochos,-7.635095,-77.474705,-7.63376,-7.63643,-77.47335,-77.47606,Vascular plants,Urticalean Rosids,4.0,NISP,pollen,,2131.0,,,Calibrated radiocarbon years BP,107.0,3285.0,pollen,3/18/2015,274.0,1.4598540146
+10194,Laguna de Chochos,-7.635095,-77.474705,-7.63376,-7.63643,-77.47335,-77.47606,Vascular plants,Urticalean Rosids,2.0,NISP,pollen,,2549.0,,,Calibrated radiocarbon years BP,133.0,3285.0,pollen,3/18/2015,302.0,0.662251655629
+10194,Laguna de Chochos,-7.635095,-77.474705,-7.63376,-7.63643,-77.47335,-77.47606,Vascular plants,Urticalean Rosids,4.0,NISP,pollen,,2950.0,,,Calibrated radiocarbon years BP,158.0,3285.0,pollen,3/18/2015,251.0,1.59362549801
+10194,Laguna de Chochos,-7.635095,-77.474705,-7.63376,-7.63643,-77.47335,-77.47606,Vascular plants,Urticalean Rosids,2.0,NISP,pollen,,3297.0,,,Calibrated radiocarbon years BP,178.0,3285.0,pollen,3/18/2015,240.0,0.833333333333
+10194,Laguna de Chochos,-7.635095,-77.474705,-7.63376,-7.63643,-77.47335,-77.47606,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,4015.0,,,Calibrated radiocarbon years BP,195.0,3285.0,pollen,3/18/2015,322.0,0.310559006211
+10194,Laguna de Chochos,-7.635095,-77.474705,-7.63376,-7.63643,-77.47335,-77.47606,Vascular plants,Urticalean Rosids,3.0,NISP,pollen,,4986.0,,,Calibrated radiocarbon years BP,218.0,3285.0,pollen,3/18/2015,227.0,1.32158590308
+10194,Laguna de Chochos,-7.635095,-77.474705,-7.63376,-7.63643,-77.47335,-77.47606,Vascular plants,Urticalean Rosids,2.0,NISP,pollen,,5830.0,,,Calibrated radiocarbon years BP,238.0,3285.0,pollen,3/18/2015,256.0,0.78125
+10194,Laguna de Chochos,-7.635095,-77.474705,-7.63376,-7.63643,-77.47335,-77.47606,Vascular plants,Urticalean Rosids,3.0,NISP,pollen,,6843.0,,,Calibrated radiocarbon years BP,262.0,3285.0,pollen,3/18/2015,376.0,0.797872340426
+10194,Laguna de Chochos,-7.635095,-77.474705,-7.63376,-7.63643,-77.47335,-77.47606,Vascular plants,Urticalean Rosids,2.0,NISP,pollen,,7293.0,,,Calibrated radiocarbon years BP,285.0,3285.0,pollen,3/18/2015,330.0,0.606060606061
+10194,Laguna de Chochos,-7.635095,-77.474705,-7.63376,-7.63643,-77.47335,-77.47606,Vascular plants,Urticalean Rosids,3.0,NISP,pollen,,7363.0,,,Calibrated radiocarbon years BP,296.0,3285.0,pollen,3/18/2015,241.0,1.24481327801
+10194,Laguna de Chochos,-7.635095,-77.474705,-7.63376,-7.63643,-77.47335,-77.47606,Vascular plants,Urticalean Rosids,6.0,NISP,pollen,,7754.0,,,Calibrated radiocarbon years BP,358.0,3285.0,pollen,3/18/2015,370.0,1.62162162162
+10194,Laguna de Chochos,-7.635095,-77.474705,-7.63376,-7.63643,-77.47335,-77.47606,Vascular plants,Urticalean Rosids,7.0,NISP,pollen,,7842.0,,,Calibrated radiocarbon years BP,372.0,3285.0,pollen,3/18/2015,315.0,2.22222222222
+10194,Laguna de Chochos,-7.635095,-77.474705,-7.63376,-7.63643,-77.47335,-77.47606,Vascular plants,Urticalean Rosids,5.0,NISP,pollen,,7943.0,,,Calibrated radiocarbon years BP,388.0,3285.0,pollen,3/18/2015,337.0,1.48367952522
+10194,Laguna de Chochos,-7.635095,-77.474705,-7.63376,-7.63643,-77.47335,-77.47606,Vascular plants,Urticalean Rosids,6.0,NISP,pollen,,8044.0,,,Calibrated radiocarbon years BP,404.0,3285.0,pollen,3/18/2015,316.0,1.89873417722
+10194,Laguna de Chochos,-7.635095,-77.474705,-7.63376,-7.63643,-77.47335,-77.47606,Vascular plants,Urticalean Rosids,4.0,NISP,pollen,,8176.0,,,Calibrated radiocarbon years BP,427.0,3285.0,pollen,3/18/2015,228.0,1.75438596491
+10194,Laguna de Chochos,-7.635095,-77.474705,-7.63376,-7.63643,-77.47335,-77.47606,Vascular plants,Urticalean Rosids,4.0,NISP,pollen,,8267.0,,,Calibrated radiocarbon years BP,445.0,3285.0,pollen,3/18/2015,308.0,1.2987012987
+10194,Laguna de Chochos,-7.635095,-77.474705,-7.63376,-7.63643,-77.47335,-77.47606,Vascular plants,Urticalean Rosids,3.0,NISP,pollen,,8367.0,,,Calibrated radiocarbon years BP,465.0,3285.0,pollen,3/18/2015,267.0,1.12359550562
+10194,Laguna de Chochos,-7.635095,-77.474705,-7.63376,-7.63643,-77.47335,-77.47606,Vascular plants,Urticalean Rosids,3.0,NISP,pollen,,8613.0,,,Calibrated radiocarbon years BP,514.0,3285.0,pollen,3/18/2015,256.0,1.171875
+10194,Laguna de Chochos,-7.635095,-77.474705,-7.63376,-7.63643,-77.47335,-77.47606,Vascular plants,Urticalean Rosids,6.0,NISP,pollen,,8709.0,,,Calibrated radiocarbon years BP,533.0,3285.0,pollen,3/18/2015,295.0,2.03389830508
+10194,Laguna de Chochos,-7.635095,-77.474705,-7.63376,-7.63643,-77.47335,-77.47606,Vascular plants,Urticalean Rosids,4.0,NISP,pollen,,8769.0,,,Calibrated radiocarbon years BP,545.0,3285.0,pollen,3/18/2015,352.0,1.13636363636
+10194,Laguna de Chochos,-7.635095,-77.474705,-7.63376,-7.63643,-77.47335,-77.47606,Vascular plants,Urticalean Rosids,5.0,NISP,pollen,,8819.0,,,Calibrated radiocarbon years BP,555.0,3285.0,pollen,3/18/2015,288.0,1.73611111111
+10194,Laguna de Chochos,-7.635095,-77.474705,-7.63376,-7.63643,-77.47335,-77.47606,Vascular plants,Urticalean Rosids,8.0,NISP,pollen,,8920.0,,,Calibrated radiocarbon years BP,575.0,3285.0,pollen,3/18/2015,382.0,2.0942408377
+10194,Laguna de Chochos,-7.635095,-77.474705,-7.63376,-7.63643,-77.47335,-77.47606,Vascular plants,Urticalean Rosids,5.0,NISP,pollen,,9075.0,,,Calibrated radiocarbon years BP,606.0,3285.0,pollen,3/18/2015,323.0,1.5479876161
+10194,Laguna de Chochos,-7.635095,-77.474705,-7.63376,-7.63643,-77.47335,-77.47606,Vascular plants,Urticalean Rosids,3.0,NISP,pollen,,9172.0,,,Calibrated radiocarbon years BP,618.0,3285.0,pollen,3/18/2015,389.0,0.771208226221
+10194,Laguna de Chochos,-7.635095,-77.474705,-7.63376,-7.63643,-77.47335,-77.47606,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,9405.0,,,Calibrated radiocarbon years BP,630.0,3285.0,pollen,3/18/2015,275.0,0.363636363636
+10194,Laguna de Chochos,-7.635095,-77.474705,-7.63376,-7.63643,-77.47335,-77.47606,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,9755.0,,,Calibrated radiocarbon years BP,648.0,3285.0,pollen,3/18/2015,356.0,0.280898876404
+10194,Laguna de Chochos,-7.635095,-77.474705,-7.63376,-7.63643,-77.47335,-77.47606,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,9950.0,,,Calibrated radiocarbon years BP,658.0,3285.0,pollen,3/18/2015,257.0,0.389105058366
+10194,Laguna de Chochos,-7.635095,-77.474705,-7.63376,-7.63643,-77.47335,-77.47606,Vascular plants,Urticalean Rosids,12.0,NISP,pollen,,10457.0,,,Calibrated radiocarbon years BP,682.0,3285.0,pollen,3/18/2015,325.0,3.69230769231
+10194,Laguna de Chochos,-7.635095,-77.474705,-7.63376,-7.63643,-77.47335,-77.47606,Vascular plants,Urticalean Rosids,11.0,NISP,pollen,,11013.0,,,Calibrated radiocarbon years BP,705.0,3285.0,pollen,3/18/2015,257.0,4.28015564202
+10194,Laguna de Chochos,-7.635095,-77.474705,-7.63376,-7.63643,-77.47335,-77.47606,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,11164.0,,,Calibrated radiocarbon years BP,709.0,3285.0,pollen,3/18/2015,302.0,0.331125827815
+10194,Laguna de Chochos,-7.635095,-77.474705,-7.63376,-7.63643,-77.47335,-77.47606,Vascular plants,Urticalean Rosids,5.0,NISP,pollen,,11475.0,,,Calibrated radiocarbon years BP,715.0,3285.0,pollen,3/18/2015,279.0,1.79211469534
+10194,Laguna de Chochos,-7.635095,-77.474705,-7.63376,-7.63643,-77.47335,-77.47606,Vascular plants,Urticalean Rosids,4.0,NISP,pollen,,11992.0,,,Calibrated radiocarbon years BP,725.0,3285.0,pollen,3/18/2015,282.0,1.41843971631
+10194,Laguna de Chochos,-7.635095,-77.474705,-7.63376,-7.63643,-77.47335,-77.47606,Vascular plants,Urticalean Rosids,4.0,NISP,pollen,,12251.0,,,Calibrated radiocarbon years BP,730.0,3285.0,pollen,3/18/2015,249.0,1.60642570281
+10194,Laguna de Chochos,-7.635095,-77.474705,-7.63376,-7.63643,-77.47335,-77.47606,Vascular plants,Urticalean Rosids,2.0,NISP,pollen,,12510.0,,,Calibrated radiocarbon years BP,735.0,3285.0,pollen,3/18/2015,216.0,0.925925925926
+10194,Laguna de Chochos,-7.635095,-77.474705,-7.63376,-7.63643,-77.47335,-77.47606,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,12769.0,,,Calibrated radiocarbon years BP,740.0,3285.0,pollen,3/18/2015,229.0,0.436681222707
+10194,Laguna de Chochos,-7.635095,-77.474705,-7.63376,-7.63643,-77.47335,-77.47606,Vascular plants,Urticalean Rosids,2.0,NISP,pollen,,13027.0,,,Calibrated radiocarbon years BP,745.0,3285.0,pollen,3/18/2015,297.0,0.673400673401
+10194,Laguna de Chochos,-7.635095,-77.474705,-7.63376,-7.63643,-77.47335,-77.47606,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,13286.0,,,Calibrated radiocarbon years BP,750.0,3285.0,pollen,3/18/2015,138.0,0.724637681159
+10194,Laguna de Chochos,-7.635095,-77.474705,-7.63376,-7.63643,-77.47335,-77.47606,Vascular plants,Urticalean Rosids,3.0,NISP,pollen,,13855.0,,,Calibrated radiocarbon years BP,764.0,3285.0,pollen,3/18/2015,215.0,1.39534883721
+10194,Laguna de Chochos,-7.635095,-77.474705,-7.63376,-7.63643,-77.47335,-77.47606,Vascular plants,Urticalean Rosids,2.0,NISP,pollen,,13939.0,,,Calibrated radiocarbon years BP,767.0,3285.0,pollen,3/18/2015,208.0,0.961538461538
+10194,Laguna de Chochos,-7.635095,-77.474705,-7.63376,-7.63643,-77.47335,-77.47606,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,14050.0,,,Calibrated radiocarbon years BP,771.0,3285.0,pollen,3/18/2015,265.0,0.377358490566
+10194,Laguna de Chochos,-7.635095,-77.474705,-7.63376,-7.63643,-77.47335,-77.47606,Vascular plants,Urticalean Rosids,3.0,NISP,pollen,,15170.0,,,Calibrated radiocarbon years BP,826.0,3285.0,pollen,3/18/2015,267.0,1.12359550562
+10194,Laguna de Chochos,-7.635095,-77.474705,-7.63376,-7.63643,-77.47335,-77.47606,Vascular plants,Urticalean Rosids,4.0,NISP,pollen,,15372.0,,,Calibrated radiocarbon years BP,837.0,3285.0,pollen,3/18/2015,291.0,1.37457044674
+10194,Laguna de Chochos,-7.635095,-77.474705,-7.63376,-7.63643,-77.47335,-77.47606,Vascular plants,Urticalean Rosids,5.0,NISP,pollen,,15556.0,,,Calibrated radiocarbon years BP,847.0,3285.0,pollen,3/18/2015,255.0,1.96078431373
+10194,Laguna de Chochos,-7.635095,-77.474705,-7.63376,-7.63643,-77.47335,-77.47606,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,15647.0,,,Calibrated radiocarbon years BP,852.0,3285.0,pollen,3/18/2015,356.0,0.280898876404
+11592,Laguna Pallcacocha,-2.77056,-79.233315,-2.7691,-2.77202,-79.23151,-79.23512,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,9576.0,,,Calibrated radiocarbon years BP,653.0,4060.0,pollen,8/16/2015,184.0,0.54347826087
+11592,Laguna Pallcacocha,-2.77056,-79.233315,-2.7691,-2.77202,-79.23151,-79.23512,Vascular plants,Urticalean Rosids,2.0,NISP,pollen,,10036.0,,,Calibrated radiocarbon years BP,673.0,4060.0,pollen,8/16/2015,215.0,0.93023255814
+11592,Laguna Pallcacocha,-2.77056,-79.233315,-2.7691,-2.77202,-79.23151,-79.23512,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,10605.0,,,Calibrated radiocarbon years BP,701.0,4060.0,pollen,8/16/2015,241.0,0.414937759336
+11592,Laguna Pallcacocha,-2.77056,-79.233315,-2.7691,-2.77202,-79.23151,-79.23512,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,12252.0,,,Calibrated radiocarbon years BP,782.0,4060.0,pollen,8/16/2015,135.0,0.740740740741
+11592,Laguna Pallcacocha,-2.77056,-79.233315,-2.7691,-2.77202,-79.23151,-79.23512,Vascular plants,Urticalean Rosids,2.0,NISP,pollen,,12822.0,,,Calibrated radiocarbon years BP,810.0,4060.0,pollen,8/16/2015,125.0,1.6
+11592,Laguna Pallcacocha,-2.77056,-79.233315,-2.7691,-2.77202,-79.23151,-79.23512,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,15018.0,,,Calibrated radiocarbon years BP,918.0,4060.0,pollen,8/16/2015,56.0,1.78571428571
+11592,Laguna Pallcacocha,-2.77056,-79.233315,-2.7691,-2.77202,-79.23151,-79.23512,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,15262.0,,,Calibrated radiocarbon years BP,930.0,4060.0,pollen,8/16/2015,117.0,0.854700854701
+11592,Laguna Pallcacocha,-2.77056,-79.233315,-2.7691,-2.77202,-79.23151,-79.23512,Vascular plants,Urticalean Rosids,1.0,NISP,pollen,,15770.0,,,Calibrated radiocarbon years BP,955.0,4060.0,pollen,8/16/2015,148.0,0.675675675676

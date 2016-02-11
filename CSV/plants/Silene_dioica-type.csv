@@ -1,0 +1,28 @@
+siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
+2977,Allt na Feithe Sheilich,57.316667,-3.9,57.316667,57.316667,-3.9,-3.9,Vascular plants,Silene dioica-type,1.0,NISP,pollen,,7782.0,,,Radiocarbon years BP,225.0,595.0,pollen,6/30/2007,495.0,0.20202020202
+2977,Allt na Feithe Sheilich,57.316667,-3.9,57.316667,57.316667,-3.9,-3.9,Vascular plants,Silene dioica-type,1.0,NISP,pollen,,7873.0,,,Radiocarbon years BP,230.0,595.0,pollen,6/30/2007,502.0,0.199203187251
+2977,Allt na Feithe Sheilich,57.316667,-3.9,57.316667,57.316667,-3.9,-3.9,Vascular plants,Silene dioica-type,1.0,NISP,pollen,,8147.0,,,Radiocarbon years BP,245.0,595.0,pollen,6/30/2007,830.0,0.120481927711
+2977,Allt na Feithe Sheilich,57.316667,-3.9,57.316667,57.316667,-3.9,-3.9,Vascular plants,Silene dioica-type,1.0,NISP,pollen,,8330.0,,,Radiocarbon years BP,255.0,595.0,pollen,6/30/2007,467.0,0.214132762313
+2977,Allt na Feithe Sheilich,57.316667,-3.9,57.316667,57.316667,-3.9,-3.9,Vascular plants,Silene dioica-type,2.0,NISP,pollen,,9517.0,,,Radiocarbon years BP,320.0,595.0,pollen,6/30/2007,720.0,0.277777777778
+2977,Allt na Feithe Sheilich,57.316667,-3.9,57.316667,57.316667,-3.9,-3.9,Vascular plants,Silene dioica-type,6.0,NISP,pollen,,9609.0,,,Radiocarbon years BP,325.0,595.0,pollen,6/30/2007,511.0,1.17416829746
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Silene dioica-type,1.0,NISP,pollen,,,,,,425.0,20.0,pollen,6/30/2007,184.0,0.54347826087
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Silene dioica-type,1.0,NISP,pollen,,,,,,440.0,20.0,pollen,6/30/2007,324.0,0.308641975309
+3066,Cooran Lane,55.116667,-4.4,55.116667,55.116667,-4.4,-4.4,Vascular plants,Silene dioica-type,1.0,NISP,pollen,,,,,,215.0,274.0,pollen,6/30/2007,465.5,0.214822771214
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Silene dioica-type,1.0,NISP,pollen,,8230.0,,,Radiocarbon years BP,510.0,135.0,pollen,6/30/2007,220.0,0.454545454545
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Silene dioica-type,1.0,NISP,pollen,,8287.0,,,Radiocarbon years BP,515.0,135.0,pollen,6/30/2007,318.0,0.314465408805
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Silene dioica-type,1.0,NISP,pollen,,8511.0,,,Radiocarbon years BP,535.0,135.0,pollen,6/30/2007,298.0,0.335570469799
+3125,Lochan coir a' Ghobhainn,57.183333,-6.3,57.183333,57.183333,-6.3,-6.3,Vascular plants,Silene dioica-type,1.0,NISP,pollen,,9506.0,,,Radiocarbon years BP,345.0,82.0,pollen,6/30/2007,1103.0,0.090661831369
+3125,Lochan coir a' Ghobhainn,57.183333,-6.3,57.183333,57.183333,-6.3,-6.3,Vascular plants,Silene dioica-type,1.0,NISP,pollen,,9648.0,,,Radiocarbon years BP,360.0,82.0,pollen,6/30/2007,1600.0,0.0625
+3273,Loch Maree,57.083333,-5.483333,57.083333,57.083333,-5.483333,-5.483333,Vascular plants,Silene dioica-type,1.0,NISP,pollen,,2165.0,,,Radiocarbon years BP,110.0,60.0,pollen,6/30/2007,755.0,0.132450331126
+3296,Morrone Birkwoods,57.0,-3.433333,57.0,57.0,-3.433333,-3.433333,Vascular plants,Silene dioica-type,1.0,NISP,pollen,,9941.0,,,Radiocarbon years BP,152.0,425.0,pollen,6/30/2007,420.0,0.238095238095
+3296,Morrone Birkwoods,57.0,-3.433333,57.0,57.0,-3.433333,-3.433333,Vascular plants,Silene dioica-type,1.0,NISP,pollen,,10874.0,,,Radiocarbon years BP,232.0,425.0,pollen,6/30/2007,462.0,0.21645021645
+3296,Morrone Birkwoods,57.0,-3.433333,57.0,57.0,-3.433333,-3.433333,Vascular plants,Silene dioica-type,2.0,NISP,pollen,,11015.0,,,Radiocarbon years BP,252.0,425.0,pollen,6/30/2007,310.0,0.645161290323
+3315,Niechorze,54.0,15.05,54.0,54.0,15.05,15.05,Vascular plants,Silene dioica-type,1.0,NISP,pollen,,8863.0,,,Radiocarbon years BP,410.0,5.0,pollen,6/30/2007,1131.0,0.0884173297966
+3315,Niechorze,54.0,15.05,54.0,54.0,15.05,15.05,Vascular plants,Silene dioica-type,1.0,NISP,pollen,,11743.0,,,Radiocarbon years BP,462.0,5.0,pollen,6/30/2007,727.0,0.137551581843
+3315,Niechorze,54.0,15.05,54.0,54.0,15.05,15.05,Vascular plants,Silene dioica-type,1.0,NISP,pollen,,13620.0,,,Radiocarbon years BP,492.0,5.0,pollen,6/30/2007,251.0,0.398406374502
+3458,Tarnawa Wyzna,49.1,22.833333,49.1,49.1,22.833333,22.833333,Vascular plants,Silene dioica-type,2.0,NISP,pollen,,2714.0,,,Radiocarbon years BP,300.0,670.0,pollen,6/30/2007,1167.0,0.171379605827
+3458,Tarnawa Wyzna,49.1,22.833333,49.1,49.1,22.833333,22.833333,Vascular plants,Silene dioica-type,1.0,NISP,pollen,,4994.0,,,Radiocarbon years BP,430.0,670.0,pollen,6/30/2007,729.0,0.137174211248
+3458,Tarnawa Wyzna,49.1,22.833333,49.1,49.1,22.833333,22.833333,Vascular plants,Silene dioica-type,1.0,NISP,pollen,,7056.0,,,Radiocarbon years BP,530.0,670.0,pollen,6/30/2007,769.0,0.130039011704
+3458,Tarnawa Wyzna,49.1,22.833333,49.1,49.1,22.833333,22.833333,Vascular plants,Silene dioica-type,1.0,NISP,pollen,,9300.0,,,Radiocarbon years BP,625.0,670.0,pollen,6/30/2007,926.0,0.107991360691
+3458,Tarnawa Wyzna,49.1,22.833333,49.1,49.1,22.833333,22.833333,Vascular plants,Silene dioica-type,1.0,NISP,pollen,,10100.0,,,Radiocarbon years BP,660.0,670.0,pollen,6/30/2007,965.0,0.103626943005
+11577,Glendalough Valley,53.007345,-6.348035,53.01767,52.99702,-6.30615,-6.38992,Vascular plants,Silene dioica-type,1.0,NISP,pollen,,12681.0,6778.0,26751.0,Calibrated radiocarbon years BP,1302.0,130.0,pollen,8/10/2015,393.0,0.254452926209

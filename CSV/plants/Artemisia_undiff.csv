@@ -1,0 +1,269 @@
+siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
+68,Amguema River Valley Exposure 1,67.75,178.7,67.75,67.75,178.7,178.7,Vascular plants,Artemisia undiff.,7.0,NISP,pollen,,2086.0,,,Radiocarbon years BP,80.0,175.0,pollen,6/30/2007,461.0,1.51843817787
+68,Amguema River Valley Exposure 1,67.75,178.7,67.75,67.75,178.7,178.7,Vascular plants,Artemisia undiff.,7.0,NISP,pollen,,5475.0,,,Radiocarbon years BP,280.0,175.0,pollen,6/30/2007,491.0,1.42566191446
+68,Amguema River Valley Exposure 1,67.75,178.7,67.75,67.75,178.7,178.7,Vascular plants,Artemisia undiff.,33.0,NISP,pollen,,20216.0,,,Radiocarbon years BP,1150.0,175.0,pollen,6/30/2007,474.0,6.96202531646
+68,Amguema River Valley Exposure 1,67.75,178.7,67.75,67.75,178.7,178.7,Vascular plants,Artemisia undiff.,69.0,NISP,pollen,,21064.0,,,Radiocarbon years BP,1200.0,175.0,pollen,6/30/2007,218.0,31.6513761468
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Artemisia undiff.,6.0,NISP,pollen,,2292.0,,,Radiocarbon years BP,160.0,350.0,pollen,6/30/2007,679.0,0.883652430044
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Artemisia undiff.,2.0,NISP,pollen,,4852.0,,,Radiocarbon years BP,330.0,350.0,pollen,6/30/2007,1170.0,0.17094017094
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Artemisia undiff.,5.0,NISP,pollen,,5157.0,,,Radiocarbon years BP,350.0,350.0,pollen,6/30/2007,589.0,0.848896434635
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Artemisia undiff.,21.0,NISP,pollen,,6844.0,,,Radiocarbon years BP,460.0,350.0,pollen,6/30/2007,1406.0,1.49359886202
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Artemisia undiff.,17.0,NISP,pollen,,7538.0,,,Radiocarbon years BP,505.0,350.0,pollen,6/30/2007,2428.0,0.700164744646
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Artemisia undiff.,7.0,NISP,pollen,,9090.0,,,Radiocarbon years BP,605.0,350.0,pollen,6/30/2007,671.0,1.04321907601
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Artemisia undiff.,4.0,NISP,pollen,,9635.0,,,Radiocarbon years BP,640.0,350.0,pollen,6/30/2007,317.0,1.261829653
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Artemisia undiff.,9.0,NISP,pollen,,10259.0,,,Radiocarbon years BP,680.0,350.0,pollen,6/30/2007,461.0,1.95227765727
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Artemisia undiff.,17.0,NISP,pollen,,10572.0,,,Radiocarbon years BP,700.0,350.0,pollen,6/30/2007,182.0,9.34065934066
+1773,Northern Coast of Onemen Gulf,64.783333,176.166667,64.783333,64.783333,176.166667,176.166667,Vascular plants,Artemisia undiff.,6.0,NISP,pollen,,,,,Radiocarbon years BP,20.0,18.0,pollen,6/30/2007,423.0,1.41843971631
+1773,Northern Coast of Onemen Gulf,64.783333,176.166667,64.783333,64.783333,176.166667,176.166667,Vascular plants,Artemisia undiff.,2.0,NISP,pollen,,,,,Radiocarbon years BP,100.0,18.0,pollen,6/30/2007,494.0,0.404858299595
+1773,Northern Coast of Onemen Gulf,64.783333,176.166667,64.783333,64.783333,176.166667,176.166667,Vascular plants,Artemisia undiff.,1.0,NISP,pollen,,,,,Radiocarbon years BP,250.0,18.0,pollen,6/30/2007,77.0,1.2987012987
+1773,Northern Coast of Onemen Gulf,64.783333,176.166667,64.783333,64.783333,176.166667,176.166667,Vascular plants,Artemisia undiff.,9.0,NISP,pollen,,,,,Radiocarbon years BP,350.0,18.0,pollen,6/30/2007,191.0,4.71204188482
+1773,Northern Coast of Onemen Gulf,64.783333,176.166667,64.783333,64.783333,176.166667,176.166667,Vascular plants,Artemisia undiff.,2.0,NISP,pollen,,,,,Radiocarbon years BP,450.0,18.0,pollen,6/30/2007,125.0,1.6
+1773,Northern Coast of Onemen Gulf,64.783333,176.166667,64.783333,64.783333,176.166667,176.166667,Vascular plants,Artemisia undiff.,1.0,NISP,pollen,,,,,Radiocarbon years BP,550.0,18.0,pollen,6/30/2007,112.0,0.892857142857
+1773,Northern Coast of Onemen Gulf,64.783333,176.166667,64.783333,64.783333,176.166667,176.166667,Vascular plants,Artemisia undiff.,6.0,NISP,pollen,,32500.0,,,Radiocarbon years BP,650.0,18.0,pollen,6/30/2007,233.0,2.57510729614
+1773,Northern Coast of Onemen Gulf,64.783333,176.166667,64.783333,64.783333,176.166667,176.166667,Vascular plants,Artemisia undiff.,13.0,NISP,pollen,,,,,Radiocarbon years BP,750.0,18.0,pollen,6/30/2007,149.0,8.72483221477
+1773,Northern Coast of Onemen Gulf,64.783333,176.166667,64.783333,64.783333,176.166667,176.166667,Vascular plants,Artemisia undiff.,1.0,NISP,pollen,,,,,Radiocarbon years BP,950.0,18.0,pollen,6/30/2007,204.0,0.490196078431
+1773,Northern Coast of Onemen Gulf,64.783333,176.166667,64.783333,64.783333,176.166667,176.166667,Vascular plants,Artemisia undiff.,1.0,NISP,pollen,,,,,Radiocarbon years BP,1050.0,18.0,pollen,6/30/2007,86.0,1.16279069767
+1773,Northern Coast of Onemen Gulf,64.783333,176.166667,64.783333,64.783333,176.166667,176.166667,Vascular plants,Artemisia undiff.,1.0,NISP,pollen,,,,,Radiocarbon years BP,1250.0,18.0,pollen,6/30/2007,89.0,1.12359550562
+1773,Northern Coast of Onemen Gulf,64.783333,176.166667,64.783333,64.783333,176.166667,176.166667,Vascular plants,Artemisia undiff.,2.0,NISP,pollen,,,,,Radiocarbon years BP,1350.0,18.0,pollen,6/30/2007,90.0,2.22222222222
+1773,Northern Coast of Onemen Gulf,64.783333,176.166667,64.783333,64.783333,176.166667,176.166667,Vascular plants,Artemisia undiff.,7.0,NISP,pollen,,,,,Radiocarbon years BP,1450.0,18.0,pollen,6/30/2007,415.0,1.68674698795
+1773,Northern Coast of Onemen Gulf,64.783333,176.166667,64.783333,64.783333,176.166667,176.166667,Vascular plants,Artemisia undiff.,25.0,NISP,pollen,,,,,Radiocarbon years BP,1550.0,18.0,pollen,6/30/2007,379.0,6.5963060686
+1958,Rauchua Exposure,69.5,166.366667,69.5,69.5,166.366667,166.366667,Vascular plants,Artemisia undiff.,25.0,NISP,pollen,,,,,Radiocarbon years BP,80.0,36.0,pollen,6/30/2007,351.0,7.12250712251
+1958,Rauchua Exposure,69.5,166.366667,69.5,69.5,166.366667,166.366667,Vascular plants,Artemisia undiff.,28.0,NISP,pollen,,,,,Radiocarbon years BP,180.0,36.0,pollen,6/30/2007,329.0,8.51063829787
+1958,Rauchua Exposure,69.5,166.366667,69.5,69.5,166.366667,166.366667,Vascular plants,Artemisia undiff.,19.0,NISP,pollen,,,,,Radiocarbon years BP,280.0,36.0,pollen,6/30/2007,325.0,5.84615384615
+1958,Rauchua Exposure,69.5,166.366667,69.5,69.5,166.366667,166.366667,Vascular plants,Artemisia undiff.,17.0,NISP,pollen,,8400.0,,,Radiocarbon years BP,380.0,36.0,pollen,6/30/2007,301.0,5.64784053156
+1958,Rauchua Exposure,69.5,166.366667,69.5,69.5,166.366667,166.366667,Vascular plants,Artemisia undiff.,21.0,NISP,pollen,,,,,Radiocarbon years BP,480.0,36.0,pollen,6/30/2007,230.0,9.13043478261
+1958,Rauchua Exposure,69.5,166.366667,69.5,69.5,166.366667,166.366667,Vascular plants,Artemisia undiff.,39.0,NISP,pollen,,,,,Radiocarbon years BP,530.0,36.0,pollen,6/30/2007,342.0,11.4035087719
+1958,Rauchua Exposure,69.5,166.366667,69.5,69.5,166.366667,166.366667,Vascular plants,Artemisia undiff.,35.0,NISP,pollen,,,,,Radiocarbon years BP,580.0,36.0,pollen,6/30/2007,145.0,24.1379310345
+1958,Rauchua Exposure,69.5,166.366667,69.5,69.5,166.366667,166.366667,Vascular plants,Artemisia undiff.,47.0,NISP,pollen,,,,,Radiocarbon years BP,630.0,36.0,pollen,6/30/2007,294.0,15.9863945578
+1958,Rauchua Exposure,69.5,166.366667,69.5,69.5,166.366667,166.366667,Vascular plants,Artemisia undiff.,63.0,NISP,pollen,,,,,Radiocarbon years BP,680.0,36.0,pollen,6/30/2007,312.0,20.1923076923
+1958,Rauchua Exposure,69.5,166.366667,69.5,69.5,166.366667,166.366667,Vascular plants,Artemisia undiff.,14.0,NISP,pollen,,,,,Radiocarbon years BP,730.0,36.0,pollen,6/30/2007,232.0,6.03448275862
+1958,Rauchua Exposure,69.5,166.366667,69.5,69.5,166.366667,166.366667,Vascular plants,Artemisia undiff.,39.0,NISP,pollen,,,,,Radiocarbon years BP,780.0,36.0,pollen,6/30/2007,291.0,13.4020618557
+1958,Rauchua Exposure,69.5,166.366667,69.5,69.5,166.366667,166.366667,Vascular plants,Artemisia undiff.,28.0,NISP,pollen,,,,,Radiocarbon years BP,830.0,36.0,pollen,6/30/2007,246.0,11.3821138211
+1958,Rauchua Exposure,69.5,166.366667,69.5,69.5,166.366667,166.366667,Vascular plants,Artemisia undiff.,52.0,NISP,pollen,,,,,Radiocarbon years BP,880.0,36.0,pollen,6/30/2007,300.0,17.3333333333
+1958,Rauchua Exposure,69.5,166.366667,69.5,69.5,166.366667,166.366667,Vascular plants,Artemisia undiff.,47.0,NISP,pollen,,,,,Radiocarbon years BP,930.0,36.0,pollen,6/30/2007,199.0,23.6180904523
+1958,Rauchua Exposure,69.5,166.366667,69.5,69.5,166.366667,166.366667,Vascular plants,Artemisia undiff.,39.0,NISP,pollen,,,,,Radiocarbon years BP,980.0,36.0,pollen,6/30/2007,462.0,8.44155844156
+1958,Rauchua Exposure,69.5,166.366667,69.5,69.5,166.366667,166.366667,Vascular plants,Artemisia undiff.,57.0,NISP,pollen,,,,,Radiocarbon years BP,1030.0,36.0,pollen,6/30/2007,319.0,17.868338558
+1958,Rauchua Exposure,69.5,166.366667,69.5,69.5,166.366667,166.366667,Vascular plants,Artemisia undiff.,24.0,NISP,pollen,,,,,Radiocarbon years BP,1080.0,36.0,pollen,6/30/2007,260.0,9.23076923077
+1958,Rauchua Exposure,69.5,166.366667,69.5,69.5,166.366667,166.366667,Vascular plants,Artemisia undiff.,52.0,NISP,pollen,,,,,Radiocarbon years BP,1130.0,36.0,pollen,6/30/2007,480.0,10.8333333333
+1958,Rauchua Exposure,69.5,166.366667,69.5,69.5,166.366667,166.366667,Vascular plants,Artemisia undiff.,22.0,NISP,pollen,,,,,Radiocarbon years BP,1180.0,36.0,pollen,6/30/2007,354.0,6.21468926554
+1958,Rauchua Exposure,69.5,166.366667,69.5,69.5,166.366667,166.366667,Vascular plants,Artemisia undiff.,8.0,NISP,pollen,,,,,Radiocarbon years BP,1230.0,36.0,pollen,6/30/2007,108.0,7.40740740741
+1958,Rauchua Exposure,69.5,166.366667,69.5,69.5,166.366667,166.366667,Vascular plants,Artemisia undiff.,60.0,NISP,pollen,,,,,Radiocarbon years BP,1280.0,36.0,pollen,6/30/2007,318.0,18.8679245283
+1958,Rauchua Exposure,69.5,166.366667,69.5,69.5,166.366667,166.366667,Vascular plants,Artemisia undiff.,25.0,NISP,pollen,,,,,Radiocarbon years BP,1330.0,36.0,pollen,6/30/2007,320.0,7.8125
+1958,Rauchua Exposure,69.5,166.366667,69.5,69.5,166.366667,166.366667,Vascular plants,Artemisia undiff.,51.0,NISP,pollen,,,,,Radiocarbon years BP,1380.0,36.0,pollen,6/30/2007,389.0,13.1105398458
+1958,Rauchua Exposure,69.5,166.366667,69.5,69.5,166.366667,166.366667,Vascular plants,Artemisia undiff.,18.0,NISP,pollen,,,,,Radiocarbon years BP,1430.0,36.0,pollen,6/30/2007,283.0,6.36042402827
+1958,Rauchua Exposure,69.5,166.366667,69.5,69.5,166.366667,166.366667,Vascular plants,Artemisia undiff.,4.0,NISP,pollen,,,,,Radiocarbon years BP,1480.0,36.0,pollen,6/30/2007,65.0,6.15384615385
+1958,Rauchua Exposure,69.5,166.366667,69.5,69.5,166.366667,166.366667,Vascular plants,Artemisia undiff.,25.0,NISP,pollen,,,,,Radiocarbon years BP,1530.0,36.0,pollen,6/30/2007,291.0,8.5910652921
+1958,Rauchua Exposure,69.5,166.366667,69.5,69.5,166.366667,166.366667,Vascular plants,Artemisia undiff.,47.0,NISP,pollen,,,,,Radiocarbon years BP,1580.0,36.0,pollen,6/30/2007,333.0,14.1141141141
+1958,Rauchua Exposure,69.5,166.366667,69.5,69.5,166.366667,166.366667,Vascular plants,Artemisia undiff.,29.0,NISP,pollen,,,,,Radiocarbon years BP,1630.0,36.0,pollen,6/30/2007,351.0,8.26210826211
+1958,Rauchua Exposure,69.5,166.366667,69.5,69.5,166.366667,166.366667,Vascular plants,Artemisia undiff.,28.0,NISP,pollen,,,,,Radiocarbon years BP,1680.0,36.0,pollen,6/30/2007,360.0,7.77777777778
+1958,Rauchua Exposure,69.5,166.366667,69.5,69.5,166.366667,166.366667,Vascular plants,Artemisia undiff.,11.0,NISP,pollen,,,,,Radiocarbon years BP,1730.0,36.0,pollen,6/30/2007,233.0,4.72103004292
+1958,Rauchua Exposure,69.5,166.366667,69.5,69.5,166.366667,166.366667,Vascular plants,Artemisia undiff.,29.0,NISP,pollen,,,,,Radiocarbon years BP,1780.0,36.0,pollen,6/30/2007,408.0,7.10784313725
+1958,Rauchua Exposure,69.5,166.366667,69.5,69.5,166.366667,166.366667,Vascular plants,Artemisia undiff.,9.0,NISP,pollen,,,,,Radiocarbon years BP,1830.0,36.0,pollen,6/30/2007,298.0,3.02013422819
+2278,Selennyakhskaya-3 Exposure,69.015278,138.222222,69.015278,69.015278,138.222222,138.222222,Vascular plants,Artemisia undiff.,24.0,NISP,pollen,,13115.0,,,Radiocarbon years BP,60.0,348.0,pollen,6/30/2007,813.0,2.9520295203
+2799,Ust'-Algan Exposure,64.333333,171.266667,64.333333,64.333333,171.266667,171.266667,Vascular plants,Artemisia undiff.,1.0,NISP,pollen,,27400.0,,,Radiocarbon years BP,1050.0,76.0,pollen,6/30/2007,39.0,2.5641025641
+2799,Ust'-Algan Exposure,64.333333,171.266667,64.333333,64.333333,171.266667,171.266667,Vascular plants,Artemisia undiff.,3.0,NISP,pollen,,27809.0,,,Radiocarbon years BP,1100.0,76.0,pollen,6/30/2007,71.0,4.22535211268
+2799,Ust'-Algan Exposure,64.333333,171.266667,64.333333,64.333333,171.266667,171.266667,Vascular plants,Artemisia undiff.,3.0,NISP,pollen,,30586.0,,,Radiocarbon years BP,1440.0,76.0,pollen,6/30/2007,86.0,3.48837209302
+2799,Ust'-Algan Exposure,64.333333,171.266667,64.333333,64.333333,171.266667,171.266667,Vascular plants,Artemisia undiff.,19.0,NISP,pollen,,31485.0,,,Radiocarbon years BP,1550.0,76.0,pollen,6/30/2007,87.0,21.8390804598
+2799,Ust'-Algan Exposure,64.333333,171.266667,64.333333,64.333333,171.266667,171.266667,Vascular plants,Artemisia undiff.,36.0,NISP,pollen,,31730.0,,,Radiocarbon years BP,1580.0,76.0,pollen,6/30/2007,233.0,15.4506437768
+2799,Ust'-Algan Exposure,64.333333,171.266667,64.333333,64.333333,171.266667,171.266667,Vascular plants,Artemisia undiff.,4.0,NISP,pollen,,34753.0,,,Radiocarbon years BP,1950.0,76.0,pollen,6/30/2007,88.0,4.54545454545
+2799,Ust'-Algan Exposure,64.333333,171.266667,64.333333,64.333333,171.266667,171.266667,Vascular plants,Artemisia undiff.,1.0,NISP,pollen,,35570.0,,,Radiocarbon years BP,2050.0,76.0,pollen,6/30/2007,64.0,1.5625
+2799,Ust'-Algan Exposure,64.333333,171.266667,64.333333,64.333333,171.266667,171.266667,Vascular plants,Artemisia undiff.,10.0,NISP,pollen,,37760.0,,,Radiocarbon years BP,2320.0,76.0,pollen,6/30/2007,82.0,12.1951219512
+2799,Ust'-Algan Exposure,64.333333,171.266667,64.333333,64.333333,171.266667,171.266667,Vascular plants,Artemisia undiff.,12.0,NISP,pollen,,,,,Radiocarbon years BP,3250.0,76.0,pollen,6/30/2007,103.0,11.6504854369
+2799,Ust'-Algan Exposure,64.333333,171.266667,64.333333,64.333333,171.266667,171.266667,Vascular plants,Artemisia undiff.,43.0,NISP,pollen,,,,,Radiocarbon years BP,3350.0,76.0,pollen,6/30/2007,287.0,14.9825783972
+2799,Ust'-Algan Exposure,64.333333,171.266667,64.333333,64.333333,171.266667,171.266667,Vascular plants,Artemisia undiff.,10.0,NISP,pollen,,,,,Radiocarbon years BP,3450.0,76.0,pollen,6/30/2007,117.0,8.54700854701
+2799,Ust'-Algan Exposure,64.333333,171.266667,64.333333,64.333333,171.266667,171.266667,Vascular plants,Artemisia undiff.,6.0,NISP,pollen,,,,,Radiocarbon years BP,3550.0,76.0,pollen,6/30/2007,153.0,3.92156862745
+2799,Ust'-Algan Exposure,64.333333,171.266667,64.333333,64.333333,171.266667,171.266667,Vascular plants,Artemisia undiff.,4.0,NISP,pollen,,,,,Radiocarbon years BP,3650.0,76.0,pollen,6/30/2007,96.0,4.16666666667
+2799,Ust'-Algan Exposure,64.333333,171.266667,64.333333,64.333333,171.266667,171.266667,Vascular plants,Artemisia undiff.,15.0,NISP,pollen,,,,,Radiocarbon years BP,3750.0,76.0,pollen,6/30/2007,235.0,6.3829787234
+2799,Ust'-Algan Exposure,64.333333,171.266667,64.333333,64.333333,171.266667,171.266667,Vascular plants,Artemisia undiff.,4.0,NISP,pollen,,,,,Radiocarbon years BP,3850.0,76.0,pollen,6/30/2007,134.0,2.98507462687
+2799,Ust'-Algan Exposure,64.333333,171.266667,64.333333,64.333333,171.266667,171.266667,Vascular plants,Artemisia undiff.,3.0,NISP,pollen,,,,,Radiocarbon years BP,4050.0,76.0,pollen,6/30/2007,100.0,3.0
+1958,Rauchua Exposure,69.5,166.366667,69.5,69.5,166.366667,166.366667,Vascular plants,Artemisia undiff.,15.0,NISP,pollen,,,,,,1000.0,36.0,pollen,6/30/2007,398.0,3.76884422111
+1958,Rauchua Exposure,69.5,166.366667,69.5,69.5,166.366667,166.366667,Vascular plants,Artemisia undiff.,27.0,NISP,pollen,,,,,,1150.0,36.0,pollen,6/30/2007,312.0,8.65384615385
+1958,Rauchua Exposure,69.5,166.366667,69.5,69.5,166.366667,166.366667,Vascular plants,Artemisia undiff.,12.0,NISP,pollen,,,,,,1250.0,36.0,pollen,6/30/2007,309.0,3.88349514563
+1958,Rauchua Exposure,69.5,166.366667,69.5,69.5,166.366667,166.366667,Vascular plants,Artemisia undiff.,15.0,NISP,pollen,,,,,,1350.0,36.0,pollen,6/30/2007,250.0,6.0
+1958,Rauchua Exposure,69.5,166.366667,69.5,69.5,166.366667,166.366667,Vascular plants,Artemisia undiff.,24.0,NISP,pollen,,,,,,1450.0,36.0,pollen,6/30/2007,423.0,5.67375886525
+1958,Rauchua Exposure,69.5,166.366667,69.5,69.5,166.366667,166.366667,Vascular plants,Artemisia undiff.,10.0,NISP,pollen,,,,,,1550.0,36.0,pollen,6/30/2007,341.0,2.93255131965
+1958,Rauchua Exposure,69.5,166.366667,69.5,69.5,166.366667,166.366667,Vascular plants,Artemisia undiff.,31.0,NISP,pollen,,,,,,1650.0,36.0,pollen,6/30/2007,337.0,9.19881305638
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Artemisia undiff.,1.0,NISP,pollen,,,,,,116.0,242.0,pollen,6/30/2007,542.0,0.184501845018
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Artemisia undiff.,1.0,NISP,pollen,,,,,,120.0,242.0,pollen,6/30/2007,613.0,0.163132137031
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Artemisia undiff.,1.0,NISP,pollen,,,,,,124.0,242.0,pollen,6/30/2007,945.0,0.10582010582
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Artemisia undiff.,1.0,NISP,pollen,,,,,,128.0,242.0,pollen,6/30/2007,943.0,0.106044538706
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Artemisia undiff.,1.0,NISP,pollen,,,,,,144.0,242.0,pollen,6/30/2007,914.0,0.109409190372
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Artemisia undiff.,14.0,NISP,pollen,,,,,,146.0,242.0,pollen,6/30/2007,933.0,1.50053590568
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Artemisia undiff.,8.0,NISP,pollen,,,,,,148.0,242.0,pollen,6/30/2007,1947.0,0.410888546482
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Artemisia undiff.,15.0,NISP,pollen,,,,,,152.0,242.0,pollen,6/30/2007,504.0,2.97619047619
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Artemisia undiff.,23.0,NISP,pollen,,,,,,156.0,242.0,pollen,6/30/2007,462.0,4.97835497835
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Artemisia undiff.,14.0,NISP,pollen,,,,,,160.0,242.0,pollen,6/30/2007,393.0,3.56234096692
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Artemisia undiff.,22.0,NISP,pollen,,,,,,164.0,242.0,pollen,6/30/2007,372.0,5.91397849462
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Artemisia undiff.,31.0,NISP,pollen,,,,,,168.0,242.0,pollen,6/30/2007,625.0,4.96
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Artemisia undiff.,55.0,NISP,pollen,,,,,,172.0,242.0,pollen,6/30/2007,514.0,10.7003891051
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Artemisia undiff.,56.0,NISP,pollen,,,,,,184.0,242.0,pollen,6/30/2007,563.0,9.94671403197
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Artemisia undiff.,31.0,NISP,pollen,,,,,,188.0,242.0,pollen,6/30/2007,599.0,5.17529215359
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Artemisia undiff.,20.0,NISP,pollen,,,,,,196.0,242.0,pollen,6/30/2007,537.0,3.72439478585
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Artemisia undiff.,20.0,NISP,pollen,,,,,,201.0,242.0,pollen,6/30/2007,522.0,3.83141762452
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Artemisia undiff.,3.0,NISP,pollen,,,,,,203.0,242.0,pollen,6/30/2007,707.0,0.4243281471
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Artemisia undiff.,7.0,NISP,pollen,,,,,,204.0,242.0,pollen,6/30/2007,668.0,1.04790419162
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Artemisia undiff.,9.0,NISP,pollen,,,,,,206.0,242.0,pollen,6/30/2007,720.0,1.25
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Artemisia undiff.,5.0,NISP,pollen,,,,,,208.0,242.0,pollen,6/30/2007,763.0,0.655307994758
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Artemisia undiff.,7.0,NISP,pollen,,,,,,210.0,242.0,pollen,6/30/2007,728.0,0.961538461538
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Artemisia undiff.,1.0,NISP,pollen,,,,,,212.0,242.0,pollen,6/30/2007,733.0,0.136425648022
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Artemisia undiff.,8.0,NISP,pollen,,,,,,214.0,242.0,pollen,6/30/2007,744.0,1.0752688172
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Artemisia undiff.,6.0,NISP,pollen,,,,,,215.0,242.0,pollen,6/30/2007,656.0,0.914634146341
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Artemisia undiff.,8.0,NISP,pollen,,,,,,216.0,242.0,pollen,6/30/2007,681.0,1.17474302496
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Artemisia undiff.,17.0,NISP,pollen,,,,,,218.0,242.0,pollen,6/30/2007,700.0,2.42857142857
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Artemisia undiff.,21.0,NISP,pollen,,,,,,220.0,242.0,pollen,6/30/2007,765.0,2.74509803922
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Artemisia undiff.,23.0,NISP,pollen,,,,,,222.0,242.0,pollen,6/30/2007,706.0,3.25779036827
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Artemisia undiff.,12.0,NISP,pollen,,,,,,224.0,242.0,pollen,6/30/2007,767.0,1.56453715776
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Artemisia undiff.,19.0,NISP,pollen,,,,,,226.0,242.0,pollen,6/30/2007,712.0,2.66853932584
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Artemisia undiff.,7.0,NISP,pollen,,,,,,228.0,242.0,pollen,6/30/2007,671.0,1.04321907601
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Artemisia undiff.,19.0,NISP,pollen,,,,,,230.0,242.0,pollen,6/30/2007,716.0,2.65363128492
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Artemisia undiff.,18.0,NISP,pollen,,,,,,232.0,242.0,pollen,6/30/2007,622.0,2.89389067524
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Artemisia undiff.,11.0,NISP,pollen,,,,,,236.0,242.0,pollen,6/30/2007,697.0,1.57819225251
+3031,Loch Borralan,58.044167,-4.999167,58.044167,58.044167,-4.999167,-4.999167,Vascular plants,Artemisia undiff.,3.0,NISP,pollen,,,,,,185.0,139.0,pollen,6/30/2007,161.0,1.86335403727
+3043,Cam Loch,58.083333,-5.0,58.083333,58.083333,-5.0,-5.0,Vascular plants,Artemisia undiff.,3.0,NISP,pollen,,10505.0,,,Radiocarbon years BP,538.0,130.0,pollen,6/30/2007,118.0,2.54237288136
+3043,Cam Loch,58.083333,-5.0,58.083333,58.083333,-5.0,-5.0,Vascular plants,Artemisia undiff.,3.0,NISP,pollen,,10585.0,,,Radiocarbon years BP,540.0,130.0,pollen,6/30/2007,147.0,2.04081632653
+3043,Cam Loch,58.083333,-5.0,58.083333,58.083333,-5.0,-5.0,Vascular plants,Artemisia undiff.,2.0,NISP,pollen,,10608.0,,,Radiocarbon years BP,542.0,130.0,pollen,6/30/2007,92.0,2.17391304348
+3043,Cam Loch,58.083333,-5.0,58.083333,58.083333,-5.0,-5.0,Vascular plants,Artemisia undiff.,2.0,NISP,pollen,,10653.0,,,Radiocarbon years BP,546.0,130.0,pollen,6/30/2007,82.0,2.43902439024
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Artemisia undiff.,2.0,NISP,pollen,,,,,,405.0,20.0,pollen,6/30/2007,175.0,1.14285714286
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Artemisia undiff.,10.0,NISP,pollen,,,,,,410.0,20.0,pollen,6/30/2007,396.0,2.52525252525
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Artemisia undiff.,4.0,NISP,pollen,,,,,,415.0,20.0,pollen,6/30/2007,191.0,2.0942408377
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Artemisia undiff.,3.0,NISP,pollen,,,,,,420.0,20.0,pollen,6/30/2007,254.0,1.1811023622
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Artemisia undiff.,2.0,NISP,pollen,,,,,,425.0,20.0,pollen,6/30/2007,184.0,1.08695652174
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Artemisia undiff.,1.0,NISP,pollen,,,,,,435.0,20.0,pollen,6/30/2007,143.0,0.699300699301
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Artemisia undiff.,4.0,NISP,pollen,,,,,,440.0,20.0,pollen,6/30/2007,324.0,1.23456790123
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Artemisia undiff.,3.0,NISP,pollen,,,,,,445.0,20.0,pollen,6/30/2007,135.0,2.22222222222
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Artemisia undiff.,1.0,NISP,pollen,,,,,,455.0,20.0,pollen,6/30/2007,96.0,1.04166666667
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Artemisia undiff.,2.0,NISP,pollen,,,,,,465.0,20.0,pollen,6/30/2007,99.0,2.0202020202
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Artemisia undiff.,5.0,NISP,pollen,,,,,,470.0,20.0,pollen,6/30/2007,404.0,1.23762376238
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Artemisia undiff.,1.0,NISP,pollen,,,,,,475.0,20.0,pollen,6/30/2007,272.0,0.367647058824
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Artemisia undiff.,1.0,NISP,pollen,,,,,,485.0,20.0,pollen,6/30/2007,173.0,0.578034682081
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Artemisia undiff.,2.0,NISP,pollen,,,,,,490.0,20.0,pollen,6/30/2007,212.0,0.943396226415
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Artemisia undiff.,1.0,NISP,pollen,,8848.0,,,Radiocarbon years BP,565.0,135.0,pollen,6/30/2007,350.0,0.285714285714
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Artemisia undiff.,1.0,NISP,pollen,,8904.0,,,Radiocarbon years BP,570.0,135.0,pollen,6/30/2007,165.0,0.606060606061
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Artemisia undiff.,1.0,NISP,pollen,,9185.0,,,Radiocarbon years BP,595.0,135.0,pollen,6/30/2007,112.0,0.892857142857
+3125,Lochan coir a' Ghobhainn,57.183333,-6.3,57.183333,57.183333,-6.3,-6.3,Vascular plants,Artemisia undiff.,2.0,NISP,pollen,,8997.0,,,Radiocarbon years BP,325.0,82.0,pollen,6/30/2007,1322.0,0.151285930408
+3125,Lochan coir a' Ghobhainn,57.183333,-6.3,57.183333,57.183333,-6.3,-6.3,Vascular plants,Artemisia undiff.,1.0,NISP,pollen,,9189.0,,,Radiocarbon years BP,330.0,82.0,pollen,6/30/2007,1070.0,0.0934579439252
+3125,Lochan coir a' Ghobhainn,57.183333,-6.3,57.183333,57.183333,-6.3,-6.3,Vascular plants,Artemisia undiff.,1.0,NISP,pollen,,9382.0,,,Radiocarbon years BP,335.0,82.0,pollen,6/30/2007,566.0,0.17667844523
+3125,Lochan coir a' Ghobhainn,57.183333,-6.3,57.183333,57.183333,-6.3,-6.3,Vascular plants,Artemisia undiff.,7.0,NISP,pollen,,9458.0,,,Radiocarbon years BP,340.0,82.0,pollen,6/30/2007,1304.0,0.536809815951
+3125,Lochan coir a' Ghobhainn,57.183333,-6.3,57.183333,57.183333,-6.3,-6.3,Vascular plants,Artemisia undiff.,6.0,NISP,pollen,,9506.0,,,Radiocarbon years BP,345.0,82.0,pollen,6/30/2007,1103.0,0.543970988214
+3125,Lochan coir a' Ghobhainn,57.183333,-6.3,57.183333,57.183333,-6.3,-6.3,Vascular plants,Artemisia undiff.,5.0,NISP,pollen,,9553.0,,,Radiocarbon years BP,350.0,82.0,pollen,6/30/2007,1266.0,0.394944707741
+3125,Lochan coir a' Ghobhainn,57.183333,-6.3,57.183333,57.183333,-6.3,-6.3,Vascular plants,Artemisia undiff.,9.0,NISP,pollen,,9601.0,,,Radiocarbon years BP,355.0,82.0,pollen,6/30/2007,1521.0,0.591715976331
+3125,Lochan coir a' Ghobhainn,57.183333,-6.3,57.183333,57.183333,-6.3,-6.3,Vascular plants,Artemisia undiff.,2.0,NISP,pollen,,9648.0,,,Radiocarbon years BP,360.0,82.0,pollen,6/30/2007,1600.0,0.125
+3125,Lochan coir a' Ghobhainn,57.183333,-6.3,57.183333,57.183333,-6.3,-6.3,Vascular plants,Artemisia undiff.,2.0,NISP,pollen,,9868.0,,,Radiocarbon years BP,370.0,82.0,pollen,6/30/2007,1321.0,0.151400454201
+3125,Lochan coir a' Ghobhainn,57.183333,-6.3,57.183333,57.183333,-6.3,-6.3,Vascular plants,Artemisia undiff.,2.0,NISP,pollen,,10029.0,,,Radiocarbon years BP,375.0,82.0,pollen,6/30/2007,754.0,0.26525198939
+3125,Lochan coir a' Ghobhainn,57.183333,-6.3,57.183333,57.183333,-6.3,-6.3,Vascular plants,Artemisia undiff.,5.0,NISP,pollen,,10190.0,,,Radiocarbon years BP,380.0,82.0,pollen,6/30/2007,753.0,0.66401062417
+3125,Lochan coir a' Ghobhainn,57.183333,-6.3,57.183333,57.183333,-6.3,-6.3,Vascular plants,Artemisia undiff.,21.0,NISP,pollen,,10254.0,,,Radiocarbon years BP,382.0,82.0,pollen,6/30/2007,771.0,2.72373540856
+3125,Lochan coir a' Ghobhainn,57.183333,-6.3,57.183333,57.183333,-6.3,-6.3,Vascular plants,Artemisia undiff.,13.0,NISP,pollen,,10351.0,,,Radiocarbon years BP,385.0,82.0,pollen,6/30/2007,871.0,1.49253731343
+3125,Lochan coir a' Ghobhainn,57.183333,-6.3,57.183333,57.183333,-6.3,-6.3,Vascular plants,Artemisia undiff.,11.0,NISP,pollen,,10415.0,,,Radiocarbon years BP,387.0,82.0,pollen,6/30/2007,686.0,1.60349854227
+3125,Lochan coir a' Ghobhainn,57.183333,-6.3,57.183333,57.183333,-6.3,-6.3,Vascular plants,Artemisia undiff.,3.0,NISP,pollen,,10511.0,,,Radiocarbon years BP,390.0,82.0,pollen,6/30/2007,379.0,0.791556728232
+3280,Loch Mealt,57.6,-6.133333,57.6,57.6,-6.133333,-6.133333,Vascular plants,Artemisia undiff.,1.0,NISP,pollen,,,,,,350.0,51.0,pollen,6/30/2007,262.0,0.381679389313
+3280,Loch Mealt,57.6,-6.133333,57.6,57.6,-6.133333,-6.133333,Vascular plants,Artemisia undiff.,1.0,NISP,pollen,,,,,,360.0,51.0,pollen,6/30/2007,283.0,0.353356890459
+3280,Loch Mealt,57.6,-6.133333,57.6,57.6,-6.133333,-6.133333,Vascular plants,Artemisia undiff.,2.0,NISP,pollen,,,,,,390.0,51.0,pollen,6/30/2007,332.0,0.602409638554
+3280,Loch Mealt,57.6,-6.133333,57.6,57.6,-6.133333,-6.133333,Vascular plants,Artemisia undiff.,1.0,NISP,pollen,,,,,,440.0,51.0,pollen,6/30/2007,302.0,0.331125827815
+3280,Loch Mealt,57.6,-6.133333,57.6,57.6,-6.133333,-6.133333,Vascular plants,Artemisia undiff.,3.0,NISP,pollen,,,,,,460.0,51.0,pollen,6/30/2007,264.0,1.13636363636
+3280,Loch Mealt,57.6,-6.133333,57.6,57.6,-6.133333,-6.133333,Vascular plants,Artemisia undiff.,1.0,NISP,pollen,,,,,,520.0,51.0,pollen,6/30/2007,369.0,0.271002710027
+3280,Loch Mealt,57.6,-6.133333,57.6,57.6,-6.133333,-6.133333,Vascular plants,Artemisia undiff.,1.0,NISP,pollen,,,,,,550.0,51.0,pollen,6/30/2007,253.0,0.395256916996
+3280,Loch Mealt,57.6,-6.133333,57.6,57.6,-6.133333,-6.133333,Vascular plants,Artemisia undiff.,1.0,NISP,pollen,,,,,,555.0,51.0,pollen,6/30/2007,149.0,0.671140939597
+3280,Loch Mealt,57.6,-6.133333,57.6,57.6,-6.133333,-6.133333,Vascular plants,Artemisia undiff.,1.0,NISP,pollen,,,,,,560.0,51.0,pollen,6/30/2007,116.0,0.862068965517
+3413,Loch Sionascaig,58.060556,-5.175,58.060556,58.060556,-5.175,-5.175,Vascular plants,Artemisia undiff.,2.0,NISP,pollen,,1655.0,,,Radiocarbon years BP,105.0,74.0,pollen,6/30/2007,533.0,0.375234521576
+3413,Loch Sionascaig,58.060556,-5.175,58.060556,58.060556,-5.175,-5.175,Vascular plants,Artemisia undiff.,1.0,NISP,pollen,,1892.0,,,Radiocarbon years BP,120.0,74.0,pollen,6/30/2007,616.0,0.162337662338
+3413,Loch Sionascaig,58.060556,-5.175,58.060556,58.060556,-5.175,-5.175,Vascular plants,Artemisia undiff.,1.0,NISP,pollen,,1971.0,,,Radiocarbon years BP,125.0,74.0,pollen,6/30/2007,485.0,0.20618556701
+3413,Loch Sionascaig,58.060556,-5.175,58.060556,58.060556,-5.175,-5.175,Vascular plants,Artemisia undiff.,1.0,NISP,pollen,,2128.0,,,Radiocarbon years BP,135.0,74.0,pollen,6/30/2007,438.0,0.228310502283
+3413,Loch Sionascaig,58.060556,-5.175,58.060556,58.060556,-5.175,-5.175,Vascular plants,Artemisia undiff.,1.0,NISP,pollen,,2444.0,,,Radiocarbon years BP,155.0,74.0,pollen,6/30/2007,615.0,0.162601626016
+3413,Loch Sionascaig,58.060556,-5.175,58.060556,58.060556,-5.175,-5.175,Vascular plants,Artemisia undiff.,1.0,NISP,pollen,,3468.0,,,Radiocarbon years BP,220.0,74.0,pollen,6/30/2007,541.0,0.184842883549
+3413,Loch Sionascaig,58.060556,-5.175,58.060556,58.060556,-5.175,-5.175,Vascular plants,Artemisia undiff.,2.0,NISP,pollen,,3626.0,,,Radiocarbon years BP,230.0,74.0,pollen,6/30/2007,501.0,0.399201596806
+3413,Loch Sionascaig,58.060556,-5.175,58.060556,58.060556,-5.175,-5.175,Vascular plants,Artemisia undiff.,1.0,NISP,pollen,,3705.0,,,Radiocarbon years BP,235.0,74.0,pollen,6/30/2007,500.0,0.2
+3413,Loch Sionascaig,58.060556,-5.175,58.060556,58.060556,-5.175,-5.175,Vascular plants,Artemisia undiff.,1.0,NISP,pollen,,3862.0,,,Radiocarbon years BP,245.0,74.0,pollen,6/30/2007,502.0,0.199203187251
+3413,Loch Sionascaig,58.060556,-5.175,58.060556,58.060556,-5.175,-5.175,Vascular plants,Artemisia undiff.,1.0,NISP,pollen,,4113.0,,,Radiocarbon years BP,260.0,74.0,pollen,6/30/2007,506.0,0.197628458498
+3413,Loch Sionascaig,58.060556,-5.175,58.060556,58.060556,-5.175,-5.175,Vascular plants,Artemisia undiff.,1.0,NISP,pollen,,4206.0,,,Radiocarbon years BP,265.0,74.0,pollen,6/30/2007,497.0,0.201207243461
+3413,Loch Sionascaig,58.060556,-5.175,58.060556,58.060556,-5.175,-5.175,Vascular plants,Artemisia undiff.,1.0,NISP,pollen,,4299.0,,,Radiocarbon years BP,270.0,74.0,pollen,6/30/2007,539.0,0.185528756957
+3413,Loch Sionascaig,58.060556,-5.175,58.060556,58.060556,-5.175,-5.175,Vascular plants,Artemisia undiff.,1.0,NISP,pollen,,5309.0,,,Radiocarbon years BP,315.0,74.0,pollen,6/30/2007,541.0,0.184842883549
+3413,Loch Sionascaig,58.060556,-5.175,58.060556,58.060556,-5.175,-5.175,Vascular plants,Artemisia undiff.,1.0,NISP,pollen,,5779.0,,,Radiocarbon years BP,335.0,74.0,pollen,6/30/2007,530.0,0.188679245283
+3413,Loch Sionascaig,58.060556,-5.175,58.060556,58.060556,-5.175,-5.175,Vascular plants,Artemisia undiff.,2.0,NISP,pollen,,5944.0,,,Radiocarbon years BP,342.0,74.0,pollen,6/30/2007,536.0,0.373134328358
+3413,Loch Sionascaig,58.060556,-5.175,58.060556,58.060556,-5.175,-5.175,Vascular plants,Artemisia undiff.,1.0,NISP,pollen,,6427.0,,,Radiocarbon years BP,365.0,74.0,pollen,6/30/2007,483.0,0.207039337474
+3413,Loch Sionascaig,58.060556,-5.175,58.060556,58.060556,-5.175,-5.175,Vascular plants,Artemisia undiff.,1.0,NISP,pollen,,8247.0,,,Radiocarbon years BP,450.0,74.0,pollen,6/30/2007,302.0,0.331125827815
+3413,Loch Sionascaig,58.060556,-5.175,58.060556,58.060556,-5.175,-5.175,Vascular plants,Artemisia undiff.,1.0,NISP,pollen,,8431.0,,,Radiocarbon years BP,460.0,74.0,pollen,6/30/2007,252.0,0.396825396825
+3413,Loch Sionascaig,58.060556,-5.175,58.060556,58.060556,-5.175,-5.175,Vascular plants,Artemisia undiff.,1.0,NISP,pollen,,9593.0,,,Radiocarbon years BP,510.0,74.0,pollen,6/30/2007,245.0,0.408163265306
+3413,Loch Sionascaig,58.060556,-5.175,58.060556,58.060556,-5.175,-5.175,Vascular plants,Artemisia undiff.,2.0,NISP,pollen,,10259.0,,,Radiocarbon years BP,538.0,74.0,pollen,6/30/2007,154.0,1.2987012987
+3413,Loch Sionascaig,58.060556,-5.175,58.060556,58.060556,-5.175,-5.175,Vascular plants,Artemisia undiff.,10.0,NISP,pollen,,10306.0,,,Radiocarbon years BP,540.0,74.0,pollen,6/30/2007,152.0,6.57894736842
+3413,Loch Sionascaig,58.060556,-5.175,58.060556,58.060556,-5.175,-5.175,Vascular plants,Artemisia undiff.,1.0,NISP,pollen,,10354.0,,,Radiocarbon years BP,542.0,74.0,pollen,6/30/2007,150.0,0.666666666667
+3413,Loch Sionascaig,58.060556,-5.175,58.060556,58.060556,-5.175,-5.175,Vascular plants,Artemisia undiff.,3.0,NISP,pollen,,10401.0,,,Radiocarbon years BP,544.0,74.0,pollen,6/30/2007,97.0,3.09278350515
+3413,Loch Sionascaig,58.060556,-5.175,58.060556,58.060556,-5.175,-5.175,Vascular plants,Artemisia undiff.,1.0,NISP,pollen,,10449.0,,,Radiocarbon years BP,546.0,74.0,pollen,6/30/2007,152.0,0.657894736842
+3413,Loch Sionascaig,58.060556,-5.175,58.060556,58.060556,-5.175,-5.175,Vascular plants,Artemisia undiff.,1.0,NISP,pollen,,10496.0,,,Radiocarbon years BP,548.0,74.0,pollen,6/30/2007,150.0,0.666666666667
+3413,Loch Sionascaig,58.060556,-5.175,58.060556,58.060556,-5.175,-5.175,Vascular plants,Artemisia undiff.,2.0,NISP,pollen,,10544.0,,,Radiocarbon years BP,550.0,74.0,pollen,6/30/2007,151.0,1.32450331126
+3413,Loch Sionascaig,58.060556,-5.175,58.060556,58.060556,-5.175,-5.175,Vascular plants,Artemisia undiff.,1.0,NISP,pollen,,10591.0,,,Radiocarbon years BP,552.0,74.0,pollen,6/30/2007,150.0,0.666666666667
+3413,Loch Sionascaig,58.060556,-5.175,58.060556,58.060556,-5.175,-5.175,Vascular plants,Artemisia undiff.,1.0,NISP,pollen,,10615.0,,,Radiocarbon years BP,553.0,74.0,pollen,6/30/2007,152.0,0.657894736842
+3413,Loch Sionascaig,58.060556,-5.175,58.060556,58.060556,-5.175,-5.175,Vascular plants,Artemisia undiff.,2.0,NISP,pollen,,10639.0,,,Radiocarbon years BP,554.0,74.0,pollen,6/30/2007,153.0,1.30718954248
+3413,Loch Sionascaig,58.060556,-5.175,58.060556,58.060556,-5.175,-5.175,Vascular plants,Artemisia undiff.,2.0,NISP,pollen,,10687.0,,,Radiocarbon years BP,556.0,74.0,pollen,6/30/2007,152.0,1.31578947368
+3413,Loch Sionascaig,58.060556,-5.175,58.060556,58.060556,-5.175,-5.175,Vascular plants,Artemisia undiff.,1.0,NISP,pollen,,10710.0,,,Radiocarbon years BP,557.0,74.0,pollen,6/30/2007,150.0,0.666666666667
+3413,Loch Sionascaig,58.060556,-5.175,58.060556,58.060556,-5.175,-5.175,Vascular plants,Artemisia undiff.,1.0,NISP,pollen,,10758.0,,,Radiocarbon years BP,559.0,74.0,pollen,6/30/2007,150.0,0.666666666667
+3413,Loch Sionascaig,58.060556,-5.175,58.060556,58.060556,-5.175,-5.175,Vascular plants,Artemisia undiff.,1.0,NISP,pollen,,10782.0,,,Radiocarbon years BP,560.0,74.0,pollen,6/30/2007,150.0,0.666666666667
+3413,Loch Sionascaig,58.060556,-5.175,58.060556,58.060556,-5.175,-5.175,Vascular plants,Artemisia undiff.,1.0,NISP,pollen,,10829.0,,,Radiocarbon years BP,562.0,74.0,pollen,6/30/2007,151.0,0.662251655629
+3413,Loch Sionascaig,58.060556,-5.175,58.060556,58.060556,-5.175,-5.175,Vascular plants,Artemisia undiff.,1.0,NISP,pollen,,10924.0,,,Radiocarbon years BP,566.0,74.0,pollen,6/30/2007,151.0,0.662251655629
+3413,Loch Sionascaig,58.060556,-5.175,58.060556,58.060556,-5.175,-5.175,Vascular plants,Artemisia undiff.,1.0,NISP,pollen,,10972.0,,,Radiocarbon years BP,568.0,74.0,pollen,6/30/2007,150.0,0.666666666667
+3413,Loch Sionascaig,58.060556,-5.175,58.060556,58.060556,-5.175,-5.175,Vascular plants,Artemisia undiff.,1.0,NISP,pollen,,11019.0,,,Radiocarbon years BP,570.0,74.0,pollen,6/30/2007,151.0,0.662251655629
+3413,Loch Sionascaig,58.060556,-5.175,58.060556,58.060556,-5.175,-5.175,Vascular plants,Artemisia undiff.,1.0,NISP,pollen,,11162.0,,,Radiocarbon years BP,576.0,74.0,pollen,6/30/2007,149.0,0.671140939597
+3413,Loch Sionascaig,58.060556,-5.175,58.060556,58.060556,-5.175,-5.175,Vascular plants,Artemisia undiff.,4.0,NISP,pollen,,11233.0,,,Radiocarbon years BP,579.0,74.0,pollen,6/30/2007,151.0,2.64900662252
+3413,Loch Sionascaig,58.060556,-5.175,58.060556,58.060556,-5.175,-5.175,Vascular plants,Artemisia undiff.,3.0,NISP,pollen,,11257.0,,,Radiocarbon years BP,580.0,74.0,pollen,6/30/2007,101.0,2.9702970297
+3413,Loch Sionascaig,58.060556,-5.175,58.060556,58.060556,-5.175,-5.175,Vascular plants,Artemisia undiff.,6.0,NISP,pollen,,11281.0,,,Radiocarbon years BP,581.0,74.0,pollen,6/30/2007,151.0,3.97350993377
+3413,Loch Sionascaig,58.060556,-5.175,58.060556,58.060556,-5.175,-5.175,Vascular plants,Artemisia undiff.,5.0,NISP,pollen,,11328.0,,,Radiocarbon years BP,583.0,74.0,pollen,6/30/2007,152.0,3.28947368421
+3413,Loch Sionascaig,58.060556,-5.175,58.060556,58.060556,-5.175,-5.175,Vascular plants,Artemisia undiff.,3.0,NISP,pollen,,11352.0,,,Radiocarbon years BP,584.0,74.0,pollen,6/30/2007,150.0,2.0
+3413,Loch Sionascaig,58.060556,-5.175,58.060556,58.060556,-5.175,-5.175,Vascular plants,Artemisia undiff.,1.0,NISP,pollen,,11376.0,,,Radiocarbon years BP,585.0,74.0,pollen,6/30/2007,152.0,0.657894736842
+3413,Loch Sionascaig,58.060556,-5.175,58.060556,58.060556,-5.175,-5.175,Vascular plants,Artemisia undiff.,2.0,NISP,pollen,,11471.0,,,Radiocarbon years BP,589.0,74.0,pollen,6/30/2007,150.0,1.33333333333
+3413,Loch Sionascaig,58.060556,-5.175,58.060556,58.060556,-5.175,-5.175,Vascular plants,Artemisia undiff.,1.0,NISP,pollen,,11614.0,,,Radiocarbon years BP,595.0,74.0,pollen,6/30/2007,150.0,0.666666666667
+3413,Loch Sionascaig,58.060556,-5.175,58.060556,58.060556,-5.175,-5.175,Vascular plants,Artemisia undiff.,5.0,NISP,pollen,,11661.0,,,Radiocarbon years BP,597.0,74.0,pollen,6/30/2007,152.0,3.28947368421
+3413,Loch Sionascaig,58.060556,-5.175,58.060556,58.060556,-5.175,-5.175,Vascular plants,Artemisia undiff.,5.0,NISP,pollen,,11685.0,,,Radiocarbon years BP,598.0,74.0,pollen,6/30/2007,102.0,4.90196078431
+3425,Lochan an Smuraich,58.320556,-4.894444,58.320556,58.320556,-4.894444,-4.894444,Vascular plants,Artemisia undiff.,1.0,NISP,pollen,,,,,,235.0,37.0,pollen,6/30/2007,98.0,1.02040816327
+3425,Lochan an Smuraich,58.320556,-4.894444,58.320556,58.320556,-4.894444,-4.894444,Vascular plants,Artemisia undiff.,2.0,NISP,pollen,,,,,,237.0,37.0,pollen,6/30/2007,97.0,2.0618556701
+3425,Lochan an Smuraich,58.320556,-4.894444,58.320556,58.320556,-4.894444,-4.894444,Vascular plants,Artemisia undiff.,4.0,NISP,pollen,,,,,,240.0,37.0,pollen,6/30/2007,100.0,4.0
+3425,Lochan an Smuraich,58.320556,-4.894444,58.320556,58.320556,-4.894444,-4.894444,Vascular plants,Artemisia undiff.,5.0,NISP,pollen,,,,,,242.0,37.0,pollen,6/30/2007,51.0,9.80392156863
+3425,Lochan an Smuraich,58.320556,-4.894444,58.320556,58.320556,-4.894444,-4.894444,Vascular plants,Artemisia undiff.,2.0,NISP,pollen,,,,,,244.0,37.0,pollen,6/30/2007,100.0,2.0
+3425,Lochan an Smuraich,58.320556,-4.894444,58.320556,58.320556,-4.894444,-4.894444,Vascular plants,Artemisia undiff.,6.0,NISP,pollen,,,,,,245.0,37.0,pollen,6/30/2007,101.0,5.94059405941
+3425,Lochan an Smuraich,58.320556,-4.894444,58.320556,58.320556,-4.894444,-4.894444,Vascular plants,Artemisia undiff.,8.0,NISP,pollen,,,,,,247.0,37.0,pollen,6/30/2007,98.0,8.16326530612
+3425,Lochan an Smuraich,58.320556,-4.894444,58.320556,58.320556,-4.894444,-4.894444,Vascular plants,Artemisia undiff.,1.0,NISP,pollen,,,,,,250.0,37.0,pollen,6/30/2007,100.0,1.0
+3425,Lochan an Smuraich,58.320556,-4.894444,58.320556,58.320556,-4.894444,-4.894444,Vascular plants,Artemisia undiff.,4.0,NISP,pollen,,,,,,252.0,37.0,pollen,6/30/2007,198.0,2.0202020202
+3425,Lochan an Smuraich,58.320556,-4.894444,58.320556,58.320556,-4.894444,-4.894444,Vascular plants,Artemisia undiff.,1.0,NISP,pollen,,,,,,255.0,37.0,pollen,6/30/2007,101.0,0.990099009901
+3425,Lochan an Smuraich,58.320556,-4.894444,58.320556,58.320556,-4.894444,-4.894444,Vascular plants,Artemisia undiff.,1.0,NISP,pollen,,,,,,260.0,37.0,pollen,6/30/2007,98.0,1.02040816327
+3425,Lochan an Smuraich,58.320556,-4.894444,58.320556,58.320556,-4.894444,-4.894444,Vascular plants,Artemisia undiff.,3.0,NISP,pollen,,,,,,262.0,37.0,pollen,6/30/2007,200.0,1.5
+3425,Lochan an Smuraich,58.320556,-4.894444,58.320556,58.320556,-4.894444,-4.894444,Vascular plants,Artemisia undiff.,1.0,NISP,pollen,,,,,,270.0,37.0,pollen,6/30/2007,202.0,0.49504950495
+3425,Lochan an Smuraich,58.320556,-4.894444,58.320556,58.320556,-4.894444,-4.894444,Vascular plants,Artemisia undiff.,1.0,NISP,pollen,,,,,,272.0,37.0,pollen,6/30/2007,101.0,0.990099009901
+3425,Lochan an Smuraich,58.320556,-4.894444,58.320556,58.320556,-4.894444,-4.894444,Vascular plants,Artemisia undiff.,1.0,NISP,pollen,,,,,,275.0,37.0,pollen,6/30/2007,98.0,1.02040816327
+3425,Lochan an Smuraich,58.320556,-4.894444,58.320556,58.320556,-4.894444,-4.894444,Vascular plants,Artemisia undiff.,1.0,NISP,pollen,,,,,,277.0,37.0,pollen,6/30/2007,100.0,1.0
+3425,Lochan an Smuraich,58.320556,-4.894444,58.320556,58.320556,-4.894444,-4.894444,Vascular plants,Artemisia undiff.,1.0,NISP,pollen,,,,,,278.0,37.0,pollen,6/30/2007,100.0,1.0
+3425,Lochan an Smuraich,58.320556,-4.894444,58.320556,58.320556,-4.894444,-4.894444,Vascular plants,Artemisia undiff.,3.0,NISP,pollen,,,,,,279.0,37.0,pollen,6/30/2007,100.0,3.0
+3425,Lochan an Smuraich,58.320556,-4.894444,58.320556,58.320556,-4.894444,-4.894444,Vascular plants,Artemisia undiff.,1.0,NISP,pollen,,,,,,280.0,37.0,pollen,6/30/2007,100.0,1.0
+3425,Lochan an Smuraich,58.320556,-4.894444,58.320556,58.320556,-4.894444,-4.894444,Vascular plants,Artemisia undiff.,3.0,NISP,pollen,,,,,,281.0,37.0,pollen,6/30/2007,100.0,3.0
+3425,Lochan an Smuraich,58.320556,-4.894444,58.320556,58.320556,-4.894444,-4.894444,Vascular plants,Artemisia undiff.,2.0,NISP,pollen,,,,,,282.0,37.0,pollen,6/30/2007,101.0,1.9801980198
+3425,Lochan an Smuraich,58.320556,-4.894444,58.320556,58.320556,-4.894444,-4.894444,Vascular plants,Artemisia undiff.,4.0,NISP,pollen,,,,,,283.0,37.0,pollen,6/30/2007,99.0,4.0404040404
+3425,Lochan an Smuraich,58.320556,-4.894444,58.320556,58.320556,-4.894444,-4.894444,Vascular plants,Artemisia undiff.,3.0,NISP,pollen,,,,,,284.0,37.0,pollen,6/30/2007,100.0,3.0
+3425,Lochan an Smuraich,58.320556,-4.894444,58.320556,58.320556,-4.894444,-4.894444,Vascular plants,Artemisia undiff.,1.0,NISP,pollen,,,,,,285.0,37.0,pollen,6/30/2007,100.0,1.0
+3425,Lochan an Smuraich,58.320556,-4.894444,58.320556,58.320556,-4.894444,-4.894444,Vascular plants,Artemisia undiff.,1.0,NISP,pollen,,,,,,286.0,37.0,pollen,6/30/2007,101.0,0.990099009901
+3425,Lochan an Smuraich,58.320556,-4.894444,58.320556,58.320556,-4.894444,-4.894444,Vascular plants,Artemisia undiff.,1.0,NISP,pollen,,,,,,287.0,37.0,pollen,6/30/2007,91.0,1.0989010989
+3459,Loch Tarff,57.154167,-4.595833,57.154167,57.154167,-4.595833,-4.595833,Vascular plants,Artemisia undiff.,1.0,NISP,pollen,,,,,,218.0,291.0,pollen,6/30/2007,152.0,0.657894736842
+3459,Loch Tarff,57.154167,-4.595833,57.154167,57.154167,-4.595833,-4.595833,Vascular plants,Artemisia undiff.,1.0,NISP,pollen,,,,,,223.0,291.0,pollen,6/30/2007,150.0,0.666666666667
+3459,Loch Tarff,57.154167,-4.595833,57.154167,57.154167,-4.595833,-4.595833,Vascular plants,Artemisia undiff.,1.0,NISP,pollen,,,,,,225.0,291.0,pollen,6/30/2007,150.0,0.666666666667
+3459,Loch Tarff,57.154167,-4.595833,57.154167,57.154167,-4.595833,-4.595833,Vascular plants,Artemisia undiff.,1.0,NISP,pollen,,,,,,228.0,291.0,pollen,6/30/2007,151.0,0.662251655629
+3459,Loch Tarff,57.154167,-4.595833,57.154167,57.154167,-4.595833,-4.595833,Vascular plants,Artemisia undiff.,39.0,NISP,pollen,,,,,,230.0,291.0,pollen,6/30/2007,151.0,25.8278145695
+3459,Loch Tarff,57.154167,-4.595833,57.154167,57.154167,-4.595833,-4.595833,Vascular plants,Artemisia undiff.,51.0,NISP,pollen,,,,,,231.0,291.0,pollen,6/30/2007,152.0,33.5526315789
+3459,Loch Tarff,57.154167,-4.595833,57.154167,57.154167,-4.595833,-4.595833,Vascular plants,Artemisia undiff.,36.0,NISP,pollen,,,,,,232.0,291.0,pollen,6/30/2007,150.0,24.0
+3459,Loch Tarff,57.154167,-4.595833,57.154167,57.154167,-4.595833,-4.595833,Vascular plants,Artemisia undiff.,8.0,NISP,pollen,,,,,,233.0,291.0,pollen,6/30/2007,150.0,5.33333333333
+3459,Loch Tarff,57.154167,-4.595833,57.154167,57.154167,-4.595833,-4.595833,Vascular plants,Artemisia undiff.,1.0,NISP,pollen,,,,,,234.0,291.0,pollen,6/30/2007,150.0,0.666666666667
+3459,Loch Tarff,57.154167,-4.595833,57.154167,57.154167,-4.595833,-4.595833,Vascular plants,Artemisia undiff.,1.0,NISP,pollen,,,,,,235.0,291.0,pollen,6/30/2007,202.0,0.49504950495
+3459,Loch Tarff,57.154167,-4.595833,57.154167,57.154167,-4.595833,-4.595833,Vascular plants,Artemisia undiff.,1.0,NISP,pollen,,,,,,236.0,291.0,pollen,6/30/2007,150.0,0.666666666667
+3459,Loch Tarff,57.154167,-4.595833,57.154167,57.154167,-4.595833,-4.595833,Vascular plants,Artemisia undiff.,1.0,NISP,pollen,,,,,,237.0,291.0,pollen,6/30/2007,151.0,0.662251655629
+3459,Loch Tarff,57.154167,-4.595833,57.154167,57.154167,-4.595833,-4.595833,Vascular plants,Artemisia undiff.,2.0,NISP,pollen,,,,,,238.0,291.0,pollen,6/30/2007,150.0,1.33333333333
+3459,Loch Tarff,57.154167,-4.595833,57.154167,57.154167,-4.595833,-4.595833,Vascular plants,Artemisia undiff.,2.0,NISP,pollen,,,,,,239.0,291.0,pollen,6/30/2007,150.0,1.33333333333
+3459,Loch Tarff,57.154167,-4.595833,57.154167,57.154167,-4.595833,-4.595833,Vascular plants,Artemisia undiff.,1.0,NISP,pollen,,,,,,240.0,291.0,pollen,6/30/2007,152.0,0.657894736842
+3459,Loch Tarff,57.154167,-4.595833,57.154167,57.154167,-4.595833,-4.595833,Vascular plants,Artemisia undiff.,1.0,NISP,pollen,,,,,,241.0,291.0,pollen,6/30/2007,150.0,0.666666666667
+3459,Loch Tarff,57.154167,-4.595833,57.154167,57.154167,-4.595833,-4.595833,Vascular plants,Artemisia undiff.,1.0,NISP,pollen,,,,,,242.0,291.0,pollen,6/30/2007,150.0,0.666666666667
+3459,Loch Tarff,57.154167,-4.595833,57.154167,57.154167,-4.595833,-4.595833,Vascular plants,Artemisia undiff.,2.0,NISP,pollen,,,,,,243.0,291.0,pollen,6/30/2007,149.0,1.34228187919
+3459,Loch Tarff,57.154167,-4.595833,57.154167,57.154167,-4.595833,-4.595833,Vascular plants,Artemisia undiff.,1.0,NISP,pollen,,,,,,244.0,291.0,pollen,6/30/2007,150.0,0.666666666667
+3459,Loch Tarff,57.154167,-4.595833,57.154167,57.154167,-4.595833,-4.595833,Vascular plants,Artemisia undiff.,2.0,NISP,pollen,,,,,,245.0,291.0,pollen,6/30/2007,151.0,1.32450331126
+3459,Loch Tarff,57.154167,-4.595833,57.154167,57.154167,-4.595833,-4.595833,Vascular plants,Artemisia undiff.,2.0,NISP,pollen,,,,,,248.0,291.0,pollen,6/30/2007,150.0,1.33333333333
+3459,Loch Tarff,57.154167,-4.595833,57.154167,57.154167,-4.595833,-4.595833,Vascular plants,Artemisia undiff.,3.0,NISP,pollen,,,,,,249.0,291.0,pollen,6/30/2007,152.0,1.97368421053
+3459,Loch Tarff,57.154167,-4.595833,57.154167,57.154167,-4.595833,-4.595833,Vascular plants,Artemisia undiff.,3.0,NISP,pollen,,,,,,250.0,291.0,pollen,6/30/2007,151.0,1.98675496689
+3459,Loch Tarff,57.154167,-4.595833,57.154167,57.154167,-4.595833,-4.595833,Vascular plants,Artemisia undiff.,6.0,NISP,pollen,,,,,,251.0,291.0,pollen,6/30/2007,150.0,4.0
+3459,Loch Tarff,57.154167,-4.595833,57.154167,57.154167,-4.595833,-4.595833,Vascular plants,Artemisia undiff.,5.0,NISP,pollen,,,,,,252.0,291.0,pollen,6/30/2007,150.0,3.33333333333
+3459,Loch Tarff,57.154167,-4.595833,57.154167,57.154167,-4.595833,-4.595833,Vascular plants,Artemisia undiff.,3.0,NISP,pollen,,,,,,253.0,291.0,pollen,6/30/2007,150.0,2.0
+3459,Loch Tarff,57.154167,-4.595833,57.154167,57.154167,-4.595833,-4.595833,Vascular plants,Artemisia undiff.,3.0,NISP,pollen,,,,,,254.0,291.0,pollen,6/30/2007,150.0,2.0
+3459,Loch Tarff,57.154167,-4.595833,57.154167,57.154167,-4.595833,-4.595833,Vascular plants,Artemisia undiff.,7.0,NISP,pollen,,,,,,255.0,291.0,pollen,6/30/2007,100.0,7.0
+3459,Loch Tarff,57.154167,-4.595833,57.154167,57.154167,-4.595833,-4.595833,Vascular plants,Artemisia undiff.,2.0,NISP,pollen,,,,,,256.0,291.0,pollen,6/30/2007,104.0,1.92307692308
+3459,Loch Tarff,57.154167,-4.595833,57.154167,57.154167,-4.595833,-4.595833,Vascular plants,Artemisia undiff.,1.0,NISP,pollen,,,,,,257.0,291.0,pollen,6/30/2007,67.0,1.49253731343

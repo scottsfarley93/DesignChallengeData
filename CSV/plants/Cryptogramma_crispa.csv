@@ -1,0 +1,26 @@
+siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
+9,Adange,43.305556,41.333333,43.305556,43.305556,41.333333,41.333333,Vascular plants,Cryptogramma crispa,2.0,NISP,spore,,449.0,,,Radiocarbon years BP,42.0,1750.0,pollen,6/30/2007,208.0,0.961538461538
+9,Adange,43.305556,41.333333,43.305556,43.305556,41.333333,41.333333,Vascular plants,Cryptogramma crispa,2.0,NISP,spore,,798.0,,,Radiocarbon years BP,73.0,1750.0,pollen,6/30/2007,250.0,0.8
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Cryptogramma crispa,1.0,NISP,spore,,8114.0,,,Radiocarbon years BP,2095.0,4.0,pollen,6/30/2007,244.0,0.409836065574
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Cryptogramma crispa,2.0,NISP,spore,,8411.0,,,Radiocarbon years BP,2205.0,4.0,pollen,6/30/2007,215.0,0.93023255814
+3043,Cam Loch,58.083333,-5.0,58.083333,58.083333,-5.0,-5.0,Vascular plants,Cryptogramma crispa,1.0,NISP,spore,,10585.0,,,Radiocarbon years BP,540.0,130.0,pollen,6/30/2007,147.0,0.680272108844
+3043,Cam Loch,58.083333,-5.0,58.083333,58.083333,-5.0,-5.0,Vascular plants,Cryptogramma crispa,1.0,NISP,spore,,10698.0,,,Radiocarbon years BP,550.0,130.0,pollen,6/30/2007,155.0,0.645161290323
+3043,Cam Loch,58.083333,-5.0,58.083333,58.083333,-5.0,-5.0,Vascular plants,Cryptogramma crispa,1.0,NISP,spore,,10942.0,,,Radiocarbon years BP,556.0,130.0,pollen,6/30/2007,225.0,0.444444444444
+3043,Cam Loch,58.083333,-5.0,58.083333,58.083333,-5.0,-5.0,Vascular plants,Cryptogramma crispa,1.0,NISP,spore,,12623.0,,,Radiocarbon years BP,586.0,130.0,pollen,6/30/2007,100.0,1.0
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Cryptogramma crispa,1.0,NISP,spore,,,,,,410.0,20.0,pollen,6/30/2007,396.0,0.252525252525
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Cryptogramma crispa,2.0,NISP,spore,,,,,,415.0,20.0,pollen,6/30/2007,191.0,1.04712041885
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Cryptogramma crispa,2.0,NISP,spore,,,,,,420.0,20.0,pollen,6/30/2007,254.0,0.787401574803
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Cryptogramma crispa,1.0,NISP,spore,,,,,,435.0,20.0,pollen,6/30/2007,143.0,0.699300699301
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Cryptogramma crispa,2.0,NISP,spore,,,,,,440.0,20.0,pollen,6/30/2007,324.0,0.617283950617
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Cryptogramma crispa,1.0,NISP,spore,,,,,,445.0,20.0,pollen,6/30/2007,135.0,0.740740740741
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Cryptogramma crispa,1.0,NISP,spore,,,,,,490.0,20.0,pollen,6/30/2007,212.0,0.471698113208
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Cryptogramma crispa,1.0,NISP,spore,,,,,,495.0,20.0,pollen,6/30/2007,112.0,0.892857142857
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Cryptogramma crispa,1.0,NISP,spore,,,,,,500.0,20.0,pollen,6/30/2007,157.0,0.636942675159
+3125,Lochan coir a' Ghobhainn,57.183333,-6.3,57.183333,57.183333,-6.3,-6.3,Vascular plants,Cryptogramma crispa,2.0,NISP,spore,,9458.0,,,Radiocarbon years BP,340.0,82.0,pollen,6/30/2007,1304.0,0.153374233129
+3125,Lochan coir a' Ghobhainn,57.183333,-6.3,57.183333,57.183333,-6.3,-6.3,Vascular plants,Cryptogramma crispa,2.0,NISP,spore,,9506.0,,,Radiocarbon years BP,345.0,82.0,pollen,6/30/2007,1103.0,0.181323662738
+3125,Lochan coir a' Ghobhainn,57.183333,-6.3,57.183333,57.183333,-6.3,-6.3,Vascular plants,Cryptogramma crispa,4.0,NISP,spore,,9601.0,,,Radiocarbon years BP,355.0,82.0,pollen,6/30/2007,1521.0,0.262984878369
+3125,Lochan coir a' Ghobhainn,57.183333,-6.3,57.183333,57.183333,-6.3,-6.3,Vascular plants,Cryptogramma crispa,1.0,NISP,spore,,9868.0,,,Radiocarbon years BP,370.0,82.0,pollen,6/30/2007,1321.0,0.0757002271007
+3125,Lochan coir a' Ghobhainn,57.183333,-6.3,57.183333,57.183333,-6.3,-6.3,Vascular plants,Cryptogramma crispa,1.0,NISP,spore,,10254.0,,,Radiocarbon years BP,382.0,82.0,pollen,6/30/2007,771.0,0.129701686122
+3125,Lochan coir a' Ghobhainn,57.183333,-6.3,57.183333,57.183333,-6.3,-6.3,Vascular plants,Cryptogramma crispa,3.0,NISP,spore,,10351.0,,,Radiocarbon years BP,385.0,82.0,pollen,6/30/2007,871.0,0.344431687715
+3125,Lochan coir a' Ghobhainn,57.183333,-6.3,57.183333,57.183333,-6.3,-6.3,Vascular plants,Cryptogramma crispa,4.0,NISP,spore,,10415.0,,,Radiocarbon years BP,387.0,82.0,pollen,6/30/2007,686.0,0.583090379009
+3125,Lochan coir a' Ghobhainn,57.183333,-6.3,57.183333,57.183333,-6.3,-6.3,Vascular plants,Cryptogramma crispa,4.0,NISP,spore,,10511.0,,,Radiocarbon years BP,390.0,82.0,pollen,6/30/2007,379.0,1.05540897098

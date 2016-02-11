@@ -1,0 +1,236 @@
+siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
+9,Adange,43.305556,41.333333,43.305556,43.305556,41.333333,41.333333,Vascular plants,Carpinus betulus,1.0,NISP,pollen,,0.0,,,Radiocarbon years BP,2.0,1750.0,pollen,6/30/2007,137.0,0.729927007299
+9,Adange,43.305556,41.333333,43.305556,43.305556,41.333333,41.333333,Vascular plants,Carpinus betulus,1.0,NISP,pollen,,34.0,,,Radiocarbon years BP,5.0,1750.0,pollen,6/30/2007,112.0,0.892857142857
+9,Adange,43.305556,41.333333,43.305556,43.305556,41.333333,41.333333,Vascular plants,Carpinus betulus,3.0,NISP,pollen,,45.0,,,Radiocarbon years BP,6.0,1750.0,pollen,6/30/2007,191.0,1.57068062827
+9,Adange,43.305556,41.333333,43.305556,43.305556,41.333333,41.333333,Vascular plants,Carpinus betulus,1.0,NISP,pollen,,79.0,,,Radiocarbon years BP,9.0,1750.0,pollen,6/30/2007,249.0,0.401606425703
+9,Adange,43.305556,41.333333,43.305556,43.305556,41.333333,41.333333,Vascular plants,Carpinus betulus,2.0,NISP,pollen,,202.0,,,Radiocarbon years BP,20.0,1750.0,pollen,6/30/2007,117.0,1.7094017094
+9,Adange,43.305556,41.333333,43.305556,43.305556,41.333333,41.333333,Vascular plants,Carpinus betulus,1.0,NISP,pollen,,258.0,,,Radiocarbon years BP,25.0,1750.0,pollen,6/30/2007,197.0,0.507614213198
+9,Adange,43.305556,41.333333,43.305556,43.305556,41.333333,41.333333,Vascular plants,Carpinus betulus,3.0,NISP,pollen,,404.0,,,Radiocarbon years BP,38.0,1750.0,pollen,6/30/2007,259.0,1.1583011583
+9,Adange,43.305556,41.333333,43.305556,43.305556,41.333333,41.333333,Vascular plants,Carpinus betulus,6.0,NISP,pollen,,449.0,,,Radiocarbon years BP,42.0,1750.0,pollen,6/30/2007,208.0,2.88461538462
+9,Adange,43.305556,41.333333,43.305556,43.305556,41.333333,41.333333,Vascular plants,Carpinus betulus,2.0,NISP,pollen,,494.0,,,Radiocarbon years BP,46.0,1750.0,pollen,6/30/2007,146.0,1.3698630137
+9,Adange,43.305556,41.333333,43.305556,43.305556,41.333333,41.333333,Vascular plants,Carpinus betulus,3.0,NISP,pollen,,539.0,,,Radiocarbon years BP,50.0,1750.0,pollen,6/30/2007,210.0,1.42857142857
+9,Adange,43.305556,41.333333,43.305556,43.305556,41.333333,41.333333,Vascular plants,Carpinus betulus,1.0,NISP,pollen,,579.0,,,Radiocarbon years BP,53.5,1750.0,pollen,6/30/2007,124.0,0.806451612903
+9,Adange,43.305556,41.333333,43.305556,43.305556,41.333333,41.333333,Vascular plants,Carpinus betulus,1.0,NISP,pollen,,612.0,,,Radiocarbon years BP,56.5,1750.0,pollen,6/30/2007,175.0,0.571428571429
+9,Adange,43.305556,41.333333,43.305556,43.305556,41.333333,41.333333,Vascular plants,Carpinus betulus,4.0,NISP,pollen,,635.0,,,Radiocarbon years BP,58.5,1750.0,pollen,6/30/2007,236.0,1.69491525424
+9,Adange,43.305556,41.333333,43.305556,43.305556,41.333333,41.333333,Vascular plants,Carpinus betulus,7.0,NISP,pollen,,674.0,,,Radiocarbon years BP,62.0,1750.0,pollen,6/30/2007,278.0,2.51798561151
+9,Adange,43.305556,41.333333,43.305556,43.305556,41.333333,41.333333,Vascular plants,Carpinus betulus,4.0,NISP,pollen,,725.0,,,Radiocarbon years BP,66.5,1750.0,pollen,6/30/2007,209.0,1.91387559809
+9,Adange,43.305556,41.333333,43.305556,43.305556,41.333333,41.333333,Vascular plants,Carpinus betulus,3.0,NISP,pollen,,764.0,,,Radiocarbon years BP,70.0,1750.0,pollen,6/30/2007,233.0,1.28755364807
+9,Adange,43.305556,41.333333,43.305556,43.305556,41.333333,41.333333,Vascular plants,Carpinus betulus,1.0,NISP,pollen,,831.0,,,Radiocarbon years BP,76.0,1750.0,pollen,6/30/2007,173.0,0.578034682081
+9,Adange,43.305556,41.333333,43.305556,43.305556,41.333333,41.333333,Vascular plants,Carpinus betulus,1.0,NISP,pollen,,843.0,,,Radiocarbon years BP,77.0,1750.0,pollen,6/30/2007,183.0,0.546448087432
+9,Adange,43.305556,41.333333,43.305556,43.305556,41.333333,41.333333,Vascular plants,Carpinus betulus,4.0,NISP,pollen,,899.0,,,Radiocarbon years BP,82.0,1750.0,pollen,6/30/2007,214.0,1.8691588785
+9,Adange,43.305556,41.333333,43.305556,43.305556,41.333333,41.333333,Vascular plants,Carpinus betulus,3.0,NISP,pollen,,1083.0,,,Radiocarbon years BP,87.0,1750.0,pollen,6/30/2007,144.0,2.08333333333
+9,Adange,43.305556,41.333333,43.305556,43.305556,41.333333,41.333333,Vascular plants,Carpinus betulus,2.0,NISP,pollen,,1298.0,,,Radiocarbon years BP,92.0,1750.0,pollen,6/30/2007,139.0,1.43884892086
+9,Adange,43.305556,41.333333,43.305556,43.305556,41.333333,41.333333,Vascular plants,Carpinus betulus,1.0,NISP,pollen,,1514.0,,,Radiocarbon years BP,97.0,1750.0,pollen,6/30/2007,189.0,0.529100529101
+9,Adange,43.305556,41.333333,43.305556,43.305556,41.333333,41.333333,Vascular plants,Carpinus betulus,4.0,NISP,pollen,,1730.0,,,Radiocarbon years BP,102.0,1750.0,pollen,6/30/2007,165.0,2.42424242424
+9,Adange,43.305556,41.333333,43.305556,43.305556,41.333333,41.333333,Vascular plants,Carpinus betulus,2.0,NISP,pollen,,1989.0,,,Radiocarbon years BP,108.0,1750.0,pollen,6/30/2007,186.0,1.0752688172
+9,Adange,43.305556,41.333333,43.305556,43.305556,41.333333,41.333333,Vascular plants,Carpinus betulus,4.0,NISP,pollen,,2053.0,,,Radiocarbon years BP,109.5,1750.0,pollen,6/30/2007,135.0,2.96296296296
+9,Adange,43.305556,41.333333,43.305556,43.305556,41.333333,41.333333,Vascular plants,Carpinus betulus,2.0,NISP,pollen,,2475.0,,,Radiocarbon years BP,120.5,1750.0,pollen,6/30/2007,153.0,1.30718954248
+9,Adange,43.305556,41.333333,43.305556,43.305556,41.333333,41.333333,Vascular plants,Carpinus betulus,3.0,NISP,pollen,,2573.0,,,Radiocarbon years BP,125.0,1750.0,pollen,6/30/2007,215.0,1.39534883721
+9,Adange,43.305556,41.333333,43.305556,43.305556,41.333333,41.333333,Vascular plants,Carpinus betulus,3.0,NISP,pollen,,2595.0,,,Radiocarbon years BP,126.0,1750.0,pollen,6/30/2007,159.0,1.88679245283
+9,Adange,43.305556,41.333333,43.305556,43.305556,41.333333,41.333333,Vascular plants,Carpinus betulus,3.0,NISP,pollen,,2791.0,,,Radiocarbon years BP,135.0,1750.0,pollen,6/30/2007,197.0,1.52284263959
+9,Adange,43.305556,41.333333,43.305556,43.305556,41.333333,41.333333,Vascular plants,Carpinus betulus,1.0,NISP,pollen,,2900.0,,,Radiocarbon years BP,140.0,1750.0,pollen,6/30/2007,181.0,0.552486187845
+9,Adange,43.305556,41.333333,43.305556,43.305556,41.333333,41.333333,Vascular plants,Carpinus betulus,2.0,NISP,pollen,,3175.0,,,Radiocarbon years BP,155.0,1750.0,pollen,6/30/2007,220.0,0.909090909091
+9,Adange,43.305556,41.333333,43.305556,43.305556,41.333333,41.333333,Vascular plants,Carpinus betulus,1.0,NISP,pollen,,3184.0,,,Radiocarbon years BP,155.5,1750.0,pollen,6/30/2007,260.0,0.384615384615
+9,Adange,43.305556,41.333333,43.305556,43.305556,41.333333,41.333333,Vascular plants,Carpinus betulus,2.0,NISP,pollen,,3908.0,,,Radiocarbon years BP,195.0,1750.0,pollen,6/30/2007,261.0,0.766283524904
+9,Adange,43.305556,41.333333,43.305556,43.305556,41.333333,41.333333,Vascular plants,Carpinus betulus,5.0,NISP,pollen,,3945.0,,,Radiocarbon years BP,197.0,1750.0,pollen,6/30/2007,354.0,1.41242937853
+200,Amtkel,43.268056,41.308333,43.268056,43.268056,41.308333,41.308333,Vascular plants,Carpinus betulus,1.0,NISP,pollen,,613.0,,,Radiocarbon years BP,30.0,1830.0,pollen,6/30/2007,303.0,0.3300330033
+200,Amtkel,43.268056,41.308333,43.268056,43.268056,41.308333,41.308333,Vascular plants,Carpinus betulus,2.0,NISP,pollen,,756.0,,,Radiocarbon years BP,37.0,1830.0,pollen,6/30/2007,527.0,0.379506641366
+200,Amtkel,43.268056,41.308333,43.268056,43.268056,41.308333,41.308333,Vascular plants,Carpinus betulus,6.0,NISP,pollen,,878.0,,,Radiocarbon years BP,43.0,1830.0,pollen,6/30/2007,465.0,1.29032258065
+200,Amtkel,43.268056,41.308333,43.268056,43.268056,41.308333,41.308333,Vascular plants,Carpinus betulus,1.0,NISP,pollen,,1008.0,,,Radiocarbon years BP,50.0,1830.0,pollen,6/30/2007,305.0,0.327868852459
+200,Amtkel,43.268056,41.308333,43.268056,43.268056,41.308333,41.308333,Vascular plants,Carpinus betulus,3.0,NISP,pollen,,1098.0,,,Radiocarbon years BP,56.0,1830.0,pollen,6/30/2007,258.0,1.16279069767
+200,Amtkel,43.268056,41.308333,43.268056,43.268056,41.308333,41.308333,Vascular plants,Carpinus betulus,6.0,NISP,pollen,,1219.0,,,Radiocarbon years BP,64.0,1830.0,pollen,6/30/2007,301.0,1.99335548173
+200,Amtkel,43.268056,41.308333,43.268056,43.268056,41.308333,41.308333,Vascular plants,Carpinus betulus,4.0,NISP,pollen,,1370.0,,,Radiocarbon years BP,74.0,1830.0,pollen,6/30/2007,416.0,0.961538461538
+200,Amtkel,43.268056,41.308333,43.268056,43.268056,41.308333,41.308333,Vascular plants,Carpinus betulus,4.0,NISP,pollen,,1839.0,,,Radiocarbon years BP,103.0,1830.0,pollen,6/30/2007,243.0,1.64609053498
+517,Starniki,50.266667,26.016667,50.266667,50.266667,26.016667,26.016667,Vascular plants,Carpinus betulus,1.0,NISP,pollen,,405.0,,,Radiocarbon years BP,12.5,198.0,pollen,6/30/2007,314.0,0.31847133758
+517,Starniki,50.266667,26.016667,50.266667,50.266667,26.016667,26.016667,Vascular plants,Carpinus betulus,8.0,NISP,pollen,,783.0,,,Radiocarbon years BP,25.0,198.0,pollen,6/30/2007,289.0,2.76816608997
+517,Starniki,50.266667,26.016667,50.266667,50.266667,26.016667,26.016667,Vascular plants,Carpinus betulus,2.0,NISP,pollen,,1160.0,,,Radiocarbon years BP,37.5,198.0,pollen,6/30/2007,307.0,0.651465798046
+517,Starniki,50.266667,26.016667,50.266667,50.266667,26.016667,26.016667,Vascular plants,Carpinus betulus,1.0,NISP,pollen,,1538.0,,,Radiocarbon years BP,50.0,198.0,pollen,6/30/2007,291.0,0.343642611684
+517,Starniki,50.266667,26.016667,50.266667,50.266667,26.016667,26.016667,Vascular plants,Carpinus betulus,1.0,NISP,pollen,,1907.0,,,Radiocarbon years BP,62.5,198.0,pollen,6/30/2007,286.0,0.34965034965
+517,Starniki,50.266667,26.016667,50.266667,50.266667,26.016667,26.016667,Vascular plants,Carpinus betulus,3.0,NISP,pollen,,2276.0,,,Radiocarbon years BP,87.5,198.0,pollen,6/30/2007,322.0,0.931677018634
+517,Starniki,50.266667,26.016667,50.266667,50.266667,26.016667,26.016667,Vascular plants,Carpinus betulus,1.0,NISP,pollen,,2460.0,,,Radiocarbon years BP,100.0,198.0,pollen,6/30/2007,313.0,0.319488817891
+517,Starniki,50.266667,26.016667,50.266667,50.266667,26.016667,26.016667,Vascular plants,Carpinus betulus,1.0,NISP,pollen,,2728.0,,,Radiocarbon years BP,112.5,198.0,pollen,6/30/2007,318.0,0.314465408805
+517,Starniki,50.266667,26.016667,50.266667,50.266667,26.016667,26.016667,Vascular plants,Carpinus betulus,2.0,NISP,pollen,,3263.0,,,Radiocarbon years BP,137.5,198.0,pollen,6/30/2007,308.0,0.649350649351
+517,Starniki,50.266667,26.016667,50.266667,50.266667,26.016667,26.016667,Vascular plants,Carpinus betulus,2.0,NISP,pollen,,3530.0,,,Radiocarbon years BP,150.0,198.0,pollen,6/30/2007,301.0,0.664451827243
+517,Starniki,50.266667,26.016667,50.266667,50.266667,26.016667,26.016667,Vascular plants,Carpinus betulus,1.0,NISP,pollen,,4220.0,,,Radiocarbon years BP,187.5,198.0,pollen,6/30/2007,293.0,0.341296928328
+517,Starniki,50.266667,26.016667,50.266667,50.266667,26.016667,26.016667,Vascular plants,Carpinus betulus,2.0,NISP,pollen,,4918.0,,,Radiocarbon years BP,212.5,198.0,pollen,6/30/2007,314.0,0.636942675159
+517,Starniki,50.266667,26.016667,50.266667,50.266667,26.016667,26.016667,Vascular plants,Carpinus betulus,1.0,NISP,pollen,,5853.0,,,Radiocarbon years BP,237.5,198.0,pollen,6/30/2007,295.0,0.338983050847
+517,Starniki,50.266667,26.016667,50.266667,50.266667,26.016667,26.016667,Vascular plants,Carpinus betulus,2.0,NISP,pollen,,6320.0,,,Radiocarbon years BP,250.0,198.0,pollen,6/30/2007,294.0,0.680272108844
+517,Starniki,50.266667,26.016667,50.266667,50.266667,26.016667,26.016667,Vascular plants,Carpinus betulus,4.0,NISP,pollen,,7035.0,,,Radiocarbon years BP,275.0,198.0,pollen,6/30/2007,339.0,1.17994100295
+517,Starniki,50.266667,26.016667,50.266667,50.266667,26.016667,26.016667,Vascular plants,Carpinus betulus,3.0,NISP,pollen,,7393.0,,,Radiocarbon years BP,287.5,198.0,pollen,6/30/2007,321.0,0.934579439252
+517,Starniki,50.266667,26.016667,50.266667,50.266667,26.016667,26.016667,Vascular plants,Carpinus betulus,1.0,NISP,pollen,,7750.0,,,Radiocarbon years BP,300.0,198.0,pollen,6/30/2007,295.0,0.338983050847
+517,Starniki,50.266667,26.016667,50.266667,50.266667,26.016667,26.016667,Vascular plants,Carpinus betulus,1.0,NISP,pollen,,11750.0,,,Radiocarbon years BP,450.0,198.0,pollen,6/30/2007,332.0,0.301204819277
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Carpinus betulus,2.0,NISP,pollen,,128.0,,,Radiocarbon years BP,40.0,,pollen,6/30/2007,252.0,0.793650793651
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Carpinus betulus,4.0,NISP,pollen,,253.0,,,Radiocarbon years BP,50.0,,pollen,6/30/2007,289.0,1.38408304498
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Carpinus betulus,12.0,NISP,pollen,,374.0,,,Radiocarbon years BP,60.0,,pollen,6/30/2007,280.0,4.28571428571
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Carpinus betulus,11.0,NISP,pollen,,491.0,,,Radiocarbon years BP,70.0,,pollen,6/30/2007,297.0,3.7037037037
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Carpinus betulus,4.0,NISP,pollen,,605.0,,,Radiocarbon years BP,80.0,,pollen,6/30/2007,292.0,1.3698630137
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Carpinus betulus,7.0,NISP,pollen,,714.0,,,Radiocarbon years BP,90.0,,pollen,6/30/2007,283.0,2.47349823322
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Carpinus betulus,16.0,NISP,pollen,,820.0,,,Radiocarbon years BP,100.0,,pollen,6/30/2007,339.0,4.7197640118
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Carpinus betulus,6.0,NISP,pollen,,1021.0,,,Radiocarbon years BP,120.0,,pollen,6/30/2007,353.0,1.69971671388
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Carpinus betulus,5.0,NISP,pollen,,1116.0,,,Radiocarbon years BP,130.0,,pollen,6/30/2007,395.0,1.26582278481
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Carpinus betulus,8.0,NISP,pollen,,1206.0,,,Radiocarbon years BP,140.0,,pollen,6/30/2007,370.0,2.16216216216
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Carpinus betulus,17.0,NISP,pollen,,1294.0,,,Radiocarbon years BP,150.0,,pollen,6/30/2007,467.0,3.64025695931
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Carpinus betulus,21.0,NISP,pollen,,1377.0,,,Radiocarbon years BP,160.0,,pollen,6/30/2007,460.0,4.5652173913
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Carpinus betulus,11.0,NISP,pollen,,1457.0,,,Radiocarbon years BP,170.0,,pollen,6/30/2007,390.0,2.82051282051
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Carpinus betulus,41.0,NISP,pollen,,1533.0,,,Radiocarbon years BP,180.0,,pollen,6/30/2007,572.0,7.16783216783
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Carpinus betulus,4.0,NISP,pollen,,1605.0,,,Radiocarbon years BP,190.0,,pollen,6/30/2007,399.0,1.00250626566
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Carpinus betulus,10.0,NISP,pollen,,1674.0,,,Radiocarbon years BP,200.0,,pollen,6/30/2007,372.0,2.68817204301
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Carpinus betulus,6.0,NISP,pollen,,1739.0,,,Radiocarbon years BP,210.0,,pollen,6/30/2007,378.0,1.5873015873
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Carpinus betulus,10.0,NISP,pollen,,1800.0,,,Radiocarbon years BP,220.0,,pollen,6/30/2007,366.0,2.73224043716
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Carpinus betulus,18.0,NISP,pollen,,1857.0,,,Radiocarbon years BP,230.0,,pollen,6/30/2007,478.0,3.76569037657
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Carpinus betulus,15.0,NISP,pollen,,1910.0,,,Radiocarbon years BP,240.0,,pollen,6/30/2007,477.0,3.14465408805
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Carpinus betulus,44.0,NISP,pollen,,1960.0,,,Radiocarbon years BP,250.0,,pollen,6/30/2007,466.0,9.44206008584
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Carpinus betulus,30.0,NISP,pollen,,2006.0,,,Radiocarbon years BP,260.0,,pollen,6/30/2007,358.0,8.37988826816
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Carpinus betulus,24.0,NISP,pollen,,2049.0,,,Radiocarbon years BP,270.0,,pollen,6/30/2007,489.0,4.90797546012
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Carpinus betulus,33.0,NISP,pollen,,2087.0,,,Radiocarbon years BP,280.0,,pollen,6/30/2007,456.0,7.23684210526
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Carpinus betulus,50.0,NISP,pollen,,2122.0,,,Radiocarbon years BP,290.0,,pollen,6/30/2007,557.0,8.97666068223
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Carpinus betulus,26.0,NISP,pollen,,2153.0,,,Radiocarbon years BP,300.0,,pollen,6/30/2007,446.0,5.82959641256
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Carpinus betulus,25.0,NISP,pollen,,2181.0,,,Radiocarbon years BP,310.0,,pollen,6/30/2007,471.0,5.30785562633
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Carpinus betulus,20.0,NISP,pollen,,2204.0,,,Radiocarbon years BP,320.0,,pollen,6/30/2007,406.0,4.92610837438
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Carpinus betulus,7.0,NISP,pollen,,2224.0,,,Radiocarbon years BP,330.0,,pollen,6/30/2007,412.0,1.69902912621
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Carpinus betulus,1.0,NISP,pollen,,2240.0,,,Radiocarbon years BP,340.0,,pollen,6/30/2007,301.0,0.332225913621
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Carpinus betulus,1.0,NISP,pollen,,2956.0,,,Radiocarbon years BP,350.0,,pollen,6/30/2007,360.0,0.277777777778
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Carpinus betulus,10.0,NISP,pollen,,3782.0,,,Radiocarbon years BP,360.0,,pollen,6/30/2007,524.0,1.90839694656
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Carpinus betulus,6.0,NISP,pollen,,4608.0,,,Radiocarbon years BP,370.0,,pollen,6/30/2007,441.0,1.36054421769
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Carpinus betulus,1.0,NISP,pollen,,5434.0,,,Radiocarbon years BP,380.0,,pollen,6/30/2007,409.0,0.244498777506
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Carpinus betulus,2.0,NISP,pollen,,6260.0,,,Radiocarbon years BP,390.0,,pollen,6/30/2007,559.0,0.357781753131
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Carpinus betulus,1.0,NISP,pollen,,6386.0,,,Radiocarbon years BP,400.0,,pollen,6/30/2007,561.0,0.17825311943
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Carpinus betulus,1.0,NISP,pollen,,6512.0,,,Radiocarbon years BP,410.0,,pollen,6/30/2007,553.0,0.180831826401
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Carpinus betulus,1.0,NISP,pollen,,6638.0,,,Radiocarbon years BP,420.0,,pollen,6/30/2007,784.0,0.127551020408
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Carpinus betulus,3.0,NISP,pollen,,7021.0,,,Radiocarbon years BP,450.0,,pollen,6/30/2007,509.0,0.589390962672
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Carpinus betulus,1.0,NISP,pollen,,7151.0,,,Radiocarbon years BP,460.0,,pollen,6/30/2007,642.0,0.155763239875
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Carpinus betulus,1.0,NISP,pollen,,7282.0,,,Radiocarbon years BP,470.0,,pollen,6/30/2007,581.0,0.172117039587
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Carpinus betulus,1.0,NISP,pollen,,7412.0,,,Radiocarbon years BP,480.0,,pollen,6/30/2007,736.0,0.135869565217
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Carpinus betulus,3.0,NISP,pollen,,7543.0,,,Radiocarbon years BP,490.0,,pollen,6/30/2007,685.0,0.43795620438
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Carpinus betulus,1.0,NISP,pollen,,7674.0,,,Radiocarbon years BP,500.0,,pollen,6/30/2007,597.0,0.167504187605
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Carpinus betulus,2.0,NISP,pollen,,7804.0,,,Radiocarbon years BP,510.0,,pollen,6/30/2007,573.0,0.349040139616
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Carpinus betulus,2.0,NISP,pollen,,7935.0,,,Radiocarbon years BP,520.0,,pollen,6/30/2007,658.0,0.303951367781
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Carpinus betulus,2.0,NISP,pollen,,266.0,,,Radiocarbon years BP,20.0,350.0,pollen,6/30/2007,1150.0,0.173913043478
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Carpinus betulus,8.0,NISP,pollen,,687.0,,,Radiocarbon years BP,50.0,350.0,pollen,6/30/2007,1209.0,0.66170388751
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Carpinus betulus,1.0,NISP,pollen,,974.0,,,Radiocarbon years BP,70.0,350.0,pollen,6/30/2007,342.0,0.292397660819
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Carpinus betulus,1.0,NISP,pollen,,1409.0,,,Radiocarbon years BP,100.0,350.0,pollen,6/30/2007,1003.0,0.0997008973081
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Carpinus betulus,4.0,NISP,pollen,,1702.0,,,Radiocarbon years BP,120.0,350.0,pollen,6/30/2007,1657.0,0.2414001207
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Carpinus betulus,5.0,NISP,pollen,,1996.0,,,Radiocarbon years BP,140.0,350.0,pollen,6/30/2007,1200.0,0.416666666667
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Carpinus betulus,2.0,NISP,pollen,,2292.0,,,Radiocarbon years BP,160.0,350.0,pollen,6/30/2007,679.0,0.294550810015
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Carpinus betulus,4.0,NISP,pollen,,2441.0,,,Radiocarbon years BP,170.0,350.0,pollen,6/30/2007,774.0,0.516795865633
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Carpinus betulus,1.0,NISP,pollen,,2739.0,,,Radiocarbon years BP,190.0,350.0,pollen,6/30/2007,622.0,0.16077170418
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Carpinus betulus,3.0,NISP,pollen,,3038.0,,,Radiocarbon years BP,210.0,350.0,pollen,6/30/2007,724.0,0.414364640884
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Carpinus betulus,8.0,NISP,pollen,,3338.0,,,Radiocarbon years BP,230.0,350.0,pollen,6/30/2007,1332.0,0.600600600601
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Carpinus betulus,6.0,NISP,pollen,,3639.0,,,Radiocarbon years BP,250.0,350.0,pollen,6/30/2007,1184.0,0.506756756757
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Carpinus betulus,1.0,NISP,pollen,,3941.0,,,Radiocarbon years BP,270.0,350.0,pollen,6/30/2007,791.0,0.126422250316
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Carpinus betulus,2.0,NISP,pollen,,4244.0,,,Radiocarbon years BP,290.0,350.0,pollen,6/30/2007,2154.0,0.0928505106778
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Carpinus betulus,6.0,NISP,pollen,,4320.0,,,Radiocarbon years BP,295.0,350.0,pollen,6/30/2007,1315.0,0.456273764259
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Carpinus betulus,26.0,NISP,pollen,,4700.0,,,Radiocarbon years BP,320.0,350.0,pollen,6/30/2007,885.0,2.93785310734
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Carpinus betulus,51.0,NISP,pollen,,4852.0,,,Radiocarbon years BP,330.0,350.0,pollen,6/30/2007,1170.0,4.35897435897
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Carpinus betulus,13.0,NISP,pollen,,5157.0,,,Radiocarbon years BP,350.0,350.0,pollen,6/30/2007,589.0,2.20713073005
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Carpinus betulus,30.0,NISP,pollen,,5462.0,,,Radiocarbon years BP,370.0,350.0,pollen,6/30/2007,1273.0,2.35663786332
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Carpinus betulus,10.0,NISP,pollen,,5768.0,,,Radiocarbon years BP,390.0,350.0,pollen,6/30/2007,677.0,1.47710487445
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Carpinus betulus,3.0,NISP,pollen,,5998.0,,,Radiocarbon years BP,405.0,350.0,pollen,6/30/2007,377.0,0.79575596817
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Carpinus betulus,11.0,NISP,pollen,,6382.0,,,Radiocarbon years BP,430.0,350.0,pollen,6/30/2007,727.0,1.51306740028
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Carpinus betulus,2.0,NISP,pollen,,6844.0,,,Radiocarbon years BP,460.0,350.0,pollen,6/30/2007,1406.0,0.142247510669
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Carpinus betulus,7.0,NISP,pollen,,7538.0,,,Radiocarbon years BP,505.0,350.0,pollen,6/30/2007,2428.0,0.288303130148
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Carpinus betulus,1.0,NISP,pollen,,8080.0,,,Radiocarbon years BP,540.0,350.0,pollen,6/30/2007,502.0,0.199203187251
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Carpinus betulus,1.0,NISP,pollen,,9090.0,,,Radiocarbon years BP,605.0,350.0,pollen,6/30/2007,671.0,0.149031296572
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Carpinus betulus,3.0,NISP,pollen,,519.0,,,Radiocarbon years BP,90.0,4.0,pollen,6/30/2007,285.0,1.05263157895
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Carpinus betulus,8.0,NISP,pollen,,663.0,,,Radiocarbon years BP,115.0,4.0,pollen,6/30/2007,321.0,2.49221183801
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Carpinus betulus,1.0,NISP,pollen,,865.0,,,Radiocarbon years BP,150.0,4.0,pollen,6/30/2007,203.0,0.492610837438
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Carpinus betulus,3.0,NISP,pollen,,1441.0,,,Radiocarbon years BP,250.0,4.0,pollen,6/30/2007,287.0,1.04529616725
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Carpinus betulus,5.0,NISP,pollen,,1701.0,,,Radiocarbon years BP,295.0,4.0,pollen,6/30/2007,327.0,1.52905198777
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Carpinus betulus,8.0,NISP,pollen,,2018.0,,,Radiocarbon years BP,350.0,4.0,pollen,6/30/2007,391.0,2.04603580563
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Carpinus betulus,2.0,NISP,pollen,,2277.0,,,Radiocarbon years BP,395.0,4.0,pollen,6/30/2007,325.0,0.615384615385
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Carpinus betulus,3.0,NISP,pollen,,2595.0,,,Radiocarbon years BP,450.0,4.0,pollen,6/30/2007,293.0,1.02389078498
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Carpinus betulus,5.0,NISP,pollen,,2854.0,,,Radiocarbon years BP,495.0,4.0,pollen,6/30/2007,351.0,1.4245014245
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Carpinus betulus,5.0,NISP,pollen,,2940.0,,,Radiocarbon years BP,510.0,4.0,pollen,6/30/2007,180.0,2.77777777778
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Carpinus betulus,2.0,NISP,pollen,,3200.0,,,Radiocarbon years BP,555.0,4.0,pollen,6/30/2007,422.0,0.473933649289
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Carpinus betulus,4.0,NISP,pollen,,3431.0,,,Radiocarbon years BP,595.0,4.0,pollen,6/30/2007,75.0,5.33333333333
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Carpinus betulus,5.0,NISP,pollen,,3517.0,,,Radiocarbon years BP,610.0,4.0,pollen,6/30/2007,259.0,1.9305019305
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Carpinus betulus,6.0,NISP,pollen,,3875.0,,,Radiocarbon years BP,650.0,4.0,pollen,6/30/2007,187.0,3.20855614973
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Carpinus betulus,4.0,NISP,pollen,,4708.0,,,Radiocarbon years BP,695.0,4.0,pollen,6/30/2007,133.0,3.00751879699
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Carpinus betulus,12.0,NISP,pollen,,4918.0,,,Radiocarbon years BP,760.0,4.0,pollen,6/30/2007,188.0,6.3829787234
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Carpinus betulus,10.0,NISP,pollen,,4987.0,,,Radiocarbon years BP,795.0,4.0,pollen,6/30/2007,127.0,7.87401574803
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Carpinus betulus,15.0,NISP,pollen,,5016.0,,,Radiocarbon years BP,810.0,4.0,pollen,6/30/2007,198.0,7.57575757576
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Carpinus betulus,20.0,NISP,pollen,,5095.0,,,Radiocarbon years BP,850.0,4.0,pollen,6/30/2007,266.0,7.51879699248
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Carpinus betulus,11.0,NISP,pollen,,5184.0,,,Radiocarbon years BP,895.0,4.0,pollen,6/30/2007,77.0,14.2857142857
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Carpinus betulus,13.0,NISP,pollen,,5213.0,,,Radiocarbon years BP,910.0,4.0,pollen,6/30/2007,170.0,7.64705882353
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Carpinus betulus,6.0,NISP,pollen,,5292.0,,,Radiocarbon years BP,950.0,4.0,pollen,6/30/2007,117.0,5.12820512821
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Carpinus betulus,7.0,NISP,pollen,,5380.0,,,Radiocarbon years BP,995.0,4.0,pollen,6/30/2007,155.0,4.51612903226
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Carpinus betulus,5.0,NISP,pollen,,5489.0,,,Radiocarbon years BP,1050.0,4.0,pollen,6/30/2007,357.0,1.40056022409
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Carpinus betulus,9.0,NISP,pollen,,5577.0,,,Radiocarbon years BP,1095.0,4.0,pollen,6/30/2007,236.0,3.81355932203
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Carpinus betulus,5.0,NISP,pollen,,5607.0,,,Radiocarbon years BP,1110.0,4.0,pollen,6/30/2007,136.0,3.67647058824
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Carpinus betulus,12.0,NISP,pollen,,5685.0,,,Radiocarbon years BP,1150.0,4.0,pollen,6/30/2007,199.0,6.03015075377
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Carpinus betulus,5.0,NISP,pollen,,5754.0,,,Radiocarbon years BP,1185.0,4.0,pollen,6/30/2007,233.0,2.14592274678
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Carpinus betulus,9.0,NISP,pollen,,5803.0,,,Radiocarbon years BP,1210.0,4.0,pollen,6/30/2007,163.0,5.52147239264
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Carpinus betulus,8.0,NISP,pollen,,5882.0,,,Radiocarbon years BP,1250.0,4.0,pollen,6/30/2007,172.0,4.6511627907
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Carpinus betulus,2.0,NISP,pollen,,6000.0,,,Radiocarbon years BP,1310.0,4.0,pollen,6/30/2007,277.0,0.72202166065
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Carpinus betulus,7.0,NISP,pollen,,6108.0,,,Radiocarbon years BP,1350.0,4.0,pollen,6/30/2007,174.0,4.02298850575
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Carpinus betulus,6.0,NISP,pollen,,6229.0,,,Radiocarbon years BP,1395.0,4.0,pollen,6/30/2007,106.0,5.66037735849
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Carpinus betulus,7.0,NISP,pollen,,6269.0,,,Radiocarbon years BP,1410.0,4.0,pollen,6/30/2007,183.0,3.82513661202
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Carpinus betulus,5.0,NISP,pollen,,6498.0,,,Radiocarbon years BP,1495.0,4.0,pollen,6/30/2007,122.0,4.09836065574
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Carpinus betulus,5.0,NISP,pollen,,6539.0,,,Radiocarbon years BP,1510.0,4.0,pollen,6/30/2007,151.0,3.31125827815
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Carpinus betulus,12.0,NISP,pollen,,6646.0,,,Radiocarbon years BP,1550.0,4.0,pollen,6/30/2007,304.0,3.94736842105
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Carpinus betulus,35.0,NISP,pollen,,6768.0,,,Radiocarbon years BP,1595.0,4.0,pollen,6/30/2007,350.0,10.0
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Carpinus betulus,25.0,NISP,pollen,,6916.0,,,Radiocarbon years BP,1650.0,4.0,pollen,6/30/2007,220.0,11.3636363636
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Carpinus betulus,13.0,NISP,pollen,,7037.0,,,Radiocarbon years BP,1695.0,4.0,pollen,6/30/2007,249.0,5.22088353414
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Carpinus betulus,12.0,NISP,pollen,,7077.0,,,Radiocarbon years BP,1710.0,4.0,pollen,6/30/2007,268.0,4.4776119403
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Carpinus betulus,11.0,NISP,pollen,,7185.0,,,Radiocarbon years BP,1750.0,4.0,pollen,6/30/2007,439.0,2.50569476082
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Carpinus betulus,9.0,NISP,pollen,,7306.0,,,Radiocarbon years BP,1795.0,4.0,pollen,6/30/2007,289.0,3.11418685121
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Carpinus betulus,4.0,NISP,pollen,,7455.0,,,Radiocarbon years BP,1850.0,4.0,pollen,6/30/2007,160.0,2.5
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Carpinus betulus,8.0,NISP,pollen,,7562.0,,,Radiocarbon years BP,1890.0,4.0,pollen,6/30/2007,380.0,2.10526315789
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Carpinus betulus,1.0,NISP,pollen,,7576.0,,,Radiocarbon years BP,1895.0,4.0,pollen,6/30/2007,330.0,0.30303030303
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Carpinus betulus,17.0,NISP,pollen,,7616.0,,,Radiocarbon years BP,1910.0,4.0,pollen,6/30/2007,291.0,5.84192439863
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Carpinus betulus,10.0,NISP,pollen,,7724.0,,,Radiocarbon years BP,1950.0,4.0,pollen,6/30/2007,106.0,9.43396226415
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Carpinus betulus,11.0,NISP,pollen,,7845.0,,,Radiocarbon years BP,1995.0,4.0,pollen,6/30/2007,155.0,7.09677419355
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Carpinus betulus,15.0,NISP,pollen,,7886.0,,,Radiocarbon years BP,2010.0,4.0,pollen,6/30/2007,166.0,9.03614457831
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Carpinus betulus,20.0,NISP,pollen,,8114.0,,,Radiocarbon years BP,2095.0,4.0,pollen,6/30/2007,244.0,8.19672131148
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Carpinus betulus,22.0,NISP,pollen,,8384.0,,,Radiocarbon years BP,2195.0,4.0,pollen,6/30/2007,177.0,12.4293785311
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Carpinus betulus,49.0,NISP,pollen,,8411.0,,,Radiocarbon years BP,2205.0,4.0,pollen,6/30/2007,215.0,22.7906976744
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Carpinus betulus,31.0,NISP,pollen,,8532.0,,,Radiocarbon years BP,2250.0,4.0,pollen,6/30/2007,116.0,26.724137931
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Carpinus betulus,18.0,NISP,pollen,,8653.0,,,Radiocarbon years BP,2295.0,4.0,pollen,6/30/2007,155.0,11.6129032258
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Carpinus betulus,80.0,NISP,pollen,,8680.0,,,Radiocarbon years BP,2305.0,4.0,pollen,6/30/2007,322.0,24.8447204969
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Carpinus betulus,105.0,NISP,pollen,,8801.0,,,Radiocarbon years BP,2350.0,4.0,pollen,6/30/2007,184.0,57.0652173913
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Carpinus betulus,52.0,NISP,pollen,,8949.0,,,Radiocarbon years BP,2405.0,4.0,pollen,6/30/2007,243.0,21.3991769547
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Carpinus betulus,123.0,NISP,pollen,,9205.0,,,Radiocarbon years BP,2500.0,4.0,pollen,6/30/2007,514.0,23.9299610895
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Carpinus betulus,260.0,NISP,pollen,,9475.0,,,Radiocarbon years BP,2600.0,4.0,pollen,6/30/2007,632.0,41.1392405063
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Carpinus betulus,83.0,NISP,pollen,,10000.0,,,Radiocarbon years BP,2795.0,4.0,pollen,6/30/2007,237.0,35.0210970464
+1399,Kamenicky,49.733333,15.966667,49.733333,49.733333,15.966667,15.966667,Vascular plants,Carpinus betulus,6.0,NISP,pollen,,1077.0,,,Radiocarbon years BP,2.5,624.0,pollen,6/30/2007,787.0,0.762388818297
+1399,Kamenicky,49.733333,15.966667,49.733333,49.733333,15.966667,15.966667,Vascular plants,Carpinus betulus,6.0,NISP,pollen,,1225.0,,,Radiocarbon years BP,5.0,624.0,pollen,6/30/2007,766.0,0.783289817232
+1399,Kamenicky,49.733333,15.966667,49.733333,49.733333,15.966667,15.966667,Vascular plants,Carpinus betulus,4.0,NISP,pollen,,1520.0,,,Radiocarbon years BP,10.0,624.0,pollen,6/30/2007,714.0,0.560224089636
+1399,Kamenicky,49.733333,15.966667,49.733333,49.733333,15.966667,15.966667,Vascular plants,Carpinus betulus,14.0,NISP,pollen,,1815.0,,,Radiocarbon years BP,15.0,624.0,pollen,6/30/2007,850.0,1.64705882353
+1399,Kamenicky,49.733333,15.966667,49.733333,49.733333,15.966667,15.966667,Vascular plants,Carpinus betulus,7.0,NISP,pollen,,2110.0,,,Radiocarbon years BP,20.0,624.0,pollen,6/30/2007,679.0,1.03092783505
+1399,Kamenicky,49.733333,15.966667,49.733333,49.733333,15.966667,15.966667,Vascular plants,Carpinus betulus,8.0,NISP,pollen,,3049.0,,,Radiocarbon years BP,25.0,624.0,pollen,6/30/2007,671.0,1.19225037258
+1399,Kamenicky,49.733333,15.966667,49.733333,49.733333,15.966667,15.966667,Vascular plants,Carpinus betulus,3.0,NISP,pollen,,4059.0,,,Radiocarbon years BP,30.0,624.0,pollen,6/30/2007,533.0,0.562851782364
+1399,Kamenicky,49.733333,15.966667,49.733333,49.733333,15.966667,15.966667,Vascular plants,Carpinus betulus,1.0,NISP,pollen,,4742.0,,,Radiocarbon years BP,35.0,624.0,pollen,6/30/2007,722.0,0.138504155125
+1399,Kamenicky,49.733333,15.966667,49.733333,49.733333,15.966667,15.966667,Vascular plants,Carpinus betulus,188.0,NISP,pollen,,8014.0,,,Radiocarbon years BP,60.0,624.0,pollen,6/30/2007,792.0,23.7373737374
+1403,Kardashinski Swamp,46.516667,32.616667,46.516667,46.516667,32.616667,32.616667,Vascular plants,Carpinus betulus,1.0,NISP,pollen,,1269.0,,,Radiocarbon years BP,50.0,4.0,pollen,6/30/2007,285.0,0.350877192982
+1403,Kardashinski Swamp,46.516667,32.616667,46.516667,46.516667,32.616667,32.616667,Vascular plants,Carpinus betulus,1.0,NISP,pollen,,2452.0,,,Radiocarbon years BP,100.0,4.0,pollen,6/30/2007,437.0,0.228832951945
+1403,Kardashinski Swamp,46.516667,32.616667,46.516667,46.516667,32.616667,32.616667,Vascular plants,Carpinus betulus,5.0,NISP,pollen,,2679.0,,,Radiocarbon years BP,110.0,4.0,pollen,6/30/2007,439.0,1.13895216401
+1403,Kardashinski Swamp,46.516667,32.616667,46.516667,46.516667,32.616667,32.616667,Vascular plants,Carpinus betulus,1.0,NISP,pollen,,2902.0,,,Radiocarbon years BP,120.0,4.0,pollen,6/30/2007,303.0,0.3300330033
+1403,Kardashinski Swamp,46.516667,32.616667,46.516667,46.516667,32.616667,32.616667,Vascular plants,Carpinus betulus,2.0,NISP,pollen,,3122.0,,,Radiocarbon years BP,130.0,4.0,pollen,6/30/2007,368.0,0.54347826087
+1403,Kardashinski Swamp,46.516667,32.616667,46.516667,46.516667,32.616667,32.616667,Vascular plants,Carpinus betulus,1.0,NISP,pollen,,3338.0,,,Radiocarbon years BP,140.0,4.0,pollen,6/30/2007,611.0,0.163666121113
+1403,Kardashinski Swamp,46.516667,32.616667,46.516667,46.516667,32.616667,32.616667,Vascular plants,Carpinus betulus,1.0,NISP,pollen,,3551.0,,,Radiocarbon years BP,150.0,4.0,pollen,6/30/2007,407.0,0.2457002457
+1403,Kardashinski Swamp,46.516667,32.616667,46.516667,46.516667,32.616667,32.616667,Vascular plants,Carpinus betulus,2.0,NISP,pollen,,3967.0,,,Radiocarbon years BP,170.0,4.0,pollen,6/30/2007,487.0,0.41067761807
+1403,Kardashinski Swamp,46.516667,32.616667,46.516667,46.516667,32.616667,32.616667,Vascular plants,Carpinus betulus,3.0,NISP,pollen,,4170.0,,,Radiocarbon years BP,180.0,4.0,pollen,6/30/2007,429.0,0.699300699301
+1403,Kardashinski Swamp,46.516667,32.616667,46.516667,46.516667,32.616667,32.616667,Vascular plants,Carpinus betulus,4.0,NISP,pollen,,4566.0,,,Radiocarbon years BP,200.0,4.0,pollen,6/30/2007,454.0,0.881057268722
+1403,Kardashinski Swamp,46.516667,32.616667,46.516667,46.516667,32.616667,32.616667,Vascular plants,Carpinus betulus,3.0,NISP,pollen,,4758.0,,,Radiocarbon years BP,210.0,4.0,pollen,6/30/2007,419.0,0.715990453461
+1403,Kardashinski Swamp,46.516667,32.616667,46.516667,46.516667,32.616667,32.616667,Vascular plants,Carpinus betulus,2.0,NISP,pollen,,4948.0,,,Radiocarbon years BP,220.0,4.0,pollen,6/30/2007,457.0,0.437636761488
+1403,Kardashinski Swamp,46.516667,32.616667,46.516667,46.516667,32.616667,32.616667,Vascular plants,Carpinus betulus,1.0,NISP,pollen,,5133.0,,,Radiocarbon years BP,230.0,4.0,pollen,6/30/2007,489.0,0.204498977505
+1403,Kardashinski Swamp,46.516667,32.616667,46.516667,46.516667,32.616667,32.616667,Vascular plants,Carpinus betulus,3.0,NISP,pollen,,5495.0,,,Radiocarbon years BP,250.0,4.0,pollen,6/30/2007,612.0,0.490196078431
+1403,Kardashinski Swamp,46.516667,32.616667,46.516667,46.516667,32.616667,32.616667,Vascular plants,Carpinus betulus,1.0,NISP,pollen,,5671.0,,,Radiocarbon years BP,260.0,4.0,pollen,6/30/2007,340.0,0.294117647059
+1403,Kardashinski Swamp,46.516667,32.616667,46.516667,46.516667,32.616667,32.616667,Vascular plants,Carpinus betulus,4.0,NISP,pollen,,5843.0,,,Radiocarbon years BP,270.0,4.0,pollen,6/30/2007,503.0,0.795228628231
+1403,Kardashinski Swamp,46.516667,32.616667,46.516667,46.516667,32.616667,32.616667,Vascular plants,Carpinus betulus,1.0,NISP,pollen,,6654.0,,,Radiocarbon years BP,320.0,4.0,pollen,6/30/2007,303.0,0.3300330033
+1403,Kardashinski Swamp,46.516667,32.616667,46.516667,46.516667,32.616667,32.616667,Vascular plants,Carpinus betulus,1.0,NISP,pollen,,7241.0,,,Radiocarbon years BP,360.0,4.0,pollen,6/30/2007,260.0,0.384615384615
+1403,Kardashinski Swamp,46.516667,32.616667,46.516667,46.516667,32.616667,32.616667,Vascular plants,Carpinus betulus,1.0,NISP,pollen,,7646.0,,,Radiocarbon years BP,390.0,4.0,pollen,6/30/2007,421.0,0.237529691211
+1403,Kardashinski Swamp,46.516667,32.616667,46.516667,46.516667,32.616667,32.616667,Vascular plants,Carpinus betulus,2.0,NISP,pollen,,7774.0,,,Radiocarbon years BP,400.0,4.0,pollen,6/30/2007,476.0,0.420168067227
+1403,Kardashinski Swamp,46.516667,32.616667,46.516667,46.516667,32.616667,32.616667,Vascular plants,Carpinus betulus,2.0,NISP,pollen,,7899.0,,,Radiocarbon years BP,410.0,4.0,pollen,6/30/2007,468.0,0.42735042735
+1704,Mokhovoye,53.766667,64.25,53.766667,53.766667,64.25,64.25,Vascular plants,Carpinus betulus,2.0,NISP,pollen,,5775.0,,,Radiocarbon years BP,320.0,178.0,pollen,6/30/2007,196.0,1.02040816327
+2960,Black Sea (Southwest 1),42.184167,28.916667,42.184167,42.184167,28.916667,28.916667,Vascular plants,Carpinus betulus,40.0,NISP,pollen,,630.0,,,Radiocarbon years BP,0.0,,pollen,6/30/2007,549.0,7.28597449909
+2960,Black Sea (Southwest 1),42.184167,28.916667,42.184167,42.184167,28.916667,28.916667,Vascular plants,Carpinus betulus,30.0,NISP,pollen,,1366.0,,,Radiocarbon years BP,10.0,,pollen,6/30/2007,362.0,8.28729281768
+2960,Black Sea (Southwest 1),42.184167,28.916667,42.184167,42.184167,28.916667,28.916667,Vascular plants,Carpinus betulus,63.0,NISP,pollen,,2102.0,,,Radiocarbon years BP,20.0,,pollen,6/30/2007,476.0,13.2352941176
+2960,Black Sea (Southwest 1),42.184167,28.916667,42.184167,42.184167,28.916667,28.916667,Vascular plants,Carpinus betulus,72.0,NISP,pollen,,2838.0,,,Radiocarbon years BP,30.0,,pollen,6/30/2007,528.0,13.6363636364
+2960,Black Sea (Southwest 1),42.184167,28.916667,42.184167,42.184167,28.916667,28.916667,Vascular plants,Carpinus betulus,60.0,NISP,pollen,,3574.0,,,Radiocarbon years BP,40.0,,pollen,6/30/2007,465.0,12.9032258065
+2960,Black Sea (Southwest 1),42.184167,28.916667,42.184167,42.184167,28.916667,28.916667,Vascular plants,Carpinus betulus,55.0,NISP,pollen,,4310.0,,,Radiocarbon years BP,50.0,,pollen,6/30/2007,680.0,8.08823529412
+2960,Black Sea (Southwest 1),42.184167,28.916667,42.184167,42.184167,28.916667,28.916667,Vascular plants,Carpinus betulus,25.0,NISP,pollen,,5046.0,,,Radiocarbon years BP,60.0,,pollen,6/30/2007,546.0,4.57875457875
+2960,Black Sea (Southwest 1),42.184167,28.916667,42.184167,42.184167,28.916667,28.916667,Vascular plants,Carpinus betulus,10.0,NISP,pollen,,5414.0,,,Radiocarbon years BP,65.0,,pollen,6/30/2007,548.0,1.82481751825
+2960,Black Sea (Southwest 1),42.184167,28.916667,42.184167,42.184167,28.916667,28.916667,Vascular plants,Carpinus betulus,1.0,NISP,pollen,,7404.0,,,Radiocarbon years BP,100.0,,pollen,6/30/2007,464.0,0.215517241379
+2960,Black Sea (Southwest 1),42.184167,28.916667,42.184167,42.184167,28.916667,28.916667,Vascular plants,Carpinus betulus,2.0,NISP,pollen,,8207.0,,,Radiocarbon years BP,130.0,,pollen,6/30/2007,349.0,0.573065902579
+2960,Black Sea (Southwest 1),42.184167,28.916667,42.184167,42.184167,28.916667,28.916667,Vascular plants,Carpinus betulus,2.0,NISP,pollen,,9544.0,,,Radiocarbon years BP,180.0,,pollen,6/30/2007,329.0,0.607902735562

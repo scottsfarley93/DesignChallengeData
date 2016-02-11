@@ -1,0 +1,9 @@
+siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Sambucus nigra-type,4.0,NISP,pollen,,1996.0,,,Radiocarbon years BP,140.0,350.0,pollen,6/30/2007,1200.0,0.333333333333
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Sambucus nigra-type,3.0,NISP,pollen,,3941.0,,,Radiocarbon years BP,270.0,350.0,pollen,6/30/2007,791.0,0.379266750948
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Sambucus nigra-type,1.0,NISP,pollen,,4244.0,,,Radiocarbon years BP,290.0,350.0,pollen,6/30/2007,2154.0,0.0464252553389
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Sambucus nigra-type,1.0,NISP,pollen,,6844.0,,,Radiocarbon years BP,460.0,350.0,pollen,6/30/2007,1406.0,0.0711237553343
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Sambucus nigra-type,1.0,NISP,pollen,,9947.0,,,Radiocarbon years BP,660.0,350.0,pollen,6/30/2007,283.0,0.353356890459
+1399,Kamenicky,49.733333,15.966667,49.733333,49.733333,15.966667,15.966667,Vascular plants,Sambucus nigra-type,1.0,NISP,pollen,,1225.0,,,Radiocarbon years BP,5.0,624.0,pollen,6/30/2007,766.0,0.130548302872
+1399,Kamenicky,49.733333,15.966667,49.733333,49.733333,15.966667,15.966667,Vascular plants,Sambucus nigra-type,3.0,NISP,pollen,,7354.0,,,Radiocarbon years BP,55.0,624.0,pollen,6/30/2007,791.0,0.379266750948
+1399,Kamenicky,49.733333,15.966667,49.733333,49.733333,15.966667,15.966667,Vascular plants,Sambucus nigra-type,5.0,NISP,pollen,,8881.0,,,Radiocarbon years BP,75.0,624.0,pollen,6/30/2007,805.0,0.621118012422

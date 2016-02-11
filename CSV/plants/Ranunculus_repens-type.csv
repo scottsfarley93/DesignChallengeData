@@ -1,0 +1,11 @@
+siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Ranunculus repens-type,1.0,NISP,pollen,,63.0,,,Radiocarbon years BP,5.0,350.0,pollen,6/30/2007,558.0,0.179211469534
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Ranunculus repens-type,1.0,NISP,pollen,,266.0,,,Radiocarbon years BP,20.0,350.0,pollen,6/30/2007,1150.0,0.0869565217391
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Ranunculus repens-type,1.0,NISP,pollen,,405.0,,,Radiocarbon years BP,30.0,350.0,pollen,6/30/2007,656.0,0.15243902439
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Ranunculus repens-type,1.0,NISP,pollen,,974.0,,,Radiocarbon years BP,70.0,350.0,pollen,6/30/2007,342.0,0.292397660819
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Ranunculus repens-type,3.0,NISP,pollen,,1118.0,,,Radiocarbon years BP,80.0,350.0,pollen,6/30/2007,688.0,0.436046511628
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Ranunculus repens-type,1.0,NISP,pollen,,1409.0,,,Radiocarbon years BP,100.0,350.0,pollen,6/30/2007,1003.0,0.0997008973081
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Ranunculus repens-type,1.0,NISP,pollen,,3038.0,,,Radiocarbon years BP,210.0,350.0,pollen,6/30/2007,724.0,0.138121546961
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Ranunculus repens-type,1.0,NISP,pollen,,3639.0,,,Radiocarbon years BP,250.0,350.0,pollen,6/30/2007,1184.0,0.0844594594595
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Ranunculus repens-type,1.0,NISP,pollen,,3941.0,,,Radiocarbon years BP,270.0,350.0,pollen,6/30/2007,791.0,0.126422250316
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Ranunculus repens-type,1.0,NISP,pollen,,8701.0,,,Radiocarbon years BP,580.0,350.0,pollen,6/30/2007,554.0,0.180505415162

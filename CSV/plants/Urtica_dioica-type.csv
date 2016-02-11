@@ -1,0 +1,9 @@
+siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Urtica dioica-type,4.0,NISP,pollen,,266.0,,,Radiocarbon years BP,20.0,350.0,pollen,6/30/2007,1150.0,0.347826086957
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Urtica dioica-type,2.0,NISP,pollen,,1118.0,,,Radiocarbon years BP,80.0,350.0,pollen,6/30/2007,688.0,0.290697674419
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Urtica dioica-type,3.0,NISP,pollen,,3338.0,,,Radiocarbon years BP,230.0,350.0,pollen,6/30/2007,1332.0,0.225225225225
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Urtica dioica-type,2.0,NISP,pollen,,4320.0,,,Radiocarbon years BP,295.0,350.0,pollen,6/30/2007,1315.0,0.152091254753
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Urtica dioica-type,1.0,NISP,pollen,,7538.0,,,Radiocarbon years BP,505.0,350.0,pollen,6/30/2007,2428.0,0.0411861614498
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Urtica dioica-type,1.0,NISP,pollen,,9090.0,,,Radiocarbon years BP,605.0,350.0,pollen,6/30/2007,671.0,0.149031296572
+2995,Balikh,36.516667,39.083333,36.516667,36.516667,39.083333,39.083333,Vascular plants,Urtica dioica-type,1.0,NISP,pollen,,,,,,180.0,,pollen,6/30/2007,1537.0,0.0650618087183
+3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Urtica dioica-type,1.0,NISP,pollen,,4318.0,,,Radiocarbon years BP,260.0,,pollen,6/30/2007,1030.0,0.0970873786408

@@ -1,0 +1,43 @@
+siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
+9,Adange,43.305556,41.333333,43.305556,43.305556,41.333333,41.333333,Vascular plants,Juglans regia,1.0,NISP,pollen,,899.0,,,Radiocarbon years BP,82.0,1750.0,pollen,6/30/2007,214.0,0.467289719626
+9,Adange,43.305556,41.333333,43.305556,43.305556,41.333333,41.333333,Vascular plants,Juglans regia,1.0,NISP,pollen,,1730.0,,,Radiocarbon years BP,102.0,1750.0,pollen,6/30/2007,165.0,0.606060606061
+9,Adange,43.305556,41.333333,43.305556,43.305556,41.333333,41.333333,Vascular plants,Juglans regia,1.0,NISP,pollen,,2475.0,,,Radiocarbon years BP,120.5,1750.0,pollen,6/30/2007,153.0,0.653594771242
+9,Adange,43.305556,41.333333,43.305556,43.305556,41.333333,41.333333,Vascular plants,Juglans regia,1.0,NISP,pollen,,2595.0,,,Radiocarbon years BP,126.0,1750.0,pollen,6/30/2007,159.0,0.62893081761
+9,Adange,43.305556,41.333333,43.305556,43.305556,41.333333,41.333333,Vascular plants,Juglans regia,1.0,NISP,pollen,,3945.0,,,Radiocarbon years BP,197.0,1750.0,pollen,6/30/2007,354.0,0.282485875706
+200,Amtkel,43.268056,41.308333,43.268056,43.268056,41.308333,41.308333,Vascular plants,Juglans regia,1.0,NISP,pollen,,1612.0,,,Radiocarbon years BP,90.0,1830.0,pollen,6/30/2007,299.0,0.334448160535
+831,Gagra,43.283333,40.266667,43.283333,43.283333,40.266667,40.266667,Vascular plants,Juglans regia,1.0,NISP,pollen,,5754.0,,,Radiocarbon years BP,1185.0,4.0,pollen,6/30/2007,233.0,0.429184549356
+2974,Amtkel 1,43.283333,41.291667,43.283333,43.283333,41.291667,41.291667,Vascular plants,Juglans regia,2.0,NISP,pollen,,225.0,,,Radiocarbon years BP,5.0,1860.0,pollen,6/30/2007,256.0,0.78125
+2974,Amtkel 1,43.283333,41.291667,43.283333,43.283333,41.291667,41.291667,Vascular plants,Juglans regia,1.0,NISP,pollen,,862.0,,,Radiocarbon years BP,25.0,1860.0,pollen,6/30/2007,349.0,0.286532951289
+2974,Amtkel 1,43.283333,41.291667,43.283333,43.283333,41.291667,41.291667,Vascular plants,Juglans regia,3.0,NISP,pollen,,941.0,,,Radiocarbon years BP,30.0,1860.0,pollen,6/30/2007,331.0,0.906344410876
+2974,Amtkel 1,43.283333,41.291667,43.283333,43.283333,41.291667,41.291667,Vascular plants,Juglans regia,4.0,NISP,pollen,,1234.0,,,Radiocarbon years BP,50.0,1860.0,pollen,6/30/2007,273.0,1.4652014652
+2974,Amtkel 1,43.283333,41.291667,43.283333,43.283333,41.291667,41.291667,Vascular plants,Juglans regia,2.0,NISP,pollen,,1430.0,,,Radiocarbon years BP,65.0,1860.0,pollen,6/30/2007,299.0,0.66889632107
+2974,Amtkel 1,43.283333,41.291667,43.283333,43.283333,41.291667,41.291667,Vascular plants,Juglans regia,2.0,NISP,pollen,,1560.0,,,Radiocarbon years BP,75.0,1860.0,pollen,6/30/2007,284.0,0.704225352113
+2974,Amtkel 1,43.283333,41.291667,43.283333,43.283333,41.291667,41.291667,Vascular plants,Juglans regia,1.0,NISP,pollen,,2295.0,,,Radiocarbon years BP,114.0,1860.0,pollen,6/30/2007,275.0,0.363636363636
+2975,Amtkel 2,43.291667,41.284167,43.291667,43.291667,41.284167,41.284167,Vascular plants,Juglans regia,1.0,NISP,pollen,,1675.0,,,Radiocarbon years BP,26.0,1850.0,pollen,6/30/2007,367.0,0.272479564033
+2976,Amtkel 3,43.266667,41.291667,43.266667,43.266667,41.291667,41.291667,Vascular plants,Juglans regia,1.0,NISP,pollen,,307.0,,,Radiocarbon years BP,5.0,1860.0,pollen,6/30/2007,336.0,0.297619047619
+2976,Amtkel 3,43.266667,41.291667,43.266667,43.266667,41.291667,41.291667,Vascular plants,Juglans regia,1.0,NISP,pollen,,509.0,,,Radiocarbon years BP,10.0,1860.0,pollen,6/30/2007,290.0,0.344827586207
+3080,Dendermonde,51.043889,4.089722,51.043889,51.043889,4.089722,4.089722,Vascular plants,Juglans regia,2.0,NISP,pollen,,,,,,125.0,2.0,pollen,6/30/2007,684.0,0.292397660819
+3086,Duartbeg,58.296111,-5.163056,58.296111,58.296111,-5.163056,-5.163056,Vascular plants,Juglans regia,1.0,NISP,pollen,,,,,,565.0,,pollen,6/30/2007,360.0,0.277777777778
+3188,Khodzal,42.954167,41.911111,42.954167,42.954167,41.911111,41.911111,Vascular plants,Juglans regia,2.0,NISP,pollen,,441.0,,,Radiocarbon years BP,75.0,2030.0,pollen,6/30/2007,259.0,0.772200772201
+3217,Lagodekhi,41.930833,46.416111,41.930833,41.930833,46.416111,46.416111,Vascular plants,Juglans regia,1.0,NISP,pollen,,73.0,,,Radiocarbon years BP,1.0,2750.0,pollen,6/30/2007,413.0,0.242130750605
+3255,Luganskoe,43.7325,40.691667,43.7325,43.7325,40.691667,40.691667,Vascular plants,Juglans regia,1.0,NISP,pollen,,8000.0,,,Radiocarbon years BP,250.0,2428.0,pollen,6/30/2007,97.0,1.03092783505
+3379,Ribnoe,43.708333,41.206944,43.708333,43.708333,41.206944,41.206944,Vascular plants,Juglans regia,1.0,NISP,pollen,,13.0,,,Radiocarbon years BP,2.0,2115.0,pollen,6/30/2007,317.0,0.315457413249
+3379,Ribnoe,43.708333,41.206944,43.708333,43.708333,41.206944,41.206944,Vascular plants,Juglans regia,2.0,NISP,pollen,,398.0,,,Radiocarbon years BP,56.0,2115.0,pollen,6/30/2007,494.0,0.404858299595
+3379,Ribnoe,43.708333,41.206944,43.708333,43.708333,41.206944,41.206944,Vascular plants,Juglans regia,1.0,NISP,pollen,,912.0,,,Radiocarbon years BP,84.0,2115.0,pollen,6/30/2007,341.0,0.293255131965
+3379,Ribnoe,43.708333,41.206944,43.708333,43.708333,41.206944,41.206944,Vascular plants,Juglans regia,1.0,NISP,pollen,,1059.0,,,Radiocarbon years BP,92.0,2115.0,pollen,6/30/2007,355.0,0.281690140845
+3379,Ribnoe,43.708333,41.206944,43.708333,43.708333,41.206944,41.206944,Vascular plants,Juglans regia,3.0,NISP,pollen,,1334.0,,,Radiocarbon years BP,107.0,2115.0,pollen,6/30/2007,306.0,0.980392156863
+3379,Ribnoe,43.708333,41.206944,43.708333,43.708333,41.206944,41.206944,Vascular plants,Juglans regia,2.0,NISP,pollen,,1426.0,,,Radiocarbon years BP,112.0,2115.0,pollen,6/30/2007,322.0,0.621118012422
+3379,Ribnoe,43.708333,41.206944,43.708333,43.708333,41.206944,41.206944,Vascular plants,Juglans regia,1.0,NISP,pollen,,1518.0,,,Radiocarbon years BP,117.0,2115.0,pollen,6/30/2007,362.0,0.276243093923
+3379,Ribnoe,43.708333,41.206944,43.708333,43.708333,41.206944,41.206944,Vascular plants,Juglans regia,2.0,NISP,pollen,,1702.0,,,Radiocarbon years BP,127.0,2115.0,pollen,6/30/2007,404.0,0.49504950495
+3379,Ribnoe,43.708333,41.206944,43.708333,43.708333,41.206944,41.206944,Vascular plants,Juglans regia,1.0,NISP,pollen,,1793.0,,,Radiocarbon years BP,132.0,2115.0,pollen,6/30/2007,488.0,0.204918032787
+3379,Ribnoe,43.708333,41.206944,43.708333,43.708333,41.206944,41.206944,Vascular plants,Juglans regia,1.0,NISP,pollen,,1885.0,,,Radiocarbon years BP,137.0,2115.0,pollen,6/30/2007,325.0,0.307692307692
+3402,Serni,43.666667,40.480556,43.666667,43.666667,40.480556,40.480556,Vascular plants,Juglans regia,1.0,NISP,pollen,,349.0,,,Radiocarbon years BP,5.0,2485.0,pollen,6/30/2007,298.0,0.335570469799
+3402,Serni,43.666667,40.480556,43.666667,43.666667,40.480556,40.480556,Vascular plants,Juglans regia,1.0,NISP,pollen,,1747.0,,,Radiocarbon years BP,25.0,2485.0,pollen,6/30/2007,420.0,0.238095238095
+3409,Sibista,43.233333,41.430556,43.233333,43.233333,41.430556,41.430556,Vascular plants,Juglans regia,1.0,NISP,pollen,,404.0,,,Radiocarbon years BP,17.5,2160.0,pollen,6/30/2007,361.0,0.277008310249
+3409,Sibista,43.233333,41.430556,43.233333,43.233333,41.430556,41.430556,Vascular plants,Juglans regia,1.0,NISP,pollen,,646.0,,,Radiocarbon years BP,28.0,2160.0,pollen,6/30/2007,298.0,0.335570469799
+3409,Sibista,43.233333,41.430556,43.233333,43.233333,41.430556,41.430556,Vascular plants,Juglans regia,1.0,NISP,pollen,,933.0,,,Radiocarbon years BP,40.0,2160.0,pollen,6/30/2007,252.0,0.396825396825
+3409,Sibista,43.233333,41.430556,43.233333,43.233333,41.430556,41.430556,Vascular plants,Juglans regia,1.0,NISP,pollen,,1000.0,,,Radiocarbon years BP,42.0,2160.0,pollen,6/30/2007,226.0,0.442477876106
+3409,Sibista,43.233333,41.430556,43.233333,43.233333,41.430556,41.430556,Vascular plants,Juglans regia,1.0,NISP,pollen,,1633.0,,,Radiocarbon years BP,61.0,2160.0,pollen,6/30/2007,190.0,0.526315789474
+9834,Sheheree Bog,52.04027,-9.48088,52.04175,52.03879,-9.47893,-9.48283,Vascular plants,Juglans regia,1.0,NISP,pollen,,154.0,,,Calibrated radiocarbon years BP,30.0,61.0,pollen,9/8/2014,594.0,0.16835016835
+9834,Sheheree Bog,52.04027,-9.48088,52.04175,52.03879,-9.47893,-9.48283,Vascular plants,Juglans regia,1.0,NISP,pollen,,348.0,,,Calibrated radiocarbon years BP,58.0,61.0,pollen,9/8/2014,566.0,0.17667844523
+9834,Sheheree Bog,52.04027,-9.48088,52.04175,52.03879,-9.47893,-9.48283,Vascular plants,Juglans regia,2.0,NISP,pollen,,639.0,,,Calibrated radiocarbon years BP,100.0,61.0,pollen,9/8/2014,507.0,0.394477317554

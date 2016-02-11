@@ -1,0 +1,13 @@
+siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
+214,Arts Lough,52.95,-6.433333,52.95,52.95,-6.433333,-6.433333,Vascular plants,Rumex acetosella,2.0,NISP,pollen,,247.0,,,Radiocarbon years BP,3.0,490.0,pollen,6/30/2007,295.5,0.676818950931
+214,Arts Lough,52.95,-6.433333,52.95,52.95,-6.433333,-6.433333,Vascular plants,Rumex acetosella,4.0,NISP,pollen,,907.0,,,Radiocarbon years BP,11.0,490.0,pollen,6/30/2007,382.5,1.04575163399
+214,Arts Lough,52.95,-6.433333,52.95,52.95,-6.433333,-6.433333,Vascular plants,Rumex acetosella,4.0,NISP,pollen,,2886.0,,,Radiocarbon years BP,25.0,490.0,pollen,6/30/2007,368.0,1.08695652174
+214,Arts Lough,52.95,-6.433333,52.95,52.95,-6.433333,-6.433333,Vascular plants,Rumex acetosella,2.0,NISP,pollen,,8214.0,,,Radiocarbon years BP,95.0,490.0,pollen,6/30/2007,260.0,0.769230769231
+214,Arts Lough,52.95,-6.433333,52.95,52.95,-6.433333,-6.433333,Vascular plants,Rumex acetosella,15.0,NISP,pollen,,13050.0,,,Radiocarbon years BP,165.0,490.0,pollen,6/30/2007,227.5,6.59340659341
+656,Decoy Lake,43.233333,-80.366667,43.233333,43.233333,-80.366667,-80.366667,Vascular plants,Rumex acetosella,3.0,NISP,pollen,,80.0,,,Radiocarbon years BP,30.0,260.0,pollen,6/30/2007,434.5,0.690448791715
+656,Decoy Lake,43.233333,-80.366667,43.233333,43.233333,-80.366667,-80.366667,Vascular plants,Rumex acetosella,1.0,NISP,pollen,,202.0,,,Radiocarbon years BP,35.0,260.0,pollen,6/30/2007,368.0,0.271739130435
+656,Decoy Lake,43.233333,-80.366667,43.233333,43.233333,-80.366667,-80.366667,Vascular plants,Rumex acetosella,1.0,NISP,pollen,,9250.0,,,Radiocarbon years BP,320.0,260.0,pollen,6/30/2007,376.5,0.265604249668
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Rumex acetosella,6.0,NISP,pollen,,405.0,,,Radiocarbon years BP,30.0,350.0,pollen,6/30/2007,656.0,0.914634146341
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Rumex acetosella,5.0,NISP,pollen,,687.0,,,Radiocarbon years BP,50.0,350.0,pollen,6/30/2007,1209.0,0.413564929694
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Rumex acetosella,3.0,NISP,pollen,,4852.0,,,Radiocarbon years BP,330.0,350.0,pollen,6/30/2007,1170.0,0.25641025641
+2973,Amsoldingersee,46.725,7.575,46.725,46.725,7.575,7.575,Vascular plants,Rumex acetosella,1.0,NISP,pollen,,3945.0,,,Radiocarbon years BP,620.0,641.0,pollen,6/30/2007,1065.0,0.093896713615

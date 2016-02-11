@@ -1,0 +1,23 @@
+siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Solanum dulcamara,1.0,NISP,pollen,,266.0,,,Radiocarbon years BP,20.0,350.0,pollen,6/30/2007,1150.0,0.0869565217391
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Solanum dulcamara,1.0,NISP,pollen,,1996.0,,,Radiocarbon years BP,140.0,350.0,pollen,6/30/2007,1200.0,0.0833333333333
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Solanum dulcamara,1.0,NISP,pollen,,3038.0,,,Radiocarbon years BP,210.0,350.0,pollen,6/30/2007,724.0,0.138121546961
+2960,Black Sea (Southwest 1),42.184167,28.916667,42.184167,42.184167,28.916667,28.916667,Vascular plants,Solanum dulcamara,1.0,NISP,pollen,,1366.0,,,Radiocarbon years BP,10.0,,pollen,6/30/2007,362.0,0.276243093923
+2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Solanum dulcamara,1.0,NISP,pollen,,1157.0,,,Radiocarbon years BP,45.0,1.0,pollen,6/30/2007,326.0,0.306748466258
+2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Solanum dulcamara,1.0,NISP,pollen,,1542.0,,,Radiocarbon years BP,60.0,1.0,pollen,6/30/2007,295.0,0.338983050847
+2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Solanum dulcamara,2.0,NISP,pollen,,1799.0,,,Radiocarbon years BP,70.0,1.0,pollen,6/30/2007,339.0,0.589970501475
+2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Solanum dulcamara,1.0,NISP,pollen,,1928.0,,,Radiocarbon years BP,75.0,1.0,pollen,6/30/2007,334.0,0.299401197605
+2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Solanum dulcamara,1.0,NISP,pollen,,2056.0,,,Radiocarbon years BP,80.0,1.0,pollen,6/30/2007,310.0,0.322580645161
+2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Solanum dulcamara,1.0,NISP,pollen,,2993.0,,,Radiocarbon years BP,125.0,1.0,pollen,6/30/2007,223.0,0.448430493274
+2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Solanum dulcamara,1.0,NISP,pollen,,4528.0,,,Radiocarbon years BP,280.0,1.0,pollen,6/30/2007,324.0,0.308641975309
+2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Solanum dulcamara,1.0,NISP,pollen,,4596.0,,,Radiocarbon years BP,295.0,1.0,pollen,6/30/2007,315.0,0.31746031746
+2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Solanum dulcamara,1.0,NISP,pollen,,4824.0,,,Radiocarbon years BP,345.0,1.0,pollen,6/30/2007,209.0,0.478468899522
+2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Solanum dulcamara,1.0,NISP,pollen,,4960.0,,,Radiocarbon years BP,375.0,1.0,pollen,6/30/2007,264.0,0.378787878788
+2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Solanum dulcamara,1.0,NISP,pollen,,6073.0,,,Radiocarbon years BP,565.0,1.0,pollen,6/30/2007,289.0,0.346020761246
+2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Solanum dulcamara,2.0,NISP,pollen,,6253.0,,,Radiocarbon years BP,595.0,1.0,pollen,6/30/2007,218.0,0.917431192661
+2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Solanum dulcamara,1.0,NISP,pollen,,7760.0,,,Radiocarbon years BP,845.0,1.0,pollen,6/30/2007,319.0,0.313479623824
+3006,Belle Lake,52.183333,-7.033333,52.183333,52.183333,-7.033333,-7.033333,Vascular plants,Solanum dulcamara,1.0,NISP,pollen,,5498.0,,,Radiocarbon years BP,196.0,33.0,pollen,6/30/2007,325.0,0.307692307692
+3006,Belle Lake,52.183333,-7.033333,52.183333,52.183333,-7.033333,-7.033333,Vascular plants,Solanum dulcamara,9.0,NISP,pollen,,5651.0,,,Radiocarbon years BP,216.0,33.0,pollen,6/30/2007,311.0,2.89389067524
+3006,Belle Lake,52.183333,-7.033333,52.183333,52.183333,-7.033333,-7.033333,Vascular plants,Solanum dulcamara,1.0,NISP,pollen,,5733.0,,,Radiocarbon years BP,226.0,33.0,pollen,6/30/2007,297.0,0.3367003367
+3006,Belle Lake,52.183333,-7.033333,52.183333,52.183333,-7.033333,-7.033333,Vascular plants,Solanum dulcamara,2.0,NISP,pollen,,5865.0,,,Radiocarbon years BP,236.0,33.0,pollen,6/30/2007,419.0,0.477326968974
+3006,Belle Lake,52.183333,-7.033333,52.183333,52.183333,-7.033333,-7.033333,Vascular plants,Solanum dulcamara,1.0,NISP,pollen,,9444.0,,,Radiocarbon years BP,396.0,33.0,pollen,6/30/2007,566.0,0.17667844523

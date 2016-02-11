@@ -1,0 +1,13 @@
+siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
+3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Scleranthus annuus,1.0,NISP,pollen,,529.0,,,Radiocarbon years BP,35.0,78.0,pollen,6/30/2007,654.0,0.152905198777
+3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Scleranthus annuus,1.0,NISP,pollen,,1136.0,,,Radiocarbon years BP,90.0,78.0,pollen,6/30/2007,860.0,0.116279069767
+3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Scleranthus annuus,1.0,NISP,pollen,,1287.0,,,Radiocarbon years BP,105.0,78.0,pollen,6/30/2007,698.0,0.143266475645
+3088,Dunum [Hilliges Moor],53.583333,7.633333,53.583333,53.583333,7.633333,7.633333,Vascular plants,Scleranthus annuus,37.0,NISP,pollen,,,,,,0.0,5.0,pollen,6/30/2007,8985.0,0.411797440178
+3088,Dunum [Hilliges Moor],53.583333,7.633333,53.583333,53.583333,7.633333,7.633333,Vascular plants,Scleranthus annuus,23.0,NISP,pollen,,,,,,4.0,5.0,pollen,6/30/2007,4465.0,0.515117581187
+3088,Dunum [Hilliges Moor],53.583333,7.633333,53.583333,53.583333,7.633333,7.633333,Vascular plants,Scleranthus annuus,8.0,NISP,pollen,,,,,,8.0,5.0,pollen,6/30/2007,3480.0,0.229885057471
+3088,Dunum [Hilliges Moor],53.583333,7.633333,53.583333,53.583333,7.633333,7.633333,Vascular plants,Scleranthus annuus,23.0,NISP,pollen,,,,,,12.0,5.0,pollen,6/30/2007,4917.0,0.467764897295
+3088,Dunum [Hilliges Moor],53.583333,7.633333,53.583333,53.583333,7.633333,7.633333,Vascular plants,Scleranthus annuus,4.0,NISP,pollen,,,,,,16.0,5.0,pollen,6/30/2007,2359.0,0.169563374311
+3088,Dunum [Hilliges Moor],53.583333,7.633333,53.583333,53.583333,7.633333,7.633333,Vascular plants,Scleranthus annuus,11.0,NISP,pollen,,,,,,20.0,5.0,pollen,6/30/2007,3052.0,0.360419397117
+3088,Dunum [Hilliges Moor],53.583333,7.633333,53.583333,53.583333,7.633333,7.633333,Vascular plants,Scleranthus annuus,7.0,NISP,pollen,,,,,,24.0,5.0,pollen,6/30/2007,2755.0,0.254083484574
+3088,Dunum [Hilliges Moor],53.583333,7.633333,53.583333,53.583333,7.633333,7.633333,Vascular plants,Scleranthus annuus,2.0,NISP,pollen,,,,,,26.0,5.0,pollen,6/30/2007,1629.0,0.12277470841
+3088,Dunum [Hilliges Moor],53.583333,7.633333,53.583333,53.583333,7.633333,7.633333,Vascular plants,Scleranthus annuus,8.0,NISP,pollen,,,,,,28.0,5.0,pollen,6/30/2007,1808.0,0.442477876106

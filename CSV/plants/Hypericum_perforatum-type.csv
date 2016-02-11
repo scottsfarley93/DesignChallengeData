@@ -1,0 +1,13 @@
+siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Hypericum perforatum-type,5.0,NISP,pollen,,266.0,,,Radiocarbon years BP,20.0,350.0,pollen,6/30/2007,1150.0,0.434782608696
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Hypericum perforatum-type,1.0,NISP,pollen,,405.0,,,Radiocarbon years BP,30.0,350.0,pollen,6/30/2007,656.0,0.15243902439
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Hypericum perforatum-type,1.0,NISP,pollen,,974.0,,,Radiocarbon years BP,70.0,350.0,pollen,6/30/2007,342.0,0.292397660819
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Hypericum perforatum-type,1.0,NISP,pollen,,1118.0,,,Radiocarbon years BP,80.0,350.0,pollen,6/30/2007,688.0,0.145348837209
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Hypericum perforatum-type,1.0,NISP,pollen,,1409.0,,,Radiocarbon years BP,100.0,350.0,pollen,6/30/2007,1003.0,0.0997008973081
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Hypericum perforatum-type,1.0,NISP,pollen,,1996.0,,,Radiocarbon years BP,140.0,350.0,pollen,6/30/2007,1200.0,0.0833333333333
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Hypericum perforatum-type,1.0,NISP,pollen,,2739.0,,,Radiocarbon years BP,190.0,350.0,pollen,6/30/2007,622.0,0.16077170418
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Hypericum perforatum-type,3.0,NISP,pollen,,3038.0,,,Radiocarbon years BP,210.0,350.0,pollen,6/30/2007,724.0,0.414364640884
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Hypericum perforatum-type,34.0,NISP,pollen,,3338.0,,,Radiocarbon years BP,230.0,350.0,pollen,6/30/2007,1332.0,2.55255255255
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Hypericum perforatum-type,2.0,NISP,pollen,,4244.0,,,Radiocarbon years BP,290.0,350.0,pollen,6/30/2007,2154.0,0.0928505106778
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Hypericum perforatum-type,1.0,NISP,pollen,,4320.0,,,Radiocarbon years BP,295.0,350.0,pollen,6/30/2007,1315.0,0.0760456273764
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Hypericum perforatum-type,1.0,NISP,pollen,,8390.0,,,Radiocarbon years BP,560.0,350.0,pollen,6/30/2007,269.0,0.371747211896

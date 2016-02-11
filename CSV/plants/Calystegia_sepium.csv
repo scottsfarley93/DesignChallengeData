@@ -1,0 +1,51 @@
+siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Calystegia sepium,1.0,NISP,pollen,,2087.0,,,Radiocarbon years BP,280.0,,pollen,6/30/2007,456.0,0.219298245614
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Calystegia sepium,1.0,NISP,pollen,,7543.0,,,Radiocarbon years BP,490.0,,pollen,6/30/2007,685.0,0.14598540146
+3045,La Caudelais,47.261111,-1.780556,47.261111,47.261111,-1.780556,-1.780556,Vascular plants,Calystegia sepium,1.0,NISP,pollen,,1656.0,,,Radiocarbon years BP,40.0,1.0,pollen,6/30/2007,348.0,0.287356321839
+3045,La Caudelais,47.261111,-1.780556,47.261111,47.261111,-1.780556,-1.780556,Vascular plants,Calystegia sepium,1.0,NISP,pollen,,4234.0,,,Radiocarbon years BP,255.0,1.0,pollen,6/30/2007,324.0,0.308641975309
+3045,La Caudelais,47.261111,-1.780556,47.261111,47.261111,-1.780556,-1.780556,Vascular plants,Calystegia sepium,1.0,NISP,pollen,,4294.0,,,Radiocarbon years BP,260.0,1.0,pollen,6/30/2007,289.0,0.346020761246
+3045,La Caudelais,47.261111,-1.780556,47.261111,47.261111,-1.780556,-1.780556,Vascular plants,Calystegia sepium,1.0,NISP,pollen,,4354.0,,,Radiocarbon years BP,265.0,1.0,pollen,6/30/2007,261.0,0.383141762452
+3045,La Caudelais,47.261111,-1.780556,47.261111,47.261111,-1.780556,-1.780556,Vascular plants,Calystegia sepium,1.0,NISP,pollen,,4414.0,,,Radiocarbon years BP,270.0,1.0,pollen,6/30/2007,234.0,0.42735042735
+3045,La Caudelais,47.261111,-1.780556,47.261111,47.261111,-1.780556,-1.780556,Vascular plants,Calystegia sepium,2.0,NISP,pollen,,4888.0,,,Radiocarbon years BP,315.0,1.0,pollen,6/30/2007,278.0,0.719424460432
+3045,La Caudelais,47.261111,-1.780556,47.261111,47.261111,-1.780556,-1.780556,Vascular plants,Calystegia sepium,1.0,NISP,pollen,,4978.0,,,Radiocarbon years BP,325.0,1.0,pollen,6/30/2007,199.0,0.502512562814
+3045,La Caudelais,47.261111,-1.780556,47.261111,47.261111,-1.780556,-1.780556,Vascular plants,Calystegia sepium,1.0,NISP,pollen,,5023.0,,,Radiocarbon years BP,330.0,1.0,pollen,6/30/2007,261.0,0.383141762452
+3045,La Caudelais,47.261111,-1.780556,47.261111,47.261111,-1.780556,-1.780556,Vascular plants,Calystegia sepium,2.0,NISP,pollen,,5068.0,,,Radiocarbon years BP,335.0,1.0,pollen,6/30/2007,309.0,0.647249190939
+3045,La Caudelais,47.261111,-1.780556,47.261111,47.261111,-1.780556,-1.780556,Vascular plants,Calystegia sepium,1.0,NISP,pollen,,5113.0,,,Radiocarbon years BP,340.0,1.0,pollen,6/30/2007,336.0,0.297619047619
+3045,La Caudelais,47.261111,-1.780556,47.261111,47.261111,-1.780556,-1.780556,Vascular plants,Calystegia sepium,1.0,NISP,pollen,,5204.0,,,Radiocarbon years BP,350.0,1.0,pollen,6/30/2007,310.0,0.322580645161
+3045,La Caudelais,47.261111,-1.780556,47.261111,47.261111,-1.780556,-1.780556,Vascular plants,Calystegia sepium,1.0,NISP,pollen,,5519.0,,,Radiocarbon years BP,385.0,1.0,pollen,6/30/2007,300.0,0.333333333333
+3045,La Caudelais,47.261111,-1.780556,47.261111,47.261111,-1.780556,-1.780556,Vascular plants,Calystegia sepium,1.0,NISP,pollen,,5609.0,,,Radiocarbon years BP,395.0,1.0,pollen,6/30/2007,336.0,0.297619047619
+3045,La Caudelais,47.261111,-1.780556,47.261111,47.261111,-1.780556,-1.780556,Vascular plants,Calystegia sepium,1.0,NISP,pollen,,5654.0,,,Radiocarbon years BP,400.0,1.0,pollen,6/30/2007,327.0,0.305810397554
+3045,La Caudelais,47.261111,-1.780556,47.261111,47.261111,-1.780556,-1.780556,Vascular plants,Calystegia sepium,1.0,NISP,pollen,,5710.0,,,Radiocarbon years BP,415.0,1.0,pollen,6/30/2007,290.0,0.344827586207
+3045,La Caudelais,47.261111,-1.780556,47.261111,47.261111,-1.780556,-1.780556,Vascular plants,Calystegia sepium,1.0,NISP,pollen,,5748.0,,,Radiocarbon years BP,435.0,1.0,pollen,6/30/2007,315.0,0.31746031746
+3045,La Caudelais,47.261111,-1.780556,47.261111,47.261111,-1.780556,-1.780556,Vascular plants,Calystegia sepium,1.0,NISP,pollen,,5757.0,,,Radiocarbon years BP,440.0,1.0,pollen,6/30/2007,336.0,0.297619047619
+3045,La Caudelais,47.261111,-1.780556,47.261111,47.261111,-1.780556,-1.780556,Vascular plants,Calystegia sepium,1.0,NISP,pollen,,5798.0,,,Radiocarbon years BP,462.0,1.0,pollen,6/30/2007,315.0,0.31746031746
+3045,La Caudelais,47.261111,-1.780556,47.261111,47.261111,-1.780556,-1.780556,Vascular plants,Calystegia sepium,1.0,NISP,pollen,,5961.0,,,Radiocarbon years BP,550.0,1.0,pollen,6/30/2007,275.0,0.363636363636
+3045,La Caudelais,47.261111,-1.780556,47.261111,47.261111,-1.780556,-1.780556,Vascular plants,Calystegia sepium,1.0,NISP,pollen,,6147.0,,,Radiocarbon years BP,650.0,1.0,pollen,6/30/2007,327.0,0.305810397554
+3045,La Caudelais,47.261111,-1.780556,47.261111,47.261111,-1.780556,-1.780556,Vascular plants,Calystegia sepium,1.0,NISP,pollen,,6370.0,,,Radiocarbon years BP,770.0,1.0,pollen,6/30/2007,300.0,0.333333333333
+3045,La Caudelais,47.261111,-1.780556,47.261111,47.261111,-1.780556,-1.780556,Vascular plants,Calystegia sepium,1.0,NISP,pollen,,6426.0,,,Radiocarbon years BP,800.0,1.0,pollen,6/30/2007,301.0,0.332225913621
+3045,La Caudelais,47.261111,-1.780556,47.261111,47.261111,-1.780556,-1.780556,Vascular plants,Calystegia sepium,1.0,NISP,pollen,,6713.0,,,Radiocarbon years BP,955.0,1.0,pollen,6/30/2007,367.0,0.272479564033
+3077,Dags Mosse,58.333333,14.7,58.333333,58.333333,14.7,14.7,Vascular plants,Calystegia sepium,2.0,NISP,pollen,,7513.0,,,Radiocarbon years BP,580.0,260.0,pollen,6/30/2007,833.0,0.240096038415
+3077,Dags Mosse,58.333333,14.7,58.333333,58.333333,14.7,14.7,Vascular plants,Calystegia sepium,2.0,NISP,pollen,,7578.0,,,Radiocarbon years BP,585.0,260.0,pollen,6/30/2007,1141.0,0.175284837862
+3077,Dags Mosse,58.333333,14.7,58.333333,58.333333,14.7,14.7,Vascular plants,Calystegia sepium,2.0,NISP,pollen,,7643.0,,,Radiocarbon years BP,590.0,260.0,pollen,6/30/2007,806.0,0.248138957816
+3077,Dags Mosse,58.333333,14.7,58.333333,58.333333,14.7,14.7,Vascular plants,Calystegia sepium,6.0,NISP,pollen,,7708.0,,,Radiocarbon years BP,595.0,260.0,pollen,6/30/2007,1394.0,0.430416068867
+3094,Ennerie,47.240278,-2.0,47.240278,47.240278,-2.0,-2.0,Vascular plants,Calystegia sepium,1.0,NISP,pollen,,6826.0,,,Radiocarbon years BP,670.0,2.0,pollen,6/30/2007,410.0,0.243902439024
+3114,Le Fourneau,48.444444,-0.191667,48.444444,48.444444,-0.191667,-0.191667,Vascular plants,Calystegia sepium,1.0,NISP,pollen,,3975.0,,,Radiocarbon years BP,72.5,,pollen,6/30/2007,371.0,0.269541778976
+3114,Le Fourneau,48.444444,-0.191667,48.444444,48.444444,-0.191667,-0.191667,Vascular plants,Calystegia sepium,1.0,NISP,pollen,,4786.0,,,Radiocarbon years BP,79.0,,pollen,6/30/2007,333.0,0.3003003003
+3148,Haut-Clion,47.116667,-2.025,47.116667,47.116667,-2.025,-2.025,Vascular plants,Calystegia sepium,1.0,NISP,pollen,,,,,,180.0,2.0,pollen,6/30/2007,148.0,0.675675675676
+3148,Haut-Clion,47.116667,-2.025,47.116667,47.116667,-2.025,-2.025,Vascular plants,Calystegia sepium,1.0,NISP,pollen,,,,,,220.0,2.0,pollen,6/30/2007,334.0,0.299401197605
+3148,Haut-Clion,47.116667,-2.025,47.116667,47.116667,-2.025,-2.025,Vascular plants,Calystegia sepium,1.0,NISP,pollen,,,,,,260.0,2.0,pollen,6/30/2007,362.0,0.276243093923
+3148,Haut-Clion,47.116667,-2.025,47.116667,47.116667,-2.025,-2.025,Vascular plants,Calystegia sepium,1.0,NISP,pollen,,,,,,340.0,2.0,pollen,6/30/2007,372.0,0.268817204301
+3148,Haut-Clion,47.116667,-2.025,47.116667,47.116667,-2.025,-2.025,Vascular plants,Calystegia sepium,1.0,NISP,pollen,,,,,,360.0,2.0,pollen,6/30/2007,298.0,0.335570469799
+3148,Haut-Clion,47.116667,-2.025,47.116667,47.116667,-2.025,-2.025,Vascular plants,Calystegia sepium,1.0,NISP,pollen,,,,,,580.0,2.0,pollen,6/30/2007,396.0,0.252525252525
+3148,Haut-Clion,47.116667,-2.025,47.116667,47.116667,-2.025,-2.025,Vascular plants,Calystegia sepium,1.0,NISP,pollen,,,,,,700.0,2.0,pollen,6/30/2007,308.0,0.324675324675
+3148,Haut-Clion,47.116667,-2.025,47.116667,47.116667,-2.025,-2.025,Vascular plants,Calystegia sepium,1.0,NISP,pollen,,,,,,860.0,2.0,pollen,6/30/2007,374.0,0.267379679144
+3247,Locmariaquer,47.554444,-2.932222,47.554444,47.554444,-2.932222,-2.932222,Vascular plants,Calystegia sepium,1.0,NISP,pollen,,5224.0,,,Radiocarbon years BP,25.0,2.0,pollen,6/30/2007,461.0,0.216919739696
+3247,Locmariaquer,47.554444,-2.932222,47.554444,47.554444,-2.932222,-2.932222,Vascular plants,Calystegia sepium,2.0,NISP,pollen,,5269.0,,,Radiocarbon years BP,30.0,2.0,pollen,6/30/2007,391.0,0.511508951407
+3247,Locmariaquer,47.554444,-2.932222,47.554444,47.554444,-2.932222,-2.932222,Vascular plants,Calystegia sepium,2.0,NISP,pollen,,6148.0,,,Radiocarbon years BP,110.0,2.0,pollen,6/30/2007,367.0,0.544959128065
+3248,Logne,47.328333,-1.501111,47.328333,47.328333,-1.501111,-1.501111,Vascular plants,Calystegia sepium,1.0,NISP,pollen,,2204.0,,,Radiocarbon years BP,150.0,,pollen,6/30/2007,374.0,0.267379679144
+3248,Logne,47.328333,-1.501111,47.328333,47.328333,-1.501111,-1.501111,Vascular plants,Calystegia sepium,1.0,NISP,pollen,,2332.0,,,Radiocarbon years BP,170.0,,pollen,6/30/2007,416.0,0.240384615385
+3248,Logne,47.328333,-1.501111,47.328333,47.328333,-1.501111,-1.501111,Vascular plants,Calystegia sepium,2.0,NISP,pollen,,2351.0,,,Radiocarbon years BP,175.0,,pollen,6/30/2007,413.0,0.484261501211
+3248,Logne,47.328333,-1.501111,47.328333,47.328333,-1.501111,-1.501111,Vascular plants,Calystegia sepium,1.0,NISP,pollen,,2755.0,,,Radiocarbon years BP,280.0,,pollen,6/30/2007,373.0,0.268096514745
+3248,Logne,47.328333,-1.501111,47.328333,47.328333,-1.501111,-1.501111,Vascular plants,Calystegia sepium,1.0,NISP,pollen,,2851.0,,,Radiocarbon years BP,305.0,,pollen,6/30/2007,398.0,0.251256281407
+3248,Logne,47.328333,-1.501111,47.328333,47.328333,-1.501111,-1.501111,Vascular plants,Calystegia sepium,1.0,NISP,pollen,,3098.0,,,Radiocarbon years BP,350.0,,pollen,6/30/2007,447.0,0.223713646532
+3248,Logne,47.328333,-1.501111,47.328333,47.328333,-1.501111,-1.501111,Vascular plants,Calystegia sepium,2.0,NISP,pollen,,3235.0,,,Radiocarbon years BP,360.0,,pollen,6/30/2007,402.0,0.497512437811

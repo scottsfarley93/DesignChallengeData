@@ -1,0 +1,12 @@
+siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
+1325,Site 5 (Jensen 1998),26.352778,-80.307778,26.352778,26.352778,-80.307778,-80.307778,Vascular plants,Taxodium distichum,1.0,NISP,pollen,,,,,,0.0,,pollen surface sample,6/30/2007,,
+1326,Site 6 (Jensen 1998),26.261389,-80.333056,26.261389,26.261389,-80.333056,-80.333056,Vascular plants,Taxodium distichum,5.0,NISP,pollen,,,,,,0.0,,pollen surface sample,6/30/2007,,
+1328,Site 8 (Jensen 1998),26.306944,-80.314722,26.306944,26.306944,-80.314722,-80.314722,Vascular plants,Taxodium distichum,4.0,NISP,pollen,,,,,,0.0,,pollen surface sample,6/30/2007,,
+1334,Site 14 (Jensen 1998),26.289444,-80.379167,26.289444,26.289444,-80.379167,-80.379167,Vascular plants,Taxodium distichum,1.0,NISP,pollen,,,,,,0.0,,pollen surface sample,6/30/2007,,
+1335,Site 15 (Jensen 1998),26.302222,-80.386389,26.302222,26.302222,-80.386389,-80.386389,Vascular plants,Taxodium distichum,3.0,NISP,pollen,,,,,,0.0,,pollen surface sample,6/30/2007,,
+1336,Site 16 (Jensen 1998),26.3125,-80.385278,26.3125,26.3125,-80.385278,-80.385278,Vascular plants,Taxodium distichum,1.0,NISP,pollen,,,,,,0.0,,pollen surface sample,6/30/2007,,
+1337,Site 17 (Jensen 1998),26.325,-80.368889,26.325,26.325,-80.368889,-80.368889,Vascular plants,Taxodium distichum,2.0,NISP,pollen,,,,,,0.0,,pollen surface sample,6/30/2007,,
+1339,Site 19 (Jensen 1998),26.333056,-80.365833,26.333056,26.333056,-80.365833,-80.365833,Vascular plants,Taxodium distichum,1.0,NISP,pollen,,,,,,0.0,,pollen surface sample,6/30/2007,,
+1340,Site 20 (Jensen 1998),26.307778,-80.357778,26.307778,26.307778,-80.357778,-80.357778,Vascular plants,Taxodium distichum,1.0,NISP,pollen,,,,,,0.0,,pollen surface sample,6/30/2007,,
+1341,Site 21 (Jensen 1998),26.276389,-80.356667,26.276389,26.276389,-80.356667,-80.356667,Vascular plants,Taxodium distichum,1.0,NISP,pollen,,,,,,0.0,,pollen surface sample,6/30/2007,,
+1343,Site 23 (Jensen 1998),26.306111,-80.368611,26.306111,26.306111,-80.368611,-80.368611,Vascular plants,Taxodium distichum,3.0,NISP,pollen,,,,,,0.0,,pollen surface sample,6/30/2007,,

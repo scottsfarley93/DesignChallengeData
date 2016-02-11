@@ -1,0 +1,4 @@
+siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
+3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Hottonia palustris,1.0,NISP,pollen,,6631.0,,,Radiocarbon years BP,795.0,78.0,pollen,6/30/2007,1000.0,0.1
+3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Hottonia palustris,1.0,NISP,pollen,,8972.0,,,Radiocarbon years BP,1155.0,78.0,pollen,6/30/2007,708.0,0.141242937853
+3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Hottonia palustris,1.0,NISP,pollen,,9966.0,,,Radiocarbon years BP,1315.0,78.0,pollen,6/30/2007,1188.0,0.0841750841751

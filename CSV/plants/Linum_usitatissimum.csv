@@ -1,0 +1,41 @@
+siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Linum usitatissimum,1.0,NISP,pollen,,,,,,14.0,375.0,pollen,6/30/2007,809.0,0.123609394314
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Linum usitatissimum,1.0,NISP,pollen,,,,,,15.0,375.0,pollen,6/30/2007,2762.0,0.0362056480811
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Linum usitatissimum,4.0,NISP,pollen,,,,,,16.0,375.0,pollen,6/30/2007,1470.0,0.272108843537
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Linum usitatissimum,2.0,NISP,pollen,,,,,,17.0,375.0,pollen,6/30/2007,918.0,0.217864923747
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Linum usitatissimum,5.0,NISP,pollen,,,,,,18.0,375.0,pollen,6/30/2007,1419.0,0.352360817477
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Linum usitatissimum,4.0,NISP,pollen,,,,,,36.0,375.0,pollen,6/30/2007,1703.0,0.234879624193
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Linum usitatissimum,1.0,NISP,pollen,,,,,,38.0,375.0,pollen,6/30/2007,2258.0,0.044286979628
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Linum usitatissimum,4.0,NISP,pollen,,,,,,39.0,375.0,pollen,6/30/2007,1102.0,0.362976406534
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Linum usitatissimum,1.0,NISP,pollen,,,,,,52.0,375.0,pollen,6/30/2007,2906.0,0.0344115622849
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Linum usitatissimum,9.0,NISP,pollen,,,,,,54.0,375.0,pollen,6/30/2007,1818.0,0.49504950495
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Linum usitatissimum,2.0,NISP,pollen,,,,,,61.0,375.0,pollen,6/30/2007,2063.0,0.0969461948619
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Linum usitatissimum,1.0,NISP,pollen,,,,,,72.0,375.0,pollen,6/30/2007,916.0,0.109170305677
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Linum usitatissimum,1.0,NISP,pollen,,,,,,102.0,375.0,pollen,6/30/2007,1938.0,0.0515995872033
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Linum usitatissimum,8.0,NISP,pollen,,,,,,105.0,375.0,pollen,6/30/2007,1142.0,0.700525394046
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Linum usitatissimum,3.0,NISP,pollen,,,,,,107.0,375.0,pollen,6/30/2007,1217.0,0.246507806081
+3037,Ballyscullion East,54.8,-6.433333,54.8,54.8,-6.433333,-6.433333,Vascular plants,Linum usitatissimum,1.0,NISP,pollen,,,,,,57.0,50.0,pollen,6/30/2007,702.0,0.14245014245
+3101,The Mire [Fallahogy],54.9,-6.6,54.9,54.9,-6.6,-6.6,Vascular plants,Linum usitatissimum,1.0,NISP,pollen,,,,,,4.0,46.0,pollen,6/30/2007,491.0,0.20366598778
+3101,The Mire [Fallahogy],54.9,-6.6,54.9,54.9,-6.6,-6.6,Vascular plants,Linum usitatissimum,1.0,NISP,pollen,,,,,,13.0,46.0,pollen,6/30/2007,772.0,0.129533678756
+3143,Lough Henney,54.433333,-5.9,54.433333,54.433333,-5.9,-5.9,Vascular plants,Linum usitatissimum,1.0,NISP,pollen,,40.0,,,Radiocarbon years BP,3.0,25.0,pollen,6/30/2007,960.0,0.104166666667
+3143,Lough Henney,54.433333,-5.9,54.433333,54.433333,-5.9,-5.9,Vascular plants,Linum usitatissimum,1.0,NISP,pollen,,147.0,,,Radiocarbon years BP,11.0,25.0,pollen,6/30/2007,983.0,0.101729399797
+3143,Lough Henney,54.433333,-5.9,54.433333,54.433333,-5.9,-5.9,Vascular plants,Linum usitatissimum,2.0,NISP,pollen,,160.0,,,Radiocarbon years BP,12.0,25.0,pollen,6/30/2007,1306.0,0.153139356815
+3143,Lough Henney,54.433333,-5.9,54.433333,54.433333,-5.9,-5.9,Vascular plants,Linum usitatissimum,1.0,NISP,pollen,,173.0,,,Radiocarbon years BP,13.0,25.0,pollen,6/30/2007,968.0,0.103305785124
+3143,Lough Henney,54.433333,-5.9,54.433333,54.433333,-5.9,-5.9,Vascular plants,Linum usitatissimum,1.0,NISP,pollen,,200.0,,,Radiocarbon years BP,15.0,25.0,pollen,6/30/2007,1000.0,0.1
+3143,Lough Henney,54.433333,-5.9,54.433333,54.433333,-5.9,-5.9,Vascular plants,Linum usitatissimum,1.0,NISP,pollen,,213.0,,,Radiocarbon years BP,16.0,25.0,pollen,6/30/2007,1161.0,0.0861326442722
+3143,Lough Henney,54.433333,-5.9,54.433333,54.433333,-5.9,-5.9,Vascular plants,Linum usitatissimum,1.0,NISP,pollen,,227.0,,,Radiocarbon years BP,17.0,25.0,pollen,6/30/2007,834.0,0.119904076739
+3143,Lough Henney,54.433333,-5.9,54.433333,54.433333,-5.9,-5.9,Vascular plants,Linum usitatissimum,1.0,NISP,pollen,,240.0,,,Radiocarbon years BP,18.0,25.0,pollen,6/30/2007,977.0,0.102354145343
+3143,Lough Henney,54.433333,-5.9,54.433333,54.433333,-5.9,-5.9,Vascular plants,Linum usitatissimum,2.0,NISP,pollen,,294.0,,,Radiocarbon years BP,22.0,25.0,pollen,6/30/2007,963.0,0.207684319834
+3143,Lough Henney,54.433333,-5.9,54.433333,54.433333,-5.9,-5.9,Vascular plants,Linum usitatissimum,1.0,NISP,pollen,,320.0,,,Radiocarbon years BP,24.0,25.0,pollen,6/30/2007,946.0,0.105708245243
+3143,Lough Henney,54.433333,-5.9,54.433333,54.433333,-5.9,-5.9,Vascular plants,Linum usitatissimum,1.0,NISP,pollen,,374.0,,,Radiocarbon years BP,28.0,25.0,pollen,6/30/2007,1192.0,0.0838926174497
+3251,Long Lough,54.416667,-5.866667,54.416667,54.416667,-5.866667,-5.866667,Vascular plants,Linum usitatissimum,1.0,NISP,pollen,,160.0,,,Radiocarbon years BP,12.0,25.0,pollen,6/30/2007,965.0,0.103626943005
+3251,Long Lough,54.416667,-5.866667,54.416667,54.416667,-5.866667,-5.866667,Vascular plants,Linum usitatissimum,1.0,NISP,pollen,,187.0,,,Radiocarbon years BP,14.0,25.0,pollen,6/30/2007,993.0,0.100704934542
+3251,Long Lough,54.416667,-5.866667,54.416667,54.416667,-5.866667,-5.866667,Vascular plants,Linum usitatissimum,1.0,NISP,pollen,,240.0,,,Radiocarbon years BP,18.0,25.0,pollen,6/30/2007,993.0,0.100704934542
+3251,Long Lough,54.416667,-5.866667,54.416667,54.416667,-5.866667,-5.866667,Vascular plants,Linum usitatissimum,1.0,NISP,pollen,,267.0,,,Radiocarbon years BP,20.0,25.0,pollen,6/30/2007,977.0,0.102354145343
+3251,Long Lough,54.416667,-5.866667,54.416667,54.416667,-5.866667,-5.866667,Vascular plants,Linum usitatissimum,1.0,NISP,pollen,,294.0,,,Radiocarbon years BP,22.0,25.0,pollen,6/30/2007,981.0,0.101936799185
+3251,Long Lough,54.416667,-5.866667,54.416667,54.416667,-5.866667,-5.866667,Vascular plants,Linum usitatissimum,1.0,NISP,pollen,,320.0,,,Radiocarbon years BP,24.0,25.0,pollen,6/30/2007,983.0,0.101729399797
+3251,Long Lough,54.416667,-5.866667,54.416667,54.416667,-5.866667,-5.866667,Vascular plants,Linum usitatissimum,1.0,NISP,pollen,,374.0,,,Radiocarbon years BP,28.0,25.0,pollen,6/30/2007,988.0,0.101214574899
+3251,Long Lough,54.416667,-5.866667,54.416667,54.416667,-5.866667,-5.866667,Vascular plants,Linum usitatissimum,1.0,NISP,pollen,,400.0,,,Radiocarbon years BP,30.0,25.0,pollen,6/30/2007,974.0,0.102669404517
+3260,Breidfeld,50.122778,6.063056,50.122778,50.122778,6.063056,6.063056,Vascular plants,Linum usitatissimum,1.0,NISP,pollen,,3477.0,,,Radiocarbon years BP,48.0,440.0,pollen,6/30/2007,281.0,0.355871886121
+3393,Lake Skrzetuszewskie,52.55,17.360556,52.55,52.55,17.360556,17.360556,Vascular plants,Linum usitatissimum,1.0,NISP,pollen,,766.0,,,Radiocarbon years BP,500.0,109.0,pollen,6/30/2007,1079.0,0.0926784059314
+3393,Lake Skrzetuszewskie,52.55,17.360556,52.55,52.55,17.360556,17.360556,Vascular plants,Linum usitatissimum,1.0,NISP,pollen,,984.0,,,Radiocarbon years BP,550.0,109.0,pollen,6/30/2007,1114.0,0.0897666068223

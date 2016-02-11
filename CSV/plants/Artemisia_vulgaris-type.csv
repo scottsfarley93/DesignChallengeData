@@ -1,0 +1,20 @@
+siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Artemisia vulgaris-type,1.0,NISP,pollen,,63.0,,,Radiocarbon years BP,5.0,350.0,pollen,6/30/2007,558.0,0.179211469534
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Artemisia vulgaris-type,14.0,NISP,pollen,,266.0,,,Radiocarbon years BP,20.0,350.0,pollen,6/30/2007,1150.0,1.21739130435
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Artemisia vulgaris-type,6.0,NISP,pollen,,405.0,,,Radiocarbon years BP,30.0,350.0,pollen,6/30/2007,656.0,0.914634146341
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Artemisia vulgaris-type,3.0,NISP,pollen,,974.0,,,Radiocarbon years BP,70.0,350.0,pollen,6/30/2007,342.0,0.877192982456
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Artemisia vulgaris-type,9.0,NISP,pollen,,1118.0,,,Radiocarbon years BP,80.0,350.0,pollen,6/30/2007,688.0,1.30813953488
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Artemisia vulgaris-type,10.0,NISP,pollen,,1409.0,,,Radiocarbon years BP,100.0,350.0,pollen,6/30/2007,1003.0,0.997008973081
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Artemisia vulgaris-type,15.0,NISP,pollen,,1702.0,,,Radiocarbon years BP,120.0,350.0,pollen,6/30/2007,1657.0,0.905250452625
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Artemisia vulgaris-type,5.0,NISP,pollen,,1996.0,,,Radiocarbon years BP,140.0,350.0,pollen,6/30/2007,1200.0,0.416666666667
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Artemisia vulgaris-type,2.0,NISP,pollen,,2441.0,,,Radiocarbon years BP,170.0,350.0,pollen,6/30/2007,774.0,0.258397932817
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Artemisia vulgaris-type,3.0,NISP,pollen,,2739.0,,,Radiocarbon years BP,190.0,350.0,pollen,6/30/2007,622.0,0.48231511254
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Artemisia vulgaris-type,6.0,NISP,pollen,,3038.0,,,Radiocarbon years BP,210.0,350.0,pollen,6/30/2007,724.0,0.828729281768
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Artemisia vulgaris-type,6.0,NISP,pollen,,4244.0,,,Radiocarbon years BP,290.0,350.0,pollen,6/30/2007,2154.0,0.278551532033
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Artemisia vulgaris-type,6.0,NISP,pollen,,4320.0,,,Radiocarbon years BP,295.0,350.0,pollen,6/30/2007,1315.0,0.456273764259
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Artemisia vulgaris-type,1.0,NISP,pollen,,5462.0,,,Radiocarbon years BP,370.0,350.0,pollen,6/30/2007,1273.0,0.0785545954438
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Artemisia vulgaris-type,1.0,NISP,pollen,,5768.0,,,Radiocarbon years BP,390.0,350.0,pollen,6/30/2007,677.0,0.147710487445
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Artemisia vulgaris-type,10.0,NISP,pollen,,7152.0,,,Radiocarbon years BP,480.0,350.0,pollen,6/30/2007,456.0,2.19298245614
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Artemisia vulgaris-type,1.0,NISP,pollen,,8080.0,,,Radiocarbon years BP,540.0,350.0,pollen,6/30/2007,502.0,0.199203187251
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Artemisia vulgaris-type,2.0,NISP,pollen,,8390.0,,,Radiocarbon years BP,560.0,350.0,pollen,6/30/2007,269.0,0.743494423792
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Artemisia vulgaris-type,2.0,NISP,pollen,,9323.0,,,Radiocarbon years BP,620.0,350.0,pollen,6/30/2007,365.0,0.547945205479

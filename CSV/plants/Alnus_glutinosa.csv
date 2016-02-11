@@ -1,0 +1,260 @@
+siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
+517,Starniki,50.266667,26.016667,50.266667,50.266667,26.016667,26.016667,Vascular plants,Alnus glutinosa,1.0,NISP,pollen,,405.0,,,Radiocarbon years BP,12.5,198.0,pollen,6/30/2007,314.0,0.31847133758
+517,Starniki,50.266667,26.016667,50.266667,50.266667,26.016667,26.016667,Vascular plants,Alnus glutinosa,10.0,NISP,pollen,,783.0,,,Radiocarbon years BP,25.0,198.0,pollen,6/30/2007,289.0,3.46020761246
+517,Starniki,50.266667,26.016667,50.266667,50.266667,26.016667,26.016667,Vascular plants,Alnus glutinosa,5.0,NISP,pollen,,1160.0,,,Radiocarbon years BP,37.5,198.0,pollen,6/30/2007,307.0,1.62866449511
+517,Starniki,50.266667,26.016667,50.266667,50.266667,26.016667,26.016667,Vascular plants,Alnus glutinosa,7.0,NISP,pollen,,1538.0,,,Radiocarbon years BP,50.0,198.0,pollen,6/30/2007,291.0,2.40549828179
+517,Starniki,50.266667,26.016667,50.266667,50.266667,26.016667,26.016667,Vascular plants,Alnus glutinosa,7.0,NISP,pollen,,1907.0,,,Radiocarbon years BP,62.5,198.0,pollen,6/30/2007,286.0,2.44755244755
+517,Starniki,50.266667,26.016667,50.266667,50.266667,26.016667,26.016667,Vascular plants,Alnus glutinosa,7.0,NISP,pollen,,2092.0,,,Radiocarbon years BP,75.0,198.0,pollen,6/30/2007,309.0,2.26537216828
+517,Starniki,50.266667,26.016667,50.266667,50.266667,26.016667,26.016667,Vascular plants,Alnus glutinosa,3.0,NISP,pollen,,2276.0,,,Radiocarbon years BP,87.5,198.0,pollen,6/30/2007,322.0,0.931677018634
+517,Starniki,50.266667,26.016667,50.266667,50.266667,26.016667,26.016667,Vascular plants,Alnus glutinosa,7.0,NISP,pollen,,2460.0,,,Radiocarbon years BP,100.0,198.0,pollen,6/30/2007,313.0,2.23642172524
+517,Starniki,50.266667,26.016667,50.266667,50.266667,26.016667,26.016667,Vascular plants,Alnus glutinosa,8.0,NISP,pollen,,2728.0,,,Radiocarbon years BP,112.5,198.0,pollen,6/30/2007,318.0,2.51572327044
+517,Starniki,50.266667,26.016667,50.266667,50.266667,26.016667,26.016667,Vascular plants,Alnus glutinosa,7.0,NISP,pollen,,2995.0,,,Radiocarbon years BP,125.0,198.0,pollen,6/30/2007,293.0,2.38907849829
+517,Starniki,50.266667,26.016667,50.266667,50.266667,26.016667,26.016667,Vascular plants,Alnus glutinosa,6.0,NISP,pollen,,3263.0,,,Radiocarbon years BP,137.5,198.0,pollen,6/30/2007,308.0,1.94805194805
+517,Starniki,50.266667,26.016667,50.266667,50.266667,26.016667,26.016667,Vascular plants,Alnus glutinosa,7.0,NISP,pollen,,3530.0,,,Radiocarbon years BP,150.0,198.0,pollen,6/30/2007,301.0,2.32558139535
+517,Starniki,50.266667,26.016667,50.266667,50.266667,26.016667,26.016667,Vascular plants,Alnus glutinosa,5.0,NISP,pollen,,3760.0,,,Radiocarbon years BP,162.5,198.0,pollen,6/30/2007,293.0,1.70648464164
+517,Starniki,50.266667,26.016667,50.266667,50.266667,26.016667,26.016667,Vascular plants,Alnus glutinosa,3.0,NISP,pollen,,3990.0,,,Radiocarbon years BP,175.0,198.0,pollen,6/30/2007,298.0,1.0067114094
+517,Starniki,50.266667,26.016667,50.266667,50.266667,26.016667,26.016667,Vascular plants,Alnus glutinosa,2.0,NISP,pollen,,4220.0,,,Radiocarbon years BP,187.5,198.0,pollen,6/30/2007,293.0,0.682593856655
+517,Starniki,50.266667,26.016667,50.266667,50.266667,26.016667,26.016667,Vascular plants,Alnus glutinosa,6.0,NISP,pollen,,4450.0,,,Radiocarbon years BP,200.0,198.0,pollen,6/30/2007,283.0,2.12014134276
+517,Starniki,50.266667,26.016667,50.266667,50.266667,26.016667,26.016667,Vascular plants,Alnus glutinosa,8.0,NISP,pollen,,4918.0,,,Radiocarbon years BP,212.5,198.0,pollen,6/30/2007,314.0,2.54777070064
+517,Starniki,50.266667,26.016667,50.266667,50.266667,26.016667,26.016667,Vascular plants,Alnus glutinosa,11.0,NISP,pollen,,5385.0,,,Radiocarbon years BP,225.0,198.0,pollen,6/30/2007,314.0,3.50318471338
+517,Starniki,50.266667,26.016667,50.266667,50.266667,26.016667,26.016667,Vascular plants,Alnus glutinosa,11.0,NISP,pollen,,5853.0,,,Radiocarbon years BP,237.5,198.0,pollen,6/30/2007,295.0,3.72881355932
+517,Starniki,50.266667,26.016667,50.266667,50.266667,26.016667,26.016667,Vascular plants,Alnus glutinosa,5.0,NISP,pollen,,6320.0,,,Radiocarbon years BP,250.0,198.0,pollen,6/30/2007,294.0,1.70068027211
+517,Starniki,50.266667,26.016667,50.266667,50.266667,26.016667,26.016667,Vascular plants,Alnus glutinosa,6.0,NISP,pollen,,6678.0,,,Radiocarbon years BP,262.5,198.0,pollen,6/30/2007,286.0,2.0979020979
+517,Starniki,50.266667,26.016667,50.266667,50.266667,26.016667,26.016667,Vascular plants,Alnus glutinosa,10.0,NISP,pollen,,7035.0,,,Radiocarbon years BP,275.0,198.0,pollen,6/30/2007,339.0,2.94985250737
+517,Starniki,50.266667,26.016667,50.266667,50.266667,26.016667,26.016667,Vascular plants,Alnus glutinosa,5.0,NISP,pollen,,7393.0,,,Radiocarbon years BP,287.5,198.0,pollen,6/30/2007,321.0,1.55763239875
+517,Starniki,50.266667,26.016667,50.266667,50.266667,26.016667,26.016667,Vascular plants,Alnus glutinosa,6.0,NISP,pollen,,7750.0,,,Radiocarbon years BP,300.0,198.0,pollen,6/30/2007,295.0,2.03389830508
+517,Starniki,50.266667,26.016667,50.266667,50.266667,26.016667,26.016667,Vascular plants,Alnus glutinosa,3.0,NISP,pollen,,9055.0,,,Radiocarbon years BP,350.0,198.0,pollen,6/30/2007,314.0,0.955414012739
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Alnus glutinosa,1.0,NISP,pollen,,128.0,,,Radiocarbon years BP,40.0,,pollen,6/30/2007,252.0,0.396825396825
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Alnus glutinosa,6.0,NISP,pollen,,253.0,,,Radiocarbon years BP,50.0,,pollen,6/30/2007,289.0,2.07612456747
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Alnus glutinosa,7.0,NISP,pollen,,374.0,,,Radiocarbon years BP,60.0,,pollen,6/30/2007,280.0,2.5
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Alnus glutinosa,15.0,NISP,pollen,,491.0,,,Radiocarbon years BP,70.0,,pollen,6/30/2007,297.0,5.05050505051
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Alnus glutinosa,8.0,NISP,pollen,,605.0,,,Radiocarbon years BP,80.0,,pollen,6/30/2007,292.0,2.7397260274
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Alnus glutinosa,5.0,NISP,pollen,,714.0,,,Radiocarbon years BP,90.0,,pollen,6/30/2007,283.0,1.7667844523
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Alnus glutinosa,6.0,NISP,pollen,,820.0,,,Radiocarbon years BP,100.0,,pollen,6/30/2007,339.0,1.76991150442
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Alnus glutinosa,6.0,NISP,pollen,,1021.0,,,Radiocarbon years BP,120.0,,pollen,6/30/2007,353.0,1.69971671388
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Alnus glutinosa,4.0,NISP,pollen,,1116.0,,,Radiocarbon years BP,130.0,,pollen,6/30/2007,395.0,1.01265822785
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Alnus glutinosa,8.0,NISP,pollen,,1206.0,,,Radiocarbon years BP,140.0,,pollen,6/30/2007,370.0,2.16216216216
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Alnus glutinosa,5.0,NISP,pollen,,1294.0,,,Radiocarbon years BP,150.0,,pollen,6/30/2007,467.0,1.07066381156
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Alnus glutinosa,6.0,NISP,pollen,,1377.0,,,Radiocarbon years BP,160.0,,pollen,6/30/2007,460.0,1.30434782609
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Alnus glutinosa,4.0,NISP,pollen,,1457.0,,,Radiocarbon years BP,170.0,,pollen,6/30/2007,390.0,1.02564102564
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Alnus glutinosa,4.0,NISP,pollen,,1533.0,,,Radiocarbon years BP,180.0,,pollen,6/30/2007,572.0,0.699300699301
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Alnus glutinosa,9.0,NISP,pollen,,1605.0,,,Radiocarbon years BP,190.0,,pollen,6/30/2007,399.0,2.25563909774
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Alnus glutinosa,3.0,NISP,pollen,,1674.0,,,Radiocarbon years BP,200.0,,pollen,6/30/2007,372.0,0.806451612903
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Alnus glutinosa,4.0,NISP,pollen,,1739.0,,,Radiocarbon years BP,210.0,,pollen,6/30/2007,378.0,1.0582010582
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Alnus glutinosa,2.0,NISP,pollen,,1800.0,,,Radiocarbon years BP,220.0,,pollen,6/30/2007,366.0,0.546448087432
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Alnus glutinosa,6.0,NISP,pollen,,1857.0,,,Radiocarbon years BP,230.0,,pollen,6/30/2007,478.0,1.25523012552
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Alnus glutinosa,6.0,NISP,pollen,,1910.0,,,Radiocarbon years BP,240.0,,pollen,6/30/2007,477.0,1.25786163522
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Alnus glutinosa,13.0,NISP,pollen,,1960.0,,,Radiocarbon years BP,250.0,,pollen,6/30/2007,466.0,2.78969957082
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Alnus glutinosa,3.0,NISP,pollen,,2006.0,,,Radiocarbon years BP,260.0,,pollen,6/30/2007,358.0,0.837988826816
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Alnus glutinosa,4.0,NISP,pollen,,2049.0,,,Radiocarbon years BP,270.0,,pollen,6/30/2007,489.0,0.81799591002
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Alnus glutinosa,4.0,NISP,pollen,,2087.0,,,Radiocarbon years BP,280.0,,pollen,6/30/2007,456.0,0.877192982456
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Alnus glutinosa,10.0,NISP,pollen,,2122.0,,,Radiocarbon years BP,290.0,,pollen,6/30/2007,557.0,1.79533213645
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Alnus glutinosa,8.0,NISP,pollen,,2153.0,,,Radiocarbon years BP,300.0,,pollen,6/30/2007,446.0,1.79372197309
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Alnus glutinosa,9.0,NISP,pollen,,2181.0,,,Radiocarbon years BP,310.0,,pollen,6/30/2007,471.0,1.91082802548
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Alnus glutinosa,1.0,NISP,pollen,,2204.0,,,Radiocarbon years BP,320.0,,pollen,6/30/2007,406.0,0.246305418719
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Alnus glutinosa,2.0,NISP,pollen,,2224.0,,,Radiocarbon years BP,330.0,,pollen,6/30/2007,412.0,0.485436893204
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Alnus glutinosa,3.0,NISP,pollen,,2240.0,,,Radiocarbon years BP,340.0,,pollen,6/30/2007,301.0,0.996677740864
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Alnus glutinosa,8.0,NISP,pollen,,2956.0,,,Radiocarbon years BP,350.0,,pollen,6/30/2007,360.0,2.22222222222
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Alnus glutinosa,12.0,NISP,pollen,,3782.0,,,Radiocarbon years BP,360.0,,pollen,6/30/2007,524.0,2.29007633588
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Alnus glutinosa,3.0,NISP,pollen,,4608.0,,,Radiocarbon years BP,370.0,,pollen,6/30/2007,441.0,0.680272108844
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Alnus glutinosa,6.0,NISP,pollen,,5434.0,,,Radiocarbon years BP,380.0,,pollen,6/30/2007,409.0,1.46699266504
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Alnus glutinosa,9.0,NISP,pollen,,6260.0,,,Radiocarbon years BP,390.0,,pollen,6/30/2007,559.0,1.61001788909
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Alnus glutinosa,6.0,NISP,pollen,,6386.0,,,Radiocarbon years BP,400.0,,pollen,6/30/2007,561.0,1.06951871658
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Alnus glutinosa,9.0,NISP,pollen,,6512.0,,,Radiocarbon years BP,410.0,,pollen,6/30/2007,553.0,1.62748643761
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Alnus glutinosa,4.0,NISP,pollen,,6638.0,,,Radiocarbon years BP,420.0,,pollen,6/30/2007,784.0,0.510204081633
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Alnus glutinosa,12.0,NISP,pollen,,6764.0,,,Radiocarbon years BP,430.0,,pollen,6/30/2007,569.0,2.10896309315
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Alnus glutinosa,7.0,NISP,pollen,,6890.0,,,Radiocarbon years BP,440.0,,pollen,6/30/2007,651.0,1.0752688172
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Alnus glutinosa,9.0,NISP,pollen,,7021.0,,,Radiocarbon years BP,450.0,,pollen,6/30/2007,509.0,1.76817288802
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Alnus glutinosa,7.0,NISP,pollen,,7151.0,,,Radiocarbon years BP,460.0,,pollen,6/30/2007,642.0,1.09034267913
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Alnus glutinosa,6.0,NISP,pollen,,7282.0,,,Radiocarbon years BP,470.0,,pollen,6/30/2007,581.0,1.03270223752
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Alnus glutinosa,11.0,NISP,pollen,,7412.0,,,Radiocarbon years BP,480.0,,pollen,6/30/2007,736.0,1.49456521739
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Alnus glutinosa,14.0,NISP,pollen,,7543.0,,,Radiocarbon years BP,490.0,,pollen,6/30/2007,685.0,2.04379562044
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Alnus glutinosa,6.0,NISP,pollen,,7674.0,,,Radiocarbon years BP,500.0,,pollen,6/30/2007,597.0,1.00502512563
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Alnus glutinosa,11.0,NISP,pollen,,7804.0,,,Radiocarbon years BP,510.0,,pollen,6/30/2007,573.0,1.91972076789
+703,Dovjok Swamp,48.75,28.25,48.75,48.75,28.25,28.25,Vascular plants,Alnus glutinosa,22.0,NISP,pollen,,7935.0,,,Radiocarbon years BP,520.0,,pollen,6/30/2007,658.0,3.34346504559
+1402,Karas'e Lake,53.03,70.22,53.03,53.03,70.22,70.22,Vascular plants,Alnus glutinosa,1.0,NISP,pollen,,3320.0,,,Radiocarbon years BP,245.0,435.0,pollen,6/30/2007,350.0,0.285714285714
+1402,Karas'e Lake,53.03,70.22,53.03,53.03,70.22,70.22,Vascular plants,Alnus glutinosa,2.0,NISP,pollen,,3396.0,,,Radiocarbon years BP,255.0,435.0,pollen,6/30/2007,333.0,0.600600600601
+1402,Karas'e Lake,53.03,70.22,53.03,53.03,70.22,70.22,Vascular plants,Alnus glutinosa,4.0,NISP,pollen,,4210.0,,,Radiocarbon years BP,305.0,435.0,pollen,6/30/2007,308.0,1.2987012987
+1402,Karas'e Lake,53.03,70.22,53.03,53.03,70.22,70.22,Vascular plants,Alnus glutinosa,1.0,NISP,pollen,,4903.0,,,Radiocarbon years BP,325.0,435.0,pollen,6/30/2007,325.0,0.307692307692
+1402,Karas'e Lake,53.03,70.22,53.03,53.03,70.22,70.22,Vascular plants,Alnus glutinosa,1.0,NISP,pollen,,5125.0,,,Radiocarbon years BP,330.0,435.0,pollen,6/30/2007,603.0,0.16583747927
+1403,Kardashinski Swamp,46.516667,32.616667,46.516667,46.516667,32.616667,32.616667,Vascular plants,Alnus glutinosa,15.0,NISP,pollen,,261.0,,,Radiocarbon years BP,10.0,4.0,pollen,6/30/2007,318.0,4.71698113208
+1403,Kardashinski Swamp,46.516667,32.616667,46.516667,46.516667,32.616667,32.616667,Vascular plants,Alnus glutinosa,16.0,NISP,pollen,,518.0,,,Radiocarbon years BP,20.0,4.0,pollen,6/30/2007,341.0,4.69208211144
+1403,Kardashinski Swamp,46.516667,32.616667,46.516667,46.516667,32.616667,32.616667,Vascular plants,Alnus glutinosa,11.0,NISP,pollen,,771.0,,,Radiocarbon years BP,30.0,4.0,pollen,6/30/2007,240.0,4.58333333333
+1403,Kardashinski Swamp,46.516667,32.616667,46.516667,46.516667,32.616667,32.616667,Vascular plants,Alnus glutinosa,160.0,NISP,pollen,,1022.0,,,Radiocarbon years BP,40.0,4.0,pollen,6/30/2007,1514.0,10.5680317041
+1403,Kardashinski Swamp,46.516667,32.616667,46.516667,46.516667,32.616667,32.616667,Vascular plants,Alnus glutinosa,30.0,NISP,pollen,,1269.0,,,Radiocarbon years BP,50.0,4.0,pollen,6/30/2007,285.0,10.5263157895
+1403,Kardashinski Swamp,46.516667,32.616667,46.516667,46.516667,32.616667,32.616667,Vascular plants,Alnus glutinosa,29.0,NISP,pollen,,1512.0,,,Radiocarbon years BP,60.0,4.0,pollen,6/30/2007,400.0,7.25
+1403,Kardashinski Swamp,46.516667,32.616667,46.516667,46.516667,32.616667,32.616667,Vascular plants,Alnus glutinosa,18.0,NISP,pollen,,1752.0,,,Radiocarbon years BP,70.0,4.0,pollen,6/30/2007,283.0,6.36042402827
+1403,Kardashinski Swamp,46.516667,32.616667,46.516667,46.516667,32.616667,32.616667,Vascular plants,Alnus glutinosa,17.0,NISP,pollen,,2222.0,,,Radiocarbon years BP,90.0,4.0,pollen,6/30/2007,394.0,4.31472081218
+1403,Kardashinski Swamp,46.516667,32.616667,46.516667,46.516667,32.616667,32.616667,Vascular plants,Alnus glutinosa,17.0,NISP,pollen,,2452.0,,,Radiocarbon years BP,100.0,4.0,pollen,6/30/2007,437.0,3.89016018307
+1403,Kardashinski Swamp,46.516667,32.616667,46.516667,46.516667,32.616667,32.616667,Vascular plants,Alnus glutinosa,19.0,NISP,pollen,,2679.0,,,Radiocarbon years BP,110.0,4.0,pollen,6/30/2007,439.0,4.32801822323
+1403,Kardashinski Swamp,46.516667,32.616667,46.516667,46.516667,32.616667,32.616667,Vascular plants,Alnus glutinosa,12.0,NISP,pollen,,2902.0,,,Radiocarbon years BP,120.0,4.0,pollen,6/30/2007,303.0,3.9603960396
+1403,Kardashinski Swamp,46.516667,32.616667,46.516667,46.516667,32.616667,32.616667,Vascular plants,Alnus glutinosa,19.0,NISP,pollen,,3122.0,,,Radiocarbon years BP,130.0,4.0,pollen,6/30/2007,368.0,5.16304347826
+1403,Kardashinski Swamp,46.516667,32.616667,46.516667,46.516667,32.616667,32.616667,Vascular plants,Alnus glutinosa,33.0,NISP,pollen,,3338.0,,,Radiocarbon years BP,140.0,4.0,pollen,6/30/2007,611.0,5.40098199673
+1403,Kardashinski Swamp,46.516667,32.616667,46.516667,46.516667,32.616667,32.616667,Vascular plants,Alnus glutinosa,17.0,NISP,pollen,,3551.0,,,Radiocarbon years BP,150.0,4.0,pollen,6/30/2007,407.0,4.1769041769
+1403,Kardashinski Swamp,46.516667,32.616667,46.516667,46.516667,32.616667,32.616667,Vascular plants,Alnus glutinosa,25.0,NISP,pollen,,3761.0,,,Radiocarbon years BP,160.0,4.0,pollen,6/30/2007,417.0,5.99520383693
+1403,Kardashinski Swamp,46.516667,32.616667,46.516667,46.516667,32.616667,32.616667,Vascular plants,Alnus glutinosa,12.0,NISP,pollen,,3967.0,,,Radiocarbon years BP,170.0,4.0,pollen,6/30/2007,487.0,2.46406570842
+1403,Kardashinski Swamp,46.516667,32.616667,46.516667,46.516667,32.616667,32.616667,Vascular plants,Alnus glutinosa,8.0,NISP,pollen,,4170.0,,,Radiocarbon years BP,180.0,4.0,pollen,6/30/2007,429.0,1.8648018648
+1403,Kardashinski Swamp,46.516667,32.616667,46.516667,46.516667,32.616667,32.616667,Vascular plants,Alnus glutinosa,32.0,NISP,pollen,,4370.0,,,Radiocarbon years BP,190.0,4.0,pollen,6/30/2007,503.0,6.36182902584
+1403,Kardashinski Swamp,46.516667,32.616667,46.516667,46.516667,32.616667,32.616667,Vascular plants,Alnus glutinosa,19.0,NISP,pollen,,4566.0,,,Radiocarbon years BP,200.0,4.0,pollen,6/30/2007,454.0,4.18502202643
+1403,Kardashinski Swamp,46.516667,32.616667,46.516667,46.516667,32.616667,32.616667,Vascular plants,Alnus glutinosa,21.0,NISP,pollen,,4758.0,,,Radiocarbon years BP,210.0,4.0,pollen,6/30/2007,419.0,5.01193317422
+1403,Kardashinski Swamp,46.516667,32.616667,46.516667,46.516667,32.616667,32.616667,Vascular plants,Alnus glutinosa,10.0,NISP,pollen,,4948.0,,,Radiocarbon years BP,220.0,4.0,pollen,6/30/2007,457.0,2.18818380744
+1403,Kardashinski Swamp,46.516667,32.616667,46.516667,46.516667,32.616667,32.616667,Vascular plants,Alnus glutinosa,20.0,NISP,pollen,,5133.0,,,Radiocarbon years BP,230.0,4.0,pollen,6/30/2007,489.0,4.0899795501
+1403,Kardashinski Swamp,46.516667,32.616667,46.516667,46.516667,32.616667,32.616667,Vascular plants,Alnus glutinosa,7.0,NISP,pollen,,5316.0,,,Radiocarbon years BP,240.0,4.0,pollen,6/30/2007,403.0,1.73697270471
+1403,Kardashinski Swamp,46.516667,32.616667,46.516667,46.516667,32.616667,32.616667,Vascular plants,Alnus glutinosa,8.0,NISP,pollen,,5495.0,,,Radiocarbon years BP,250.0,4.0,pollen,6/30/2007,612.0,1.30718954248
+1403,Kardashinski Swamp,46.516667,32.616667,46.516667,46.516667,32.616667,32.616667,Vascular plants,Alnus glutinosa,11.0,NISP,pollen,,5671.0,,,Radiocarbon years BP,260.0,4.0,pollen,6/30/2007,340.0,3.23529411765
+1403,Kardashinski Swamp,46.516667,32.616667,46.516667,46.516667,32.616667,32.616667,Vascular plants,Alnus glutinosa,8.0,NISP,pollen,,5843.0,,,Radiocarbon years BP,270.0,4.0,pollen,6/30/2007,503.0,1.59045725646
+1403,Kardashinski Swamp,46.516667,32.616667,46.516667,46.516667,32.616667,32.616667,Vascular plants,Alnus glutinosa,14.0,NISP,pollen,,6177.0,,,Radiocarbon years BP,290.0,4.0,pollen,6/30/2007,493.0,2.83975659229
+1403,Kardashinski Swamp,46.516667,32.616667,46.516667,46.516667,32.616667,32.616667,Vascular plants,Alnus glutinosa,8.0,NISP,pollen,,6340.0,,,Radiocarbon years BP,300.0,4.0,pollen,6/30/2007,475.0,1.68421052632
+1403,Kardashinski Swamp,46.516667,32.616667,46.516667,46.516667,32.616667,32.616667,Vascular plants,Alnus glutinosa,1.0,NISP,pollen,,6498.0,,,Radiocarbon years BP,310.0,4.0,pollen,6/30/2007,501.0,0.199600798403
+1403,Kardashinski Swamp,46.516667,32.616667,46.516667,46.516667,32.616667,32.616667,Vascular plants,Alnus glutinosa,1.0,NISP,pollen,,6654.0,,,Radiocarbon years BP,320.0,4.0,pollen,6/30/2007,303.0,0.3300330033
+1403,Kardashinski Swamp,46.516667,32.616667,46.516667,46.516667,32.616667,32.616667,Vascular plants,Alnus glutinosa,1.0,NISP,pollen,,6806.0,,,Radiocarbon years BP,330.0,4.0,pollen,6/30/2007,322.0,0.310559006211
+1403,Kardashinski Swamp,46.516667,32.616667,46.516667,46.516667,32.616667,32.616667,Vascular plants,Alnus glutinosa,1.0,NISP,pollen,,6954.0,,,Radiocarbon years BP,340.0,4.0,pollen,6/30/2007,343.0,0.291545189504
+1403,Kardashinski Swamp,46.516667,32.616667,46.516667,46.516667,32.616667,32.616667,Vascular plants,Alnus glutinosa,5.0,NISP,pollen,,7099.0,,,Radiocarbon years BP,350.0,4.0,pollen,6/30/2007,651.0,0.768049155146
+1403,Kardashinski Swamp,46.516667,32.616667,46.516667,46.516667,32.616667,32.616667,Vascular plants,Alnus glutinosa,2.0,NISP,pollen,,7241.0,,,Radiocarbon years BP,360.0,4.0,pollen,6/30/2007,260.0,0.769230769231
+1403,Kardashinski Swamp,46.516667,32.616667,46.516667,46.516667,32.616667,32.616667,Vascular plants,Alnus glutinosa,12.0,NISP,pollen,,7379.0,,,Radiocarbon years BP,370.0,4.0,pollen,6/30/2007,391.0,3.06905370844
+1403,Kardashinski Swamp,46.516667,32.616667,46.516667,46.516667,32.616667,32.616667,Vascular plants,Alnus glutinosa,20.0,NISP,pollen,,7646.0,,,Radiocarbon years BP,390.0,4.0,pollen,6/30/2007,421.0,4.75059382423
+1403,Kardashinski Swamp,46.516667,32.616667,46.516667,46.516667,32.616667,32.616667,Vascular plants,Alnus glutinosa,14.0,NISP,pollen,,7774.0,,,Radiocarbon years BP,400.0,4.0,pollen,6/30/2007,476.0,2.94117647059
+1403,Kardashinski Swamp,46.516667,32.616667,46.516667,46.516667,32.616667,32.616667,Vascular plants,Alnus glutinosa,16.0,NISP,pollen,,7899.0,,,Radiocarbon years BP,410.0,4.0,pollen,6/30/2007,468.0,3.4188034188
+2965,Abernethy Forest,56.233333,-3.716667,56.233333,56.233333,-3.716667,-3.716667,Vascular plants,Alnus glutinosa,29.0,NISP,pollen,,5642.0,,,Radiocarbon years BP,300.0,221.0,pollen,6/30/2007,522.0,5.55555555556
+2965,Abernethy Forest,56.233333,-3.716667,56.233333,56.233333,-3.716667,-3.716667,Vascular plants,Alnus glutinosa,5.0,NISP,pollen,,5736.0,,,Radiocarbon years BP,305.0,221.0,pollen,6/30/2007,538.0,0.92936802974
+2965,Abernethy Forest,56.233333,-3.716667,56.233333,56.233333,-3.716667,-3.716667,Vascular plants,Alnus glutinosa,4.0,NISP,pollen,,5830.0,,,Radiocarbon years BP,310.0,221.0,pollen,6/30/2007,553.0,0.723327305606
+2965,Abernethy Forest,56.233333,-3.716667,56.233333,56.233333,-3.716667,-3.716667,Vascular plants,Alnus glutinosa,1.0,NISP,pollen,,6018.0,,,Radiocarbon years BP,320.0,221.0,pollen,6/30/2007,514.0,0.194552529183
+2965,Abernethy Forest,56.233333,-3.716667,56.233333,56.233333,-3.716667,-3.716667,Vascular plants,Alnus glutinosa,1.0,NISP,pollen,,6112.0,,,Radiocarbon years BP,325.0,221.0,pollen,6/30/2007,531.0,0.188323917137
+2965,Abernethy Forest,56.233333,-3.716667,56.233333,56.233333,-3.716667,-3.716667,Vascular plants,Alnus glutinosa,1.0,NISP,pollen,,6219.0,,,Radiocarbon years BP,330.0,221.0,pollen,6/30/2007,537.0,0.186219739292
+2965,Abernethy Forest,56.233333,-3.716667,56.233333,56.233333,-3.716667,-3.716667,Vascular plants,Alnus glutinosa,1.0,NISP,pollen,,6338.0,,,Radiocarbon years BP,335.0,221.0,pollen,6/30/2007,538.0,0.185873605948
+2965,Abernethy Forest,56.233333,-3.716667,56.233333,56.233333,-3.716667,-3.716667,Vascular plants,Alnus glutinosa,2.0,NISP,pollen,,6457.0,,,Radiocarbon years BP,340.0,221.0,pollen,6/30/2007,562.0,0.355871886121
+2965,Abernethy Forest,56.233333,-3.716667,56.233333,56.233333,-3.716667,-3.716667,Vascular plants,Alnus glutinosa,1.0,NISP,pollen,,6826.0,,,Radiocarbon years BP,355.0,221.0,pollen,6/30/2007,607.0,0.164744645799
+2965,Abernethy Forest,56.233333,-3.716667,56.233333,56.233333,-3.716667,-3.716667,Vascular plants,Alnus glutinosa,1.0,NISP,pollen,,7061.0,,,Radiocarbon years BP,360.0,221.0,pollen,6/30/2007,648.0,0.154320987654
+2965,Abernethy Forest,56.233333,-3.716667,56.233333,56.233333,-3.716667,-3.716667,Vascular plants,Alnus glutinosa,1.0,NISP,pollen,,7202.0,,,Radiocarbon years BP,363.0,221.0,pollen,6/30/2007,516.0,0.193798449612
+2965,Abernethy Forest,56.233333,-3.716667,56.233333,56.233333,-3.716667,-3.716667,Vascular plants,Alnus glutinosa,2.0,NISP,pollen,,7296.0,,,Radiocarbon years BP,365.0,221.0,pollen,6/30/2007,646.0,0.30959752322
+2965,Abernethy Forest,56.233333,-3.716667,56.233333,56.233333,-3.716667,-3.716667,Vascular plants,Alnus glutinosa,1.0,NISP,pollen,,7531.0,,,Radiocarbon years BP,370.0,221.0,pollen,6/30/2007,567.0,0.176366843034
+2965,Abernethy Forest,56.233333,-3.716667,56.233333,56.233333,-3.716667,-3.716667,Vascular plants,Alnus glutinosa,1.0,NISP,pollen,,8500.0,,,Radiocarbon years BP,420.0,221.0,pollen,6/30/2007,567.0,0.176366843034
+2965,Abernethy Forest,56.233333,-3.716667,56.233333,56.233333,-3.716667,-3.716667,Vascular plants,Alnus glutinosa,1.0,NISP,pollen,,9912.0,,,Radiocarbon years BP,475.0,221.0,pollen,6/30/2007,342.0,0.292397660819
+2965,Abernethy Forest,56.233333,-3.716667,56.233333,56.233333,-3.716667,-3.716667,Vascular plants,Alnus glutinosa,1.0,NISP,pollen,,10428.0,,,Radiocarbon years BP,490.0,221.0,pollen,6/30/2007,330.0,0.30303030303
+2965,Abernethy Forest,56.233333,-3.716667,56.233333,56.233333,-3.716667,-3.716667,Vascular plants,Alnus glutinosa,1.0,NISP,pollen,,10771.0,,,Radiocarbon years BP,500.0,221.0,pollen,6/30/2007,284.0,0.352112676056
+2965,Abernethy Forest,56.233333,-3.716667,56.233333,56.233333,-3.716667,-3.716667,Vascular plants,Alnus glutinosa,2.0,NISP,pollen,,10943.0,,,Radiocarbon years BP,505.0,221.0,pollen,6/30/2007,350.0,0.571428571429
+2965,Abernethy Forest,56.233333,-3.716667,56.233333,56.233333,-3.716667,-3.716667,Vascular plants,Alnus glutinosa,1.0,NISP,pollen,,12018.0,,,Radiocarbon years BP,545.0,221.0,pollen,6/30/2007,105.0,0.952380952381
+2977,Allt na Feithe Sheilich,57.316667,-3.9,57.316667,57.316667,-3.9,-3.9,Vascular plants,Alnus glutinosa,9.0,NISP,pollen,,0.0,,,Radiocarbon years BP,0.0,595.0,pollen,6/30/2007,605.0,1.48760330579
+2977,Allt na Feithe Sheilich,57.316667,-3.9,57.316667,57.316667,-3.9,-3.9,Vascular plants,Alnus glutinosa,15.0,NISP,pollen,,295.0,,,Radiocarbon years BP,10.0,595.0,pollen,6/30/2007,848.0,1.76886792453
+2977,Allt na Feithe Sheilich,57.316667,-3.9,57.316667,57.316667,-3.9,-3.9,Vascular plants,Alnus glutinosa,20.0,NISP,pollen,,590.0,,,Radiocarbon years BP,20.0,595.0,pollen,6/30/2007,597.0,3.35008375209
+2977,Allt na Feithe Sheilich,57.316667,-3.9,57.316667,57.316667,-3.9,-3.9,Vascular plants,Alnus glutinosa,21.0,NISP,pollen,,885.0,,,Radiocarbon years BP,30.0,595.0,pollen,6/30/2007,1137.0,1.84696569921
+2977,Allt na Feithe Sheilich,57.316667,-3.9,57.316667,57.316667,-3.9,-3.9,Vascular plants,Alnus glutinosa,32.0,NISP,pollen,,1180.0,,,Radiocarbon years BP,40.0,595.0,pollen,6/30/2007,429.0,7.45920745921
+2977,Allt na Feithe Sheilich,57.316667,-3.9,57.316667,57.316667,-3.9,-3.9,Vascular plants,Alnus glutinosa,31.0,NISP,pollen,,1475.0,,,Radiocarbon years BP,50.0,595.0,pollen,6/30/2007,373.0,8.3109919571
+2977,Allt na Feithe Sheilich,57.316667,-3.9,57.316667,57.316667,-3.9,-3.9,Vascular plants,Alnus glutinosa,54.0,NISP,pollen,,1770.0,,,Radiocarbon years BP,60.0,595.0,pollen,6/30/2007,361.0,14.9584487535
+2977,Allt na Feithe Sheilich,57.316667,-3.9,57.316667,57.316667,-3.9,-3.9,Vascular plants,Alnus glutinosa,39.0,NISP,pollen,,2065.0,,,Radiocarbon years BP,70.0,595.0,pollen,6/30/2007,278.0,14.0287769784
+2977,Allt na Feithe Sheilich,57.316667,-3.9,57.316667,57.316667,-3.9,-3.9,Vascular plants,Alnus glutinosa,30.0,NISP,pollen,,2360.0,,,Radiocarbon years BP,80.0,595.0,pollen,6/30/2007,295.0,10.1694915254
+2977,Allt na Feithe Sheilich,57.316667,-3.9,57.316667,57.316667,-3.9,-3.9,Vascular plants,Alnus glutinosa,24.0,NISP,pollen,,2655.0,,,Radiocarbon years BP,90.0,595.0,pollen,6/30/2007,338.0,7.10059171598
+2977,Allt na Feithe Sheilich,57.316667,-3.9,57.316667,57.316667,-3.9,-3.9,Vascular plants,Alnus glutinosa,34.0,NISP,pollen,,2950.0,,,Radiocarbon years BP,100.0,595.0,pollen,6/30/2007,370.0,9.18918918919
+2977,Allt na Feithe Sheilich,57.316667,-3.9,57.316667,57.316667,-3.9,-3.9,Vascular plants,Alnus glutinosa,32.0,NISP,pollen,,3245.0,,,Radiocarbon years BP,110.0,595.0,pollen,6/30/2007,389.0,8.22622107969
+2977,Allt na Feithe Sheilich,57.316667,-3.9,57.316667,57.316667,-3.9,-3.9,Vascular plants,Alnus glutinosa,12.0,NISP,pollen,,3540.0,,,Radiocarbon years BP,120.0,595.0,pollen,6/30/2007,251.0,4.78087649402
+2977,Allt na Feithe Sheilich,57.316667,-3.9,57.316667,57.316667,-3.9,-3.9,Vascular plants,Alnus glutinosa,38.0,NISP,pollen,,3835.0,,,Radiocarbon years BP,130.0,595.0,pollen,6/30/2007,624.0,6.08974358974
+2977,Allt na Feithe Sheilich,57.316667,-3.9,57.316667,57.316667,-3.9,-3.9,Vascular plants,Alnus glutinosa,11.0,NISP,pollen,,3983.0,,,Radiocarbon years BP,135.0,595.0,pollen,6/30/2007,337.0,3.26409495549
+2977,Allt na Feithe Sheilich,57.316667,-3.9,57.316667,57.316667,-3.9,-3.9,Vascular plants,Alnus glutinosa,22.0,NISP,pollen,,4130.0,,,Radiocarbon years BP,140.0,595.0,pollen,6/30/2007,507.0,4.3392504931
+2977,Allt na Feithe Sheilich,57.316667,-3.9,57.316667,57.316667,-3.9,-3.9,Vascular plants,Alnus glutinosa,30.0,NISP,pollen,,4278.0,,,Radiocarbon years BP,145.0,595.0,pollen,6/30/2007,551.0,5.444646098
+2977,Allt na Feithe Sheilich,57.316667,-3.9,57.316667,57.316667,-3.9,-3.9,Vascular plants,Alnus glutinosa,15.0,NISP,pollen,,4425.0,,,Radiocarbon years BP,150.0,595.0,pollen,6/30/2007,372.0,4.03225806452
+2977,Allt na Feithe Sheilich,57.316667,-3.9,57.316667,57.316667,-3.9,-3.9,Vascular plants,Alnus glutinosa,20.0,NISP,pollen,,4848.0,,,Radiocarbon years BP,155.0,595.0,pollen,6/30/2007,483.0,4.14078674948
+2977,Allt na Feithe Sheilich,57.316667,-3.9,57.316667,57.316667,-3.9,-3.9,Vascular plants,Alnus glutinosa,9.0,NISP,pollen,,5270.0,,,Radiocarbon years BP,160.0,595.0,pollen,6/30/2007,359.0,2.5069637883
+2977,Allt na Feithe Sheilich,57.316667,-3.9,57.316667,57.316667,-3.9,-3.9,Vascular plants,Alnus glutinosa,7.0,NISP,pollen,,5693.0,,,Radiocarbon years BP,165.0,595.0,pollen,6/30/2007,553.0,1.26582278481
+2977,Allt na Feithe Sheilich,57.316667,-3.9,57.316667,57.316667,-3.9,-3.9,Vascular plants,Alnus glutinosa,9.0,NISP,pollen,,6115.0,,,Radiocarbon years BP,170.0,595.0,pollen,6/30/2007,348.0,2.58620689655
+2977,Allt na Feithe Sheilich,57.316667,-3.9,57.316667,57.316667,-3.9,-3.9,Vascular plants,Alnus glutinosa,2.0,NISP,pollen,,6538.0,,,Radiocarbon years BP,175.0,595.0,pollen,6/30/2007,340.0,0.588235294118
+2977,Allt na Feithe Sheilich,57.316667,-3.9,57.316667,57.316667,-3.9,-3.9,Vascular plants,Alnus glutinosa,6.0,NISP,pollen,,6960.0,,,Radiocarbon years BP,180.0,595.0,pollen,6/30/2007,543.0,1.10497237569
+2977,Allt na Feithe Sheilich,57.316667,-3.9,57.316667,57.316667,-3.9,-3.9,Vascular plants,Alnus glutinosa,2.0,NISP,pollen,,7051.0,,,Radiocarbon years BP,185.0,595.0,pollen,6/30/2007,348.0,0.574712643678
+2977,Allt na Feithe Sheilich,57.316667,-3.9,57.316667,57.316667,-3.9,-3.9,Vascular plants,Alnus glutinosa,1.0,NISP,pollen,,7143.0,,,Radiocarbon years BP,190.0,595.0,pollen,6/30/2007,374.0,0.267379679144
+2977,Allt na Feithe Sheilich,57.316667,-3.9,57.316667,57.316667,-3.9,-3.9,Vascular plants,Alnus glutinosa,3.0,NISP,pollen,,7234.0,,,Radiocarbon years BP,195.0,595.0,pollen,6/30/2007,321.0,0.934579439252
+2977,Allt na Feithe Sheilich,57.316667,-3.9,57.316667,57.316667,-3.9,-3.9,Vascular plants,Alnus glutinosa,1.0,NISP,pollen,,7417.0,,,Radiocarbon years BP,205.0,595.0,pollen,6/30/2007,517.0,0.193423597679
+2977,Allt na Feithe Sheilich,57.316667,-3.9,57.316667,57.316667,-3.9,-3.9,Vascular plants,Alnus glutinosa,1.0,NISP,pollen,,7599.0,,,Radiocarbon years BP,215.0,595.0,pollen,6/30/2007,322.0,0.310559006211
+2977,Allt na Feithe Sheilich,57.316667,-3.9,57.316667,57.316667,-3.9,-3.9,Vascular plants,Alnus glutinosa,3.0,NISP,pollen,,7691.0,,,Radiocarbon years BP,220.0,595.0,pollen,6/30/2007,329.0,0.911854103343
+2977,Allt na Feithe Sheilich,57.316667,-3.9,57.316667,57.316667,-3.9,-3.9,Vascular plants,Alnus glutinosa,1.0,NISP,pollen,,7782.0,,,Radiocarbon years BP,225.0,595.0,pollen,6/30/2007,495.0,0.20202020202
+2977,Allt na Feithe Sheilich,57.316667,-3.9,57.316667,57.316667,-3.9,-3.9,Vascular plants,Alnus glutinosa,2.0,NISP,pollen,,7965.0,,,Radiocarbon years BP,235.0,595.0,pollen,6/30/2007,531.0,0.376647834275
+2977,Allt na Feithe Sheilich,57.316667,-3.9,57.316667,57.316667,-3.9,-3.9,Vascular plants,Alnus glutinosa,1.0,NISP,pollen,,8421.0,,,Radiocarbon years BP,260.0,595.0,pollen,6/30/2007,520.0,0.192307692308
+2994,Baidara,68.85,66.9,68.85,68.85,66.9,66.9,Vascular plants,Alnus glutinosa,1.0,NISP,pollen,,6222.0,,,Radiocarbon years BP,165.0,30.0,pollen,6/30/2007,308.0,0.324675324675
+2994,Baidara,68.85,66.9,68.85,68.85,66.9,66.9,Vascular plants,Alnus glutinosa,1.0,NISP,pollen,,6444.0,,,Radiocarbon years BP,235.0,30.0,pollen,6/30/2007,260.0,0.384615384615
+2994,Baidara,68.85,66.9,68.85,68.85,66.9,66.9,Vascular plants,Alnus glutinosa,2.0,NISP,pollen,,6558.0,,,Radiocarbon years BP,245.0,30.0,pollen,6/30/2007,228.0,0.877192982456
+2994,Baidara,68.85,66.9,68.85,68.85,66.9,66.9,Vascular plants,Alnus glutinosa,6.0,NISP,pollen,,8981.0,,,Radiocarbon years BP,610.0,30.0,pollen,6/30/2007,470.0,1.27659574468
+2994,Baidara,68.85,66.9,68.85,68.85,66.9,66.9,Vascular plants,Alnus glutinosa,1.0,NISP,pollen,,9726.0,,,Radiocarbon years BP,760.0,30.0,pollen,6/30/2007,285.0,0.350877192982
+2998,Bebrukas Lake,54.085278,24.121111,54.085278,54.085278,24.121111,24.121111,Vascular plants,Alnus glutinosa,5.0,NISP,pollen,,221.0,,,Radiocarbon years BP,12.5,149.0,pollen,6/30/2007,301.0,1.66112956811
+2998,Bebrukas Lake,54.085278,24.121111,54.085278,54.085278,24.121111,24.121111,Vascular plants,Alnus glutinosa,23.0,NISP,pollen,,626.0,,,Radiocarbon years BP,37.5,149.0,pollen,6/30/2007,314.0,7.32484076433
+2998,Bebrukas Lake,54.085278,24.121111,54.085278,54.085278,24.121111,24.121111,Vascular plants,Alnus glutinosa,16.0,NISP,pollen,,988.0,,,Radiocarbon years BP,62.5,149.0,pollen,6/30/2007,202.0,7.92079207921
+2998,Bebrukas Lake,54.085278,24.121111,54.085278,54.085278,24.121111,24.121111,Vascular plants,Alnus glutinosa,19.0,NISP,pollen,,1308.0,,,Radiocarbon years BP,87.5,149.0,pollen,6/30/2007,240.0,7.91666666667
+2998,Bebrukas Lake,54.085278,24.121111,54.085278,54.085278,24.121111,24.121111,Vascular plants,Alnus glutinosa,35.0,NISP,pollen,,1592.0,,,Radiocarbon years BP,112.5,149.0,pollen,6/30/2007,229.0,15.2838427948
+2998,Bebrukas Lake,54.085278,24.121111,54.085278,54.085278,24.121111,24.121111,Vascular plants,Alnus glutinosa,37.0,NISP,pollen,,1843.0,,,Radiocarbon years BP,137.5,149.0,pollen,6/30/2007,214.0,17.2897196262
+2998,Bebrukas Lake,54.085278,24.121111,54.085278,54.085278,24.121111,24.121111,Vascular plants,Alnus glutinosa,37.0,NISP,pollen,,2064.0,,,Radiocarbon years BP,162.5,149.0,pollen,6/30/2007,231.0,16.0173160173
+2998,Bebrukas Lake,54.085278,24.121111,54.085278,54.085278,24.121111,24.121111,Vascular plants,Alnus glutinosa,77.0,NISP,pollen,,2260.0,,,Radiocarbon years BP,187.5,149.0,pollen,6/30/2007,221.0,34.8416289593
+2998,Bebrukas Lake,54.085278,24.121111,54.085278,54.085278,24.121111,24.121111,Vascular plants,Alnus glutinosa,61.0,NISP,pollen,,2401.0,,,Radiocarbon years BP,207.5,149.0,pollen,6/30/2007,223.0,27.3542600897
+2998,Bebrukas Lake,54.085278,24.121111,54.085278,54.085278,24.121111,24.121111,Vascular plants,Alnus glutinosa,91.0,NISP,pollen,,2498.0,,,Radiocarbon years BP,222.5,149.0,pollen,6/30/2007,226.0,40.2654867257
+2998,Bebrukas Lake,54.085278,24.121111,54.085278,54.085278,24.121111,24.121111,Vascular plants,Alnus glutinosa,53.0,NISP,pollen,,2560.0,,,Radiocarbon years BP,232.5,149.0,pollen,6/30/2007,219.0,24.200913242
+2998,Bebrukas Lake,54.085278,24.121111,54.085278,54.085278,24.121111,24.121111,Vascular plants,Alnus glutinosa,64.0,NISP,pollen,,2619.0,,,Radiocarbon years BP,242.5,149.0,pollen,6/30/2007,220.0,29.0909090909
+2998,Bebrukas Lake,54.085278,24.121111,54.085278,54.085278,24.121111,24.121111,Vascular plants,Alnus glutinosa,52.0,NISP,pollen,,2731.0,,,Radiocarbon years BP,262.5,149.0,pollen,6/30/2007,230.0,22.6086956522
+2998,Bebrukas Lake,54.085278,24.121111,54.085278,54.085278,24.121111,24.121111,Vascular plants,Alnus glutinosa,49.0,NISP,pollen,,2862.0,,,Radiocarbon years BP,287.5,149.0,pollen,6/30/2007,217.0,22.5806451613
+2998,Bebrukas Lake,54.085278,24.121111,54.085278,54.085278,24.121111,24.121111,Vascular plants,Alnus glutinosa,32.0,NISP,pollen,,2949.0,,,Radiocarbon years BP,305.0,149.0,pollen,6/30/2007,211.0,15.1658767773
+2998,Bebrukas Lake,54.085278,24.121111,54.085278,54.085278,24.121111,24.121111,Vascular plants,Alnus glutinosa,48.0,NISP,pollen,,2985.0,,,Radiocarbon years BP,312.5,149.0,pollen,6/30/2007,231.0,20.7792207792
+2998,Bebrukas Lake,54.085278,24.121111,54.085278,54.085278,24.121111,24.121111,Vascular plants,Alnus glutinosa,56.0,NISP,pollen,,3046.0,,,Radiocarbon years BP,325.0,149.0,pollen,6/30/2007,219.0,25.5707762557
+2998,Bebrukas Lake,54.085278,24.121111,54.085278,54.085278,24.121111,24.121111,Vascular plants,Alnus glutinosa,38.0,NISP,pollen,,3130.0,,,Radiocarbon years BP,342.5,149.0,pollen,6/30/2007,228.0,16.6666666667
+2998,Bebrukas Lake,54.085278,24.121111,54.085278,54.085278,24.121111,24.121111,Vascular plants,Alnus glutinosa,49.0,NISP,pollen,,3215.0,,,Radiocarbon years BP,360.0,149.0,pollen,6/30/2007,233.0,21.0300429185
+2998,Bebrukas Lake,54.085278,24.121111,54.085278,54.085278,24.121111,24.121111,Vascular plants,Alnus glutinosa,45.0,NISP,pollen,,3302.0,,,Radiocarbon years BP,377.5,149.0,pollen,6/30/2007,222.0,20.2702702703
+2998,Bebrukas Lake,54.085278,24.121111,54.085278,54.085278,24.121111,24.121111,Vascular plants,Alnus glutinosa,31.0,NISP,pollen,,3379.0,,,Radiocarbon years BP,392.5,149.0,pollen,6/30/2007,221.0,14.0271493213
+2998,Bebrukas Lake,54.085278,24.121111,54.085278,54.085278,24.121111,24.121111,Vascular plants,Alnus glutinosa,38.0,NISP,pollen,,3487.0,,,Radiocarbon years BP,412.5,149.0,pollen,6/30/2007,225.0,16.8888888889
+2998,Bebrukas Lake,54.085278,24.121111,54.085278,54.085278,24.121111,24.121111,Vascular plants,Alnus glutinosa,50.0,NISP,pollen,,3633.0,,,Radiocarbon years BP,437.5,149.0,pollen,6/30/2007,243.0,20.5761316872
+2998,Bebrukas Lake,54.085278,24.121111,54.085278,54.085278,24.121111,24.121111,Vascular plants,Alnus glutinosa,65.0,NISP,pollen,,3794.0,,,Radiocarbon years BP,462.5,149.0,pollen,6/30/2007,229.0,28.384279476
+2998,Bebrukas Lake,54.085278,24.121111,54.085278,54.085278,24.121111,24.121111,Vascular plants,Alnus glutinosa,85.0,NISP,pollen,,3975.0,,,Radiocarbon years BP,487.5,149.0,pollen,6/30/2007,236.0,36.0169491525
+2998,Bebrukas Lake,54.085278,24.121111,54.085278,54.085278,24.121111,24.121111,Vascular plants,Alnus glutinosa,48.0,NISP,pollen,,4179.0,,,Radiocarbon years BP,512.5,149.0,pollen,6/30/2007,227.0,21.1453744493
+2998,Bebrukas Lake,54.085278,24.121111,54.085278,54.085278,24.121111,24.121111,Vascular plants,Alnus glutinosa,51.0,NISP,pollen,,4409.0,,,Radiocarbon years BP,537.5,149.0,pollen,6/30/2007,233.0,21.8884120172
+2998,Bebrukas Lake,54.085278,24.121111,54.085278,54.085278,24.121111,24.121111,Vascular plants,Alnus glutinosa,35.0,NISP,pollen,,4671.0,,,Radiocarbon years BP,562.5,149.0,pollen,6/30/2007,223.0,15.6950672646
+2998,Bebrukas Lake,54.085278,24.121111,54.085278,54.085278,24.121111,24.121111,Vascular plants,Alnus glutinosa,44.0,NISP,pollen,,4966.0,,,Radiocarbon years BP,587.5,149.0,pollen,6/30/2007,231.0,19.0476190476
+2998,Bebrukas Lake,54.085278,24.121111,54.085278,54.085278,24.121111,24.121111,Vascular plants,Alnus glutinosa,41.0,NISP,pollen,,5300.0,,,Radiocarbon years BP,612.5,149.0,pollen,6/30/2007,244.0,16.8032786885
+2998,Bebrukas Lake,54.085278,24.121111,54.085278,54.085278,24.121111,24.121111,Vascular plants,Alnus glutinosa,21.0,NISP,pollen,,5676.0,,,Radiocarbon years BP,637.5,149.0,pollen,6/30/2007,246.0,8.53658536585
+2998,Bebrukas Lake,54.085278,24.121111,54.085278,54.085278,24.121111,24.121111,Vascular plants,Alnus glutinosa,21.0,NISP,pollen,,6097.0,,,Radiocarbon years BP,662.5,149.0,pollen,6/30/2007,222.0,9.45945945946
+2998,Bebrukas Lake,54.085278,24.121111,54.085278,54.085278,24.121111,24.121111,Vascular plants,Alnus glutinosa,18.0,NISP,pollen,,6568.0,,,Radiocarbon years BP,687.5,149.0,pollen,6/30/2007,239.0,7.53138075314
+2998,Bebrukas Lake,54.085278,24.121111,54.085278,54.085278,24.121111,24.121111,Vascular plants,Alnus glutinosa,23.0,NISP,pollen,,6982.0,,,Radiocarbon years BP,707.5,149.0,pollen,6/30/2007,231.0,9.95670995671
+2998,Bebrukas Lake,54.085278,24.121111,54.085278,54.085278,24.121111,24.121111,Vascular plants,Alnus glutinosa,36.0,NISP,pollen,,7317.0,,,Radiocarbon years BP,722.5,149.0,pollen,6/30/2007,238.0,15.1260504202
+2998,Bebrukas Lake,54.085278,24.121111,54.085278,54.085278,24.121111,24.121111,Vascular plants,Alnus glutinosa,3.0,NISP,pollen,,7734.0,,,Radiocarbon years BP,740.0,149.0,pollen,6/30/2007,238.0,1.26050420168
+2998,Bebrukas Lake,54.085278,24.121111,54.085278,54.085278,24.121111,24.121111,Vascular plants,Alnus glutinosa,30.0,NISP,pollen,,8314.0,,,Radiocarbon years BP,762.5,149.0,pollen,6/30/2007,264.0,11.3636363636
+2998,Bebrukas Lake,54.085278,24.121111,54.085278,54.085278,24.121111,24.121111,Vascular plants,Alnus glutinosa,1.0,NISP,pollen,,9554.0,,,Radiocarbon years BP,805.0,149.0,pollen,6/30/2007,208.0,0.480769230769
+2998,Bebrukas Lake,54.085278,24.121111,54.085278,54.085278,24.121111,24.121111,Vascular plants,Alnus glutinosa,5.0,NISP,pollen,,9875.0,,,Radiocarbon years BP,815.0,149.0,pollen,6/30/2007,222.0,2.25225225225
+2998,Bebrukas Lake,54.085278,24.121111,54.085278,54.085278,24.121111,24.121111,Vascular plants,Alnus glutinosa,1.0,NISP,pollen,,10907.0,,,Radiocarbon years BP,845.0,149.0,pollen,6/30/2007,249.0,0.401606425703
+2998,Bebrukas Lake,54.085278,24.121111,54.085278,54.085278,24.121111,24.121111,Vascular plants,Alnus glutinosa,2.0,NISP,pollen,,12252.0,,,Radiocarbon years BP,880.0,149.0,pollen,6/30/2007,307.0,0.651465798046
+2998,Bebrukas Lake,54.085278,24.121111,54.085278,54.085278,24.121111,24.121111,Vascular plants,Alnus glutinosa,3.0,NISP,pollen,,12877.0,,,Radiocarbon years BP,895.0,149.0,pollen,6/30/2007,277.0,1.08303249097
+2998,Bebrukas Lake,54.085278,24.121111,54.085278,54.085278,24.121111,24.121111,Vascular plants,Alnus glutinosa,2.0,NISP,pollen,,13758.0,,,Radiocarbon years BP,915.0,149.0,pollen,6/30/2007,261.0,0.766283524904
+2998,Bebrukas Lake,54.085278,24.121111,54.085278,54.085278,24.121111,24.121111,Vascular plants,Alnus glutinosa,13.0,NISP,pollen,,14938.0,,,Radiocarbon years BP,940.0,149.0,pollen,6/30/2007,327.0,3.9755351682
+3014,Bezdonnoe,62.033333,32.766667,62.033333,62.033333,32.766667,32.766667,Vascular plants,Alnus glutinosa,12.0,NISP,pollen,,258.0,,,Radiocarbon years BP,25.0,121.0,pollen,6/30/2007,360.0,3.33333333333
+3014,Bezdonnoe,62.033333,32.766667,62.033333,62.033333,32.766667,32.766667,Vascular plants,Alnus glutinosa,22.0,NISP,pollen,,517.0,,,Radiocarbon years BP,50.0,121.0,pollen,6/30/2007,403.0,5.45905707196
+3014,Bezdonnoe,62.033333,32.766667,62.033333,62.033333,32.766667,32.766667,Vascular plants,Alnus glutinosa,5.0,NISP,pollen,,775.0,,,Radiocarbon years BP,75.0,121.0,pollen,6/30/2007,330.0,1.51515151515
+3014,Bezdonnoe,62.033333,32.766667,62.033333,62.033333,32.766667,32.766667,Vascular plants,Alnus glutinosa,7.0,NISP,pollen,,1034.0,,,Radiocarbon years BP,100.0,121.0,pollen,6/30/2007,284.0,2.46478873239
+3014,Bezdonnoe,62.033333,32.766667,62.033333,62.033333,32.766667,32.766667,Vascular plants,Alnus glutinosa,1.0,NISP,pollen,,1292.0,,,Radiocarbon years BP,125.0,121.0,pollen,6/30/2007,271.0,0.369003690037
+3014,Bezdonnoe,62.033333,32.766667,62.033333,62.033333,32.766667,32.766667,Vascular plants,Alnus glutinosa,4.0,NISP,pollen,,1551.0,,,Radiocarbon years BP,150.0,121.0,pollen,6/30/2007,322.0,1.24223602484
+3014,Bezdonnoe,62.033333,32.766667,62.033333,62.033333,32.766667,32.766667,Vascular plants,Alnus glutinosa,4.0,NISP,pollen,,1809.0,,,Radiocarbon years BP,175.0,121.0,pollen,6/30/2007,331.0,1.2084592145
+3014,Bezdonnoe,62.033333,32.766667,62.033333,62.033333,32.766667,32.766667,Vascular plants,Alnus glutinosa,9.0,NISP,pollen,,2067.0,,,Radiocarbon years BP,200.0,121.0,pollen,6/30/2007,365.0,2.46575342466
+3014,Bezdonnoe,62.033333,32.766667,62.033333,62.033333,32.766667,32.766667,Vascular plants,Alnus glutinosa,7.0,NISP,pollen,,2326.0,,,Radiocarbon years BP,225.0,121.0,pollen,6/30/2007,318.0,2.20125786164
+3014,Bezdonnoe,62.033333,32.766667,62.033333,62.033333,32.766667,32.766667,Vascular plants,Alnus glutinosa,16.0,NISP,pollen,,2584.0,,,Radiocarbon years BP,250.0,121.0,pollen,6/30/2007,342.0,4.6783625731
+3014,Bezdonnoe,62.033333,32.766667,62.033333,62.033333,32.766667,32.766667,Vascular plants,Alnus glutinosa,11.0,NISP,pollen,,2843.0,,,Radiocarbon years BP,275.0,121.0,pollen,6/30/2007,363.0,3.0303030303
+3014,Bezdonnoe,62.033333,32.766667,62.033333,62.033333,32.766667,32.766667,Vascular plants,Alnus glutinosa,15.0,NISP,pollen,,3101.0,,,Radiocarbon years BP,300.0,121.0,pollen,6/30/2007,404.0,3.71287128713
+3014,Bezdonnoe,62.033333,32.766667,62.033333,62.033333,32.766667,32.766667,Vascular plants,Alnus glutinosa,18.0,NISP,pollen,,3359.0,,,Radiocarbon years BP,325.0,121.0,pollen,6/30/2007,381.0,4.72440944882
+3014,Bezdonnoe,62.033333,32.766667,62.033333,62.033333,32.766667,32.766667,Vascular plants,Alnus glutinosa,18.0,NISP,pollen,,3618.0,,,Radiocarbon years BP,350.0,121.0,pollen,6/30/2007,326.0,5.52147239264
+3014,Bezdonnoe,62.033333,32.766667,62.033333,62.033333,32.766667,32.766667,Vascular plants,Alnus glutinosa,13.0,NISP,pollen,,3876.0,,,Radiocarbon years BP,375.0,121.0,pollen,6/30/2007,337.0,3.85756676558
+3014,Bezdonnoe,62.033333,32.766667,62.033333,62.033333,32.766667,32.766667,Vascular plants,Alnus glutinosa,6.0,NISP,pollen,,4135.0,,,Radiocarbon years BP,400.0,121.0,pollen,6/30/2007,267.0,2.24719101124
+3014,Bezdonnoe,62.033333,32.766667,62.033333,62.033333,32.766667,32.766667,Vascular plants,Alnus glutinosa,11.0,NISP,pollen,,4393.0,,,Radiocarbon years BP,425.0,121.0,pollen,6/30/2007,434.0,2.53456221198
+3014,Bezdonnoe,62.033333,32.766667,62.033333,62.033333,32.766667,32.766667,Vascular plants,Alnus glutinosa,22.0,NISP,pollen,,4652.0,,,Radiocarbon years BP,450.0,121.0,pollen,6/30/2007,323.0,6.81114551084
+3014,Bezdonnoe,62.033333,32.766667,62.033333,62.033333,32.766667,32.766667,Vascular plants,Alnus glutinosa,12.0,NISP,pollen,,4910.0,,,Radiocarbon years BP,475.0,121.0,pollen,6/30/2007,429.0,2.7972027972
+3014,Bezdonnoe,62.033333,32.766667,62.033333,62.033333,32.766667,32.766667,Vascular plants,Alnus glutinosa,19.0,NISP,pollen,,5166.0,,,Radiocarbon years BP,500.0,121.0,pollen,6/30/2007,338.0,5.62130177515
+3014,Bezdonnoe,62.033333,32.766667,62.033333,62.033333,32.766667,32.766667,Vascular plants,Alnus glutinosa,8.0,NISP,pollen,,5417.0,,,Radiocarbon years BP,525.0,121.0,pollen,6/30/2007,416.0,1.92307692308
+3014,Bezdonnoe,62.033333,32.766667,62.033333,62.033333,32.766667,32.766667,Vascular plants,Alnus glutinosa,18.0,NISP,pollen,,5668.0,,,Radiocarbon years BP,550.0,121.0,pollen,6/30/2007,294.0,6.12244897959
+3014,Bezdonnoe,62.033333,32.766667,62.033333,62.033333,32.766667,32.766667,Vascular plants,Alnus glutinosa,8.0,NISP,pollen,,5919.0,,,Radiocarbon years BP,575.0,121.0,pollen,6/30/2007,376.0,2.12765957447
+3014,Bezdonnoe,62.033333,32.766667,62.033333,62.033333,32.766667,32.766667,Vascular plants,Alnus glutinosa,23.0,NISP,pollen,,6171.0,,,Radiocarbon years BP,600.0,121.0,pollen,6/30/2007,413.0,5.56900726392
+3014,Bezdonnoe,62.033333,32.766667,62.033333,62.033333,32.766667,32.766667,Vascular plants,Alnus glutinosa,8.0,NISP,pollen,,6673.0,,,Radiocarbon years BP,650.0,121.0,pollen,6/30/2007,308.0,2.5974025974
+3014,Bezdonnoe,62.033333,32.766667,62.033333,62.033333,32.766667,32.766667,Vascular plants,Alnus glutinosa,6.0,NISP,pollen,,6924.0,,,Radiocarbon years BP,675.0,121.0,pollen,6/30/2007,352.0,1.70454545455
+3014,Bezdonnoe,62.033333,32.766667,62.033333,62.033333,32.766667,32.766667,Vascular plants,Alnus glutinosa,7.0,NISP,pollen,,7176.0,,,Radiocarbon years BP,700.0,121.0,pollen,6/30/2007,318.0,2.20125786164
+3014,Bezdonnoe,62.033333,32.766667,62.033333,62.033333,32.766667,32.766667,Vascular plants,Alnus glutinosa,1.0,NISP,pollen,,7427.0,,,Radiocarbon years BP,725.0,121.0,pollen,6/30/2007,311.0,0.32154340836
+3014,Bezdonnoe,62.033333,32.766667,62.033333,62.033333,32.766667,32.766667,Vascular plants,Alnus glutinosa,4.0,NISP,pollen,,7678.0,,,Radiocarbon years BP,750.0,121.0,pollen,6/30/2007,348.0,1.14942528736
+3014,Bezdonnoe,62.033333,32.766667,62.033333,62.033333,32.766667,32.766667,Vascular plants,Alnus glutinosa,4.0,NISP,pollen,,7929.0,,,Radiocarbon years BP,775.0,121.0,pollen,6/30/2007,271.0,1.47601476015
+3014,Bezdonnoe,62.033333,32.766667,62.033333,62.033333,32.766667,32.766667,Vascular plants,Alnus glutinosa,4.0,NISP,pollen,,8181.0,,,Radiocarbon years BP,800.0,121.0,pollen,6/30/2007,340.0,1.17647058824
+3014,Bezdonnoe,62.033333,32.766667,62.033333,62.033333,32.766667,32.766667,Vascular plants,Alnus glutinosa,1.0,NISP,pollen,,8432.0,,,Radiocarbon years BP,825.0,121.0,pollen,6/30/2007,295.0,0.338983050847
+3014,Bezdonnoe,62.033333,32.766667,62.033333,62.033333,32.766667,32.766667,Vascular plants,Alnus glutinosa,1.0,NISP,pollen,,8683.0,,,Radiocarbon years BP,850.0,121.0,pollen,6/30/2007,377.0,0.26525198939
+3014,Bezdonnoe,62.033333,32.766667,62.033333,62.033333,32.766667,32.766667,Vascular plants,Alnus glutinosa,2.0,NISP,pollen,,9103.0,,,Radiocarbon years BP,900.0,121.0,pollen,6/30/2007,456.0,0.438596491228
+3014,Bezdonnoe,62.033333,32.766667,62.033333,62.033333,32.766667,32.766667,Vascular plants,Alnus glutinosa,1.0,NISP,pollen,,9149.0,,,Radiocarbon years BP,925.0,121.0,pollen,6/30/2007,318.0,0.314465408805
+3014,Bezdonnoe,62.033333,32.766667,62.033333,62.033333,32.766667,32.766667,Vascular plants,Alnus glutinosa,1.0,NISP,pollen,,9195.0,,,Radiocarbon years BP,950.0,121.0,pollen,6/30/2007,316.0,0.316455696203
+3014,Bezdonnoe,62.033333,32.766667,62.033333,62.033333,32.766667,32.766667,Vascular plants,Alnus glutinosa,1.0,NISP,pollen,,9240.0,,,Radiocarbon years BP,975.0,121.0,pollen,6/30/2007,352.0,0.284090909091
+3014,Bezdonnoe,62.033333,32.766667,62.033333,62.033333,32.766667,32.766667,Vascular plants,Alnus glutinosa,3.0,NISP,pollen,,9332.0,,,Radiocarbon years BP,1025.0,121.0,pollen,6/30/2007,369.0,0.813008130081
+3014,Bezdonnoe,62.033333,32.766667,62.033333,62.033333,32.766667,32.766667,Vascular plants,Alnus glutinosa,1.0,NISP,pollen,,9606.0,,,Radiocarbon years BP,1175.0,121.0,pollen,6/30/2007,267.0,0.374531835206
+3014,Bezdonnoe,62.033333,32.766667,62.033333,62.033333,32.766667,32.766667,Vascular plants,Alnus glutinosa,1.0,NISP,pollen,,9834.0,,,Radiocarbon years BP,1300.0,121.0,pollen,6/30/2007,425.0,0.235294117647
+3014,Bezdonnoe,62.033333,32.766667,62.033333,62.033333,32.766667,32.766667,Vascular plants,Alnus glutinosa,5.0,NISP,pollen,,9880.0,,,Radiocarbon years BP,1325.0,121.0,pollen,6/30/2007,345.0,1.44927536232
+3014,Bezdonnoe,62.033333,32.766667,62.033333,62.033333,32.766667,32.766667,Vascular plants,Alnus glutinosa,1.0,NISP,pollen,,9900.0,,,Radiocarbon years BP,1350.0,121.0,pollen,6/30/2007,339.0,0.294985250737

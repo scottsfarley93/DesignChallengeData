@@ -1,0 +1,28 @@
+siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
+1399,Kamenicky,49.733333,15.966667,49.733333,49.733333,15.966667,15.966667,Vascular plants,Parnassia palustris,1.0,NISP,pollen,,4059.0,,,Radiocarbon years BP,30.0,624.0,pollen,6/30/2007,533.0,0.187617260788
+1399,Kamenicky,49.733333,15.966667,49.733333,49.733333,15.966667,15.966667,Vascular plants,Parnassia palustris,2.0,NISP,pollen,,5389.0,,,Radiocarbon years BP,40.0,624.0,pollen,6/30/2007,764.0,0.261780104712
+1399,Kamenicky,49.733333,15.966667,49.733333,49.733333,15.966667,15.966667,Vascular plants,Parnassia palustris,2.0,NISP,pollen,,6035.0,,,Radiocarbon years BP,45.0,624.0,pollen,6/30/2007,825.0,0.242424242424
+1399,Kamenicky,49.733333,15.966667,49.733333,49.733333,15.966667,15.966667,Vascular plants,Parnassia palustris,1.0,NISP,pollen,,8328.0,,,Radiocarbon years BP,65.0,624.0,pollen,6/30/2007,889.0,0.112485939258
+2965,Abernethy Forest,56.233333,-3.716667,56.233333,56.233333,-3.716667,-3.716667,Vascular plants,Parnassia palustris,2.0,NISP,pollen,,12018.0,,,Radiocarbon years BP,545.0,221.0,pollen,6/30/2007,105.0,1.90476190476
+2969,Plan du Laus,44.241667,6.702222,44.241667,44.241667,6.702222,6.702222,Vascular plants,Parnassia palustris,1.0,NISP,pollen,,7339.0,,,Radiocarbon years BP,310.0,2121.0,pollen,6/30/2007,234.0,0.42735042735
+2969,Plan du Laus,44.241667,6.702222,44.241667,44.241667,6.702222,6.702222,Vascular plants,Parnassia palustris,1.0,NISP,pollen,,8042.0,,,Radiocarbon years BP,420.0,2121.0,pollen,6/30/2007,177.0,0.564971751412
+2969,Plan du Laus,44.241667,6.702222,44.241667,44.241667,6.702222,6.702222,Vascular plants,Parnassia palustris,1.0,NISP,pollen,,8159.0,,,Radiocarbon years BP,440.0,2121.0,pollen,6/30/2007,310.0,0.322580645161
+2972,Ampoix,45.633333,2.933333,45.633333,45.633333,2.933333,2.933333,Vascular plants,Parnassia palustris,1.0,NISP,pollen,,1712.0,,,Radiocarbon years BP,70.0,1015.0,pollen,6/30/2007,487.0,0.205338809035
+2972,Ampoix,45.633333,2.933333,45.633333,45.633333,2.933333,2.933333,Vascular plants,Parnassia palustris,2.0,NISP,pollen,,2768.0,,,Radiocarbon years BP,140.0,1015.0,pollen,6/30/2007,276.0,0.724637681159
+2972,Ampoix,45.633333,2.933333,45.633333,45.633333,2.933333,2.933333,Vascular plants,Parnassia palustris,1.0,NISP,pollen,,4586.0,,,Radiocarbon years BP,290.0,1015.0,pollen,6/30/2007,441.0,0.226757369615
+2972,Ampoix,45.633333,2.933333,45.633333,45.633333,2.933333,2.933333,Vascular plants,Parnassia palustris,1.0,NISP,pollen,,5120.0,,,Radiocarbon years BP,340.0,1015.0,pollen,6/30/2007,480.0,0.208333333333
+2972,Ampoix,45.633333,2.933333,45.633333,45.633333,2.933333,2.933333,Vascular plants,Parnassia palustris,1.0,NISP,pollen,,5327.0,,,Radiocarbon years BP,360.0,1015.0,pollen,6/30/2007,428.0,0.233644859813
+2972,Ampoix,45.633333,2.933333,45.633333,45.633333,2.933333,2.933333,Vascular plants,Parnassia palustris,1.0,NISP,pollen,,5731.0,,,Radiocarbon years BP,400.0,1015.0,pollen,6/30/2007,481.0,0.2079002079
+2972,Ampoix,45.633333,2.933333,45.633333,45.633333,2.933333,2.933333,Vascular plants,Parnassia palustris,1.0,NISP,pollen,,6025.0,,,Radiocarbon years BP,430.0,1015.0,pollen,6/30/2007,390.0,0.25641025641
+2972,Ampoix,45.633333,2.933333,45.633333,45.633333,2.933333,2.933333,Vascular plants,Parnassia palustris,1.0,NISP,pollen,,6313.0,,,Radiocarbon years BP,460.0,1015.0,pollen,6/30/2007,859.0,0.11641443539
+2972,Ampoix,45.633333,2.933333,45.633333,45.633333,2.933333,2.933333,Vascular plants,Parnassia palustris,1.0,NISP,pollen,,6919.0,,,Radiocarbon years BP,525.0,1015.0,pollen,6/30/2007,463.0,0.215982721382
+2972,Ampoix,45.633333,2.933333,45.633333,45.633333,2.933333,2.933333,Vascular plants,Parnassia palustris,1.0,NISP,pollen,,7458.0,,,Radiocarbon years BP,585.0,1015.0,pollen,6/30/2007,1166.0,0.0857632933105
+2972,Ampoix,45.633333,2.933333,45.633333,45.633333,2.933333,2.933333,Vascular plants,Parnassia palustris,1.0,NISP,pollen,,9184.0,,,Radiocarbon years BP,790.0,1015.0,pollen,6/30/2007,619.0,0.16155088853
+2972,Ampoix,45.633333,2.933333,45.633333,45.633333,2.933333,2.933333,Vascular plants,Parnassia palustris,1.0,NISP,pollen,,9425.0,,,Radiocarbon years BP,820.0,1015.0,pollen,6/30/2007,341.0,0.293255131965
+2972,Ampoix,45.633333,2.933333,45.633333,45.633333,2.933333,2.933333,Vascular plants,Parnassia palustris,1.0,NISP,pollen,,9662.0,,,Radiocarbon years BP,850.0,1015.0,pollen,6/30/2007,496.0,0.201612903226
+2972,Ampoix,45.633333,2.933333,45.633333,45.633333,2.933333,2.933333,Vascular plants,Parnassia palustris,1.0,NISP,pollen,,9819.0,,,Radiocarbon years BP,870.0,1015.0,pollen,6/30/2007,424.0,0.235849056604
+2972,Ampoix,45.633333,2.933333,45.633333,45.633333,2.933333,2.933333,Vascular plants,Parnassia palustris,1.0,NISP,pollen,,9897.0,,,Radiocarbon years BP,880.0,1015.0,pollen,6/30/2007,431.0,0.232018561485
+2972,Ampoix,45.633333,2.933333,45.633333,45.633333,2.933333,2.933333,Vascular plants,Parnassia palustris,1.0,NISP,pollen,,9936.0,,,Radiocarbon years BP,885.0,1015.0,pollen,6/30/2007,298.0,0.335570469799
+2972,Ampoix,45.633333,2.933333,45.633333,45.633333,2.933333,2.933333,Vascular plants,Parnassia palustris,1.0,NISP,pollen,,9952.0,,,Radiocarbon years BP,887.0,1015.0,pollen,6/30/2007,192.0,0.520833333333
+2972,Ampoix,45.633333,2.933333,45.633333,45.633333,2.933333,2.933333,Vascular plants,Parnassia palustris,5.0,NISP,pollen,,9975.0,,,Radiocarbon years BP,890.0,1015.0,pollen,6/30/2007,280.0,1.78571428571
+2972,Ampoix,45.633333,2.933333,45.633333,45.633333,2.933333,2.933333,Vascular plants,Parnassia palustris,1.0,NISP,pollen,,10376.0,,,Radiocarbon years BP,942.0,1015.0,pollen,6/30/2007,416.0,0.240384615385

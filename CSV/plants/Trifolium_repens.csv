@@ -1,0 +1,4 @@
+siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
+16,Ahlenmoor,53.7,8.733333,53.7,53.7,8.733333,8.733333,Vascular plants,Trifolium repens,1.0,NISP,pollen,,990.0,,,Radiocarbon years BP,6.0,2.0,pollen,6/30/2007,1005.0,0.0995024875622
+16,Ahlenmoor,53.7,8.733333,53.7,53.7,8.733333,8.733333,Vascular plants,Trifolium repens,2.0,NISP,pollen,,1089.0,,,Radiocarbon years BP,16.0,2.0,pollen,6/30/2007,990.0,0.20202020202
+16,Ahlenmoor,53.7,8.733333,53.7,53.7,8.733333,8.733333,Vascular plants,Trifolium repens,2.0,NISP,pollen,,3316.0,,,Radiocarbon years BP,241.0,2.0,pollen,6/30/2007,672.0,0.297619047619

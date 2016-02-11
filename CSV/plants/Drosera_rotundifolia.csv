@@ -1,0 +1,22 @@
+siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
+16,Ahlenmoor,53.7,8.733333,53.7,53.7,8.733333,8.733333,Vascular plants,Drosera rotundifolia,1.0,NISP,pollen,,2474.0,,,Radiocarbon years BP,156.0,2.0,pollen,6/30/2007,1260.0,0.0793650793651
+16,Ahlenmoor,53.7,8.733333,53.7,53.7,8.733333,8.733333,Vascular plants,Drosera rotundifolia,1.0,NISP,pollen,,3613.0,,,Radiocarbon years BP,271.0,2.0,pollen,6/30/2007,1662.0,0.0601684717208
+1956,Rapid Lake,42.728889,-109.193889,42.728889,42.728889,-109.193889,-109.193889,Vascular plants,Drosera rotundifolia,2.0,NISP,pollen,,8750.0,,,Radiocarbon years BP,296.0,3134.0,pollen,6/30/2007,552.0,0.36231884058
+1956,Rapid Lake,42.728889,-109.193889,42.728889,42.728889,-109.193889,-109.193889,Vascular plants,Drosera rotundifolia,3.0,NISP,pollen,,10082.0,,,Radiocarbon years BP,341.0,3134.0,pollen,6/30/2007,559.0,0.536672629696
+1956,Rapid Lake,42.728889,-109.193889,42.728889,42.728889,-109.193889,-109.193889,Vascular plants,Drosera rotundifolia,1.0,NISP,pollen,,11148.0,,,Radiocarbon years BP,377.0,3134.0,pollen,6/30/2007,534.0,0.187265917603
+3034,Saint Michel de Braspart,48.416667,-3.666667,48.416667,48.416667,-3.666667,-3.666667,Vascular plants,Drosera rotundifolia,1.0,NISP,pollen,,3661.0,,,Radiocarbon years BP,50.0,,pollen,6/30/2007,1582.0,0.063211125158
+3034,Saint Michel de Braspart,48.416667,-3.666667,48.416667,48.416667,-3.666667,-3.666667,Vascular plants,Drosera rotundifolia,1.0,NISP,pollen,,3770.0,,,Radiocarbon years BP,55.0,,pollen,6/30/2007,1245.0,0.0803212851406
+3034,Saint Michel de Braspart,48.416667,-3.666667,48.416667,48.416667,-3.666667,-3.666667,Vascular plants,Drosera rotundifolia,1.0,NISP,pollen,,4422.0,,,Radiocarbon years BP,85.0,,pollen,6/30/2007,1607.0,0.0622277535781
+3034,Saint Michel de Braspart,48.416667,-3.666667,48.416667,48.416667,-3.666667,-3.666667,Vascular plants,Drosera rotundifolia,1.0,NISP,pollen,,4748.0,,,Radiocarbon years BP,100.0,,pollen,6/30/2007,1674.0,0.0597371565114
+3047,Cergowa Gora,49.533333,21.7,49.533333,49.533333,21.7,21.7,Vascular plants,Drosera rotundifolia,1.0,NISP,pollen,,,,,,10.0,495.0,pollen,6/30/2007,1624.0,0.0615763546798
+3047,Cergowa Gora,49.533333,21.7,49.533333,49.533333,21.7,21.7,Vascular plants,Drosera rotundifolia,1.0,NISP,pollen,,,,,,15.0,495.0,pollen,6/30/2007,2354.0,0.0424808836024
+3047,Cergowa Gora,49.533333,21.7,49.533333,49.533333,21.7,21.7,Vascular plants,Drosera rotundifolia,1.0,NISP,pollen,,,,,,25.0,495.0,pollen,6/30/2007,1673.0,0.0597728631201
+3047,Cergowa Gora,49.533333,21.7,49.533333,49.533333,21.7,21.7,Vascular plants,Drosera rotundifolia,2.0,NISP,pollen,,,,,,70.0,495.0,pollen,6/30/2007,1149.0,0.174064403829
+3047,Cergowa Gora,49.533333,21.7,49.533333,49.533333,21.7,21.7,Vascular plants,Drosera rotundifolia,1.0,NISP,pollen,,,,,,75.0,495.0,pollen,6/30/2007,1091.0,0.0916590284143
+3047,Cergowa Gora,49.533333,21.7,49.533333,49.533333,21.7,21.7,Vascular plants,Drosera rotundifolia,1.0,NISP,pollen,,,,,,85.0,495.0,pollen,6/30/2007,874.0,0.114416475973
+3088,Dunum [Hilliges Moor],53.583333,7.633333,53.583333,53.583333,7.633333,7.633333,Vascular plants,Drosera rotundifolia,12.0,NISP,pollen,,,,,,20.0,5.0,pollen,6/30/2007,3052.0,0.393184796855
+3088,Dunum [Hilliges Moor],53.583333,7.633333,53.583333,53.583333,7.633333,7.633333,Vascular plants,Drosera rotundifolia,1.0,NISP,pollen,,,,,,24.0,5.0,pollen,6/30/2007,2755.0,0.0362976406534
+3088,Dunum [Hilliges Moor],53.583333,7.633333,53.583333,53.583333,7.633333,7.633333,Vascular plants,Drosera rotundifolia,2.0,NISP,pollen,,,,,,28.0,5.0,pollen,6/30/2007,1808.0,0.110619469027
+3088,Dunum [Hilliges Moor],53.583333,7.633333,53.583333,53.583333,7.633333,7.633333,Vascular plants,Drosera rotundifolia,1.0,NISP,pollen,,,,,,32.0,5.0,pollen,6/30/2007,903.0,0.110741971207
+3088,Dunum [Hilliges Moor],53.583333,7.633333,53.583333,53.583333,7.633333,7.633333,Vascular plants,Drosera rotundifolia,1.0,NISP,pollen,,,,,,44.0,5.0,pollen,6/30/2007,979.0,0.102145045965
+3088,Dunum [Hilliges Moor],53.583333,7.633333,53.583333,53.583333,7.633333,7.633333,Vascular plants,Drosera rotundifolia,14.0,NISP,pollen,,,,,,48.0,5.0,pollen,6/30/2007,1002.0,1.39720558882

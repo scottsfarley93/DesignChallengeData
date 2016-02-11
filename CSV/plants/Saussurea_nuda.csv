@@ -1,0 +1,65 @@
+siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
+2965,Abernethy Forest,56.233333,-3.716667,56.233333,56.233333,-3.716667,-3.716667,Vascular plants,Saussurea nuda,1.0,NISP,pollen,,10771.0,,,Radiocarbon years BP,500.0,221.0,pollen,6/30/2007,284.0,0.352112676056
+2965,Abernethy Forest,56.233333,-3.716667,56.233333,56.233333,-3.716667,-3.716667,Vascular plants,Saussurea nuda,1.0,NISP,pollen,,11502.0,,,Radiocarbon years BP,525.0,221.0,pollen,6/30/2007,606.0,0.16501650165
+2977,Allt na Feithe Sheilich,57.316667,-3.9,57.316667,57.316667,-3.9,-3.9,Vascular plants,Saussurea nuda,1.0,NISP,pollen,,9609.0,,,Radiocarbon years BP,325.0,595.0,pollen,6/30/2007,511.0,0.195694716243
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Saussurea nuda,1.0,NISP,pollen,,,,,,400.0,20.0,pollen,6/30/2007,409.0,0.244498777506
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Saussurea nuda,1.0,NISP,pollen,,,,,,405.0,20.0,pollen,6/30/2007,175.0,0.571428571429
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Saussurea nuda,2.0,NISP,pollen,,,,,,420.0,20.0,pollen,6/30/2007,254.0,0.787401574803
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Saussurea nuda,3.0,NISP,pollen,,,,,,425.0,20.0,pollen,6/30/2007,184.0,1.63043478261
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Saussurea nuda,3.0,NISP,pollen,,,,,,440.0,20.0,pollen,6/30/2007,324.0,0.925925925926
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Saussurea nuda,1.0,NISP,pollen,,,,,,450.0,20.0,pollen,6/30/2007,125.0,0.8
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Saussurea nuda,1.0,NISP,pollen,,,,,,470.0,20.0,pollen,6/30/2007,404.0,0.247524752475
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Saussurea nuda,1.0,NISP,pollen,,,,,,485.0,20.0,pollen,6/30/2007,173.0,0.578034682081
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Saussurea nuda,4.0,NISP,pollen,,,,,,490.0,20.0,pollen,6/30/2007,212.0,1.88679245283
+3063,Coire Bog,57.85,-4.416667,57.85,57.85,-4.416667,-4.416667,Vascular plants,Saussurea nuda,1.0,NISP,pollen,,7093.0,,,Radiocarbon years BP,270.0,259.0,pollen,6/30/2007,747.0,0.133868808568
+3066,Cooran Lane,55.116667,-4.4,55.116667,55.116667,-4.4,-4.4,Vascular plants,Saussurea nuda,1.0,NISP,pollen,,,,,,215.0,274.0,pollen,6/30/2007,465.5,0.214822771214
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Saussurea nuda,1.0,NISP,pollen,,8287.0,,,Radiocarbon years BP,515.0,135.0,pollen,6/30/2007,318.0,0.314465408805
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Saussurea nuda,1.0,NISP,pollen,,8736.0,,,Radiocarbon years BP,555.0,135.0,pollen,6/30/2007,213.0,0.469483568075
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Saussurea nuda,1.0,NISP,pollen,,9129.0,,,Radiocarbon years BP,590.0,135.0,pollen,6/30/2007,106.0,0.943396226415
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Saussurea nuda,2.0,NISP,pollen,,9185.0,,,Radiocarbon years BP,595.0,135.0,pollen,6/30/2007,112.0,1.78571428571
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Saussurea nuda,1.0,NISP,pollen,,9242.0,,,Radiocarbon years BP,600.0,135.0,pollen,6/30/2007,252.0,0.396825396825
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Saussurea nuda,3.0,NISP,pollen,,9298.0,,,Radiocarbon years BP,605.0,135.0,pollen,6/30/2007,89.0,3.37078651685
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Saussurea nuda,1.0,NISP,pollen,,9410.0,,,Radiocarbon years BP,615.0,135.0,pollen,6/30/2007,86.0,1.16279069767
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Saussurea nuda,2.0,NISP,pollen,,9691.0,,,Radiocarbon years BP,640.0,135.0,pollen,6/30/2007,128.0,1.5625
+3125,Lochan coir a' Ghobhainn,57.183333,-6.3,57.183333,57.183333,-6.3,-6.3,Vascular plants,Saussurea nuda,1.0,NISP,pollen,,8804.0,,,Radiocarbon years BP,320.0,82.0,pollen,6/30/2007,1273.0,0.0785545954438
+3125,Lochan coir a' Ghobhainn,57.183333,-6.3,57.183333,57.183333,-6.3,-6.3,Vascular plants,Saussurea nuda,2.0,NISP,pollen,,8997.0,,,Radiocarbon years BP,325.0,82.0,pollen,6/30/2007,1322.0,0.151285930408
+3125,Lochan coir a' Ghobhainn,57.183333,-6.3,57.183333,57.183333,-6.3,-6.3,Vascular plants,Saussurea nuda,2.0,NISP,pollen,,9189.0,,,Radiocarbon years BP,330.0,82.0,pollen,6/30/2007,1070.0,0.18691588785
+3125,Lochan coir a' Ghobhainn,57.183333,-6.3,57.183333,57.183333,-6.3,-6.3,Vascular plants,Saussurea nuda,4.0,NISP,pollen,,9382.0,,,Radiocarbon years BP,335.0,82.0,pollen,6/30/2007,566.0,0.706713780919
+3125,Lochan coir a' Ghobhainn,57.183333,-6.3,57.183333,57.183333,-6.3,-6.3,Vascular plants,Saussurea nuda,9.0,NISP,pollen,,9458.0,,,Radiocarbon years BP,340.0,82.0,pollen,6/30/2007,1304.0,0.69018404908
+3125,Lochan coir a' Ghobhainn,57.183333,-6.3,57.183333,57.183333,-6.3,-6.3,Vascular plants,Saussurea nuda,4.0,NISP,pollen,,9506.0,,,Radiocarbon years BP,345.0,82.0,pollen,6/30/2007,1103.0,0.362647325476
+3125,Lochan coir a' Ghobhainn,57.183333,-6.3,57.183333,57.183333,-6.3,-6.3,Vascular plants,Saussurea nuda,12.0,NISP,pollen,,9553.0,,,Radiocarbon years BP,350.0,82.0,pollen,6/30/2007,1266.0,0.947867298578
+3125,Lochan coir a' Ghobhainn,57.183333,-6.3,57.183333,57.183333,-6.3,-6.3,Vascular plants,Saussurea nuda,8.0,NISP,pollen,,9601.0,,,Radiocarbon years BP,355.0,82.0,pollen,6/30/2007,1521.0,0.525969756739
+3125,Lochan coir a' Ghobhainn,57.183333,-6.3,57.183333,57.183333,-6.3,-6.3,Vascular plants,Saussurea nuda,17.0,NISP,pollen,,9648.0,,,Radiocarbon years BP,360.0,82.0,pollen,6/30/2007,1600.0,1.0625
+3125,Lochan coir a' Ghobhainn,57.183333,-6.3,57.183333,57.183333,-6.3,-6.3,Vascular plants,Saussurea nuda,1.0,NISP,pollen,,9707.0,,,Radiocarbon years BP,365.0,82.0,pollen,6/30/2007,855.0,0.116959064327
+3125,Lochan coir a' Ghobhainn,57.183333,-6.3,57.183333,57.183333,-6.3,-6.3,Vascular plants,Saussurea nuda,6.0,NISP,pollen,,9868.0,,,Radiocarbon years BP,370.0,82.0,pollen,6/30/2007,1321.0,0.454201362604
+3280,Loch Mealt,57.6,-6.133333,57.6,57.6,-6.133333,-6.133333,Vascular plants,Saussurea nuda,1.0,NISP,pollen,,,,,,460.0,51.0,pollen,6/30/2007,264.0,0.378787878788
+3280,Loch Mealt,57.6,-6.133333,57.6,57.6,-6.133333,-6.133333,Vascular plants,Saussurea nuda,1.0,NISP,pollen,,,,,,520.0,51.0,pollen,6/30/2007,369.0,0.271002710027
+3280,Loch Mealt,57.6,-6.133333,57.6,57.6,-6.133333,-6.133333,Vascular plants,Saussurea nuda,1.0,NISP,pollen,,,,,,530.0,51.0,pollen,6/30/2007,349.0,0.286532951289
+3280,Loch Mealt,57.6,-6.133333,57.6,57.6,-6.133333,-6.133333,Vascular plants,Saussurea nuda,1.0,NISP,pollen,,,,,,540.0,51.0,pollen,6/30/2007,395.0,0.253164556962
+3280,Loch Mealt,57.6,-6.133333,57.6,57.6,-6.133333,-6.133333,Vascular plants,Saussurea nuda,1.0,NISP,pollen,,,,,,570.0,51.0,pollen,6/30/2007,187.0,0.534759358289
+3280,Loch Mealt,57.6,-6.133333,57.6,57.6,-6.133333,-6.133333,Vascular plants,Saussurea nuda,1.0,NISP,pollen,,,,,,575.0,51.0,pollen,6/30/2007,114.0,0.877192982456
+3280,Loch Mealt,57.6,-6.133333,57.6,57.6,-6.133333,-6.133333,Vascular plants,Saussurea nuda,2.0,NISP,pollen,,,,,,595.0,51.0,pollen,6/30/2007,89.0,2.24719101124
+3280,Loch Mealt,57.6,-6.133333,57.6,57.6,-6.133333,-6.133333,Vascular plants,Saussurea nuda,1.0,NISP,pollen,,,,,,600.0,51.0,pollen,6/30/2007,219.0,0.456621004566
+3280,Loch Mealt,57.6,-6.133333,57.6,57.6,-6.133333,-6.133333,Vascular plants,Saussurea nuda,1.0,NISP,pollen,,,,,,645.0,51.0,pollen,6/30/2007,116.0,0.862068965517
+3296,Morrone Birkwoods,57.0,-3.433333,57.0,57.0,-3.433333,-3.433333,Vascular plants,Saussurea nuda,1.0,NISP,pollen,,8780.0,,,Radiocarbon years BP,112.0,425.0,pollen,6/30/2007,661.0,0.151285930408
+3315,Niechorze,54.0,15.05,54.0,54.0,15.05,15.05,Vascular plants,Saussurea nuda,1.0,NISP,pollen,,5701.0,,,Radiocarbon years BP,340.0,5.0,pollen,6/30/2007,846.0,0.118203309693
+3315,Niechorze,54.0,15.05,54.0,54.0,15.05,15.05,Vascular plants,Saussurea nuda,1.0,NISP,pollen,,6311.0,,,Radiocarbon years BP,355.0,5.0,pollen,6/30/2007,951.0,0.105152471083
+3315,Niechorze,54.0,15.05,54.0,54.0,15.05,15.05,Vascular plants,Saussurea nuda,1.0,NISP,pollen,,8117.0,,,Radiocarbon years BP,395.0,5.0,pollen,6/30/2007,1063.0,0.0940733772342
+3315,Niechorze,54.0,15.05,54.0,54.0,15.05,15.05,Vascular plants,Saussurea nuda,1.0,NISP,pollen,,8863.0,,,Radiocarbon years BP,410.0,5.0,pollen,6/30/2007,1131.0,0.0884173297966
+3315,Niechorze,54.0,15.05,54.0,54.0,15.05,15.05,Vascular plants,Saussurea nuda,2.0,NISP,pollen,,10079.0,,,Radiocarbon years BP,433.0,5.0,pollen,6/30/2007,1070.0,0.18691588785
+3315,Niechorze,54.0,15.05,54.0,54.0,15.05,15.05,Vascular plants,Saussurea nuda,3.0,NISP,pollen,,10189.0,,,Radiocarbon years BP,435.0,5.0,pollen,6/30/2007,1393.0,0.21536252692
+3315,Niechorze,54.0,15.05,54.0,54.0,15.05,15.05,Vascular plants,Saussurea nuda,1.0,NISP,pollen,,10637.0,,,Radiocarbon years BP,443.0,5.0,pollen,6/30/2007,1201.0,0.0832639467111
+3382,Little Loch Roag,58.133333,-6.883333,58.133333,58.133333,-6.883333,-6.883333,Vascular plants,Saussurea nuda,4.0,NISP,pollen,,7542.0,,,Radiocarbon years BP,280.0,27.0,pollen,6/30/2007,1426.0,0.280504908836
+3442,Straloch,56.75,-3.566667,56.75,56.75,-3.566667,-3.566667,Vascular plants,Saussurea nuda,1.0,NISP,pollen,,,,,,610.0,260.0,pollen,6/30/2007,617.0,0.162074554295
+3442,Straloch,56.75,-3.566667,56.75,56.75,-3.566667,-3.566667,Vascular plants,Saussurea nuda,2.0,NISP,pollen,,,,,,720.0,260.0,pollen,6/30/2007,239.0,0.836820083682
+3442,Straloch,56.75,-3.566667,56.75,56.75,-3.566667,-3.566667,Vascular plants,Saussurea nuda,1.0,NISP,pollen,,,,,,880.0,260.0,pollen,6/30/2007,138.0,0.724637681159
+3465,Thorpe Bulmer,54.716667,-1.3,54.716667,54.716667,-1.3,-1.3,Vascular plants,Saussurea nuda,3.0,NISP,pollen,,5056.0,,,Radiocarbon years BP,605.0,100.0,pollen,6/30/2007,925.0,0.324324324324
+3465,Thorpe Bulmer,54.716667,-1.3,54.716667,54.716667,-1.3,-1.3,Vascular plants,Saussurea nuda,1.0,NISP,pollen,,5084.0,,,Radiocarbon years BP,607.0,100.0,pollen,6/30/2007,520.0,0.192307692308
+3465,Thorpe Bulmer,54.716667,-1.3,54.716667,54.716667,-1.3,-1.3,Vascular plants,Saussurea nuda,1.0,NISP,pollen,,5167.0,,,Radiocarbon years BP,613.0,100.0,pollen,6/30/2007,516.0,0.193798449612
+3465,Thorpe Bulmer,54.716667,-1.3,54.716667,54.716667,-1.3,-1.3,Vascular plants,Saussurea nuda,1.0,NISP,pollen,,5696.0,,,Radiocarbon years BP,651.0,100.0,pollen,6/30/2007,511.0,0.195694716243
+3465,Thorpe Bulmer,54.716667,-1.3,54.716667,54.716667,-1.3,-1.3,Vascular plants,Saussurea nuda,1.0,NISP,pollen,,5947.0,,,Radiocarbon years BP,669.0,100.0,pollen,6/30/2007,504.0,0.198412698413
+3465,Thorpe Bulmer,54.716667,-1.3,54.716667,54.716667,-1.3,-1.3,Vascular plants,Saussurea nuda,3.0,NISP,pollen,,6030.0,,,Radiocarbon years BP,675.0,100.0,pollen,6/30/2007,389.0,0.771208226221
+3465,Thorpe Bulmer,54.716667,-1.3,54.716667,54.716667,-1.3,-1.3,Vascular plants,Saussurea nuda,1.0,NISP,pollen,,6114.0,,,Radiocarbon years BP,681.0,100.0,pollen,6/30/2007,200.0,0.5
+3465,Thorpe Bulmer,54.716667,-1.3,54.716667,54.716667,-1.3,-1.3,Vascular plants,Saussurea nuda,2.0,NISP,pollen,,6197.0,,,Radiocarbon years BP,687.0,100.0,pollen,6/30/2007,502.0,0.398406374502
+3465,Thorpe Bulmer,54.716667,-1.3,54.716667,54.716667,-1.3,-1.3,Vascular plants,Saussurea nuda,2.0,NISP,pollen,,6225.0,,,Radiocarbon years BP,689.0,100.0,pollen,6/30/2007,507.0,0.394477317554
+3465,Thorpe Bulmer,54.716667,-1.3,54.716667,54.716667,-1.3,-1.3,Vascular plants,Saussurea nuda,1.0,NISP,pollen,,6476.0,,,Radiocarbon years BP,707.0,100.0,pollen,6/30/2007,507.0,0.197238658777

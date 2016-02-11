@@ -1,0 +1,11 @@
+siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
+1321,Site 1 (Jensen 1998),26.358889,-80.353056,26.358889,26.358889,-80.353056,-80.353056,Vascular plants,Trema micrantha,1.0,NISP,pollen,,,,,,0.0,,pollen surface sample,6/30/2007,,
+1325,Site 5 (Jensen 1998),26.352778,-80.307778,26.352778,26.352778,-80.307778,-80.307778,Vascular plants,Trema micrantha,3.0,NISP,pollen,,,,,,0.0,,pollen surface sample,6/30/2007,,
+1326,Site 6 (Jensen 1998),26.261389,-80.333056,26.261389,26.261389,-80.333056,-80.333056,Vascular plants,Trema micrantha,1.0,NISP,pollen,,,,,,0.0,,pollen surface sample,6/30/2007,,
+1327,Site 7 (Jensen 1998),26.275,-80.324444,26.275,26.275,-80.324444,-80.324444,Vascular plants,Trema micrantha,1.0,NISP,pollen,,,,,,0.0,,pollen surface sample,6/30/2007,,
+1331,Site 11 (Jensen 1998),26.343056,-80.303611,26.343056,26.343056,-80.303611,-80.303611,Vascular plants,Trema micrantha,2.0,NISP,pollen,,,,,,0.0,,pollen surface sample,6/30/2007,,
+1332,Site 12 (Jensen 1998),26.348056,-80.32,26.348056,26.348056,-80.32,-80.32,Vascular plants,Trema micrantha,1.0,NISP,pollen,,,,,,0.0,,pollen surface sample,6/30/2007,,
+1336,Site 16 (Jensen 1998),26.3125,-80.385278,26.3125,26.3125,-80.385278,-80.385278,Vascular plants,Trema micrantha,2.0,NISP,pollen,,,,,,0.0,,pollen surface sample,6/30/2007,,
+1341,Site 21 (Jensen 1998),26.276389,-80.356667,26.276389,26.276389,-80.356667,-80.356667,Vascular plants,Trema micrantha,1.0,NISP,pollen,,,,,,0.0,,pollen surface sample,6/30/2007,,
+1347,Site 27 (Jensen 1998),26.333611,-80.377778,26.333611,26.333611,-80.377778,-80.377778,Vascular plants,Trema micrantha,1.0,NISP,pollen,,,,,,0.0,,pollen surface sample,6/30/2007,,
+11616,Fakahatchee Strand Preserve State Park,25.9604,-81.4509,25.9816,25.9392,-81.4417,-81.4601,Vascular plants,Trema micrantha,1.0,NISP,pollen,,476.0,384.0,541.0,Calibrated radiocarbon years BP,44.0,2.0,pollen,8/25/2015,310.0,0.322580645161

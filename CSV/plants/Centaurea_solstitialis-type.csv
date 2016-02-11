@@ -1,0 +1,15 @@
+siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Centaurea solstitialis-type,1.0,NISP,pollen,,63.0,,,Radiocarbon years BP,5.0,350.0,pollen,6/30/2007,558.0,0.179211469534
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Centaurea solstitialis-type,1.0,NISP,pollen,,687.0,,,Radiocarbon years BP,50.0,350.0,pollen,6/30/2007,1209.0,0.0827129859388
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Centaurea solstitialis-type,6.0,NISP,pollen,,1702.0,,,Radiocarbon years BP,120.0,350.0,pollen,6/30/2007,1657.0,0.36210018105
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Centaurea solstitialis-type,2.0,NISP,pollen,,1996.0,,,Radiocarbon years BP,140.0,350.0,pollen,6/30/2007,1200.0,0.166666666667
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Centaurea solstitialis-type,4.0,NISP,pollen,,2292.0,,,Radiocarbon years BP,160.0,350.0,pollen,6/30/2007,679.0,0.589101620029
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Centaurea solstitialis-type,4.0,NISP,pollen,,2441.0,,,Radiocarbon years BP,170.0,350.0,pollen,6/30/2007,774.0,0.516795865633
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Centaurea solstitialis-type,6.0,NISP,pollen,,2739.0,,,Radiocarbon years BP,190.0,350.0,pollen,6/30/2007,622.0,0.96463022508
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Centaurea solstitialis-type,2.0,NISP,pollen,,3038.0,,,Radiocarbon years BP,210.0,350.0,pollen,6/30/2007,724.0,0.276243093923
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Centaurea solstitialis-type,14.0,NISP,pollen,,3338.0,,,Radiocarbon years BP,230.0,350.0,pollen,6/30/2007,1332.0,1.05105105105
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Centaurea solstitialis-type,2.0,NISP,pollen,,3639.0,,,Radiocarbon years BP,250.0,350.0,pollen,6/30/2007,1184.0,0.168918918919
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Centaurea solstitialis-type,1.0,NISP,pollen,,3941.0,,,Radiocarbon years BP,270.0,350.0,pollen,6/30/2007,791.0,0.126422250316
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Centaurea solstitialis-type,1.0,NISP,pollen,,4244.0,,,Radiocarbon years BP,290.0,350.0,pollen,6/30/2007,2154.0,0.0464252553389
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Centaurea solstitialis-type,7.0,NISP,pollen,,9635.0,,,Radiocarbon years BP,640.0,350.0,pollen,6/30/2007,317.0,2.20820189274
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Centaurea solstitialis-type,3.0,NISP,pollen,,10572.0,,,Radiocarbon years BP,700.0,350.0,pollen,6/30/2007,182.0,1.64835164835

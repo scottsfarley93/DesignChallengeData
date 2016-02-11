@@ -1,0 +1,343 @@
+siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
+33,Amba River Exposure 596,43.316667,131.816667,43.316667,43.316667,131.816667,131.816667,Vascular plants,Betula ermanii,2.0,NISP,pollen,,2574.0,,,Radiocarbon years BP,220.0,5.0,pollen,6/30/2007,458.0,0.436681222707
+33,Amba River Exposure 596,43.316667,131.816667,43.316667,43.316667,131.816667,131.816667,Vascular plants,Betula ermanii,4.0,NISP,pollen,,2947.0,,,Radiocarbon years BP,320.0,5.0,pollen,6/30/2007,419.0,0.954653937947
+33,Amba River Exposure 596,43.316667,131.816667,43.316667,43.316667,131.816667,131.816667,Vascular plants,Betula ermanii,2.0,NISP,pollen,,3021.0,,,Radiocarbon years BP,340.0,5.0,pollen,6/30/2007,272.0,0.735294117647
+33,Amba River Exposure 596,43.316667,131.816667,43.316667,43.316667,131.816667,131.816667,Vascular plants,Betula ermanii,2.0,NISP,pollen,,4456.0,,,Radiocarbon years BP,400.0,5.0,pollen,6/30/2007,170.0,1.17647058824
+33,Amba River Exposure 596,43.316667,131.816667,43.316667,43.316667,131.816667,131.816667,Vascular plants,Betula ermanii,2.0,NISP,pollen,,5486.0,,,Radiocarbon years BP,440.0,5.0,pollen,6/30/2007,336.0,0.595238095238
+201,Amurskii Gulf,43.25,131.9,43.25,43.25,131.9,131.9,Vascular plants,Betula ermanii,8.0,NISP,pollen,,,,,,10.0,-19.0,pollen,6/30/2007,396.0,2.0202020202
+201,Amurskii Gulf,43.25,131.9,43.25,43.25,131.9,131.9,Vascular plants,Betula ermanii,3.0,NISP,pollen,,,,,,20.0,-19.0,pollen,6/30/2007,383.0,0.783289817232
+201,Amurskii Gulf,43.25,131.9,43.25,43.25,131.9,131.9,Vascular plants,Betula ermanii,8.0,NISP,pollen,,,,,,35.0,-19.0,pollen,6/30/2007,359.0,2.22841225627
+201,Amurskii Gulf,43.25,131.9,43.25,43.25,131.9,131.9,Vascular plants,Betula ermanii,7.0,NISP,pollen,,,,,,50.0,-19.0,pollen,6/30/2007,379.0,1.84696569921
+201,Amurskii Gulf,43.25,131.9,43.25,43.25,131.9,131.9,Vascular plants,Betula ermanii,5.0,NISP,pollen,,,,,,90.0,-19.0,pollen,6/30/2007,378.0,1.32275132275
+201,Amurskii Gulf,43.25,131.9,43.25,43.25,131.9,131.9,Vascular plants,Betula ermanii,8.0,NISP,pollen,,,,,,150.0,-19.0,pollen,6/30/2007,336.0,2.38095238095
+201,Amurskii Gulf,43.25,131.9,43.25,43.25,131.9,131.9,Vascular plants,Betula ermanii,6.0,NISP,pollen,,,,,,185.0,-19.0,pollen,6/30/2007,336.0,1.78571428571
+201,Amurskii Gulf,43.25,131.9,43.25,43.25,131.9,131.9,Vascular plants,Betula ermanii,7.0,NISP,pollen,,,,,,340.0,-19.0,pollen,6/30/2007,318.0,2.20125786164
+201,Amurskii Gulf,43.25,131.9,43.25,43.25,131.9,131.9,Vascular plants,Betula ermanii,9.0,NISP,pollen,,,,,,440.0,-19.0,pollen,6/30/2007,314.0,2.86624203822
+201,Amurskii Gulf,43.25,131.9,43.25,43.25,131.9,131.9,Vascular plants,Betula ermanii,2.0,NISP,pollen,,,,,,500.0,-19.0,pollen,6/30/2007,1711.0,0.116890707189
+201,Amurskii Gulf,43.25,131.9,43.25,43.25,131.9,131.9,Vascular plants,Betula ermanii,1.0,NISP,pollen,,,,,,555.0,-19.0,pollen,6/30/2007,311.0,0.32154340836
+201,Amurskii Gulf,43.25,131.9,43.25,43.25,131.9,131.9,Vascular plants,Betula ermanii,1.0,NISP,pollen,,,,,,735.0,-19.0,pollen,6/30/2007,288.0,0.347222222222
+201,Amurskii Gulf,43.25,131.9,43.25,43.25,131.9,131.9,Vascular plants,Betula ermanii,1.0,NISP,pollen,,,,,,880.0,-19.0,pollen,6/30/2007,307.0,0.325732899023
+201,Amurskii Gulf,43.25,131.9,43.25,43.25,131.9,131.9,Vascular plants,Betula ermanii,5.0,NISP,pollen,,,,,,940.0,-19.0,pollen,6/30/2007,331.0,1.51057401813
+201,Amurskii Gulf,43.25,131.9,43.25,43.25,131.9,131.9,Vascular plants,Betula ermanii,5.0,NISP,pollen,,,,,,1200.0,-19.0,pollen,6/30/2007,325.0,1.53846153846
+201,Amurskii Gulf,43.25,131.9,43.25,43.25,131.9,131.9,Vascular plants,Betula ermanii,2.0,NISP,pollen,,,,,,1295.0,-19.0,pollen,6/30/2007,317.0,0.630914826498
+201,Amurskii Gulf,43.25,131.9,43.25,43.25,131.9,131.9,Vascular plants,Betula ermanii,6.0,NISP,pollen,,,,,,1345.0,-19.0,pollen,6/30/2007,370.0,1.62162162162
+201,Amurskii Gulf,43.25,131.9,43.25,43.25,131.9,131.9,Vascular plants,Betula ermanii,10.0,NISP,pollen,,,,,,1485.0,-19.0,pollen,6/30/2007,280.0,3.57142857143
+201,Amurskii Gulf,43.25,131.9,43.25,43.25,131.9,131.9,Vascular plants,Betula ermanii,5.0,NISP,pollen,,,,,,1545.0,-19.0,pollen,6/30/2007,326.0,1.53374233129
+201,Amurskii Gulf,43.25,131.9,43.25,43.25,131.9,131.9,Vascular plants,Betula ermanii,1.0,NISP,pollen,,,,,,1665.0,-19.0,pollen,6/30/2007,454.0,0.220264317181
+201,Amurskii Gulf,43.25,131.9,43.25,43.25,131.9,131.9,Vascular plants,Betula ermanii,10.0,NISP,pollen,,,,,,2030.0,-19.0,pollen,6/30/2007,271.0,3.69003690037
+201,Amurskii Gulf,43.25,131.9,43.25,43.25,131.9,131.9,Vascular plants,Betula ermanii,12.0,NISP,pollen,,,,,,2110.0,-19.0,pollen,6/30/2007,432.0,2.77777777778
+201,Amurskii Gulf,43.25,131.9,43.25,43.25,131.9,131.9,Vascular plants,Betula ermanii,3.0,NISP,pollen,,,,,,2150.0,-19.0,pollen,6/30/2007,106.0,2.83018867925
+201,Amurskii Gulf,43.25,131.9,43.25,43.25,131.9,131.9,Vascular plants,Betula ermanii,1.0,NISP,pollen,,,,,,2170.0,-19.0,pollen,6/30/2007,130.0,0.769230769231
+201,Amurskii Gulf,43.25,131.9,43.25,43.25,131.9,131.9,Vascular plants,Betula ermanii,2.0,NISP,pollen,,,,,,2260.0,-19.0,pollen,6/30/2007,140.0,1.42857142857
+251,Belaya Skala Exposure,43.25,134.566667,43.25,43.25,134.566667,134.566667,Vascular plants,Betula ermanii,5.0,NISP,pollen,,2721.0,,,Radiocarbon years BP,60.0,4.0,pollen,6/30/2007,310.0,1.61290322581
+251,Belaya Skala Exposure,43.25,134.566667,43.25,43.25,134.566667,134.566667,Vascular plants,Betula ermanii,6.0,NISP,pollen,,4184.0,,,Radiocarbon years BP,110.0,4.0,pollen,6/30/2007,337.0,1.78041543027
+251,Belaya Skala Exposure,43.25,134.566667,43.25,43.25,134.566667,134.566667,Vascular plants,Betula ermanii,3.0,NISP,pollen,,5531.0,,,Radiocarbon years BP,160.0,4.0,pollen,6/30/2007,337.0,0.890207715134
+293,Bolotnyii Stream Exposure 117,42.85,132.783333,42.85,42.85,132.783333,132.783333,Vascular plants,Betula ermanii,1.0,NISP,pollen,,,,,Radiocarbon years BP,150.0,4.0,pollen,6/30/2007,365.0,0.27397260274
+293,Bolotnyii Stream Exposure 117,42.85,132.783333,42.85,42.85,132.783333,132.783333,Vascular plants,Betula ermanii,1.0,NISP,pollen,,,,,Radiocarbon years BP,160.0,4.0,pollen,6/30/2007,388.0,0.257731958763
+293,Bolotnyii Stream Exposure 117,42.85,132.783333,42.85,42.85,132.783333,132.783333,Vascular plants,Betula ermanii,8.0,NISP,pollen,,,,,Radiocarbon years BP,180.0,4.0,pollen,6/30/2007,332.0,2.40963855422
+293,Bolotnyii Stream Exposure 117,42.85,132.783333,42.85,42.85,132.783333,132.783333,Vascular plants,Betula ermanii,10.0,NISP,pollen,,,,,Radiocarbon years BP,275.0,4.0,pollen,6/30/2007,433.0,2.30946882217
+293,Bolotnyii Stream Exposure 117,42.85,132.783333,42.85,42.85,132.783333,132.783333,Vascular plants,Betula ermanii,5.0,NISP,pollen,,,,,Radiocarbon years BP,320.0,4.0,pollen,6/30/2007,392.0,1.27551020408
+293,Bolotnyii Stream Exposure 117,42.85,132.783333,42.85,42.85,132.783333,132.783333,Vascular plants,Betula ermanii,7.0,NISP,pollen,,39200.0,,,Radiocarbon years BP,355.0,4.0,pollen,6/30/2007,361.0,1.93905817175
+293,Bolotnyii Stream Exposure 117,42.85,132.783333,42.85,42.85,132.783333,132.783333,Vascular plants,Betula ermanii,2.0,NISP,pollen,,,,,Radiocarbon years BP,360.0,4.0,pollen,6/30/2007,440.0,0.454545454545
+356,Chernyii Yar Exposure 955,43.183333,134.433333,43.183333,43.183333,134.433333,134.433333,Vascular plants,Betula ermanii,2.0,NISP,pollen,,755.0,,,Radiocarbon years BP,10.0,4.0,pollen,6/30/2007,128.0,1.5625
+356,Chernyii Yar Exposure 955,43.183333,134.433333,43.183333,43.183333,134.433333,134.433333,Vascular plants,Betula ermanii,2.0,NISP,pollen,,1005.0,,,Radiocarbon years BP,15.0,4.0,pollen,6/30/2007,607.0,0.329489291598
+356,Chernyii Yar Exposure 955,43.183333,134.433333,43.183333,43.183333,134.433333,134.433333,Vascular plants,Betula ermanii,3.0,NISP,pollen,,1255.0,,,Radiocarbon years BP,20.0,4.0,pollen,6/30/2007,361.0,0.831024930748
+356,Chernyii Yar Exposure 955,43.183333,134.433333,43.183333,43.183333,134.433333,134.433333,Vascular plants,Betula ermanii,2.0,NISP,pollen,,1505.0,,,Radiocarbon years BP,25.0,4.0,pollen,6/30/2007,232.0,0.862068965517
+356,Chernyii Yar Exposure 955,43.183333,134.433333,43.183333,43.183333,134.433333,134.433333,Vascular plants,Betula ermanii,4.0,NISP,pollen,,1755.0,,,Radiocarbon years BP,30.0,4.0,pollen,6/30/2007,347.0,1.15273775216
+356,Chernyii Yar Exposure 955,43.183333,134.433333,43.183333,43.183333,134.433333,134.433333,Vascular plants,Betula ermanii,2.0,NISP,pollen,,2505.0,,,Radiocarbon years BP,45.0,4.0,pollen,6/30/2007,379.0,0.527704485488
+356,Chernyii Yar Exposure 955,43.183333,134.433333,43.183333,43.183333,134.433333,134.433333,Vascular plants,Betula ermanii,5.0,NISP,pollen,,2755.0,,,Radiocarbon years BP,50.0,4.0,pollen,6/30/2007,359.0,1.39275766017
+356,Chernyii Yar Exposure 955,43.183333,134.433333,43.183333,43.183333,134.433333,134.433333,Vascular plants,Betula ermanii,2.0,NISP,pollen,,2926.0,,,Radiocarbon years BP,55.0,4.0,pollen,6/30/2007,347.0,0.576368876081
+356,Chernyii Yar Exposure 955,43.183333,134.433333,43.183333,43.183333,134.433333,134.433333,Vascular plants,Betula ermanii,3.0,NISP,pollen,,3017.0,,,Radiocarbon years BP,60.0,4.0,pollen,6/30/2007,113.0,2.65486725664
+356,Chernyii Yar Exposure 955,43.183333,134.433333,43.183333,43.183333,134.433333,134.433333,Vascular plants,Betula ermanii,1.0,NISP,pollen,,3108.0,,,Radiocarbon years BP,65.0,4.0,pollen,6/30/2007,341.0,0.293255131965
+356,Chernyii Yar Exposure 955,43.183333,134.433333,43.183333,43.183333,134.433333,134.433333,Vascular plants,Betula ermanii,2.0,NISP,pollen,,3199.0,,,Radiocarbon years BP,70.0,4.0,pollen,6/30/2007,199.0,1.00502512563
+356,Chernyii Yar Exposure 955,43.183333,134.433333,43.183333,43.183333,134.433333,134.433333,Vascular plants,Betula ermanii,1.0,NISP,pollen,,3396.0,,,Radiocarbon years BP,75.0,4.0,pollen,6/30/2007,272.0,0.367647058824
+356,Chernyii Yar Exposure 955,43.183333,134.433333,43.183333,43.183333,134.433333,134.433333,Vascular plants,Betula ermanii,2.0,NISP,pollen,,3998.0,,,Radiocarbon years BP,85.0,4.0,pollen,6/30/2007,412.0,0.485436893204
+356,Chernyii Yar Exposure 955,43.183333,134.433333,43.183333,43.183333,134.433333,134.433333,Vascular plants,Betula ermanii,9.0,NISP,pollen,,4299.0,,,Radiocarbon years BP,90.0,4.0,pollen,6/30/2007,343.0,2.62390670554
+356,Chernyii Yar Exposure 955,43.183333,134.433333,43.183333,43.183333,134.433333,134.433333,Vascular plants,Betula ermanii,1.0,NISP,pollen,,5203.0,,,Radiocarbon years BP,105.0,4.0,pollen,6/30/2007,46.0,2.17391304348
+356,Chernyii Yar Exposure 955,43.183333,134.433333,43.183333,43.183333,134.433333,134.433333,Vascular plants,Betula ermanii,9.0,NISP,pollen,,5504.0,,,Radiocarbon years BP,110.0,4.0,pollen,6/30/2007,436.0,2.06422018349
+356,Chernyii Yar Exposure 955,43.183333,134.433333,43.183333,43.183333,134.433333,134.433333,Vascular plants,Betula ermanii,6.0,NISP,pollen,,6107.0,,,Radiocarbon years BP,120.0,4.0,pollen,6/30/2007,324.0,1.85185185185
+356,Chernyii Yar Exposure 955,43.183333,134.433333,43.183333,43.183333,134.433333,134.433333,Vascular plants,Betula ermanii,3.0,NISP,pollen,,6709.0,,,Radiocarbon years BP,130.0,4.0,pollen,6/30/2007,500.0,0.6
+356,Chernyii Yar Exposure 955,43.183333,134.433333,43.183333,43.183333,134.433333,134.433333,Vascular plants,Betula ermanii,20.0,NISP,pollen,,7011.0,,,Radiocarbon years BP,135.0,4.0,pollen,6/30/2007,484.0,4.13223140496
+356,Chernyii Yar Exposure 955,43.183333,134.433333,43.183333,43.183333,134.433333,134.433333,Vascular plants,Betula ermanii,9.0,NISP,pollen,,7312.0,,,Radiocarbon years BP,140.0,4.0,pollen,6/30/2007,346.0,2.60115606936
+356,Chernyii Yar Exposure 955,43.183333,134.433333,43.183333,43.183333,134.433333,134.433333,Vascular plants,Betula ermanii,5.0,NISP,pollen,,7613.0,,,Radiocarbon years BP,145.0,4.0,pollen,6/30/2007,364.0,1.37362637363
+356,Chernyii Yar Exposure 955,43.183333,134.433333,43.183333,43.183333,134.433333,134.433333,Vascular plants,Betula ermanii,6.0,NISP,pollen,,7914.0,,,Radiocarbon years BP,150.0,4.0,pollen,6/30/2007,331.0,1.81268882175
+356,Chernyii Yar Exposure 955,43.183333,134.433333,43.183333,43.183333,134.433333,134.433333,Vascular plants,Betula ermanii,1.0,NISP,pollen,,8216.0,,,Radiocarbon years BP,155.0,4.0,pollen,6/30/2007,322.0,0.310559006211
+356,Chernyii Yar Exposure 955,43.183333,134.433333,43.183333,43.183333,134.433333,134.433333,Vascular plants,Betula ermanii,1.0,NISP,pollen,,8818.0,,,Radiocarbon years BP,165.0,4.0,pollen,6/30/2007,309.0,0.323624595469
+356,Chernyii Yar Exposure 955,43.183333,134.433333,43.183333,43.183333,134.433333,134.433333,Vascular plants,Betula ermanii,2.0,NISP,pollen,,9722.0,,,Radiocarbon years BP,180.0,4.0,pollen,6/30/2007,304.0,0.657894736842
+356,Chernyii Yar Exposure 955,43.183333,134.433333,43.183333,43.183333,134.433333,134.433333,Vascular plants,Betula ermanii,1.0,NISP,pollen,,11529.0,,,Radiocarbon years BP,210.0,4.0,pollen,6/30/2007,161.0,0.621118012422
+1678,Mel'gunovka River Core 3-JU,44.35,132.266667,44.35,44.35,132.266667,132.266667,Vascular plants,Betula ermanii,7.0,NISP,pollen,,,,,,100.0,72.0,pollen,6/30/2007,221.0,3.16742081448
+1678,Mel'gunovka River Core 3-JU,44.35,132.266667,44.35,44.35,132.266667,132.266667,Vascular plants,Betula ermanii,8.0,NISP,pollen,,,,,,200.0,72.0,pollen,6/30/2007,176.0,4.54545454545
+1678,Mel'gunovka River Core 3-JU,44.35,132.266667,44.35,44.35,132.266667,132.266667,Vascular plants,Betula ermanii,7.0,NISP,pollen,,,,,,250.0,72.0,pollen,6/30/2007,657.0,1.06544901065
+1678,Mel'gunovka River Core 3-JU,44.35,132.266667,44.35,44.35,132.266667,132.266667,Vascular plants,Betula ermanii,9.0,NISP,pollen,,,,,,270.0,72.0,pollen,6/30/2007,945.0,0.952380952381
+1678,Mel'gunovka River Core 3-JU,44.35,132.266667,44.35,44.35,132.266667,132.266667,Vascular plants,Betula ermanii,1.0,NISP,pollen,,,,,,290.0,72.0,pollen,6/30/2007,540.0,0.185185185185
+1678,Mel'gunovka River Core 3-JU,44.35,132.266667,44.35,44.35,132.266667,132.266667,Vascular plants,Betula ermanii,6.0,NISP,pollen,,,,,,375.0,72.0,pollen,6/30/2007,951.0,0.630914826498
+1678,Mel'gunovka River Core 3-JU,44.35,132.266667,44.35,44.35,132.266667,132.266667,Vascular plants,Betula ermanii,17.0,NISP,pollen,,,,,,390.0,72.0,pollen,6/30/2007,433.0,3.92609699769
+1678,Mel'gunovka River Core 3-JU,44.35,132.266667,44.35,44.35,132.266667,132.266667,Vascular plants,Betula ermanii,6.0,NISP,pollen,,,,,,660.0,72.0,pollen,6/30/2007,329.0,1.82370820669
+1678,Mel'gunovka River Core 3-JU,44.35,132.266667,44.35,44.35,132.266667,132.266667,Vascular plants,Betula ermanii,15.0,NISP,pollen,,,,,,700.0,72.0,pollen,6/30/2007,387.0,3.87596899225
+1678,Mel'gunovka River Core 3-JU,44.35,132.266667,44.35,44.35,132.266667,132.266667,Vascular plants,Betula ermanii,18.0,NISP,pollen,,,,,,715.0,72.0,pollen,6/30/2007,290.0,6.20689655172
+1678,Mel'gunovka River Core 3-JU,44.35,132.266667,44.35,44.35,132.266667,132.266667,Vascular plants,Betula ermanii,4.0,NISP,pollen,,,,,,730.0,72.0,pollen,6/30/2007,246.0,1.62601626016
+1678,Mel'gunovka River Core 3-JU,44.35,132.266667,44.35,44.35,132.266667,132.266667,Vascular plants,Betula ermanii,5.0,NISP,pollen,,,,,,810.0,72.0,pollen,6/30/2007,619.0,0.807754442649
+1678,Mel'gunovka River Core 3-JU,44.35,132.266667,44.35,44.35,132.266667,132.266667,Vascular plants,Betula ermanii,2.0,NISP,pollen,,,,,,820.0,72.0,pollen,6/30/2007,295.0,0.677966101695
+1678,Mel'gunovka River Core 3-JU,44.35,132.266667,44.35,44.35,132.266667,132.266667,Vascular plants,Betula ermanii,8.0,NISP,pollen,,,,,,830.0,72.0,pollen,6/30/2007,539.0,1.48423005566
+1678,Mel'gunovka River Core 3-JU,44.35,132.266667,44.35,44.35,132.266667,132.266667,Vascular plants,Betula ermanii,4.0,NISP,pollen,,,,,,850.0,72.0,pollen,6/30/2007,528.0,0.757575757576
+1678,Mel'gunovka River Core 3-JU,44.35,132.266667,44.35,44.35,132.266667,132.266667,Vascular plants,Betula ermanii,6.0,NISP,pollen,,,,,,885.0,72.0,pollen,6/30/2007,665.0,0.902255639098
+1678,Mel'gunovka River Core 3-JU,44.35,132.266667,44.35,44.35,132.266667,132.266667,Vascular plants,Betula ermanii,2.0,NISP,pollen,,,,,,900.0,72.0,pollen,6/30/2007,286.0,0.699300699301
+1678,Mel'gunovka River Core 3-JU,44.35,132.266667,44.35,44.35,132.266667,132.266667,Vascular plants,Betula ermanii,12.0,NISP,pollen,,,,,,930.0,72.0,pollen,6/30/2007,329.0,3.64741641337
+1678,Mel'gunovka River Core 3-JU,44.35,132.266667,44.35,44.35,132.266667,132.266667,Vascular plants,Betula ermanii,20.0,NISP,pollen,,,,,,950.0,72.0,pollen,6/30/2007,431.0,4.6403712297
+1678,Mel'gunovka River Core 3-JU,44.35,132.266667,44.35,44.35,132.266667,132.266667,Vascular plants,Betula ermanii,22.0,NISP,pollen,,,,,,980.0,72.0,pollen,6/30/2007,422.0,5.21327014218
+1678,Mel'gunovka River Core 3-JU,44.35,132.266667,44.35,44.35,132.266667,132.266667,Vascular plants,Betula ermanii,30.0,NISP,pollen,,,,,,990.0,72.0,pollen,6/30/2007,412.0,7.28155339806
+1678,Mel'gunovka River Core 3-JU,44.35,132.266667,44.35,44.35,132.266667,132.266667,Vascular plants,Betula ermanii,14.0,NISP,pollen,,,,,,1000.0,72.0,pollen,6/30/2007,395.0,3.54430379747
+1678,Mel'gunovka River Core 3-JU,44.35,132.266667,44.35,44.35,132.266667,132.266667,Vascular plants,Betula ermanii,10.0,NISP,pollen,,,,,,1020.0,72.0,pollen,6/30/2007,704.0,1.42045454545
+1678,Mel'gunovka River Core 3-JU,44.35,132.266667,44.35,44.35,132.266667,132.266667,Vascular plants,Betula ermanii,36.0,NISP,pollen,,,,,,1040.0,72.0,pollen,6/30/2007,386.0,9.32642487047
+1678,Mel'gunovka River Core 3-JU,44.35,132.266667,44.35,44.35,132.266667,132.266667,Vascular plants,Betula ermanii,16.0,NISP,pollen,,,,,,1060.0,72.0,pollen,6/30/2007,363.0,4.40771349862
+1678,Mel'gunovka River Core 3-JU,44.35,132.266667,44.35,44.35,132.266667,132.266667,Vascular plants,Betula ermanii,13.0,NISP,pollen,,,,,,1080.0,72.0,pollen,6/30/2007,135.0,9.62962962963
+1678,Mel'gunovka River Core 3-JU,44.35,132.266667,44.35,44.35,132.266667,132.266667,Vascular plants,Betula ermanii,10.0,NISP,pollen,,,,,,1100.0,72.0,pollen,6/30/2007,490.0,2.04081632653
+1678,Mel'gunovka River Core 3-JU,44.35,132.266667,44.35,44.35,132.266667,132.266667,Vascular plants,Betula ermanii,5.0,NISP,pollen,,,,,,1120.0,72.0,pollen,6/30/2007,377.0,1.32625994695
+1678,Mel'gunovka River Core 3-JU,44.35,132.266667,44.35,44.35,132.266667,132.266667,Vascular plants,Betula ermanii,1.0,NISP,pollen,,,,,,1140.0,72.0,pollen,6/30/2007,459.0,0.217864923747
+1678,Mel'gunovka River Core 3-JU,44.35,132.266667,44.35,44.35,132.266667,132.266667,Vascular plants,Betula ermanii,7.0,NISP,pollen,,,,,,1180.0,72.0,pollen,6/30/2007,542.0,1.29151291513
+1678,Mel'gunovka River Core 3-JU,44.35,132.266667,44.35,44.35,132.266667,132.266667,Vascular plants,Betula ermanii,5.0,NISP,pollen,,,,,,1200.0,72.0,pollen,6/30/2007,466.0,1.07296137339
+1678,Mel'gunovka River Core 3-JU,44.35,132.266667,44.35,44.35,132.266667,132.266667,Vascular plants,Betula ermanii,5.0,NISP,pollen,,,,,,1250.0,72.0,pollen,6/30/2007,406.0,1.2315270936
+1678,Mel'gunovka River Core 3-JU,44.35,132.266667,44.35,44.35,132.266667,132.266667,Vascular plants,Betula ermanii,14.0,NISP,pollen,,,,,,1280.0,72.0,pollen,6/30/2007,426.0,3.28638497653
+1678,Mel'gunovka River Core 3-JU,44.35,132.266667,44.35,44.35,132.266667,132.266667,Vascular plants,Betula ermanii,4.0,NISP,pollen,,,,,,1320.0,72.0,pollen,6/30/2007,385.0,1.03896103896
+1678,Mel'gunovka River Core 3-JU,44.35,132.266667,44.35,44.35,132.266667,132.266667,Vascular plants,Betula ermanii,4.0,NISP,pollen,,,,,,1350.0,72.0,pollen,6/30/2007,376.0,1.06382978723
+1678,Mel'gunovka River Core 3-JU,44.35,132.266667,44.35,44.35,132.266667,132.266667,Vascular plants,Betula ermanii,13.0,NISP,pollen,,,,,,1380.0,72.0,pollen,6/30/2007,335.0,3.88059701493
+1678,Mel'gunovka River Core 3-JU,44.35,132.266667,44.35,44.35,132.266667,132.266667,Vascular plants,Betula ermanii,8.0,NISP,pollen,,,,,,1400.0,72.0,pollen,6/30/2007,338.0,2.36686390533
+1678,Mel'gunovka River Core 3-JU,44.35,132.266667,44.35,44.35,132.266667,132.266667,Vascular plants,Betula ermanii,2.0,NISP,pollen,,,,,,1420.0,72.0,pollen,6/30/2007,454.0,0.440528634361
+1678,Mel'gunovka River Core 3-JU,44.35,132.266667,44.35,44.35,132.266667,132.266667,Vascular plants,Betula ermanii,14.0,NISP,pollen,,,,,,1460.0,72.0,pollen,6/30/2007,534.0,2.62172284644
+1678,Mel'gunovka River Core 3-JU,44.35,132.266667,44.35,44.35,132.266667,132.266667,Vascular plants,Betula ermanii,1.0,NISP,pollen,,,,,,1500.0,72.0,pollen,6/30/2007,451.0,0.221729490022
+1678,Mel'gunovka River Core 3-JU,44.35,132.266667,44.35,44.35,132.266667,132.266667,Vascular plants,Betula ermanii,2.0,NISP,pollen,,,,,,1520.0,72.0,pollen,6/30/2007,413.0,0.484261501211
+1678,Mel'gunovka River Core 3-JU,44.35,132.266667,44.35,44.35,132.266667,132.266667,Vascular plants,Betula ermanii,12.0,NISP,pollen,,,,,,1610.0,72.0,pollen,6/30/2007,432.0,2.77777777778
+1678,Mel'gunovka River Core 3-JU,44.35,132.266667,44.35,44.35,132.266667,132.266667,Vascular plants,Betula ermanii,13.0,NISP,pollen,,,,,,1630.0,72.0,pollen,6/30/2007,426.0,3.05164319249
+1678,Mel'gunovka River Core 3-JU,44.35,132.266667,44.35,44.35,132.266667,132.266667,Vascular plants,Betula ermanii,17.0,NISP,pollen,,,,,,1650.0,72.0,pollen,6/30/2007,568.0,2.99295774648
+1678,Mel'gunovka River Core 3-JU,44.35,132.266667,44.35,44.35,132.266667,132.266667,Vascular plants,Betula ermanii,34.0,NISP,pollen,,,,,,1670.0,72.0,pollen,6/30/2007,546.0,6.22710622711
+1678,Mel'gunovka River Core 3-JU,44.35,132.266667,44.35,44.35,132.266667,132.266667,Vascular plants,Betula ermanii,10.0,NISP,pollen,,,,,,1690.0,72.0,pollen,6/30/2007,419.0,2.38663484487
+1678,Mel'gunovka River Core 3-JU,44.35,132.266667,44.35,44.35,132.266667,132.266667,Vascular plants,Betula ermanii,14.0,NISP,pollen,,,,,,1710.0,72.0,pollen,6/30/2007,573.0,2.44328097731
+1678,Mel'gunovka River Core 3-JU,44.35,132.266667,44.35,44.35,132.266667,132.266667,Vascular plants,Betula ermanii,4.0,NISP,pollen,,,,,,1730.0,72.0,pollen,6/30/2007,372.0,1.0752688172
+1678,Mel'gunovka River Core 3-JU,44.35,132.266667,44.35,44.35,132.266667,132.266667,Vascular plants,Betula ermanii,32.0,NISP,pollen,,,,,,1765.0,72.0,pollen,6/30/2007,354.0,9.0395480226
+1678,Mel'gunovka River Core 3-JU,44.35,132.266667,44.35,44.35,132.266667,132.266667,Vascular plants,Betula ermanii,5.0,NISP,pollen,,,,,,1780.0,72.0,pollen,6/30/2007,437.0,1.14416475973
+1678,Mel'gunovka River Core 3-JU,44.35,132.266667,44.35,44.35,132.266667,132.266667,Vascular plants,Betula ermanii,1.0,NISP,pollen,,,,,,1800.0,72.0,pollen,6/30/2007,446.0,0.224215246637
+1678,Mel'gunovka River Core 3-JU,44.35,132.266667,44.35,44.35,132.266667,132.266667,Vascular plants,Betula ermanii,18.0,NISP,pollen,,,,,,1810.0,72.0,pollen,6/30/2007,390.0,4.61538461538
+1678,Mel'gunovka River Core 3-JU,44.35,132.266667,44.35,44.35,132.266667,132.266667,Vascular plants,Betula ermanii,12.0,NISP,pollen,,,,,,1820.0,72.0,pollen,6/30/2007,438.0,2.7397260274
+1678,Mel'gunovka River Core 3-JU,44.35,132.266667,44.35,44.35,132.266667,132.266667,Vascular plants,Betula ermanii,20.0,NISP,pollen,,,,,,1830.0,72.0,pollen,6/30/2007,530.0,3.77358490566
+1678,Mel'gunovka River Core 3-JU,44.35,132.266667,44.35,44.35,132.266667,132.266667,Vascular plants,Betula ermanii,46.0,NISP,pollen,,,,,,1840.0,72.0,pollen,6/30/2007,355.0,12.9577464789
+1678,Mel'gunovka River Core 3-JU,44.35,132.266667,44.35,44.35,132.266667,132.266667,Vascular plants,Betula ermanii,12.0,NISP,pollen,,,,,,1860.0,72.0,pollen,6/30/2007,378.0,3.1746031746
+1678,Mel'gunovka River Core 3-JU,44.35,132.266667,44.35,44.35,132.266667,132.266667,Vascular plants,Betula ermanii,24.0,NISP,pollen,,,,,,1900.0,72.0,pollen,6/30/2007,325.0,7.38461538462
+1678,Mel'gunovka River Core 3-JU,44.35,132.266667,44.35,44.35,132.266667,132.266667,Vascular plants,Betula ermanii,6.0,NISP,pollen,,,,,,2230.0,72.0,pollen,6/30/2007,339.0,1.76991150442
+1678,Mel'gunovka River Core 3-JU,44.35,132.266667,44.35,44.35,132.266667,132.266667,Vascular plants,Betula ermanii,1.0,NISP,pollen,,,,,,2250.0,72.0,pollen,6/30/2007,349.0,0.286532951289
+1678,Mel'gunovka River Core 3-JU,44.35,132.266667,44.35,44.35,132.266667,132.266667,Vascular plants,Betula ermanii,12.0,NISP,pollen,,,,,,2280.0,72.0,pollen,6/30/2007,504.0,2.38095238095
+1678,Mel'gunovka River Core 3-JU,44.35,132.266667,44.35,44.35,132.266667,132.266667,Vascular plants,Betula ermanii,1.0,NISP,pollen,,,,,,2320.0,72.0,pollen,6/30/2007,351.0,0.2849002849
+1678,Mel'gunovka River Core 3-JU,44.35,132.266667,44.35,44.35,132.266667,132.266667,Vascular plants,Betula ermanii,6.0,NISP,pollen,,,,,,2340.0,72.0,pollen,6/30/2007,322.0,1.86335403727
+1678,Mel'gunovka River Core 3-JU,44.35,132.266667,44.35,44.35,132.266667,132.266667,Vascular plants,Betula ermanii,1.0,NISP,pollen,,,,,,2550.0,72.0,pollen,6/30/2007,297.0,0.3367003367
+1678,Mel'gunovka River Core 3-JU,44.35,132.266667,44.35,44.35,132.266667,132.266667,Vascular plants,Betula ermanii,4.0,NISP,pollen,,,,,,2650.0,72.0,pollen,6/30/2007,338.0,1.18343195266
+1678,Mel'gunovka River Core 3-JU,44.35,132.266667,44.35,44.35,132.266667,132.266667,Vascular plants,Betula ermanii,4.0,NISP,pollen,,,,,,2690.0,72.0,pollen,6/30/2007,323.0,1.23839009288
+1678,Mel'gunovka River Core 3-JU,44.35,132.266667,44.35,44.35,132.266667,132.266667,Vascular plants,Betula ermanii,9.0,NISP,pollen,,,,,,2700.0,72.0,pollen,6/30/2007,420.0,2.14285714286
+1678,Mel'gunovka River Core 3-JU,44.35,132.266667,44.35,44.35,132.266667,132.266667,Vascular plants,Betula ermanii,10.0,NISP,pollen,,,,,,3400.0,72.0,pollen,6/30/2007,349.0,2.86532951289
+1678,Mel'gunovka River Core 3-JU,44.35,132.266667,44.35,44.35,132.266667,132.266667,Vascular plants,Betula ermanii,18.0,NISP,pollen,,,,,,3650.0,72.0,pollen,6/30/2007,385.0,4.67532467532
+1678,Mel'gunovka River Core 3-JU,44.35,132.266667,44.35,44.35,132.266667,132.266667,Vascular plants,Betula ermanii,2.0,NISP,pollen,,,,,,4380.0,72.0,pollen,6/30/2007,115.0,1.73913043478
+1784,Ovrazhnyii-1 Stream Exposure,43.25,134.566667,43.25,43.25,134.566667,134.566667,Vascular plants,Betula ermanii,6.0,NISP,pollen,,1151.0,,,Radiocarbon years BP,20.0,8.0,pollen,6/30/2007,260.0,2.30769230769
+1784,Ovrazhnyii-1 Stream Exposure,43.25,134.566667,43.25,43.25,134.566667,134.566667,Vascular plants,Betula ermanii,6.0,NISP,pollen,,1315.0,,,Radiocarbon years BP,25.0,8.0,pollen,6/30/2007,263.0,2.28136882129
+1784,Ovrazhnyii-1 Stream Exposure,43.25,134.566667,43.25,43.25,134.566667,134.566667,Vascular plants,Betula ermanii,11.0,NISP,pollen,,1355.0,,,Radiocarbon years BP,30.0,8.0,pollen,6/30/2007,350.0,3.14285714286
+1784,Ovrazhnyii-1 Stream Exposure,43.25,134.566667,43.25,43.25,134.566667,134.566667,Vascular plants,Betula ermanii,10.0,NISP,pollen,,1382.0,,,Radiocarbon years BP,35.0,8.0,pollen,6/30/2007,489.0,2.04498977505
+1784,Ovrazhnyii-1 Stream Exposure,43.25,134.566667,43.25,43.25,134.566667,134.566667,Vascular plants,Betula ermanii,2.0,NISP,pollen,,1424.0,,,Radiocarbon years BP,50.0,8.0,pollen,6/30/2007,615.0,0.325203252033
+1784,Ovrazhnyii-1 Stream Exposure,43.25,134.566667,43.25,43.25,134.566667,134.566667,Vascular plants,Betula ermanii,8.0,NISP,pollen,,1459.0,,,Radiocarbon years BP,55.0,8.0,pollen,6/30/2007,326.0,2.45398773006
+1784,Ovrazhnyii-1 Stream Exposure,43.25,134.566667,43.25,43.25,134.566667,134.566667,Vascular plants,Betula ermanii,13.0,NISP,pollen,,1514.0,,,Radiocarbon years BP,60.0,8.0,pollen,6/30/2007,383.0,3.39425587467
+1784,Ovrazhnyii-1 Stream Exposure,43.25,134.566667,43.25,43.25,134.566667,134.566667,Vascular plants,Betula ermanii,3.0,NISP,pollen,,1680.0,,,Radiocarbon years BP,75.0,8.0,pollen,6/30/2007,279.0,1.0752688172
+1784,Ovrazhnyii-1 Stream Exposure,43.25,134.566667,43.25,43.25,134.566667,134.566667,Vascular plants,Betula ermanii,3.0,NISP,pollen,,1735.0,,,Radiocarbon years BP,80.0,8.0,pollen,6/30/2007,450.0,0.666666666667
+1784,Ovrazhnyii-1 Stream Exposure,43.25,134.566667,43.25,43.25,134.566667,134.566667,Vascular plants,Betula ermanii,6.0,NISP,pollen,,1834.0,,,Radiocarbon years BP,85.0,8.0,pollen,6/30/2007,376.0,1.59574468085
+1784,Ovrazhnyii-1 Stream Exposure,43.25,134.566667,43.25,43.25,134.566667,134.566667,Vascular plants,Betula ermanii,2.0,NISP,pollen,,2480.0,,,Radiocarbon years BP,110.0,8.0,pollen,6/30/2007,358.0,0.558659217877
+1784,Ovrazhnyii-1 Stream Exposure,43.25,134.566667,43.25,43.25,134.566667,134.566667,Vascular plants,Betula ermanii,3.0,NISP,pollen,,2604.0,,,Radiocarbon years BP,115.0,8.0,pollen,6/30/2007,428.0,0.700934579439
+1784,Ovrazhnyii-1 Stream Exposure,43.25,134.566667,43.25,43.25,134.566667,134.566667,Vascular plants,Betula ermanii,6.0,NISP,pollen,,3470.0,,,Radiocarbon years BP,150.0,8.0,pollen,6/30/2007,567.0,1.0582010582
+1784,Ovrazhnyii-1 Stream Exposure,43.25,134.566667,43.25,43.25,134.566667,134.566667,Vascular plants,Betula ermanii,2.0,NISP,pollen,,5698.0,,,Radiocarbon years BP,240.0,8.0,pollen,6/30/2007,370.0,0.540540540541
+1784,Ovrazhnyii-1 Stream Exposure,43.25,134.566667,43.25,43.25,134.566667,134.566667,Vascular plants,Betula ermanii,1.0,NISP,pollen,,6193.0,,,Radiocarbon years BP,260.0,8.0,pollen,6/30/2007,493.0,0.202839756592
+1784,Ovrazhnyii-1 Stream Exposure,43.25,134.566667,43.25,43.25,134.566667,134.566667,Vascular plants,Betula ermanii,25.0,NISP,pollen,,27501.0,,,Radiocarbon years BP,400.0,8.0,pollen,6/30/2007,410.0,6.09756097561
+1784,Ovrazhnyii-1 Stream Exposure,43.25,134.566667,43.25,43.25,134.566667,134.566667,Vascular plants,Betula ermanii,8.0,NISP,pollen,,28695.0,,,Radiocarbon years BP,410.0,8.0,pollen,6/30/2007,488.0,1.6393442623
+1784,Ovrazhnyii-1 Stream Exposure,43.25,134.566667,43.25,43.25,134.566667,134.566667,Vascular plants,Betula ermanii,13.0,NISP,pollen,,29890.0,,,Radiocarbon years BP,420.0,8.0,pollen,6/30/2007,420.0,3.09523809524
+1784,Ovrazhnyii-1 Stream Exposure,43.25,134.566667,43.25,43.25,134.566667,134.566667,Vascular plants,Betula ermanii,5.0,NISP,pollen,,32278.0,,,Radiocarbon years BP,440.0,8.0,pollen,6/30/2007,340.0,1.47058823529
+1784,Ovrazhnyii-1 Stream Exposure,43.25,134.566667,43.25,43.25,134.566667,134.566667,Vascular plants,Betula ermanii,9.0,NISP,pollen,,33472.0,,,Radiocarbon years BP,450.0,8.0,pollen,6/30/2007,452.0,1.99115044248
+1784,Ovrazhnyii-1 Stream Exposure,43.25,134.566667,43.25,43.25,134.566667,134.566667,Vascular plants,Betula ermanii,1.0,NISP,pollen,,40637.0,,,Radiocarbon years BP,510.0,8.0,pollen,6/30/2007,372.0,0.268817204301
+1784,Ovrazhnyii-1 Stream Exposure,43.25,134.566667,43.25,43.25,134.566667,134.566667,Vascular plants,Betula ermanii,3.0,NISP,pollen,,43025.0,,,Radiocarbon years BP,530.0,8.0,pollen,6/30/2007,189.0,1.5873015873
+1785,Ovrazhnyii-2 Exposure 667-842,43.25,134.566667,43.25,43.25,134.566667,134.566667,Vascular plants,Betula ermanii,7.0,NISP,pollen,,1000.0,,,Radiocarbon years BP,40.0,10.0,pollen,6/30/2007,323.0,2.16718266254
+1785,Ovrazhnyii-2 Exposure 667-842,43.25,134.566667,43.25,43.25,134.566667,134.566667,Vascular plants,Betula ermanii,11.0,NISP,pollen,,1800.0,,,Radiocarbon years BP,80.0,10.0,pollen,6/30/2007,357.0,3.081232493
+1785,Ovrazhnyii-2 Exposure 667-842,43.25,134.566667,43.25,43.25,134.566667,134.566667,Vascular plants,Betula ermanii,1.0,NISP,pollen,,2200.0,,,Radiocarbon years BP,100.0,10.0,pollen,6/30/2007,420.0,0.238095238095
+1785,Ovrazhnyii-2 Exposure 667-842,43.25,134.566667,43.25,43.25,134.566667,134.566667,Vascular plants,Betula ermanii,8.0,NISP,pollen,,2569.0,,,Radiocarbon years BP,130.0,10.0,pollen,6/30/2007,257.0,3.11284046693
+1785,Ovrazhnyii-2 Exposure 667-842,43.25,134.566667,43.25,43.25,134.566667,134.566667,Vascular plants,Betula ermanii,6.0,NISP,pollen,,2937.0,,,Radiocarbon years BP,160.0,10.0,pollen,6/30/2007,327.0,1.83486238532
+1785,Ovrazhnyii-2 Exposure 667-842,43.25,134.566667,43.25,43.25,134.566667,134.566667,Vascular plants,Betula ermanii,2.0,NISP,pollen,,3306.0,,,Radiocarbon years BP,190.0,10.0,pollen,6/30/2007,460.0,0.434782608696
+1785,Ovrazhnyii-2 Exposure 667-842,43.25,134.566667,43.25,43.25,134.566667,134.566667,Vascular plants,Betula ermanii,1.0,NISP,pollen,,,,,Radiocarbon years BP,320.0,10.0,pollen,6/30/2007,313.0,0.319488817891
+1785,Ovrazhnyii-2 Exposure 667-842,43.25,134.566667,43.25,43.25,134.566667,134.566667,Vascular plants,Betula ermanii,1.0,NISP,pollen,,,,,Radiocarbon years BP,350.0,10.0,pollen,6/30/2007,601.0,0.166389351082
+1785,Ovrazhnyii-2 Exposure 667-842,43.25,134.566667,43.25,43.25,134.566667,134.566667,Vascular plants,Betula ermanii,3.0,NISP,pollen,,30070.0,,,Radiocarbon years BP,380.0,10.0,pollen,6/30/2007,594.0,0.505050505051
+1805,Pavlovka Exposure 988,44.316667,134.0,44.316667,44.316667,134.0,134.0,Vascular plants,Betula ermanii,2.0,NISP,pollen,,,,,Radiocarbon years BP,18.0,300.0,pollen,6/30/2007,190.0,1.05263157895
+1805,Pavlovka Exposure 988,44.316667,134.0,44.316667,44.316667,134.0,134.0,Vascular plants,Betula ermanii,6.0,NISP,pollen,,,,,Radiocarbon years BP,19.0,300.0,pollen,6/30/2007,486.0,1.23456790123
+1805,Pavlovka Exposure 988,44.316667,134.0,44.316667,44.316667,134.0,134.0,Vascular plants,Betula ermanii,9.0,NISP,pollen,,15344.0,,,Radiocarbon years BP,163.0,300.0,pollen,6/30/2007,305.0,2.95081967213
+1805,Pavlovka Exposure 988,44.316667,134.0,44.316667,44.316667,134.0,134.0,Vascular plants,Betula ermanii,3.0,NISP,pollen,,16665.0,,,Radiocarbon years BP,174.0,300.0,pollen,6/30/2007,436.0,0.688073394495
+1805,Pavlovka Exposure 988,44.316667,134.0,44.316667,44.316667,134.0,134.0,Vascular plants,Betula ermanii,2.0,NISP,pollen,,20988.0,,,Radiocarbon years BP,210.0,300.0,pollen,6/30/2007,351.0,0.569800569801
+1805,Pavlovka Exposure 988,44.316667,134.0,44.316667,44.316667,134.0,134.0,Vascular plants,Betula ermanii,5.0,NISP,pollen,,22189.0,,,Radiocarbon years BP,220.0,300.0,pollen,6/30/2007,385.0,1.2987012987
+1825,Peschanka Exposure 155,43.3,132.116667,43.3,43.3,132.116667,132.116667,Vascular plants,Betula ermanii,3.0,NISP,pollen,,10923.0,,,Radiocarbon years BP,180.0,12.0,pollen,6/30/2007,285.0,1.05263157895
+1825,Peschanka Exposure 155,43.3,132.116667,43.3,43.3,132.116667,132.116667,Vascular plants,Betula ermanii,1.0,NISP,pollen,,11181.0,,,Radiocarbon years BP,195.0,12.0,pollen,6/30/2007,303.0,0.3300330033
+1825,Peschanka Exposure 155,43.3,132.116667,43.3,43.3,132.116667,132.116667,Vascular plants,Betula ermanii,3.0,NISP,pollen,,11525.0,,,Radiocarbon years BP,215.0,12.0,pollen,6/30/2007,379.0,0.791556728232
+1825,Peschanka Exposure 155,43.3,132.116667,43.3,43.3,132.116667,132.116667,Vascular plants,Betula ermanii,3.0,NISP,pollen,,11696.0,,,Radiocarbon years BP,225.0,12.0,pollen,6/30/2007,409.0,0.733496332518
+1825,Peschanka Exposure 155,43.3,132.116667,43.3,43.3,132.116667,132.116667,Vascular plants,Betula ermanii,1.0,NISP,pollen,,19135.0,,,Radiocarbon years BP,375.0,12.0,pollen,6/30/2007,494.0,0.202429149798
+1825,Peschanka Exposure 155,43.3,132.116667,43.3,43.3,132.116667,132.116667,Vascular plants,Betula ermanii,1.0,NISP,pollen,,30845.0,,,Radiocarbon years BP,420.0,12.0,pollen,6/30/2007,281.0,0.355871886121
+1961,Cape Razgradskogo,42.833333,133.65,42.833333,42.833333,133.65,133.65,Vascular plants,Betula ermanii,1.0,NISP,pollen,,,,,Radiocarbon years BP,100.0,-26.0,pollen,6/30/2007,1084.0,0.0922509225092
+1961,Cape Razgradskogo,42.833333,133.65,42.833333,42.833333,133.65,133.65,Vascular plants,Betula ermanii,4.0,NISP,pollen,,,,,Radiocarbon years BP,115.0,-26.0,pollen,6/30/2007,707.0,0.565770862801
+1961,Cape Razgradskogo,42.833333,133.65,42.833333,42.833333,133.65,133.65,Vascular plants,Betula ermanii,2.0,NISP,pollen,,,,,Radiocarbon years BP,140.0,-26.0,pollen,6/30/2007,666.0,0.3003003003
+1961,Cape Razgradskogo,42.833333,133.65,42.833333,42.833333,133.65,133.65,Vascular plants,Betula ermanii,5.0,NISP,pollen,,8640.0,,,Radiocarbon years BP,160.0,-26.0,pollen,6/30/2007,710.0,0.704225352113
+1961,Cape Razgradskogo,42.833333,133.65,42.833333,42.833333,133.65,133.65,Vascular plants,Betula ermanii,3.0,NISP,pollen,,,,,Radiocarbon years BP,200.0,-26.0,pollen,6/30/2007,625.0,0.48
+1961,Cape Razgradskogo,42.833333,133.65,42.833333,42.833333,133.65,133.65,Vascular plants,Betula ermanii,2.0,NISP,pollen,,,,,Radiocarbon years BP,220.0,-26.0,pollen,6/30/2007,748.0,0.267379679144
+1961,Cape Razgradskogo,42.833333,133.65,42.833333,42.833333,133.65,133.65,Vascular plants,Betula ermanii,1.0,NISP,pollen,,,,,Radiocarbon years BP,320.0,-26.0,pollen,6/30/2007,729.0,0.137174211248
+2238,Ryazanovka Exposure,42.833333,131.366667,42.833333,42.833333,131.366667,131.366667,Vascular plants,Betula ermanii,12.0,NISP,pollen,,839.0,,,Radiocarbon years BP,10.0,6.0,pollen,6/30/2007,584.0,2.05479452055
+2238,Ryazanovka Exposure,42.833333,131.366667,42.833333,42.833333,131.366667,131.366667,Vascular plants,Betula ermanii,1.0,NISP,pollen,,1610.0,,,Radiocarbon years BP,100.0,6.0,pollen,6/30/2007,364.0,0.274725274725
+2238,Ryazanovka Exposure,42.833333,131.366667,42.833333,42.833333,131.366667,131.366667,Vascular plants,Betula ermanii,1.0,NISP,pollen,,2466.0,,,Radiocarbon years BP,200.0,6.0,pollen,6/30/2007,381.0,0.262467191601
+2238,Ryazanovka Exposure,42.833333,131.366667,42.833333,42.833333,131.366667,131.366667,Vascular plants,Betula ermanii,1.0,NISP,pollen,,3136.0,,,Radiocarbon years BP,270.0,6.0,pollen,6/30/2007,341.0,0.293255131965
+2280,Selitkan-1 Exposure,53.216667,135.05,53.216667,53.216667,135.05,135.05,Vascular plants,Betula ermanii,9.0,NISP,pollen,,20.0,,,Radiocarbon years BP,10.0,1320.0,pollen,6/30/2007,310.0,2.90322580645
+2280,Selitkan-1 Exposure,53.216667,135.05,53.216667,53.216667,135.05,135.05,Vascular plants,Betula ermanii,4.0,NISP,pollen,,30.0,,,Radiocarbon years BP,15.0,1320.0,pollen,6/30/2007,322.0,1.24223602484
+2280,Selitkan-1 Exposure,53.216667,135.05,53.216667,53.216667,135.05,135.05,Vascular plants,Betula ermanii,9.0,NISP,pollen,,50.0,,,Radiocarbon years BP,25.0,1320.0,pollen,6/30/2007,313.0,2.87539936102
+2280,Selitkan-1 Exposure,53.216667,135.05,53.216667,53.216667,135.05,135.05,Vascular plants,Betula ermanii,9.0,NISP,pollen,,392.0,,,Radiocarbon years BP,30.0,1320.0,pollen,6/30/2007,316.0,2.84810126582
+2280,Selitkan-1 Exposure,53.216667,135.05,53.216667,53.216667,135.05,135.05,Vascular plants,Betula ermanii,10.0,NISP,pollen,,735.0,,,Radiocarbon years BP,35.0,1320.0,pollen,6/30/2007,317.0,3.15457413249
+2280,Selitkan-1 Exposure,53.216667,135.05,53.216667,53.216667,135.05,135.05,Vascular plants,Betula ermanii,4.0,NISP,pollen,,1077.0,,,Radiocarbon years BP,40.0,1320.0,pollen,6/30/2007,317.0,1.261829653
+2280,Selitkan-1 Exposure,53.216667,135.05,53.216667,53.216667,135.05,135.05,Vascular plants,Betula ermanii,3.0,NISP,pollen,,1419.0,,,Radiocarbon years BP,45.0,1320.0,pollen,6/30/2007,318.0,0.943396226415
+2280,Selitkan-1 Exposure,53.216667,135.05,53.216667,53.216667,135.05,135.05,Vascular plants,Betula ermanii,2.0,NISP,pollen,,2104.0,,,Radiocarbon years BP,55.0,1320.0,pollen,6/30/2007,313.0,0.638977635783
+2280,Selitkan-1 Exposure,53.216667,135.05,53.216667,53.216667,135.05,135.05,Vascular plants,Betula ermanii,1.0,NISP,pollen,,2798.0,,,Radiocarbon years BP,65.0,1320.0,pollen,6/30/2007,314.0,0.31847133758
+2280,Selitkan-1 Exposure,53.216667,135.05,53.216667,53.216667,135.05,135.05,Vascular plants,Betula ermanii,7.0,NISP,pollen,,3159.0,,,Radiocarbon years BP,70.0,1320.0,pollen,6/30/2007,314.0,2.22929936306
+2280,Selitkan-1 Exposure,53.216667,135.05,53.216667,53.216667,135.05,135.05,Vascular plants,Betula ermanii,3.0,NISP,pollen,,3519.0,,,Radiocarbon years BP,75.0,1320.0,pollen,6/30/2007,314.0,0.955414012739
+2280,Selitkan-1 Exposure,53.216667,135.05,53.216667,53.216667,135.05,135.05,Vascular plants,Betula ermanii,5.0,NISP,pollen,,3880.0,,,Radiocarbon years BP,80.0,1320.0,pollen,6/30/2007,313.0,1.59744408946
+2280,Selitkan-1 Exposure,53.216667,135.05,53.216667,53.216667,135.05,135.05,Vascular plants,Betula ermanii,2.0,NISP,pollen,,4340.0,,,Radiocarbon years BP,85.0,1320.0,pollen,6/30/2007,318.0,0.62893081761
+2280,Selitkan-1 Exposure,53.216667,135.05,53.216667,53.216667,135.05,135.05,Vascular plants,Betula ermanii,7.0,NISP,pollen,,4900.0,,,Radiocarbon years BP,90.0,1320.0,pollen,6/30/2007,316.0,2.21518987342
+2280,Selitkan-1 Exposure,53.216667,135.05,53.216667,53.216667,135.05,135.05,Vascular plants,Betula ermanii,4.0,NISP,pollen,,5198.0,,,Radiocarbon years BP,95.0,1320.0,pollen,6/30/2007,317.0,1.261829653
+2280,Selitkan-1 Exposure,53.216667,135.05,53.216667,53.216667,135.05,135.05,Vascular plants,Betula ermanii,8.0,NISP,pollen,,5233.0,,,Radiocarbon years BP,100.0,1320.0,pollen,6/30/2007,334.0,2.39520958084
+2280,Selitkan-1 Exposure,53.216667,135.05,53.216667,53.216667,135.05,135.05,Vascular plants,Betula ermanii,2.0,NISP,pollen,,5268.0,,,Radiocarbon years BP,105.0,1320.0,pollen,6/30/2007,313.0,0.638977635783
+2280,Selitkan-1 Exposure,53.216667,135.05,53.216667,53.216667,135.05,135.05,Vascular plants,Betula ermanii,2.0,NISP,pollen,,5304.0,,,Radiocarbon years BP,110.0,1320.0,pollen,6/30/2007,318.0,0.62893081761
+2280,Selitkan-1 Exposure,53.216667,135.05,53.216667,53.216667,135.05,135.05,Vascular plants,Betula ermanii,2.0,NISP,pollen,,5339.0,,,Radiocarbon years BP,115.0,1320.0,pollen,6/30/2007,314.0,0.636942675159
+2280,Selitkan-1 Exposure,53.216667,135.05,53.216667,53.216667,135.05,135.05,Vascular plants,Betula ermanii,5.0,NISP,pollen,,5375.0,,,Radiocarbon years BP,120.0,1320.0,pollen,6/30/2007,315.0,1.5873015873
+2280,Selitkan-1 Exposure,53.216667,135.05,53.216667,53.216667,135.05,135.05,Vascular plants,Betula ermanii,13.0,NISP,pollen,,5445.0,,,Radiocarbon years BP,130.0,1320.0,pollen,6/30/2007,306.0,4.24836601307
+2280,Selitkan-1 Exposure,53.216667,135.05,53.216667,53.216667,135.05,135.05,Vascular plants,Betula ermanii,6.0,NISP,pollen,,5516.0,,,Radiocarbon years BP,140.0,1320.0,pollen,6/30/2007,308.0,1.94805194805
+2280,Selitkan-1 Exposure,53.216667,135.05,53.216667,53.216667,135.05,135.05,Vascular plants,Betula ermanii,4.0,NISP,pollen,,5622.0,,,Radiocarbon years BP,155.0,1320.0,pollen,6/30/2007,302.0,1.32450331126
+2280,Selitkan-1 Exposure,53.216667,135.05,53.216667,53.216667,135.05,135.05,Vascular plants,Betula ermanii,4.0,NISP,pollen,,5693.0,,,Radiocarbon years BP,165.0,1320.0,pollen,6/30/2007,295.0,1.35593220339
+2280,Selitkan-1 Exposure,53.216667,135.05,53.216667,53.216667,135.05,135.05,Vascular plants,Betula ermanii,10.0,NISP,pollen,,5764.0,,,Radiocarbon years BP,175.0,1320.0,pollen,6/30/2007,304.0,3.28947368421
+2280,Selitkan-1 Exposure,53.216667,135.05,53.216667,53.216667,135.05,135.05,Vascular plants,Betula ermanii,2.0,NISP,pollen,,5835.0,,,Radiocarbon years BP,185.0,1320.0,pollen,6/30/2007,297.0,0.673400673401
+2280,Selitkan-1 Exposure,53.216667,135.05,53.216667,53.216667,135.05,135.05,Vascular plants,Betula ermanii,2.0,NISP,pollen,,5905.0,,,Radiocarbon years BP,195.0,1320.0,pollen,6/30/2007,297.0,0.673400673401
+2280,Selitkan-1 Exposure,53.216667,135.05,53.216667,53.216667,135.05,135.05,Vascular plants,Betula ermanii,3.0,NISP,pollen,,5976.0,,,Radiocarbon years BP,205.0,1320.0,pollen,6/30/2007,302.0,0.993377483444
+2280,Selitkan-1 Exposure,53.216667,135.05,53.216667,53.216667,135.05,135.05,Vascular plants,Betula ermanii,3.0,NISP,pollen,,6047.0,,,Radiocarbon years BP,215.0,1320.0,pollen,6/30/2007,301.0,0.996677740864
+2280,Selitkan-1 Exposure,53.216667,135.05,53.216667,53.216667,135.05,135.05,Vascular plants,Betula ermanii,2.0,NISP,pollen,,6132.0,,,Radiocarbon years BP,225.0,1320.0,pollen,6/30/2007,303.0,0.660066006601
+2280,Selitkan-1 Exposure,53.216667,135.05,53.216667,53.216667,135.05,135.05,Vascular plants,Betula ermanii,1.0,NISP,pollen,,6198.0,,,Radiocarbon years BP,230.0,1320.0,pollen,6/30/2007,325.0,0.307692307692
+2280,Selitkan-1 Exposure,53.216667,135.05,53.216667,53.216667,135.05,135.05,Vascular plants,Betula ermanii,1.0,NISP,pollen,,6262.0,,,Radiocarbon years BP,235.0,1320.0,pollen,6/30/2007,329.0,0.303951367781
+2280,Selitkan-1 Exposure,53.216667,135.05,53.216667,53.216667,135.05,135.05,Vascular plants,Betula ermanii,5.0,NISP,pollen,,6328.0,,,Radiocarbon years BP,240.0,1320.0,pollen,6/30/2007,308.0,1.62337662338
+2280,Selitkan-1 Exposure,53.216667,135.05,53.216667,53.216667,135.05,135.05,Vascular plants,Betula ermanii,4.0,NISP,pollen,,6392.0,,,Radiocarbon years BP,245.0,1320.0,pollen,6/30/2007,330.0,1.21212121212
+2280,Selitkan-1 Exposure,53.216667,135.05,53.216667,53.216667,135.05,135.05,Vascular plants,Betula ermanii,2.0,NISP,pollen,,6458.0,,,Radiocarbon years BP,250.0,1320.0,pollen,6/30/2007,320.0,0.625
+2280,Selitkan-1 Exposure,53.216667,135.05,53.216667,53.216667,135.05,135.05,Vascular plants,Betula ermanii,13.0,NISP,pollen,,6588.0,,,Radiocarbon years BP,260.0,1320.0,pollen,6/30/2007,298.0,4.36241610738
+2280,Selitkan-1 Exposure,53.216667,135.05,53.216667,53.216667,135.05,135.05,Vascular plants,Betula ermanii,4.0,NISP,pollen,,6652.0,,,Radiocarbon years BP,265.0,1320.0,pollen,6/30/2007,298.0,1.34228187919
+2280,Selitkan-1 Exposure,53.216667,135.05,53.216667,53.216667,135.05,135.05,Vascular plants,Betula ermanii,13.0,NISP,pollen,,6718.0,,,Radiocarbon years BP,270.0,1320.0,pollen,6/30/2007,337.0,3.85756676558
+2280,Selitkan-1 Exposure,53.216667,135.05,53.216667,53.216667,135.05,135.05,Vascular plants,Betula ermanii,3.0,NISP,pollen,,6782.0,,,Radiocarbon years BP,275.0,1320.0,pollen,6/30/2007,318.0,0.943396226415
+2280,Selitkan-1 Exposure,53.216667,135.05,53.216667,53.216667,135.05,135.05,Vascular plants,Betula ermanii,10.0,NISP,pollen,,6848.0,,,Radiocarbon years BP,280.0,1320.0,pollen,6/30/2007,290.0,3.44827586207
+2280,Selitkan-1 Exposure,53.216667,135.05,53.216667,53.216667,135.05,135.05,Vascular plants,Betula ermanii,10.0,NISP,pollen,,6912.0,,,Radiocarbon years BP,285.0,1320.0,pollen,6/30/2007,290.0,3.44827586207
+2280,Selitkan-1 Exposure,53.216667,135.05,53.216667,53.216667,135.05,135.05,Vascular plants,Betula ermanii,7.0,NISP,pollen,,6978.0,,,Radiocarbon years BP,290.0,1320.0,pollen,6/30/2007,262.0,2.67175572519
+2286,Sergeevskii Peat,49.233333,142.083333,49.233333,49.233333,142.083333,142.083333,Vascular plants,Betula ermanii,21.0,NISP,pollen,,2114.0,,,Radiocarbon years BP,10.0,6.0,pollen,6/30/2007,344.0,6.10465116279
+2286,Sergeevskii Peat,49.233333,142.083333,49.233333,49.233333,142.083333,142.083333,Vascular plants,Betula ermanii,25.0,NISP,pollen,,2136.0,,,Radiocarbon years BP,15.0,6.0,pollen,6/30/2007,378.0,6.61375661376
+2286,Sergeevskii Peat,49.233333,142.083333,49.233333,49.233333,142.083333,142.083333,Vascular plants,Betula ermanii,11.0,NISP,pollen,,2182.0,,,Radiocarbon years BP,25.0,6.0,pollen,6/30/2007,269.0,4.08921933086
+2286,Sergeevskii Peat,49.233333,142.083333,49.233333,49.233333,142.083333,142.083333,Vascular plants,Betula ermanii,37.0,NISP,pollen,,2228.0,,,Radiocarbon years BP,35.0,6.0,pollen,6/30/2007,702.0,5.27065527066
+2286,Sergeevskii Peat,49.233333,142.083333,49.233333,49.233333,142.083333,142.083333,Vascular plants,Betula ermanii,46.0,NISP,pollen,,2274.0,,,Radiocarbon years BP,45.0,6.0,pollen,6/30/2007,784.0,5.86734693878
+2286,Sergeevskii Peat,49.233333,142.083333,49.233333,49.233333,142.083333,142.083333,Vascular plants,Betula ermanii,41.0,NISP,pollen,,2320.0,,,Radiocarbon years BP,55.0,6.0,pollen,6/30/2007,721.0,5.68654646325
+2286,Sergeevskii Peat,49.233333,142.083333,49.233333,49.233333,142.083333,142.083333,Vascular plants,Betula ermanii,21.0,NISP,pollen,,2366.0,,,Radiocarbon years BP,65.0,6.0,pollen,6/30/2007,212.0,9.90566037736
+2286,Sergeevskii Peat,49.233333,142.083333,49.233333,49.233333,142.083333,142.083333,Vascular plants,Betula ermanii,48.0,NISP,pollen,,2411.0,,,Radiocarbon years BP,75.0,6.0,pollen,6/30/2007,514.0,9.33852140078
+2286,Sergeevskii Peat,49.233333,142.083333,49.233333,49.233333,142.083333,142.083333,Vascular plants,Betula ermanii,35.0,NISP,pollen,,2457.0,,,Radiocarbon years BP,85.0,6.0,pollen,6/30/2007,387.0,9.04392764858
+2286,Sergeevskii Peat,49.233333,142.083333,49.233333,49.233333,142.083333,142.083333,Vascular plants,Betula ermanii,6.0,NISP,pollen,,2503.0,,,Radiocarbon years BP,95.0,6.0,pollen,6/30/2007,398.0,1.50753768844
+2286,Sergeevskii Peat,49.233333,142.083333,49.233333,49.233333,142.083333,142.083333,Vascular plants,Betula ermanii,41.0,NISP,pollen,,2549.0,,,Radiocarbon years BP,105.0,6.0,pollen,6/30/2007,363.0,11.2947658402
+2286,Sergeevskii Peat,49.233333,142.083333,49.233333,49.233333,142.083333,142.083333,Vascular plants,Betula ermanii,41.0,NISP,pollen,,2595.0,,,Radiocarbon years BP,115.0,6.0,pollen,6/30/2007,699.0,5.86552217454
+2286,Sergeevskii Peat,49.233333,142.083333,49.233333,49.233333,142.083333,142.083333,Vascular plants,Betula ermanii,31.0,NISP,pollen,,2641.0,,,Radiocarbon years BP,125.0,6.0,pollen,6/30/2007,317.0,9.77917981073
+2286,Sergeevskii Peat,49.233333,142.083333,49.233333,49.233333,142.083333,142.083333,Vascular plants,Betula ermanii,38.0,NISP,pollen,,2701.0,,,Radiocarbon years BP,135.0,6.0,pollen,6/30/2007,543.0,6.99815837937
+2286,Sergeevskii Peat,49.233333,142.083333,49.233333,49.233333,142.083333,142.083333,Vascular plants,Betula ermanii,58.0,NISP,pollen,,2807.0,,,Radiocarbon years BP,145.0,6.0,pollen,6/30/2007,503.0,11.5308151093
+2286,Sergeevskii Peat,49.233333,142.083333,49.233333,49.233333,142.083333,142.083333,Vascular plants,Betula ermanii,33.0,NISP,pollen,,2912.0,,,Radiocarbon years BP,155.0,6.0,pollen,6/30/2007,293.0,11.2627986348
+2286,Sergeevskii Peat,49.233333,142.083333,49.233333,49.233333,142.083333,142.083333,Vascular plants,Betula ermanii,61.0,NISP,pollen,,3018.0,,,Radiocarbon years BP,165.0,6.0,pollen,6/30/2007,748.0,8.1550802139
+2286,Sergeevskii Peat,49.233333,142.083333,49.233333,49.233333,142.083333,142.083333,Vascular plants,Betula ermanii,38.0,NISP,pollen,,3124.0,,,Radiocarbon years BP,175.0,6.0,pollen,6/30/2007,457.0,8.31509846827
+2286,Sergeevskii Peat,49.233333,142.083333,49.233333,49.233333,142.083333,142.083333,Vascular plants,Betula ermanii,71.0,NISP,pollen,,3216.0,,,Radiocarbon years BP,185.0,6.0,pollen,6/30/2007,628.0,11.3057324841
+2286,Sergeevskii Peat,49.233333,142.083333,49.233333,49.233333,142.083333,142.083333,Vascular plants,Betula ermanii,34.0,NISP,pollen,,3304.0,,,Radiocarbon years BP,195.0,6.0,pollen,6/30/2007,515.0,6.60194174757
+2286,Sergeevskii Peat,49.233333,142.083333,49.233333,49.233333,142.083333,142.083333,Vascular plants,Betula ermanii,40.0,NISP,pollen,,3391.0,,,Radiocarbon years BP,205.0,6.0,pollen,6/30/2007,587.0,6.81431005111
+2286,Sergeevskii Peat,49.233333,142.083333,49.233333,49.233333,142.083333,142.083333,Vascular plants,Betula ermanii,53.0,NISP,pollen,,3479.0,,,Radiocarbon years BP,215.0,6.0,pollen,6/30/2007,320.0,16.5625
+2286,Sergeevskii Peat,49.233333,142.083333,49.233333,49.233333,142.083333,142.083333,Vascular plants,Betula ermanii,72.0,NISP,pollen,,3567.0,,,Radiocarbon years BP,225.0,6.0,pollen,6/30/2007,515.0,13.9805825243
+2286,Sergeevskii Peat,49.233333,142.083333,49.233333,49.233333,142.083333,142.083333,Vascular plants,Betula ermanii,24.0,NISP,pollen,,3655.0,,,Radiocarbon years BP,235.0,6.0,pollen,6/30/2007,574.0,4.18118466899
+2286,Sergeevskii Peat,49.233333,142.083333,49.233333,49.233333,142.083333,142.083333,Vascular plants,Betula ermanii,13.0,NISP,pollen,,3742.0,,,Radiocarbon years BP,245.0,6.0,pollen,6/30/2007,179.0,7.2625698324
+2286,Sergeevskii Peat,49.233333,142.083333,49.233333,49.233333,142.083333,142.083333,Vascular plants,Betula ermanii,34.0,NISP,pollen,,3830.0,,,Radiocarbon years BP,255.0,6.0,pollen,6/30/2007,383.0,8.8772845953
+2286,Sergeevskii Peat,49.233333,142.083333,49.233333,49.233333,142.083333,142.083333,Vascular plants,Betula ermanii,33.0,NISP,pollen,,3883.0,,,Radiocarbon years BP,265.0,6.0,pollen,6/30/2007,597.0,5.52763819095
+2286,Sergeevskii Peat,49.233333,142.083333,49.233333,49.233333,142.083333,142.083333,Vascular plants,Betula ermanii,15.0,NISP,pollen,,3937.0,,,Radiocarbon years BP,275.0,6.0,pollen,6/30/2007,403.0,3.72208436725
+2286,Sergeevskii Peat,49.233333,142.083333,49.233333,49.233333,142.083333,142.083333,Vascular plants,Betula ermanii,54.0,NISP,pollen,,3990.0,,,Radiocarbon years BP,285.0,6.0,pollen,6/30/2007,398.0,13.567839196
+2286,Sergeevskii Peat,49.233333,142.083333,49.233333,49.233333,142.083333,142.083333,Vascular plants,Betula ermanii,24.0,NISP,pollen,,4043.0,,,Radiocarbon years BP,295.0,6.0,pollen,6/30/2007,346.0,6.93641618497
+2286,Sergeevskii Peat,49.233333,142.083333,49.233333,49.233333,142.083333,142.083333,Vascular plants,Betula ermanii,55.0,NISP,pollen,,4097.0,,,Radiocarbon years BP,305.0,6.0,pollen,6/30/2007,502.0,10.9561752988
+2286,Sergeevskii Peat,49.233333,142.083333,49.233333,49.233333,142.083333,142.083333,Vascular plants,Betula ermanii,41.0,NISP,pollen,,4150.0,,,Radiocarbon years BP,315.0,6.0,pollen,6/30/2007,270.0,15.1851851852
+2286,Sergeevskii Peat,49.233333,142.083333,49.233333,49.233333,142.083333,142.083333,Vascular plants,Betula ermanii,22.0,NISP,pollen,,4203.0,,,Radiocarbon years BP,325.0,6.0,pollen,6/30/2007,163.0,13.4969325153
+2286,Sergeevskii Peat,49.233333,142.083333,49.233333,49.233333,142.083333,142.083333,Vascular plants,Betula ermanii,15.0,NISP,pollen,,4321.0,,,Radiocarbon years BP,335.0,6.0,pollen,6/30/2007,174.0,8.62068965517
+2286,Sergeevskii Peat,49.233333,142.083333,49.233333,49.233333,142.083333,142.083333,Vascular plants,Betula ermanii,42.0,NISP,pollen,,4502.0,,,Radiocarbon years BP,345.0,6.0,pollen,6/30/2007,356.0,11.797752809
+2286,Sergeevskii Peat,49.233333,142.083333,49.233333,49.233333,142.083333,142.083333,Vascular plants,Betula ermanii,24.0,NISP,pollen,,4684.0,,,Radiocarbon years BP,355.0,6.0,pollen,6/30/2007,250.0,9.6
+2286,Sergeevskii Peat,49.233333,142.083333,49.233333,49.233333,142.083333,142.083333,Vascular plants,Betula ermanii,25.0,NISP,pollen,,4866.0,,,Radiocarbon years BP,365.0,6.0,pollen,6/30/2007,345.0,7.24637681159
+2286,Sergeevskii Peat,49.233333,142.083333,49.233333,49.233333,142.083333,142.083333,Vascular plants,Betula ermanii,40.0,NISP,pollen,,5048.0,,,Radiocarbon years BP,375.0,6.0,pollen,6/30/2007,248.0,16.1290322581
+2286,Sergeevskii Peat,49.233333,142.083333,49.233333,49.233333,142.083333,142.083333,Vascular plants,Betula ermanii,14.0,NISP,pollen,,5229.0,,,Radiocarbon years BP,385.0,6.0,pollen,6/30/2007,325.0,4.30769230769
+2286,Sergeevskii Peat,49.233333,142.083333,49.233333,49.233333,142.083333,142.083333,Vascular plants,Betula ermanii,41.0,NISP,pollen,,5382.0,,,Radiocarbon years BP,395.0,6.0,pollen,6/30/2007,202.0,20.297029703
+2286,Sergeevskii Peat,49.233333,142.083333,49.233333,49.233333,142.083333,142.083333,Vascular plants,Betula ermanii,35.0,NISP,pollen,,5506.0,,,Radiocarbon years BP,405.0,6.0,pollen,6/30/2007,371.0,9.43396226415
+2286,Sergeevskii Peat,49.233333,142.083333,49.233333,49.233333,142.083333,142.083333,Vascular plants,Betula ermanii,51.0,NISP,pollen,,5630.0,,,Radiocarbon years BP,415.0,6.0,pollen,6/30/2007,400.0,12.75
+2286,Sergeevskii Peat,49.233333,142.083333,49.233333,49.233333,142.083333,142.083333,Vascular plants,Betula ermanii,67.0,NISP,pollen,,5753.0,,,Radiocarbon years BP,425.0,6.0,pollen,6/30/2007,373.0,17.9624664879
+2286,Sergeevskii Peat,49.233333,142.083333,49.233333,49.233333,142.083333,142.083333,Vascular plants,Betula ermanii,29.0,NISP,pollen,,5877.0,,,Radiocarbon years BP,435.0,6.0,pollen,6/30/2007,443.0,6.54627539503
+2286,Sergeevskii Peat,49.233333,142.083333,49.233333,49.233333,142.083333,142.083333,Vascular plants,Betula ermanii,34.0,NISP,pollen,,6001.0,,,Radiocarbon years BP,445.0,6.0,pollen,6/30/2007,679.0,5.00736377025
+2286,Sergeevskii Peat,49.233333,142.083333,49.233333,49.233333,142.083333,142.083333,Vascular plants,Betula ermanii,61.0,NISP,pollen,,6125.0,,,Radiocarbon years BP,455.0,6.0,pollen,6/30/2007,598.0,10.2006688963
+2286,Sergeevskii Peat,49.233333,142.083333,49.233333,49.233333,142.083333,142.083333,Vascular plants,Betula ermanii,43.0,NISP,pollen,,6233.0,,,Radiocarbon years BP,465.0,6.0,pollen,6/30/2007,517.0,8.31721470019
+2286,Sergeevskii Peat,49.233333,142.083333,49.233333,49.233333,142.083333,142.083333,Vascular plants,Betula ermanii,54.0,NISP,pollen,,6341.0,,,Radiocarbon years BP,475.0,6.0,pollen,6/30/2007,537.0,10.0558659218
+2286,Sergeevskii Peat,49.233333,142.083333,49.233333,49.233333,142.083333,142.083333,Vascular plants,Betula ermanii,53.0,NISP,pollen,,6449.0,,,Radiocarbon years BP,485.0,6.0,pollen,6/30/2007,544.0,9.74264705882
+2286,Sergeevskii Peat,49.233333,142.083333,49.233333,49.233333,142.083333,142.083333,Vascular plants,Betula ermanii,22.0,NISP,pollen,,6558.0,,,Radiocarbon years BP,495.0,6.0,pollen,6/30/2007,442.0,4.97737556561
+2286,Sergeevskii Peat,49.233333,142.083333,49.233333,49.233333,142.083333,142.083333,Vascular plants,Betula ermanii,16.0,NISP,pollen,,6666.0,,,Radiocarbon years BP,505.0,6.0,pollen,6/30/2007,260.0,6.15384615385
+2286,Sergeevskii Peat,49.233333,142.083333,49.233333,49.233333,142.083333,142.083333,Vascular plants,Betula ermanii,48.0,NISP,pollen,,6774.0,,,Radiocarbon years BP,515.0,6.0,pollen,6/30/2007,370.0,12.972972973
+2286,Sergeevskii Peat,49.233333,142.083333,49.233333,49.233333,142.083333,142.083333,Vascular plants,Betula ermanii,35.0,NISP,pollen,,6882.0,,,Radiocarbon years BP,525.0,6.0,pollen,6/30/2007,453.0,7.72626931567
+2286,Sergeevskii Peat,49.233333,142.083333,49.233333,49.233333,142.083333,142.083333,Vascular plants,Betula ermanii,114.0,NISP,pollen,,6990.0,,,Radiocarbon years BP,535.0,6.0,pollen,6/30/2007,539.0,21.1502782931
+2286,Sergeevskii Peat,49.233333,142.083333,49.233333,49.233333,142.083333,142.083333,Vascular plants,Betula ermanii,53.0,NISP,pollen,,7098.0,,,Radiocarbon years BP,545.0,6.0,pollen,6/30/2007,497.0,10.6639839034
+2286,Sergeevskii Peat,49.233333,142.083333,49.233333,49.233333,142.083333,142.083333,Vascular plants,Betula ermanii,50.0,NISP,pollen,,7207.0,,,Radiocarbon years BP,555.0,6.0,pollen,6/30/2007,451.0,11.0864745011
+2286,Sergeevskii Peat,49.233333,142.083333,49.233333,49.233333,142.083333,142.083333,Vascular plants,Betula ermanii,8.0,NISP,pollen,,7315.0,,,Radiocarbon years BP,565.0,6.0,pollen,6/30/2007,238.0,3.36134453782
+2505,Spokoinaya Bay,42.716667,133.266667,42.716667,42.716667,133.266667,133.266667,Vascular plants,Betula ermanii,4.0,NISP,pollen,,,,,Radiocarbon years BP,15.0,-44.0,pollen,6/30/2007,292.0,1.3698630137
+2505,Spokoinaya Bay,42.716667,133.266667,42.716667,42.716667,133.266667,133.266667,Vascular plants,Betula ermanii,9.0,NISP,pollen,,,,,Radiocarbon years BP,45.0,-44.0,pollen,6/30/2007,425.0,2.11764705882
+2505,Spokoinaya Bay,42.716667,133.266667,42.716667,42.716667,133.266667,133.266667,Vascular plants,Betula ermanii,1.0,NISP,pollen,,,,,Radiocarbon years BP,66.0,-44.0,pollen,6/30/2007,370.0,0.27027027027
+2505,Spokoinaya Bay,42.716667,133.266667,42.716667,42.716667,133.266667,133.266667,Vascular plants,Betula ermanii,5.0,NISP,pollen,,,,,Radiocarbon years BP,90.0,-44.0,pollen,6/30/2007,463.0,1.07991360691
+2505,Spokoinaya Bay,42.716667,133.266667,42.716667,42.716667,133.266667,133.266667,Vascular plants,Betula ermanii,2.0,NISP,pollen,,,,,Radiocarbon years BP,106.0,-44.0,pollen,6/30/2007,324.0,0.617283950617
+2505,Spokoinaya Bay,42.716667,133.266667,42.716667,42.716667,133.266667,133.266667,Vascular plants,Betula ermanii,3.0,NISP,pollen,,,,,Radiocarbon years BP,126.0,-44.0,pollen,6/30/2007,291.0,1.03092783505
+2505,Spokoinaya Bay,42.716667,133.266667,42.716667,42.716667,133.266667,133.266667,Vascular plants,Betula ermanii,1.0,NISP,pollen,,,,,Radiocarbon years BP,135.0,-44.0,pollen,6/30/2007,396.0,0.252525252525
+2505,Spokoinaya Bay,42.716667,133.266667,42.716667,42.716667,133.266667,133.266667,Vascular plants,Betula ermanii,2.0,NISP,pollen,,,,,Radiocarbon years BP,146.0,-44.0,pollen,6/30/2007,344.0,0.581395348837
+2505,Spokoinaya Bay,42.716667,133.266667,42.716667,42.716667,133.266667,133.266667,Vascular plants,Betula ermanii,2.0,NISP,pollen,,,,,Radiocarbon years BP,155.0,-44.0,pollen,6/30/2007,340.0,0.588235294118
+2505,Spokoinaya Bay,42.716667,133.266667,42.716667,42.716667,133.266667,133.266667,Vascular plants,Betula ermanii,1.0,NISP,pollen,,,,,Radiocarbon years BP,166.0,-44.0,pollen,6/30/2007,339.0,0.294985250737
+2505,Spokoinaya Bay,42.716667,133.266667,42.716667,42.716667,133.266667,133.266667,Vascular plants,Betula ermanii,2.0,NISP,pollen,,,,,Radiocarbon years BP,175.0,-44.0,pollen,6/30/2007,434.0,0.460829493088
+2505,Spokoinaya Bay,42.716667,133.266667,42.716667,42.716667,133.266667,133.266667,Vascular plants,Betula ermanii,2.0,NISP,pollen,,,,,Radiocarbon years BP,186.0,-44.0,pollen,6/30/2007,383.0,0.522193211488
+2505,Spokoinaya Bay,42.716667,133.266667,42.716667,42.716667,133.266667,133.266667,Vascular plants,Betula ermanii,2.0,NISP,pollen,,9020.0,,,Radiocarbon years BP,206.0,-44.0,pollen,6/30/2007,363.0,0.550964187328
+2505,Spokoinaya Bay,42.716667,133.266667,42.716667,42.716667,133.266667,133.266667,Vascular plants,Betula ermanii,3.0,NISP,pollen,,,,,Radiocarbon years BP,215.0,-44.0,pollen,6/30/2007,450.0,0.666666666667
+2505,Spokoinaya Bay,42.716667,133.266667,42.716667,42.716667,133.266667,133.266667,Vascular plants,Betula ermanii,4.0,NISP,pollen,,,,,Radiocarbon years BP,226.0,-44.0,pollen,6/30/2007,464.0,0.862068965517
+2505,Spokoinaya Bay,42.716667,133.266667,42.716667,42.716667,133.266667,133.266667,Vascular plants,Betula ermanii,2.0,NISP,pollen,,,,,Radiocarbon years BP,235.0,-44.0,pollen,6/30/2007,395.0,0.506329113924
+2505,Spokoinaya Bay,42.716667,133.266667,42.716667,42.716667,133.266667,133.266667,Vascular plants,Betula ermanii,2.0,NISP,pollen,,,,,Radiocarbon years BP,246.0,-44.0,pollen,6/30/2007,396.0,0.505050505051
+2505,Spokoinaya Bay,42.716667,133.266667,42.716667,42.716667,133.266667,133.266667,Vascular plants,Betula ermanii,1.0,NISP,pollen,,,,,Radiocarbon years BP,275.0,-44.0,pollen,6/30/2007,485.0,0.20618556701
+2552,Tikhangou Exposure,42.833333,132.783333,42.833333,42.833333,132.783333,132.783333,Vascular plants,Betula ermanii,4.0,NISP,pollen,,110.0,,,Radiocarbon years BP,10.0,4.0,pollen,6/30/2007,431.0,0.92807424594
+2552,Tikhangou Exposure,42.833333,132.783333,42.833333,42.833333,132.783333,132.783333,Vascular plants,Betula ermanii,1.0,NISP,pollen,,963.0,,,Radiocarbon years BP,60.0,4.0,pollen,6/30/2007,344.0,0.290697674419
+2552,Tikhangou Exposure,42.833333,132.783333,42.833333,42.833333,132.783333,132.783333,Vascular plants,Betula ermanii,3.0,NISP,pollen,,1480.0,,,Radiocarbon years BP,70.0,4.0,pollen,6/30/2007,503.0,0.596421471173
+2552,Tikhangou Exposure,42.833333,132.783333,42.833333,42.833333,132.783333,132.783333,Vascular plants,Betula ermanii,11.0,NISP,pollen,,1997.0,,,Radiocarbon years BP,80.0,4.0,pollen,6/30/2007,885.0,1.24293785311
+2552,Tikhangou Exposure,42.833333,132.783333,42.833333,42.833333,132.783333,132.783333,Vascular plants,Betula ermanii,4.0,NISP,pollen,,4246.0,,,Radiocarbon years BP,130.0,4.0,pollen,6/30/2007,541.0,0.739371534196
+2552,Tikhangou Exposure,42.833333,132.783333,42.833333,42.833333,132.783333,132.783333,Vascular plants,Betula ermanii,10.0,NISP,pollen,,4314.0,,,Radiocarbon years BP,140.0,4.0,pollen,6/30/2007,369.0,2.71002710027
+2552,Tikhangou Exposure,42.833333,132.783333,42.833333,42.833333,132.783333,132.783333,Vascular plants,Betula ermanii,1.0,NISP,pollen,,4519.0,,,Radiocarbon years BP,170.0,4.0,pollen,6/30/2007,368.0,0.271739130435
+2552,Tikhangou Exposure,42.833333,132.783333,42.833333,42.833333,132.783333,132.783333,Vascular plants,Betula ermanii,4.0,NISP,pollen,,4792.0,,,Radiocarbon years BP,210.0,4.0,pollen,6/30/2007,561.0,0.713012477718
+2552,Tikhangou Exposure,42.833333,132.783333,42.833333,42.833333,132.783333,132.783333,Vascular plants,Betula ermanii,11.0,NISP,pollen,,4929.0,,,Radiocarbon years BP,230.0,4.0,pollen,6/30/2007,563.0,1.95381882771
+2552,Tikhangou Exposure,42.833333,132.783333,42.833333,42.833333,132.783333,132.783333,Vascular plants,Betula ermanii,2.0,NISP,pollen,,5065.0,,,Radiocarbon years BP,250.0,4.0,pollen,6/30/2007,426.0,0.469483568075
+2552,Tikhangou Exposure,42.833333,132.783333,42.833333,42.833333,132.783333,132.783333,Vascular plants,Betula ermanii,3.0,NISP,pollen,,5270.0,,,Radiocarbon years BP,280.0,4.0,pollen,6/30/2007,381.0,0.787401574803
+2552,Tikhangou Exposure,42.833333,132.783333,42.833333,42.833333,132.783333,132.783333,Vascular plants,Betula ermanii,4.0,NISP,pollen,,5543.0,,,Radiocarbon years BP,320.0,4.0,pollen,6/30/2007,366.0,1.09289617486
+2552,Tikhangou Exposure,42.833333,132.783333,42.833333,42.833333,132.783333,132.783333,Vascular plants,Betula ermanii,10.0,NISP,pollen,,5884.0,,,Radiocarbon years BP,370.0,4.0,pollen,6/30/2007,354.0,2.82485875706
+2552,Tikhangou Exposure,42.833333,132.783333,42.833333,42.833333,132.783333,132.783333,Vascular plants,Betula ermanii,2.0,NISP,pollen,,6635.0,,,Radiocarbon years BP,480.0,4.0,pollen,6/30/2007,340.0,0.588235294118
+2552,Tikhangou Exposure,42.833333,132.783333,42.833333,42.833333,132.783333,132.783333,Vascular plants,Betula ermanii,6.0,NISP,pollen,,7522.0,,,Radiocarbon years BP,610.0,4.0,pollen,6/30/2007,297.0,2.0202020202
+2552,Tikhangou Exposure,42.833333,132.783333,42.833333,42.833333,132.783333,132.783333,Vascular plants,Betula ermanii,5.0,NISP,pollen,,20134.0,,,Radiocarbon years BP,1060.0,4.0,pollen,6/30/2007,424.0,1.17924528302
+2571,Tumannaya River,42.316667,130.733333,42.316667,42.316667,130.733333,130.733333,Vascular plants,Betula ermanii,5.0,NISP,pollen,,,,,,50.0,4.0,pollen,6/30/2007,340.0,1.47058823529
+2571,Tumannaya River,42.316667,130.733333,42.316667,42.316667,130.733333,130.733333,Vascular plants,Betula ermanii,3.0,NISP,pollen,,,,,,800.0,4.0,pollen,6/30/2007,126.0,2.38095238095
+2571,Tumannaya River,42.316667,130.733333,42.316667,42.316667,130.733333,130.733333,Vascular plants,Betula ermanii,3.0,NISP,pollen,,,,,,1670.0,4.0,pollen,6/30/2007,198.0,1.51515151515
+2571,Tumannaya River,42.316667,130.733333,42.316667,42.316667,130.733333,130.733333,Vascular plants,Betula ermanii,1.0,NISP,pollen,,,,,,4550.0,4.0,pollen,6/30/2007,71.0,1.40845070423
+2571,Tumannaya River,42.316667,130.733333,42.316667,42.316667,130.733333,130.733333,Vascular plants,Betula ermanii,9.0,NISP,pollen,,,,,,4670.0,4.0,pollen,6/30/2007,257.0,3.50194552529
+2571,Tumannaya River,42.316667,130.733333,42.316667,42.316667,130.733333,130.733333,Vascular plants,Betula ermanii,9.0,NISP,pollen,,,,,,4860.0,4.0,pollen,6/30/2007,258.0,3.48837209302
+2790,Unaschi Exposure,42.95,133.166667,42.95,42.95,133.166667,133.166667,Vascular plants,Betula ermanii,8.0,NISP,pollen,,9435.0,,,Radiocarbon years BP,200.0,35.0,pollen,6/30/2007,297.0,2.6936026936
+2790,Unaschi Exposure,42.95,133.166667,42.95,42.95,133.166667,133.166667,Vascular plants,Betula ermanii,9.0,NISP,pollen,,10320.0,,,Radiocarbon years BP,215.0,35.0,pollen,6/30/2007,272.0,3.30882352941
+2790,Unaschi Exposure,42.95,133.166667,42.95,42.95,133.166667,133.166667,Vascular plants,Betula ermanii,2.0,NISP,pollen,,13860.0,,,Radiocarbon years BP,275.0,35.0,pollen,6/30/2007,343.0,0.583090379009
+2796,Urochitsche Chernoruch'ye Exposure,43.233333,134.283333,43.233333,43.233333,134.283333,134.283333,Vascular plants,Betula ermanii,3.0,NISP,pollen,,,,,Radiocarbon years BP,30.0,15.0,pollen,6/30/2007,412.0,0.728155339806
+2796,Urochitsche Chernoruch'ye Exposure,43.233333,134.283333,43.233333,43.233333,134.283333,134.283333,Vascular plants,Betula ermanii,1.0,NISP,pollen,,,,,Radiocarbon years BP,70.0,15.0,pollen,6/30/2007,206.0,0.485436893204
+2796,Urochitsche Chernoruch'ye Exposure,43.233333,134.283333,43.233333,43.233333,134.283333,134.283333,Vascular plants,Betula ermanii,13.0,NISP,pollen,,,,,Radiocarbon years BP,140.0,15.0,pollen,6/30/2007,464.0,2.80172413793
+2796,Urochitsche Chernoruch'ye Exposure,43.233333,134.283333,43.233333,43.233333,134.283333,134.283333,Vascular plants,Betula ermanii,8.0,NISP,pollen,,,,,Radiocarbon years BP,145.0,15.0,pollen,6/30/2007,415.0,1.92771084337
+2796,Urochitsche Chernoruch'ye Exposure,43.233333,134.283333,43.233333,43.233333,134.283333,134.283333,Vascular plants,Betula ermanii,2.0,NISP,pollen,,,,,Radiocarbon years BP,155.0,15.0,pollen,6/30/2007,344.0,0.581395348837
+2796,Urochitsche Chernoruch'ye Exposure,43.233333,134.283333,43.233333,43.233333,134.283333,134.283333,Vascular plants,Betula ermanii,1.0,NISP,pollen,,22580.0,,,Radiocarbon years BP,165.0,15.0,pollen,6/30/2007,446.0,0.224215246637
+2798,Urochitsche Zvezdochka Exposure,43.016667,133.766667,43.016667,43.016667,133.766667,133.766667,Vascular plants,Betula ermanii,7.0,NISP,pollen,,24277.0,,,Radiocarbon years BP,280.0,40.0,pollen,6/30/2007,227.0,3.08370044053
+2823,Vostok Gulf,42.9,132.75,42.9,42.9,132.75,132.75,Vascular plants,Betula ermanii,1.0,NISP,pollen,,3039.0,,,Radiocarbon years BP,240.0,5.0,pollen,6/30/2007,339.0,0.294985250737
+2823,Vostok Gulf,42.9,132.75,42.9,42.9,132.75,132.75,Vascular plants,Betula ermanii,1.0,NISP,pollen,,3208.0,,,Radiocarbon years BP,260.0,5.0,pollen,6/30/2007,284.0,0.352112676056
+2823,Vostok Gulf,42.9,132.75,42.9,42.9,132.75,132.75,Vascular plants,Betula ermanii,7.0,NISP,pollen,,3924.0,,,Radiocarbon years BP,345.0,5.0,pollen,6/30/2007,225.0,3.11111111111
+2823,Vostok Gulf,42.9,132.75,42.9,42.9,132.75,132.75,Vascular plants,Betula ermanii,3.0,NISP,pollen,,4978.0,,,Radiocarbon years BP,680.0,5.0,pollen,6/30/2007,325.0,0.923076923077

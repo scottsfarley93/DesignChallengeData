@@ -1,0 +1,53 @@
+siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
+2965,Abernethy Forest,56.233333,-3.716667,56.233333,56.233333,-3.716667,-3.716667,Vascular plants,Succisa pratensis,1.0,NISP,pollen,,2503.0,,,Radiocarbon years BP,130.0,221.0,pollen,6/30/2007,254.0,0.393700787402
+2977,Allt na Feithe Sheilich,57.316667,-3.9,57.316667,57.316667,-3.9,-3.9,Vascular plants,Succisa pratensis,2.0,NISP,pollen,,5693.0,,,Radiocarbon years BP,165.0,595.0,pollen,6/30/2007,553.0,0.361663652803
+2977,Allt na Feithe Sheilich,57.316667,-3.9,57.316667,57.316667,-3.9,-3.9,Vascular plants,Succisa pratensis,4.0,NISP,pollen,,6538.0,,,Radiocarbon years BP,175.0,595.0,pollen,6/30/2007,340.0,1.17647058824
+2977,Allt na Feithe Sheilich,57.316667,-3.9,57.316667,57.316667,-3.9,-3.9,Vascular plants,Succisa pratensis,2.0,NISP,pollen,,6960.0,,,Radiocarbon years BP,180.0,595.0,pollen,6/30/2007,543.0,0.36832412523
+2977,Allt na Feithe Sheilich,57.316667,-3.9,57.316667,57.316667,-3.9,-3.9,Vascular plants,Succisa pratensis,1.0,NISP,pollen,,7234.0,,,Radiocarbon years BP,195.0,595.0,pollen,6/30/2007,321.0,0.311526479751
+2977,Allt na Feithe Sheilich,57.316667,-3.9,57.316667,57.316667,-3.9,-3.9,Vascular plants,Succisa pratensis,1.0,NISP,pollen,,7782.0,,,Radiocarbon years BP,225.0,595.0,pollen,6/30/2007,495.0,0.20202020202
+3021,Blato,49.041667,15.191667,49.041667,49.041667,15.191667,15.191667,Vascular plants,Succisa pratensis,1.0,NISP,pollen,,7808.0,,,Radiocarbon years BP,95.0,645.0,pollen,6/30/2007,220.0,0.454545454545
+3021,Blato,49.041667,15.191667,49.041667,49.041667,15.191667,15.191667,Vascular plants,Succisa pratensis,1.0,NISP,pollen,,,,,,165.0,645.0,pollen,6/30/2007,1175.0,0.0851063829787
+3025,Blomoy,60.533333,4.883333,60.533333,60.533333,4.883333,4.883333,Vascular plants,Succisa pratensis,1.0,NISP,pollen,,7754.0,,,Radiocarbon years BP,160.0,36.0,pollen,6/30/2007,649.0,0.154083204931
+3051,Chat Moss,53.466667,-2.45,53.466667,53.466667,-2.45,-2.45,Vascular plants,Succisa pratensis,1.0,NISP,pollen,,,,,,745.0,23.0,pollen,6/30/2007,100.0,1.0
+3051,Chat Moss,53.466667,-2.45,53.466667,53.466667,-2.45,-2.45,Vascular plants,Succisa pratensis,1.0,NISP,pollen,,,,,,750.0,23.0,pollen,6/30/2007,103.0,0.970873786408
+3051,Chat Moss,53.466667,-2.45,53.466667,53.466667,-2.45,-2.45,Vascular plants,Succisa pratensis,1.0,NISP,pollen,,,,,,765.0,23.0,pollen,6/30/2007,142.0,0.704225352113
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Succisa pratensis,4.0,NISP,pollen,,,,,,365.0,20.0,pollen,6/30/2007,651.0,0.614439324117
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Succisa pratensis,4.0,NISP,pollen,,,,,,385.0,20.0,pollen,6/30/2007,741.0,0.539811066127
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Succisa pratensis,2.0,NISP,pollen,,,,,,395.0,20.0,pollen,6/30/2007,486.0,0.411522633745
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Succisa pratensis,1.0,NISP,pollen,,,,,,415.0,20.0,pollen,6/30/2007,191.0,0.523560209424
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Succisa pratensis,1.0,NISP,pollen,,,,,,420.0,20.0,pollen,6/30/2007,254.0,0.393700787402
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Succisa pratensis,2.0,NISP,pollen,,,,,,430.0,20.0,pollen,6/30/2007,174.0,1.14942528736
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Succisa pratensis,1.0,NISP,pollen,,,,,,445.0,20.0,pollen,6/30/2007,135.0,0.740740740741
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Succisa pratensis,1.0,NISP,pollen,,,,,,490.0,20.0,pollen,6/30/2007,212.0,0.471698113208
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Succisa pratensis,1.0,NISP,pollen,,,,,,500.0,20.0,pollen,6/30/2007,157.0,0.636942675159
+3061,Clatteringshaws Loch,55.066667,-4.283333,55.066667,55.066667,-4.283333,-4.283333,Vascular plants,Succisa pratensis,2.0,NISP,pollen,,1168.0,,,Radiocarbon years BP,20.0,210.0,pollen,6/30/2007,1506.0,0.132802124834
+3061,Clatteringshaws Loch,55.066667,-4.283333,55.066667,55.066667,-4.283333,-4.283333,Vascular plants,Succisa pratensis,5.0,NISP,pollen,,1752.0,,,Radiocarbon years BP,30.0,210.0,pollen,6/30/2007,758.0,0.65963060686
+3061,Clatteringshaws Loch,55.066667,-4.283333,55.066667,55.066667,-4.283333,-4.283333,Vascular plants,Succisa pratensis,1.0,NISP,pollen,,2336.0,,,Radiocarbon years BP,40.0,210.0,pollen,6/30/2007,778.0,0.12853470437
+3061,Clatteringshaws Loch,55.066667,-4.283333,55.066667,55.066667,-4.283333,-4.283333,Vascular plants,Succisa pratensis,6.0,NISP,pollen,,3503.0,,,Radiocarbon years BP,60.0,210.0,pollen,6/30/2007,471.0,1.27388535032
+3061,Clatteringshaws Loch,55.066667,-4.283333,55.066667,55.066667,-4.283333,-4.283333,Vascular plants,Succisa pratensis,1.0,NISP,pollen,,4087.0,,,Radiocarbon years BP,70.0,210.0,pollen,6/30/2007,472.0,0.21186440678
+3061,Clatteringshaws Loch,55.066667,-4.283333,55.066667,55.066667,-4.283333,-4.283333,Vascular plants,Succisa pratensis,2.0,NISP,pollen,,4671.0,,,Radiocarbon years BP,80.0,210.0,pollen,6/30/2007,686.0,0.291545189504
+3061,Clatteringshaws Loch,55.066667,-4.283333,55.066667,55.066667,-4.283333,-4.283333,Vascular plants,Succisa pratensis,2.0,NISP,pollen,,5637.0,,,Radiocarbon years BP,120.0,210.0,pollen,6/30/2007,486.0,0.411522633745
+3061,Clatteringshaws Loch,55.066667,-4.283333,55.066667,55.066667,-4.283333,-4.283333,Vascular plants,Succisa pratensis,1.0,NISP,pollen,,5975.0,,,Radiocarbon years BP,140.0,210.0,pollen,6/30/2007,370.0,0.27027027027
+3061,Clatteringshaws Loch,55.066667,-4.283333,55.066667,55.066667,-4.283333,-4.283333,Vascular plants,Succisa pratensis,1.0,NISP,pollen,,6144.0,,,Radiocarbon years BP,150.0,210.0,pollen,6/30/2007,451.0,0.221729490022
+3061,Clatteringshaws Loch,55.066667,-4.283333,55.066667,55.066667,-4.283333,-4.283333,Vascular plants,Succisa pratensis,1.0,NISP,pollen,,6313.0,,,Radiocarbon years BP,160.0,210.0,pollen,6/30/2007,203.0,0.492610837438
+3063,Coire Bog,57.85,-4.416667,57.85,57.85,-4.416667,-4.416667,Vascular plants,Succisa pratensis,1.0,NISP,pollen,,6957.0,,,Radiocarbon years BP,240.0,259.0,pollen,6/30/2007,248.0,0.403225806452
+3063,Coire Bog,57.85,-4.416667,57.85,57.85,-4.416667,-4.416667,Vascular plants,Succisa pratensis,1.0,NISP,pollen,,7093.0,,,Radiocarbon years BP,270.0,259.0,pollen,6/30/2007,747.0,0.133868808568
+3066,Cooran Lane,55.116667,-4.4,55.116667,55.116667,-4.4,-4.4,Vascular plants,Succisa pratensis,1.0,NISP,pollen,,,,,,10.0,274.0,pollen,6/30/2007,809.0,0.123609394314
+3066,Cooran Lane,55.116667,-4.4,55.116667,55.116667,-4.4,-4.4,Vascular plants,Succisa pratensis,1.0,NISP,pollen,,,,,,130.0,274.0,pollen,6/30/2007,1460.0,0.0684931506849
+3066,Cooran Lane,55.116667,-4.4,55.116667,55.116667,-4.4,-4.4,Vascular plants,Succisa pratensis,2.0,NISP,pollen,,,,,,135.0,274.0,pollen,6/30/2007,1306.0,0.153139356815
+3066,Cooran Lane,55.116667,-4.4,55.116667,55.116667,-4.4,-4.4,Vascular plants,Succisa pratensis,1.0,NISP,pollen,,,,,,150.0,274.0,pollen,6/30/2007,742.0,0.134770889488
+3066,Cooran Lane,55.116667,-4.4,55.116667,55.116667,-4.4,-4.4,Vascular plants,Succisa pratensis,1.0,NISP,pollen,,,,,,170.0,274.0,pollen,6/30/2007,446.0,0.224215246637
+3087,Loch Dungeon,55.116667,-4.316667,55.116667,55.116667,-4.316667,-4.316667,Vascular plants,Succisa pratensis,1.0,NISP,pollen,,,,,,114.0,396.0,pollen,6/30/2007,640.0,0.15625
+3087,Loch Dungeon,55.116667,-4.316667,55.116667,55.116667,-4.316667,-4.316667,Vascular plants,Succisa pratensis,1.0,NISP,pollen,,,,,,180.0,396.0,pollen,6/30/2007,885.5,0.112930547713
+3087,Loch Dungeon,55.116667,-4.316667,55.116667,55.116667,-4.316667,-4.316667,Vascular plants,Succisa pratensis,5.0,NISP,pollen,,,,,,184.0,396.0,pollen,6/30/2007,1269.0,0.394011032309
+3087,Loch Dungeon,55.116667,-4.316667,55.116667,55.116667,-4.316667,-4.316667,Vascular plants,Succisa pratensis,1.0,NISP,pollen,,,,,,185.0,396.0,pollen,6/30/2007,864.0,0.115740740741
+3087,Loch Dungeon,55.116667,-4.316667,55.116667,55.116667,-4.316667,-4.316667,Vascular plants,Succisa pratensis,2.0,NISP,pollen,,,,,,187.5,396.0,pollen,6/30/2007,857.0,0.233372228705
+3087,Loch Dungeon,55.116667,-4.316667,55.116667,55.116667,-4.316667,-4.316667,Vascular plants,Succisa pratensis,1.0,NISP,pollen,,,,,,190.0,396.0,pollen,6/30/2007,672.5,0.148698884758
+3087,Loch Dungeon,55.116667,-4.316667,55.116667,55.116667,-4.316667,-4.316667,Vascular plants,Succisa pratensis,4.0,NISP,pollen,,,,,,195.0,396.0,pollen,6/30/2007,1261.0,0.317208564631
+3087,Loch Dungeon,55.116667,-4.316667,55.116667,55.116667,-4.316667,-4.316667,Vascular plants,Succisa pratensis,4.0,NISP,pollen,,,,,,200.0,396.0,pollen,6/30/2007,765.5,0.522534291313
+3087,Loch Dungeon,55.116667,-4.316667,55.116667,55.116667,-4.316667,-4.316667,Vascular plants,Succisa pratensis,3.0,NISP,pollen,,,,,,205.0,396.0,pollen,6/30/2007,745.5,0.402414486922
+3087,Loch Dungeon,55.116667,-4.316667,55.116667,55.116667,-4.316667,-4.316667,Vascular plants,Succisa pratensis,4.0,NISP,pollen,,,,,,210.0,396.0,pollen,6/30/2007,712.0,0.561797752809
+3087,Loch Dungeon,55.116667,-4.316667,55.116667,55.116667,-4.316667,-4.316667,Vascular plants,Succisa pratensis,1.0,NISP,pollen,,,,,,220.0,396.0,pollen,6/30/2007,720.5,0.138792505205
+3087,Loch Dungeon,55.116667,-4.316667,55.116667,55.116667,-4.316667,-4.316667,Vascular plants,Succisa pratensis,2.0,NISP,pollen,,,,,,250.0,396.0,pollen,6/30/2007,702.5,0.284697508897
+3090,Dvur Ansov,48.791667,16.3875,48.791667,48.791667,16.3875,16.3875,Vascular plants,Succisa pratensis,1.0,NISP,pollen,,8305.0,,,Radiocarbon years BP,250.0,179.0,pollen,6/30/2007,623.0,0.16051364366
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Succisa pratensis,1.0,NISP,pollen,,7781.0,,,Radiocarbon years BP,470.0,135.0,pollen,6/30/2007,210.0,0.47619047619

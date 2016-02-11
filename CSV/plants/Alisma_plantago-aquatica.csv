@@ -1,0 +1,4 @@
+siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
+363,Le Marais St Boetien,49.616667,3.816667,49.616667,49.616667,3.816667,3.816667,Vascular plants,Alisma plantago-aquatica,1.0,NISP,pollen,,2117.0,,,Radiocarbon years BP,130.0,,pollen,6/30/2007,3162.0,0.0316255534472
+363,Le Marais St Boetien,49.616667,3.816667,49.616667,49.616667,3.816667,3.816667,Vascular plants,Alisma plantago-aquatica,1.0,NISP,pollen,,2240.0,,,Radiocarbon years BP,140.0,,pollen,6/30/2007,4064.0,0.0246062992126
+2990,Auneau,48.456111,1.793611,48.456111,48.456111,1.793611,1.793611,Vascular plants,Alisma plantago-aquatica,1.0,NISP,pollen,,772.0,,,Radiocarbon years BP,41.0,127.0,pollen,6/30/2007,1032.0,0.0968992248062

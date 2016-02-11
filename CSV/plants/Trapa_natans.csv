@@ -1,0 +1,26 @@
+siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
+1397,Kalistratikha Exposure,53.333333,83.25,53.333333,53.333333,83.25,83.25,Vascular plants,Trapa natans,1.0,NISP,pollen,,28608.0,,,Radiocarbon years BP,840.0,190.0,pollen,6/30/2007,54.0,1.85185185185
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Trapa natans,1.0,NISP,pollen,,,,,,655.0,989.0,pollen,6/30/2007,847.0,0.118063754427
+2980,Arkutino Lake,42.366667,27.733333,42.366667,42.366667,27.733333,27.733333,Vascular plants,Trapa natans,1.0,NISP,pollen,,1514.0,,,Radiocarbon years BP,130.0,0.0,pollen,6/30/2007,382.0,0.261780104712
+2980,Arkutino Lake,42.366667,27.733333,42.366667,42.366667,27.733333,27.733333,Vascular plants,Trapa natans,1.0,NISP,pollen,,2338.0,,,Radiocarbon years BP,213.0,0.0,pollen,6/30/2007,343.0,0.291545189504
+2980,Arkutino Lake,42.366667,27.733333,42.366667,42.366667,27.733333,27.733333,Vascular plants,Trapa natans,1.0,NISP,pollen,,2948.0,,,Radiocarbon years BP,277.0,0.0,pollen,6/30/2007,322.0,0.310559006211
+2980,Arkutino Lake,42.366667,27.733333,42.366667,42.366667,27.733333,27.733333,Vascular plants,Trapa natans,1.0,NISP,pollen,,3320.0,,,Radiocarbon years BP,317.0,0.0,pollen,6/30/2007,404.0,0.247524752475
+2980,Arkutino Lake,42.366667,27.733333,42.366667,42.366667,27.733333,27.733333,Vascular plants,Trapa natans,4.0,NISP,pollen,,3522.0,,,Radiocarbon years BP,339.0,0.0,pollen,6/30/2007,277.0,1.4440433213
+2980,Arkutino Lake,42.366667,27.733333,42.366667,42.366667,27.733333,27.733333,Vascular plants,Trapa natans,1.0,NISP,pollen,,3604.0,,,Radiocarbon years BP,348.0,0.0,pollen,6/30/2007,391.0,0.255754475703
+2980,Arkutino Lake,42.366667,27.733333,42.366667,42.366667,27.733333,27.733333,Vascular plants,Trapa natans,1.0,NISP,pollen,,3686.0,,,Radiocarbon years BP,357.0,0.0,pollen,6/30/2007,345.0,0.289855072464
+2980,Arkutino Lake,42.366667,27.733333,42.366667,42.366667,27.733333,27.733333,Vascular plants,Trapa natans,1.0,NISP,pollen,,3777.0,,,Radiocarbon years BP,367.0,0.0,pollen,6/30/2007,559.0,0.178890876565
+2980,Arkutino Lake,42.366667,27.733333,42.366667,42.366667,27.733333,27.733333,Vascular plants,Trapa natans,1.0,NISP,pollen,,4334.0,,,Radiocarbon years BP,429.0,0.0,pollen,6/30/2007,397.0,0.251889168766
+2980,Arkutino Lake,42.366667,27.733333,42.366667,42.366667,27.733333,27.733333,Vascular plants,Trapa natans,1.0,NISP,pollen,,4511.0,,,Radiocarbon years BP,449.0,0.0,pollen,6/30/2007,389.0,0.25706940874
+2980,Arkutino Lake,42.366667,27.733333,42.366667,42.366667,27.733333,27.733333,Vascular plants,Trapa natans,2.0,NISP,pollen,,4749.0,,,Radiocarbon years BP,476.0,0.0,pollen,6/30/2007,511.0,0.391389432485
+2980,Arkutino Lake,42.366667,27.733333,42.366667,42.366667,27.733333,27.733333,Vascular plants,Trapa natans,1.0,NISP,pollen,,5030.0,,,Radiocarbon years BP,508.0,0.0,pollen,6/30/2007,169.0,0.591715976331
+2980,Arkutino Lake,42.366667,27.733333,42.366667,42.366667,27.733333,27.733333,Vascular plants,Trapa natans,1.0,NISP,pollen,,5108.0,,,Radiocarbon years BP,517.0,0.0,pollen,6/30/2007,319.0,0.313479623824
+2980,Arkutino Lake,42.366667,27.733333,42.366667,42.366667,27.733333,27.733333,Vascular plants,Trapa natans,1.0,NISP,pollen,,5721.0,,,Radiocarbon years BP,588.0,0.0,pollen,6/30/2007,302.0,0.331125827815
+2980,Arkutino Lake,42.366667,27.733333,42.366667,42.366667,27.733333,27.733333,Vascular plants,Trapa natans,1.0,NISP,pollen,,6579.0,,,Radiocarbon years BP,689.0,0.0,pollen,6/30/2007,349.0,0.286532951289
+2980,Arkutino Lake,42.366667,27.733333,42.366667,42.366667,27.733333,27.733333,Vascular plants,Trapa natans,12.0,NISP,pollen,,6663.0,,,Radiocarbon years BP,699.0,0.0,pollen,6/30/2007,302.0,3.97350993377
+2980,Arkutino Lake,42.366667,27.733333,42.366667,42.366667,27.733333,27.733333,Vascular plants,Trapa natans,2.0,NISP,pollen,,6831.0,,,Radiocarbon years BP,719.0,0.0,pollen,6/30/2007,280.0,0.714285714286
+2980,Arkutino Lake,42.366667,27.733333,42.366667,42.366667,27.733333,27.733333,Vascular plants,Trapa natans,5.0,NISP,pollen,,6914.0,,,Radiocarbon years BP,729.0,0.0,pollen,6/30/2007,363.0,1.37741046832
+2980,Arkutino Lake,42.366667,27.733333,42.366667,42.366667,27.733333,27.733333,Vascular plants,Trapa natans,1.0,NISP,pollen,,7006.0,,,Radiocarbon years BP,740.0,0.0,pollen,6/30/2007,425.0,0.235294117647
+2980,Arkutino Lake,42.366667,27.733333,42.366667,42.366667,27.733333,27.733333,Vascular plants,Trapa natans,1.0,NISP,pollen,,7247.0,,,Radiocarbon years BP,769.0,0.0,pollen,6/30/2007,300.0,0.333333333333
+2980,Arkutino Lake,42.366667,27.733333,42.366667,42.366667,27.733333,27.733333,Vascular plants,Trapa natans,2.0,NISP,pollen,,7570.0,,,Radiocarbon years BP,808.0,0.0,pollen,6/30/2007,251.0,0.796812749004
+2980,Arkutino Lake,42.366667,27.733333,42.366667,42.366667,27.733333,27.733333,Vascular plants,Trapa natans,1.0,NISP,pollen,,7661.0,,,Radiocarbon years BP,819.0,0.0,pollen,6/30/2007,259.0,0.3861003861
+3005,Bellefontaine,46.575278,6.093056,46.575278,46.575278,6.093056,6.093056,Vascular plants,Trapa natans,1.0,NISP,pollen,,13555.0,,,Radiocarbon years BP,316.0,1093.0,pollen,6/30/2007,316.0,0.316455696203

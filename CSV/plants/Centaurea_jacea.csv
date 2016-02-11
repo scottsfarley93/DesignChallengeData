@@ -1,0 +1,4 @@
+siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
+363,Le Marais St Boetien,49.616667,3.816667,49.616667,49.616667,3.816667,3.816667,Vascular plants,Centaurea jacea,1.0,NISP,pollen,,1136.0,,,Radiocarbon years BP,50.0,,pollen,6/30/2007,1506.0,0.066401062417
+363,Le Marais St Boetien,49.616667,3.816667,49.616667,49.616667,3.816667,3.816667,Vascular plants,Centaurea jacea,1.0,NISP,pollen,,1381.0,,,Radiocarbon years BP,70.0,,pollen,6/30/2007,2209.0,0.0452693526483
+363,Le Marais St Boetien,49.616667,3.816667,49.616667,49.616667,3.816667,3.816667,Vascular plants,Centaurea jacea,1.0,NISP,pollen,,1504.0,,,Radiocarbon years BP,80.0,,pollen,6/30/2007,939.0,0.10649627263

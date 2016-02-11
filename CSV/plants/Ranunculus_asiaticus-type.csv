@@ -1,0 +1,2 @@
+siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
+2995,Balikh,36.516667,39.083333,36.516667,36.516667,39.083333,39.083333,Vascular plants,Ranunculus asiaticus-type,3.0,NISP,pollen,,,,,,200.0,,pollen,6/30/2007,1724.0,0.174013921114

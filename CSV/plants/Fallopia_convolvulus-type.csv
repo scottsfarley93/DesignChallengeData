@@ -1,0 +1,6 @@
+siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
+269,Billy's Lake,46.27058,-94.551555,46.27186,46.2693,-94.54948,-94.55363,Vascular plants,Fallopia convolvulus-type,1.0,NISP,pollen,,533.0,,,Radiocarbon years BP,246.0,383.0,pollen,6/30/2007,522.0,0.191570881226
+269,Billy's Lake,46.27058,-94.551555,46.27186,46.2693,-94.54948,-94.55363,Vascular plants,Fallopia convolvulus-type,1.0,NISP,pollen,,775.0,,,Radiocarbon years BP,264.0,383.0,pollen,6/30/2007,251.0,0.398406374502
+269,Billy's Lake,46.27058,-94.551555,46.27186,46.2693,-94.54948,-94.55363,Vascular plants,Fallopia convolvulus-type,1.0,NISP,pollen,,7736.0,,,Radiocarbon years BP,890.0,383.0,pollen,6/30/2007,221.0,0.452488687783
+830,Saint-Gabriel,46.275833,-73.475833,46.275833,46.275833,-73.475833,-73.475833,Vascular plants,Fallopia convolvulus-type,1.0,NISP,pollen,,7850.0,,,Radiocarbon years BP,685.0,250.0,pollen,6/30/2007,828.0,0.12077294686
+1814,Pogonia Bog Pond,45.03503,-93.6305,45.03619,45.03387,-93.62724,-93.63376,Vascular plants,Fallopia convolvulus-type,1.0,NISP,pollen,,-13.0,,,Radiocarbon years BP,3.0,292.0,pollen,6/30/2007,447.0,0.223713646532

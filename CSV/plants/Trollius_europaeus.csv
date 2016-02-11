@@ -1,0 +1,4 @@
+siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Trollius europaeus,1.0,NISP,pollen,,,,,,385.0,20.0,pollen,6/30/2007,741.0,0.134952766532
+3087,Loch Dungeon,55.116667,-4.316667,55.116667,55.116667,-4.316667,-4.316667,Vascular plants,Trollius europaeus,1.0,NISP,pollen,,,,,,30.0,396.0,pollen,6/30/2007,552.0,0.18115942029
+3087,Loch Dungeon,55.116667,-4.316667,55.116667,55.116667,-4.316667,-4.316667,Vascular plants,Trollius europaeus,1.0,NISP,pollen,,,,,,125.0,396.0,pollen,6/30/2007,505.5,0.197823936696

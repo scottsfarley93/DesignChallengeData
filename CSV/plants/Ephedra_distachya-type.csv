@@ -1,0 +1,2 @@
+siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Ephedra distachya-type,17.0,NISP,pollen,,10572.0,,,Radiocarbon years BP,700.0,350.0,pollen,6/30/2007,182.0,9.34065934066

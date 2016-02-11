@@ -1,0 +1,9 @@
+siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
+224,Ballybetagh,53.166667,-6.25,53.166667,53.166667,-6.25,-6.25,Vascular plants,Saxifraga aizoides,1.0,NISP,pollen,,10331.0,,,Radiocarbon years BP,205.0,250.0,pollen,6/30/2007,249.0,0.401606425703
+2965,Abernethy Forest,56.233333,-3.716667,56.233333,56.233333,-3.716667,-3.716667,Vascular plants,Saxifraga aizoides,2.0,NISP,pollen,,10084.0,,,Radiocarbon years BP,480.0,221.0,pollen,6/30/2007,291.0,0.687285223368
+2965,Abernethy Forest,56.233333,-3.716667,56.233333,56.233333,-3.716667,-3.716667,Vascular plants,Saxifraga aizoides,1.0,NISP,pollen,,10256.0,,,Radiocarbon years BP,485.0,221.0,pollen,6/30/2007,253.0,0.395256916996
+2965,Abernethy Forest,56.233333,-3.716667,56.233333,56.233333,-3.716667,-3.716667,Vascular plants,Saxifraga aizoides,1.0,NISP,pollen,,10428.0,,,Radiocarbon years BP,490.0,221.0,pollen,6/30/2007,330.0,0.30303030303
+2965,Abernethy Forest,56.233333,-3.716667,56.233333,56.233333,-3.716667,-3.716667,Vascular plants,Saxifraga aizoides,2.0,NISP,pollen,,10771.0,,,Radiocarbon years BP,500.0,221.0,pollen,6/30/2007,284.0,0.704225352113
+2965,Abernethy Forest,56.233333,-3.716667,56.233333,56.233333,-3.716667,-3.716667,Vascular plants,Saxifraga aizoides,1.0,NISP,pollen,,11115.0,,,Radiocarbon years BP,510.0,221.0,pollen,6/30/2007,256.0,0.390625
+2965,Abernethy Forest,56.233333,-3.716667,56.233333,56.233333,-3.716667,-3.716667,Vascular plants,Saxifraga aizoides,2.0,NISP,pollen,,12018.0,,,Radiocarbon years BP,545.0,221.0,pollen,6/30/2007,105.0,1.90476190476
+2965,Abernethy Forest,56.233333,-3.716667,56.233333,56.233333,-3.716667,-3.716667,Vascular plants,Saxifraga aizoides,2.0,NISP,pollen,,12147.0,,,Radiocarbon years BP,550.0,221.0,pollen,6/30/2007,96.0,2.08333333333

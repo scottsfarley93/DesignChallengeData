@@ -1,0 +1,76 @@
+siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
+220,Badaran-Yuryakhskoye Exposure,68.85,139.4,68.85,68.85,139.4,139.4,Vascular plants,Rhododendron tomentosum,9.0,NISP,pollen,,,,,Radiocarbon years BP,70.0,520.0,pollen,6/30/2007,317.0,2.83911671924
+2246,Salaa Exposure,69.102778,139.016667,69.102778,69.102778,139.016667,139.016667,Vascular plants,Rhododendron tomentosum,2.0,NISP,pollen,,,,,Radiocarbon years BP,50.0,470.0,pollen,6/30/2007,262.0,0.763358778626
+2246,Salaa Exposure,69.102778,139.016667,69.102778,69.102778,139.016667,139.016667,Vascular plants,Rhododendron tomentosum,11.0,NISP,pollen,,,,,Radiocarbon years BP,70.0,470.0,pollen,6/30/2007,459.0,2.39651416122
+2246,Salaa Exposure,69.102778,139.016667,69.102778,69.102778,139.016667,139.016667,Vascular plants,Rhododendron tomentosum,3.0,NISP,pollen,,,,,Radiocarbon years BP,80.0,470.0,pollen,6/30/2007,347.0,0.864553314121
+2246,Salaa Exposure,69.102778,139.016667,69.102778,69.102778,139.016667,139.016667,Vascular plants,Rhododendron tomentosum,2.0,NISP,pollen,,,,,Radiocarbon years BP,200.0,470.0,pollen,6/30/2007,304.0,0.657894736842
+3075,Czajkow,50.783333,21.283333,50.783333,50.783333,21.283333,21.283333,Vascular plants,Rhododendron tomentosum,5.0,NISP,pollen,,275.0,,,Radiocarbon years BP,55.0,206.0,pollen,6/30/2007,1181.0,0.423370025402
+3075,Czajkow,50.783333,21.283333,50.783333,50.783333,21.283333,21.283333,Vascular plants,Rhododendron tomentosum,2.0,NISP,pollen,,525.0,,,Radiocarbon years BP,105.0,206.0,pollen,6/30/2007,694.0,0.28818443804
+3075,Czajkow,50.783333,21.283333,50.783333,50.783333,21.283333,21.283333,Vascular plants,Rhododendron tomentosum,1.0,NISP,pollen,,1425.0,,,Radiocarbon years BP,285.0,206.0,pollen,6/30/2007,916.0,0.109170305677
+3075,Czajkow,50.783333,21.283333,50.783333,50.783333,21.283333,21.283333,Vascular plants,Rhododendron tomentosum,1.0,NISP,pollen,,1475.0,,,Radiocarbon years BP,295.0,206.0,pollen,6/30/2007,846.0,0.118203309693
+3075,Czajkow,50.783333,21.283333,50.783333,50.783333,21.283333,21.283333,Vascular plants,Rhododendron tomentosum,1.0,NISP,pollen,,1525.0,,,Radiocarbon years BP,305.0,206.0,pollen,6/30/2007,876.0,0.114155251142
+3075,Czajkow,50.783333,21.283333,50.783333,50.783333,21.283333,21.283333,Vascular plants,Rhododendron tomentosum,1.0,NISP,pollen,,10909.0,,,Radiocarbon years BP,865.0,206.0,pollen,6/30/2007,979.0,0.102145045965
+3075,Czajkow,50.783333,21.283333,50.783333,50.783333,21.283333,21.283333,Vascular plants,Rhododendron tomentosum,1.0,NISP,pollen,,745.0,,,Radiocarbon years BP,75.0,206.0,pollen,6/30/2007,500.0,0.2
+3075,Czajkow,50.783333,21.283333,50.783333,50.783333,21.283333,21.283333,Vascular plants,Rhododendron tomentosum,1.0,NISP,pollen,,798.0,,,Radiocarbon years BP,80.0,206.0,pollen,6/30/2007,496.0,0.201612903226
+3075,Czajkow,50.783333,21.283333,50.783333,50.783333,21.283333,21.283333,Vascular plants,Rhododendron tomentosum,1.0,NISP,pollen,,1862.0,,,Radiocarbon years BP,180.0,206.0,pollen,6/30/2007,499.0,0.200400801603
+3075,Czajkow,50.783333,21.283333,50.783333,50.783333,21.283333,21.283333,Vascular plants,Rhododendron tomentosum,1.0,NISP,pollen,,-540.0,,,Radiocarbon years BP,30.0,206.0,pollen,6/30/2007,795.0,0.125786163522
+3075,Czajkow,50.783333,21.283333,50.783333,50.783333,21.283333,21.283333,Vascular plants,Rhododendron tomentosum,3.0,NISP,pollen,,-210.0,,,Radiocarbon years BP,45.0,206.0,pollen,6/30/2007,789.0,0.380228136882
+3075,Czajkow,50.783333,21.283333,50.783333,50.783333,21.283333,21.283333,Vascular plants,Rhododendron tomentosum,3.0,NISP,pollen,,120.0,,,Radiocarbon years BP,60.0,206.0,pollen,6/30/2007,794.0,0.377833753149
+3075,Czajkow,50.783333,21.283333,50.783333,50.783333,21.283333,21.283333,Vascular plants,Rhododendron tomentosum,2.0,NISP,pollen,,230.0,,,Radiocarbon years BP,65.0,206.0,pollen,6/30/2007,587.0,0.340715502555
+3075,Czajkow,50.783333,21.283333,50.783333,50.783333,21.283333,21.283333,Vascular plants,Rhododendron tomentosum,1.0,NISP,pollen,,340.0,,,Radiocarbon years BP,70.0,206.0,pollen,6/30/2007,597.0,0.167504187605
+3075,Czajkow,50.783333,21.283333,50.783333,50.783333,21.283333,21.283333,Vascular plants,Rhododendron tomentosum,1.0,NISP,pollen,,560.0,,,Radiocarbon years BP,80.0,206.0,pollen,6/30/2007,595.0,0.168067226891
+3075,Czajkow,50.783333,21.283333,50.783333,50.783333,21.283333,21.283333,Vascular plants,Rhododendron tomentosum,1.0,NISP,pollen,,1110.0,,,Radiocarbon years BP,105.0,206.0,pollen,6/30/2007,576.0,0.173611111111
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Rhododendron tomentosum,1.0,NISP,pollen,,10538.0,,,Radiocarbon years BP,970.0,175.0,pollen,6/30/2007,1511.0,0.066181336863
+3166,Liptovsky Jan,49.041667,19.677778,49.041667,49.041667,19.677778,19.677778,Vascular plants,Rhododendron tomentosum,1.0,NISP,pollen,,12793.0,,,Radiocarbon years BP,610.0,660.0,pollen,6/30/2007,1137.0,0.0879507475814
+3170,Cervene Blato,48.85,14.933333,48.85,48.85,14.933333,14.933333,Vascular plants,Rhododendron tomentosum,2.0,NISP,pollen,,,,,,0.0,,pollen,6/30/2007,1040.0,0.192307692308
+3170,Cervene Blato,48.85,14.933333,48.85,48.85,14.933333,14.933333,Vascular plants,Rhododendron tomentosum,7.0,NISP,pollen,,,,,,5.0,,pollen,6/30/2007,766.0,0.913838120104
+3170,Cervene Blato,48.85,14.933333,48.85,48.85,14.933333,14.933333,Vascular plants,Rhododendron tomentosum,3.0,NISP,pollen,,,,,,10.0,,pollen,6/30/2007,870.0,0.344827586207
+3170,Cervene Blato,48.85,14.933333,48.85,48.85,14.933333,14.933333,Vascular plants,Rhododendron tomentosum,1.0,NISP,pollen,,,,,,30.0,,pollen,6/30/2007,774.0,0.129198966408
+3171,Borkovicka Blata,49.216667,14.9,49.216667,49.216667,14.9,14.9,Vascular plants,Rhododendron tomentosum,1.0,NISP,pollen,,,,,,0.0,,pollen,6/30/2007,664.0,0.150602409639
+3171,Borkovicka Blata,49.216667,14.9,49.216667,49.216667,14.9,14.9,Vascular plants,Rhododendron tomentosum,1.0,NISP,pollen,,,,,,15.0,,pollen,6/30/2007,640.0,0.15625
+3172,Brana,48.95,14.933333,48.95,48.95,14.933333,14.933333,Vascular plants,Rhododendron tomentosum,1.0,NISP,pollen,,3273.0,,,Radiocarbon years BP,165.0,,pollen,6/30/2007,599.0,0.16694490818
+3172,Brana,48.95,14.933333,48.95,48.95,14.933333,14.933333,Vascular plants,Rhododendron tomentosum,6.0,NISP,pollen,,3364.0,,,Radiocarbon years BP,170.0,,pollen,6/30/2007,732.0,0.819672131148
+3172,Brana,48.95,14.933333,48.95,48.95,14.933333,14.933333,Vascular plants,Rhododendron tomentosum,8.0,NISP,pollen,,3455.0,,,Radiocarbon years BP,175.0,,pollen,6/30/2007,608.0,1.31578947368
+3172,Brana,48.95,14.933333,48.95,48.95,14.933333,14.933333,Vascular plants,Rhododendron tomentosum,9.0,NISP,pollen,,3545.0,,,Radiocarbon years BP,180.0,,pollen,6/30/2007,546.0,1.64835164835
+3172,Brana,48.95,14.933333,48.95,48.95,14.933333,14.933333,Vascular plants,Rhododendron tomentosum,7.0,NISP,pollen,,3636.0,,,Radiocarbon years BP,185.0,,pollen,6/30/2007,703.0,0.99573257468
+3172,Brana,48.95,14.933333,48.95,48.95,14.933333,14.933333,Vascular plants,Rhododendron tomentosum,1.0,NISP,pollen,,3727.0,,,Radiocarbon years BP,190.0,,pollen,6/30/2007,605.0,0.165289256198
+3172,Brana,48.95,14.933333,48.95,48.95,14.933333,14.933333,Vascular plants,Rhododendron tomentosum,1.0,NISP,pollen,,3818.0,,,Radiocarbon years BP,195.0,,pollen,6/30/2007,882.0,0.113378684807
+3172,Brana,48.95,14.933333,48.95,48.95,14.933333,14.933333,Vascular plants,Rhododendron tomentosum,2.0,NISP,pollen,,3909.0,,,Radiocarbon years BP,200.0,,pollen,6/30/2007,673.0,0.297176820208
+3172,Brana,48.95,14.933333,48.95,48.95,14.933333,14.933333,Vascular plants,Rhododendron tomentosum,1.0,NISP,pollen,,4455.0,,,Radiocarbon years BP,230.0,,pollen,6/30/2007,500.0,0.2
+3172,Brana,48.95,14.933333,48.95,48.95,14.933333,14.933333,Vascular plants,Rhododendron tomentosum,1.0,NISP,pollen,,5000.0,,,Radiocarbon years BP,260.0,,pollen,6/30/2007,515.0,0.194174757282
+3172,Brana,48.95,14.933333,48.95,48.95,14.933333,14.933333,Vascular plants,Rhododendron tomentosum,1.0,NISP,pollen,,5091.0,,,Radiocarbon years BP,265.0,,pollen,6/30/2007,448.0,0.223214285714
+3172,Brana,48.95,14.933333,48.95,48.95,14.933333,14.933333,Vascular plants,Rhododendron tomentosum,1.0,NISP,pollen,,5182.0,,,Radiocarbon years BP,270.0,,pollen,6/30/2007,499.0,0.200400801603
+3172,Brana,48.95,14.933333,48.95,48.95,14.933333,14.933333,Vascular plants,Rhododendron tomentosum,8.0,NISP,pollen,,5636.0,,,Radiocarbon years BP,295.0,,pollen,6/30/2007,622.0,1.28617363344
+3441,Steklin,52.933333,18.983333,52.933333,52.933333,18.983333,18.983333,Vascular plants,Rhododendron tomentosum,1.0,NISP,pollen,,5768.0,,,Radiocarbon years BP,430.0,73.0,pollen,6/30/2007,945.0,0.10582010582
+3458,Tarnawa Wyzna,49.1,22.833333,49.1,49.1,22.833333,22.833333,Vascular plants,Rhododendron tomentosum,84.0,NISP,pollen,,0.0,,,Radiocarbon years BP,0.0,670.0,pollen,6/30/2007,2066.0,4.06582768635
+3458,Tarnawa Wyzna,49.1,22.833333,49.1,49.1,22.833333,22.833333,Vascular plants,Rhododendron tomentosum,90.0,NISP,pollen,,104.0,,,Radiocarbon years BP,10.0,670.0,pollen,6/30/2007,1701.0,5.29100529101
+3458,Tarnawa Wyzna,49.1,22.833333,49.1,49.1,22.833333,22.833333,Vascular plants,Rhododendron tomentosum,3.0,NISP,pollen,,207.0,,,Radiocarbon years BP,20.0,670.0,pollen,6/30/2007,1543.0,0.194426441996
+3458,Tarnawa Wyzna,49.1,22.833333,49.1,49.1,22.833333,22.833333,Vascular plants,Rhododendron tomentosum,18.0,NISP,pollen,,311.0,,,Radiocarbon years BP,30.0,670.0,pollen,6/30/2007,1333.0,1.3503375844
+3458,Tarnawa Wyzna,49.1,22.833333,49.1,49.1,22.833333,22.833333,Vascular plants,Rhododendron tomentosum,6.0,NISP,pollen,,414.0,,,Radiocarbon years BP,40.0,670.0,pollen,6/30/2007,1296.0,0.462962962963
+3458,Tarnawa Wyzna,49.1,22.833333,49.1,49.1,22.833333,22.833333,Vascular plants,Rhododendron tomentosum,5.0,NISP,pollen,,518.0,,,Radiocarbon years BP,50.0,670.0,pollen,6/30/2007,1195.0,0.418410041841
+3458,Tarnawa Wyzna,49.1,22.833333,49.1,49.1,22.833333,22.833333,Vascular plants,Rhododendron tomentosum,4.0,NISP,pollen,,621.0,,,Radiocarbon years BP,60.0,670.0,pollen,6/30/2007,1263.0,0.316706254949
+3458,Tarnawa Wyzna,49.1,22.833333,49.1,49.1,22.833333,22.833333,Vascular plants,Rhododendron tomentosum,2.0,NISP,pollen,,725.0,,,Radiocarbon years BP,70.0,670.0,pollen,6/30/2007,1201.0,0.166527893422
+3458,Tarnawa Wyzna,49.1,22.833333,49.1,49.1,22.833333,22.833333,Vascular plants,Rhododendron tomentosum,8.0,NISP,pollen,,898.0,,,Radiocarbon years BP,90.0,670.0,pollen,6/30/2007,1382.0,0.578871201158
+3458,Tarnawa Wyzna,49.1,22.833333,49.1,49.1,22.833333,22.833333,Vascular plants,Rhododendron tomentosum,10.0,NISP,pollen,,984.0,,,Radiocarbon years BP,100.0,670.0,pollen,6/30/2007,1176.0,0.850340136054
+3458,Tarnawa Wyzna,49.1,22.833333,49.1,49.1,22.833333,22.833333,Vascular plants,Rhododendron tomentosum,2.0,NISP,pollen,,1071.0,,,Radiocarbon years BP,110.0,670.0,pollen,6/30/2007,1118.0,0.178890876565
+3458,Tarnawa Wyzna,49.1,22.833333,49.1,49.1,22.833333,22.833333,Vascular plants,Rhododendron tomentosum,2.0,NISP,pollen,,1157.0,,,Radiocarbon years BP,120.0,670.0,pollen,6/30/2007,1178.0,0.169779286927
+3458,Tarnawa Wyzna,49.1,22.833333,49.1,49.1,22.833333,22.833333,Vascular plants,Rhododendron tomentosum,9.0,NISP,pollen,,1244.0,,,Radiocarbon years BP,130.0,670.0,pollen,6/30/2007,1124.0,0.800711743772
+3458,Tarnawa Wyzna,49.1,22.833333,49.1,49.1,22.833333,22.833333,Vascular plants,Rhododendron tomentosum,19.0,NISP,pollen,,1330.0,,,Radiocarbon years BP,140.0,670.0,pollen,6/30/2007,1096.0,1.73357664234
+3458,Tarnawa Wyzna,49.1,22.833333,49.1,49.1,22.833333,22.833333,Vascular plants,Rhododendron tomentosum,9.0,NISP,pollen,,1417.0,,,Radiocarbon years BP,150.0,670.0,pollen,6/30/2007,1227.0,0.733496332518
+3458,Tarnawa Wyzna,49.1,22.833333,49.1,49.1,22.833333,22.833333,Vascular plants,Rhododendron tomentosum,2.0,NISP,pollen,,1503.0,,,Radiocarbon years BP,160.0,670.0,pollen,6/30/2007,1138.0,0.175746924429
+3458,Tarnawa Wyzna,49.1,22.833333,49.1,49.1,22.833333,22.833333,Vascular plants,Rhododendron tomentosum,8.0,NISP,pollen,,1590.0,,,Radiocarbon years BP,170.0,670.0,pollen,6/30/2007,1231.0,0.649878147847
+3458,Tarnawa Wyzna,49.1,22.833333,49.1,49.1,22.833333,22.833333,Vascular plants,Rhododendron tomentosum,1.0,NISP,pollen,,1676.0,,,Radiocarbon years BP,180.0,670.0,pollen,6/30/2007,1212.0,0.0825082508251
+3458,Tarnawa Wyzna,49.1,22.833333,49.1,49.1,22.833333,22.833333,Vascular plants,Rhododendron tomentosum,3.0,NISP,pollen,,1763.0,,,Radiocarbon years BP,190.0,670.0,pollen,6/30/2007,1248.0,0.240384615385
+3458,Tarnawa Wyzna,49.1,22.833333,49.1,49.1,22.833333,22.833333,Vascular plants,Rhododendron tomentosum,10.0,NISP,pollen,,1849.0,,,Radiocarbon years BP,200.0,670.0,pollen,6/30/2007,1159.0,0.862812769629
+3458,Tarnawa Wyzna,49.1,22.833333,49.1,49.1,22.833333,22.833333,Vascular plants,Rhododendron tomentosum,2.0,NISP,pollen,,1935.0,,,Radiocarbon years BP,210.0,670.0,pollen,6/30/2007,1179.0,0.169635284139
+3458,Tarnawa Wyzna,49.1,22.833333,49.1,49.1,22.833333,22.833333,Vascular plants,Rhododendron tomentosum,6.0,NISP,pollen,,2108.0,,,Radiocarbon years BP,230.0,670.0,pollen,6/30/2007,1100.0,0.545454545455
+3458,Tarnawa Wyzna,49.1,22.833333,49.1,49.1,22.833333,22.833333,Vascular plants,Rhododendron tomentosum,6.0,NISP,pollen,,2195.0,,,Radiocarbon years BP,240.0,670.0,pollen,6/30/2007,1148.0,0.522648083624
+3458,Tarnawa Wyzna,49.1,22.833333,49.1,49.1,22.833333,22.833333,Vascular plants,Rhododendron tomentosum,4.0,NISP,pollen,,2368.0,,,Radiocarbon years BP,260.0,670.0,pollen,6/30/2007,1476.0,0.271002710027
+3458,Tarnawa Wyzna,49.1,22.833333,49.1,49.1,22.833333,22.833333,Vascular plants,Rhododendron tomentosum,1.0,NISP,pollen,,2454.0,,,Radiocarbon years BP,270.0,670.0,pollen,6/30/2007,1145.0,0.0873362445415
+3458,Tarnawa Wyzna,49.1,22.833333,49.1,49.1,22.833333,22.833333,Vascular plants,Rhododendron tomentosum,1.0,NISP,pollen,,2541.0,,,Radiocarbon years BP,280.0,670.0,pollen,6/30/2007,1064.0,0.093984962406
+3458,Tarnawa Wyzna,49.1,22.833333,49.1,49.1,22.833333,22.833333,Vascular plants,Rhododendron tomentosum,2.0,NISP,pollen,,2627.0,,,Radiocarbon years BP,290.0,670.0,pollen,6/30/2007,1073.0,0.186393289842
+3458,Tarnawa Wyzna,49.1,22.833333,49.1,49.1,22.833333,22.833333,Vascular plants,Rhododendron tomentosum,1.0,NISP,pollen,,2714.0,,,Radiocarbon years BP,300.0,670.0,pollen,6/30/2007,1167.0,0.0856898029135
+3458,Tarnawa Wyzna,49.1,22.833333,49.1,49.1,22.833333,22.833333,Vascular plants,Rhododendron tomentosum,2.0,NISP,pollen,,2800.0,,,Radiocarbon years BP,310.0,670.0,pollen,6/30/2007,1108.0,0.180505415162
+3458,Tarnawa Wyzna,49.1,22.833333,49.1,49.1,22.833333,22.833333,Vascular plants,Rhododendron tomentosum,2.0,NISP,pollen,,2944.0,,,Radiocarbon years BP,320.0,670.0,pollen,6/30/2007,1001.0,0.1998001998
+3458,Tarnawa Wyzna,49.1,22.833333,49.1,49.1,22.833333,22.833333,Vascular plants,Rhododendron tomentosum,1.0,NISP,pollen,,7881.0,,,Radiocarbon years BP,570.0,670.0,pollen,6/30/2007,820.0,0.121951219512
+3458,Tarnawa Wyzna,49.1,22.833333,49.1,49.1,22.833333,22.833333,Vascular plants,Rhododendron tomentosum,1.0,NISP,pollen,,10329.0,,,Radiocarbon years BP,670.0,670.0,pollen,6/30/2007,1129.0,0.088573959256

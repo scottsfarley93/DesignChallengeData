@@ -1,0 +1,851 @@
+siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
+351,Chany Lake,54.75,77.25,54.75,54.75,77.25,77.25,Vascular plants,Pinus sibirica,2.0,NISP,pollen,,,,,,10.0,120.0,pollen,6/30/2007,313.0,0.638977635783
+351,Chany Lake,54.75,77.25,54.75,54.75,77.25,77.25,Vascular plants,Pinus sibirica,8.0,NISP,pollen,,,,,,20.0,120.0,pollen,6/30/2007,348.0,2.29885057471
+351,Chany Lake,54.75,77.25,54.75,54.75,77.25,77.25,Vascular plants,Pinus sibirica,41.0,NISP,pollen,,,,,,40.0,120.0,pollen,6/30/2007,360.0,11.3888888889
+351,Chany Lake,54.75,77.25,54.75,54.75,77.25,77.25,Vascular plants,Pinus sibirica,28.0,NISP,pollen,,,,,,50.0,120.0,pollen,6/30/2007,496.0,5.64516129032
+351,Chany Lake,54.75,77.25,54.75,54.75,77.25,77.25,Vascular plants,Pinus sibirica,25.0,NISP,pollen,,,,,,60.0,120.0,pollen,6/30/2007,405.0,6.17283950617
+351,Chany Lake,54.75,77.25,54.75,54.75,77.25,77.25,Vascular plants,Pinus sibirica,35.0,NISP,pollen,,,,,,70.0,120.0,pollen,6/30/2007,441.0,7.93650793651
+351,Chany Lake,54.75,77.25,54.75,54.75,77.25,77.25,Vascular plants,Pinus sibirica,33.0,NISP,pollen,,,,,,80.0,120.0,pollen,6/30/2007,376.0,8.77659574468
+351,Chany Lake,54.75,77.25,54.75,54.75,77.25,77.25,Vascular plants,Pinus sibirica,2.0,NISP,pollen,,,,,,90.0,120.0,pollen,6/30/2007,450.0,0.444444444444
+351,Chany Lake,54.75,77.25,54.75,54.75,77.25,77.25,Vascular plants,Pinus sibirica,80.0,NISP,pollen,,,,,,100.0,120.0,pollen,6/30/2007,406.0,19.7044334975
+351,Chany Lake,54.75,77.25,54.75,54.75,77.25,77.25,Vascular plants,Pinus sibirica,5.0,NISP,pollen,,,,,,110.0,120.0,pollen,6/30/2007,321.0,1.55763239875
+351,Chany Lake,54.75,77.25,54.75,54.75,77.25,77.25,Vascular plants,Pinus sibirica,13.0,NISP,pollen,,,,,,120.0,120.0,pollen,6/30/2007,391.0,3.32480818414
+351,Chany Lake,54.75,77.25,54.75,54.75,77.25,77.25,Vascular plants,Pinus sibirica,35.0,NISP,pollen,,,,,,130.0,120.0,pollen,6/30/2007,378.0,9.25925925926
+351,Chany Lake,54.75,77.25,54.75,54.75,77.25,77.25,Vascular plants,Pinus sibirica,27.0,NISP,pollen,,,,,,140.0,120.0,pollen,6/30/2007,295.0,9.15254237288
+351,Chany Lake,54.75,77.25,54.75,54.75,77.25,77.25,Vascular plants,Pinus sibirica,54.0,NISP,pollen,,,,,,150.0,120.0,pollen,6/30/2007,393.0,13.7404580153
+351,Chany Lake,54.75,77.25,54.75,54.75,77.25,77.25,Vascular plants,Pinus sibirica,42.0,NISP,pollen,,,,,,160.0,120.0,pollen,6/30/2007,508.0,8.26771653543
+351,Chany Lake,54.75,77.25,54.75,54.75,77.25,77.25,Vascular plants,Pinus sibirica,21.0,NISP,pollen,,,,,,170.0,120.0,pollen,6/30/2007,526.0,3.99239543726
+351,Chany Lake,54.75,77.25,54.75,54.75,77.25,77.25,Vascular plants,Pinus sibirica,10.0,NISP,pollen,,,,,,180.0,120.0,pollen,6/30/2007,396.0,2.52525252525
+351,Chany Lake,54.75,77.25,54.75,54.75,77.25,77.25,Vascular plants,Pinus sibirica,25.0,NISP,pollen,,,,,,190.0,120.0,pollen,6/30/2007,345.0,7.24637681159
+351,Chany Lake,54.75,77.25,54.75,54.75,77.25,77.25,Vascular plants,Pinus sibirica,4.0,NISP,pollen,,,,,,200.0,120.0,pollen,6/30/2007,291.0,1.37457044674
+351,Chany Lake,54.75,77.25,54.75,54.75,77.25,77.25,Vascular plants,Pinus sibirica,25.0,NISP,pollen,,,,,,210.0,120.0,pollen,6/30/2007,370.0,6.75675675676
+351,Chany Lake,54.75,77.25,54.75,54.75,77.25,77.25,Vascular plants,Pinus sibirica,20.0,NISP,pollen,,,,,,220.0,120.0,pollen,6/30/2007,368.0,5.4347826087
+351,Chany Lake,54.75,77.25,54.75,54.75,77.25,77.25,Vascular plants,Pinus sibirica,6.0,NISP,pollen,,,,,,230.0,120.0,pollen,6/30/2007,347.0,1.72910662824
+351,Chany Lake,54.75,77.25,54.75,54.75,77.25,77.25,Vascular plants,Pinus sibirica,5.0,NISP,pollen,,,,,,240.0,120.0,pollen,6/30/2007,312.0,1.60256410256
+351,Chany Lake,54.75,77.25,54.75,54.75,77.25,77.25,Vascular plants,Pinus sibirica,5.0,NISP,pollen,,,,,,250.0,120.0,pollen,6/30/2007,356.0,1.40449438202
+351,Chany Lake,54.75,77.25,54.75,54.75,77.25,77.25,Vascular plants,Pinus sibirica,6.0,NISP,pollen,,,,,,260.0,120.0,pollen,6/30/2007,384.0,1.5625
+351,Chany Lake,54.75,77.25,54.75,54.75,77.25,77.25,Vascular plants,Pinus sibirica,6.0,NISP,pollen,,,,,,270.0,120.0,pollen,6/30/2007,400.0,1.5
+351,Chany Lake,54.75,77.25,54.75,54.75,77.25,77.25,Vascular plants,Pinus sibirica,7.0,NISP,pollen,,,,,,280.0,120.0,pollen,6/30/2007,386.0,1.81347150259
+351,Chany Lake,54.75,77.25,54.75,54.75,77.25,77.25,Vascular plants,Pinus sibirica,8.0,NISP,pollen,,,,,,290.0,120.0,pollen,6/30/2007,406.0,1.97044334975
+351,Chany Lake,54.75,77.25,54.75,54.75,77.25,77.25,Vascular plants,Pinus sibirica,72.0,NISP,pollen,,,,,,300.0,120.0,pollen,6/30/2007,442.0,16.2895927602
+351,Chany Lake,54.75,77.25,54.75,54.75,77.25,77.25,Vascular plants,Pinus sibirica,28.0,NISP,pollen,,,,,,310.0,120.0,pollen,6/30/2007,381.0,7.34908136483
+351,Chany Lake,54.75,77.25,54.75,54.75,77.25,77.25,Vascular plants,Pinus sibirica,10.0,NISP,pollen,,,,,,320.0,120.0,pollen,6/30/2007,318.0,3.14465408805
+351,Chany Lake,54.75,77.25,54.75,54.75,77.25,77.25,Vascular plants,Pinus sibirica,6.0,NISP,pollen,,,,,,330.0,120.0,pollen,6/30/2007,138.0,4.34782608696
+351,Chany Lake,54.75,77.25,54.75,54.75,77.25,77.25,Vascular plants,Pinus sibirica,4.0,NISP,pollen,,,,,,340.0,120.0,pollen,6/30/2007,417.0,0.959232613909
+357,"Chesnok Peat, Irtysh River",60.0,66.5,60.0,60.0,66.5,66.5,Vascular plants,Pinus sibirica,9.0,NISP,pollen,,333.0,,,Radiocarbon years BP,10.0,42.0,pollen,6/30/2007,369.0,2.43902439024
+357,"Chesnok Peat, Irtysh River",60.0,66.5,60.0,60.0,66.5,66.5,Vascular plants,Pinus sibirica,22.0,NISP,pollen,,578.0,,,Radiocarbon years BP,20.0,42.0,pollen,6/30/2007,600.0,3.66666666667
+357,"Chesnok Peat, Irtysh River",60.0,66.5,60.0,60.0,66.5,66.5,Vascular plants,Pinus sibirica,229.0,NISP,pollen,,822.0,,,Radiocarbon years BP,30.0,42.0,pollen,6/30/2007,798.0,28.6967418546
+357,"Chesnok Peat, Irtysh River",60.0,66.5,60.0,60.0,66.5,66.5,Vascular plants,Pinus sibirica,5.0,NISP,pollen,,1067.0,,,Radiocarbon years BP,40.0,42.0,pollen,6/30/2007,443.0,1.12866817156
+357,"Chesnok Peat, Irtysh River",60.0,66.5,60.0,60.0,66.5,66.5,Vascular plants,Pinus sibirica,10.0,NISP,pollen,,1312.0,,,Radiocarbon years BP,50.0,42.0,pollen,6/30/2007,665.0,1.5037593985
+357,"Chesnok Peat, Irtysh River",60.0,66.5,60.0,60.0,66.5,66.5,Vascular plants,Pinus sibirica,22.0,NISP,pollen,,1556.0,,,Radiocarbon years BP,60.0,42.0,pollen,6/30/2007,741.0,2.9689608637
+357,"Chesnok Peat, Irtysh River",60.0,66.5,60.0,60.0,66.5,66.5,Vascular plants,Pinus sibirica,27.0,NISP,pollen,,1801.0,,,Radiocarbon years BP,70.0,42.0,pollen,6/30/2007,775.0,3.48387096774
+357,"Chesnok Peat, Irtysh River",60.0,66.5,60.0,60.0,66.5,66.5,Vascular plants,Pinus sibirica,23.0,NISP,pollen,,2046.0,,,Radiocarbon years BP,80.0,42.0,pollen,6/30/2007,622.0,3.69774919614
+357,"Chesnok Peat, Irtysh River",60.0,66.5,60.0,60.0,66.5,66.5,Vascular plants,Pinus sibirica,8.0,NISP,pollen,,2290.0,,,Radiocarbon years BP,90.0,42.0,pollen,6/30/2007,481.0,1.6632016632
+357,"Chesnok Peat, Irtysh River",60.0,66.5,60.0,60.0,66.5,66.5,Vascular plants,Pinus sibirica,22.0,NISP,pollen,,2535.0,,,Radiocarbon years BP,100.0,42.0,pollen,6/30/2007,699.0,3.14735336195
+357,"Chesnok Peat, Irtysh River",60.0,66.5,60.0,60.0,66.5,66.5,Vascular plants,Pinus sibirica,21.0,NISP,pollen,,2910.0,,,Radiocarbon years BP,110.0,42.0,pollen,6/30/2007,593.0,3.5413153457
+357,"Chesnok Peat, Irtysh River",60.0,66.5,60.0,60.0,66.5,66.5,Vascular plants,Pinus sibirica,11.0,NISP,pollen,,3285.0,,,Radiocarbon years BP,120.0,42.0,pollen,6/30/2007,622.0,1.76848874598
+357,"Chesnok Peat, Irtysh River",60.0,66.5,60.0,60.0,66.5,66.5,Vascular plants,Pinus sibirica,14.0,NISP,pollen,,3660.0,,,Radiocarbon years BP,130.0,42.0,pollen,6/30/2007,600.0,2.33333333333
+357,"Chesnok Peat, Irtysh River",60.0,66.5,60.0,60.0,66.5,66.5,Vascular plants,Pinus sibirica,3.0,NISP,pollen,,4035.0,,,Radiocarbon years BP,140.0,42.0,pollen,6/30/2007,736.0,0.407608695652
+357,"Chesnok Peat, Irtysh River",60.0,66.5,60.0,60.0,66.5,66.5,Vascular plants,Pinus sibirica,1.0,NISP,pollen,,4410.0,,,Radiocarbon years BP,150.0,42.0,pollen,6/30/2007,998.0,0.100200400802
+357,"Chesnok Peat, Irtysh River",60.0,66.5,60.0,60.0,66.5,66.5,Vascular plants,Pinus sibirica,3.0,NISP,pollen,,4667.0,,,Radiocarbon years BP,160.0,42.0,pollen,6/30/2007,682.0,0.439882697947
+357,"Chesnok Peat, Irtysh River",60.0,66.5,60.0,60.0,66.5,66.5,Vascular plants,Pinus sibirica,1.0,NISP,pollen,,4924.0,,,Radiocarbon years BP,170.0,42.0,pollen,6/30/2007,726.0,0.137741046832
+357,"Chesnok Peat, Irtysh River",60.0,66.5,60.0,60.0,66.5,66.5,Vascular plants,Pinus sibirica,7.0,NISP,pollen,,5181.0,,,Radiocarbon years BP,180.0,42.0,pollen,6/30/2007,785.0,0.891719745223
+357,"Chesnok Peat, Irtysh River",60.0,66.5,60.0,60.0,66.5,66.5,Vascular plants,Pinus sibirica,3.0,NISP,pollen,,5438.0,,,Radiocarbon years BP,190.0,42.0,pollen,6/30/2007,845.0,0.355029585799
+357,"Chesnok Peat, Irtysh River",60.0,66.5,60.0,60.0,66.5,66.5,Vascular plants,Pinus sibirica,3.0,NISP,pollen,,5695.0,,,Radiocarbon years BP,200.0,42.0,pollen,6/30/2007,432.0,0.694444444444
+357,"Chesnok Peat, Irtysh River",60.0,66.5,60.0,60.0,66.5,66.5,Vascular plants,Pinus sibirica,2.0,NISP,pollen,,5842.0,,,Radiocarbon years BP,210.0,42.0,pollen,6/30/2007,695.0,0.287769784173
+357,"Chesnok Peat, Irtysh River",60.0,66.5,60.0,60.0,66.5,66.5,Vascular plants,Pinus sibirica,2.0,NISP,pollen,,5989.0,,,Radiocarbon years BP,220.0,42.0,pollen,6/30/2007,558.0,0.358422939068
+357,"Chesnok Peat, Irtysh River",60.0,66.5,60.0,60.0,66.5,66.5,Vascular plants,Pinus sibirica,1.0,NISP,pollen,,6881.0,,,Radiocarbon years BP,260.0,42.0,pollen,6/30/2007,327.0,0.305810397554
+357,"Chesnok Peat, Irtysh River",60.0,66.5,60.0,60.0,66.5,66.5,Vascular plants,Pinus sibirica,4.0,NISP,pollen,,8234.0,,,Radiocarbon years BP,290.0,42.0,pollen,6/30/2007,491.0,0.81466395112
+357,"Chesnok Peat, Irtysh River",60.0,66.5,60.0,60.0,66.5,66.5,Vascular plants,Pinus sibirica,1.0,NISP,pollen,,8685.0,,,Radiocarbon years BP,300.0,42.0,pollen,6/30/2007,153.0,0.653594771242
+357,"Chesnok Peat, Irtysh River",60.0,66.5,60.0,60.0,66.5,66.5,Vascular plants,Pinus sibirica,1.0,NISP,pollen,,9300.0,,,Radiocarbon years BP,350.0,42.0,pollen,6/30/2007,24.0,4.16666666667
+366,Chulym Exposure,57.75,84.0,57.75,57.75,84.0,84.0,Vascular plants,Pinus sibirica,7.0,NISP,pollen,,,,,,600.0,75.0,pollen,6/30/2007,266.0,2.63157894737
+366,Chulym Exposure,57.75,84.0,57.75,57.75,84.0,84.0,Vascular plants,Pinus sibirica,68.0,NISP,pollen,,,,,,1000.0,75.0,pollen,6/30/2007,251.0,27.0916334661
+366,Chulym Exposure,57.75,84.0,57.75,57.75,84.0,84.0,Vascular plants,Pinus sibirica,15.0,NISP,pollen,,,,,,1100.0,75.0,pollen,6/30/2007,324.0,4.62962962963
+366,Chulym Exposure,57.75,84.0,57.75,57.75,84.0,84.0,Vascular plants,Pinus sibirica,41.0,NISP,pollen,,,,,,1200.0,75.0,pollen,6/30/2007,244.0,16.8032786885
+366,Chulym Exposure,57.75,84.0,57.75,57.75,84.0,84.0,Vascular plants,Pinus sibirica,22.0,NISP,pollen,,,,,,1400.0,75.0,pollen,6/30/2007,87.0,25.2873563218
+366,Chulym Exposure,57.75,84.0,57.75,57.75,84.0,84.0,Vascular plants,Pinus sibirica,45.0,NISP,pollen,,,,,,1450.0,75.0,pollen,6/30/2007,332.0,13.5542168675
+366,Chulym Exposure,57.75,84.0,57.75,57.75,84.0,84.0,Vascular plants,Pinus sibirica,18.0,NISP,pollen,,,,,,1500.0,75.0,pollen,6/30/2007,310.0,5.8064516129
+366,Chulym Exposure,57.75,84.0,57.75,57.75,84.0,84.0,Vascular plants,Pinus sibirica,30.0,NISP,pollen,,,,,,1600.0,75.0,pollen,6/30/2007,293.0,10.2389078498
+366,Chulym Exposure,57.75,84.0,57.75,57.75,84.0,84.0,Vascular plants,Pinus sibirica,38.0,NISP,pollen,,,,,,1800.0,75.0,pollen,6/30/2007,248.0,15.3225806452
+366,Chulym Exposure,57.75,84.0,57.75,57.75,84.0,84.0,Vascular plants,Pinus sibirica,37.0,NISP,pollen,,,,,,1900.0,75.0,pollen,6/30/2007,317.0,11.6719242902
+366,Chulym Exposure,57.75,84.0,57.75,57.75,84.0,84.0,Vascular plants,Pinus sibirica,15.0,NISP,pollen,,,,,,2200.0,75.0,pollen,6/30/2007,107.0,14.0186915888
+366,Chulym Exposure,57.75,84.0,57.75,57.75,84.0,84.0,Vascular plants,Pinus sibirica,27.0,NISP,pollen,,,,,,2400.0,75.0,pollen,6/30/2007,220.0,12.2727272727
+366,Chulym Exposure,57.75,84.0,57.75,57.75,84.0,84.0,Vascular plants,Pinus sibirica,36.0,NISP,pollen,,,,,,2600.0,75.0,pollen,6/30/2007,190.0,18.9473684211
+366,Chulym Exposure,57.75,84.0,57.75,57.75,84.0,84.0,Vascular plants,Pinus sibirica,20.0,NISP,pollen,,,,,,2700.0,75.0,pollen,6/30/2007,196.0,10.2040816327
+366,Chulym Exposure,57.75,84.0,57.75,57.75,84.0,84.0,Vascular plants,Pinus sibirica,45.0,NISP,pollen,,,,,,2800.0,75.0,pollen,6/30/2007,266.0,16.9172932331
+662,Demyanskoye Exposure,59.5,69.5,59.5,59.5,69.5,69.5,Vascular plants,Pinus sibirica,15.0,NISP,pollen,,,,,,1140.0,65.0,pollen,6/30/2007,250.0,6.0
+662,Demyanskoye Exposure,59.5,69.5,59.5,59.5,69.5,69.5,Vascular plants,Pinus sibirica,24.0,NISP,pollen,,,,,,1420.0,65.0,pollen,6/30/2007,296.0,8.10810810811
+662,Demyanskoye Exposure,59.5,69.5,59.5,59.5,69.5,69.5,Vascular plants,Pinus sibirica,20.0,NISP,pollen,,,,,,1560.0,65.0,pollen,6/30/2007,295.0,6.77966101695
+662,Demyanskoye Exposure,59.5,69.5,59.5,59.5,69.5,69.5,Vascular plants,Pinus sibirica,41.0,NISP,pollen,,,,,,1660.0,65.0,pollen,6/30/2007,195.0,21.0256410256
+662,Demyanskoye Exposure,59.5,69.5,59.5,59.5,69.5,69.5,Vascular plants,Pinus sibirica,15.0,NISP,pollen,,,,,,1760.0,65.0,pollen,6/30/2007,251.0,5.97609561753
+662,Demyanskoye Exposure,59.5,69.5,59.5,59.5,69.5,69.5,Vascular plants,Pinus sibirica,30.0,NISP,pollen,,,,,,1860.0,65.0,pollen,6/30/2007,264.0,11.3636363636
+662,Demyanskoye Exposure,59.5,69.5,59.5,59.5,69.5,69.5,Vascular plants,Pinus sibirica,5.0,NISP,pollen,,,,,,1960.0,65.0,pollen,6/30/2007,80.0,6.25
+662,Demyanskoye Exposure,59.5,69.5,59.5,59.5,69.5,69.5,Vascular plants,Pinus sibirica,5.0,NISP,pollen,,,,,,2160.0,65.0,pollen,6/30/2007,286.0,1.74825174825
+662,Demyanskoye Exposure,59.5,69.5,59.5,59.5,69.5,69.5,Vascular plants,Pinus sibirica,20.0,NISP,pollen,,,,,,2260.0,65.0,pollen,6/30/2007,255.0,7.8431372549
+662,Demyanskoye Exposure,59.5,69.5,59.5,59.5,69.5,69.5,Vascular plants,Pinus sibirica,5.0,NISP,pollen,,,,,,2360.0,65.0,pollen,6/30/2007,179.0,2.79329608939
+662,Demyanskoye Exposure,59.5,69.5,59.5,59.5,69.5,69.5,Vascular plants,Pinus sibirica,86.0,NISP,pollen,,,,,,2460.0,65.0,pollen,6/30/2007,273.0,31.5018315018
+784,Entarnoye Peat Exposure,59.0,78.333333,59.0,59.0,78.333333,78.333333,Vascular plants,Pinus sibirica,23.0,NISP,pollen,,1038.0,,,Radiocarbon years BP,20.0,65.0,pollen,6/30/2007,851.0,2.7027027027
+784,Entarnoye Peat Exposure,59.0,78.333333,59.0,59.0,78.333333,78.333333,Vascular plants,Pinus sibirica,23.0,NISP,pollen,,1366.0,,,Radiocarbon years BP,40.0,65.0,pollen,6/30/2007,902.0,2.54988913525
+784,Entarnoye Peat Exposure,59.0,78.333333,59.0,59.0,78.333333,78.333333,Vascular plants,Pinus sibirica,11.0,NISP,pollen,,1695.0,,,Radiocarbon years BP,60.0,65.0,pollen,6/30/2007,586.0,1.8771331058
+784,Entarnoye Peat Exposure,59.0,78.333333,59.0,59.0,78.333333,78.333333,Vascular plants,Pinus sibirica,24.0,NISP,pollen,,2024.0,,,Radiocarbon years BP,80.0,65.0,pollen,6/30/2007,798.0,3.00751879699
+784,Entarnoye Peat Exposure,59.0,78.333333,59.0,59.0,78.333333,78.333333,Vascular plants,Pinus sibirica,67.0,NISP,pollen,,2279.0,,,Radiocarbon years BP,100.0,65.0,pollen,6/30/2007,746.0,8.98123324397
+784,Entarnoye Peat Exposure,59.0,78.333333,59.0,59.0,78.333333,78.333333,Vascular plants,Pinus sibirica,117.0,NISP,pollen,,2316.0,,,Radiocarbon years BP,120.0,65.0,pollen,6/30/2007,788.0,14.847715736
+784,Entarnoye Peat Exposure,59.0,78.333333,59.0,59.0,78.333333,78.333333,Vascular plants,Pinus sibirica,123.0,NISP,pollen,,2354.0,,,Radiocarbon years BP,140.0,65.0,pollen,6/30/2007,666.0,18.4684684685
+784,Entarnoye Peat Exposure,59.0,78.333333,59.0,59.0,78.333333,78.333333,Vascular plants,Pinus sibirica,109.0,NISP,pollen,,2391.0,,,Radiocarbon years BP,160.0,65.0,pollen,6/30/2007,602.0,18.1063122924
+784,Entarnoye Peat Exposure,59.0,78.333333,59.0,59.0,78.333333,78.333333,Vascular plants,Pinus sibirica,140.0,NISP,pollen,,2915.0,,,Radiocarbon years BP,180.0,65.0,pollen,6/30/2007,567.0,24.6913580247
+784,Entarnoye Peat Exposure,59.0,78.333333,59.0,59.0,78.333333,78.333333,Vascular plants,Pinus sibirica,48.0,NISP,pollen,,3601.0,,,Radiocarbon years BP,200.0,65.0,pollen,6/30/2007,732.0,6.55737704918
+784,Entarnoye Peat Exposure,59.0,78.333333,59.0,59.0,78.333333,78.333333,Vascular plants,Pinus sibirica,126.0,NISP,pollen,,4287.0,,,Radiocarbon years BP,220.0,65.0,pollen,6/30/2007,827.0,15.2357920193
+784,Entarnoye Peat Exposure,59.0,78.333333,59.0,59.0,78.333333,78.333333,Vascular plants,Pinus sibirica,125.0,NISP,pollen,,4973.0,,,Radiocarbon years BP,240.0,65.0,pollen,6/30/2007,859.0,14.5518044237
+784,Entarnoye Peat Exposure,59.0,78.333333,59.0,59.0,78.333333,78.333333,Vascular plants,Pinus sibirica,24.0,NISP,pollen,,5659.0,,,Radiocarbon years BP,260.0,65.0,pollen,6/30/2007,727.0,3.30123796424
+784,Entarnoye Peat Exposure,59.0,78.333333,59.0,59.0,78.333333,78.333333,Vascular plants,Pinus sibirica,63.0,NISP,pollen,,6345.0,,,Radiocarbon years BP,280.0,65.0,pollen,6/30/2007,639.0,9.85915492958
+784,Entarnoye Peat Exposure,59.0,78.333333,59.0,59.0,78.333333,78.333333,Vascular plants,Pinus sibirica,70.0,NISP,pollen,,6982.0,,,Radiocarbon years BP,300.0,65.0,pollen,6/30/2007,650.0,10.7692307692
+784,Entarnoye Peat Exposure,59.0,78.333333,59.0,59.0,78.333333,78.333333,Vascular plants,Pinus sibirica,75.0,NISP,pollen,,7472.0,,,Radiocarbon years BP,320.0,65.0,pollen,6/30/2007,628.0,11.9426751592
+784,Entarnoye Peat Exposure,59.0,78.333333,59.0,59.0,78.333333,78.333333,Vascular plants,Pinus sibirica,69.0,NISP,pollen,,7962.0,,,Radiocarbon years BP,340.0,65.0,pollen,6/30/2007,770.0,8.96103896104
+784,Entarnoye Peat Exposure,59.0,78.333333,59.0,59.0,78.333333,78.333333,Vascular plants,Pinus sibirica,143.0,NISP,pollen,,8451.0,,,Radiocarbon years BP,360.0,65.0,pollen,6/30/2007,784.0,18.2397959184
+784,Entarnoye Peat Exposure,59.0,78.333333,59.0,59.0,78.333333,78.333333,Vascular plants,Pinus sibirica,100.0,NISP,pollen,,8941.0,,,Radiocarbon years BP,380.0,65.0,pollen,6/30/2007,726.0,13.7741046832
+784,Entarnoye Peat Exposure,59.0,78.333333,59.0,59.0,78.333333,78.333333,Vascular plants,Pinus sibirica,125.0,NISP,pollen,,9430.0,,,Radiocarbon years BP,400.0,65.0,pollen,6/30/2007,661.0,18.9107413011
+784,Entarnoye Peat Exposure,59.0,78.333333,59.0,59.0,78.333333,78.333333,Vascular plants,Pinus sibirica,12.0,NISP,pollen,,9920.0,,,Radiocarbon years BP,420.0,65.0,pollen,6/30/2007,643.0,1.86625194401
+784,Entarnoye Peat Exposure,59.0,78.333333,59.0,59.0,78.333333,78.333333,Vascular plants,Pinus sibirica,56.0,NISP,pollen,,10410.0,,,Radiocarbon years BP,440.0,65.0,pollen,6/30/2007,669.0,8.37070254111
+784,Entarnoye Peat Exposure,59.0,78.333333,59.0,59.0,78.333333,78.333333,Vascular plants,Pinus sibirica,11.0,NISP,pollen,,13837.0,,,Radiocarbon years BP,580.0,65.0,pollen,6/30/2007,796.0,1.38190954774
+784,Entarnoye Peat Exposure,59.0,78.333333,59.0,59.0,78.333333,78.333333,Vascular plants,Pinus sibirica,5.0,NISP,pollen,,14326.0,,,Radiocarbon years BP,600.0,65.0,pollen,6/30/2007,672.0,0.744047619048
+847,Gladkoye Bog,55.0,83.333333,55.0,55.0,83.333333,83.333333,Vascular plants,Pinus sibirica,3.0,NISP,pollen,,370.0,,,Radiocarbon years BP,5.0,80.0,pollen,6/30/2007,735.0,0.408163265306
+847,Gladkoye Bog,55.0,83.333333,55.0,55.0,83.333333,83.333333,Vascular plants,Pinus sibirica,4.0,NISP,pollen,,445.0,,,Radiocarbon years BP,10.0,80.0,pollen,6/30/2007,899.0,0.444938820912
+847,Gladkoye Bog,55.0,83.333333,55.0,55.0,83.333333,83.333333,Vascular plants,Pinus sibirica,5.0,NISP,pollen,,595.0,,,Radiocarbon years BP,20.0,80.0,pollen,6/30/2007,863.0,0.579374275782
+847,Gladkoye Bog,55.0,83.333333,55.0,55.0,83.333333,83.333333,Vascular plants,Pinus sibirica,30.0,NISP,pollen,,1047.0,,,Radiocarbon years BP,50.0,80.0,pollen,6/30/2007,868.0,3.45622119816
+847,Gladkoye Bog,55.0,83.333333,55.0,55.0,83.333333,83.333333,Vascular plants,Pinus sibirica,10.0,NISP,pollen,,1272.0,,,Radiocarbon years BP,65.0,80.0,pollen,6/30/2007,393.0,2.54452926209
+847,Gladkoye Bog,55.0,83.333333,55.0,55.0,83.333333,83.333333,Vascular plants,Pinus sibirica,44.0,NISP,pollen,,1799.0,,,Radiocarbon years BP,100.0,80.0,pollen,6/30/2007,1025.0,4.29268292683
+847,Gladkoye Bog,55.0,83.333333,55.0,55.0,83.333333,83.333333,Vascular plants,Pinus sibirica,10.0,NISP,pollen,,1949.0,,,Radiocarbon years BP,110.0,80.0,pollen,6/30/2007,777.0,1.287001287
+847,Gladkoye Bog,55.0,83.333333,55.0,55.0,83.333333,83.333333,Vascular plants,Pinus sibirica,15.0,NISP,pollen,,2400.0,,,Radiocarbon years BP,140.0,80.0,pollen,6/30/2007,991.0,1.51362260343
+847,Gladkoye Bog,55.0,83.333333,55.0,55.0,83.333333,83.333333,Vascular plants,Pinus sibirica,3.0,NISP,pollen,,2551.0,,,Radiocarbon years BP,150.0,80.0,pollen,6/30/2007,842.0,0.356294536817
+847,Gladkoye Bog,55.0,83.333333,55.0,55.0,83.333333,83.333333,Vascular plants,Pinus sibirica,28.0,NISP,pollen,,2851.0,,,Radiocarbon years BP,170.0,80.0,pollen,6/30/2007,845.0,3.31360946746
+847,Gladkoye Bog,55.0,83.333333,55.0,55.0,83.333333,83.333333,Vascular plants,Pinus sibirica,10.0,NISP,pollen,,3002.0,,,Radiocarbon years BP,180.0,80.0,pollen,6/30/2007,675.0,1.48148148148
+847,Gladkoye Bog,55.0,83.333333,55.0,55.0,83.333333,83.333333,Vascular plants,Pinus sibirica,39.0,NISP,pollen,,3303.0,,,Radiocarbon years BP,200.0,80.0,pollen,6/30/2007,939.0,4.15335463259
+847,Gladkoye Bog,55.0,83.333333,55.0,55.0,83.333333,83.333333,Vascular plants,Pinus sibirica,29.0,NISP,pollen,,3453.0,,,Radiocarbon years BP,210.0,80.0,pollen,6/30/2007,935.0,3.10160427807
+847,Gladkoye Bog,55.0,83.333333,55.0,55.0,83.333333,83.333333,Vascular plants,Pinus sibirica,30.0,NISP,pollen,,3603.0,,,Radiocarbon years BP,220.0,80.0,pollen,6/30/2007,1097.0,2.73473108478
+847,Gladkoye Bog,55.0,83.333333,55.0,55.0,83.333333,83.333333,Vascular plants,Pinus sibirica,14.0,NISP,pollen,,4055.0,,,Radiocarbon years BP,250.0,80.0,pollen,6/30/2007,720.0,1.94444444444
+847,Gladkoye Bog,55.0,83.333333,55.0,55.0,83.333333,83.333333,Vascular plants,Pinus sibirica,29.0,NISP,pollen,,4205.0,,,Radiocarbon years BP,260.0,80.0,pollen,6/30/2007,901.0,3.21864594895
+847,Gladkoye Bog,55.0,83.333333,55.0,55.0,83.333333,83.333333,Vascular plants,Pinus sibirica,29.0,NISP,pollen,,4355.0,,,Radiocarbon years BP,270.0,80.0,pollen,6/30/2007,902.0,3.21507760532
+847,Gladkoye Bog,55.0,83.333333,55.0,55.0,83.333333,83.333333,Vascular plants,Pinus sibirica,7.0,NISP,pollen,,4656.0,,,Radiocarbon years BP,290.0,80.0,pollen,6/30/2007,840.0,0.833333333333
+847,Gladkoye Bog,55.0,83.333333,55.0,55.0,83.333333,83.333333,Vascular plants,Pinus sibirica,33.0,NISP,pollen,,4807.0,,,Radiocarbon years BP,300.0,80.0,pollen,6/30/2007,918.0,3.59477124183
+847,Gladkoye Bog,55.0,83.333333,55.0,55.0,83.333333,83.333333,Vascular plants,Pinus sibirica,14.0,NISP,pollen,,4957.0,,,Radiocarbon years BP,310.0,80.0,pollen,6/30/2007,950.0,1.47368421053
+847,Gladkoye Bog,55.0,83.333333,55.0,55.0,83.333333,83.333333,Vascular plants,Pinus sibirica,52.0,NISP,pollen,,5107.0,,,Radiocarbon years BP,320.0,80.0,pollen,6/30/2007,1100.0,4.72727272727
+847,Gladkoye Bog,55.0,83.333333,55.0,55.0,83.333333,83.333333,Vascular plants,Pinus sibirica,15.0,NISP,pollen,,5408.0,,,Radiocarbon years BP,340.0,80.0,pollen,6/30/2007,983.0,1.52594099695
+847,Gladkoye Bog,55.0,83.333333,55.0,55.0,83.333333,83.333333,Vascular plants,Pinus sibirica,21.0,NISP,pollen,,5559.0,,,Radiocarbon years BP,350.0,80.0,pollen,6/30/2007,1004.0,2.09163346614
+847,Gladkoye Bog,55.0,83.333333,55.0,55.0,83.333333,83.333333,Vascular plants,Pinus sibirica,10.0,NISP,pollen,,5709.0,,,Radiocarbon years BP,360.0,80.0,pollen,6/30/2007,819.0,1.221001221
+847,Gladkoye Bog,55.0,83.333333,55.0,55.0,83.333333,83.333333,Vascular plants,Pinus sibirica,15.0,NISP,pollen,,5859.0,,,Radiocarbon years BP,370.0,80.0,pollen,6/30/2007,971.0,1.54479917611
+847,Gladkoye Bog,55.0,83.333333,55.0,55.0,83.333333,83.333333,Vascular plants,Pinus sibirica,6.0,NISP,pollen,,6160.0,,,Radiocarbon years BP,390.0,80.0,pollen,6/30/2007,694.0,0.864553314121
+847,Gladkoye Bog,55.0,83.333333,55.0,55.0,83.333333,83.333333,Vascular plants,Pinus sibirica,13.0,NISP,pollen,,6461.0,,,Radiocarbon years BP,410.0,80.0,pollen,6/30/2007,744.0,1.74731182796
+847,Gladkoye Bog,55.0,83.333333,55.0,55.0,83.333333,83.333333,Vascular plants,Pinus sibirica,20.0,NISP,pollen,,7213.0,,,Radiocarbon years BP,460.0,80.0,pollen,6/30/2007,1014.0,1.97238658777
+847,Gladkoye Bog,55.0,83.333333,55.0,55.0,83.333333,83.333333,Vascular plants,Pinus sibirica,10.0,NISP,pollen,,7965.0,,,Radiocarbon years BP,510.0,80.0,pollen,6/30/2007,984.0,1.0162601626
+847,Gladkoye Bog,55.0,83.333333,55.0,55.0,83.333333,83.333333,Vascular plants,Pinus sibirica,5.0,NISP,pollen,,8116.0,,,Radiocarbon years BP,520.0,80.0,pollen,6/30/2007,1127.0,0.443655723159
+847,Gladkoye Bog,55.0,83.333333,55.0,55.0,83.333333,83.333333,Vascular plants,Pinus sibirica,4.0,NISP,pollen,,8416.0,,,Radiocarbon years BP,540.0,80.0,pollen,6/30/2007,1136.0,0.352112676056
+847,Gladkoye Bog,55.0,83.333333,55.0,55.0,83.333333,83.333333,Vascular plants,Pinus sibirica,8.0,NISP,pollen,,8868.0,,,Radiocarbon years BP,570.0,80.0,pollen,6/30/2007,949.0,0.842992623815
+847,Gladkoye Bog,55.0,83.333333,55.0,55.0,83.333333,83.333333,Vascular plants,Pinus sibirica,5.0,NISP,pollen,,9168.0,,,Radiocarbon years BP,590.0,80.0,pollen,6/30/2007,847.0,0.590318772137
+847,Gladkoye Bog,55.0,83.333333,55.0,55.0,83.333333,83.333333,Vascular plants,Pinus sibirica,20.0,NISP,pollen,,10372.0,,,Radiocarbon years BP,670.0,80.0,pollen,6/30/2007,913.0,2.19058050383
+847,Gladkoye Bog,55.0,83.333333,55.0,55.0,83.333333,83.333333,Vascular plants,Pinus sibirica,20.0,NISP,pollen,,10522.0,,,Radiocarbon years BP,680.0,80.0,pollen,6/30/2007,802.0,2.49376558603
+1108,Igarka Peat Exposure,67.666667,86.0,67.666667,67.666667,86.0,86.0,Vascular plants,Pinus sibirica,60.0,NISP,pollen,,4862.0,,,Radiocarbon years BP,5.0,45.0,pollen,6/30/2007,760.0,7.89473684211
+1108,Igarka Peat Exposure,67.666667,86.0,67.666667,67.666667,86.0,86.0,Vascular plants,Pinus sibirica,10.0,NISP,pollen,,5029.0,,,Radiocarbon years BP,10.0,45.0,pollen,6/30/2007,611.0,1.63666121113
+1108,Igarka Peat Exposure,67.666667,86.0,67.666667,67.666667,86.0,86.0,Vascular plants,Pinus sibirica,20.0,NISP,pollen,,5863.0,,,Radiocarbon years BP,35.0,45.0,pollen,6/30/2007,986.0,2.02839756592
+1397,Kalistratikha Exposure,53.333333,83.25,53.333333,53.333333,83.25,83.25,Vascular plants,Pinus sibirica,3.0,NISP,pollen,,26023.0,,,Radiocarbon years BP,780.0,190.0,pollen,6/30/2007,320.0,0.9375
+1397,Kalistratikha Exposure,53.333333,83.25,53.333333,53.333333,83.25,83.25,Vascular plants,Pinus sibirica,3.0,NISP,pollen,,27316.0,,,Radiocarbon years BP,810.0,190.0,pollen,6/30/2007,295.0,1.01694915254
+1397,Kalistratikha Exposure,53.333333,83.25,53.333333,53.333333,83.25,83.25,Vascular plants,Pinus sibirica,1.0,NISP,pollen,,33778.0,,,Radiocarbon years BP,960.0,190.0,pollen,6/30/2007,29.0,3.44827586207
+1397,Kalistratikha Exposure,53.333333,83.25,53.333333,53.333333,83.25,83.25,Vascular plants,Pinus sibirica,2.0,NISP,pollen,,35070.0,,,Radiocarbon years BP,990.0,190.0,pollen,6/30/2007,183.0,1.09289617486
+1404,Karginskii Cape Peat Exposure,70.0,85.0,70.0,70.0,85.0,85.0,Vascular plants,Pinus sibirica,17.0,NISP,pollen,,1546.0,,,Radiocarbon years BP,5.0,60.0,pollen,6/30/2007,508.0,3.34645669291
+1404,Karginskii Cape Peat Exposure,70.0,85.0,70.0,70.0,85.0,85.0,Vascular plants,Pinus sibirica,30.0,NISP,pollen,,2092.0,,,Radiocarbon years BP,10.0,60.0,pollen,6/30/2007,573.0,5.23560209424
+1404,Karginskii Cape Peat Exposure,70.0,85.0,70.0,70.0,85.0,85.0,Vascular plants,Pinus sibirica,18.0,NISP,pollen,,3970.0,,,Radiocarbon years BP,30.0,60.0,pollen,6/30/2007,521.0,3.45489443378
+1404,Karginskii Cape Peat Exposure,70.0,85.0,70.0,70.0,85.0,85.0,Vascular plants,Pinus sibirica,5.0,NISP,pollen,,4375.0,,,Radiocarbon years BP,57.0,60.0,pollen,6/30/2007,285.0,1.75438596491
+1404,Karginskii Cape Peat Exposure,70.0,85.0,70.0,70.0,85.0,85.0,Vascular plants,Pinus sibirica,5.0,NISP,pollen,,5347.0,,,Radiocarbon years BP,90.0,60.0,pollen,6/30/2007,371.0,1.34770889488
+1404,Karginskii Cape Peat Exposure,70.0,85.0,70.0,70.0,85.0,85.0,Vascular plants,Pinus sibirica,10.0,NISP,pollen,,5456.0,,,Radiocarbon years BP,110.0,60.0,pollen,6/30/2007,282.0,3.54609929078
+1404,Karginskii Cape Peat Exposure,70.0,85.0,70.0,70.0,85.0,85.0,Vascular plants,Pinus sibirica,21.0,NISP,pollen,,7497.0,,,Radiocarbon years BP,165.0,60.0,pollen,6/30/2007,458.0,4.58515283843
+1404,Karginskii Cape Peat Exposure,70.0,85.0,70.0,70.0,85.0,85.0,Vascular plants,Pinus sibirica,35.0,NISP,pollen,,7871.0,,,Radiocarbon years BP,170.0,60.0,pollen,6/30/2007,406.0,8.62068965517
+1405,Kargopolovo Exposure,55.0,83.0,55.0,55.0,83.0,83.0,Vascular plants,Pinus sibirica,30.0,NISP,pollen,,109.0,,,Radiocarbon years BP,50.0,75.0,pollen,6/30/2007,348.0,8.62068965517
+1405,Kargopolovo Exposure,55.0,83.0,55.0,55.0,83.0,83.0,Vascular plants,Pinus sibirica,55.0,NISP,pollen,,164.0,,,Radiocarbon years BP,75.0,75.0,pollen,6/30/2007,454.0,12.1145374449
+1405,Kargopolovo Exposure,55.0,83.0,55.0,55.0,83.0,83.0,Vascular plants,Pinus sibirica,18.0,NISP,pollen,,219.0,,,Radiocarbon years BP,100.0,75.0,pollen,6/30/2007,335.0,5.37313432836
+1405,Kargopolovo Exposure,55.0,83.0,55.0,55.0,83.0,83.0,Vascular plants,Pinus sibirica,31.0,NISP,pollen,,328.0,,,Radiocarbon years BP,150.0,75.0,pollen,6/30/2007,379.0,8.17941952507
+1405,Kargopolovo Exposure,55.0,83.0,55.0,55.0,83.0,83.0,Vascular plants,Pinus sibirica,25.0,NISP,pollen,,394.0,,,Radiocarbon years BP,180.0,75.0,pollen,6/30/2007,391.0,6.39386189258
+1405,Kargopolovo Exposure,55.0,83.0,55.0,55.0,83.0,83.0,Vascular plants,Pinus sibirica,10.0,NISP,pollen,,438.0,,,Radiocarbon years BP,200.0,75.0,pollen,6/30/2007,252.0,3.96825396825
+1405,Kargopolovo Exposure,55.0,83.0,55.0,55.0,83.0,83.0,Vascular plants,Pinus sibirica,24.0,NISP,pollen,,638.0,,,Radiocarbon years BP,250.0,75.0,pollen,6/30/2007,367.0,6.53950953678
+1405,Kargopolovo Exposure,55.0,83.0,55.0,55.0,83.0,83.0,Vascular plants,Pinus sibirica,10.0,NISP,pollen,,1302.0,,,Radiocarbon years BP,300.0,75.0,pollen,6/30/2007,317.0,3.15457413249
+1405,Kargopolovo Exposure,55.0,83.0,55.0,55.0,83.0,83.0,Vascular plants,Pinus sibirica,24.0,NISP,pollen,,1515.0,,,Radiocarbon years BP,310.0,75.0,pollen,6/30/2007,298.0,8.05369127517
+1405,Kargopolovo Exposure,55.0,83.0,55.0,55.0,83.0,83.0,Vascular plants,Pinus sibirica,15.0,NISP,pollen,,2365.0,,,Radiocarbon years BP,350.0,75.0,pollen,6/30/2007,325.0,4.61538461538
+1405,Kargopolovo Exposure,55.0,83.0,55.0,55.0,83.0,83.0,Vascular plants,Pinus sibirica,15.0,NISP,pollen,,2790.0,,,Radiocarbon years BP,370.0,75.0,pollen,6/30/2007,463.0,3.23974082073
+1405,Kargopolovo Exposure,55.0,83.0,55.0,55.0,83.0,83.0,Vascular plants,Pinus sibirica,5.0,NISP,pollen,,3640.0,,,Radiocarbon years BP,410.0,75.0,pollen,6/30/2007,395.0,1.26582278481
+1405,Kargopolovo Exposure,55.0,83.0,55.0,55.0,83.0,83.0,Vascular plants,Pinus sibirica,9.0,NISP,pollen,,4065.0,,,Radiocarbon years BP,430.0,75.0,pollen,6/30/2007,226.0,3.98230088496
+1405,Kargopolovo Exposure,55.0,83.0,55.0,55.0,83.0,83.0,Vascular plants,Pinus sibirica,20.0,NISP,pollen,,4490.0,,,Radiocarbon years BP,450.0,75.0,pollen,6/30/2007,266.0,7.51879699248
+1405,Kargopolovo Exposure,55.0,83.0,55.0,55.0,83.0,83.0,Vascular plants,Pinus sibirica,12.0,NISP,pollen,,5552.0,,,Radiocarbon years BP,500.0,75.0,pollen,6/30/2007,270.0,4.44444444444
+1405,Kargopolovo Exposure,55.0,83.0,55.0,55.0,83.0,83.0,Vascular plants,Pinus sibirica,15.0,NISP,pollen,,6615.0,,,Radiocarbon years BP,550.0,75.0,pollen,6/30/2007,302.0,4.96688741722
+1407,Kayakskoye Zaimitschye,55.0,81.0,55.0,55.0,81.0,81.0,Vascular plants,Pinus sibirica,30.0,NISP,pollen,,612.0,,,Radiocarbon years BP,10.0,150.0,pollen,6/30/2007,1070.0,2.80373831776
+1407,Kayakskoye Zaimitschye,55.0,81.0,55.0,55.0,81.0,81.0,Vascular plants,Pinus sibirica,55.0,NISP,pollen,,724.0,,,Radiocarbon years BP,20.0,150.0,pollen,6/30/2007,936.0,5.87606837607
+1407,Kayakskoye Zaimitschye,55.0,81.0,55.0,55.0,81.0,81.0,Vascular plants,Pinus sibirica,60.0,NISP,pollen,,836.0,,,Radiocarbon years BP,30.0,150.0,pollen,6/30/2007,1459.0,4.11240575737
+1407,Kayakskoye Zaimitschye,55.0,81.0,55.0,55.0,81.0,81.0,Vascular plants,Pinus sibirica,40.0,NISP,pollen,,948.0,,,Radiocarbon years BP,40.0,150.0,pollen,6/30/2007,935.0,4.27807486631
+1407,Kayakskoye Zaimitschye,55.0,81.0,55.0,55.0,81.0,81.0,Vascular plants,Pinus sibirica,15.0,NISP,pollen,,1061.0,,,Radiocarbon years BP,50.0,150.0,pollen,6/30/2007,1096.0,1.36861313869
+1407,Kayakskoye Zaimitschye,55.0,81.0,55.0,55.0,81.0,81.0,Vascular plants,Pinus sibirica,60.0,NISP,pollen,,1173.0,,,Radiocarbon years BP,60.0,150.0,pollen,6/30/2007,1297.0,4.62606013878
+1407,Kayakskoye Zaimitschye,55.0,81.0,55.0,55.0,81.0,81.0,Vascular plants,Pinus sibirica,30.0,NISP,pollen,,1285.0,,,Radiocarbon years BP,70.0,150.0,pollen,6/30/2007,939.0,3.19488817891
+1407,Kayakskoye Zaimitschye,55.0,81.0,55.0,55.0,81.0,81.0,Vascular plants,Pinus sibirica,60.0,NISP,pollen,,1397.0,,,Radiocarbon years BP,80.0,150.0,pollen,6/30/2007,839.0,7.15137067938
+1407,Kayakskoye Zaimitschye,55.0,81.0,55.0,55.0,81.0,81.0,Vascular plants,Pinus sibirica,60.0,NISP,pollen,,1509.0,,,Radiocarbon years BP,90.0,150.0,pollen,6/30/2007,933.0,6.4308681672
+1407,Kayakskoye Zaimitschye,55.0,81.0,55.0,55.0,81.0,81.0,Vascular plants,Pinus sibirica,40.0,NISP,pollen,,1621.0,,,Radiocarbon years BP,100.0,150.0,pollen,6/30/2007,889.0,4.4994375703
+1407,Kayakskoye Zaimitschye,55.0,81.0,55.0,55.0,81.0,81.0,Vascular plants,Pinus sibirica,60.0,NISP,pollen,,1733.0,,,Radiocarbon years BP,110.0,150.0,pollen,6/30/2007,907.0,6.61521499449
+1407,Kayakskoye Zaimitschye,55.0,81.0,55.0,55.0,81.0,81.0,Vascular plants,Pinus sibirica,70.0,NISP,pollen,,1845.0,,,Radiocarbon years BP,120.0,150.0,pollen,6/30/2007,1011.0,6.92383778437
+1407,Kayakskoye Zaimitschye,55.0,81.0,55.0,55.0,81.0,81.0,Vascular plants,Pinus sibirica,40.0,NISP,pollen,,1958.0,,,Radiocarbon years BP,130.0,150.0,pollen,6/30/2007,606.0,6.60066006601
+1407,Kayakskoye Zaimitschye,55.0,81.0,55.0,55.0,81.0,81.0,Vascular plants,Pinus sibirica,30.0,NISP,pollen,,2070.0,,,Radiocarbon years BP,140.0,150.0,pollen,6/30/2007,888.0,3.37837837838
+1407,Kayakskoye Zaimitschye,55.0,81.0,55.0,55.0,81.0,81.0,Vascular plants,Pinus sibirica,30.0,NISP,pollen,,2182.0,,,Radiocarbon years BP,150.0,150.0,pollen,6/30/2007,412.0,7.28155339806
+1407,Kayakskoye Zaimitschye,55.0,81.0,55.0,55.0,81.0,81.0,Vascular plants,Pinus sibirica,10.0,NISP,pollen,,2294.0,,,Radiocarbon years BP,160.0,150.0,pollen,6/30/2007,540.0,1.85185185185
+1407,Kayakskoye Zaimitschye,55.0,81.0,55.0,55.0,81.0,81.0,Vascular plants,Pinus sibirica,17.0,NISP,pollen,,2438.0,,,Radiocarbon years BP,170.0,150.0,pollen,6/30/2007,627.0,2.71132376396
+1407,Kayakskoye Zaimitschye,55.0,81.0,55.0,55.0,81.0,81.0,Vascular plants,Pinus sibirica,10.0,NISP,pollen,,2614.0,,,Radiocarbon years BP,180.0,150.0,pollen,6/30/2007,560.0,1.78571428571
+1407,Kayakskoye Zaimitschye,55.0,81.0,55.0,55.0,81.0,81.0,Vascular plants,Pinus sibirica,16.0,NISP,pollen,,2790.0,,,Radiocarbon years BP,190.0,150.0,pollen,6/30/2007,672.0,2.38095238095
+1407,Kayakskoye Zaimitschye,55.0,81.0,55.0,55.0,81.0,81.0,Vascular plants,Pinus sibirica,17.0,NISP,pollen,,2966.0,,,Radiocarbon years BP,200.0,150.0,pollen,6/30/2007,912.0,1.86403508772
+1407,Kayakskoye Zaimitschye,55.0,81.0,55.0,55.0,81.0,81.0,Vascular plants,Pinus sibirica,35.0,NISP,pollen,,3142.0,,,Radiocarbon years BP,210.0,150.0,pollen,6/30/2007,541.0,6.46950092421
+1407,Kayakskoye Zaimitschye,55.0,81.0,55.0,55.0,81.0,81.0,Vascular plants,Pinus sibirica,25.0,NISP,pollen,,3494.0,,,Radiocarbon years BP,230.0,150.0,pollen,6/30/2007,449.0,5.56792873051
+1407,Kayakskoye Zaimitschye,55.0,81.0,55.0,55.0,81.0,81.0,Vascular plants,Pinus sibirica,10.0,NISP,pollen,,3670.0,,,Radiocarbon years BP,240.0,150.0,pollen,6/30/2007,393.0,2.54452926209
+1407,Kayakskoye Zaimitschye,55.0,81.0,55.0,55.0,81.0,81.0,Vascular plants,Pinus sibirica,3.0,NISP,pollen,,3846.0,,,Radiocarbon years BP,250.0,150.0,pollen,6/30/2007,427.0,0.702576112412
+1505,Komaritsa Peat Exposure,57.5,69.0,57.5,57.5,69.0,69.0,Vascular plants,Pinus sibirica,42.0,NISP,pollen,,180.0,,,Radiocarbon years BP,10.0,42.0,pollen,6/30/2007,681.0,6.16740088106
+1505,Komaritsa Peat Exposure,57.5,69.0,57.5,57.5,69.0,69.0,Vascular plants,Pinus sibirica,123.0,NISP,pollen,,360.0,,,Radiocarbon years BP,20.0,42.0,pollen,6/30/2007,854.0,14.4028103044
+1505,Komaritsa Peat Exposure,57.5,69.0,57.5,57.5,69.0,69.0,Vascular plants,Pinus sibirica,115.0,NISP,pollen,,1148.0,,,Radiocarbon years BP,55.0,42.0,pollen,6/30/2007,801.0,14.3570536829
+1505,Komaritsa Peat Exposure,57.5,69.0,57.5,57.5,69.0,69.0,Vascular plants,Pinus sibirica,120.0,NISP,pollen,,2630.0,,,Radiocarbon years BP,100.0,42.0,pollen,6/30/2007,586.0,20.4778156997
+1505,Komaritsa Peat Exposure,57.5,69.0,57.5,57.5,69.0,69.0,Vascular plants,Pinus sibirica,132.0,NISP,pollen,,2930.0,,,Radiocarbon years BP,125.0,42.0,pollen,6/30/2007,960.0,13.75
+1505,Komaritsa Peat Exposure,57.5,69.0,57.5,57.5,69.0,69.0,Vascular plants,Pinus sibirica,105.0,NISP,pollen,,3230.0,,,Radiocarbon years BP,150.0,42.0,pollen,6/30/2007,851.0,12.3384253819
+1505,Komaritsa Peat Exposure,57.5,69.0,57.5,57.5,69.0,69.0,Vascular plants,Pinus sibirica,100.0,NISP,pollen,,3470.0,,,Radiocarbon years BP,170.0,42.0,pollen,6/30/2007,869.0,11.5074798619
+1505,Komaritsa Peat Exposure,57.5,69.0,57.5,57.5,69.0,69.0,Vascular plants,Pinus sibirica,48.0,NISP,pollen,,3830.0,,,Radiocarbon years BP,200.0,42.0,pollen,6/30/2007,634.0,7.57097791798
+1505,Komaritsa Peat Exposure,57.5,69.0,57.5,57.5,69.0,69.0,Vascular plants,Pinus sibirica,30.0,NISP,pollen,,4150.0,,,Radiocarbon years BP,225.0,42.0,pollen,6/30/2007,574.0,5.22648083624
+1505,Komaritsa Peat Exposure,57.5,69.0,57.5,57.5,69.0,69.0,Vascular plants,Pinus sibirica,29.0,NISP,pollen,,4470.0,,,Radiocarbon years BP,250.0,42.0,pollen,6/30/2007,608.0,4.76973684211
+1505,Komaritsa Peat Exposure,57.5,69.0,57.5,57.5,69.0,69.0,Vascular plants,Pinus sibirica,60.0,NISP,pollen,,4660.0,,,Radiocarbon years BP,260.0,42.0,pollen,6/30/2007,895.0,6.70391061453
+1505,Komaritsa Peat Exposure,57.5,69.0,57.5,57.5,69.0,69.0,Vascular plants,Pinus sibirica,75.0,NISP,pollen,,4850.0,,,Radiocarbon years BP,270.0,42.0,pollen,6/30/2007,601.0,12.4792013311
+1505,Komaritsa Peat Exposure,57.5,69.0,57.5,57.5,69.0,69.0,Vascular plants,Pinus sibirica,60.0,NISP,pollen,,5040.0,,,Radiocarbon years BP,280.0,42.0,pollen,6/30/2007,345.0,17.3913043478
+1505,Komaritsa Peat Exposure,57.5,69.0,57.5,57.5,69.0,69.0,Vascular plants,Pinus sibirica,68.0,NISP,pollen,,5300.0,,,Radiocarbon years BP,300.0,42.0,pollen,6/30/2007,610.0,11.1475409836
+1505,Komaritsa Peat Exposure,57.5,69.0,57.5,57.5,69.0,69.0,Vascular plants,Pinus sibirica,40.0,NISP,pollen,,5430.0,,,Radiocarbon years BP,310.0,42.0,pollen,6/30/2007,503.0,7.95228628231
+1505,Komaritsa Peat Exposure,57.5,69.0,57.5,57.5,69.0,69.0,Vascular plants,Pinus sibirica,40.0,NISP,pollen,,5560.0,,,Radiocarbon years BP,320.0,42.0,pollen,6/30/2007,413.0,9.68523002421
+1505,Komaritsa Peat Exposure,57.5,69.0,57.5,57.5,69.0,69.0,Vascular plants,Pinus sibirica,35.0,NISP,pollen,,5690.0,,,Radiocarbon years BP,330.0,42.0,pollen,6/30/2007,464.0,7.54310344828
+1505,Komaritsa Peat Exposure,57.5,69.0,57.5,57.5,69.0,69.0,Vascular plants,Pinus sibirica,50.0,NISP,pollen,,5950.0,,,Radiocarbon years BP,350.0,42.0,pollen,6/30/2007,642.0,7.78816199377
+1505,Komaritsa Peat Exposure,57.5,69.0,57.5,57.5,69.0,69.0,Vascular plants,Pinus sibirica,68.0,NISP,pollen,,6480.0,,,Radiocarbon years BP,400.0,42.0,pollen,6/30/2007,704.0,9.65909090909
+1505,Komaritsa Peat Exposure,57.5,69.0,57.5,57.5,69.0,69.0,Vascular plants,Pinus sibirica,18.0,NISP,pollen,,6676.0,,,Radiocarbon years BP,410.0,42.0,pollen,6/30/2007,440.0,4.09090909091
+1505,Komaritsa Peat Exposure,57.5,69.0,57.5,57.5,69.0,69.0,Vascular plants,Pinus sibirica,10.0,NISP,pollen,,7068.0,,,Radiocarbon years BP,430.0,42.0,pollen,6/30/2007,340.0,2.94117647059
+1505,Komaritsa Peat Exposure,57.5,69.0,57.5,57.5,69.0,69.0,Vascular plants,Pinus sibirica,10.0,NISP,pollen,,7264.0,,,Radiocarbon years BP,440.0,42.0,pollen,6/30/2007,292.0,3.42465753425
+1505,Komaritsa Peat Exposure,57.5,69.0,57.5,57.5,69.0,69.0,Vascular plants,Pinus sibirica,20.0,NISP,pollen,,7460.0,,,Radiocarbon years BP,450.0,42.0,pollen,6/30/2007,292.0,6.84931506849
+1505,Komaritsa Peat Exposure,57.5,69.0,57.5,57.5,69.0,69.0,Vascular plants,Pinus sibirica,3.0,NISP,pollen,,8006.0,,,Radiocarbon years BP,470.0,42.0,pollen,6/30/2007,428.0,0.700934579439
+1505,Komaritsa Peat Exposure,57.5,69.0,57.5,57.5,69.0,69.0,Vascular plants,Pinus sibirica,1.0,NISP,pollen,,8883.0,,,Radiocarbon years BP,510.0,42.0,pollen,6/30/2007,171.0,0.584795321637
+1505,Komaritsa Peat Exposure,57.5,69.0,57.5,57.5,69.0,69.0,Vascular plants,Pinus sibirica,5.0,NISP,pollen,,8942.0,,,Radiocarbon years BP,520.0,42.0,pollen,6/30/2007,197.0,2.53807106599
+1505,Komaritsa Peat Exposure,57.5,69.0,57.5,57.5,69.0,69.0,Vascular plants,Pinus sibirica,6.0,NISP,pollen,,9000.0,,,Radiocarbon years BP,530.0,42.0,pollen,6/30/2007,199.0,3.01507537688
+1505,Komaritsa Peat Exposure,57.5,69.0,57.5,57.5,69.0,69.0,Vascular plants,Pinus sibirica,10.0,NISP,pollen,,9117.0,,,Radiocarbon years BP,550.0,42.0,pollen,6/30/2007,315.0,3.1746031746
+1626,Lukaschin Yar Peat Exposure,61.0,78.5,61.0,61.0,78.5,78.5,Vascular plants,Pinus sibirica,210.0,NISP,pollen,,553.0,,,Radiocarbon years BP,10.0,65.0,pollen,6/30/2007,1474.0,14.2469470828
+1626,Lukaschin Yar Peat Exposure,61.0,78.5,61.0,61.0,78.5,78.5,Vascular plants,Pinus sibirica,129.0,NISP,pollen,,1050.0,,,Radiocarbon years BP,20.0,65.0,pollen,6/30/2007,967.0,13.3402275078
+1626,Lukaschin Yar Peat Exposure,61.0,78.5,61.0,61.0,78.5,78.5,Vascular plants,Pinus sibirica,172.0,NISP,pollen,,1547.0,,,Radiocarbon years BP,30.0,65.0,pollen,6/30/2007,1208.0,14.238410596
+1626,Lukaschin Yar Peat Exposure,61.0,78.5,61.0,61.0,78.5,78.5,Vascular plants,Pinus sibirica,178.0,NISP,pollen,,2540.0,,,Radiocarbon years BP,50.0,65.0,pollen,6/30/2007,1202.0,14.8086522463
+1626,Lukaschin Yar Peat Exposure,61.0,78.5,61.0,61.0,78.5,78.5,Vascular plants,Pinus sibirica,202.0,NISP,pollen,,3037.0,,,Radiocarbon years BP,60.0,65.0,pollen,6/30/2007,1387.0,14.5638067772
+1626,Lukaschin Yar Peat Exposure,61.0,78.5,61.0,61.0,78.5,78.5,Vascular plants,Pinus sibirica,380.0,NISP,pollen,,3533.0,,,Radiocarbon years BP,70.0,65.0,pollen,6/30/2007,1627.0,23.3558696988
+1626,Lukaschin Yar Peat Exposure,61.0,78.5,61.0,61.0,78.5,78.5,Vascular plants,Pinus sibirica,119.0,NISP,pollen,,4459.0,,,Radiocarbon years BP,100.0,65.0,pollen,6/30/2007,1209.0,9.84284532672
+1626,Lukaschin Yar Peat Exposure,61.0,78.5,61.0,61.0,78.5,78.5,Vascular plants,Pinus sibirica,120.0,NISP,pollen,,4673.0,,,Radiocarbon years BP,110.0,65.0,pollen,6/30/2007,1086.0,11.0497237569
+1626,Lukaschin Yar Peat Exposure,61.0,78.5,61.0,61.0,78.5,78.5,Vascular plants,Pinus sibirica,80.0,NISP,pollen,,5202.0,,,Radiocarbon years BP,130.0,65.0,pollen,6/30/2007,1133.0,7.06090026478
+1626,Lukaschin Yar Peat Exposure,61.0,78.5,61.0,61.0,78.5,78.5,Vascular plants,Pinus sibirica,110.0,NISP,pollen,,6940.0,,,Radiocarbon years BP,150.0,65.0,pollen,6/30/2007,1507.0,7.29927007299
+1626,Lukaschin Yar Peat Exposure,61.0,78.5,61.0,61.0,78.5,78.5,Vascular plants,Pinus sibirica,100.0,NISP,pollen,,7082.0,,,Radiocarbon years BP,160.0,65.0,pollen,6/30/2007,1401.0,7.13775874375
+1626,Lukaschin Yar Peat Exposure,61.0,78.5,61.0,61.0,78.5,78.5,Vascular plants,Pinus sibirica,123.0,NISP,pollen,,7580.0,,,Radiocarbon years BP,180.0,65.0,pollen,6/30/2007,867.0,14.1868512111
+1626,Lukaschin Yar Peat Exposure,61.0,78.5,61.0,61.0,78.5,78.5,Vascular plants,Pinus sibirica,104.0,NISP,pollen,,7790.0,,,Radiocarbon years BP,210.0,65.0,pollen,6/30/2007,1438.0,7.23226703755
+1626,Lukaschin Yar Peat Exposure,61.0,78.5,61.0,61.0,78.5,78.5,Vascular plants,Pinus sibirica,76.0,NISP,pollen,,7986.0,,,Radiocarbon years BP,230.0,65.0,pollen,6/30/2007,1564.0,4.85933503836
+1626,Lukaschin Yar Peat Exposure,61.0,78.5,61.0,61.0,78.5,78.5,Vascular plants,Pinus sibirica,5.0,NISP,pollen,,8183.0,,,Radiocarbon years BP,250.0,65.0,pollen,6/30/2007,1516.0,0.32981530343
+1626,Lukaschin Yar Peat Exposure,61.0,78.5,61.0,61.0,78.5,78.5,Vascular plants,Pinus sibirica,10.0,NISP,pollen,,8470.0,,,Radiocarbon years BP,275.0,65.0,pollen,6/30/2007,1702.0,0.587544065805
+1626,Lukaschin Yar Peat Exposure,61.0,78.5,61.0,61.0,78.5,78.5,Vascular plants,Pinus sibirica,15.0,NISP,pollen,,8742.0,,,Radiocarbon years BP,290.0,65.0,pollen,6/30/2007,984.0,1.5243902439
+1626,Lukaschin Yar Peat Exposure,61.0,78.5,61.0,61.0,78.5,78.5,Vascular plants,Pinus sibirica,7.0,NISP,pollen,,8825.0,,,Radiocarbon years BP,300.0,65.0,pollen,6/30/2007,546.0,1.28205128205
+1626,Lukaschin Yar Peat Exposure,61.0,78.5,61.0,61.0,78.5,78.5,Vascular plants,Pinus sibirica,7.0,NISP,pollen,,8992.0,,,Radiocarbon years BP,320.0,65.0,pollen,6/30/2007,577.0,1.21317157712
+1626,Lukaschin Yar Peat Exposure,61.0,78.5,61.0,61.0,78.5,78.5,Vascular plants,Pinus sibirica,5.0,NISP,pollen,,9158.0,,,Radiocarbon years BP,340.0,65.0,pollen,6/30/2007,415.0,1.20481927711
+1626,Lukaschin Yar Peat Exposure,61.0,78.5,61.0,61.0,78.5,78.5,Vascular plants,Pinus sibirica,25.0,NISP,pollen,,9242.0,,,Radiocarbon years BP,350.0,65.0,pollen,6/30/2007,1160.0,2.15517241379
+1626,Lukaschin Yar Peat Exposure,61.0,78.5,61.0,61.0,78.5,78.5,Vascular plants,Pinus sibirica,42.0,NISP,pollen,,9492.0,,,Radiocarbon years BP,380.0,65.0,pollen,6/30/2007,1087.0,3.86384544618
+1752,Nizhnevartovskoye Exposure,61.25,77.0,61.25,61.25,77.0,77.0,Vascular plants,Pinus sibirica,510.0,NISP,pollen,,168.0,,,Radiocarbon years BP,10.0,55.0,pollen,6/30/2007,1139.0,44.776119403
+1752,Nizhnevartovskoye Exposure,61.25,77.0,61.25,61.25,77.0,77.0,Vascular plants,Pinus sibirica,510.0,NISP,pollen,,335.0,,,Radiocarbon years BP,20.0,55.0,pollen,6/30/2007,1113.0,45.8221024259
+1752,Nizhnevartovskoye Exposure,61.25,77.0,61.25,61.25,77.0,77.0,Vascular plants,Pinus sibirica,467.0,NISP,pollen,,503.0,,,Radiocarbon years BP,30.0,55.0,pollen,6/30/2007,1050.0,44.4761904762
+1752,Nizhnevartovskoye Exposure,61.25,77.0,61.25,61.25,77.0,77.0,Vascular plants,Pinus sibirica,425.0,NISP,pollen,,1077.0,,,Radiocarbon years BP,40.0,55.0,pollen,6/30/2007,957.0,44.4096133751
+1752,Nizhnevartovskoye Exposure,61.25,77.0,61.25,61.25,77.0,77.0,Vascular plants,Pinus sibirica,536.0,NISP,pollen,,1786.0,,,Radiocarbon years BP,50.0,55.0,pollen,6/30/2007,1025.0,52.2926829268
+1752,Nizhnevartovskoye Exposure,61.25,77.0,61.25,61.25,77.0,77.0,Vascular plants,Pinus sibirica,182.0,NISP,pollen,,2637.0,,,Radiocarbon years BP,62.0,55.0,pollen,6/30/2007,643.0,28.3048211509
+1752,Nizhnevartovskoye Exposure,61.25,77.0,61.25,61.25,77.0,77.0,Vascular plants,Pinus sibirica,364.0,NISP,pollen,,2944.0,,,Radiocarbon years BP,72.0,55.0,pollen,6/30/2007,893.0,40.7614781635
+1752,Nizhnevartovskoye Exposure,61.25,77.0,61.25,61.25,77.0,77.0,Vascular plants,Pinus sibirica,363.0,NISP,pollen,,3186.0,,,Radiocarbon years BP,90.0,55.0,pollen,6/30/2007,887.0,40.924464487
+1752,Nizhnevartovskoye Exposure,61.25,77.0,61.25,61.25,77.0,77.0,Vascular plants,Pinus sibirica,315.0,NISP,pollen,,3320.0,,,Radiocarbon years BP,100.0,55.0,pollen,6/30/2007,981.0,32.1100917431
+1752,Nizhnevartovskoye Exposure,61.25,77.0,61.25,61.25,77.0,77.0,Vascular plants,Pinus sibirica,297.0,NISP,pollen,,3683.0,,,Radiocarbon years BP,127.0,55.0,pollen,6/30/2007,879.0,33.7883959044
+1752,Nizhnevartovskoye Exposure,61.25,77.0,61.25,61.25,77.0,77.0,Vascular plants,Pinus sibirica,351.0,NISP,pollen,,4659.0,,,Radiocarbon years BP,152.0,55.0,pollen,6/30/2007,977.0,35.9263050154
+1752,Nizhnevartovskoye Exposure,61.25,77.0,61.25,61.25,77.0,77.0,Vascular plants,Pinus sibirica,6.0,NISP,pollen,,5036.0,,,Radiocarbon years BP,162.0,55.0,pollen,6/30/2007,772.0,0.777202072539
+1752,Nizhnevartovskoye Exposure,61.25,77.0,61.25,61.25,77.0,77.0,Vascular plants,Pinus sibirica,180.0,NISP,pollen,,5216.0,,,Radiocarbon years BP,172.0,55.0,pollen,6/30/2007,805.0,22.3602484472
+1752,Nizhnevartovskoye Exposure,61.25,77.0,61.25,61.25,77.0,77.0,Vascular plants,Pinus sibirica,315.0,NISP,pollen,,5396.0,,,Radiocarbon years BP,182.0,55.0,pollen,6/30/2007,956.0,32.949790795
+1752,Nizhnevartovskoye Exposure,61.25,77.0,61.25,61.25,77.0,77.0,Vascular plants,Pinus sibirica,20.0,NISP,pollen,,5576.0,,,Radiocarbon years BP,192.0,55.0,pollen,6/30/2007,932.0,2.14592274678
+1752,Nizhnevartovskoye Exposure,61.25,77.0,61.25,61.25,77.0,77.0,Vascular plants,Pinus sibirica,4.0,NISP,pollen,,5721.0,,,Radiocarbon years BP,200.0,55.0,pollen,6/30/2007,797.0,0.501882057716
+1752,Nizhnevartovskoye Exposure,61.25,77.0,61.25,61.25,77.0,77.0,Vascular plants,Pinus sibirica,80.0,NISP,pollen,,5937.0,,,Radiocarbon years BP,212.0,55.0,pollen,6/30/2007,961.0,8.32466181061
+1752,Nizhnevartovskoye Exposure,61.25,77.0,61.25,61.25,77.0,77.0,Vascular plants,Pinus sibirica,16.0,NISP,pollen,,6189.0,,,Radiocarbon years BP,225.0,55.0,pollen,6/30/2007,972.0,1.64609053498
+1752,Nizhnevartovskoye Exposure,61.25,77.0,61.25,61.25,77.0,77.0,Vascular plants,Pinus sibirica,10.0,NISP,pollen,,6672.0,,,Radiocarbon years BP,237.0,55.0,pollen,6/30/2007,525.0,1.90476190476
+1752,Nizhnevartovskoye Exposure,61.25,77.0,61.25,61.25,77.0,77.0,Vascular plants,Pinus sibirica,20.0,NISP,pollen,,7194.0,,,Radiocarbon years BP,250.0,55.0,pollen,6/30/2007,604.0,3.31125827815
+1752,Nizhnevartovskoye Exposure,61.25,77.0,61.25,61.25,77.0,77.0,Vascular plants,Pinus sibirica,30.0,NISP,pollen,,7676.0,,,Radiocarbon years BP,262.0,55.0,pollen,6/30/2007,604.0,4.96688741722
+1752,Nizhnevartovskoye Exposure,61.25,77.0,61.25,61.25,77.0,77.0,Vascular plants,Pinus sibirica,45.0,NISP,pollen,,8158.0,,,Radiocarbon years BP,274.0,55.0,pollen,6/30/2007,605.0,7.43801652893
+1752,Nizhnevartovskoye Exposure,61.25,77.0,61.25,61.25,77.0,77.0,Vascular plants,Pinus sibirica,34.0,NISP,pollen,,8546.0,,,Radiocarbon years BP,286.0,55.0,pollen,6/30/2007,526.0,6.463878327
+1752,Nizhnevartovskoye Exposure,61.25,77.0,61.25,61.25,77.0,77.0,Vascular plants,Pinus sibirica,16.0,NISP,pollen,,8093.0,,,Radiocarbon years BP,300.0,55.0,pollen,6/30/2007,607.0,2.63591433278
+1752,Nizhnevartovskoye Exposure,61.25,77.0,61.25,61.25,77.0,77.0,Vascular plants,Pinus sibirica,2.0,NISP,pollen,,8184.0,,,Radiocarbon years BP,312.0,55.0,pollen,6/30/2007,183.0,1.09289617486
+1752,Nizhnevartovskoye Exposure,61.25,77.0,61.25,61.25,77.0,77.0,Vascular plants,Pinus sibirica,10.0,NISP,pollen,,8353.0,,,Radiocarbon years BP,337.0,55.0,pollen,6/30/2007,433.0,2.30946882217
+1752,Nizhnevartovskoye Exposure,61.25,77.0,61.25,61.25,77.0,77.0,Vascular plants,Pinus sibirica,5.0,NISP,pollen,,8522.0,,,Radiocarbon years BP,362.0,55.0,pollen,6/30/2007,614.0,0.814332247557
+1752,Nizhnevartovskoye Exposure,61.25,77.0,61.25,61.25,77.0,77.0,Vascular plants,Pinus sibirica,5.0,NISP,pollen,,8604.0,,,Radiocarbon years BP,374.0,55.0,pollen,6/30/2007,438.0,1.14155251142
+1752,Nizhnevartovskoye Exposure,61.25,77.0,61.25,61.25,77.0,77.0,Vascular plants,Pinus sibirica,2.0,NISP,pollen,,8685.0,,,Radiocarbon years BP,386.0,55.0,pollen,6/30/2007,481.0,0.4158004158
+1752,Nizhnevartovskoye Exposure,61.25,77.0,61.25,61.25,77.0,77.0,Vascular plants,Pinus sibirica,2.0,NISP,pollen,,8780.0,,,Radiocarbon years BP,400.0,55.0,pollen,6/30/2007,794.0,0.251889168766
+1752,Nizhnevartovskoye Exposure,61.25,77.0,61.25,61.25,77.0,77.0,Vascular plants,Pinus sibirica,10.0,NISP,pollen,,8916.0,,,Radiocarbon years BP,420.0,55.0,pollen,6/30/2007,799.0,1.25156445557
+2523,Suminskoye Zaimitschye Peat Exposure,55.0,80.25,55.0,55.0,80.25,80.25,Vascular plants,Pinus sibirica,50.0,NISP,pollen,,369.0,,,Radiocarbon years BP,10.0,135.0,pollen,6/30/2007,844.0,5.92417061611
+2523,Suminskoye Zaimitschye Peat Exposure,55.0,80.25,55.0,55.0,80.25,80.25,Vascular plants,Pinus sibirica,15.0,NISP,pollen,,400.0,,,Radiocarbon years BP,20.0,135.0,pollen,6/30/2007,828.0,1.8115942029
+2523,Suminskoye Zaimitschye Peat Exposure,55.0,80.25,55.0,55.0,80.25,80.25,Vascular plants,Pinus sibirica,12.0,NISP,pollen,,447.0,,,Radiocarbon years BP,35.0,135.0,pollen,6/30/2007,799.0,1.50187734668
+2523,Suminskoye Zaimitschye Peat Exposure,55.0,80.25,55.0,55.0,80.25,80.25,Vascular plants,Pinus sibirica,75.0,NISP,pollen,,494.0,,,Radiocarbon years BP,50.0,135.0,pollen,6/30/2007,1118.0,6.7084078712
+2523,Suminskoye Zaimitschye Peat Exposure,55.0,80.25,55.0,55.0,80.25,80.25,Vascular plants,Pinus sibirica,70.0,NISP,pollen,,550.0,,,Radiocarbon years BP,68.0,135.0,pollen,6/30/2007,1079.0,6.4874884152
+2523,Suminskoye Zaimitschye Peat Exposure,55.0,80.25,55.0,55.0,80.25,80.25,Vascular plants,Pinus sibirica,60.0,NISP,pollen,,581.0,,,Radiocarbon years BP,78.0,135.0,pollen,6/30/2007,1027.0,5.84225900682
+2523,Suminskoye Zaimitschye Peat Exposure,55.0,80.25,55.0,55.0,80.25,80.25,Vascular plants,Pinus sibirica,21.0,NISP,pollen,,612.0,,,Radiocarbon years BP,88.0,135.0,pollen,6/30/2007,1080.0,1.94444444444
+2523,Suminskoye Zaimitschye Peat Exposure,55.0,80.25,55.0,55.0,80.25,80.25,Vascular plants,Pinus sibirica,24.0,NISP,pollen,,644.0,,,Radiocarbon years BP,98.0,135.0,pollen,6/30/2007,1081.0,2.22016651249
+2523,Suminskoye Zaimitschye Peat Exposure,55.0,80.25,55.0,55.0,80.25,80.25,Vascular plants,Pinus sibirica,15.0,NISP,pollen,,676.0,,,Radiocarbon years BP,108.0,135.0,pollen,6/30/2007,1093.0,1.37236962489
+2523,Suminskoye Zaimitschye Peat Exposure,55.0,80.25,55.0,55.0,80.25,80.25,Vascular plants,Pinus sibirica,9.0,NISP,pollen,,725.0,,,Radiocarbon years BP,123.0,135.0,pollen,6/30/2007,1273.0,0.706991358995
+2523,Suminskoye Zaimitschye Peat Exposure,55.0,80.25,55.0,55.0,80.25,80.25,Vascular plants,Pinus sibirica,20.0,NISP,pollen,,774.0,,,Radiocarbon years BP,138.0,135.0,pollen,6/30/2007,1220.0,1.6393442623
+2523,Suminskoye Zaimitschye Peat Exposure,55.0,80.25,55.0,55.0,80.25,80.25,Vascular plants,Pinus sibirica,40.0,NISP,pollen,,1003.0,,,Radiocarbon years BP,153.0,135.0,pollen,6/30/2007,1197.0,3.34168755221
+2523,Suminskoye Zaimitschye Peat Exposure,55.0,80.25,55.0,55.0,80.25,80.25,Vascular plants,Pinus sibirica,20.0,NISP,pollen,,1260.0,,,Radiocarbon years BP,168.0,135.0,pollen,6/30/2007,1083.0,1.84672206833
+2523,Suminskoye Zaimitschye Peat Exposure,55.0,80.25,55.0,55.0,80.25,80.25,Vascular plants,Pinus sibirica,24.0,NISP,pollen,,1438.0,,,Radiocarbon years BP,182.0,135.0,pollen,6/30/2007,1343.0,1.7870439315
+2523,Suminskoye Zaimitschye Peat Exposure,55.0,80.25,55.0,55.0,80.25,80.25,Vascular plants,Pinus sibirica,24.0,NISP,pollen,,1666.0,,,Radiocarbon years BP,200.0,135.0,pollen,6/30/2007,1234.0,1.94489465154
+2523,Suminskoye Zaimitschye Peat Exposure,55.0,80.25,55.0,55.0,80.25,80.25,Vascular plants,Pinus sibirica,90.0,NISP,pollen,,3650.0,,,Radiocarbon years BP,220.0,135.0,pollen,6/30/2007,1107.0,8.13008130081
+2558,Tolmachevsko-Krivodanovskii Peat,55.0,84.0,55.0,55.0,84.0,84.0,Vascular plants,Pinus sibirica,54.0,NISP,pollen,,1876.0,,,Radiocarbon years BP,90.0,110.0,pollen,6/30/2007,543.0,9.94475138122
+2558,Tolmachevsko-Krivodanovskii Peat,55.0,84.0,55.0,55.0,84.0,84.0,Vascular plants,Pinus sibirica,67.0,NISP,pollen,,2044.0,,,Radiocarbon years BP,100.0,110.0,pollen,6/30/2007,592.0,11.3175675676
+2558,Tolmachevsko-Krivodanovskii Peat,55.0,84.0,55.0,55.0,84.0,84.0,Vascular plants,Pinus sibirica,68.0,NISP,pollen,,2297.0,,,Radiocarbon years BP,115.0,110.0,pollen,6/30/2007,580.0,11.724137931
+2558,Tolmachevsko-Krivodanovskii Peat,55.0,84.0,55.0,55.0,84.0,84.0,Vascular plants,Pinus sibirica,45.0,NISP,pollen,,2549.0,,,Radiocarbon years BP,130.0,110.0,pollen,6/30/2007,576.0,7.8125
+2558,Tolmachevsko-Krivodanovskii Peat,55.0,84.0,55.0,55.0,84.0,84.0,Vascular plants,Pinus sibirica,63.0,NISP,pollen,,2802.0,,,Radiocarbon years BP,145.0,110.0,pollen,6/30/2007,522.0,12.0689655172
+2558,Tolmachevsko-Krivodanovskii Peat,55.0,84.0,55.0,55.0,84.0,84.0,Vascular plants,Pinus sibirica,63.0,NISP,pollen,,3067.0,,,Radiocarbon years BP,160.0,110.0,pollen,6/30/2007,434.0,14.5161290323
+2558,Tolmachevsko-Krivodanovskii Peat,55.0,84.0,55.0,55.0,84.0,84.0,Vascular plants,Pinus sibirica,24.0,NISP,pollen,,3357.0,,,Radiocarbon years BP,175.0,110.0,pollen,6/30/2007,474.0,5.06329113924
+2558,Tolmachevsko-Krivodanovskii Peat,55.0,84.0,55.0,55.0,84.0,84.0,Vascular plants,Pinus sibirica,24.0,NISP,pollen,,3647.0,,,Radiocarbon years BP,190.0,110.0,pollen,6/30/2007,611.0,3.92798690671
+2558,Tolmachevsko-Krivodanovskii Peat,55.0,84.0,55.0,55.0,84.0,84.0,Vascular plants,Pinus sibirica,23.0,NISP,pollen,,3840.0,,,Radiocarbon years BP,200.0,110.0,pollen,6/30/2007,397.0,5.79345088161
+2558,Tolmachevsko-Krivodanovskii Peat,55.0,84.0,55.0,55.0,84.0,84.0,Vascular plants,Pinus sibirica,21.0,NISP,pollen,,4252.0,,,Radiocarbon years BP,220.0,110.0,pollen,6/30/2007,488.0,4.30327868852
+2558,Tolmachevsko-Krivodanovskii Peat,55.0,84.0,55.0,55.0,84.0,84.0,Vascular plants,Pinus sibirica,44.0,NISP,pollen,,4664.0,,,Radiocarbon years BP,240.0,110.0,pollen,6/30/2007,459.0,9.58605664488
+2558,Tolmachevsko-Krivodanovskii Peat,55.0,84.0,55.0,55.0,84.0,84.0,Vascular plants,Pinus sibirica,47.0,NISP,pollen,,5108.0,,,Radiocarbon years BP,260.0,110.0,pollen,6/30/2007,467.0,10.0642398287
+2558,Tolmachevsko-Krivodanovskii Peat,55.0,84.0,55.0,55.0,84.0,84.0,Vascular plants,Pinus sibirica,46.0,NISP,pollen,,5584.0,,,Radiocarbon years BP,280.0,110.0,pollen,6/30/2007,559.0,8.228980322
+2558,Tolmachevsko-Krivodanovskii Peat,55.0,84.0,55.0,55.0,84.0,84.0,Vascular plants,Pinus sibirica,69.0,NISP,pollen,,6060.0,,,Radiocarbon years BP,300.0,110.0,pollen,6/30/2007,533.0,12.9455909944
+2558,Tolmachevsko-Krivodanovskii Peat,55.0,84.0,55.0,55.0,84.0,84.0,Vascular plants,Pinus sibirica,69.0,NISP,pollen,,6536.0,,,Radiocarbon years BP,320.0,110.0,pollen,6/30/2007,508.0,13.5826771654
+2558,Tolmachevsko-Krivodanovskii Peat,55.0,84.0,55.0,55.0,84.0,84.0,Vascular plants,Pinus sibirica,46.0,NISP,pollen,,7011.0,,,Radiocarbon years BP,340.0,110.0,pollen,6/30/2007,423.0,10.8747044917
+2558,Tolmachevsko-Krivodanovskii Peat,55.0,84.0,55.0,55.0,84.0,84.0,Vascular plants,Pinus sibirica,45.0,NISP,pollen,,7487.0,,,Radiocarbon years BP,360.0,110.0,pollen,6/30/2007,404.0,11.1386138614
+2558,Tolmachevsko-Krivodanovskii Peat,55.0,84.0,55.0,55.0,84.0,84.0,Vascular plants,Pinus sibirica,55.0,NISP,pollen,,7963.0,,,Radiocarbon years BP,380.0,110.0,pollen,6/30/2007,442.0,12.443438914
+2558,Tolmachevsko-Krivodanovskii Peat,55.0,84.0,55.0,55.0,84.0,84.0,Vascular plants,Pinus sibirica,68.0,NISP,pollen,,8439.0,,,Radiocarbon years BP,400.0,110.0,pollen,6/30/2007,450.0,15.1111111111
+2558,Tolmachevsko-Krivodanovskii Peat,55.0,84.0,55.0,55.0,84.0,84.0,Vascular plants,Pinus sibirica,65.0,NISP,pollen,,8915.0,,,Radiocarbon years BP,420.0,110.0,pollen,6/30/2007,558.0,11.6487455197
+2558,Tolmachevsko-Krivodanovskii Peat,55.0,84.0,55.0,55.0,84.0,84.0,Vascular plants,Pinus sibirica,42.0,NISP,pollen,,9391.0,,,Radiocarbon years BP,440.0,110.0,pollen,6/30/2007,468.0,8.97435897436
+2558,Tolmachevsko-Krivodanovskii Peat,55.0,84.0,55.0,55.0,84.0,84.0,Vascular plants,Pinus sibirica,68.0,NISP,pollen,,9867.0,,,Radiocarbon years BP,460.0,110.0,pollen,6/30/2007,509.0,13.3595284872
+2558,Tolmachevsko-Krivodanovskii Peat,55.0,84.0,55.0,55.0,84.0,84.0,Vascular plants,Pinus sibirica,54.0,NISP,pollen,,10342.0,,,Radiocarbon years BP,480.0,110.0,pollen,6/30/2007,521.0,10.3646833013
+2558,Tolmachevsko-Krivodanovskii Peat,55.0,84.0,55.0,55.0,84.0,84.0,Vascular plants,Pinus sibirica,42.0,NISP,pollen,,,,,Radiocarbon years BP,500.0,110.0,pollen,6/30/2007,430.0,9.76744186047
+2558,Tolmachevsko-Krivodanovskii Peat,55.0,84.0,55.0,55.0,84.0,84.0,Vascular plants,Pinus sibirica,16.0,NISP,pollen,,,,,Radiocarbon years BP,520.0,110.0,pollen,6/30/2007,487.0,3.28542094456
+2558,Tolmachevsko-Krivodanovskii Peat,55.0,84.0,55.0,55.0,84.0,84.0,Vascular plants,Pinus sibirica,44.0,NISP,pollen,,,,,Radiocarbon years BP,540.0,110.0,pollen,6/30/2007,630.0,6.98412698413
+2558,Tolmachevsko-Krivodanovskii Peat,55.0,84.0,55.0,55.0,84.0,84.0,Vascular plants,Pinus sibirica,7.0,NISP,pollen,,,,,Radiocarbon years BP,560.0,110.0,pollen,6/30/2007,488.0,1.43442622951
+2558,Tolmachevsko-Krivodanovskii Peat,55.0,84.0,55.0,55.0,84.0,84.0,Vascular plants,Pinus sibirica,36.0,NISP,pollen,,,,,Radiocarbon years BP,580.0,110.0,pollen,6/30/2007,507.0,7.10059171598
+2559,Tom' River Peat,56.166667,84.0,56.166667,56.166667,84.0,84.0,Vascular plants,Pinus sibirica,30.0,NISP,pollen,,120.0,,,Radiocarbon years BP,60.0,100.0,pollen,6/30/2007,234.0,12.8205128205
+2559,Tom' River Peat,56.166667,84.0,56.166667,56.166667,84.0,84.0,Vascular plants,Pinus sibirica,25.0,NISP,pollen,,164.0,,,Radiocarbon years BP,82.0,100.0,pollen,6/30/2007,381.0,6.56167979003
+2559,Tom' River Peat,56.166667,84.0,56.166667,56.166667,84.0,84.0,Vascular plants,Pinus sibirica,35.0,NISP,pollen,,200.0,,,Radiocarbon years BP,100.0,100.0,pollen,6/30/2007,362.0,9.66850828729
+2559,Tom' River Peat,56.166667,84.0,56.166667,56.166667,84.0,84.0,Vascular plants,Pinus sibirica,35.0,NISP,pollen,,393.0,,,Radiocarbon years BP,120.0,100.0,pollen,6/30/2007,478.0,7.32217573222
+2559,Tom' River Peat,56.166667,84.0,56.166667,56.166667,84.0,84.0,Vascular plants,Pinus sibirica,22.0,NISP,pollen,,529.0,,,Radiocarbon years BP,134.0,100.0,pollen,6/30/2007,478.0,4.60251046025
+2559,Tom' River Peat,56.166667,84.0,56.166667,56.166667,84.0,84.0,Vascular plants,Pinus sibirica,42.0,NISP,pollen,,683.0,,,Radiocarbon years BP,150.0,100.0,pollen,6/30/2007,546.0,7.69230769231
+2559,Tom' River Peat,56.166667,84.0,56.166667,56.166667,84.0,84.0,Vascular plants,Pinus sibirica,90.0,NISP,pollen,,865.0,,,Radiocarbon years BP,164.0,100.0,pollen,6/30/2007,660.0,13.6363636364
+2559,Tom' River Peat,56.166667,84.0,56.166667,56.166667,84.0,84.0,Vascular plants,Pinus sibirica,63.0,NISP,pollen,,1207.0,,,Radiocarbon years BP,180.0,100.0,pollen,6/30/2007,711.0,8.86075949367
+2559,Tom' River Peat,56.166667,84.0,56.166667,56.166667,84.0,84.0,Vascular plants,Pinus sibirica,96.0,NISP,pollen,,1420.0,,,Radiocarbon years BP,190.0,100.0,pollen,6/30/2007,643.0,14.9300155521
+2559,Tom' River Peat,56.166667,84.0,56.166667,56.166667,84.0,84.0,Vascular plants,Pinus sibirica,42.0,NISP,pollen,,1847.0,,,Radiocarbon years BP,210.0,100.0,pollen,6/30/2007,519.0,8.09248554913
+2559,Tom' River Peat,56.166667,84.0,56.166667,56.166667,84.0,84.0,Vascular plants,Pinus sibirica,90.0,NISP,pollen,,2273.0,,,Radiocarbon years BP,230.0,100.0,pollen,6/30/2007,564.0,15.9574468085
+2559,Tom' River Peat,56.166667,84.0,56.166667,56.166667,84.0,84.0,Vascular plants,Pinus sibirica,75.0,NISP,pollen,,2487.0,,,Radiocarbon years BP,240.0,100.0,pollen,6/30/2007,459.0,16.339869281
+2559,Tom' River Peat,56.166667,84.0,56.166667,56.166667,84.0,84.0,Vascular plants,Pinus sibirica,22.0,NISP,pollen,,2700.0,,,Radiocarbon years BP,250.0,100.0,pollen,6/30/2007,472.0,4.66101694915
+2559,Tom' River Peat,56.166667,84.0,56.166667,56.166667,84.0,84.0,Vascular plants,Pinus sibirica,20.0,NISP,pollen,,3420.0,,,Radiocarbon years BP,270.0,100.0,pollen,6/30/2007,444.0,4.5045045045
+2559,Tom' River Peat,56.166667,84.0,56.166667,56.166667,84.0,84.0,Vascular plants,Pinus sibirica,20.0,NISP,pollen,,4140.0,,,Radiocarbon years BP,290.0,100.0,pollen,6/30/2007,432.0,4.62962962963
+2559,Tom' River Peat,56.166667,84.0,56.166667,56.166667,84.0,84.0,Vascular plants,Pinus sibirica,72.0,NISP,pollen,,4500.0,,,Radiocarbon years BP,300.0,100.0,pollen,6/30/2007,558.0,12.9032258065
+2559,Tom' River Peat,56.166667,84.0,56.166667,56.166667,84.0,84.0,Vascular plants,Pinus sibirica,19.0,NISP,pollen,,5228.0,,,Radiocarbon years BP,310.0,100.0,pollen,6/30/2007,405.0,4.69135802469
+2559,Tom' River Peat,56.166667,84.0,56.166667,56.166667,84.0,84.0,Vascular plants,Pinus sibirica,56.0,NISP,pollen,,5956.0,,,Radiocarbon years BP,320.0,100.0,pollen,6/30/2007,544.0,10.2941176471
+2559,Tom' River Peat,56.166667,84.0,56.166667,56.166667,84.0,84.0,Vascular plants,Pinus sibirica,21.0,NISP,pollen,,6746.0,,,Radiocarbon years BP,330.0,100.0,pollen,6/30/2007,396.0,5.30303030303
+2559,Tom' River Peat,56.166667,84.0,56.166667,56.166667,84.0,84.0,Vascular plants,Pinus sibirica,90.0,NISP,pollen,,7598.0,,,Radiocarbon years BP,340.0,100.0,pollen,6/30/2007,698.0,12.893982808
+2559,Tom' River Peat,56.166667,84.0,56.166667,56.166667,84.0,84.0,Vascular plants,Pinus sibirica,7.0,NISP,pollen,,8450.0,,,Radiocarbon years BP,350.0,100.0,pollen,6/30/2007,361.0,1.93905817175
+2559,Tom' River Peat,56.166667,84.0,56.166667,56.166667,84.0,84.0,Vascular plants,Pinus sibirica,10.0,NISP,pollen,,9302.0,,,Radiocarbon years BP,360.0,100.0,pollen,6/30/2007,333.0,3.003003003
+2559,Tom' River Peat,56.166667,84.0,56.166667,56.166667,84.0,84.0,Vascular plants,Pinus sibirica,36.0,NISP,pollen,,10154.0,,,Radiocarbon years BP,370.0,100.0,pollen,6/30/2007,461.0,7.80911062907
+2559,Tom' River Peat,56.166667,84.0,56.166667,56.166667,84.0,84.0,Vascular plants,Pinus sibirica,22.0,NISP,pollen,,11006.0,,,Radiocarbon years BP,380.0,100.0,pollen,6/30/2007,295.0,7.45762711864
+2559,Tom' River Peat,56.166667,84.0,56.166667,56.166667,84.0,84.0,Vascular plants,Pinus sibirica,36.0,NISP,pollen,,11858.0,,,Radiocarbon years BP,390.0,100.0,pollen,6/30/2007,447.0,8.05369127517
+2950,Zagvozdino Exposure,57.75,71.416667,57.75,57.75,71.416667,71.416667,Vascular plants,Pinus sibirica,87.0,NISP,pollen,,,,,Radiocarbon years BP,400.0,65.0,pollen,6/30/2007,823.0,10.5710814095
+2950,Zagvozdino Exposure,57.75,71.416667,57.75,57.75,71.416667,71.416667,Vascular plants,Pinus sibirica,40.0,NISP,pollen,,,,,Radiocarbon years BP,500.0,65.0,pollen,6/30/2007,510.0,7.8431372549
+2950,Zagvozdino Exposure,57.75,71.416667,57.75,57.75,71.416667,71.416667,Vascular plants,Pinus sibirica,60.0,NISP,pollen,,,,,Radiocarbon years BP,550.0,65.0,pollen,6/30/2007,630.0,9.52380952381
+2950,Zagvozdino Exposure,57.75,71.416667,57.75,57.75,71.416667,71.416667,Vascular plants,Pinus sibirica,70.0,NISP,pollen,,,,,Radiocarbon years BP,600.0,65.0,pollen,6/30/2007,243.0,28.8065843621
+2950,Zagvozdino Exposure,57.75,71.416667,57.75,57.75,71.416667,71.416667,Vascular plants,Pinus sibirica,50.0,NISP,pollen,,,,,Radiocarbon years BP,650.0,65.0,pollen,6/30/2007,370.0,13.5135135135
+2950,Zagvozdino Exposure,57.75,71.416667,57.75,57.75,71.416667,71.416667,Vascular plants,Pinus sibirica,80.0,NISP,pollen,,,,,Radiocarbon years BP,700.0,65.0,pollen,6/30/2007,520.0,15.3846153846
+2950,Zagvozdino Exposure,57.75,71.416667,57.75,57.75,71.416667,71.416667,Vascular plants,Pinus sibirica,100.0,NISP,pollen,,,,,Radiocarbon years BP,800.0,65.0,pollen,6/30/2007,650.0,15.3846153846
+2950,Zagvozdino Exposure,57.75,71.416667,57.75,57.75,71.416667,71.416667,Vascular plants,Pinus sibirica,137.0,NISP,pollen,,,,,Radiocarbon years BP,850.0,65.0,pollen,6/30/2007,795.0,17.2327044025
+2950,Zagvozdino Exposure,57.75,71.416667,57.75,57.75,71.416667,71.416667,Vascular plants,Pinus sibirica,20.0,NISP,pollen,,,,,Radiocarbon years BP,950.0,65.0,pollen,6/30/2007,625.0,3.2
+2950,Zagvozdino Exposure,57.75,71.416667,57.75,57.75,71.416667,71.416667,Vascular plants,Pinus sibirica,60.0,NISP,pollen,,,,,Radiocarbon years BP,1000.0,65.0,pollen,6/30/2007,769.0,7.80234070221
+2950,Zagvozdino Exposure,57.75,71.416667,57.75,57.75,71.416667,71.416667,Vascular plants,Pinus sibirica,90.0,NISP,pollen,,44620.0,,,Radiocarbon years BP,1050.0,65.0,pollen,6/30/2007,718.0,12.5348189415
+3038,Bugristoe,58.25,85.166667,58.25,58.25,85.166667,85.166667,Vascular plants,Pinus sibirica,129.0,NISP,pollen,,3592.0,,,Radiocarbon years BP,5.0,100.0,pollen,6/30/2007,322.0,40.0621118012
+3038,Bugristoe,58.25,85.166667,58.25,58.25,85.166667,85.166667,Vascular plants,Pinus sibirica,150.0,NISP,pollen,,3720.0,,,Radiocarbon years BP,15.0,100.0,pollen,6/30/2007,372.0,40.3225806452
+3038,Bugristoe,58.25,85.166667,58.25,58.25,85.166667,85.166667,Vascular plants,Pinus sibirica,139.0,NISP,pollen,,3860.0,,,Radiocarbon years BP,26.0,100.0,pollen,6/30/2007,362.0,38.3977900552
+3038,Bugristoe,58.25,85.166667,58.25,58.25,85.166667,85.166667,Vascular plants,Pinus sibirica,93.0,NISP,pollen,,4243.0,,,Radiocarbon years BP,56.0,100.0,pollen,6/30/2007,328.0,28.3536585366
+3038,Bugristoe,58.25,85.166667,58.25,58.25,85.166667,85.166667,Vascular plants,Pinus sibirica,103.0,NISP,pollen,,4345.0,,,Radiocarbon years BP,64.0,100.0,pollen,6/30/2007,315.0,32.6984126984
+3038,Bugristoe,58.25,85.166667,58.25,58.25,85.166667,85.166667,Vascular plants,Pinus sibirica,133.0,NISP,pollen,,4498.0,,,Radiocarbon years BP,76.0,100.0,pollen,6/30/2007,408.0,32.5980392157
+3038,Bugristoe,58.25,85.166667,58.25,58.25,85.166667,85.166667,Vascular plants,Pinus sibirica,119.0,NISP,pollen,,4612.0,,,Radiocarbon years BP,85.0,100.0,pollen,6/30/2007,398.0,29.8994974874
+3038,Bugristoe,58.25,85.166667,58.25,58.25,85.166667,85.166667,Vascular plants,Pinus sibirica,81.0,NISP,pollen,,4804.0,,,Radiocarbon years BP,100.0,100.0,pollen,6/30/2007,324.0,25.0
+3038,Bugristoe,58.25,85.166667,58.25,58.25,85.166667,85.166667,Vascular plants,Pinus sibirica,108.0,NISP,pollen,,4982.0,,,Radiocarbon years BP,114.0,100.0,pollen,6/30/2007,424.0,25.4716981132
+3038,Bugristoe,58.25,85.166667,58.25,58.25,85.166667,85.166667,Vascular plants,Pinus sibirica,87.0,NISP,pollen,,5135.0,,,Radiocarbon years BP,126.0,100.0,pollen,6/30/2007,288.0,30.2083333333
+3038,Bugristoe,58.25,85.166667,58.25,58.25,85.166667,85.166667,Vascular plants,Pinus sibirica,64.0,NISP,pollen,,5250.0,,,Radiocarbon years BP,135.0,100.0,pollen,6/30/2007,289.0,22.1453287197
+3038,Bugristoe,58.25,85.166667,58.25,58.25,85.166667,85.166667,Vascular plants,Pinus sibirica,86.0,NISP,pollen,,5378.0,,,Radiocarbon years BP,145.0,100.0,pollen,6/30/2007,284.0,30.2816901408
+3038,Bugristoe,58.25,85.166667,58.25,58.25,85.166667,85.166667,Vascular plants,Pinus sibirica,64.0,NISP,pollen,,5492.0,,,Radiocarbon years BP,154.0,100.0,pollen,6/30/2007,429.0,14.9184149184
+3038,Bugristoe,58.25,85.166667,58.25,58.25,85.166667,85.166667,Vascular plants,Pinus sibirica,48.0,NISP,pollen,,5645.0,,,Radiocarbon years BP,166.0,100.0,pollen,6/30/2007,304.0,15.7894736842
+3038,Bugristoe,58.25,85.166667,58.25,58.25,85.166667,85.166667,Vascular plants,Pinus sibirica,23.0,NISP,pollen,,5760.0,,,Radiocarbon years BP,175.0,100.0,pollen,6/30/2007,376.0,6.1170212766
+3038,Bugristoe,58.25,85.166667,58.25,58.25,85.166667,85.166667,Vascular plants,Pinus sibirica,33.0,NISP,pollen,,5875.0,,,Radiocarbon years BP,184.0,100.0,pollen,6/30/2007,307.0,10.7491856678
+3038,Bugristoe,58.25,85.166667,58.25,58.25,85.166667,85.166667,Vascular plants,Pinus sibirica,43.0,NISP,pollen,,6028.0,,,Radiocarbon years BP,196.0,100.0,pollen,6/30/2007,471.0,9.12951167728
+3038,Bugristoe,58.25,85.166667,58.25,58.25,85.166667,85.166667,Vascular plants,Pinus sibirica,24.0,NISP,pollen,,6143.0,,,Radiocarbon years BP,205.0,100.0,pollen,6/30/2007,369.0,6.50406504065
+3038,Bugristoe,58.25,85.166667,58.25,58.25,85.166667,85.166667,Vascular plants,Pinus sibirica,13.0,NISP,pollen,,6257.0,,,Radiocarbon years BP,214.0,100.0,pollen,6/30/2007,357.0,3.64145658263
+3038,Bugristoe,58.25,85.166667,58.25,58.25,85.166667,85.166667,Vascular plants,Pinus sibirica,19.0,NISP,pollen,,6398.0,,,Radiocarbon years BP,225.0,100.0,pollen,6/30/2007,383.0,4.96083550914
+3038,Bugristoe,58.25,85.166667,58.25,58.25,85.166667,85.166667,Vascular plants,Pinus sibirica,33.0,NISP,pollen,,6691.0,,,Radiocarbon years BP,248.0,100.0,pollen,6/30/2007,293.0,11.2627986348
+3038,Bugristoe,58.25,85.166667,58.25,58.25,85.166667,85.166667,Vascular plants,Pinus sibirica,39.0,NISP,pollen,,6806.0,,,Radiocarbon years BP,257.0,100.0,pollen,6/30/2007,321.0,12.1495327103
+3038,Bugristoe,58.25,85.166667,58.25,58.25,85.166667,85.166667,Vascular plants,Pinus sibirica,29.0,NISP,pollen,,6921.0,,,Radiocarbon years BP,266.0,100.0,pollen,6/30/2007,210.0,13.8095238095
+3038,Bugristoe,58.25,85.166667,58.25,58.25,85.166667,85.166667,Vascular plants,Pinus sibirica,35.0,NISP,pollen,,7035.0,,,Radiocarbon years BP,275.0,100.0,pollen,6/30/2007,376.0,9.3085106383
+3038,Bugristoe,58.25,85.166667,58.25,58.25,85.166667,85.166667,Vascular plants,Pinus sibirica,29.0,NISP,pollen,,7188.0,,,Radiocarbon years BP,287.0,100.0,pollen,6/30/2007,318.0,9.11949685535
+3038,Bugristoe,58.25,85.166667,58.25,58.25,85.166667,85.166667,Vascular plants,Pinus sibirica,32.0,NISP,pollen,,7303.0,,,Radiocarbon years BP,296.0,100.0,pollen,6/30/2007,389.0,8.22622107969
+3038,Bugristoe,58.25,85.166667,58.25,58.25,85.166667,85.166667,Vascular plants,Pinus sibirica,27.0,NISP,pollen,,7418.0,,,Radiocarbon years BP,305.0,100.0,pollen,6/30/2007,416.0,6.49038461538
+3038,Bugristoe,58.25,85.166667,58.25,58.25,85.166667,85.166667,Vascular plants,Pinus sibirica,13.0,NISP,pollen,,7494.0,,,Radiocarbon years BP,311.0,100.0,pollen,6/30/2007,320.0,4.0625
+3038,Bugristoe,58.25,85.166667,58.25,58.25,85.166667,85.166667,Vascular plants,Pinus sibirica,47.0,NISP,pollen,,7635.0,,,Radiocarbon years BP,322.0,100.0,pollen,6/30/2007,285.0,16.4912280702
+3038,Bugristoe,58.25,85.166667,58.25,58.25,85.166667,85.166667,Vascular plants,Pinus sibirica,52.0,NISP,pollen,,7698.0,,,Radiocarbon years BP,327.0,100.0,pollen,6/30/2007,365.0,14.2465753425
+3038,Bugristoe,58.25,85.166667,58.25,58.25,85.166667,85.166667,Vascular plants,Pinus sibirica,52.0,NISP,pollen,,7775.0,,,Radiocarbon years BP,333.0,100.0,pollen,6/30/2007,318.0,16.3522012579
+3038,Bugristoe,58.25,85.166667,58.25,58.25,85.166667,85.166667,Vascular plants,Pinus sibirica,60.0,NISP,pollen,,7851.0,,,Radiocarbon years BP,339.0,100.0,pollen,6/30/2007,280.0,21.4285714286
+3038,Bugristoe,58.25,85.166667,58.25,58.25,85.166667,85.166667,Vascular plants,Pinus sibirica,69.0,NISP,pollen,,7928.0,,,Radiocarbon years BP,345.0,100.0,pollen,6/30/2007,307.0,22.4755700326
+3038,Bugristoe,58.25,85.166667,58.25,58.25,85.166667,85.166667,Vascular plants,Pinus sibirica,87.0,NISP,pollen,,8005.0,,,Radiocarbon years BP,351.0,100.0,pollen,6/30/2007,345.0,25.2173913043
+3038,Bugristoe,58.25,85.166667,58.25,58.25,85.166667,85.166667,Vascular plants,Pinus sibirica,66.0,NISP,pollen,,8058.0,,,Radiocarbon years BP,357.0,100.0,pollen,6/30/2007,299.0,22.0735785953
+3038,Bugristoe,58.25,85.166667,58.25,58.25,85.166667,85.166667,Vascular plants,Pinus sibirica,55.0,NISP,pollen,,8100.0,,,Radiocarbon years BP,363.0,100.0,pollen,6/30/2007,319.0,17.2413793103
+3038,Bugristoe,58.25,85.166667,58.25,58.25,85.166667,85.166667,Vascular plants,Pinus sibirica,33.0,NISP,pollen,,8142.0,,,Radiocarbon years BP,369.0,100.0,pollen,6/30/2007,329.0,10.0303951368
+3038,Bugristoe,58.25,85.166667,58.25,58.25,85.166667,85.166667,Vascular plants,Pinus sibirica,36.0,NISP,pollen,,8184.0,,,Radiocarbon years BP,375.0,100.0,pollen,6/30/2007,225.0,16.0
+3038,Bugristoe,58.25,85.166667,58.25,58.25,85.166667,85.166667,Vascular plants,Pinus sibirica,34.0,NISP,pollen,,8226.0,,,Radiocarbon years BP,381.0,100.0,pollen,6/30/2007,219.0,15.5251141553
+3038,Bugristoe,58.25,85.166667,58.25,58.25,85.166667,85.166667,Vascular plants,Pinus sibirica,28.0,NISP,pollen,,8309.0,,,Radiocarbon years BP,393.0,100.0,pollen,6/30/2007,296.0,9.45945945946
+3038,Bugristoe,58.25,85.166667,58.25,58.25,85.166667,85.166667,Vascular plants,Pinus sibirica,31.0,NISP,pollen,,8351.0,,,Radiocarbon years BP,399.0,100.0,pollen,6/30/2007,323.0,9.59752321981
+3038,Bugristoe,58.25,85.166667,58.25,58.25,85.166667,85.166667,Vascular plants,Pinus sibirica,17.0,NISP,pollen,,8393.0,,,Radiocarbon years BP,405.0,100.0,pollen,6/30/2007,419.0,4.05727923628
+3038,Bugristoe,58.25,85.166667,58.25,58.25,85.166667,85.166667,Vascular plants,Pinus sibirica,6.0,NISP,pollen,,8435.0,,,Radiocarbon years BP,411.0,100.0,pollen,6/30/2007,384.0,1.5625
+3038,Bugristoe,58.25,85.166667,58.25,58.25,85.166667,85.166667,Vascular plants,Pinus sibirica,2.0,NISP,pollen,,8477.0,,,Radiocarbon years BP,417.0,100.0,pollen,6/30/2007,228.0,0.877192982456
+3038,Bugristoe,58.25,85.166667,58.25,58.25,85.166667,85.166667,Vascular plants,Pinus sibirica,1.0,NISP,pollen,,8526.0,,,Radiocarbon years BP,424.0,100.0,pollen,6/30/2007,96.0,1.04166666667
+3038,Bugristoe,58.25,85.166667,58.25,58.25,85.166667,85.166667,Vascular plants,Pinus sibirica,1.0,NISP,pollen,,8610.0,,,Radiocarbon years BP,436.0,100.0,pollen,6/30/2007,243.0,0.411522633745
+3038,Bugristoe,58.25,85.166667,58.25,58.25,85.166667,85.166667,Vascular plants,Pinus sibirica,3.0,NISP,pollen,,8778.0,,,Radiocarbon years BP,460.0,100.0,pollen,6/30/2007,81.0,3.7037037037
+3038,Bugristoe,58.25,85.166667,58.25,58.25,85.166667,85.166667,Vascular plants,Pinus sibirica,2.0,NISP,pollen,,8861.0,,,Radiocarbon years BP,472.0,100.0,pollen,6/30/2007,47.0,4.25531914894
+3038,Bugristoe,58.25,85.166667,58.25,58.25,85.166667,85.166667,Vascular plants,Pinus sibirica,1.0,NISP,pollen,,9008.0,,,Radiocarbon years BP,493.0,100.0,pollen,6/30/2007,228.0,0.438596491228
+3038,Bugristoe,58.25,85.166667,58.25,58.25,85.166667,85.166667,Vascular plants,Pinus sibirica,1.0,NISP,pollen,,9050.0,,,Radiocarbon years BP,499.0,100.0,pollen,6/30/2007,101.0,0.990099009901
+3038,Bugristoe,58.25,85.166667,58.25,58.25,85.166667,85.166667,Vascular plants,Pinus sibirica,6.0,NISP,pollen,,9186.0,,,Radiocarbon years BP,532.0,100.0,pollen,6/30/2007,227.0,2.64317180617
+3038,Bugristoe,58.25,85.166667,58.25,58.25,85.166667,85.166667,Vascular plants,Pinus sibirica,1.0,NISP,pollen,,9244.0,,,Radiocarbon years BP,546.0,100.0,pollen,6/30/2007,103.0,0.970873786408
+3038,Bugristoe,58.25,85.166667,58.25,58.25,85.166667,85.166667,Vascular plants,Pinus sibirica,2.0,NISP,pollen,,9318.0,,,Radiocarbon years BP,564.0,100.0,pollen,6/30/2007,287.0,0.696864111498
+3038,Bugristoe,58.25,85.166667,58.25,58.25,85.166667,85.166667,Vascular plants,Pinus sibirica,1.0,NISP,pollen,,9355.0,,,Radiocarbon years BP,573.0,100.0,pollen,6/30/2007,87.0,1.14942528736
+3038,Bugristoe,58.25,85.166667,58.25,58.25,85.166667,85.166667,Vascular plants,Pinus sibirica,3.0,NISP,pollen,,9392.0,,,Radiocarbon years BP,582.0,100.0,pollen,6/30/2007,111.0,2.7027027027
+3038,Bugristoe,58.25,85.166667,58.25,58.25,85.166667,85.166667,Vascular plants,Pinus sibirica,1.0,NISP,pollen,,9479.0,,,Radiocarbon years BP,603.0,100.0,pollen,6/30/2007,52.0,1.92307692308
+3076,Daba-Nur,48.2,98.794444,48.2,48.2,98.794444,98.794444,Vascular plants,Pinus sibirica,1.0,NISP,pollen,,,,,,62.5,2465.0,pollen,6/30/2007,225.0,0.444444444444
+3076,Daba-Nur,48.2,98.794444,48.2,48.2,98.794444,98.794444,Vascular plants,Pinus sibirica,2.0,NISP,pollen,,,,,,112.5,2465.0,pollen,6/30/2007,179.0,1.11731843575
+3076,Daba-Nur,48.2,98.794444,48.2,48.2,98.794444,98.794444,Vascular plants,Pinus sibirica,1.0,NISP,pollen,,,,,,162.5,2465.0,pollen,6/30/2007,190.0,0.526315789474
+3076,Daba-Nur,48.2,98.794444,48.2,48.2,98.794444,98.794444,Vascular plants,Pinus sibirica,1.0,NISP,pollen,,,,,,287.5,2465.0,pollen,6/30/2007,207.0,0.48309178744
+3076,Daba-Nur,48.2,98.794444,48.2,48.2,98.794444,98.794444,Vascular plants,Pinus sibirica,2.0,NISP,pollen,,,,,,312.5,2465.0,pollen,6/30/2007,181.0,1.10497237569
+3076,Daba-Nur,48.2,98.794444,48.2,48.2,98.794444,98.794444,Vascular plants,Pinus sibirica,2.0,NISP,pollen,,,,,,337.5,2465.0,pollen,6/30/2007,223.0,0.896860986547
+3076,Daba-Nur,48.2,98.794444,48.2,48.2,98.794444,98.794444,Vascular plants,Pinus sibirica,1.0,NISP,pollen,,,,,,467.5,2465.0,pollen,6/30/2007,232.0,0.431034482759
+3137,Gun-Nur,50.25,106.6,50.25,50.25,106.6,106.6,Vascular plants,Pinus sibirica,3.0,NISP,pollen,,,,,,4.0,600.0,pollen,6/30/2007,344.0,0.872093023256
+3137,Gun-Nur,50.25,106.6,50.25,50.25,106.6,106.6,Vascular plants,Pinus sibirica,2.0,NISP,pollen,,,,,,22.5,600.0,pollen,6/30/2007,338.0,0.591715976331
+3137,Gun-Nur,50.25,106.6,50.25,50.25,106.6,106.6,Vascular plants,Pinus sibirica,1.0,NISP,pollen,,,,,,47.5,600.0,pollen,6/30/2007,410.0,0.243902439024
+3137,Gun-Nur,50.25,106.6,50.25,50.25,106.6,106.6,Vascular plants,Pinus sibirica,1.0,NISP,pollen,,,,,,61.5,600.0,pollen,6/30/2007,214.0,0.467289719626
+3137,Gun-Nur,50.25,106.6,50.25,50.25,106.6,106.6,Vascular plants,Pinus sibirica,2.0,NISP,pollen,,,,,,92.5,600.0,pollen,6/30/2007,257.0,0.778210116732
+3137,Gun-Nur,50.25,106.6,50.25,50.25,106.6,106.6,Vascular plants,Pinus sibirica,1.0,NISP,pollen,,,,,,109.0,600.0,pollen,6/30/2007,489.0,0.204498977505
+3137,Gun-Nur,50.25,106.6,50.25,50.25,106.6,106.6,Vascular plants,Pinus sibirica,4.0,NISP,pollen,,,,,,126.5,600.0,pollen,6/30/2007,390.0,1.02564102564
+3137,Gun-Nur,50.25,106.6,50.25,50.25,106.6,106.6,Vascular plants,Pinus sibirica,4.0,NISP,pollen,,,,,,146.5,600.0,pollen,6/30/2007,526.0,0.760456273764
+3137,Gun-Nur,50.25,106.6,50.25,50.25,106.6,106.6,Vascular plants,Pinus sibirica,1.0,NISP,pollen,,,,,,157.5,600.0,pollen,6/30/2007,457.0,0.218818380744
+3137,Gun-Nur,50.25,106.6,50.25,50.25,106.6,106.6,Vascular plants,Pinus sibirica,5.0,NISP,pollen,,,,,,177.5,600.0,pollen,6/30/2007,426.0,1.17370892019
+3137,Gun-Nur,50.25,106.6,50.25,50.25,106.6,106.6,Vascular plants,Pinus sibirica,5.0,NISP,pollen,,,,,,192.5,600.0,pollen,6/30/2007,537.0,0.931098696462
+3137,Gun-Nur,50.25,106.6,50.25,50.25,106.6,106.6,Vascular plants,Pinus sibirica,8.0,NISP,pollen,,,,,,209.0,600.0,pollen,6/30/2007,784.0,1.02040816327
+3137,Gun-Nur,50.25,106.6,50.25,50.25,106.6,106.6,Vascular plants,Pinus sibirica,5.0,NISP,pollen,,,,,,219.0,600.0,pollen,6/30/2007,291.0,1.71821305842
+3137,Gun-Nur,50.25,106.6,50.25,50.25,106.6,106.6,Vascular plants,Pinus sibirica,10.0,NISP,pollen,,,,,,239.0,600.0,pollen,6/30/2007,433.0,2.30946882217
+3137,Gun-Nur,50.25,106.6,50.25,50.25,106.6,106.6,Vascular plants,Pinus sibirica,7.0,NISP,pollen,,,,,,247.0,600.0,pollen,6/30/2007,582.0,1.20274914089
+3137,Gun-Nur,50.25,106.6,50.25,50.25,106.6,106.6,Vascular plants,Pinus sibirica,4.0,NISP,pollen,,,,,,252.5,600.0,pollen,6/30/2007,919.0,0.435255712731
+3137,Gun-Nur,50.25,106.6,50.25,50.25,106.6,106.6,Vascular plants,Pinus sibirica,5.0,NISP,pollen,,,,,,266.5,600.0,pollen,6/30/2007,410.0,1.21951219512
+3137,Gun-Nur,50.25,106.6,50.25,50.25,106.6,106.6,Vascular plants,Pinus sibirica,6.0,NISP,pollen,,,,,,279.0,600.0,pollen,6/30/2007,465.0,1.29032258065
+3137,Gun-Nur,50.25,106.6,50.25,50.25,106.6,106.6,Vascular plants,Pinus sibirica,7.0,NISP,pollen,,,,,,291.5,600.0,pollen,6/30/2007,498.0,1.40562248996
+3137,Gun-Nur,50.25,106.6,50.25,50.25,106.6,106.6,Vascular plants,Pinus sibirica,10.0,NISP,pollen,,,,,,307.5,600.0,pollen,6/30/2007,630.0,1.5873015873
+3137,Gun-Nur,50.25,106.6,50.25,50.25,106.6,106.6,Vascular plants,Pinus sibirica,8.0,NISP,pollen,,,,,,322.5,600.0,pollen,6/30/2007,439.0,1.82232346241
+3137,Gun-Nur,50.25,106.6,50.25,50.25,106.6,106.6,Vascular plants,Pinus sibirica,18.0,NISP,pollen,,,,,,335.5,600.0,pollen,6/30/2007,544.0,3.30882352941
+3137,Gun-Nur,50.25,106.6,50.25,50.25,106.6,106.6,Vascular plants,Pinus sibirica,16.0,NISP,pollen,,,,,,344.5,600.0,pollen,6/30/2007,395.0,4.05063291139
+3137,Gun-Nur,50.25,106.6,50.25,50.25,106.6,106.6,Vascular plants,Pinus sibirica,12.0,NISP,pollen,,,,,,355.0,600.0,pollen,6/30/2007,361.0,3.32409972299
+3137,Gun-Nur,50.25,106.6,50.25,50.25,106.6,106.6,Vascular plants,Pinus sibirica,12.0,NISP,pollen,,,,,,366.5,600.0,pollen,6/30/2007,559.0,2.14669051878
+3137,Gun-Nur,50.25,106.6,50.25,50.25,106.6,106.6,Vascular plants,Pinus sibirica,4.0,NISP,pollen,,,,,,379.0,600.0,pollen,6/30/2007,716.0,0.558659217877
+3137,Gun-Nur,50.25,106.6,50.25,50.25,106.6,106.6,Vascular plants,Pinus sibirica,11.0,NISP,pollen,,,,,,394.5,600.0,pollen,6/30/2007,594.0,1.85185185185
+3137,Gun-Nur,50.25,106.6,50.25,50.25,106.6,106.6,Vascular plants,Pinus sibirica,7.0,NISP,pollen,,,,,,406.5,600.0,pollen,6/30/2007,629.0,1.11287758347
+3137,Gun-Nur,50.25,106.6,50.25,50.25,106.6,106.6,Vascular plants,Pinus sibirica,10.0,NISP,pollen,,,,,,422.5,600.0,pollen,6/30/2007,737.0,1.35685210312
+3137,Gun-Nur,50.25,106.6,50.25,50.25,106.6,106.6,Vascular plants,Pinus sibirica,12.0,NISP,pollen,,,,,,435.5,600.0,pollen,6/30/2007,810.0,1.48148148148
+3137,Gun-Nur,50.25,106.6,50.25,50.25,106.6,106.6,Vascular plants,Pinus sibirica,4.0,NISP,pollen,,,,,,445.5,600.0,pollen,6/30/2007,778.0,0.514138817481
+3137,Gun-Nur,50.25,106.6,50.25,50.25,106.6,106.6,Vascular plants,Pinus sibirica,4.0,NISP,pollen,,,,,,458.5,600.0,pollen,6/30/2007,531.0,0.75329566855
+3137,Gun-Nur,50.25,106.6,50.25,50.25,106.6,106.6,Vascular plants,Pinus sibirica,1.0,NISP,pollen,,,,,,468.5,600.0,pollen,6/30/2007,412.0,0.242718446602
+3137,Gun-Nur,50.25,106.6,50.25,50.25,106.6,106.6,Vascular plants,Pinus sibirica,1.0,NISP,pollen,,,,,,481.5,600.0,pollen,6/30/2007,204.0,0.490196078431
+3137,Gun-Nur,50.25,106.6,50.25,50.25,106.6,106.6,Vascular plants,Pinus sibirica,5.0,NISP,pollen,,,,,,491.5,600.0,pollen,6/30/2007,179.0,2.79329608939
+3154,Hubsugul,50.533333,101.166667,50.533333,50.533333,101.166667,101.166667,Vascular plants,Pinus sibirica,236.0,NISP,pollen,,,,,,5.0,1645.0,pollen,6/30/2007,719.0,32.8233657858
+3154,Hubsugul,50.533333,101.166667,50.533333,50.533333,101.166667,101.166667,Vascular plants,Pinus sibirica,171.0,NISP,pollen,,,,,,12.5,1645.0,pollen,6/30/2007,394.0,43.4010152284
+3154,Hubsugul,50.533333,101.166667,50.533333,50.533333,101.166667,101.166667,Vascular plants,Pinus sibirica,91.0,NISP,pollen,,,,,,42.5,1645.0,pollen,6/30/2007,219.0,41.5525114155
+3154,Hubsugul,50.533333,101.166667,50.533333,50.533333,101.166667,101.166667,Vascular plants,Pinus sibirica,162.0,NISP,pollen,,,,,,55.0,1645.0,pollen,6/30/2007,434.0,37.3271889401
+3154,Hubsugul,50.533333,101.166667,50.533333,50.533333,101.166667,101.166667,Vascular plants,Pinus sibirica,159.0,NISP,pollen,,,,,,67.5,1645.0,pollen,6/30/2007,224.0,70.9821428571
+3154,Hubsugul,50.533333,101.166667,50.533333,50.533333,101.166667,101.166667,Vascular plants,Pinus sibirica,12.0,NISP,pollen,,,,,,80.0,1645.0,pollen,6/30/2007,281.0,4.27046263345
+3154,Hubsugul,50.533333,101.166667,50.533333,50.533333,101.166667,101.166667,Vascular plants,Pinus sibirica,128.0,NISP,pollen,,,,,,95.0,1645.0,pollen,6/30/2007,303.0,42.2442244224
+3154,Hubsugul,50.533333,101.166667,50.533333,50.533333,101.166667,101.166667,Vascular plants,Pinus sibirica,42.0,NISP,pollen,,,,,,106.0,1645.0,pollen,6/30/2007,265.0,15.8490566038
+3154,Hubsugul,50.533333,101.166667,50.533333,50.533333,101.166667,101.166667,Vascular plants,Pinus sibirica,39.0,NISP,pollen,,,,,,116.0,1645.0,pollen,6/30/2007,228.0,17.1052631579
+3154,Hubsugul,50.533333,101.166667,50.533333,50.533333,101.166667,101.166667,Vascular plants,Pinus sibirica,229.0,NISP,pollen,,,,,,140.0,1645.0,pollen,6/30/2007,373.0,61.3941018767
+3154,Hubsugul,50.533333,101.166667,50.533333,50.533333,101.166667,101.166667,Vascular plants,Pinus sibirica,372.0,NISP,pollen,,,,,,161.5,1645.0,pollen,6/30/2007,534.0,69.6629213483
+3154,Hubsugul,50.533333,101.166667,50.533333,50.533333,101.166667,101.166667,Vascular plants,Pinus sibirica,200.0,NISP,pollen,,,,,,173.0,1645.0,pollen,6/30/2007,308.0,64.9350649351
+3154,Hubsugul,50.533333,101.166667,50.533333,50.533333,101.166667,101.166667,Vascular plants,Pinus sibirica,44.0,NISP,pollen,,,,,,185.0,1645.0,pollen,6/30/2007,327.0,13.4556574924
+3154,Hubsugul,50.533333,101.166667,50.533333,50.533333,101.166667,101.166667,Vascular plants,Pinus sibirica,275.0,NISP,pollen,,,,,,207.5,1645.0,pollen,6/30/2007,633.0,43.4439178515
+3154,Hubsugul,50.533333,101.166667,50.533333,50.533333,101.166667,101.166667,Vascular plants,Pinus sibirica,39.0,NISP,pollen,,,,,,215.0,1645.0,pollen,6/30/2007,244.0,15.9836065574
+3182,Karasieozerskoe,56.766667,60.75,56.766667,56.766667,60.75,60.75,Vascular plants,Pinus sibirica,6.0,NISP,pollen,,1413.0,,,Radiocarbon years BP,50.0,230.0,pollen,6/30/2007,215.0,2.79069767442
+3182,Karasieozerskoe,56.766667,60.75,56.766667,56.766667,60.75,60.75,Vascular plants,Pinus sibirica,5.0,NISP,pollen,,1695.0,,,Radiocarbon years BP,60.0,230.0,pollen,6/30/2007,217.0,2.30414746544
+3182,Karasieozerskoe,56.766667,60.75,56.766667,56.766667,60.75,60.75,Vascular plants,Pinus sibirica,1.0,NISP,pollen,,2119.0,,,Radiocarbon years BP,75.0,230.0,pollen,6/30/2007,211.0,0.473933649289
+3182,Karasieozerskoe,56.766667,60.75,56.766667,56.766667,60.75,60.75,Vascular plants,Pinus sibirica,2.0,NISP,pollen,,2543.0,,,Radiocarbon years BP,90.0,230.0,pollen,6/30/2007,209.0,0.956937799043
+3182,Karasieozerskoe,56.766667,60.75,56.766667,56.766667,60.75,60.75,Vascular plants,Pinus sibirica,3.0,NISP,pollen,,2826.0,,,Radiocarbon years BP,100.0,230.0,pollen,6/30/2007,207.0,1.44927536232
+3182,Karasieozerskoe,56.766667,60.75,56.766667,56.766667,60.75,60.75,Vascular plants,Pinus sibirica,2.0,NISP,pollen,,3108.0,,,Radiocarbon years BP,110.0,230.0,pollen,6/30/2007,215.0,0.93023255814
+3182,Karasieozerskoe,56.766667,60.75,56.766667,56.766667,60.75,60.75,Vascular plants,Pinus sibirica,1.0,NISP,pollen,,3391.0,,,Radiocarbon years BP,120.0,230.0,pollen,6/30/2007,218.0,0.45871559633
+3182,Karasieozerskoe,56.766667,60.75,56.766667,56.766667,60.75,60.75,Vascular plants,Pinus sibirica,3.0,NISP,pollen,,3540.0,,,Radiocarbon years BP,130.0,230.0,pollen,6/30/2007,222.0,1.35135135135
+3182,Karasieozerskoe,56.766667,60.75,56.766667,56.766667,60.75,60.75,Vascular plants,Pinus sibirica,17.0,NISP,pollen,,3557.0,,,Radiocarbon years BP,140.0,230.0,pollen,6/30/2007,220.0,7.72727272727
+3182,Karasieozerskoe,56.766667,60.75,56.766667,56.766667,60.75,60.75,Vascular plants,Pinus sibirica,13.0,NISP,pollen,,3574.0,,,Radiocarbon years BP,150.0,230.0,pollen,6/30/2007,227.0,5.7268722467
+3182,Karasieozerskoe,56.766667,60.75,56.766667,56.766667,60.75,60.75,Vascular plants,Pinus sibirica,6.0,NISP,pollen,,3590.0,,,Radiocarbon years BP,160.0,230.0,pollen,6/30/2007,337.0,1.78041543027
+3182,Karasieozerskoe,56.766667,60.75,56.766667,56.766667,60.75,60.75,Vascular plants,Pinus sibirica,8.0,NISP,pollen,,3607.0,,,Radiocarbon years BP,170.0,230.0,pollen,6/30/2007,465.0,1.72043010753
+3182,Karasieozerskoe,56.766667,60.75,56.766667,56.766667,60.75,60.75,Vascular plants,Pinus sibirica,22.0,NISP,pollen,,3951.0,,,Radiocarbon years BP,180.0,230.0,pollen,6/30/2007,336.0,6.54761904762
+3182,Karasieozerskoe,56.766667,60.75,56.766667,56.766667,60.75,60.75,Vascular plants,Pinus sibirica,12.0,NISP,pollen,,4624.0,,,Radiocarbon years BP,190.0,230.0,pollen,6/30/2007,300.0,4.0
+3182,Karasieozerskoe,56.766667,60.75,56.766667,56.766667,60.75,60.75,Vascular plants,Pinus sibirica,20.0,NISP,pollen,,4960.0,,,Radiocarbon years BP,195.0,230.0,pollen,6/30/2007,318.0,6.2893081761
+3182,Karasieozerskoe,56.766667,60.75,56.766667,56.766667,60.75,60.75,Vascular plants,Pinus sibirica,9.0,NISP,pollen,,5296.0,,,Radiocarbon years BP,200.0,230.0,pollen,6/30/2007,324.0,2.77777777778
+3182,Karasieozerskoe,56.766667,60.75,56.766667,56.766667,60.75,60.75,Vascular plants,Pinus sibirica,9.0,NISP,pollen,,5633.0,,,Radiocarbon years BP,205.0,230.0,pollen,6/30/2007,330.0,2.72727272727
+3182,Karasieozerskoe,56.766667,60.75,56.766667,56.766667,60.75,60.75,Vascular plants,Pinus sibirica,15.0,NISP,pollen,,6305.0,,,Radiocarbon years BP,215.0,230.0,pollen,6/30/2007,325.0,4.61538461538
+3182,Karasieozerskoe,56.766667,60.75,56.766667,56.766667,60.75,60.75,Vascular plants,Pinus sibirica,17.0,NISP,pollen,,6978.0,,,Radiocarbon years BP,225.0,230.0,pollen,6/30/2007,324.0,5.24691358025
+3182,Karasieozerskoe,56.766667,60.75,56.766667,56.766667,60.75,60.75,Vascular plants,Pinus sibirica,8.0,NISP,pollen,,7650.0,,,Radiocarbon years BP,235.0,230.0,pollen,6/30/2007,336.0,2.38095238095
+3182,Karasieozerskoe,56.766667,60.75,56.766667,56.766667,60.75,60.75,Vascular plants,Pinus sibirica,9.0,NISP,pollen,,8323.0,,,Radiocarbon years BP,245.0,230.0,pollen,6/30/2007,318.0,2.83018867925
+3182,Karasieozerskoe,56.766667,60.75,56.766667,56.766667,60.75,60.75,Vascular plants,Pinus sibirica,9.0,NISP,pollen,,8995.0,,,Radiocarbon years BP,255.0,230.0,pollen,6/30/2007,327.0,2.75229357798
+3182,Karasieozerskoe,56.766667,60.75,56.766667,56.766667,60.75,60.75,Vascular plants,Pinus sibirica,7.0,NISP,pollen,,9331.0,,,Radiocarbon years BP,260.0,230.0,pollen,6/30/2007,270.0,2.59259259259
+3182,Karasieozerskoe,56.766667,60.75,56.766667,56.766667,60.75,60.75,Vascular plants,Pinus sibirica,22.0,NISP,pollen,,9668.0,,,Radiocarbon years BP,265.0,230.0,pollen,6/30/2007,384.0,5.72916666667
+3268,Maksimkin Yar,58.333333,88.166667,58.333333,58.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,59.0,NISP,pollen,,80.0,,,Radiocarbon years BP,5.0,150.0,pollen,6/30/2007,269.0,21.9330855019
+3268,Maksimkin Yar,58.333333,88.166667,58.333333,58.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,57.0,NISP,pollen,,416.0,,,Radiocarbon years BP,26.0,150.0,pollen,6/30/2007,315.0,18.0952380952
+3268,Maksimkin Yar,58.333333,88.166667,58.333333,58.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,85.0,NISP,pollen,,512.0,,,Radiocarbon years BP,32.0,150.0,pollen,6/30/2007,305.0,27.868852459
+3268,Maksimkin Yar,58.333333,88.166667,58.333333,58.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,53.0,NISP,pollen,,608.0,,,Radiocarbon years BP,38.0,150.0,pollen,6/30/2007,255.0,20.7843137255
+3268,Maksimkin Yar,58.333333,88.166667,58.333333,58.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,91.0,NISP,pollen,,672.0,,,Radiocarbon years BP,42.0,150.0,pollen,6/30/2007,278.0,32.7338129496
+3268,Maksimkin Yar,58.333333,88.166667,58.333333,58.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,43.0,NISP,pollen,,768.0,,,Radiocarbon years BP,48.0,150.0,pollen,6/30/2007,265.0,16.2264150943
+3268,Maksimkin Yar,58.333333,88.166667,58.333333,58.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,46.0,NISP,pollen,,832.0,,,Radiocarbon years BP,52.0,150.0,pollen,6/30/2007,316.0,14.5569620253
+3268,Maksimkin Yar,58.333333,88.166667,58.333333,58.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,73.0,NISP,pollen,,928.0,,,Radiocarbon years BP,58.0,150.0,pollen,6/30/2007,313.0,23.3226837061
+3268,Maksimkin Yar,58.333333,88.166667,58.333333,58.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,69.0,NISP,pollen,,1397.0,,,Radiocarbon years BP,64.0,150.0,pollen,6/30/2007,318.0,21.6981132075
+3268,Maksimkin Yar,58.333333,88.166667,58.333333,58.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,73.0,NISP,pollen,,2051.0,,,Radiocarbon years BP,70.0,150.0,pollen,6/30/2007,291.0,25.0859106529
+3268,Maksimkin Yar,58.333333,88.166667,58.333333,58.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,44.0,NISP,pollen,,2706.0,,,Radiocarbon years BP,76.0,150.0,pollen,6/30/2007,272.0,16.1764705882
+3268,Maksimkin Yar,58.333333,88.166667,58.333333,58.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,86.0,NISP,pollen,,3361.0,,,Radiocarbon years BP,82.0,150.0,pollen,6/30/2007,320.0,26.875
+3268,Maksimkin Yar,58.333333,88.166667,58.333333,58.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,57.0,NISP,pollen,,4234.0,,,Radiocarbon years BP,90.0,150.0,pollen,6/30/2007,319.0,17.868338558
+3268,Maksimkin Yar,58.333333,88.166667,58.333333,58.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,53.0,NISP,pollen,,4671.0,,,Radiocarbon years BP,94.0,150.0,pollen,6/30/2007,290.0,18.275862069
+3268,Maksimkin Yar,58.333333,88.166667,58.333333,58.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,37.0,NISP,pollen,,4849.0,,,Radiocarbon years BP,100.0,150.0,pollen,6/30/2007,296.0,12.5
+3268,Maksimkin Yar,58.333333,88.166667,58.333333,58.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,30.0,NISP,pollen,,4931.0,,,Radiocarbon years BP,106.0,150.0,pollen,6/30/2007,239.0,12.5523012552
+3268,Maksimkin Yar,58.333333,88.166667,58.333333,58.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,39.0,NISP,pollen,,5042.0,,,Radiocarbon years BP,114.0,150.0,pollen,6/30/2007,272.0,14.3382352941
+3268,Maksimkin Yar,58.333333,88.166667,58.333333,58.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,13.0,NISP,pollen,,5124.0,,,Radiocarbon years BP,120.0,150.0,pollen,6/30/2007,294.0,4.42176870748
+3268,Maksimkin Yar,58.333333,88.166667,58.333333,58.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,32.0,NISP,pollen,,5234.0,,,Radiocarbon years BP,128.0,150.0,pollen,6/30/2007,292.0,10.9589041096
+3268,Maksimkin Yar,58.333333,88.166667,58.333333,58.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,40.0,NISP,pollen,,5317.0,,,Radiocarbon years BP,134.0,150.0,pollen,6/30/2007,313.0,12.7795527157
+3268,Maksimkin Yar,58.333333,88.166667,58.333333,58.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,50.0,NISP,pollen,,5372.0,,,Radiocarbon years BP,138.0,150.0,pollen,6/30/2007,326.0,15.3374233129
+3268,Maksimkin Yar,58.333333,88.166667,58.333333,58.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,47.0,NISP,pollen,,5427.0,,,Radiocarbon years BP,142.0,150.0,pollen,6/30/2007,300.0,15.6666666667
+3268,Maksimkin Yar,58.333333,88.166667,58.333333,58.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,31.0,NISP,pollen,,5482.0,,,Radiocarbon years BP,146.0,150.0,pollen,6/30/2007,293.0,10.5802047782
+3268,Maksimkin Yar,58.333333,88.166667,58.333333,58.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,63.0,NISP,pollen,,5565.0,,,Radiocarbon years BP,152.0,150.0,pollen,6/30/2007,333.0,18.9189189189
+3268,Maksimkin Yar,58.333333,88.166667,58.333333,58.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,41.0,NISP,pollen,,5620.0,,,Radiocarbon years BP,156.0,150.0,pollen,6/30/2007,292.0,14.0410958904
+3268,Maksimkin Yar,58.333333,88.166667,58.333333,58.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,35.0,NISP,pollen,,5703.0,,,Radiocarbon years BP,162.0,150.0,pollen,6/30/2007,300.0,11.6666666667
+3268,Maksimkin Yar,58.333333,88.166667,58.333333,58.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,27.0,NISP,pollen,,5758.0,,,Radiocarbon years BP,166.0,150.0,pollen,6/30/2007,297.0,9.09090909091
+3268,Maksimkin Yar,58.333333,88.166667,58.333333,58.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,3.0,NISP,pollen,,5840.0,,,Radiocarbon years BP,172.0,150.0,pollen,6/30/2007,308.0,0.974025974026
+3268,Maksimkin Yar,58.333333,88.166667,58.333333,58.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,8.0,NISP,pollen,,5895.0,,,Radiocarbon years BP,176.0,150.0,pollen,6/30/2007,283.0,2.82685512367
+3268,Maksimkin Yar,58.333333,88.166667,58.333333,58.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,11.0,NISP,pollen,,5950.0,,,Radiocarbon years BP,180.0,150.0,pollen,6/30/2007,332.0,3.31325301205
+3268,Maksimkin Yar,58.333333,88.166667,58.333333,58.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,13.0,NISP,pollen,,6005.0,,,Radiocarbon years BP,184.0,150.0,pollen,6/30/2007,299.0,4.34782608696
+3268,Maksimkin Yar,58.333333,88.166667,58.333333,58.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,3.0,NISP,pollen,,6061.0,,,Radiocarbon years BP,188.0,150.0,pollen,6/30/2007,324.0,0.925925925926
+3268,Maksimkin Yar,58.333333,88.166667,58.333333,58.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,11.0,NISP,pollen,,6143.0,,,Radiocarbon years BP,194.0,150.0,pollen,6/30/2007,298.0,3.69127516779
+3268,Maksimkin Yar,58.333333,88.166667,58.333333,58.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,5.0,NISP,pollen,,6198.0,,,Radiocarbon years BP,198.0,150.0,pollen,6/30/2007,307.0,1.62866449511
+3268,Maksimkin Yar,58.333333,88.166667,58.333333,58.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,6.0,NISP,pollen,,6253.0,,,Radiocarbon years BP,202.0,150.0,pollen,6/30/2007,334.0,1.79640718563
+3268,Maksimkin Yar,58.333333,88.166667,58.333333,58.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,5.0,NISP,pollen,,6308.0,,,Radiocarbon years BP,206.0,150.0,pollen,6/30/2007,297.0,1.6835016835
+3268,Maksimkin Yar,58.333333,88.166667,58.333333,58.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,1.0,NISP,pollen,,6363.0,,,Radiocarbon years BP,210.0,150.0,pollen,6/30/2007,400.0,0.25
+3268,Maksimkin Yar,58.333333,88.166667,58.333333,58.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,11.0,NISP,pollen,,6419.0,,,Radiocarbon years BP,214.0,150.0,pollen,6/30/2007,298.0,3.69127516779
+3268,Maksimkin Yar,58.333333,88.166667,58.333333,58.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,7.0,NISP,pollen,,6474.0,,,Radiocarbon years BP,218.0,150.0,pollen,6/30/2007,304.0,2.30263157895
+3268,Maksimkin Yar,58.333333,88.166667,58.333333,58.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,3.0,NISP,pollen,,6789.0,,,Radiocarbon years BP,228.0,150.0,pollen,6/30/2007,364.0,0.824175824176
+3268,Maksimkin Yar,58.333333,88.166667,58.333333,58.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,1.0,NISP,pollen,,7957.0,,,Radiocarbon years BP,244.0,150.0,pollen,6/30/2007,400.0,0.25
+3324,Nulsaveito,67.533333,70.166667,67.533333,67.533333,70.166667,70.166667,Vascular plants,Pinus sibirica,18.0,NISP,pollen,,5232.0,,,Radiocarbon years BP,3.0,57.0,pollen,6/30/2007,460.0,3.91304347826
+3324,Nulsaveito,67.533333,70.166667,67.533333,67.533333,70.166667,70.166667,Vascular plants,Pinus sibirica,7.0,NISP,pollen,,5326.0,,,Radiocarbon years BP,10.0,57.0,pollen,6/30/2007,319.0,2.19435736677
+3324,Nulsaveito,67.533333,70.166667,67.533333,67.533333,70.166667,70.166667,Vascular plants,Pinus sibirica,3.0,NISP,pollen,,5460.0,,,Radiocarbon years BP,20.0,57.0,pollen,6/30/2007,264.0,1.13636363636
+3324,Nulsaveito,67.533333,70.166667,67.533333,67.533333,70.166667,70.166667,Vascular plants,Pinus sibirica,3.0,NISP,pollen,,5526.0,,,Radiocarbon years BP,25.0,57.0,pollen,6/30/2007,331.0,0.906344410876
+3324,Nulsaveito,67.533333,70.166667,67.533333,67.533333,70.166667,70.166667,Vascular plants,Pinus sibirica,1.0,NISP,pollen,,5593.0,,,Radiocarbon years BP,30.0,57.0,pollen,6/30/2007,264.0,0.378787878788
+3324,Nulsaveito,67.533333,70.166667,67.533333,67.533333,70.166667,70.166667,Vascular plants,Pinus sibirica,4.0,NISP,pollen,,5727.0,,,Radiocarbon years BP,40.0,57.0,pollen,6/30/2007,270.0,1.48148148148
+3324,Nulsaveito,67.533333,70.166667,67.533333,67.533333,70.166667,70.166667,Vascular plants,Pinus sibirica,2.0,NISP,pollen,,5994.0,,,Radiocarbon years BP,60.0,57.0,pollen,6/30/2007,350.0,0.571428571429
+3324,Nulsaveito,67.533333,70.166667,67.533333,67.533333,70.166667,70.166667,Vascular plants,Pinus sibirica,1.0,NISP,pollen,,6436.0,,,Radiocarbon years BP,90.0,57.0,pollen,6/30/2007,213.0,0.469483568075
+3324,Nulsaveito,67.533333,70.166667,67.533333,67.533333,70.166667,70.166667,Vascular plants,Pinus sibirica,1.0,NISP,pollen,,6738.0,,,Radiocarbon years BP,110.0,57.0,pollen,6/30/2007,208.0,0.480769230769
+3324,Nulsaveito,67.533333,70.166667,67.533333,67.533333,70.166667,70.166667,Vascular plants,Pinus sibirica,1.0,NISP,pollen,,7065.0,,,Radiocarbon years BP,140.0,57.0,pollen,6/30/2007,361.0,0.277008310249
+3324,Nulsaveito,67.533333,70.166667,67.533333,67.533333,70.166667,70.166667,Vascular plants,Pinus sibirica,1.0,NISP,pollen,,7077.0,,,Radiocarbon years BP,145.0,57.0,pollen,6/30/2007,277.0,0.361010830325
+3324,Nulsaveito,67.533333,70.166667,67.533333,67.533333,70.166667,70.166667,Vascular plants,Pinus sibirica,1.0,NISP,pollen,,7089.0,,,Radiocarbon years BP,150.0,57.0,pollen,6/30/2007,290.0,0.344827586207
+3324,Nulsaveito,67.533333,70.166667,67.533333,67.533333,70.166667,70.166667,Vascular plants,Pinus sibirica,1.0,NISP,pollen,,7101.0,,,Radiocarbon years BP,155.0,57.0,pollen,6/30/2007,283.0,0.353356890459
+3324,Nulsaveito,67.533333,70.166667,67.533333,67.533333,70.166667,70.166667,Vascular plants,Pinus sibirica,2.0,NISP,pollen,,7112.0,,,Radiocarbon years BP,160.0,57.0,pollen,6/30/2007,315.0,0.634920634921
+3324,Nulsaveito,67.533333,70.166667,67.533333,67.533333,70.166667,70.166667,Vascular plants,Pinus sibirica,2.0,NISP,pollen,,7136.0,,,Radiocarbon years BP,170.0,57.0,pollen,6/30/2007,351.0,0.569800569801
+3324,Nulsaveito,67.533333,70.166667,67.533333,67.533333,70.166667,70.166667,Vascular plants,Pinus sibirica,2.0,NISP,pollen,,7160.0,,,Radiocarbon years BP,180.0,57.0,pollen,6/30/2007,249.0,0.803212851406
+3324,Nulsaveito,67.533333,70.166667,67.533333,67.533333,70.166667,70.166667,Vascular plants,Pinus sibirica,2.0,NISP,pollen,,7184.0,,,Radiocarbon years BP,190.0,57.0,pollen,6/30/2007,400.0,0.5
+3324,Nulsaveito,67.533333,70.166667,67.533333,67.533333,70.166667,70.166667,Vascular plants,Pinus sibirica,2.0,NISP,pollen,,7208.0,,,Radiocarbon years BP,200.0,57.0,pollen,6/30/2007,251.0,0.796812749004
+3324,Nulsaveito,67.533333,70.166667,67.533333,67.533333,70.166667,70.166667,Vascular plants,Pinus sibirica,1.0,NISP,pollen,,7231.0,,,Radiocarbon years BP,210.0,57.0,pollen,6/30/2007,250.0,0.4
+3324,Nulsaveito,67.533333,70.166667,67.533333,67.533333,70.166667,70.166667,Vascular plants,Pinus sibirica,1.0,NISP,pollen,,7243.0,,,Radiocarbon years BP,215.0,57.0,pollen,6/30/2007,250.0,0.4
+3324,Nulsaveito,67.533333,70.166667,67.533333,67.533333,70.166667,70.166667,Vascular plants,Pinus sibirica,1.0,NISP,pollen,,7267.0,,,Radiocarbon years BP,225.0,57.0,pollen,6/30/2007,250.0,0.4
+3335,Ovrazhnoe,56.25,85.166667,56.25,56.25,85.166667,85.166667,Vascular plants,Pinus sibirica,13.0,NISP,pollen,,52.0,,,Radiocarbon years BP,5.0,110.0,pollen,6/30/2007,542.0,2.39852398524
+3335,Ovrazhnoe,56.25,85.166667,56.25,56.25,85.166667,85.166667,Vascular plants,Pinus sibirica,27.0,NISP,pollen,,260.0,,,Radiocarbon years BP,25.0,110.0,pollen,6/30/2007,308.0,8.76623376623
+3335,Ovrazhnoe,56.25,85.166667,56.25,56.25,85.166667,85.166667,Vascular plants,Pinus sibirica,104.0,NISP,pollen,,467.0,,,Radiocarbon years BP,45.0,110.0,pollen,6/30/2007,401.0,25.9351620948
+3335,Ovrazhnoe,56.25,85.166667,56.25,56.25,85.166667,85.166667,Vascular plants,Pinus sibirica,68.0,NISP,pollen,,779.0,,,Radiocarbon years BP,75.0,110.0,pollen,6/30/2007,461.0,14.7505422993
+3335,Ovrazhnoe,56.25,85.166667,56.25,56.25,85.166667,85.166667,Vascular plants,Pinus sibirica,60.0,NISP,pollen,,986.0,,,Radiocarbon years BP,95.0,110.0,pollen,6/30/2007,298.0,20.1342281879
+3335,Ovrazhnoe,56.25,85.166667,56.25,56.25,85.166667,85.166667,Vascular plants,Pinus sibirica,58.0,NISP,pollen,,1194.0,,,Radiocarbon years BP,115.0,110.0,pollen,6/30/2007,333.0,17.4174174174
+3335,Ovrazhnoe,56.25,85.166667,56.25,56.25,85.166667,85.166667,Vascular plants,Pinus sibirica,65.0,NISP,pollen,,1402.0,,,Radiocarbon years BP,135.0,110.0,pollen,6/30/2007,370.0,17.5675675676
+3335,Ovrazhnoe,56.25,85.166667,56.25,56.25,85.166667,85.166667,Vascular plants,Pinus sibirica,140.0,NISP,pollen,,1609.0,,,Radiocarbon years BP,155.0,110.0,pollen,6/30/2007,250.0,56.0
+3335,Ovrazhnoe,56.25,85.166667,56.25,56.25,85.166667,85.166667,Vascular plants,Pinus sibirica,91.0,NISP,pollen,,1817.0,,,Radiocarbon years BP,175.0,110.0,pollen,6/30/2007,313.0,29.0734824281
+3335,Ovrazhnoe,56.25,85.166667,56.25,56.25,85.166667,85.166667,Vascular plants,Pinus sibirica,85.0,NISP,pollen,,2025.0,,,Radiocarbon years BP,195.0,110.0,pollen,6/30/2007,271.0,31.3653136531
+3335,Ovrazhnoe,56.25,85.166667,56.25,56.25,85.166667,85.166667,Vascular plants,Pinus sibirica,122.0,NISP,pollen,,2233.0,,,Radiocarbon years BP,215.0,110.0,pollen,6/30/2007,291.0,41.9243986254
+3335,Ovrazhnoe,56.25,85.166667,56.25,56.25,85.166667,85.166667,Vascular plants,Pinus sibirica,92.0,NISP,pollen,,2440.0,,,Radiocarbon years BP,235.0,110.0,pollen,6/30/2007,326.0,28.2208588957
+3335,Ovrazhnoe,56.25,85.166667,56.25,56.25,85.166667,85.166667,Vascular plants,Pinus sibirica,150.0,NISP,pollen,,2648.0,,,Radiocarbon years BP,255.0,110.0,pollen,6/30/2007,277.0,54.1516245487
+3335,Ovrazhnoe,56.25,85.166667,56.25,56.25,85.166667,85.166667,Vascular plants,Pinus sibirica,131.0,NISP,pollen,,2856.0,,,Radiocarbon years BP,275.0,110.0,pollen,6/30/2007,315.0,41.5873015873
+3335,Ovrazhnoe,56.25,85.166667,56.25,56.25,85.166667,85.166667,Vascular plants,Pinus sibirica,160.0,NISP,pollen,,3063.0,,,Radiocarbon years BP,295.0,110.0,pollen,6/30/2007,277.0,57.761732852
+3335,Ovrazhnoe,56.25,85.166667,56.25,56.25,85.166667,85.166667,Vascular plants,Pinus sibirica,153.0,NISP,pollen,,3271.0,,,Radiocarbon years BP,315.0,110.0,pollen,6/30/2007,281.0,54.4483985765
+3335,Ovrazhnoe,56.25,85.166667,56.25,56.25,85.166667,85.166667,Vascular plants,Pinus sibirica,162.0,NISP,pollen,,3479.0,,,Radiocarbon years BP,335.0,110.0,pollen,6/30/2007,306.0,52.9411764706
+3335,Ovrazhnoe,56.25,85.166667,56.25,56.25,85.166667,85.166667,Vascular plants,Pinus sibirica,134.0,NISP,pollen,,3686.0,,,Radiocarbon years BP,355.0,110.0,pollen,6/30/2007,292.0,45.8904109589
+3335,Ovrazhnoe,56.25,85.166667,56.25,56.25,85.166667,85.166667,Vascular plants,Pinus sibirica,62.0,NISP,pollen,,3894.0,,,Radiocarbon years BP,375.0,110.0,pollen,6/30/2007,122.0,50.8196721311
+3335,Ovrazhnoe,56.25,85.166667,56.25,56.25,85.166667,85.166667,Vascular plants,Pinus sibirica,38.0,NISP,pollen,,4102.0,,,Radiocarbon years BP,395.0,110.0,pollen,6/30/2007,173.0,21.9653179191
+3335,Ovrazhnoe,56.25,85.166667,56.25,56.25,85.166667,85.166667,Vascular plants,Pinus sibirica,38.0,NISP,pollen,,4309.0,,,Radiocarbon years BP,415.0,110.0,pollen,6/30/2007,138.0,27.5362318841
+3335,Ovrazhnoe,56.25,85.166667,56.25,56.25,85.166667,85.166667,Vascular plants,Pinus sibirica,88.0,NISP,pollen,,4517.0,,,Radiocarbon years BP,435.0,110.0,pollen,6/30/2007,273.0,32.2344322344
+3335,Ovrazhnoe,56.25,85.166667,56.25,56.25,85.166667,85.166667,Vascular plants,Pinus sibirica,41.0,NISP,pollen,,4725.0,,,Radiocarbon years BP,455.0,110.0,pollen,6/30/2007,96.0,42.7083333333
+3335,Ovrazhnoe,56.25,85.166667,56.25,56.25,85.166667,85.166667,Vascular plants,Pinus sibirica,19.0,NISP,pollen,,4932.0,,,Radiocarbon years BP,475.0,110.0,pollen,6/30/2007,86.0,22.0930232558
+3335,Ovrazhnoe,56.25,85.166667,56.25,56.25,85.166667,85.166667,Vascular plants,Pinus sibirica,11.0,NISP,pollen,,5140.0,,,Radiocarbon years BP,495.0,110.0,pollen,6/30/2007,56.0,19.6428571429
+3347,Peschanoe Bog,56.9,60.316667,56.9,56.9,60.316667,60.316667,Vascular plants,Pinus sibirica,8.0,NISP,pollen,,,,,,12.0,310.0,pollen,6/30/2007,263.0,3.04182509506
+3347,Peschanoe Bog,56.9,60.316667,56.9,56.9,60.316667,60.316667,Vascular plants,Pinus sibirica,4.0,NISP,pollen,,,,,,25.0,310.0,pollen,6/30/2007,281.0,1.42348754448
+3347,Peschanoe Bog,56.9,60.316667,56.9,56.9,60.316667,60.316667,Vascular plants,Pinus sibirica,25.0,NISP,pollen,,,,,,50.0,310.0,pollen,6/30/2007,287.0,8.71080139373
+3347,Peschanoe Bog,56.9,60.316667,56.9,56.9,60.316667,60.316667,Vascular plants,Pinus sibirica,18.0,NISP,pollen,,,,,,62.0,310.0,pollen,6/30/2007,281.0,6.40569395018
+3347,Peschanoe Bog,56.9,60.316667,56.9,56.9,60.316667,60.316667,Vascular plants,Pinus sibirica,18.0,NISP,pollen,,,,,,75.0,310.0,pollen,6/30/2007,351.0,5.12820512821
+3347,Peschanoe Bog,56.9,60.316667,56.9,56.9,60.316667,60.316667,Vascular plants,Pinus sibirica,28.0,NISP,pollen,,,,,,87.0,310.0,pollen,6/30/2007,338.0,8.28402366864
+3347,Peschanoe Bog,56.9,60.316667,56.9,56.9,60.316667,60.316667,Vascular plants,Pinus sibirica,36.0,NISP,pollen,,,,,,100.0,310.0,pollen,6/30/2007,412.0,8.73786407767
+3347,Peschanoe Bog,56.9,60.316667,56.9,56.9,60.316667,60.316667,Vascular plants,Pinus sibirica,16.0,NISP,pollen,,,,,,112.0,310.0,pollen,6/30/2007,286.0,5.59440559441
+3347,Peschanoe Bog,56.9,60.316667,56.9,56.9,60.316667,60.316667,Vascular plants,Pinus sibirica,14.0,NISP,pollen,,,,,,125.0,310.0,pollen,6/30/2007,358.0,3.91061452514
+3347,Peschanoe Bog,56.9,60.316667,56.9,56.9,60.316667,60.316667,Vascular plants,Pinus sibirica,16.0,NISP,pollen,,,,,,137.0,310.0,pollen,6/30/2007,369.0,4.33604336043
+3347,Peschanoe Bog,56.9,60.316667,56.9,56.9,60.316667,60.316667,Vascular plants,Pinus sibirica,14.0,NISP,pollen,,,,,,150.0,310.0,pollen,6/30/2007,335.0,4.17910447761
+3347,Peschanoe Bog,56.9,60.316667,56.9,56.9,60.316667,60.316667,Vascular plants,Pinus sibirica,19.0,NISP,pollen,,,,,,162.0,310.0,pollen,6/30/2007,468.0,4.05982905983
+3347,Peschanoe Bog,56.9,60.316667,56.9,56.9,60.316667,60.316667,Vascular plants,Pinus sibirica,9.0,NISP,pollen,,,,,,175.0,310.0,pollen,6/30/2007,365.0,2.46575342466
+3347,Peschanoe Bog,56.9,60.316667,56.9,56.9,60.316667,60.316667,Vascular plants,Pinus sibirica,18.0,NISP,pollen,,,,,,187.0,310.0,pollen,6/30/2007,413.0,4.3583535109
+3347,Peschanoe Bog,56.9,60.316667,56.9,56.9,60.316667,60.316667,Vascular plants,Pinus sibirica,18.0,NISP,pollen,,,,,,200.0,310.0,pollen,6/30/2007,361.0,4.98614958449
+3347,Peschanoe Bog,56.9,60.316667,56.9,56.9,60.316667,60.316667,Vascular plants,Pinus sibirica,11.0,NISP,pollen,,,,,,212.0,310.0,pollen,6/30/2007,264.0,4.16666666667
+3347,Peschanoe Bog,56.9,60.316667,56.9,56.9,60.316667,60.316667,Vascular plants,Pinus sibirica,2.0,NISP,pollen,,,,,,237.0,310.0,pollen,6/30/2007,375.0,0.533333333333
+3347,Peschanoe Bog,56.9,60.316667,56.9,56.9,60.316667,60.316667,Vascular plants,Pinus sibirica,2.0,NISP,pollen,,,,,,250.0,310.0,pollen,6/30/2007,272.0,0.735294117647
+3347,Peschanoe Bog,56.9,60.316667,56.9,56.9,60.316667,60.316667,Vascular plants,Pinus sibirica,3.0,NISP,pollen,,,,,,300.0,310.0,pollen,6/30/2007,362.0,0.828729281768
+3347,Peschanoe Bog,56.9,60.316667,56.9,56.9,60.316667,60.316667,Vascular plants,Pinus sibirica,3.0,NISP,pollen,,,,,,312.0,310.0,pollen,6/30/2007,539.0,0.556586270872
+3347,Peschanoe Bog,56.9,60.316667,56.9,56.9,60.316667,60.316667,Vascular plants,Pinus sibirica,20.0,NISP,pollen,,,,,,337.0,310.0,pollen,6/30/2007,308.0,6.49350649351
+3347,Peschanoe Bog,56.9,60.316667,56.9,56.9,60.316667,60.316667,Vascular plants,Pinus sibirica,14.0,NISP,pollen,,,,,,350.0,310.0,pollen,6/30/2007,433.0,3.23325635104
+3347,Peschanoe Bog,56.9,60.316667,56.9,56.9,60.316667,60.316667,Vascular plants,Pinus sibirica,14.0,NISP,pollen,,,,,,362.0,310.0,pollen,6/30/2007,449.0,3.11804008909
+3347,Peschanoe Bog,56.9,60.316667,56.9,56.9,60.316667,60.316667,Vascular plants,Pinus sibirica,44.0,NISP,pollen,,,,,,375.0,310.0,pollen,6/30/2007,439.0,10.0227790433
+3347,Peschanoe Bog,56.9,60.316667,56.9,56.9,60.316667,60.316667,Vascular plants,Pinus sibirica,12.0,NISP,pollen,,,,,,387.0,310.0,pollen,6/30/2007,330.0,3.63636363636
+3347,Peschanoe Bog,56.9,60.316667,56.9,56.9,60.316667,60.316667,Vascular plants,Pinus sibirica,23.0,NISP,pollen,,,,,,400.0,310.0,pollen,6/30/2007,436.0,5.2752293578
+3347,Peschanoe Bog,56.9,60.316667,56.9,56.9,60.316667,60.316667,Vascular plants,Pinus sibirica,5.0,NISP,pollen,,,,,,413.0,310.0,pollen,6/30/2007,443.0,1.12866817156
+3347,Peschanoe Bog,56.9,60.316667,56.9,56.9,60.316667,60.316667,Vascular plants,Pinus sibirica,40.0,NISP,pollen,,,,,,425.0,310.0,pollen,6/30/2007,432.0,9.25925925926
+3347,Peschanoe Bog,56.9,60.316667,56.9,56.9,60.316667,60.316667,Vascular plants,Pinus sibirica,6.0,NISP,pollen,,,,,,438.0,310.0,pollen,6/30/2007,271.0,2.21402214022
+3347,Peschanoe Bog,56.9,60.316667,56.9,56.9,60.316667,60.316667,Vascular plants,Pinus sibirica,20.0,NISP,pollen,,,,,,450.0,310.0,pollen,6/30/2007,435.0,4.59770114943
+3347,Peschanoe Bog,56.9,60.316667,56.9,56.9,60.316667,60.316667,Vascular plants,Pinus sibirica,2.0,NISP,pollen,,,,,,462.0,310.0,pollen,6/30/2007,380.0,0.526315789474
+3347,Peschanoe Bog,56.9,60.316667,56.9,56.9,60.316667,60.316667,Vascular plants,Pinus sibirica,11.0,NISP,pollen,,,,,,475.0,310.0,pollen,6/30/2007,475.0,2.31578947368
+3347,Peschanoe Bog,56.9,60.316667,56.9,56.9,60.316667,60.316667,Vascular plants,Pinus sibirica,5.0,NISP,pollen,,,,,,488.0,310.0,pollen,6/30/2007,381.0,1.31233595801
+3347,Peschanoe Bog,56.9,60.316667,56.9,56.9,60.316667,60.316667,Vascular plants,Pinus sibirica,28.0,NISP,pollen,,,,,,500.0,310.0,pollen,6/30/2007,441.0,6.34920634921
+3347,Peschanoe Bog,56.9,60.316667,56.9,56.9,60.316667,60.316667,Vascular plants,Pinus sibirica,4.0,NISP,pollen,,,,,,513.0,310.0,pollen,6/30/2007,331.0,1.2084592145
+3347,Peschanoe Bog,56.9,60.316667,56.9,56.9,60.316667,60.316667,Vascular plants,Pinus sibirica,2.0,NISP,pollen,,,,,,525.0,310.0,pollen,6/30/2007,376.0,0.531914893617
+3347,Peschanoe Bog,56.9,60.316667,56.9,56.9,60.316667,60.316667,Vascular plants,Pinus sibirica,1.0,NISP,pollen,,,,,,538.0,310.0,pollen,6/30/2007,374.0,0.267379679144
+3347,Peschanoe Bog,56.9,60.316667,56.9,56.9,60.316667,60.316667,Vascular plants,Pinus sibirica,1.0,NISP,pollen,,,,,,550.0,310.0,pollen,6/30/2007,274.0,0.36496350365
+3347,Peschanoe Bog,56.9,60.316667,56.9,56.9,60.316667,60.316667,Vascular plants,Pinus sibirica,2.0,NISP,pollen,,,,,,562.0,310.0,pollen,6/30/2007,273.0,0.732600732601
+3347,Peschanoe Bog,56.9,60.316667,56.9,56.9,60.316667,60.316667,Vascular plants,Pinus sibirica,9.0,NISP,pollen,,,,,,575.0,310.0,pollen,6/30/2007,321.0,2.80373831776
+3347,Peschanoe Bog,56.9,60.316667,56.9,56.9,60.316667,60.316667,Vascular plants,Pinus sibirica,9.0,NISP,pollen,,,,,,587.0,310.0,pollen,6/30/2007,316.0,2.84810126582
+3347,Peschanoe Bog,56.9,60.316667,56.9,56.9,60.316667,60.316667,Vascular plants,Pinus sibirica,22.0,NISP,pollen,,,,,,600.0,310.0,pollen,6/30/2007,430.0,5.11627906977
+3347,Peschanoe Bog,56.9,60.316667,56.9,56.9,60.316667,60.316667,Vascular plants,Pinus sibirica,12.0,NISP,pollen,,,,,,612.0,310.0,pollen,6/30/2007,431.0,2.78422273782
+3347,Peschanoe Bog,56.9,60.316667,56.9,56.9,60.316667,60.316667,Vascular plants,Pinus sibirica,20.0,NISP,pollen,,,,,,625.0,310.0,pollen,6/30/2007,401.0,4.98753117207
+3347,Peschanoe Bog,56.9,60.316667,56.9,56.9,60.316667,60.316667,Vascular plants,Pinus sibirica,12.0,NISP,pollen,,,,,,638.0,310.0,pollen,6/30/2007,388.0,3.09278350515
+3347,Peschanoe Bog,56.9,60.316667,56.9,56.9,60.316667,60.316667,Vascular plants,Pinus sibirica,7.0,NISP,pollen,,,,,,650.0,310.0,pollen,6/30/2007,261.0,2.68199233716
+3347,Peschanoe Bog,56.9,60.316667,56.9,56.9,60.316667,60.316667,Vascular plants,Pinus sibirica,16.0,NISP,pollen,,,,,,660.0,310.0,pollen,6/30/2007,505.0,3.16831683168
+3347,Peschanoe Bog,56.9,60.316667,56.9,56.9,60.316667,60.316667,Vascular plants,Pinus sibirica,12.0,NISP,pollen,,,,,,670.0,310.0,pollen,6/30/2007,378.0,3.1746031746
+3347,Peschanoe Bog,56.9,60.316667,56.9,56.9,60.316667,60.316667,Vascular plants,Pinus sibirica,12.0,NISP,pollen,,,,,,690.0,310.0,pollen,6/30/2007,306.0,3.92156862745
+3347,Peschanoe Bog,56.9,60.316667,56.9,56.9,60.316667,60.316667,Vascular plants,Pinus sibirica,4.0,NISP,pollen,,,,,,720.0,310.0,pollen,6/30/2007,729.0,0.548696844993
+3350,Petropavlovka,58.333333,82.5,58.333333,58.333333,82.5,82.5,Vascular plants,Pinus sibirica,58.0,NISP,pollen,,1711.0,,,Radiocarbon years BP,1.0,100.0,pollen,6/30/2007,375.0,15.4666666667
+3350,Petropavlovka,58.333333,82.5,58.333333,58.333333,82.5,82.5,Vascular plants,Pinus sibirica,37.0,NISP,pollen,,1911.0,,,Radiocarbon years BP,18.0,100.0,pollen,6/30/2007,331.0,11.1782477341
+3350,Petropavlovka,58.333333,82.5,58.333333,58.333333,82.5,82.5,Vascular plants,Pinus sibirica,26.0,NISP,pollen,,2018.0,,,Radiocarbon years BP,27.0,100.0,pollen,6/30/2007,255.0,10.1960784314
+3350,Petropavlovka,58.333333,82.5,58.333333,58.333333,82.5,82.5,Vascular plants,Pinus sibirica,84.0,NISP,pollen,,2088.0,,,Radiocarbon years BP,33.0,100.0,pollen,6/30/2007,308.0,27.2727272727
+3350,Petropavlovka,58.333333,82.5,58.333333,58.333333,82.5,82.5,Vascular plants,Pinus sibirica,51.0,NISP,pollen,,2159.0,,,Radiocarbon years BP,39.0,100.0,pollen,6/30/2007,289.0,17.6470588235
+3350,Petropavlovka,58.333333,82.5,58.333333,58.333333,82.5,82.5,Vascular plants,Pinus sibirica,53.0,NISP,pollen,,2277.0,,,Radiocarbon years BP,49.0,100.0,pollen,6/30/2007,301.0,17.6079734219
+3350,Petropavlovka,58.333333,82.5,58.333333,58.333333,82.5,82.5,Vascular plants,Pinus sibirica,57.0,NISP,pollen,,2348.0,,,Radiocarbon years BP,55.0,100.0,pollen,6/30/2007,301.0,18.9368770764
+3350,Petropavlovka,58.333333,82.5,58.333333,58.333333,82.5,82.5,Vascular plants,Pinus sibirica,45.0,NISP,pollen,,2419.0,,,Radiocarbon years BP,61.0,100.0,pollen,6/30/2007,320.0,14.0625
+3350,Petropavlovka,58.333333,82.5,58.333333,58.333333,82.5,82.5,Vascular plants,Pinus sibirica,49.0,NISP,pollen,,2490.0,,,Radiocarbon years BP,67.0,100.0,pollen,6/30/2007,338.0,14.4970414201
+3350,Petropavlovka,58.333333,82.5,58.333333,58.333333,82.5,82.5,Vascular plants,Pinus sibirica,42.0,NISP,pollen,,2537.0,,,Radiocarbon years BP,71.0,100.0,pollen,6/30/2007,356.0,11.797752809
+3350,Petropavlovka,58.333333,82.5,58.333333,58.333333,82.5,82.5,Vascular plants,Pinus sibirica,72.0,NISP,pollen,,2608.0,,,Radiocarbon years BP,77.0,100.0,pollen,6/30/2007,403.0,17.8660049628
+3350,Petropavlovka,58.333333,82.5,58.333333,58.333333,82.5,82.5,Vascular plants,Pinus sibirica,79.0,NISP,pollen,,2678.0,,,Radiocarbon years BP,83.0,100.0,pollen,6/30/2007,317.0,24.9211356467
+3350,Petropavlovka,58.333333,82.5,58.333333,58.333333,82.5,82.5,Vascular plants,Pinus sibirica,64.0,NISP,pollen,,2796.0,,,Radiocarbon years BP,93.0,100.0,pollen,6/30/2007,337.0,18.9910979228
+3350,Petropavlovka,58.333333,82.5,58.333333,58.333333,82.5,82.5,Vascular plants,Pinus sibirica,56.0,NISP,pollen,,2867.0,,,Radiocarbon years BP,99.0,100.0,pollen,6/30/2007,295.0,18.9830508475
+3350,Petropavlovka,58.333333,82.5,58.333333,58.333333,82.5,82.5,Vascular plants,Pinus sibirica,46.0,NISP,pollen,,3009.0,,,Radiocarbon years BP,111.0,100.0,pollen,6/30/2007,236.0,19.4915254237
+3350,Petropavlovka,58.333333,82.5,58.333333,58.333333,82.5,82.5,Vascular plants,Pinus sibirica,53.0,NISP,pollen,,3086.0,,,Radiocarbon years BP,117.5,100.0,pollen,6/30/2007,327.0,16.2079510703
+3350,Petropavlovka,58.333333,82.5,58.333333,58.333333,82.5,82.5,Vascular plants,Pinus sibirica,55.0,NISP,pollen,,3150.0,,,Radiocarbon years BP,123.0,100.0,pollen,6/30/2007,277.0,19.8555956679
+3350,Petropavlovka,58.333333,82.5,58.333333,58.333333,82.5,82.5,Vascular plants,Pinus sibirica,81.0,NISP,pollen,,3227.0,,,Radiocarbon years BP,129.5,100.0,pollen,6/30/2007,294.0,27.5510204082
+3350,Petropavlovka,58.333333,82.5,58.333333,58.333333,82.5,82.5,Vascular plants,Pinus sibirica,84.0,NISP,pollen,,3292.0,,,Radiocarbon years BP,135.0,100.0,pollen,6/30/2007,417.0,20.1438848921
+3350,Petropavlovka,58.333333,82.5,58.333333,58.333333,82.5,82.5,Vascular plants,Pinus sibirica,65.0,NISP,pollen,,3381.0,,,Radiocarbon years BP,142.5,100.0,pollen,6/30/2007,291.0,22.3367697595
+3350,Petropavlovka,58.333333,82.5,58.333333,58.333333,82.5,82.5,Vascular plants,Pinus sibirica,55.0,NISP,pollen,,3434.0,,,Radiocarbon years BP,147.0,100.0,pollen,6/30/2007,301.0,18.2724252492
+3350,Petropavlovka,58.333333,82.5,58.333333,58.333333,82.5,82.5,Vascular plants,Pinus sibirica,49.0,NISP,pollen,,3504.0,,,Radiocarbon years BP,153.0,100.0,pollen,6/30/2007,289.0,16.955017301
+3350,Petropavlovka,58.333333,82.5,58.333333,58.333333,82.5,82.5,Vascular plants,Pinus sibirica,59.0,NISP,pollen,,3569.0,,,Radiocarbon years BP,158.5,100.0,pollen,6/30/2007,281.0,20.9964412811
+3350,Petropavlovka,58.333333,82.5,58.333333,58.333333,82.5,82.5,Vascular plants,Pinus sibirica,59.0,NISP,pollen,,3681.0,,,Radiocarbon years BP,168.0,100.0,pollen,6/30/2007,340.0,17.3529411765
+3350,Petropavlovka,58.333333,82.5,58.333333,58.333333,82.5,82.5,Vascular plants,Pinus sibirica,47.0,NISP,pollen,,3811.0,,,Radiocarbon years BP,179.0,100.0,pollen,6/30/2007,284.0,16.5492957746
+3350,Petropavlovka,58.333333,82.5,58.333333,58.333333,82.5,82.5,Vascular plants,Pinus sibirica,66.0,NISP,pollen,,3882.0,,,Radiocarbon years BP,185.0,100.0,pollen,6/30/2007,371.0,17.7897574124
+3350,Petropavlovka,58.333333,82.5,58.333333,58.333333,82.5,82.5,Vascular plants,Pinus sibirica,50.0,NISP,pollen,,3953.0,,,Radiocarbon years BP,191.0,100.0,pollen,6/30/2007,355.0,14.0845070423
+3350,Petropavlovka,58.333333,82.5,58.333333,58.333333,82.5,82.5,Vascular plants,Pinus sibirica,66.0,NISP,pollen,,4024.0,,,Radiocarbon years BP,197.0,100.0,pollen,6/30/2007,317.0,20.8201892744
+3350,Petropavlovka,58.333333,82.5,58.333333,58.333333,82.5,82.5,Vascular plants,Pinus sibirica,44.0,NISP,pollen,,4165.0,,,Radiocarbon years BP,209.0,100.0,pollen,6/30/2007,319.0,13.7931034483
+3350,Petropavlovka,58.333333,82.5,58.333333,58.333333,82.5,82.5,Vascular plants,Pinus sibirica,55.0,NISP,pollen,,4218.0,,,Radiocarbon years BP,213.5,100.0,pollen,6/30/2007,340.0,16.1764705882
+3350,Petropavlovka,58.333333,82.5,58.333333,58.333333,82.5,82.5,Vascular plants,Pinus sibirica,68.0,NISP,pollen,,4283.0,,,Radiocarbon years BP,219.0,100.0,pollen,6/30/2007,310.0,21.935483871
+3350,Petropavlovka,58.333333,82.5,58.333333,58.333333,82.5,82.5,Vascular plants,Pinus sibirica,68.0,NISP,pollen,,4354.0,,,Radiocarbon years BP,225.0,100.0,pollen,6/30/2007,413.0,16.4648910412
+3350,Petropavlovka,58.333333,82.5,58.333333,58.333333,82.5,82.5,Vascular plants,Pinus sibirica,35.0,NISP,pollen,,4425.0,,,Radiocarbon years BP,231.0,100.0,pollen,6/30/2007,279.0,12.5448028674
+3350,Petropavlovka,58.333333,82.5,58.333333,58.333333,82.5,82.5,Vascular plants,Pinus sibirica,70.0,NISP,pollen,,4496.0,,,Radiocarbon years BP,237.0,100.0,pollen,6/30/2007,353.0,19.8300283286
+3350,Petropavlovka,58.333333,82.5,58.333333,58.333333,82.5,82.5,Vascular plants,Pinus sibirica,35.0,NISP,pollen,,4566.0,,,Radiocarbon years BP,243.0,100.0,pollen,6/30/2007,353.0,9.91501416431
+3350,Petropavlovka,58.333333,82.5,58.333333,58.333333,82.5,82.5,Vascular plants,Pinus sibirica,52.0,NISP,pollen,,4693.0,,,Radiocarbon years BP,249.0,100.0,pollen,6/30/2007,419.0,12.4105011933
+3350,Petropavlovka,58.333333,82.5,58.333333,58.333333,82.5,82.5,Vascular plants,Pinus sibirica,51.0,NISP,pollen,,4847.0,,,Radiocarbon years BP,255.0,100.0,pollen,6/30/2007,342.0,14.9122807018
+3350,Petropavlovka,58.333333,82.5,58.333333,58.333333,82.5,82.5,Vascular plants,Pinus sibirica,35.0,NISP,pollen,,5002.0,,,Radiocarbon years BP,261.0,100.0,pollen,6/30/2007,331.0,10.5740181269
+3350,Petropavlovka,58.333333,82.5,58.333333,58.333333,82.5,82.5,Vascular plants,Pinus sibirica,34.0,NISP,pollen,,5156.0,,,Radiocarbon years BP,267.0,100.0,pollen,6/30/2007,365.0,9.31506849315
+3350,Petropavlovka,58.333333,82.5,58.333333,58.333333,82.5,82.5,Vascular plants,Pinus sibirica,23.0,NISP,pollen,,5311.0,,,Radiocarbon years BP,273.0,100.0,pollen,6/30/2007,314.0,7.32484076433
+3350,Petropavlovka,58.333333,82.5,58.333333,58.333333,82.5,82.5,Vascular plants,Pinus sibirica,11.0,NISP,pollen,,5568.0,,,Radiocarbon years BP,283.0,100.0,pollen,6/30/2007,339.0,3.24483775811
+3350,Petropavlovka,58.333333,82.5,58.333333,58.333333,82.5,82.5,Vascular plants,Pinus sibirica,8.0,NISP,pollen,,5619.0,,,Radiocarbon years BP,285.0,100.0,pollen,6/30/2007,151.0,5.29801324503
+3350,Petropavlovka,58.333333,82.5,58.333333,58.333333,82.5,82.5,Vascular plants,Pinus sibirica,32.0,NISP,pollen,,5774.0,,,Radiocarbon years BP,291.0,100.0,pollen,6/30/2007,260.0,12.3076923077
+3350,Petropavlovka,58.333333,82.5,58.333333,58.333333,82.5,82.5,Vascular plants,Pinus sibirica,20.0,NISP,pollen,,5928.0,,,Radiocarbon years BP,297.0,100.0,pollen,6/30/2007,309.0,6.47249190939
+3350,Petropavlovka,58.333333,82.5,58.333333,58.333333,82.5,82.5,Vascular plants,Pinus sibirica,29.0,NISP,pollen,,6108.0,,,Radiocarbon years BP,304.0,100.0,pollen,6/30/2007,284.0,10.2112676056
+3350,Petropavlovka,58.333333,82.5,58.333333,58.333333,82.5,82.5,Vascular plants,Pinus sibirica,45.0,NISP,pollen,,6288.0,,,Radiocarbon years BP,311.0,100.0,pollen,6/30/2007,330.0,13.6363636364
+3350,Petropavlovka,58.333333,82.5,58.333333,58.333333,82.5,82.5,Vascular plants,Pinus sibirica,52.0,NISP,pollen,,6443.0,,,Radiocarbon years BP,317.0,100.0,pollen,6/30/2007,320.0,16.25
+3350,Petropavlovka,58.333333,82.5,58.333333,58.333333,82.5,82.5,Vascular plants,Pinus sibirica,71.0,NISP,pollen,,6597.0,,,Radiocarbon years BP,323.0,100.0,pollen,6/30/2007,338.0,21.0059171598
+3350,Petropavlovka,58.333333,82.5,58.333333,58.333333,82.5,82.5,Vascular plants,Pinus sibirica,27.0,NISP,pollen,,6752.0,,,Radiocarbon years BP,329.0,100.0,pollen,6/30/2007,291.0,9.27835051546
+3350,Petropavlovka,58.333333,82.5,58.333333,58.333333,82.5,82.5,Vascular plants,Pinus sibirica,49.0,NISP,pollen,,6906.0,,,Radiocarbon years BP,335.0,100.0,pollen,6/30/2007,278.0,17.6258992806
+3350,Petropavlovka,58.333333,82.5,58.333333,58.333333,82.5,82.5,Vascular plants,Pinus sibirica,40.0,NISP,pollen,,7060.0,,,Radiocarbon years BP,341.0,100.0,pollen,6/30/2007,295.0,13.5593220339
+3350,Petropavlovka,58.333333,82.5,58.333333,58.333333,82.5,82.5,Vascular plants,Pinus sibirica,27.0,NISP,pollen,,7215.0,,,Radiocarbon years BP,347.0,100.0,pollen,6/30/2007,280.0,9.64285714286
+3350,Petropavlovka,58.333333,82.5,58.333333,58.333333,82.5,82.5,Vascular plants,Pinus sibirica,37.0,NISP,pollen,,7369.0,,,Radiocarbon years BP,353.0,100.0,pollen,6/30/2007,294.0,12.5850340136
+3350,Petropavlovka,58.333333,82.5,58.333333,58.333333,82.5,82.5,Vascular plants,Pinus sibirica,16.0,NISP,pollen,,7524.0,,,Radiocarbon years BP,359.0,100.0,pollen,6/30/2007,302.0,5.29801324503
+3350,Petropavlovka,58.333333,82.5,58.333333,58.333333,82.5,82.5,Vascular plants,Pinus sibirica,22.0,NISP,pollen,,7678.0,,,Radiocarbon years BP,365.0,100.0,pollen,6/30/2007,340.0,6.47058823529
+3350,Petropavlovka,58.333333,82.5,58.333333,58.333333,82.5,82.5,Vascular plants,Pinus sibirica,20.0,NISP,pollen,,7832.0,,,Radiocarbon years BP,371.0,100.0,pollen,6/30/2007,348.0,5.74712643678
+3350,Petropavlovka,58.333333,82.5,58.333333,58.333333,82.5,82.5,Vascular plants,Pinus sibirica,9.0,NISP,pollen,,7987.0,,,Radiocarbon years BP,377.0,100.0,pollen,6/30/2007,361.0,2.49307479224
+3350,Petropavlovka,58.333333,82.5,58.333333,58.333333,82.5,82.5,Vascular plants,Pinus sibirica,15.0,NISP,pollen,,8141.0,,,Radiocarbon years BP,383.0,100.0,pollen,6/30/2007,319.0,4.70219435737
+3350,Petropavlovka,58.333333,82.5,58.333333,58.333333,82.5,82.5,Vascular plants,Pinus sibirica,6.0,NISP,pollen,,8296.0,,,Radiocarbon years BP,389.0,100.0,pollen,6/30/2007,304.0,1.97368421053
+3350,Petropavlovka,58.333333,82.5,58.333333,58.333333,82.5,82.5,Vascular plants,Pinus sibirica,16.0,NISP,pollen,,8450.0,,,Radiocarbon years BP,395.0,100.0,pollen,6/30/2007,381.0,4.19947506562
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Pinus sibirica,2.0,NISP,pollen,,,,,,4680.0,150.0,pollen,6/30/2007,376.0,0.531914893617
+3391,Pervoe Maya,56.367222,37.184444,56.367222,56.367222,37.184444,37.184444,Vascular plants,Pinus sibirica,1.0,NISP,pollen,,,,,,4740.0,150.0,pollen,6/30/2007,473.0,0.211416490486
+3462,Teguldet,57.333333,88.166667,57.333333,57.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,43.0,NISP,pollen,,,,,,5.0,150.0,pollen,6/30/2007,344.0,12.5
+3462,Teguldet,57.333333,88.166667,57.333333,57.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,40.0,NISP,pollen,,,,,,15.0,150.0,pollen,6/30/2007,327.0,12.2324159021
+3462,Teguldet,57.333333,88.166667,57.333333,57.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,60.0,NISP,pollen,,,,,,25.0,150.0,pollen,6/30/2007,304.0,19.7368421053
+3462,Teguldet,57.333333,88.166667,57.333333,57.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,83.0,NISP,pollen,,,,,,35.0,150.0,pollen,6/30/2007,326.0,25.4601226994
+3462,Teguldet,57.333333,88.166667,57.333333,57.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,88.0,NISP,pollen,,,,,,45.0,150.0,pollen,6/30/2007,353.0,24.9291784703
+3462,Teguldet,57.333333,88.166667,57.333333,57.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,82.0,NISP,pollen,,,,,,55.0,150.0,pollen,6/30/2007,297.0,27.6094276094
+3462,Teguldet,57.333333,88.166667,57.333333,57.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,84.0,NISP,pollen,,,,,,65.0,150.0,pollen,6/30/2007,327.0,25.6880733945
+3462,Teguldet,57.333333,88.166667,57.333333,57.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,81.0,NISP,pollen,,,,,,75.0,150.0,pollen,6/30/2007,303.0,26.7326732673
+3462,Teguldet,57.333333,88.166667,57.333333,57.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,94.0,NISP,pollen,,,,,,85.0,150.0,pollen,6/30/2007,309.0,30.4207119741
+3462,Teguldet,57.333333,88.166667,57.333333,57.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,63.0,NISP,pollen,,,,,,95.0,150.0,pollen,6/30/2007,315.0,20.0
+3462,Teguldet,57.333333,88.166667,57.333333,57.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,84.0,NISP,pollen,,,,,,105.0,150.0,pollen,6/30/2007,342.0,24.5614035088
+3462,Teguldet,57.333333,88.166667,57.333333,57.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,75.0,NISP,pollen,,,,,,115.0,150.0,pollen,6/30/2007,309.0,24.2718446602
+3462,Teguldet,57.333333,88.166667,57.333333,57.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,64.0,NISP,pollen,,,,,,125.0,150.0,pollen,6/30/2007,268.0,23.8805970149
+3462,Teguldet,57.333333,88.166667,57.333333,57.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,86.0,NISP,pollen,,,,,,135.0,150.0,pollen,6/30/2007,283.0,30.3886925795
+3462,Teguldet,57.333333,88.166667,57.333333,57.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,82.0,NISP,pollen,,,,,,145.0,150.0,pollen,6/30/2007,305.0,26.8852459016
+3462,Teguldet,57.333333,88.166667,57.333333,57.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,55.0,NISP,pollen,,,,,,155.0,150.0,pollen,6/30/2007,293.0,18.771331058
+3462,Teguldet,57.333333,88.166667,57.333333,57.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,76.0,NISP,pollen,,,,,,165.0,150.0,pollen,6/30/2007,304.0,25.0
+3462,Teguldet,57.333333,88.166667,57.333333,57.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,78.0,NISP,pollen,,,,,,175.0,150.0,pollen,6/30/2007,306.0,25.4901960784
+3462,Teguldet,57.333333,88.166667,57.333333,57.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,84.0,NISP,pollen,,,,,,185.0,150.0,pollen,6/30/2007,292.0,28.7671232877
+3462,Teguldet,57.333333,88.166667,57.333333,57.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,96.0,NISP,pollen,,,,,,195.0,150.0,pollen,6/30/2007,295.0,32.5423728814
+3462,Teguldet,57.333333,88.166667,57.333333,57.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,89.0,NISP,pollen,,,,,,215.0,150.0,pollen,6/30/2007,293.0,30.3754266212
+3462,Teguldet,57.333333,88.166667,57.333333,57.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,96.0,NISP,pollen,,,,,,225.0,150.0,pollen,6/30/2007,300.0,32.0
+3462,Teguldet,57.333333,88.166667,57.333333,57.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,79.0,NISP,pollen,,,,,,235.0,150.0,pollen,6/30/2007,278.0,28.4172661871
+3462,Teguldet,57.333333,88.166667,57.333333,57.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,86.0,NISP,pollen,,,,,,245.0,150.0,pollen,6/30/2007,294.0,29.2517006803
+3462,Teguldet,57.333333,88.166667,57.333333,57.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,107.0,NISP,pollen,,,,,,255.0,150.0,pollen,6/30/2007,313.0,34.1853035144
+3462,Teguldet,57.333333,88.166667,57.333333,57.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,95.0,NISP,pollen,,,,,,265.0,150.0,pollen,6/30/2007,293.0,32.4232081911
+3462,Teguldet,57.333333,88.166667,57.333333,57.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,99.0,NISP,pollen,,,,,,275.0,150.0,pollen,6/30/2007,297.0,33.3333333333
+3462,Teguldet,57.333333,88.166667,57.333333,57.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,105.0,NISP,pollen,,,,,,285.0,150.0,pollen,6/30/2007,288.0,36.4583333333
+3462,Teguldet,57.333333,88.166667,57.333333,57.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,98.0,NISP,pollen,,,,,,295.0,150.0,pollen,6/30/2007,293.0,33.4470989761
+3462,Teguldet,57.333333,88.166667,57.333333,57.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,70.0,NISP,pollen,,,,,,305.0,150.0,pollen,6/30/2007,291.0,24.0549828179
+3462,Teguldet,57.333333,88.166667,57.333333,57.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,56.0,NISP,pollen,,,,,,315.0,150.0,pollen,6/30/2007,329.0,17.0212765957
+3462,Teguldet,57.333333,88.166667,57.333333,57.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,58.0,NISP,pollen,,,,,,325.0,150.0,pollen,6/30/2007,286.0,20.2797202797
+3462,Teguldet,57.333333,88.166667,57.333333,57.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,80.0,NISP,pollen,,,,,,335.0,150.0,pollen,6/30/2007,380.0,21.0526315789
+3462,Teguldet,57.333333,88.166667,57.333333,57.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,94.0,NISP,pollen,,,,,,365.0,150.0,pollen,6/30/2007,335.0,28.0597014925
+3462,Teguldet,57.333333,88.166667,57.333333,57.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,94.0,NISP,pollen,,,,,,375.0,150.0,pollen,6/30/2007,364.0,25.8241758242
+3462,Teguldet,57.333333,88.166667,57.333333,57.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,100.0,NISP,pollen,,,,,,385.0,150.0,pollen,6/30/2007,331.0,30.2114803625
+3462,Teguldet,57.333333,88.166667,57.333333,57.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,84.0,NISP,pollen,,,,,,395.0,150.0,pollen,6/30/2007,327.0,25.6880733945
+3462,Teguldet,57.333333,88.166667,57.333333,57.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,55.0,NISP,pollen,,,,,,405.0,150.0,pollen,6/30/2007,314.0,17.5159235669
+3462,Teguldet,57.333333,88.166667,57.333333,57.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,68.0,NISP,pollen,,,,,,415.0,150.0,pollen,6/30/2007,329.0,20.6686930091
+3462,Teguldet,57.333333,88.166667,57.333333,57.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,45.0,NISP,pollen,,,,,,425.0,150.0,pollen,6/30/2007,258.0,17.4418604651
+3462,Teguldet,57.333333,88.166667,57.333333,57.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,47.0,NISP,pollen,,,,,,435.0,150.0,pollen,6/30/2007,323.0,14.5510835913
+3462,Teguldet,57.333333,88.166667,57.333333,57.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,41.0,NISP,pollen,,,,,,445.0,150.0,pollen,6/30/2007,281.0,14.590747331
+3462,Teguldet,57.333333,88.166667,57.333333,57.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,16.0,NISP,pollen,,,,,,455.0,150.0,pollen,6/30/2007,254.0,6.29921259843
+3462,Teguldet,57.333333,88.166667,57.333333,57.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,13.0,NISP,pollen,,,,,,465.0,150.0,pollen,6/30/2007,285.0,4.56140350877
+3462,Teguldet,57.333333,88.166667,57.333333,57.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,8.0,NISP,pollen,,,,,,475.0,150.0,pollen,6/30/2007,306.0,2.61437908497
+3462,Teguldet,57.333333,88.166667,57.333333,57.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,35.0,NISP,pollen,,,,,,485.0,150.0,pollen,6/30/2007,289.0,12.1107266436
+3462,Teguldet,57.333333,88.166667,57.333333,57.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,19.0,NISP,pollen,,,,,,495.0,150.0,pollen,6/30/2007,315.0,6.03174603175
+3462,Teguldet,57.333333,88.166667,57.333333,57.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,18.0,NISP,pollen,,,,,,515.0,150.0,pollen,6/30/2007,289.0,6.22837370242
+3462,Teguldet,57.333333,88.166667,57.333333,57.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,17.0,NISP,pollen,,,,,,525.0,150.0,pollen,6/30/2007,267.0,6.3670411985
+3462,Teguldet,57.333333,88.166667,57.333333,57.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,22.0,NISP,pollen,,,,,,535.0,150.0,pollen,6/30/2007,343.0,6.4139941691
+3462,Teguldet,57.333333,88.166667,57.333333,57.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,24.0,NISP,pollen,,,,,,545.0,150.0,pollen,6/30/2007,348.0,6.89655172414
+3462,Teguldet,57.333333,88.166667,57.333333,57.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,8.0,NISP,pollen,,,,,,555.0,150.0,pollen,6/30/2007,348.0,2.29885057471
+3462,Teguldet,57.333333,88.166667,57.333333,57.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,8.0,NISP,pollen,,,,,,565.0,150.0,pollen,6/30/2007,364.0,2.1978021978
+3462,Teguldet,57.333333,88.166667,57.333333,57.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,3.0,NISP,pollen,,,,,,575.0,150.0,pollen,6/30/2007,160.0,1.875
+3462,Teguldet,57.333333,88.166667,57.333333,57.333333,88.166667,88.166667,Vascular plants,Pinus sibirica,4.0,NISP,pollen,,,,,,585.0,150.0,pollen,6/30/2007,279.0,1.43369175627
+3485,Ust'Mashevskoe,56.316667,57.883333,56.316667,56.316667,57.883333,57.883333,Vascular plants,Pinus sibirica,2.0,NISP,pollen,,458.0,,,Radiocarbon years BP,25.0,220.0,pollen,6/30/2007,262.0,0.763358778626
+3485,Ust'Mashevskoe,56.316667,57.883333,56.316667,56.316667,57.883333,57.883333,Vascular plants,Pinus sibirica,3.0,NISP,pollen,,526.0,,,Radiocarbon years BP,37.0,220.0,pollen,6/30/2007,218.0,1.37614678899
+3485,Ust'Mashevskoe,56.316667,57.883333,56.316667,56.316667,57.883333,57.883333,Vascular plants,Pinus sibirica,2.0,NISP,pollen,,599.0,,,Radiocarbon years BP,50.0,220.0,pollen,6/30/2007,925.0,0.216216216216
+3485,Ust'Mashevskoe,56.316667,57.883333,56.316667,56.316667,57.883333,57.883333,Vascular plants,Pinus sibirica,4.0,NISP,pollen,,673.0,,,Radiocarbon years BP,63.0,220.0,pollen,6/30/2007,218.0,1.83486238532
+3485,Ust'Mashevskoe,56.316667,57.883333,56.316667,56.316667,57.883333,57.883333,Vascular plants,Pinus sibirica,1.0,NISP,pollen,,741.0,,,Radiocarbon years BP,75.0,220.0,pollen,6/30/2007,220.0,0.454545454545
+3485,Ust'Mashevskoe,56.316667,57.883333,56.316667,56.316667,57.883333,57.883333,Vascular plants,Pinus sibirica,2.0,NISP,pollen,,815.0,,,Radiocarbon years BP,88.0,220.0,pollen,6/30/2007,273.0,0.732600732601
+3485,Ust'Mashevskoe,56.316667,57.883333,56.316667,56.316667,57.883333,57.883333,Vascular plants,Pinus sibirica,4.0,NISP,pollen,,883.0,,,Radiocarbon years BP,100.0,220.0,pollen,6/30/2007,213.0,1.8779342723
+3485,Ust'Mashevskoe,56.316667,57.883333,56.316667,56.316667,57.883333,57.883333,Vascular plants,Pinus sibirica,5.0,NISP,pollen,,956.0,,,Radiocarbon years BP,113.0,220.0,pollen,6/30/2007,205.0,2.43902439024
+3485,Ust'Mashevskoe,56.316667,57.883333,56.316667,56.316667,57.883333,57.883333,Vascular plants,Pinus sibirica,3.0,NISP,pollen,,1024.0,,,Radiocarbon years BP,125.0,220.0,pollen,6/30/2007,201.0,1.49253731343
+3485,Ust'Mashevskoe,56.316667,57.883333,56.316667,56.316667,57.883333,57.883333,Vascular plants,Pinus sibirica,2.0,NISP,pollen,,1098.0,,,Radiocarbon years BP,138.0,220.0,pollen,6/30/2007,220.0,0.909090909091
+3485,Ust'Mashevskoe,56.316667,57.883333,56.316667,56.316667,57.883333,57.883333,Vascular plants,Pinus sibirica,4.0,NISP,pollen,,1166.0,,,Radiocarbon years BP,150.0,220.0,pollen,6/30/2007,207.0,1.93236714976
+3485,Ust'Mashevskoe,56.316667,57.883333,56.316667,56.316667,57.883333,57.883333,Vascular plants,Pinus sibirica,3.0,NISP,pollen,,1240.0,,,Radiocarbon years BP,163.0,220.0,pollen,6/30/2007,222.0,1.35135135135
+3485,Ust'Mashevskoe,56.316667,57.883333,56.316667,56.316667,57.883333,57.883333,Vascular plants,Pinus sibirica,2.0,NISP,pollen,,1308.0,,,Radiocarbon years BP,175.0,220.0,pollen,6/30/2007,213.0,0.93896713615
+3485,Ust'Mashevskoe,56.316667,57.883333,56.316667,56.316667,57.883333,57.883333,Vascular plants,Pinus sibirica,1.0,NISP,pollen,,1573.0,,,Radiocarbon years BP,200.0,220.0,pollen,6/30/2007,211.0,0.473933649289
+3485,Ust'Mashevskoe,56.316667,57.883333,56.316667,56.316667,57.883333,57.883333,Vascular plants,Pinus sibirica,1.0,NISP,pollen,,1847.0,,,Radiocarbon years BP,213.0,220.0,pollen,6/30/2007,225.0,0.444444444444
+3485,Ust'Mashevskoe,56.316667,57.883333,56.316667,56.316667,57.883333,57.883333,Vascular plants,Pinus sibirica,1.0,NISP,pollen,,2374.0,,,Radiocarbon years BP,238.0,220.0,pollen,6/30/2007,209.0,0.478468899522
+3485,Ust'Mashevskoe,56.316667,57.883333,56.316667,56.316667,57.883333,57.883333,Vascular plants,Pinus sibirica,1.0,NISP,pollen,,2627.0,,,Radiocarbon years BP,250.0,220.0,pollen,6/30/2007,220.0,0.454545454545
+3485,Ust'Mashevskoe,56.316667,57.883333,56.316667,56.316667,57.883333,57.883333,Vascular plants,Pinus sibirica,3.0,NISP,pollen,,2901.0,,,Radiocarbon years BP,263.0,220.0,pollen,6/30/2007,221.0,1.35746606335
+3485,Ust'Mashevskoe,56.316667,57.883333,56.316667,56.316667,57.883333,57.883333,Vascular plants,Pinus sibirica,2.0,NISP,pollen,,3154.0,,,Radiocarbon years BP,275.0,220.0,pollen,6/30/2007,226.0,0.884955752212
+3485,Ust'Mashevskoe,56.316667,57.883333,56.316667,56.316667,57.883333,57.883333,Vascular plants,Pinus sibirica,1.0,NISP,pollen,,3428.0,,,Radiocarbon years BP,288.0,220.0,pollen,6/30/2007,215.0,0.46511627907
+3485,Ust'Mashevskoe,56.316667,57.883333,56.316667,56.316667,57.883333,57.883333,Vascular plants,Pinus sibirica,1.0,NISP,pollen,,3681.0,,,Radiocarbon years BP,300.0,220.0,pollen,6/30/2007,216.0,0.462962962963
+3485,Ust'Mashevskoe,56.316667,57.883333,56.316667,56.316667,57.883333,57.883333,Vascular plants,Pinus sibirica,5.0,NISP,pollen,,3850.0,,,Radiocarbon years BP,313.0,220.0,pollen,6/30/2007,221.0,2.26244343891
+3485,Ust'Mashevskoe,56.316667,57.883333,56.316667,56.316667,57.883333,57.883333,Vascular plants,Pinus sibirica,1.0,NISP,pollen,,3892.0,,,Radiocarbon years BP,325.0,220.0,pollen,6/30/2007,227.0,0.440528634361
+3485,Ust'Mashevskoe,56.316667,57.883333,56.316667,56.316667,57.883333,57.883333,Vascular plants,Pinus sibirica,1.0,NISP,pollen,,3934.0,,,Radiocarbon years BP,337.0,220.0,pollen,6/30/2007,223.0,0.448430493274
+3485,Ust'Mashevskoe,56.316667,57.883333,56.316667,56.316667,57.883333,57.883333,Vascular plants,Pinus sibirica,1.0,NISP,pollen,,3980.0,,,Radiocarbon years BP,350.0,220.0,pollen,6/30/2007,223.0,0.448430493274
+3485,Ust'Mashevskoe,56.316667,57.883333,56.316667,56.316667,57.883333,57.883333,Vascular plants,Pinus sibirica,1.0,NISP,pollen,,4026.0,,,Radiocarbon years BP,363.0,220.0,pollen,6/30/2007,216.0,0.462962962963
+3485,Ust'Mashevskoe,56.316667,57.883333,56.316667,56.316667,57.883333,57.883333,Vascular plants,Pinus sibirica,2.0,NISP,pollen,,4068.0,,,Radiocarbon years BP,375.0,220.0,pollen,6/30/2007,217.0,0.921658986175
+3485,Ust'Mashevskoe,56.316667,57.883333,56.316667,56.316667,57.883333,57.883333,Vascular plants,Pinus sibirica,1.0,NISP,pollen,,4113.0,,,Radiocarbon years BP,388.0,220.0,pollen,6/30/2007,218.0,0.45871559633
+3485,Ust'Mashevskoe,56.316667,57.883333,56.316667,56.316667,57.883333,57.883333,Vascular plants,Pinus sibirica,1.0,NISP,pollen,,4155.0,,,Radiocarbon years BP,400.0,220.0,pollen,6/30/2007,213.0,0.469483568075
+3485,Ust'Mashevskoe,56.316667,57.883333,56.316667,56.316667,57.883333,57.883333,Vascular plants,Pinus sibirica,3.0,NISP,pollen,,4314.0,,,Radiocarbon years BP,413.0,220.0,pollen,6/30/2007,231.0,1.2987012987
+3485,Ust'Mashevskoe,56.316667,57.883333,56.316667,56.316667,57.883333,57.883333,Vascular plants,Pinus sibirica,1.0,NISP,pollen,,4583.0,,,Radiocarbon years BP,425.0,220.0,pollen,6/30/2007,211.0,0.473933649289
+3485,Ust'Mashevskoe,56.316667,57.883333,56.316667,56.316667,57.883333,57.883333,Vascular plants,Pinus sibirica,10.0,NISP,pollen,,4874.0,,,Radiocarbon years BP,438.0,220.0,pollen,6/30/2007,228.0,4.38596491228
+3485,Ust'Mashevskoe,56.316667,57.883333,56.316667,56.316667,57.883333,57.883333,Vascular plants,Pinus sibirica,4.0,NISP,pollen,,5143.0,,,Radiocarbon years BP,450.0,220.0,pollen,6/30/2007,218.0,1.83486238532
+3485,Ust'Mashevskoe,56.316667,57.883333,56.316667,56.316667,57.883333,57.883333,Vascular plants,Pinus sibirica,5.0,NISP,pollen,,5434.0,,,Radiocarbon years BP,463.0,220.0,pollen,6/30/2007,216.0,2.31481481481
+3485,Ust'Mashevskoe,56.316667,57.883333,56.316667,56.316667,57.883333,57.883333,Vascular plants,Pinus sibirica,9.0,NISP,pollen,,5702.0,,,Radiocarbon years BP,475.0,220.0,pollen,6/30/2007,237.0,3.79746835443
+3485,Ust'Mashevskoe,56.316667,57.883333,56.316667,56.316667,57.883333,57.883333,Vascular plants,Pinus sibirica,2.0,NISP,pollen,,5993.0,,,Radiocarbon years BP,488.0,220.0,pollen,6/30/2007,217.0,0.921658986175
+3485,Ust'Mashevskoe,56.316667,57.883333,56.316667,56.316667,57.883333,57.883333,Vascular plants,Pinus sibirica,2.0,NISP,pollen,,6262.0,,,Radiocarbon years BP,500.0,220.0,pollen,6/30/2007,234.0,0.854700854701
+3485,Ust'Mashevskoe,56.316667,57.883333,56.316667,56.316667,57.883333,57.883333,Vascular plants,Pinus sibirica,1.0,NISP,pollen,,6821.0,,,Radiocarbon years BP,525.0,220.0,pollen,6/30/2007,234.0,0.42735042735
+3485,Ust'Mashevskoe,56.316667,57.883333,56.316667,56.316667,57.883333,57.883333,Vascular plants,Pinus sibirica,4.0,NISP,pollen,,7045.0,,,Radiocarbon years BP,535.0,220.0,pollen,6/30/2007,254.0,1.57480314961
+3485,Ust'Mashevskoe,56.316667,57.883333,56.316667,56.316667,57.883333,57.883333,Vascular plants,Pinus sibirica,4.0,NISP,pollen,,7157.0,,,Radiocarbon years BP,540.0,220.0,pollen,6/30/2007,288.0,1.38888888889
+3485,Ust'Mashevskoe,56.316667,57.883333,56.316667,56.316667,57.883333,57.883333,Vascular plants,Pinus sibirica,6.0,NISP,pollen,,7269.0,,,Radiocarbon years BP,545.0,220.0,pollen,6/30/2007,284.0,2.11267605634
+3485,Ust'Mashevskoe,56.316667,57.883333,56.316667,56.316667,57.883333,57.883333,Vascular plants,Pinus sibirica,1.0,NISP,pollen,,7493.0,,,Radiocarbon years BP,555.0,220.0,pollen,6/30/2007,258.0,0.387596899225
+3485,Ust'Mashevskoe,56.316667,57.883333,56.316667,56.316667,57.883333,57.883333,Vascular plants,Pinus sibirica,2.0,NISP,pollen,,7829.0,,,Radiocarbon years BP,570.0,220.0,pollen,6/30/2007,234.0,0.854700854701
+3486,Ust'-Pechersk,64.75,54.5,64.75,64.75,54.5,54.5,Vascular plants,Pinus sibirica,2.0,NISP,pollen,,,,,,0.0,,pollen,6/30/2007,288.0,0.694444444444
+3486,Ust'-Pechersk,64.75,54.5,64.75,64.75,54.5,54.5,Vascular plants,Pinus sibirica,2.0,NISP,pollen,,,,,,25.0,,pollen,6/30/2007,307.0,0.651465798046
+3486,Ust'-Pechersk,64.75,54.5,64.75,64.75,54.5,54.5,Vascular plants,Pinus sibirica,1.0,NISP,pollen,,,,,,49.0,,pollen,6/30/2007,354.0,0.282485875706
+3486,Ust'-Pechersk,64.75,54.5,64.75,64.75,54.5,54.5,Vascular plants,Pinus sibirica,2.0,NISP,pollen,,,,,,70.0,,pollen,6/30/2007,131.0,1.52671755725
+3486,Ust'-Pechersk,64.75,54.5,64.75,64.75,54.5,54.5,Vascular plants,Pinus sibirica,3.0,NISP,pollen,,,,,,90.0,,pollen,6/30/2007,220.0,1.36363636364
+3486,Ust'-Pechersk,64.75,54.5,64.75,64.75,54.5,54.5,Vascular plants,Pinus sibirica,2.0,NISP,pollen,,,,,,110.0,,pollen,6/30/2007,297.0,0.673400673401
+3486,Ust'-Pechersk,64.75,54.5,64.75,64.75,54.5,54.5,Vascular plants,Pinus sibirica,1.0,NISP,pollen,,,,,,151.0,,pollen,6/30/2007,315.0,0.31746031746
+3486,Ust'-Pechersk,64.75,54.5,64.75,64.75,54.5,54.5,Vascular plants,Pinus sibirica,1.0,NISP,pollen,,,,,,170.0,,pollen,6/30/2007,218.0,0.45871559633
+3486,Ust'-Pechersk,64.75,54.5,64.75,64.75,54.5,54.5,Vascular plants,Pinus sibirica,1.0,NISP,pollen,,,,,,210.0,,pollen,6/30/2007,283.0,0.353356890459
+3486,Ust'-Pechersk,64.75,54.5,64.75,64.75,54.5,54.5,Vascular plants,Pinus sibirica,3.0,NISP,pollen,,,,,,250.0,,pollen,6/30/2007,226.0,1.32743362832
+3486,Ust'-Pechersk,64.75,54.5,64.75,64.75,54.5,54.5,Vascular plants,Pinus sibirica,1.0,NISP,pollen,,,,,,270.0,,pollen,6/30/2007,386.0,0.259067357513
+3486,Ust'-Pechersk,64.75,54.5,64.75,64.75,54.5,54.5,Vascular plants,Pinus sibirica,1.0,NISP,pollen,,,,,,290.0,,pollen,6/30/2007,224.0,0.446428571429
+3486,Ust'-Pechersk,64.75,54.5,64.75,64.75,54.5,54.5,Vascular plants,Pinus sibirica,2.0,NISP,pollen,,,,,,310.0,,pollen,6/30/2007,315.0,0.634920634921
+3486,Ust'-Pechersk,64.75,54.5,64.75,64.75,54.5,54.5,Vascular plants,Pinus sibirica,1.0,NISP,pollen,,,,,,330.0,,pollen,6/30/2007,413.0,0.242130750605
+3486,Ust'-Pechersk,64.75,54.5,64.75,64.75,54.5,54.5,Vascular plants,Pinus sibirica,1.0,NISP,pollen,,,,,,385.0,,pollen,6/30/2007,213.0,0.469483568075
+3516,Zapovednoe,65.116667,32.633333,65.116667,65.116667,32.633333,32.633333,Vascular plants,Pinus sibirica,3.0,NISP,pollen,,1423.0,,,Radiocarbon years BP,100.0,110.0,pollen,6/30/2007,397.0,0.755667506297
+3516,Zapovednoe,65.116667,32.633333,65.116667,65.116667,32.633333,32.633333,Vascular plants,Pinus sibirica,2.0,NISP,pollen,,1778.0,,,Radiocarbon years BP,125.0,110.0,pollen,6/30/2007,292.0,0.684931506849
+3516,Zapovednoe,65.116667,32.633333,65.116667,65.116667,32.633333,32.633333,Vascular plants,Pinus sibirica,1.0,NISP,pollen,,2134.0,,,Radiocarbon years BP,150.0,110.0,pollen,6/30/2007,298.0,0.335570469799
+3516,Zapovednoe,65.116667,32.633333,65.116667,65.116667,32.633333,32.633333,Vascular plants,Pinus sibirica,1.0,NISP,pollen,,3201.0,,,Radiocarbon years BP,225.0,110.0,pollen,6/30/2007,406.0,0.246305418719
+3516,Zapovednoe,65.116667,32.633333,65.116667,65.116667,32.633333,32.633333,Vascular plants,Pinus sibirica,1.0,NISP,pollen,,3557.0,,,Radiocarbon years BP,250.0,110.0,pollen,6/30/2007,392.0,0.255102040816
+3516,Zapovednoe,65.116667,32.633333,65.116667,65.116667,32.633333,32.633333,Vascular plants,Pinus sibirica,1.0,NISP,pollen,,3912.0,,,Radiocarbon years BP,275.0,110.0,pollen,6/30/2007,256.0,0.390625
+3516,Zapovednoe,65.116667,32.633333,65.116667,65.116667,32.633333,32.633333,Vascular plants,Pinus sibirica,2.0,NISP,pollen,,6402.0,,,Radiocarbon years BP,450.0,110.0,pollen,6/30/2007,257.0,0.778210116732
+3524,Zuratkul',54.9,59.266667,54.9,54.9,59.266667,59.266667,Vascular plants,Pinus sibirica,2.0,NISP,pollen,,78.0,,,Radiocarbon years BP,5.0,720.0,pollen,6/30/2007,256.0,0.78125
+3524,Zuratkul',54.9,59.266667,54.9,54.9,59.266667,59.266667,Vascular plants,Pinus sibirica,4.0,NISP,pollen,,392.0,,,Radiocarbon years BP,25.0,720.0,pollen,6/30/2007,251.0,1.59362549801
+3524,Zuratkul',54.9,59.266667,54.9,54.9,59.266667,59.266667,Vascular plants,Pinus sibirica,6.0,NISP,pollen,,783.0,,,Radiocarbon years BP,50.0,720.0,pollen,6/30/2007,240.0,2.5
+3524,Zuratkul',54.9,59.266667,54.9,54.9,59.266667,59.266667,Vascular plants,Pinus sibirica,2.0,NISP,pollen,,1175.0,,,Radiocarbon years BP,75.0,720.0,pollen,6/30/2007,245.0,0.816326530612
+3524,Zuratkul',54.9,59.266667,54.9,54.9,59.266667,59.266667,Vascular plants,Pinus sibirica,2.0,NISP,pollen,,1567.0,,,Radiocarbon years BP,100.0,720.0,pollen,6/30/2007,269.0,0.743494423792
+3524,Zuratkul',54.9,59.266667,54.9,54.9,59.266667,59.266667,Vascular plants,Pinus sibirica,5.0,NISP,pollen,,1958.0,,,Radiocarbon years BP,125.0,720.0,pollen,6/30/2007,227.0,2.20264317181
+3524,Zuratkul',54.9,59.266667,54.9,54.9,59.266667,59.266667,Vascular plants,Pinus sibirica,1.0,NISP,pollen,,2350.0,,,Radiocarbon years BP,150.0,720.0,pollen,6/30/2007,225.0,0.444444444444
+3524,Zuratkul',54.9,59.266667,54.9,54.9,59.266667,59.266667,Vascular plants,Pinus sibirica,1.0,NISP,pollen,,2742.0,,,Radiocarbon years BP,175.0,720.0,pollen,6/30/2007,230.0,0.434782608696
+3524,Zuratkul',54.9,59.266667,54.9,54.9,59.266667,59.266667,Vascular plants,Pinus sibirica,3.0,NISP,pollen,,3133.0,,,Radiocarbon years BP,200.0,720.0,pollen,6/30/2007,226.0,1.32743362832
+3524,Zuratkul',54.9,59.266667,54.9,54.9,59.266667,59.266667,Vascular plants,Pinus sibirica,4.0,NISP,pollen,,3917.0,,,Radiocarbon years BP,250.0,720.0,pollen,6/30/2007,222.0,1.8018018018
+3524,Zuratkul',54.9,59.266667,54.9,54.9,59.266667,59.266667,Vascular plants,Pinus sibirica,2.0,NISP,pollen,,4308.0,,,Radiocarbon years BP,275.0,720.0,pollen,6/30/2007,237.0,0.84388185654
+3524,Zuratkul',54.9,59.266667,54.9,54.9,59.266667,59.266667,Vascular plants,Pinus sibirica,4.0,NISP,pollen,,4700.0,,,Radiocarbon years BP,300.0,720.0,pollen,6/30/2007,230.0,1.73913043478
+3524,Zuratkul',54.9,59.266667,54.9,54.9,59.266667,59.266667,Vascular plants,Pinus sibirica,2.0,NISP,pollen,,4993.0,,,Radiocarbon years BP,325.0,720.0,pollen,6/30/2007,255.0,0.78431372549
+3524,Zuratkul',54.9,59.266667,54.9,54.9,59.266667,59.266667,Vascular plants,Pinus sibirica,4.0,NISP,pollen,,5287.0,,,Radiocarbon years BP,350.0,720.0,pollen,6/30/2007,256.0,1.5625
+3524,Zuratkul',54.9,59.266667,54.9,54.9,59.266667,59.266667,Vascular plants,Pinus sibirica,4.0,NISP,pollen,,5580.0,,,Radiocarbon years BP,375.0,720.0,pollen,6/30/2007,248.0,1.61290322581
+3524,Zuratkul',54.9,59.266667,54.9,54.9,59.266667,59.266667,Vascular plants,Pinus sibirica,7.0,NISP,pollen,,5873.0,,,Radiocarbon years BP,400.0,720.0,pollen,6/30/2007,228.0,3.0701754386
+3524,Zuratkul',54.9,59.266667,54.9,54.9,59.266667,59.266667,Vascular plants,Pinus sibirica,4.0,NISP,pollen,,6167.0,,,Radiocarbon years BP,425.0,720.0,pollen,6/30/2007,209.0,1.91387559809
+3524,Zuratkul',54.9,59.266667,54.9,54.9,59.266667,59.266667,Vascular plants,Pinus sibirica,4.0,NISP,pollen,,6460.0,,,Radiocarbon years BP,450.0,720.0,pollen,6/30/2007,240.0,1.66666666667
+3524,Zuratkul',54.9,59.266667,54.9,54.9,59.266667,59.266667,Vascular plants,Pinus sibirica,8.0,NISP,pollen,,6753.0,,,Radiocarbon years BP,475.0,720.0,pollen,6/30/2007,265.0,3.01886792453
+3524,Zuratkul',54.9,59.266667,54.9,54.9,59.266667,59.266667,Vascular plants,Pinus sibirica,9.0,NISP,pollen,,7047.0,,,Radiocarbon years BP,500.0,720.0,pollen,6/30/2007,266.0,3.38345864662
+3524,Zuratkul',54.9,59.266667,54.9,54.9,59.266667,59.266667,Vascular plants,Pinus sibirica,4.0,NISP,pollen,,7340.0,,,Radiocarbon years BP,525.0,720.0,pollen,6/30/2007,263.0,1.52091254753
+3524,Zuratkul',54.9,59.266667,54.9,54.9,59.266667,59.266667,Vascular plants,Pinus sibirica,10.0,NISP,pollen,,7633.0,,,Radiocarbon years BP,550.0,720.0,pollen,6/30/2007,316.0,3.16455696203
+3524,Zuratkul',54.9,59.266667,54.9,54.9,59.266667,59.266667,Vascular plants,Pinus sibirica,16.0,NISP,pollen,,7927.0,,,Radiocarbon years BP,575.0,720.0,pollen,6/30/2007,293.0,5.46075085324
+3524,Zuratkul',54.9,59.266667,54.9,54.9,59.266667,59.266667,Vascular plants,Pinus sibirica,8.0,NISP,pollen,,8044.0,,,Radiocarbon years BP,585.0,720.0,pollen,6/30/2007,327.0,2.44648318043
+3524,Zuratkul',54.9,59.266667,54.9,54.9,59.266667,59.266667,Vascular plants,Pinus sibirica,16.0,NISP,pollen,,8161.0,,,Radiocarbon years BP,595.0,720.0,pollen,6/30/2007,327.0,4.89296636086
+3524,Zuratkul',54.9,59.266667,54.9,54.9,59.266667,59.266667,Vascular plants,Pinus sibirica,2.0,NISP,pollen,,8337.0,,,Radiocarbon years BP,610.0,720.0,pollen,6/30/2007,273.0,0.732600732601
+3524,Zuratkul',54.9,59.266667,54.9,54.9,59.266667,59.266667,Vascular plants,Pinus sibirica,9.0,NISP,pollen,,8513.0,,,Radiocarbon years BP,625.0,720.0,pollen,6/30/2007,356.0,2.52808988764
+3524,Zuratkul',54.9,59.266667,54.9,54.9,59.266667,59.266667,Vascular plants,Pinus sibirica,6.0,NISP,pollen,,8654.0,,,Radiocarbon years BP,637.0,720.0,pollen,6/30/2007,453.0,1.32450331126
+3524,Zuratkul',54.9,59.266667,54.9,54.9,59.266667,59.266667,Vascular plants,Pinus sibirica,4.0,NISP,pollen,,8807.0,,,Radiocarbon years BP,650.0,720.0,pollen,6/30/2007,446.0,0.896860986547
+3524,Zuratkul',54.9,59.266667,54.9,54.9,59.266667,59.266667,Vascular plants,Pinus sibirica,2.0,NISP,pollen,,8947.0,,,Radiocarbon years BP,662.0,720.0,pollen,6/30/2007,547.0,0.36563071298
+3524,Zuratkul',54.9,59.266667,54.9,54.9,59.266667,59.266667,Vascular plants,Pinus sibirica,3.0,NISP,pollen,,9100.0,,,Radiocarbon years BP,675.0,720.0,pollen,6/30/2007,633.0,0.473933649289
+3524,Zuratkul',54.9,59.266667,54.9,54.9,59.266667,59.266667,Vascular plants,Pinus sibirica,2.0,NISP,pollen,,9355.0,,,Radiocarbon years BP,685.0,720.0,pollen,6/30/2007,820.0,0.243902439024
+3524,Zuratkul',54.9,59.266667,54.9,54.9,59.266667,59.266667,Vascular plants,Pinus sibirica,1.0,NISP,pollen,,9609.0,,,Radiocarbon years BP,695.0,720.0,pollen,6/30/2007,1067.0,0.0937207122774
+3524,Zuratkul',54.9,59.266667,54.9,54.9,59.266667,59.266667,Vascular plants,Pinus sibirica,1.0,NISP,pollen,,10500.0,,,Radiocarbon years BP,730.0,720.0,pollen,6/30/2007,1196.0,0.0836120401338
