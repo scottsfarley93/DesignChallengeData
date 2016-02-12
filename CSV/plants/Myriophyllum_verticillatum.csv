@@ -1,3 +1,0 @@
-siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
-1798,Pashennoe,49.37,75.4,49.37,49.37,75.4,75.4,Vascular plants,Myriophyllum verticillatum,1.0,NISP,pollen,,500.0,,,Radiocarbon years BP,10.0,871.0,pollen,6/30/2007,358.0,0.279329608939
-1798,Pashennoe,49.37,75.4,49.37,49.37,75.4,75.4,Vascular plants,Myriophyllum verticillatum,5.0,NISP,pollen,,782.0,,,Radiocarbon years BP,20.0,871.0,pollen,6/30/2007,482.0,1.03734439834

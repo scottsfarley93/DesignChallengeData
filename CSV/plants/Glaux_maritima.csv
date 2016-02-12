@@ -1,2 +1,0 @@
-siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
-2291,Saint-Francois de Sales,48.293889,-72.146944,48.293889,48.293889,-72.146944,-72.146944,Vascular plants,Glaux maritima,1.0,NISP,pollen,,3032.0,,,Radiocarbon years BP,310.0,358.0,pollen,6/30/2007,646.0,0.15479876161

@@ -1,5 +1,0 @@
-siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
-363,Le Marais St Boetien,49.616667,3.816667,49.616667,49.616667,3.816667,3.816667,Vascular plants,Centaurea scabiosa,1.0,NISP,pollen,,1872.0,,,Radiocarbon years BP,110.0,,pollen,6/30/2007,1948.0,0.0513347022587
-363,Le Marais St Boetien,49.616667,3.816667,49.616667,49.616667,3.816667,3.816667,Vascular plants,Centaurea scabiosa,1.0,NISP,pollen,,4930.0,,,Radiocarbon years BP,275.0,,pollen,6/30/2007,3536.0,0.0282805429864
-363,Le Marais St Boetien,49.616667,3.816667,49.616667,49.616667,3.816667,3.816667,Vascular plants,Centaurea scabiosa,1.0,NISP,pollen,,10491.0,,,Radiocarbon years BP,423.0,,pollen,6/30/2007,3003.0,0.0333000333
-1399,Kamenicky,49.733333,15.966667,49.733333,49.733333,15.966667,15.966667,Vascular plants,Centaurea scabiosa,1.0,NISP,pollen,,5389.0,,,Radiocarbon years BP,40.0,624.0,pollen,6/30/2007,764.0,0.130890052356

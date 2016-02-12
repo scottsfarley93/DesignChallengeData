@@ -1,8 +1,0 @@
-siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
-355,Chernikhovo,53.416667,26.433333,53.416667,53.416667,26.433333,26.433333,Vascular plants,Fallopia convolvulus,3.0,NISP,pollen,,2400.0,,,Radiocarbon years BP,20.0,168.0,pollen,6/30/2007,528.0,0.568181818182
-355,Chernikhovo,53.416667,26.433333,53.416667,53.416667,26.433333,26.433333,Vascular plants,Fallopia convolvulus,3.0,NISP,pollen,,3000.0,,,Radiocarbon years BP,25.0,168.0,pollen,6/30/2007,429.0,0.699300699301
-355,Chernikhovo,53.416667,26.433333,53.416667,53.416667,26.433333,26.433333,Vascular plants,Fallopia convolvulus,1.0,NISP,pollen,,4206.0,,,Radiocarbon years BP,40.0,168.0,pollen,6/30/2007,244.0,0.409836065574
-1814,Pogonia Bog Pond,45.03503,-93.6305,45.03619,45.03387,-93.62724,-93.63376,Vascular plants,Fallopia convolvulus,1.0,NISP,pollen,,59.0,,,Radiocarbon years BP,290.0,292.0,pollen,6/30/2007,337.0,0.296735905045
-1815,Third Lake,48.108333,-92.016667,48.108333,48.108333,-92.016667,-92.016667,Vascular plants,Fallopia convolvulus,1.0,NISP,pollen,,754.0,,,Radiocarbon years BP,65.0,446.0,pollen,6/30/2007,499.0,0.200400801603
-2973,Amsoldingersee,46.725,7.575,46.725,46.725,7.575,7.575,Vascular plants,Fallopia convolvulus,1.0,NISP,pollen,,,,,,90.0,641.0,pollen,6/30/2007,798.0,0.125313283208
-2973,Amsoldingersee,46.725,7.575,46.725,46.725,7.575,7.575,Vascular plants,Fallopia convolvulus,2.0,NISP,pollen,,9490.0,,,Radiocarbon years BP,1010.0,641.0,pollen,6/30/2007,1202.0,0.166389351082

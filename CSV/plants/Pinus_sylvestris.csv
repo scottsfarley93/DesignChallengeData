@@ -1710,3 +1710,866 @@ siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUn
 3095,Bol'shoe Eravnoe Lake,52.583333,111.666667,52.583333,52.583333,111.666667,111.666667,Vascular plants,Pinus sylvestris,176.0,NISP,pollen,,5667.0,,,Radiocarbon years BP,215.0,947.0,pollen,6/30/2007,351.0,50.1424501425
 3095,Bol'shoe Eravnoe Lake,52.583333,111.666667,52.583333,52.583333,111.666667,111.666667,Vascular plants,Pinus sylvestris,46.0,NISP,pollen,,6333.0,,,Radiocarbon years BP,240.0,947.0,pollen,6/30/2007,229.0,20.0873362445
 3095,Bol'shoe Eravnoe Lake,52.583333,111.666667,52.583333,52.583333,111.666667,111.666667,Vascular plants,Pinus sylvestris,9.0,NISP,pollen,,7533.0,,,Radiocarbon years BP,285.0,947.0,pollen,6/30/2007,274.0,3.28467153285
+siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,11.0,NISP,pollen,,,,,,1.0,375.0,pollen,6/30/2007,420.0,2.61904761905
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,4.0,NISP,pollen,,,,,,2.0,375.0,pollen,6/30/2007,405.0,0.987654320988
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,2.0,NISP,pollen,,,,,,3.0,375.0,pollen,6/30/2007,325.0,0.615384615385
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,3.0,NISP,pollen,,,,,,4.0,375.0,pollen,6/30/2007,322.0,0.931677018634
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,2.0,NISP,pollen,,,,,,5.0,375.0,pollen,6/30/2007,380.0,0.526315789474
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,1.0,NISP,pollen,,,,,,6.0,375.0,pollen,6/30/2007,168.0,0.595238095238
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,2.0,NISP,pollen,,,,,,7.0,375.0,pollen,6/30/2007,302.0,0.662251655629
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,1.0,NISP,pollen,,,,,,9.0,375.0,pollen,6/30/2007,263.0,0.380228136882
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,5.0,NISP,pollen,,,,,,11.0,375.0,pollen,6/30/2007,732.0,0.68306010929
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,5.0,NISP,pollen,,,,,,12.0,375.0,pollen,6/30/2007,359.0,1.39275766017
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,5.0,NISP,pollen,,,,,,13.0,375.0,pollen,6/30/2007,326.0,1.53374233129
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,3.0,NISP,pollen,,,,,,15.0,375.0,pollen,6/30/2007,2762.0,0.108616944243
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,1.0,NISP,pollen,,,,,,16.0,375.0,pollen,6/30/2007,1470.0,0.0680272108844
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,4.0,NISP,pollen,,,,,,17.0,375.0,pollen,6/30/2007,918.0,0.435729847495
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,4.0,NISP,pollen,,,,,,18.0,375.0,pollen,6/30/2007,1419.0,0.281888653982
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,1.0,NISP,pollen,,,,,,19.0,375.0,pollen,6/30/2007,798.0,0.125313283208
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,5.0,NISP,pollen,,,,,,20.0,375.0,pollen,6/30/2007,368.0,1.35869565217
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,3.0,NISP,pollen,,,,,,21.0,375.0,pollen,6/30/2007,582.0,0.515463917526
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,3.0,NISP,pollen,,,,,,22.0,375.0,pollen,6/30/2007,641.0,0.468018720749
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,15.0,NISP,pollen,,,,,,23.0,375.0,pollen,6/30/2007,302.0,4.96688741722
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,6.0,NISP,pollen,,,,,,24.0,375.0,pollen,6/30/2007,395.0,1.51898734177
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,3.0,NISP,pollen,,,,,,25.0,375.0,pollen,6/30/2007,405.0,0.740740740741
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,5.0,NISP,pollen,,,,,,26.0,375.0,pollen,6/30/2007,343.0,1.45772594752
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,2.0,NISP,pollen,,,,,,27.0,375.0,pollen,6/30/2007,373.0,0.536193029491
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,5.0,NISP,pollen,,,,,,28.0,375.0,pollen,6/30/2007,302.0,1.65562913907
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,3.0,NISP,pollen,,,,,,30.0,375.0,pollen,6/30/2007,271.0,1.10701107011
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,1.0,NISP,pollen,,,,,,31.0,375.0,pollen,6/30/2007,259.0,0.3861003861
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,1.0,NISP,pollen,,,,,,32.0,375.0,pollen,6/30/2007,522.0,0.191570881226
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,2.0,NISP,pollen,,,,,,33.0,375.0,pollen,6/30/2007,365.0,0.547945205479
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,5.0,NISP,pollen,,,,,,34.0,375.0,pollen,6/30/2007,406.0,1.2315270936
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,1.0,NISP,pollen,,,,,,35.0,375.0,pollen,6/30/2007,287.0,0.348432055749
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,3.0,NISP,pollen,,,,,,36.0,375.0,pollen,6/30/2007,1703.0,0.176159718144
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,2.0,NISP,pollen,,,,,,37.0,375.0,pollen,6/30/2007,704.0,0.284090909091
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,2.0,NISP,pollen,,,,,,38.0,375.0,pollen,6/30/2007,2258.0,0.088573959256
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,2.0,NISP,pollen,,,,,,39.0,375.0,pollen,6/30/2007,1102.0,0.181488203267
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,6.0,NISP,pollen,,,,,,40.0,375.0,pollen,6/30/2007,269.0,2.23048327138
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,1.0,NISP,pollen,,,,,,41.0,375.0,pollen,6/30/2007,422.0,0.236966824645
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,4.0,NISP,pollen,,,,,,42.0,375.0,pollen,6/30/2007,442.0,0.904977375566
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,8.0,NISP,pollen,,,,,,43.0,375.0,pollen,6/30/2007,322.0,2.48447204969
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,3.0,NISP,pollen,,,,,,44.0,375.0,pollen,6/30/2007,417.0,0.719424460432
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,4.0,NISP,pollen,,,,,,45.0,375.0,pollen,6/30/2007,370.0,1.08108108108
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,6.0,NISP,pollen,,,,,,46.0,375.0,pollen,6/30/2007,361.0,1.6620498615
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,2.0,NISP,pollen,,,,,,47.0,375.0,pollen,6/30/2007,335.0,0.597014925373
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,3.0,NISP,pollen,,,,,,48.0,375.0,pollen,6/30/2007,349.0,0.859598853868
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,5.0,NISP,pollen,,,,,,49.0,375.0,pollen,6/30/2007,260.0,1.92307692308
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,5.0,NISP,pollen,,,,,,50.0,375.0,pollen,6/30/2007,459.0,1.08932461874
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,2.0,NISP,pollen,,,,,,51.0,375.0,pollen,6/30/2007,536.0,0.373134328358
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,1.0,NISP,pollen,,,,,,52.0,375.0,pollen,6/30/2007,2906.0,0.0344115622849
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,4.0,NISP,pollen,,,,,,53.0,375.0,pollen,6/30/2007,2013.0,0.19870839543
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,3.0,NISP,pollen,,,,,,54.0,375.0,pollen,6/30/2007,1818.0,0.16501650165
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,10.0,NISP,pollen,,,,,,55.0,375.0,pollen,6/30/2007,487.0,2.05338809035
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,3.0,NISP,pollen,,,,,,56.0,375.0,pollen,6/30/2007,262.0,1.14503816794
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,4.0,NISP,pollen,,,,,,58.0,375.0,pollen,6/30/2007,522.0,0.766283524904
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,1.0,NISP,pollen,,,,,,59.0,375.0,pollen,6/30/2007,483.0,0.207039337474
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,3.0,NISP,pollen,,,,,,61.0,375.0,pollen,6/30/2007,2063.0,0.145419292293
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,7.0,NISP,pollen,,,,,,62.0,375.0,pollen,6/30/2007,600.0,1.16666666667
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,1.0,NISP,pollen,,,,,,63.0,375.0,pollen,6/30/2007,304.0,0.328947368421
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,2.0,NISP,pollen,,,,,,64.0,375.0,pollen,6/30/2007,442.0,0.452488687783
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,2.0,NISP,pollen,,,,,,66.0,375.0,pollen,6/30/2007,875.0,0.228571428571
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,1.0,NISP,pollen,,,,,,67.0,375.0,pollen,6/30/2007,422.0,0.236966824645
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,3.0,NISP,pollen,,,,,,70.0,375.0,pollen,6/30/2007,630.0,0.47619047619
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,2.0,NISP,pollen,,,,,,72.0,375.0,pollen,6/30/2007,916.0,0.218340611354
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,2.0,NISP,pollen,,,,,,73.0,375.0,pollen,6/30/2007,216.0,0.925925925926
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,1.0,NISP,pollen,,,,,,76.0,375.0,pollen,6/30/2007,456.0,0.219298245614
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,5.0,NISP,pollen,,,,,,102.0,375.0,pollen,6/30/2007,1938.0,0.257997936017
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,2.0,NISP,pollen,,,,,,105.0,375.0,pollen,6/30/2007,1142.0,0.175131348511
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,2.0,NISP,pollen,,,,,,107.0,375.0,pollen,6/30/2007,1217.0,0.164338537387
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,4.0,NISP,pollen,,,,,,122.0,375.0,pollen,6/30/2007,269.0,1.48698884758
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,6.0,NISP,pollen,,,,,,125.0,375.0,pollen,6/30/2007,285.0,2.10526315789
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,6.0,NISP,pollen,,,,,,127.0,375.0,pollen,6/30/2007,254.0,2.36220472441
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,5.0,NISP,pollen,,,,,,130.0,375.0,pollen,6/30/2007,281.0,1.7793594306
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,4.0,NISP,pollen,,,,,,132.0,375.0,pollen,6/30/2007,267.0,1.49812734082
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,5.0,NISP,pollen,,,,,,135.0,375.0,pollen,6/30/2007,381.0,1.31233595801
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,2.0,NISP,pollen,,,,,,136.0,375.0,pollen,6/30/2007,254.0,0.787401574803
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,3.0,NISP,pollen,,,,,,137.0,375.0,pollen,6/30/2007,286.0,1.04895104895
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,2.0,NISP,pollen,,,,,,138.0,375.0,pollen,6/30/2007,305.0,0.655737704918
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,1.0,NISP,pollen,,,,,,139.0,375.0,pollen,6/30/2007,372.0,0.268817204301
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,3.0,NISP,pollen,,,,,,140.0,375.0,pollen,6/30/2007,360.0,0.833333333333
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,2.0,NISP,pollen,,,,,,142.0,375.0,pollen,6/30/2007,476.0,0.420168067227
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,2.0,NISP,pollen,,,,,,143.0,375.0,pollen,6/30/2007,490.0,0.408163265306
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,1.0,NISP,pollen,,,,,,145.0,375.0,pollen,6/30/2007,505.0,0.19801980198
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,1.0,NISP,pollen,,,,,,146.0,375.0,pollen,6/30/2007,417.0,0.239808153477
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,2.0,NISP,pollen,,,,,,148.0,375.0,pollen,6/30/2007,344.0,0.581395348837
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,1.0,NISP,pollen,,,,,,149.0,375.0,pollen,6/30/2007,367.0,0.272479564033
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,16.0,NISP,pollen,,,,,,1.0,375.0,pollen,6/30/2007,298.0,5.36912751678
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,11.0,NISP,pollen,,,,,,2.0,375.0,pollen,6/30/2007,271.0,4.05904059041
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,8.0,NISP,pollen,,,,,,3.0,375.0,pollen,6/30/2007,272.0,2.94117647059
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,13.0,NISP,pollen,,,,,,4.5,375.0,pollen,6/30/2007,267.0,4.86891385768
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,7.0,NISP,pollen,,,,,,7.0,375.0,pollen,6/30/2007,230.0,3.04347826087
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,10.0,NISP,pollen,,,,,,8.5,375.0,pollen,6/30/2007,293.0,3.41296928328
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,6.0,NISP,pollen,,,,,,11.0,375.0,pollen,6/30/2007,296.0,2.02702702703
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,8.0,NISP,pollen,,,,,,12.5,375.0,pollen,6/30/2007,284.0,2.81690140845
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,4.0,NISP,pollen,,,,,,15.0,375.0,pollen,6/30/2007,309.0,1.29449838188
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,5.0,NISP,pollen,,,,,,16.5,375.0,pollen,6/30/2007,298.0,1.67785234899
+2999,Bois de Buchelbush,49.713889,5.829722,49.713889,49.713889,5.829722,5.829722,Vascular plants,Pinus sylvestris-type,3.0,NISP,pollen,,,,,,17.5,375.0,pollen,6/30/2007,357.0,0.840336134454
+3000,Buzenol,49.625,5.608889,49.625,49.625,5.608889,5.608889,Vascular plants,Pinus sylvestris-type,15.0,NISP,pollen,,,,,,59.0,265.0,pollen,6/30/2007,130.0,11.5384615385
+3000,Buzenol,49.625,5.608889,49.625,49.625,5.608889,5.608889,Vascular plants,Pinus sylvestris-type,19.0,NISP,pollen,,,,,,60.0,265.0,pollen,6/30/2007,128.0,14.84375
+3000,Buzenol,49.625,5.608889,49.625,49.625,5.608889,5.608889,Vascular plants,Pinus sylvestris-type,17.0,NISP,pollen,,,,,,61.0,265.0,pollen,6/30/2007,122.0,13.9344262295
+3000,Buzenol,49.625,5.608889,49.625,49.625,5.608889,5.608889,Vascular plants,Pinus sylvestris-type,9.0,NISP,pollen,,,,,,62.0,265.0,pollen,6/30/2007,130.0,6.92307692308
+3002,Ethe source du Cron,49.606667,5.595,49.606667,49.606667,5.595,5.595,Vascular plants,Pinus sylvestris-type,30.0,NISP,pollen,,,,,,22.0,245.0,pollen,6/30/2007,138.0,21.7391304348
+3002,Ethe source du Cron,49.606667,5.595,49.606667,49.606667,5.595,5.595,Vascular plants,Pinus sylvestris-type,32.0,NISP,pollen,,,,,,23.0,245.0,pollen,6/30/2007,117.0,27.3504273504
+3002,Ethe source du Cron,49.606667,5.595,49.606667,49.606667,5.595,5.595,Vascular plants,Pinus sylvestris-type,36.0,NISP,pollen,,,,,,24.0,245.0,pollen,6/30/2007,145.0,24.8275862069
+3002,Ethe source du Cron,49.606667,5.595,49.606667,49.606667,5.595,5.595,Vascular plants,Pinus sylvestris-type,53.0,NISP,pollen,,,,,,25.0,245.0,pollen,6/30/2007,136.0,38.9705882353
+3002,Ethe source du Cron,49.606667,5.595,49.606667,49.606667,5.595,5.595,Vascular plants,Pinus sylvestris-type,43.0,NISP,pollen,,,,,,26.0,245.0,pollen,6/30/2007,138.0,31.1594202899
+3002,Ethe source du Cron,49.606667,5.595,49.606667,49.606667,5.595,5.595,Vascular plants,Pinus sylvestris-type,33.0,NISP,pollen,,,,,,27.0,245.0,pollen,6/30/2007,124.0,26.6129032258
+3002,Ethe source du Cron,49.606667,5.595,49.606667,49.606667,5.595,5.595,Vascular plants,Pinus sylvestris-type,18.0,NISP,pollen,,,,,,28.0,245.0,pollen,6/30/2007,134.0,13.4328358209
+3002,Ethe source du Cron,49.606667,5.595,49.606667,49.606667,5.595,5.595,Vascular plants,Pinus sylvestris-type,8.0,NISP,pollen,,,,,,32.0,245.0,pollen,6/30/2007,141.0,5.67375886525
+3003,Tontelange Heideknapp,49.719444,5.82,49.719444,49.719444,5.82,5.82,Vascular plants,Pinus sylvestris-type,108.0,NISP,pollen,,,,,,0.0,325.0,pollen,6/30/2007,238.0,45.3781512605
+3003,Tontelange Heideknapp,49.719444,5.82,49.719444,49.719444,5.82,5.82,Vascular plants,Pinus sylvestris-type,109.0,NISP,pollen,,,,,,1.0,325.0,pollen,6/30/2007,254.0,42.9133858268
+3003,Tontelange Heideknapp,49.719444,5.82,49.719444,49.719444,5.82,5.82,Vascular plants,Pinus sylvestris-type,40.0,NISP,pollen,,,,,,3.0,325.0,pollen,6/30/2007,314.0,12.7388535032
+3003,Tontelange Heideknapp,49.719444,5.82,49.719444,49.719444,5.82,5.82,Vascular plants,Pinus sylvestris-type,10.0,NISP,pollen,,,,,,6.0,325.0,pollen,6/30/2007,328.0,3.0487804878
+3003,Tontelange Heideknapp,49.719444,5.82,49.719444,49.719444,5.82,5.82,Vascular plants,Pinus sylvestris-type,2.0,NISP,pollen,,,,,,8.0,325.0,pollen,6/30/2007,318.0,0.62893081761
+3003,Tontelange Heideknapp,49.719444,5.82,49.719444,49.719444,5.82,5.82,Vascular plants,Pinus sylvestris-type,2.0,NISP,pollen,,,,,,10.0,325.0,pollen,6/30/2007,311.0,0.64308681672
+3003,Tontelange Heideknapp,49.719444,5.82,49.719444,49.719444,5.82,5.82,Vascular plants,Pinus sylvestris-type,4.0,NISP,pollen,,,,,,12.0,325.0,pollen,6/30/2007,329.0,1.21580547112
+3003,Tontelange Heideknapp,49.719444,5.82,49.719444,49.719444,5.82,5.82,Vascular plants,Pinus sylvestris-type,2.0,NISP,pollen,,,,,,14.0,325.0,pollen,6/30/2007,309.0,0.647249190939
+3003,Tontelange Heideknapp,49.719444,5.82,49.719444,49.719444,5.82,5.82,Vascular plants,Pinus sylvestris-type,2.0,NISP,pollen,,,,,,16.0,325.0,pollen,6/30/2007,322.0,0.621118012422
+3003,Tontelange Heideknapp,49.719444,5.82,49.719444,49.719444,5.82,5.82,Vascular plants,Pinus sylvestris-type,2.0,NISP,pollen,,,,,,18.0,325.0,pollen,6/30/2007,350.0,0.571428571429
+3003,Tontelange Heideknapp,49.719444,5.82,49.719444,49.719444,5.82,5.82,Vascular plants,Pinus sylvestris-type,2.0,NISP,pollen,,,,,,20.0,325.0,pollen,6/30/2007,364.0,0.549450549451
+3003,Tontelange Heideknapp,49.719444,5.82,49.719444,49.719444,5.82,5.82,Vascular plants,Pinus sylvestris-type,2.0,NISP,pollen,,,,,,22.0,325.0,pollen,6/30/2007,337.0,0.593471810089
+3003,Tontelange Heideknapp,49.719444,5.82,49.719444,49.719444,5.82,5.82,Vascular plants,Pinus sylvestris-type,4.0,NISP,pollen,,,,,,24.0,325.0,pollen,6/30/2007,256.0,1.5625
+3003,Tontelange Heideknapp,49.719444,5.82,49.719444,49.719444,5.82,5.82,Vascular plants,Pinus sylvestris-type,1.0,NISP,pollen,,,,,,26.0,325.0,pollen,6/30/2007,228.0,0.438596491228
+3003,Tontelange Heideknapp,49.719444,5.82,49.719444,49.719444,5.82,5.82,Vascular plants,Pinus sylvestris-type,2.0,NISP,pollen,,,,,,28.0,325.0,pollen,6/30/2007,238.0,0.840336134454
+3003,Tontelange Heideknapp,49.719444,5.82,49.719444,49.719444,5.82,5.82,Vascular plants,Pinus sylvestris-type,1.0,NISP,pollen,,,,,,30.0,325.0,pollen,6/30/2007,227.0,0.440528634361
+3003,Tontelange Heideknapp,49.719444,5.82,49.719444,49.719444,5.82,5.82,Vascular plants,Pinus sylvestris-type,4.0,NISP,pollen,,,,,,32.0,325.0,pollen,6/30/2007,237.0,1.68776371308
+3003,Tontelange Heideknapp,49.719444,5.82,49.719444,49.719444,5.82,5.82,Vascular plants,Pinus sylvestris-type,2.0,NISP,pollen,,,,,,34.0,325.0,pollen,6/30/2007,249.0,0.803212851406
+3003,Tontelange Heideknapp,49.719444,5.82,49.719444,49.719444,5.82,5.82,Vascular plants,Pinus sylvestris-type,2.0,NISP,pollen,,,,,,36.0,325.0,pollen,6/30/2007,255.0,0.78431372549
+3003,Tontelange Heideknapp,49.719444,5.82,49.719444,49.719444,5.82,5.82,Vascular plants,Pinus sylvestris-type,4.0,NISP,pollen,,,,,,38.0,325.0,pollen,6/30/2007,257.0,1.55642023346
+3003,Tontelange Heideknapp,49.719444,5.82,49.719444,49.719444,5.82,5.82,Vascular plants,Pinus sylvestris-type,2.0,NISP,pollen,,,,,,42.0,325.0,pollen,6/30/2007,230.0,0.869565217391
+3003,Tontelange Heideknapp,49.719444,5.82,49.719444,49.719444,5.82,5.82,Vascular plants,Pinus sylvestris-type,3.0,NISP,pollen,,,,,,44.0,325.0,pollen,6/30/2007,200.0,1.5
+3003,Tontelange Heideknapp,49.719444,5.82,49.719444,49.719444,5.82,5.82,Vascular plants,Pinus sylvestris-type,1.0,NISP,pollen,,,,,,46.0,325.0,pollen,6/30/2007,205.0,0.487804878049
+3003,Tontelange Heideknapp,49.719444,5.82,49.719444,49.719444,5.82,5.82,Vascular plants,Pinus sylvestris-type,6.0,NISP,pollen,,,,,,48.0,325.0,pollen,6/30/2007,210.0,2.85714285714
+3003,Tontelange Heideknapp,49.719444,5.82,49.719444,49.719444,5.82,5.82,Vascular plants,Pinus sylvestris-type,14.0,NISP,pollen,,,,,,50.0,325.0,pollen,6/30/2007,203.0,6.89655172414
+3003,Tontelange Heideknapp,49.719444,5.82,49.719444,49.719444,5.82,5.82,Vascular plants,Pinus sylvestris-type,14.0,NISP,pollen,,,,,,52.0,325.0,pollen,6/30/2007,198.0,7.07070707071
+3003,Tontelange Heideknapp,49.719444,5.82,49.719444,49.719444,5.82,5.82,Vascular plants,Pinus sylvestris-type,10.0,NISP,pollen,,,,,,54.0,325.0,pollen,6/30/2007,212.0,4.71698113208
+3003,Tontelange Heideknapp,49.719444,5.82,49.719444,49.719444,5.82,5.82,Vascular plants,Pinus sylvestris-type,12.0,NISP,pollen,,,,,,56.0,325.0,pollen,6/30/2007,213.0,5.6338028169
+3003,Tontelange Heideknapp,49.719444,5.82,49.719444,49.719444,5.82,5.82,Vascular plants,Pinus sylvestris-type,14.0,NISP,pollen,,,,,,58.0,325.0,pollen,6/30/2007,218.0,6.42201834862
+3003,Tontelange Heideknapp,49.719444,5.82,49.719444,49.719444,5.82,5.82,Vascular plants,Pinus sylvestris-type,8.0,NISP,pollen,,,,,,60.0,325.0,pollen,6/30/2007,219.0,3.65296803653
+3003,Tontelange Heideknapp,49.719444,5.82,49.719444,49.719444,5.82,5.82,Vascular plants,Pinus sylvestris-type,13.0,NISP,pollen,,,,,,62.0,325.0,pollen,6/30/2007,205.0,6.34146341463
+3003,Tontelange Heideknapp,49.719444,5.82,49.719444,49.719444,5.82,5.82,Vascular plants,Pinus sylvestris-type,14.0,NISP,pollen,,,,,,64.0,325.0,pollen,6/30/2007,210.0,6.66666666667
+3003,Tontelange Heideknapp,49.719444,5.82,49.719444,49.719444,5.82,5.82,Vascular plants,Pinus sylvestris-type,16.0,NISP,pollen,,,,,,66.0,325.0,pollen,6/30/2007,210.0,7.61904761905
+3003,Tontelange Heideknapp,49.719444,5.82,49.719444,49.719444,5.82,5.82,Vascular plants,Pinus sylvestris-type,10.0,NISP,pollen,,,,,,68.0,325.0,pollen,6/30/2007,206.0,4.85436893204
+3003,Tontelange Heideknapp,49.719444,5.82,49.719444,49.719444,5.82,5.82,Vascular plants,Pinus sylvestris-type,5.0,NISP,pollen,,,,,,70.0,325.0,pollen,6/30/2007,209.0,2.39234449761
+3003,Tontelange Heideknapp,49.719444,5.82,49.719444,49.719444,5.82,5.82,Vascular plants,Pinus sylvestris-type,15.0,NISP,pollen,,,,,,72.0,325.0,pollen,6/30/2007,220.0,6.81818181818
+3007,Bois des Amerois,49.743889,5.129167,49.743889,49.743889,5.129167,5.129167,Vascular plants,Pinus sylvestris-type,2.0,NISP,pollen,,,,,,10.0,415.0,pollen,6/30/2007,381.0,0.524934383202
+3007,Bois des Amerois,49.743889,5.129167,49.743889,49.743889,5.129167,5.129167,Vascular plants,Pinus sylvestris-type,3.0,NISP,pollen,,,,,,12.0,415.0,pollen,6/30/2007,330.0,0.909090909091
+3007,Bois des Amerois,49.743889,5.129167,49.743889,49.743889,5.129167,5.129167,Vascular plants,Pinus sylvestris-type,2.0,NISP,pollen,,,,,,14.0,415.0,pollen,6/30/2007,309.0,0.647249190939
+3007,Bois des Amerois,49.743889,5.129167,49.743889,49.743889,5.129167,5.129167,Vascular plants,Pinus sylvestris-type,1.0,NISP,pollen,,,,,,16.0,415.0,pollen,6/30/2007,352.0,0.284090909091
+3007,Bois des Amerois,49.743889,5.129167,49.743889,49.743889,5.129167,5.129167,Vascular plants,Pinus sylvestris-type,2.0,NISP,pollen,,,,,,18.0,415.0,pollen,6/30/2007,337.0,0.593471810089
+3007,Bois des Amerois,49.743889,5.129167,49.743889,49.743889,5.129167,5.129167,Vascular plants,Pinus sylvestris-type,2.0,NISP,pollen,,,,,,20.0,415.0,pollen,6/30/2007,260.0,0.769230769231
+3007,Bois des Amerois,49.743889,5.129167,49.743889,49.743889,5.129167,5.129167,Vascular plants,Pinus sylvestris-type,5.0,NISP,pollen,,,,,,22.0,415.0,pollen,6/30/2007,355.0,1.40845070423
+3007,Bois des Amerois,49.743889,5.129167,49.743889,49.743889,5.129167,5.129167,Vascular plants,Pinus sylvestris-type,1.0,NISP,pollen,,,,,,24.0,415.0,pollen,6/30/2007,254.0,0.393700787402
+3007,Bois des Amerois,49.743889,5.129167,49.743889,49.743889,5.129167,5.129167,Vascular plants,Pinus sylvestris-type,2.0,NISP,pollen,,,,,,26.0,415.0,pollen,6/30/2007,319.0,0.626959247649
+3007,Bois des Amerois,49.743889,5.129167,49.743889,49.743889,5.129167,5.129167,Vascular plants,Pinus sylvestris-type,2.0,NISP,pollen,,,,,,28.0,415.0,pollen,6/30/2007,330.0,0.606060606061
+3007,Bois des Amerois,49.743889,5.129167,49.743889,49.743889,5.129167,5.129167,Vascular plants,Pinus sylvestris-type,1.0,NISP,pollen,,,,,,30.0,415.0,pollen,6/30/2007,322.0,0.310559006211
+3007,Bois des Amerois,49.743889,5.129167,49.743889,49.743889,5.129167,5.129167,Vascular plants,Pinus sylvestris-type,1.0,NISP,pollen,,,,,,32.0,415.0,pollen,6/30/2007,499.0,0.200400801603
+3007,Bois des Amerois,49.743889,5.129167,49.743889,49.743889,5.129167,5.129167,Vascular plants,Pinus sylvestris-type,1.0,NISP,pollen,,,,,,34.0,415.0,pollen,6/30/2007,300.0,0.333333333333
+3007,Bois des Amerois,49.743889,5.129167,49.743889,49.743889,5.129167,5.129167,Vascular plants,Pinus sylvestris-type,1.0,NISP,pollen,,,,,,38.0,415.0,pollen,6/30/2007,353.0,0.28328611898
+3007,Bois des Amerois,49.743889,5.129167,49.743889,49.743889,5.129167,5.129167,Vascular plants,Pinus sylvestris-type,2.0,NISP,pollen,,,,,,40.0,415.0,pollen,6/30/2007,331.0,0.604229607251
+3007,Bois des Amerois,49.743889,5.129167,49.743889,49.743889,5.129167,5.129167,Vascular plants,Pinus sylvestris-type,1.0,NISP,pollen,,,,,,44.0,415.0,pollen,6/30/2007,341.0,0.293255131965
+3007,Bois des Amerois,49.743889,5.129167,49.743889,49.743889,5.129167,5.129167,Vascular plants,Pinus sylvestris-type,1.0,NISP,pollen,,,,,,46.0,415.0,pollen,6/30/2007,331.0,0.302114803625
+3007,Bois des Amerois,49.743889,5.129167,49.743889,49.743889,5.129167,5.129167,Vascular plants,Pinus sylvestris-type,3.0,NISP,pollen,,,,,,48.0,415.0,pollen,6/30/2007,333.0,0.900900900901
+3007,Bois des Amerois,49.743889,5.129167,49.743889,49.743889,5.129167,5.129167,Vascular plants,Pinus sylvestris-type,6.0,NISP,pollen,,,,,,50.0,415.0,pollen,6/30/2007,524.0,1.14503816794
+3007,Bois des Amerois,49.743889,5.129167,49.743889,49.743889,5.129167,5.129167,Vascular plants,Pinus sylvestris-type,5.0,NISP,pollen,,,,,,52.0,415.0,pollen,6/30/2007,518.0,0.965250965251
+3007,Bois des Amerois,49.743889,5.129167,49.743889,49.743889,5.129167,5.129167,Vascular plants,Pinus sylvestris-type,5.0,NISP,pollen,,,,,,54.0,415.0,pollen,6/30/2007,523.0,0.956022944551
+3007,Bois des Amerois,49.743889,5.129167,49.743889,49.743889,5.129167,5.129167,Vascular plants,Pinus sylvestris-type,3.0,NISP,pollen,,,,,,56.0,415.0,pollen,6/30/2007,348.0,0.862068965517
+3007,Bois des Amerois,49.743889,5.129167,49.743889,49.743889,5.129167,5.129167,Vascular plants,Pinus sylvestris-type,1.0,NISP,pollen,,,,,,58.0,415.0,pollen,6/30/2007,356.0,0.280898876404
+3007,Bois des Amerois,49.743889,5.129167,49.743889,49.743889,5.129167,5.129167,Vascular plants,Pinus sylvestris-type,4.0,NISP,pollen,,,,,,60.0,415.0,pollen,6/30/2007,504.0,0.793650793651
+3007,Bois des Amerois,49.743889,5.129167,49.743889,49.743889,5.129167,5.129167,Vascular plants,Pinus sylvestris-type,5.0,NISP,pollen,,,,,,62.0,415.0,pollen,6/30/2007,314.0,1.5923566879
+3007,Bois des Amerois,49.743889,5.129167,49.743889,49.743889,5.129167,5.129167,Vascular plants,Pinus sylvestris-type,6.0,NISP,pollen,,,,,,64.0,415.0,pollen,6/30/2007,327.0,1.83486238532
+3007,Bois des Amerois,49.743889,5.129167,49.743889,49.743889,5.129167,5.129167,Vascular plants,Pinus sylvestris-type,4.0,NISP,pollen,,,,,,66.0,415.0,pollen,6/30/2007,334.0,1.19760479042
+3007,Bois des Amerois,49.743889,5.129167,49.743889,49.743889,5.129167,5.129167,Vascular plants,Pinus sylvestris-type,5.0,NISP,pollen,,,,,,68.0,415.0,pollen,6/30/2007,334.0,1.49700598802
+3007,Bois des Amerois,49.743889,5.129167,49.743889,49.743889,5.129167,5.129167,Vascular plants,Pinus sylvestris-type,10.0,NISP,pollen,,,,,,70.0,415.0,pollen,6/30/2007,348.0,2.87356321839
+3007,Bois des Amerois,49.743889,5.129167,49.743889,49.743889,5.129167,5.129167,Vascular plants,Pinus sylvestris-type,6.0,NISP,pollen,,,,,,72.0,415.0,pollen,6/30/2007,347.0,1.72910662824
+3007,Bois des Amerois,49.743889,5.129167,49.743889,49.743889,5.129167,5.129167,Vascular plants,Pinus sylvestris-type,11.0,NISP,pollen,,,,,,74.0,415.0,pollen,6/30/2007,334.0,3.29341317365
+3007,Bois des Amerois,49.743889,5.129167,49.743889,49.743889,5.129167,5.129167,Vascular plants,Pinus sylvestris-type,7.0,NISP,pollen,,,,,,76.0,415.0,pollen,6/30/2007,313.0,2.23642172524
+3007,Bois des Amerois,49.743889,5.129167,49.743889,49.743889,5.129167,5.129167,Vascular plants,Pinus sylvestris-type,4.0,NISP,pollen,,,,,,78.0,415.0,pollen,6/30/2007,342.0,1.16959064327
+3007,Bois des Amerois,49.743889,5.129167,49.743889,49.743889,5.129167,5.129167,Vascular plants,Pinus sylvestris-type,4.0,NISP,pollen,,,,,,80.0,415.0,pollen,6/30/2007,334.0,1.19760479042
+3007,Bois des Amerois,49.743889,5.129167,49.743889,49.743889,5.129167,5.129167,Vascular plants,Pinus sylvestris-type,4.0,NISP,pollen,,,,,,82.0,415.0,pollen,6/30/2007,303.0,1.3201320132
+3007,Bois des Amerois,49.743889,5.129167,49.743889,49.743889,5.129167,5.129167,Vascular plants,Pinus sylvestris-type,2.0,NISP,pollen,,,,,,84.0,415.0,pollen,6/30/2007,238.0,0.840336134454
+3007,Bois des Amerois,49.743889,5.129167,49.743889,49.743889,5.129167,5.129167,Vascular plants,Pinus sylvestris-type,5.0,NISP,pollen,,,,,,86.0,415.0,pollen,6/30/2007,332.0,1.50602409639
+3007,Bois des Amerois,49.743889,5.129167,49.743889,49.743889,5.129167,5.129167,Vascular plants,Pinus sylvestris-type,5.0,NISP,pollen,,,,,,88.0,415.0,pollen,6/30/2007,277.0,1.80505415162
+3007,Bois des Amerois,49.743889,5.129167,49.743889,49.743889,5.129167,5.129167,Vascular plants,Pinus sylvestris-type,3.0,NISP,pollen,,,,,,90.0,415.0,pollen,6/30/2007,185.0,1.62162162162
+3007,Bois des Amerois,49.743889,5.129167,49.743889,49.743889,5.129167,5.129167,Vascular plants,Pinus sylvestris-type,2.0,NISP,pollen,,,,,,92.0,415.0,pollen,6/30/2007,199.0,1.00502512563
+3007,Bois des Amerois,49.743889,5.129167,49.743889,49.743889,5.129167,5.129167,Vascular plants,Pinus sylvestris-type,2.0,NISP,pollen,,,,,,94.0,415.0,pollen,6/30/2007,201.0,0.995024875622
+3007,Bois des Amerois,49.743889,5.129167,49.743889,49.743889,5.129167,5.129167,Vascular plants,Pinus sylvestris-type,1.0,NISP,pollen,,,,,,96.0,415.0,pollen,6/30/2007,200.0,0.5
+3007,Bois des Amerois,49.743889,5.129167,49.743889,49.743889,5.129167,5.129167,Vascular plants,Pinus sylvestris-type,5.0,NISP,pollen,,,,,,100.0,415.0,pollen,6/30/2007,244.0,2.04918032787
+3007,Bois des Amerois,49.743889,5.129167,49.743889,49.743889,5.129167,5.129167,Vascular plants,Pinus sylvestris-type,9.0,NISP,pollen,,,,,,102.0,415.0,pollen,6/30/2007,251.0,3.58565737052
+3007,Bois des Amerois,49.743889,5.129167,49.743889,49.743889,5.129167,5.129167,Vascular plants,Pinus sylvestris-type,7.0,NISP,pollen,,,,,,104.0,415.0,pollen,6/30/2007,262.0,2.67175572519
+3007,Bois des Amerois,49.743889,5.129167,49.743889,49.743889,5.129167,5.129167,Vascular plants,Pinus sylvestris-type,9.0,NISP,pollen,,,,,,106.0,415.0,pollen,6/30/2007,269.0,3.34572490706
+3007,Bois des Amerois,49.743889,5.129167,49.743889,49.743889,5.129167,5.129167,Vascular plants,Pinus sylvestris-type,11.0,NISP,pollen,,,,,,108.0,415.0,pollen,6/30/2007,321.0,3.42679127726
+3007,Bois des Amerois,49.743889,5.129167,49.743889,49.743889,5.129167,5.129167,Vascular plants,Pinus sylvestris-type,7.0,NISP,pollen,,,,,,110.0,415.0,pollen,6/30/2007,256.0,2.734375
+3007,Bois des Amerois,49.743889,5.129167,49.743889,49.743889,5.129167,5.129167,Vascular plants,Pinus sylvestris-type,11.0,NISP,pollen,,,,,,112.0,415.0,pollen,6/30/2007,256.0,4.296875
+3007,Bois des Amerois,49.743889,5.129167,49.743889,49.743889,5.129167,5.129167,Vascular plants,Pinus sylvestris-type,6.0,NISP,pollen,,,,,,116.0,415.0,pollen,6/30/2007,204.0,2.94117647059
+3007,Bois des Amerois,49.743889,5.129167,49.743889,49.743889,5.129167,5.129167,Vascular plants,Pinus sylvestris-type,5.0,NISP,pollen,,,,,,118.0,415.0,pollen,6/30/2007,212.0,2.35849056604
+3007,Bois des Amerois,49.743889,5.129167,49.743889,49.743889,5.129167,5.129167,Vascular plants,Pinus sylvestris-type,6.0,NISP,pollen,,,,,,120.0,415.0,pollen,6/30/2007,332.0,1.80722891566
+3007,Bois des Amerois,49.743889,5.129167,49.743889,49.743889,5.129167,5.129167,Vascular plants,Pinus sylvestris-type,5.0,NISP,pollen,,,,,,124.0,415.0,pollen,6/30/2007,270.0,1.85185185185
+3007,Bois des Amerois,49.743889,5.129167,49.743889,49.743889,5.129167,5.129167,Vascular plants,Pinus sylvestris-type,3.0,NISP,pollen,,,,,,126.0,415.0,pollen,6/30/2007,202.0,1.48514851485
+3007,Bois des Amerois,49.743889,5.129167,49.743889,49.743889,5.129167,5.129167,Vascular plants,Pinus sylvestris-type,5.0,NISP,pollen,,,,,,128.0,415.0,pollen,6/30/2007,355.0,1.40845070423
+3007,Bois des Amerois,49.743889,5.129167,49.743889,49.743889,5.129167,5.129167,Vascular plants,Pinus sylvestris-type,1.0,NISP,pollen,,,,,,130.0,415.0,pollen,6/30/2007,259.0,0.3861003861
+3007,Bois des Amerois,49.743889,5.129167,49.743889,49.743889,5.129167,5.129167,Vascular plants,Pinus sylvestris-type,8.0,NISP,pollen,,,,,,132.0,415.0,pollen,6/30/2007,321.0,2.49221183801
+3007,Bois des Amerois,49.743889,5.129167,49.743889,49.743889,5.129167,5.129167,Vascular plants,Pinus sylvestris-type,7.0,NISP,pollen,,,,,,134.0,415.0,pollen,6/30/2007,322.0,2.17391304348
+3007,Bois des Amerois,49.743889,5.129167,49.743889,49.743889,5.129167,5.129167,Vascular plants,Pinus sylvestris-type,3.0,NISP,pollen,,,,,,136.0,415.0,pollen,6/30/2007,254.0,1.1811023622
+3007,Bois des Amerois,49.743889,5.129167,49.743889,49.743889,5.129167,5.129167,Vascular plants,Pinus sylvestris-type,8.0,NISP,pollen,,,,,,138.0,415.0,pollen,6/30/2007,282.0,2.83687943262
+3007,Bois des Amerois,49.743889,5.129167,49.743889,49.743889,5.129167,5.129167,Vascular plants,Pinus sylvestris-type,4.0,NISP,pollen,,,,,,140.0,415.0,pollen,6/30/2007,254.0,1.57480314961
+3007,Bois des Amerois,49.743889,5.129167,49.743889,49.743889,5.129167,5.129167,Vascular plants,Pinus sylvestris-type,7.0,NISP,pollen,,,,,,142.0,415.0,pollen,6/30/2007,277.0,2.52707581227
+3007,Bois des Amerois,49.743889,5.129167,49.743889,49.743889,5.129167,5.129167,Vascular plants,Pinus sylvestris-type,13.0,NISP,pollen,,,,,,144.0,415.0,pollen,6/30/2007,321.0,4.04984423676
+3007,Bois des Amerois,49.743889,5.129167,49.743889,49.743889,5.129167,5.129167,Vascular plants,Pinus sylvestris-type,16.0,NISP,pollen,,,,,,145.0,415.0,pollen,6/30/2007,324.0,4.93827160494
+3007,Bois des Amerois,49.743889,5.129167,49.743889,49.743889,5.129167,5.129167,Vascular plants,Pinus sylvestris-type,6.0,NISP,pollen,,,,,,146.0,415.0,pollen,6/30/2007,328.0,1.82926829268
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,9.0,NISP,pollen,,,,,,144.0,215.0,pollen,6/30/2007,214.0,4.20560747664
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,12.0,NISP,pollen,,,,,,169.0,215.0,pollen,6/30/2007,253.0,4.74308300395
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,4.0,NISP,pollen,,,,,,174.0,215.0,pollen,6/30/2007,172.0,2.32558139535
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,10.0,NISP,pollen,,,,,,179.0,215.0,pollen,6/30/2007,167.0,5.9880239521
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,5.0,NISP,pollen,,,,,,184.0,215.0,pollen,6/30/2007,199.0,2.51256281407
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,74.0,NISP,pollen,,,,,,185.0,215.0,pollen,6/30/2007,142.0,52.1126760563
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,228.0,NISP,pollen,,,,,,187.0,215.0,pollen,6/30/2007,451.0,50.5543237251
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,115.0,NISP,pollen,,,,,,189.0,215.0,pollen,6/30/2007,240.0,47.9166666667
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,131.0,NISP,pollen,,,,,,192.0,215.0,pollen,6/30/2007,188.0,69.6808510638
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,80.0,NISP,pollen,,,,,,194.0,215.0,pollen,6/30/2007,234.0,34.188034188
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,10.0,NISP,pollen,,,,,,138.0,215.0,pollen,6/30/2007,171.0,5.84795321637
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,18.0,NISP,pollen,,,,,,139.0,215.0,pollen,6/30/2007,155.0,11.6129032258
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,17.0,NISP,pollen,,,,,,141.0,215.0,pollen,6/30/2007,193.0,8.80829015544
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,13.0,NISP,pollen,,,,,,143.0,215.0,pollen,6/30/2007,166.0,7.8313253012
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,27.0,NISP,pollen,,,,,,151.0,215.0,pollen,6/30/2007,250.0,10.8
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,15.0,NISP,pollen,,,,,,153.0,215.0,pollen,6/30/2007,171.0,8.77192982456
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,13.0,NISP,pollen,,,,,,155.0,215.0,pollen,6/30/2007,186.0,6.98924731183
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,17.0,NISP,pollen,,,,,,157.0,215.0,pollen,6/30/2007,203.0,8.37438423645
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,14.0,NISP,pollen,,,,,,159.0,215.0,pollen,6/30/2007,162.0,8.64197530864
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,13.0,NISP,pollen,,,,,,161.0,215.0,pollen,6/30/2007,176.0,7.38636363636
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,19.0,NISP,pollen,,,,,,163.0,215.0,pollen,6/30/2007,170.0,11.1764705882
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,11.0,NISP,pollen,,,,,,164.0,215.0,pollen,6/30/2007,177.0,6.21468926554
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,25.0,NISP,pollen,,,,,,166.0,215.0,pollen,6/30/2007,181.0,13.8121546961
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,16.0,NISP,pollen,,,,,,168.0,215.0,pollen,6/30/2007,156.0,10.2564102564
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,16.0,NISP,pollen,,,,,,170.0,215.0,pollen,6/30/2007,138.0,11.5942028986
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,8.0,NISP,pollen,,,,,,172.0,215.0,pollen,6/30/2007,116.0,6.89655172414
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,16.0,NISP,pollen,,,,,,174.0,215.0,pollen,6/30/2007,153.0,10.4575163399
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,20.0,NISP,pollen,,,,,,176.0,215.0,pollen,6/30/2007,189.0,10.582010582
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,18.0,NISP,pollen,,,,,,178.0,215.0,pollen,6/30/2007,137.0,13.1386861314
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,21.0,NISP,pollen,,,,,,180.0,215.0,pollen,6/30/2007,138.0,15.2173913043
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,12.0,NISP,pollen,,,,,,147.0,215.0,pollen,6/30/2007,173.0,6.93641618497
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,14.0,NISP,pollen,,,,,,149.0,215.0,pollen,6/30/2007,139.0,10.071942446
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,5.0,NISP,pollen,,,,,,153.0,215.0,pollen,6/30/2007,185.0,2.7027027027
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,12.0,NISP,pollen,,,,,,165.0,215.0,pollen,6/30/2007,148.0,8.10810810811
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,14.0,NISP,pollen,,,,,,166.0,215.0,pollen,6/30/2007,123.0,11.3821138211
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,3.0,NISP,pollen,,,,,,168.0,215.0,pollen,6/30/2007,148.0,2.02702702703
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,5.0,NISP,pollen,,,,,,169.0,215.0,pollen,6/30/2007,154.0,3.24675324675
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,15.0,NISP,pollen,,,,,,170.0,215.0,pollen,6/30/2007,187.0,8.02139037433
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,14.0,NISP,pollen,,,,,,171.0,215.0,pollen,6/30/2007,152.0,9.21052631579
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,31.0,NISP,pollen,,,,,,172.0,215.0,pollen,6/30/2007,219.0,14.1552511416
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,18.0,NISP,pollen,,,,,,173.0,215.0,pollen,6/30/2007,225.0,8.0
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,44.0,NISP,pollen,,,,,,174.0,215.0,pollen,6/30/2007,211.0,20.8530805687
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,27.0,NISP,pollen,,,,,,176.0,215.0,pollen,6/30/2007,216.0,12.5
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,24.0,NISP,pollen,,,,,,177.0,215.0,pollen,6/30/2007,209.0,11.4832535885
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,19.0,NISP,pollen,,,,,,179.0,215.0,pollen,6/30/2007,141.0,13.475177305
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,44.0,NISP,pollen,,,,,,186.0,215.0,pollen,6/30/2007,134.0,32.8358208955
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,68.0,NISP,pollen,,,,,,187.0,215.0,pollen,6/30/2007,160.0,42.5
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,60.0,NISP,pollen,,,,,,188.0,215.0,pollen,6/30/2007,157.0,38.2165605096
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,64.0,NISP,pollen,,,,,,189.0,215.0,pollen,6/30/2007,154.0,41.5584415584
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,45.0,NISP,pollen,,,,,,190.0,215.0,pollen,6/30/2007,129.0,34.8837209302
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,62.0,NISP,pollen,,,,,,193.0,215.0,pollen,6/30/2007,185.0,33.5135135135
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,86.0,NISP,pollen,,,,,,198.0,215.0,pollen,6/30/2007,219.0,39.2694063927
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,9.0,NISP,pollen,,,,,,169.0,215.0,pollen,6/30/2007,130.0,6.92307692308
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,33.0,NISP,pollen,,,,,,172.0,215.0,pollen,6/30/2007,175.0,18.8571428571
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,25.0,NISP,pollen,,,,,,174.0,215.0,pollen,6/30/2007,166.0,15.0602409639
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,41.0,NISP,pollen,,,,,,187.0,215.0,pollen,6/30/2007,129.0,31.7829457364
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,53.0,NISP,pollen,,,,,,191.0,215.0,pollen,6/30/2007,132.0,40.1515151515
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,66.0,NISP,pollen,,,,,,194.0,215.0,pollen,6/30/2007,155.0,42.5806451613
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,66.0,NISP,pollen,,,,,,205.0,215.0,pollen,6/30/2007,171.0,38.5964912281
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,69.0,NISP,pollen,,,,,,206.0,215.0,pollen,6/30/2007,180.0,38.3333333333
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,76.0,NISP,pollen,,,,,,207.0,215.0,pollen,6/30/2007,240.0,31.6666666667
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,82.0,NISP,pollen,,,,,,209.0,215.0,pollen,6/30/2007,185.0,44.3243243243
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,9.0,NISP,pollen,,,,,,107.0,215.0,pollen,6/30/2007,138.0,6.52173913043
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,12.0,NISP,pollen,,,,,,118.0,215.0,pollen,6/30/2007,130.0,9.23076923077
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,10.0,NISP,pollen,,,,,,120.0,215.0,pollen,6/30/2007,135.0,7.40740740741
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,18.0,NISP,pollen,,,,,,121.0,215.0,pollen,6/30/2007,134.0,13.4328358209
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,11.0,NISP,pollen,,,,,,123.0,215.0,pollen,6/30/2007,118.0,9.32203389831
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,5.0,NISP,pollen,,,,,,60.0,215.0,pollen,6/30/2007,231.0,2.1645021645
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,4.0,NISP,pollen,,,,,,62.0,215.0,pollen,6/30/2007,268.0,1.49253731343
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,3.0,NISP,pollen,,,,,,64.0,215.0,pollen,6/30/2007,269.0,1.11524163569
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,5.0,NISP,pollen,,,,,,66.0,215.0,pollen,6/30/2007,211.0,2.36966824645
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,3.0,NISP,pollen,,,,,,68.0,215.0,pollen,6/30/2007,196.0,1.5306122449
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,5.0,NISP,pollen,,,,,,70.0,215.0,pollen,6/30/2007,158.0,3.16455696203
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,4.0,NISP,pollen,,,,,,72.0,215.0,pollen,6/30/2007,208.0,1.92307692308
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,11.0,NISP,pollen,,,,,,74.0,215.0,pollen,6/30/2007,193.0,5.69948186528
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,8.0,NISP,pollen,,,,,,76.0,215.0,pollen,6/30/2007,165.0,4.84848484848
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,3.0,NISP,pollen,,,,,,78.0,215.0,pollen,6/30/2007,203.0,1.47783251232
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,6.0,NISP,pollen,,,,,,80.0,215.0,pollen,6/30/2007,156.0,3.84615384615
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,4.0,NISP,pollen,,,,,,82.0,215.0,pollen,6/30/2007,151.0,2.64900662252
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,10.0,NISP,pollen,,,,,,84.0,215.0,pollen,6/30/2007,217.0,4.60829493088
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,7.0,NISP,pollen,,,,,,86.0,215.0,pollen,6/30/2007,145.0,4.8275862069
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,10.0,NISP,pollen,,,,,,88.0,215.0,pollen,6/30/2007,264.0,3.78787878788
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,8.0,NISP,pollen,,,,,,90.0,215.0,pollen,6/30/2007,190.0,4.21052631579
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,3.0,NISP,pollen,,,,,,92.0,215.0,pollen,6/30/2007,162.0,1.85185185185
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,7.0,NISP,pollen,,,,,,94.0,215.0,pollen,6/30/2007,159.0,4.40251572327
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,12.0,NISP,pollen,,,,,,96.0,215.0,pollen,6/30/2007,283.0,4.24028268551
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,6.0,NISP,pollen,,,,,,98.0,215.0,pollen,6/30/2007,145.0,4.13793103448
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,3.0,NISP,pollen,,,,,,100.0,215.0,pollen,6/30/2007,212.0,1.41509433962
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,6.0,NISP,pollen,,,,,,102.0,215.0,pollen,6/30/2007,168.0,3.57142857143
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,8.0,NISP,pollen,,,,,,104.0,215.0,pollen,6/30/2007,222.0,3.6036036036
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,9.0,NISP,pollen,,,,,,106.0,215.0,pollen,6/30/2007,245.0,3.67346938776
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,4.0,NISP,pollen,,,,,,108.0,215.0,pollen,6/30/2007,204.0,1.96078431373
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,5.0,NISP,pollen,,,,,,110.0,215.0,pollen,6/30/2007,198.0,2.52525252525
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,6.0,NISP,pollen,,,,,,112.0,215.0,pollen,6/30/2007,170.0,3.52941176471
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,13.0,NISP,pollen,,,,,,114.0,215.0,pollen,6/30/2007,252.0,5.15873015873
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,22.0,NISP,pollen,,,,,,116.0,215.0,pollen,6/30/2007,408.0,5.39215686275
+3008,Abbaye d'Orval,49.641944,5.347222,49.641944,49.641944,5.347222,5.347222,Vascular plants,Pinus sylvestris-type,22.0,NISP,pollen,,,,,,118.0,215.0,pollen,6/30/2007,420.0,5.2380952381
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,300.0,NISP,pollen,,2008.0,,,Radiocarbon years BP,245.0,175.0,pollen,6/30/2007,1132.0,26.5017667845
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,324.0,NISP,pollen,,2049.0,,,Radiocarbon years BP,250.0,175.0,pollen,6/30/2007,1258.0,25.7551669316
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,766.0,NISP,pollen,,2090.0,,,Radiocarbon years BP,255.0,175.0,pollen,6/30/2007,2233.0,34.3036274071
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,722.0,NISP,pollen,,2131.0,,,Radiocarbon years BP,260.0,175.0,pollen,6/30/2007,2030.0,35.5665024631
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,674.0,NISP,pollen,,2172.0,,,Radiocarbon years BP,265.0,175.0,pollen,6/30/2007,2076.0,32.4662813102
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,694.0,NISP,pollen,,2213.0,,,Radiocarbon years BP,270.0,175.0,pollen,6/30/2007,2143.0,32.3845076995
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,735.0,NISP,pollen,,2254.0,,,Radiocarbon years BP,275.0,175.0,pollen,6/30/2007,2250.0,32.6666666667
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,722.0,NISP,pollen,,2295.0,,,Radiocarbon years BP,280.0,175.0,pollen,6/30/2007,2082.0,34.6781940442
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,720.0,NISP,pollen,,2336.0,,,Radiocarbon years BP,285.0,175.0,pollen,6/30/2007,2063.0,34.9006301503
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,764.0,NISP,pollen,,2377.0,,,Radiocarbon years BP,290.0,175.0,pollen,6/30/2007,2259.0,33.8202744577
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,671.0,NISP,pollen,,2418.0,,,Radiocarbon years BP,295.0,175.0,pollen,6/30/2007,2187.0,30.6812985825
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,675.0,NISP,pollen,,2459.0,,,Radiocarbon years BP,300.0,175.0,pollen,6/30/2007,1937.0,34.8477026329
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,618.0,NISP,pollen,,2525.0,,,Radiocarbon years BP,308.0,175.0,pollen,6/30/2007,2060.0,30.0
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,643.0,NISP,pollen,,2590.0,,,Radiocarbon years BP,316.0,175.0,pollen,6/30/2007,2011.0,31.9741422178
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,824.0,NISP,pollen,,2656.0,,,Radiocarbon years BP,324.0,175.0,pollen,6/30/2007,2135.0,38.5948477752
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,928.0,NISP,pollen,,2689.0,,,Radiocarbon years BP,328.0,175.0,pollen,6/30/2007,2315.0,40.0863930886
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,730.0,NISP,pollen,,2754.0,,,Radiocarbon years BP,336.0,175.0,pollen,6/30/2007,2025.0,36.049382716
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,804.0,NISP,pollen,,2787.0,,,Radiocarbon years BP,340.0,175.0,pollen,6/30/2007,2215.0,36.2979683973
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,1155.0,NISP,pollen,,2869.0,,,Radiocarbon years BP,350.0,175.0,pollen,6/30/2007,2910.0,39.6907216495
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,913.0,NISP,pollen,,2951.0,,,Radiocarbon years BP,360.0,175.0,pollen,6/30/2007,2499.0,36.5346138455
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,998.0,NISP,pollen,,3000.0,,,Radiocarbon years BP,366.0,175.0,pollen,6/30/2007,2495.0,40.0
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,448.0,NISP,pollen,,3049.0,,,Radiocarbon years BP,372.0,175.0,pollen,6/30/2007,1816.0,24.6696035242
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,444.0,NISP,pollen,,3082.0,,,Radiocarbon years BP,376.0,175.0,pollen,6/30/2007,1982.0,22.4016145308
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,399.0,NISP,pollen,,3115.0,,,Radiocarbon years BP,380.0,175.0,pollen,6/30/2007,1768.0,22.5678733032
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,375.0,NISP,pollen,,3164.0,,,Radiocarbon years BP,386.0,175.0,pollen,6/30/2007,1547.0,24.2404654169
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,421.0,NISP,pollen,,3230.0,,,Radiocarbon years BP,394.0,175.0,pollen,6/30/2007,1613.0,26.100433974
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,344.0,NISP,pollen,,3279.0,,,Radiocarbon years BP,400.0,175.0,pollen,6/30/2007,1613.0,21.3267203968
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,380.0,NISP,pollen,,3320.0,,,Radiocarbon years BP,405.0,175.0,pollen,6/30/2007,1409.0,26.9694819021
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,214.0,NISP,pollen,,3361.0,,,Radiocarbon years BP,410.0,175.0,pollen,6/30/2007,1646.0,13.0012150668
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,478.0,NISP,pollen,,3402.0,,,Radiocarbon years BP,415.0,175.0,pollen,6/30/2007,1721.0,27.7745496804
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,492.0,NISP,pollen,,3484.0,,,Radiocarbon years BP,425.0,175.0,pollen,6/30/2007,1790.0,27.4860335196
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,461.0,NISP,pollen,,3566.0,,,Radiocarbon years BP,435.0,175.0,pollen,6/30/2007,1703.0,27.0698766882
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,265.0,NISP,pollen,,3648.0,,,Radiocarbon years BP,445.0,175.0,pollen,6/30/2007,1309.0,20.2444614209
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,239.0,NISP,pollen,,3730.0,,,Radiocarbon years BP,455.0,175.0,pollen,6/30/2007,1322.0,18.0786686838
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,206.0,NISP,pollen,,3811.0,,,Radiocarbon years BP,465.0,175.0,pollen,6/30/2007,1244.0,16.5594855305
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,273.0,NISP,pollen,,3893.0,,,Radiocarbon years BP,475.0,175.0,pollen,6/30/2007,1306.0,20.9035222052
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,176.0,NISP,pollen,,3975.0,,,Radiocarbon years BP,485.0,175.0,pollen,6/30/2007,1246.0,14.1252006421
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,224.0,NISP,pollen,,4057.0,,,Radiocarbon years BP,495.0,175.0,pollen,6/30/2007,1274.0,17.5824175824
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,100.0,NISP,pollen,,4139.0,,,Radiocarbon years BP,505.0,175.0,pollen,6/30/2007,1225.0,8.16326530612
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,191.0,NISP,pollen,,4221.0,,,Radiocarbon years BP,515.0,175.0,pollen,6/30/2007,1314.0,14.5357686454
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,151.0,NISP,pollen,,4303.0,,,Radiocarbon years BP,525.0,175.0,pollen,6/30/2007,1349.0,11.1934766494
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,103.0,NISP,pollen,,4385.0,,,Radiocarbon years BP,535.0,175.0,pollen,6/30/2007,1253.0,8.22027134876
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,317.0,NISP,pollen,,4426.0,,,Radiocarbon years BP,540.0,175.0,pollen,6/30/2007,1299.0,24.4033872209
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,337.0,NISP,pollen,,4467.0,,,Radiocarbon years BP,545.0,175.0,pollen,6/30/2007,1475.0,22.8474576271
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,327.0,NISP,pollen,,4508.0,,,Radiocarbon years BP,550.0,175.0,pollen,6/30/2007,1327.0,24.6420497362
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,436.0,NISP,pollen,,4590.0,,,Radiocarbon years BP,560.0,175.0,pollen,6/30/2007,1494.0,29.1834002677
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,352.0,NISP,pollen,,4672.0,,,Radiocarbon years BP,570.0,175.0,pollen,6/30/2007,1377.0,25.5628177197
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,370.0,NISP,pollen,,4754.0,,,Radiocarbon years BP,580.0,175.0,pollen,6/30/2007,1586.0,23.3291298865
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,303.0,NISP,pollen,,4836.0,,,Radiocarbon years BP,590.0,175.0,pollen,6/30/2007,1767.0,17.1477079796
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,417.0,NISP,pollen,,4918.0,,,Radiocarbon years BP,600.0,175.0,pollen,6/30/2007,1491.0,27.967806841
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,381.0,NISP,pollen,,4959.0,,,Radiocarbon years BP,605.0,175.0,pollen,6/30/2007,1437.0,26.5135699374
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,65.0,NISP,pollen,,5154.0,,,Radiocarbon years BP,620.0,175.0,pollen,6/30/2007,872.0,7.45412844037
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,69.0,NISP,pollen,,5231.0,,,Radiocarbon years BP,625.0,175.0,pollen,6/30/2007,686.0,10.0583090379
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,30.0,NISP,pollen,,5277.0,,,Radiocarbon years BP,628.0,175.0,pollen,6/30/2007,1207.0,2.48550124275
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,76.0,NISP,pollen,,5323.0,,,Radiocarbon years BP,631.0,175.0,pollen,6/30/2007,1925.0,3.94805194805
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,27.0,NISP,pollen,,5385.0,,,Radiocarbon years BP,635.0,175.0,pollen,6/30/2007,865.0,3.12138728324
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,44.0,NISP,pollen,,5462.0,,,Radiocarbon years BP,640.0,175.0,pollen,6/30/2007,1141.0,3.85626643295
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,67.0,NISP,pollen,,5538.0,,,Radiocarbon years BP,645.0,175.0,pollen,6/30/2007,1232.0,5.43831168831
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,52.0,NISP,pollen,,5615.0,,,Radiocarbon years BP,650.0,175.0,pollen,6/30/2007,1109.0,4.68890892696
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,65.0,NISP,pollen,,5769.0,,,Radiocarbon years BP,660.0,175.0,pollen,6/30/2007,1249.0,5.20416333066
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,70.0,NISP,pollen,,5923.0,,,Radiocarbon years BP,670.0,175.0,pollen,6/30/2007,1204.0,5.81395348837
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,69.0,NISP,pollen,,6000.0,,,Radiocarbon years BP,675.0,175.0,pollen,6/30/2007,1120.0,6.16071428571
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,76.0,NISP,pollen,,6077.0,,,Radiocarbon years BP,680.0,175.0,pollen,6/30/2007,1156.0,6.57439446367
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,98.0,NISP,pollen,,6231.0,,,Radiocarbon years BP,690.0,175.0,pollen,6/30/2007,1132.0,8.65724381625
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,102.0,NISP,pollen,,6323.0,,,Radiocarbon years BP,696.0,175.0,pollen,6/30/2007,1165.0,8.75536480687
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,108.0,NISP,pollen,,6385.0,,,Radiocarbon years BP,700.0,175.0,pollen,6/30/2007,2012.0,5.36779324056
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,110.0,NISP,pollen,,6538.0,,,Radiocarbon years BP,710.0,175.0,pollen,6/30/2007,1696.0,6.4858490566
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,78.0,NISP,pollen,,6692.0,,,Radiocarbon years BP,720.0,175.0,pollen,6/30/2007,1310.0,5.95419847328
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,102.0,NISP,pollen,,6846.0,,,Radiocarbon years BP,730.0,175.0,pollen,6/30/2007,1645.0,6.20060790274
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,111.0,NISP,pollen,,7000.0,,,Radiocarbon years BP,740.0,175.0,pollen,6/30/2007,1845.0,6.0162601626
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,153.0,NISP,pollen,,7154.0,,,Radiocarbon years BP,750.0,175.0,pollen,6/30/2007,2329.0,6.56934306569
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,140.0,NISP,pollen,,7308.0,,,Radiocarbon years BP,760.0,175.0,pollen,6/30/2007,1567.0,8.9342693044
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,124.0,NISP,pollen,,7462.0,,,Radiocarbon years BP,770.0,175.0,pollen,6/30/2007,1963.0,6.316861946
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,107.0,NISP,pollen,,7615.0,,,Radiocarbon years BP,780.0,175.0,pollen,6/30/2007,1297.0,8.24980724749
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,76.0,NISP,pollen,,7769.0,,,Radiocarbon years BP,790.0,175.0,pollen,6/30/2007,1190.0,6.38655462185
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,109.0,NISP,pollen,,7846.0,,,Radiocarbon years BP,795.0,175.0,pollen,6/30/2007,1624.0,6.7118226601
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,132.0,NISP,pollen,,8000.0,,,Radiocarbon years BP,805.0,175.0,pollen,6/30/2007,1268.0,10.4100946372
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,109.0,NISP,pollen,,8154.0,,,Radiocarbon years BP,815.0,175.0,pollen,6/30/2007,1216.0,8.96381578947
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,175.0,NISP,pollen,,8308.0,,,Radiocarbon years BP,825.0,175.0,pollen,6/30/2007,1642.0,10.6577344702
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,216.0,NISP,pollen,,8400.0,,,Radiocarbon years BP,831.0,175.0,pollen,6/30/2007,1766.0,12.2310305776
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,281.0,NISP,pollen,,8538.0,,,Radiocarbon years BP,840.0,175.0,pollen,6/30/2007,2011.0,13.9731476877
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,341.0,NISP,pollen,,8692.0,,,Radiocarbon years BP,850.0,175.0,pollen,6/30/2007,1798.0,18.9655172414
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,358.0,NISP,pollen,,8846.0,,,Radiocarbon years BP,860.0,175.0,pollen,6/30/2007,1804.0,19.844789357
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,333.0,NISP,pollen,,8923.0,,,Radiocarbon years BP,865.0,175.0,pollen,6/30/2007,1239.0,26.8765133172
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,432.0,NISP,pollen,,9000.0,,,Radiocarbon years BP,870.0,175.0,pollen,6/30/2007,1331.0,32.4567993989
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,471.0,NISP,pollen,,9077.0,,,Radiocarbon years BP,875.0,175.0,pollen,6/30/2007,1242.0,37.922705314
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,385.0,NISP,pollen,,9154.0,,,Radiocarbon years BP,880.0,175.0,pollen,6/30/2007,1251.0,30.7753796962
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,532.0,NISP,pollen,,9231.0,,,Radiocarbon years BP,885.0,175.0,pollen,6/30/2007,1405.0,37.8647686833
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,600.0,NISP,pollen,,9308.0,,,Radiocarbon years BP,890.0,175.0,pollen,6/30/2007,1358.0,44.1826215022
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,650.0,NISP,pollen,,9385.0,,,Radiocarbon years BP,895.0,175.0,pollen,6/30/2007,1396.0,46.5616045845
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,1077.0,NISP,pollen,,9462.0,,,Radiocarbon years BP,900.0,175.0,pollen,6/30/2007,2252.0,47.8241563055
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,948.0,NISP,pollen,,9615.0,,,Radiocarbon years BP,910.0,175.0,pollen,6/30/2007,1654.0,57.315598549
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,1495.0,NISP,pollen,,9769.0,,,Radiocarbon years BP,920.0,175.0,pollen,6/30/2007,2376.0,62.9208754209
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,1399.0,NISP,pollen,,9923.0,,,Radiocarbon years BP,930.0,175.0,pollen,6/30/2007,2230.0,62.735426009
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,913.0,NISP,pollen,,10077.0,,,Radiocarbon years BP,940.0,175.0,pollen,6/30/2007,1479.0,61.7308992563
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,746.0,NISP,pollen,,10231.0,,,Radiocarbon years BP,950.0,175.0,pollen,6/30/2007,1272.0,58.6477987421
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,850.0,NISP,pollen,,10308.0,,,Radiocarbon years BP,955.0,175.0,pollen,6/30/2007,1876.0,45.3091684435
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,488.0,NISP,pollen,,10385.0,,,Radiocarbon years BP,960.0,175.0,pollen,6/30/2007,1672.0,29.1866028708
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,574.0,NISP,pollen,,10538.0,,,Radiocarbon years BP,970.0,175.0,pollen,6/30/2007,1511.0,37.9880873594
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,677.0,NISP,pollen,,10615.0,,,Radiocarbon years BP,975.0,175.0,pollen,6/30/2007,1761.0,38.4440658717
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,613.0,NISP,pollen,,10769.0,,,Radiocarbon years BP,985.0,175.0,pollen,6/30/2007,1386.0,44.227994228
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,665.0,NISP,pollen,,10846.0,,,Radiocarbon years BP,990.0,175.0,pollen,6/30/2007,1430.0,46.5034965035
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,706.0,NISP,pollen,,10938.0,,,Radiocarbon years BP,996.0,175.0,pollen,6/30/2007,1507.0,46.8480424685
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,721.0,NISP,pollen,,11000.0,,,Radiocarbon years BP,1000.0,175.0,pollen,6/30/2007,1451.0,49.6898690558
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,708.0,NISP,pollen,,11154.0,,,Radiocarbon years BP,1010.0,175.0,pollen,6/30/2007,1699.0,41.6715715127
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,641.0,NISP,pollen,,11308.0,,,Radiocarbon years BP,1020.0,175.0,pollen,6/30/2007,1437.0,44.6068197634
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,670.0,NISP,pollen,,11462.0,,,Radiocarbon years BP,1030.0,175.0,pollen,6/30/2007,1405.0,47.6868327402
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,568.0,NISP,pollen,,11538.0,,,Radiocarbon years BP,1035.0,175.0,pollen,6/30/2007,1251.0,45.4036770584
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,679.0,NISP,pollen,,11615.0,,,Radiocarbon years BP,1040.0,175.0,pollen,6/30/2007,1464.0,46.3797814208
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,234.0,NISP,pollen,,11769.0,,,Radiocarbon years BP,1050.0,175.0,pollen,6/30/2007,886.0,26.4108352144
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,189.0,NISP,pollen,,11923.0,,,Radiocarbon years BP,1060.0,175.0,pollen,6/30/2007,848.0,22.2877358491
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,119.0,NISP,pollen,,12077.0,,,Radiocarbon years BP,1070.0,175.0,pollen,6/30/2007,540.0,22.037037037
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,222.0,NISP,pollen,,12231.0,,,Radiocarbon years BP,1080.0,175.0,pollen,6/30/2007,668.0,33.2335329341
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,138.0,NISP,pollen,,12385.0,,,Radiocarbon years BP,1090.0,175.0,pollen,6/30/2007,594.0,23.2323232323
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,188.0,NISP,pollen,,12462.0,,,Radiocarbon years BP,1095.0,175.0,pollen,6/30/2007,984.0,19.1056910569
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,141.0,NISP,pollen,,12538.0,,,Radiocarbon years BP,1100.0,175.0,pollen,6/30/2007,624.0,22.5961538462
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,103.0,NISP,pollen,,12615.0,,,Radiocarbon years BP,1105.0,175.0,pollen,6/30/2007,508.0,20.2755905512
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,62.0,NISP,pollen,,12769.0,,,Radiocarbon years BP,1115.0,175.0,pollen,6/30/2007,279.0,22.2222222222
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,91.0,NISP,pollen,,13154.0,,,Radiocarbon years BP,1140.0,175.0,pollen,6/30/2007,356.0,25.5617977528
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,77.0,NISP,pollen,,13538.0,,,Radiocarbon years BP,1165.0,175.0,pollen,6/30/2007,284.0,27.1126760563
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,113.0,NISP,pollen,,14077.0,,,Radiocarbon years BP,1200.0,175.0,pollen,6/30/2007,285.0,39.649122807
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,103.0,NISP,pollen,,14462.0,,,Radiocarbon years BP,1225.0,175.0,pollen,6/30/2007,307.0,33.5504885993
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,113.0,NISP,pollen,,15077.0,,,Radiocarbon years BP,1265.0,175.0,pollen,6/30/2007,280.0,40.3571428571
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,87.0,NISP,pollen,,15615.0,,,Radiocarbon years BP,1300.0,175.0,pollen,6/30/2007,225.0,38.6666666667
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,132.0,NISP,pollen,,16231.0,,,Radiocarbon years BP,1340.0,175.0,pollen,6/30/2007,280.0,47.1428571429
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Pinus sylvestris-type,83.0,NISP,pollen,,16846.0,,,Radiocarbon years BP,1380.0,175.0,pollen,6/30/2007,250.0,33.2
+3258,Beaufort Birkenbach,49.847222,6.125833,49.847222,49.847222,6.125833,6.125833,Vascular plants,Pinus sylvestris-type,71.0,NISP,pollen,,0.0,,,Radiocarbon years BP,0.0,360.0,pollen,6/30/2007,345.0,20.5797101449
+3258,Beaufort Birkenbach,49.847222,6.125833,49.847222,49.847222,6.125833,6.125833,Vascular plants,Pinus sylvestris-type,100.0,NISP,pollen,,66.0,,,Radiocarbon years BP,2.0,360.0,pollen,6/30/2007,243.0,41.1522633745
+3258,Beaufort Birkenbach,49.847222,6.125833,49.847222,49.847222,6.125833,6.125833,Vascular plants,Pinus sylvestris-type,49.0,NISP,pollen,,132.0,,,Radiocarbon years BP,4.0,360.0,pollen,6/30/2007,183.0,26.7759562842
+3258,Beaufort Birkenbach,49.847222,6.125833,49.847222,49.847222,6.125833,6.125833,Vascular plants,Pinus sylvestris-type,50.0,NISP,pollen,,198.0,,,Radiocarbon years BP,6.0,360.0,pollen,6/30/2007,138.0,36.231884058
+3258,Beaufort Birkenbach,49.847222,6.125833,49.847222,49.847222,6.125833,6.125833,Vascular plants,Pinus sylvestris-type,52.0,NISP,pollen,,264.0,,,Radiocarbon years BP,8.0,360.0,pollen,6/30/2007,144.0,36.1111111111
+3258,Beaufort Birkenbach,49.847222,6.125833,49.847222,49.847222,6.125833,6.125833,Vascular plants,Pinus sylvestris-type,114.0,NISP,pollen,,330.0,,,Radiocarbon years BP,10.0,360.0,pollen,6/30/2007,282.0,40.4255319149
+3258,Beaufort Birkenbach,49.847222,6.125833,49.847222,49.847222,6.125833,6.125833,Vascular plants,Pinus sylvestris-type,85.0,NISP,pollen,,396.0,,,Radiocarbon years BP,12.0,360.0,pollen,6/30/2007,240.0,35.4166666667
+3258,Beaufort Birkenbach,49.847222,6.125833,49.847222,49.847222,6.125833,6.125833,Vascular plants,Pinus sylvestris-type,100.0,NISP,pollen,,462.0,,,Radiocarbon years BP,14.0,360.0,pollen,6/30/2007,219.0,45.6621004566
+3258,Beaufort Birkenbach,49.847222,6.125833,49.847222,49.847222,6.125833,6.125833,Vascular plants,Pinus sylvestris-type,75.0,NISP,pollen,,528.0,,,Radiocarbon years BP,16.0,360.0,pollen,6/30/2007,187.0,40.1069518717
+3258,Beaufort Birkenbach,49.847222,6.125833,49.847222,49.847222,6.125833,6.125833,Vascular plants,Pinus sylvestris-type,75.0,NISP,pollen,,594.0,,,Radiocarbon years BP,18.0,360.0,pollen,6/30/2007,219.0,34.2465753425
+3258,Beaufort Birkenbach,49.847222,6.125833,49.847222,49.847222,6.125833,6.125833,Vascular plants,Pinus sylvestris-type,32.0,NISP,pollen,,660.0,,,Radiocarbon years BP,20.0,360.0,pollen,6/30/2007,244.0,13.1147540984
+3258,Beaufort Birkenbach,49.847222,6.125833,49.847222,49.847222,6.125833,6.125833,Vascular plants,Pinus sylvestris-type,36.0,NISP,pollen,,726.0,,,Radiocarbon years BP,22.0,360.0,pollen,6/30/2007,279.0,12.9032258065
+3258,Beaufort Birkenbach,49.847222,6.125833,49.847222,49.847222,6.125833,6.125833,Vascular plants,Pinus sylvestris-type,51.0,NISP,pollen,,792.0,,,Radiocarbon years BP,24.0,360.0,pollen,6/30/2007,291.0,17.5257731959
+3258,Beaufort Birkenbach,49.847222,6.125833,49.847222,49.847222,6.125833,6.125833,Vascular plants,Pinus sylvestris-type,10.0,NISP,pollen,,858.0,,,Radiocarbon years BP,26.0,360.0,pollen,6/30/2007,252.0,3.96825396825
+3258,Beaufort Birkenbach,49.847222,6.125833,49.847222,49.847222,6.125833,6.125833,Vascular plants,Pinus sylvestris-type,8.0,NISP,pollen,,924.0,,,Radiocarbon years BP,28.0,360.0,pollen,6/30/2007,249.0,3.21285140562
+3258,Beaufort Birkenbach,49.847222,6.125833,49.847222,49.847222,6.125833,6.125833,Vascular plants,Pinus sylvestris-type,12.0,NISP,pollen,,990.0,,,Radiocarbon years BP,30.0,360.0,pollen,6/30/2007,255.0,4.70588235294
+3258,Beaufort Birkenbach,49.847222,6.125833,49.847222,49.847222,6.125833,6.125833,Vascular plants,Pinus sylvestris-type,17.0,NISP,pollen,,1057.0,,,Radiocarbon years BP,32.0,360.0,pollen,6/30/2007,288.0,5.90277777778
+3258,Beaufort Birkenbach,49.847222,6.125833,49.847222,49.847222,6.125833,6.125833,Vascular plants,Pinus sylvestris-type,6.0,NISP,pollen,,1123.0,,,Radiocarbon years BP,34.0,360.0,pollen,6/30/2007,270.0,2.22222222222
+3258,Beaufort Birkenbach,49.847222,6.125833,49.847222,49.847222,6.125833,6.125833,Vascular plants,Pinus sylvestris-type,2.0,NISP,pollen,,1189.0,,,Radiocarbon years BP,36.0,360.0,pollen,6/30/2007,275.0,0.727272727273
+3258,Beaufort Birkenbach,49.847222,6.125833,49.847222,49.847222,6.125833,6.125833,Vascular plants,Pinus sylvestris-type,1.0,NISP,pollen,,1255.0,,,Radiocarbon years BP,38.0,360.0,pollen,6/30/2007,322.0,0.310559006211
+3258,Beaufort Birkenbach,49.847222,6.125833,49.847222,49.847222,6.125833,6.125833,Vascular plants,Pinus sylvestris-type,1.0,NISP,pollen,,1321.0,,,Radiocarbon years BP,40.0,360.0,pollen,6/30/2007,291.0,0.343642611684
+3258,Beaufort Birkenbach,49.847222,6.125833,49.847222,49.847222,6.125833,6.125833,Vascular plants,Pinus sylvestris-type,1.0,NISP,pollen,,1387.0,,,Radiocarbon years BP,42.0,360.0,pollen,6/30/2007,309.0,0.323624595469
+3258,Beaufort Birkenbach,49.847222,6.125833,49.847222,49.847222,6.125833,6.125833,Vascular plants,Pinus sylvestris-type,1.0,NISP,pollen,,1519.0,,,Radiocarbon years BP,46.0,360.0,pollen,6/30/2007,270.0,0.37037037037
+3258,Beaufort Birkenbach,49.847222,6.125833,49.847222,49.847222,6.125833,6.125833,Vascular plants,Pinus sylvestris-type,1.0,NISP,pollen,,1585.0,,,Radiocarbon years BP,48.0,360.0,pollen,6/30/2007,243.0,0.411522633745
+3258,Beaufort Birkenbach,49.847222,6.125833,49.847222,49.847222,6.125833,6.125833,Vascular plants,Pinus sylvestris-type,4.0,NISP,pollen,,1651.0,,,Radiocarbon years BP,50.0,360.0,pollen,6/30/2007,311.0,1.28617363344
+3258,Beaufort Birkenbach,49.847222,6.125833,49.847222,49.847222,6.125833,6.125833,Vascular plants,Pinus sylvestris-type,2.0,NISP,pollen,,1717.0,,,Radiocarbon years BP,52.0,360.0,pollen,6/30/2007,255.0,0.78431372549
+3258,Beaufort Birkenbach,49.847222,6.125833,49.847222,49.847222,6.125833,6.125833,Vascular plants,Pinus sylvestris-type,1.0,NISP,pollen,,1783.0,,,Radiocarbon years BP,54.0,360.0,pollen,6/30/2007,266.0,0.375939849624
+3258,Beaufort Birkenbach,49.847222,6.125833,49.847222,49.847222,6.125833,6.125833,Vascular plants,Pinus sylvestris-type,2.0,NISP,pollen,,1849.0,,,Radiocarbon years BP,56.0,360.0,pollen,6/30/2007,276.0,0.724637681159
+3258,Beaufort Birkenbach,49.847222,6.125833,49.847222,49.847222,6.125833,6.125833,Vascular plants,Pinus sylvestris-type,1.0,NISP,pollen,,1915.0,,,Radiocarbon years BP,58.0,360.0,pollen,6/30/2007,258.0,0.387596899225
+3258,Beaufort Birkenbach,49.847222,6.125833,49.847222,49.847222,6.125833,6.125833,Vascular plants,Pinus sylvestris-type,1.0,NISP,pollen,,1981.0,,,Radiocarbon years BP,60.0,360.0,pollen,6/30/2007,271.0,0.369003690037
+3258,Beaufort Birkenbach,49.847222,6.125833,49.847222,49.847222,6.125833,6.125833,Vascular plants,Pinus sylvestris-type,2.0,NISP,pollen,,2245.0,,,Radiocarbon years BP,68.0,360.0,pollen,6/30/2007,296.0,0.675675675676
+3258,Beaufort Birkenbach,49.847222,6.125833,49.847222,49.847222,6.125833,6.125833,Vascular plants,Pinus sylvestris-type,2.0,NISP,pollen,,2311.0,,,Radiocarbon years BP,70.0,360.0,pollen,6/30/2007,402.0,0.497512437811
+3258,Beaufort Birkenbach,49.847222,6.125833,49.847222,49.847222,6.125833,6.125833,Vascular plants,Pinus sylvestris-type,2.0,NISP,pollen,,2377.0,,,Radiocarbon years BP,72.0,360.0,pollen,6/30/2007,323.0,0.61919504644
+3258,Beaufort Birkenbach,49.847222,6.125833,49.847222,49.847222,6.125833,6.125833,Vascular plants,Pinus sylvestris-type,4.0,NISP,pollen,,2443.0,,,Radiocarbon years BP,74.0,360.0,pollen,6/30/2007,286.0,1.3986013986
+3258,Beaufort Birkenbach,49.847222,6.125833,49.847222,49.847222,6.125833,6.125833,Vascular plants,Pinus sylvestris-type,1.0,NISP,pollen,,2509.0,,,Radiocarbon years BP,76.0,360.0,pollen,6/30/2007,327.0,0.305810397554
+3258,Beaufort Birkenbach,49.847222,6.125833,49.847222,49.847222,6.125833,6.125833,Vascular plants,Pinus sylvestris-type,2.0,NISP,pollen,,2575.0,,,Radiocarbon years BP,78.0,360.0,pollen,6/30/2007,300.0,0.666666666667
+3258,Beaufort Birkenbach,49.847222,6.125833,49.847222,49.847222,6.125833,6.125833,Vascular plants,Pinus sylvestris-type,4.0,NISP,pollen,,2641.0,,,Radiocarbon years BP,80.0,360.0,pollen,6/30/2007,271.0,1.47601476015
+3258,Beaufort Birkenbach,49.847222,6.125833,49.847222,49.847222,6.125833,6.125833,Vascular plants,Pinus sylvestris-type,2.0,NISP,pollen,,2707.0,,,Radiocarbon years BP,82.0,360.0,pollen,6/30/2007,333.0,0.600600600601
+3258,Beaufort Birkenbach,49.847222,6.125833,49.847222,49.847222,6.125833,6.125833,Vascular plants,Pinus sylvestris-type,1.0,NISP,pollen,,2773.0,,,Radiocarbon years BP,84.0,360.0,pollen,6/30/2007,337.0,0.296735905045
+3258,Beaufort Birkenbach,49.847222,6.125833,49.847222,49.847222,6.125833,6.125833,Vascular plants,Pinus sylvestris-type,2.0,NISP,pollen,,2839.0,,,Radiocarbon years BP,86.0,360.0,pollen,6/30/2007,261.0,0.766283524904
+3258,Beaufort Birkenbach,49.847222,6.125833,49.847222,49.847222,6.125833,6.125833,Vascular plants,Pinus sylvestris-type,2.0,NISP,pollen,,2905.0,,,Radiocarbon years BP,88.0,360.0,pollen,6/30/2007,341.0,0.58651026393
+3258,Beaufort Birkenbach,49.847222,6.125833,49.847222,49.847222,6.125833,6.125833,Vascular plants,Pinus sylvestris-type,4.0,NISP,pollen,,2971.0,,,Radiocarbon years BP,90.0,360.0,pollen,6/30/2007,259.0,1.5444015444
+3258,Beaufort Birkenbach,49.847222,6.125833,49.847222,49.847222,6.125833,6.125833,Vascular plants,Pinus sylvestris-type,1.0,NISP,pollen,,3037.0,,,Radiocarbon years BP,92.0,360.0,pollen,6/30/2007,321.0,0.311526479751
+3258,Beaufort Birkenbach,49.847222,6.125833,49.847222,49.847222,6.125833,6.125833,Vascular plants,Pinus sylvestris-type,1.0,NISP,pollen,,3103.0,,,Radiocarbon years BP,94.0,360.0,pollen,6/30/2007,260.0,0.384615384615
+3258,Beaufort Birkenbach,49.847222,6.125833,49.847222,49.847222,6.125833,6.125833,Vascular plants,Pinus sylvestris-type,3.0,NISP,pollen,,3170.0,,,Radiocarbon years BP,96.0,360.0,pollen,6/30/2007,281.0,1.06761565836
+3258,Beaufort Birkenbach,49.847222,6.125833,49.847222,49.847222,6.125833,6.125833,Vascular plants,Pinus sylvestris-type,4.0,NISP,pollen,,3302.0,,,Radiocarbon years BP,100.0,360.0,pollen,6/30/2007,281.0,1.42348754448
+3259,Berdorf Aesbaach,49.830278,6.436667,49.830278,49.830278,6.436667,6.436667,Vascular plants,Pinus sylvestris-type,3.0,NISP,pollen,,,,,,58.0,190.0,pollen,6/30/2007,144.0,2.08333333333
+3259,Berdorf Aesbaach,49.830278,6.436667,49.830278,49.830278,6.436667,6.436667,Vascular plants,Pinus sylvestris-type,2.0,NISP,pollen,,,,,,60.0,190.0,pollen,6/30/2007,155.0,1.29032258065
+3259,Berdorf Aesbaach,49.830278,6.436667,49.830278,49.830278,6.436667,6.436667,Vascular plants,Pinus sylvestris-type,2.0,NISP,pollen,,,,,,62.0,190.0,pollen,6/30/2007,143.0,1.3986013986
+3259,Berdorf Aesbaach,49.830278,6.436667,49.830278,49.830278,6.436667,6.436667,Vascular plants,Pinus sylvestris-type,4.0,NISP,pollen,,,,,,64.0,190.0,pollen,6/30/2007,126.0,3.1746031746
+3259,Berdorf Aesbaach,49.830278,6.436667,49.830278,49.830278,6.436667,6.436667,Vascular plants,Pinus sylvestris-type,148.0,NISP,pollen,,,,,,501.0,190.0,pollen,6/30/2007,206.0,71.8446601942
+3259,Berdorf Aesbaach,49.830278,6.436667,49.830278,49.830278,6.436667,6.436667,Vascular plants,Pinus sylvestris-type,135.0,NISP,pollen,,,,,,502.0,190.0,pollen,6/30/2007,213.0,63.3802816901
+3259,Berdorf Aesbaach,49.830278,6.436667,49.830278,49.830278,6.436667,6.436667,Vascular plants,Pinus sylvestris-type,132.0,NISP,pollen,,,,,,503.0,190.0,pollen,6/30/2007,220.0,60.0
+3259,Berdorf Aesbaach,49.830278,6.436667,49.830278,49.830278,6.436667,6.436667,Vascular plants,Pinus sylvestris-type,127.0,NISP,pollen,,,,,,504.0,190.0,pollen,6/30/2007,223.0,56.9506726457
+3259,Berdorf Aesbaach,49.830278,6.436667,49.830278,49.830278,6.436667,6.436667,Vascular plants,Pinus sylvestris-type,130.0,NISP,pollen,,,,,,505.0,190.0,pollen,6/30/2007,216.0,60.1851851852
+3259,Berdorf Aesbaach,49.830278,6.436667,49.830278,49.830278,6.436667,6.436667,Vascular plants,Pinus sylvestris-type,116.0,NISP,pollen,,,,,,506.0,190.0,pollen,6/30/2007,232.0,50.0
+3259,Berdorf Aesbaach,49.830278,6.436667,49.830278,49.830278,6.436667,6.436667,Vascular plants,Pinus sylvestris-type,120.0,NISP,pollen,,,,,,507.0,190.0,pollen,6/30/2007,222.0,54.0540540541
+3259,Berdorf Aesbaach,49.830278,6.436667,49.830278,49.830278,6.436667,6.436667,Vascular plants,Pinus sylvestris-type,120.0,NISP,pollen,,,,,,508.0,190.0,pollen,6/30/2007,212.0,56.6037735849
+3260,Breidfeld,50.122778,6.063056,50.122778,50.122778,6.063056,6.063056,Vascular plants,Pinus sylvestris-type,1.0,NISP,pollen,,1449.0,,,Radiocarbon years BP,20.0,440.0,pollen,6/30/2007,472.0,0.21186440678
+3260,Breidfeld,50.122778,6.063056,50.122778,50.122778,6.063056,6.063056,Vascular plants,Pinus sylvestris-type,1.0,NISP,pollen,,1594.0,,,Radiocarbon years BP,22.0,440.0,pollen,6/30/2007,315.0,0.31746031746
+3260,Breidfeld,50.122778,6.063056,50.122778,50.122778,6.063056,6.063056,Vascular plants,Pinus sylvestris-type,6.0,NISP,pollen,,1738.0,,,Radiocarbon years BP,24.0,440.0,pollen,6/30/2007,475.0,1.26315789474
+3260,Breidfeld,50.122778,6.063056,50.122778,50.122778,6.063056,6.063056,Vascular plants,Pinus sylvestris-type,4.0,NISP,pollen,,1883.0,,,Radiocarbon years BP,26.0,440.0,pollen,6/30/2007,249.0,1.60642570281
+3260,Breidfeld,50.122778,6.063056,50.122778,50.122778,6.063056,6.063056,Vascular plants,Pinus sylvestris-type,3.0,NISP,pollen,,2028.0,,,Radiocarbon years BP,28.0,440.0,pollen,6/30/2007,320.0,0.9375
+3260,Breidfeld,50.122778,6.063056,50.122778,50.122778,6.063056,6.063056,Vascular plants,Pinus sylvestris-type,3.0,NISP,pollen,,2173.0,,,Radiocarbon years BP,30.0,440.0,pollen,6/30/2007,309.0,0.970873786408
+3260,Breidfeld,50.122778,6.063056,50.122778,50.122778,6.063056,6.063056,Vascular plants,Pinus sylvestris-type,2.0,NISP,pollen,,2318.0,,,Radiocarbon years BP,32.0,440.0,pollen,6/30/2007,321.0,0.623052959502
+3260,Breidfeld,50.122778,6.063056,50.122778,50.122778,6.063056,6.063056,Vascular plants,Pinus sylvestris-type,3.0,NISP,pollen,,2463.0,,,Radiocarbon years BP,34.0,440.0,pollen,6/30/2007,307.0,0.977198697068
+3260,Breidfeld,50.122778,6.063056,50.122778,50.122778,6.063056,6.063056,Vascular plants,Pinus sylvestris-type,2.0,NISP,pollen,,2752.0,,,Radiocarbon years BP,38.0,440.0,pollen,6/30/2007,286.0,0.699300699301
+3260,Breidfeld,50.122778,6.063056,50.122778,50.122778,6.063056,6.063056,Vascular plants,Pinus sylvestris-type,2.0,NISP,pollen,,2897.0,,,Radiocarbon years BP,40.0,440.0,pollen,6/30/2007,288.0,0.694444444444
+3260,Breidfeld,50.122778,6.063056,50.122778,50.122778,6.063056,6.063056,Vascular plants,Pinus sylvestris-type,3.0,NISP,pollen,,3042.0,,,Radiocarbon years BP,42.0,440.0,pollen,6/30/2007,206.0,1.45631067961
+3260,Breidfeld,50.122778,6.063056,50.122778,50.122778,6.063056,6.063056,Vascular plants,Pinus sylvestris-type,1.0,NISP,pollen,,3187.0,,,Radiocarbon years BP,44.0,440.0,pollen,6/30/2007,285.0,0.350877192982
+3260,Breidfeld,50.122778,6.063056,50.122778,50.122778,6.063056,6.063056,Vascular plants,Pinus sylvestris-type,2.0,NISP,pollen,,3332.0,,,Radiocarbon years BP,46.0,440.0,pollen,6/30/2007,270.0,0.740740740741
+3260,Breidfeld,50.122778,6.063056,50.122778,50.122778,6.063056,6.063056,Vascular plants,Pinus sylvestris-type,6.0,NISP,pollen,,3622.0,,,Radiocarbon years BP,50.0,440.0,pollen,6/30/2007,292.0,2.05479452055
+3260,Breidfeld,50.122778,6.063056,50.122778,50.122778,6.063056,6.063056,Vascular plants,Pinus sylvestris-type,1.0,NISP,pollen,,3766.0,,,Radiocarbon years BP,52.0,440.0,pollen,6/30/2007,420.0,0.238095238095
+3260,Breidfeld,50.122778,6.063056,50.122778,50.122778,6.063056,6.063056,Vascular plants,Pinus sylvestris-type,4.0,NISP,pollen,,3911.0,,,Radiocarbon years BP,54.0,440.0,pollen,6/30/2007,288.0,1.38888888889
+3260,Breidfeld,50.122778,6.063056,50.122778,50.122778,6.063056,6.063056,Vascular plants,Pinus sylvestris-type,4.0,NISP,pollen,,4056.0,,,Radiocarbon years BP,56.0,440.0,pollen,6/30/2007,274.0,1.4598540146
+3260,Breidfeld,50.122778,6.063056,50.122778,50.122778,6.063056,6.063056,Vascular plants,Pinus sylvestris-type,3.0,NISP,pollen,,4201.0,,,Radiocarbon years BP,58.0,440.0,pollen,6/30/2007,263.0,1.14068441065
+3260,Breidfeld,50.122778,6.063056,50.122778,50.122778,6.063056,6.063056,Vascular plants,Pinus sylvestris-type,1.0,NISP,pollen,,4346.0,,,Radiocarbon years BP,60.0,440.0,pollen,6/30/2007,269.0,0.371747211896
+3260,Breidfeld,50.122778,6.063056,50.122778,50.122778,6.063056,6.063056,Vascular plants,Pinus sylvestris-type,2.0,NISP,pollen,,4491.0,,,Radiocarbon years BP,62.0,440.0,pollen,6/30/2007,184.0,1.08695652174
+3260,Breidfeld,50.122778,6.063056,50.122778,50.122778,6.063056,6.063056,Vascular plants,Pinus sylvestris-type,1.0,NISP,pollen,,4636.0,,,Radiocarbon years BP,64.0,440.0,pollen,6/30/2007,224.0,0.446428571429
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,6.0,NISP,pollen,,,,,,85.0,170.0,pollen,6/30/2007,164.0,3.65853658537
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,18.0,NISP,pollen,,,,,,87.0,170.0,pollen,6/30/2007,243.0,7.40740740741
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,16.0,NISP,pollen,,,,,,90.0,170.0,pollen,6/30/2007,293.0,5.46075085324
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,11.0,NISP,pollen,,,,,,92.0,170.0,pollen,6/30/2007,232.0,4.74137931034
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,7.0,NISP,pollen,,,,,,95.0,170.0,pollen,6/30/2007,250.0,2.8
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,5.0,NISP,pollen,,,,,,97.0,170.0,pollen,6/30/2007,197.0,2.53807106599
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,10.0,NISP,pollen,,,,,,100.0,170.0,pollen,6/30/2007,243.0,4.11522633745
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,6.0,NISP,pollen,,,,,,102.0,170.0,pollen,6/30/2007,159.0,3.77358490566
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,22.0,NISP,pollen,,,,,,105.0,170.0,pollen,6/30/2007,259.0,8.49420849421
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,13.0,NISP,pollen,,,,,,107.0,170.0,pollen,6/30/2007,157.0,8.28025477707
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,17.0,NISP,pollen,,,,,,110.0,170.0,pollen,6/30/2007,200.0,8.5
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,32.0,NISP,pollen,,,,,,112.0,170.0,pollen,6/30/2007,270.0,11.8518518519
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,28.0,NISP,pollen,,,,,,115.0,170.0,pollen,6/30/2007,220.0,12.7272727273
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,46.0,NISP,pollen,,,,,,117.0,170.0,pollen,6/30/2007,222.0,20.7207207207
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,47.0,NISP,pollen,,,,,,119.0,170.0,pollen,6/30/2007,127.0,37.0078740157
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,79.0,NISP,pollen,,,,,,120.0,170.0,pollen,6/30/2007,204.0,38.7254901961
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,119.0,NISP,pollen,,,,,,122.0,170.0,pollen,6/30/2007,183.0,65.0273224044
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,132.0,NISP,pollen,,,,,,124.0,170.0,pollen,6/30/2007,184.0,71.7391304348
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,846.0,NISP,pollen,,,,,,125.0,170.0,pollen,6/30/2007,908.0,93.1718061674
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,139.0,NISP,pollen,,,,,,127.0,170.0,pollen,6/30/2007,195.0,71.2820512821
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,99.0,NISP,pollen,,,,,,129.0,170.0,pollen,6/30/2007,192.0,51.5625
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,186.0,NISP,pollen,,,,,,130.0,170.0,pollen,6/30/2007,488.0,38.1147540984
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,92.0,NISP,pollen,,,,,,132.0,170.0,pollen,6/30/2007,179.0,51.3966480447
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,91.0,NISP,pollen,,,,,,134.0,170.0,pollen,6/30/2007,246.0,36.9918699187
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,110.0,NISP,pollen,,,,,,135.0,170.0,pollen,6/30/2007,329.0,33.4346504559
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,63.0,NISP,pollen,,,,,,137.0,170.0,pollen,6/30/2007,236.0,26.6949152542
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,94.0,NISP,pollen,,,,,,139.0,170.0,pollen,6/30/2007,237.0,39.6624472574
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,109.0,NISP,pollen,,,,,,140.0,170.0,pollen,6/30/2007,177.0,61.581920904
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,124.0,NISP,pollen,,,,,,142.0,170.0,pollen,6/30/2007,304.0,40.7894736842
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,140.0,NISP,pollen,,,,,,144.0,170.0,pollen,6/30/2007,326.0,42.9447852761
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,81.0,NISP,pollen,,,,,,145.0,170.0,pollen,6/30/2007,362.0,22.3756906077
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,30.0,NISP,pollen,,,,,,147.0,170.0,pollen,6/30/2007,327.0,9.17431192661
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,20.0,NISP,pollen,,,,,,149.0,170.0,pollen,6/30/2007,324.0,6.17283950617
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,2.0,NISP,pollen,,,,,,151.0,170.0,pollen,6/30/2007,496.0,0.403225806452
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,2.0,NISP,pollen,,,,,,153.0,170.0,pollen,6/30/2007,326.0,0.613496932515
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,2.0,NISP,pollen,,,,,,155.0,170.0,pollen,6/30/2007,245.0,0.816326530612
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,2.0,NISP,pollen,,,,,,157.0,170.0,pollen,6/30/2007,254.0,0.787401574803
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,3.0,NISP,pollen,,,,,,159.0,170.0,pollen,6/30/2007,322.0,0.931677018634
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,1.0,NISP,pollen,,,,,,160.0,170.0,pollen,6/30/2007,322.0,0.310559006211
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,15.0,NISP,pollen,,,,,,78.0,170.0,pollen,6/30/2007,197.0,7.61421319797
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,25.0,NISP,pollen,,,,,,82.0,170.0,pollen,6/30/2007,227.0,11.013215859
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,12.0,NISP,pollen,,,,,,83.0,170.0,pollen,6/30/2007,254.0,4.72440944882
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,13.0,NISP,pollen,,,,,,84.0,170.0,pollen,6/30/2007,247.0,5.26315789474
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,14.0,NISP,pollen,,,,,,85.0,170.0,pollen,6/30/2007,245.0,5.71428571429
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,9.0,NISP,pollen,,,,,,86.0,170.0,pollen,6/30/2007,157.0,5.73248407643
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,7.0,NISP,pollen,,,,,,87.0,170.0,pollen,6/30/2007,164.0,4.26829268293
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,8.0,NISP,pollen,,,,,,88.0,170.0,pollen,6/30/2007,236.0,3.38983050847
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,7.0,NISP,pollen,,,,,,89.0,170.0,pollen,6/30/2007,198.0,3.53535353535
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,11.0,NISP,pollen,,,,,,90.0,170.0,pollen,6/30/2007,190.0,5.78947368421
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,10.0,NISP,pollen,,,,,,91.0,170.0,pollen,6/30/2007,181.0,5.52486187845
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,14.0,NISP,pollen,,,,,,92.0,170.0,pollen,6/30/2007,179.0,7.82122905028
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,7.0,NISP,pollen,,,,,,93.0,170.0,pollen,6/30/2007,202.0,3.46534653465
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,7.0,NISP,pollen,,,,,,94.0,170.0,pollen,6/30/2007,201.0,3.48258706468
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,10.0,NISP,pollen,,,,,,95.0,170.0,pollen,6/30/2007,190.0,5.26315789474
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,11.0,NISP,pollen,,,,,,96.0,170.0,pollen,6/30/2007,174.0,6.32183908046
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,7.0,NISP,pollen,,,,,,97.0,170.0,pollen,6/30/2007,170.0,4.11764705882
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,10.0,NISP,pollen,,,,,,98.0,170.0,pollen,6/30/2007,157.0,6.36942675159
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,6.0,NISP,pollen,,,,,,99.0,170.0,pollen,6/30/2007,181.0,3.31491712707
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,17.0,NISP,pollen,,,,,,100.0,170.0,pollen,6/30/2007,200.0,8.5
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,43.0,NISP,pollen,,,,,,101.0,170.0,pollen,6/30/2007,169.0,25.4437869822
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,54.0,NISP,pollen,,,,,,102.0,170.0,pollen,6/30/2007,174.0,31.0344827586
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,54.0,NISP,pollen,,,,,,103.0,170.0,pollen,6/30/2007,166.0,32.5301204819
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,72.0,NISP,pollen,,,,,,104.0,170.0,pollen,6/30/2007,172.0,41.8604651163
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,54.0,NISP,pollen,,,,,,105.0,170.0,pollen,6/30/2007,173.0,31.2138728324
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,56.0,NISP,pollen,,,,,,106.0,170.0,pollen,6/30/2007,181.0,30.9392265193
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,45.0,NISP,pollen,,,,,,107.0,170.0,pollen,6/30/2007,158.0,28.4810126582
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,23.0,NISP,pollen,,,,,,108.0,170.0,pollen,6/30/2007,158.0,14.5569620253
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,95.0,NISP,pollen,,,,,,109.0,170.0,pollen,6/30/2007,177.0,53.6723163842
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,73.0,NISP,pollen,,,,,,110.0,170.0,pollen,6/30/2007,172.0,42.4418604651
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,111.0,NISP,pollen,,,,,,111.0,170.0,pollen,6/30/2007,251.0,44.2231075697
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,120.0,NISP,pollen,,,,,,112.0,170.0,pollen,6/30/2007,190.0,63.1578947368
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,110.0,NISP,pollen,,,,,,113.0,170.0,pollen,6/30/2007,132.0,83.3333333333
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,242.0,NISP,pollen,,,,,,114.0,170.0,pollen,6/30/2007,295.0,82.0338983051
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,114.0,NISP,pollen,,,,,,115.0,170.0,pollen,6/30/2007,237.0,48.1012658228
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,129.0,NISP,pollen,,,,,,116.0,170.0,pollen,6/30/2007,242.0,53.305785124
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,126.0,NISP,pollen,,,,,,117.0,170.0,pollen,6/30/2007,282.0,44.6808510638
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,122.0,NISP,pollen,,,,,,118.0,170.0,pollen,6/30/2007,275.0,44.3636363636
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,130.0,NISP,pollen,,,,,,119.0,170.0,pollen,6/30/2007,248.0,52.4193548387
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,137.0,NISP,pollen,,,,,,120.0,170.0,pollen,6/30/2007,244.0,56.1475409836
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,138.0,NISP,pollen,,,,,,121.0,170.0,pollen,6/30/2007,219.0,63.0136986301
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,120.0,NISP,pollen,,,,,,122.0,170.0,pollen,6/30/2007,240.0,50.0
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,136.0,NISP,pollen,,,,,,123.0,170.0,pollen,6/30/2007,226.0,60.1769911504
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,99.0,NISP,pollen,,,,,,124.0,170.0,pollen,6/30/2007,222.0,44.5945945946
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,69.0,NISP,pollen,,,,,,124.5,170.0,pollen,6/30/2007,175.0,39.4285714286
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,53.0,NISP,pollen,,,,,,125.5,170.0,pollen,6/30/2007,340.0,15.5882352941
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,46.0,NISP,pollen,,,,,,125.5,170.0,pollen,6/30/2007,232.0,19.8275862069
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,40.0,NISP,pollen,,,,,,127.0,170.0,pollen,6/30/2007,321.0,12.46105919
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,75.0,NISP,pollen,,,,,,128.0,170.0,pollen,6/30/2007,325.0,23.0769230769
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,79.0,NISP,pollen,,,,,,129.0,170.0,pollen,6/30/2007,250.0,31.6
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,86.0,NISP,pollen,,,,,,131.0,170.0,pollen,6/30/2007,248.0,34.6774193548
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,74.0,NISP,pollen,,,,,,133.0,170.0,pollen,6/30/2007,219.0,33.7899543379
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,74.0,NISP,pollen,,,,,,135.0,170.0,pollen,6/30/2007,214.0,34.5794392523
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,75.0,NISP,pollen,,,,,,137.0,170.0,pollen,6/30/2007,247.0,30.3643724696
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,72.0,NISP,pollen,,,,,,139.0,170.0,pollen,6/30/2007,196.0,36.7346938776
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,29.0,NISP,pollen,,,,,,138.0,170.0,pollen,6/30/2007,199.0,14.5728643216
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,8.0,NISP,pollen,,,,,,140.0,170.0,pollen,6/30/2007,262.0,3.0534351145
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,5.0,NISP,pollen,,,,,,141.0,170.0,pollen,6/30/2007,259.0,1.9305019305
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,8.0,NISP,pollen,,,,,,143.0,170.0,pollen,6/30/2007,215.0,3.72093023256
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,1.0,NISP,pollen,,,,,,148.0,170.0,pollen,6/30/2007,215.0,0.46511627907
+3261,Echternach,49.799444,6.231389,49.799444,49.799444,6.231389,6.231389,Vascular plants,Pinus sylvestris-type,2.0,NISP,pollen,,,,,,152.0,170.0,pollen,6/30/2007,235.0,0.851063829787
+3262,Pettange sur Alzette,49.780556,6.108333,49.780556,49.780556,6.108333,6.108333,Vascular plants,Pinus sylvestris-type,2.0,NISP,pollen,,,,,,400.0,218.0,pollen,6/30/2007,231.0,0.865800865801
+3262,Pettange sur Alzette,49.780556,6.108333,49.780556,49.780556,6.108333,6.108333,Vascular plants,Pinus sylvestris-type,2.0,NISP,pollen,,,,,,450.0,218.0,pollen,6/30/2007,161.0,1.24223602484
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Pinus sylvestris-type,190.0,NISP,pollen,,,,,,1.0,369.0,pollen,6/30/2007,332.0,57.2289156627
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Pinus sylvestris-type,64.0,NISP,pollen,,,,,,2.0,369.0,pollen,6/30/2007,247.0,25.9109311741
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Pinus sylvestris-type,71.0,NISP,pollen,,,,,,4.0,369.0,pollen,6/30/2007,193.0,36.7875647668
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Pinus sylvestris-type,72.0,NISP,pollen,,,,,,6.0,369.0,pollen,6/30/2007,197.0,36.5482233503
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Pinus sylvestris-type,35.0,NISP,pollen,,,,,,8.0,369.0,pollen,6/30/2007,238.0,14.7058823529
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Pinus sylvestris-type,9.0,NISP,pollen,,,,,,10.0,369.0,pollen,6/30/2007,462.0,1.94805194805
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Pinus sylvestris-type,2.0,NISP,pollen,,,,,,12.0,369.0,pollen,6/30/2007,303.0,0.660066006601
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Pinus sylvestris-type,1.0,NISP,pollen,,,,,,14.0,369.0,pollen,6/30/2007,314.0,0.31847133758
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Pinus sylvestris-type,3.0,NISP,pollen,,,,,,16.0,369.0,pollen,6/30/2007,295.0,1.01694915254
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Pinus sylvestris-type,2.0,NISP,pollen,,,,,,18.0,369.0,pollen,6/30/2007,301.0,0.664451827243
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Pinus sylvestris-type,4.0,NISP,pollen,,,,,,20.0,369.0,pollen,6/30/2007,442.0,0.904977375566
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Pinus sylvestris-type,1.0,NISP,pollen,,,,,,22.0,369.0,pollen,6/30/2007,300.0,0.333333333333
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Pinus sylvestris-type,4.0,NISP,pollen,,,,,,24.0,369.0,pollen,6/30/2007,218.0,1.83486238532
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Pinus sylvestris-type,1.0,NISP,pollen,,,,,,26.0,369.0,pollen,6/30/2007,311.0,0.32154340836
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Pinus sylvestris-type,2.0,NISP,pollen,,,,,,28.0,369.0,pollen,6/30/2007,295.0,0.677966101695
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Pinus sylvestris-type,1.0,NISP,pollen,,,,,,30.0,369.0,pollen,6/30/2007,281.0,0.355871886121
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Pinus sylvestris-type,1.0,NISP,pollen,,,,,,32.0,369.0,pollen,6/30/2007,273.0,0.3663003663
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Pinus sylvestris-type,1.0,NISP,pollen,,,,,,34.0,369.0,pollen,6/30/2007,281.0,0.355871886121
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Pinus sylvestris-type,1.0,NISP,pollen,,,,,,36.0,369.0,pollen,6/30/2007,280.0,0.357142857143
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Pinus sylvestris-type,6.0,NISP,pollen,,,,,,38.0,369.0,pollen,6/30/2007,432.0,1.38888888889
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Pinus sylvestris-type,2.0,NISP,pollen,,,,,,40.0,369.0,pollen,6/30/2007,250.0,0.8
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Pinus sylvestris-type,38.0,NISP,pollen,,,,,,5.0,369.0,pollen,6/30/2007,245.0,15.5102040816
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Pinus sylvestris-type,40.0,NISP,pollen,,,,,,7.0,369.0,pollen,6/30/2007,318.0,12.5786163522
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Pinus sylvestris-type,5.0,NISP,pollen,,,,,,9.0,369.0,pollen,6/30/2007,319.0,1.56739811912
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Pinus sylvestris-type,1.0,NISP,pollen,,,,,,13.0,369.0,pollen,6/30/2007,300.0,0.333333333333
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Pinus sylvestris-type,1.0,NISP,pollen,,,,,,15.0,369.0,pollen,6/30/2007,221.0,0.452488687783
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Pinus sylvestris-type,1.0,NISP,pollen,,,,,,17.0,369.0,pollen,6/30/2007,261.0,0.383141762452
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Pinus sylvestris-type,1.0,NISP,pollen,,,,,,19.0,369.0,pollen,6/30/2007,193.0,0.518134715026
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Pinus sylvestris-type,3.0,NISP,pollen,,,,,,23.0,369.0,pollen,6/30/2007,352.0,0.852272727273
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Pinus sylvestris-type,4.0,NISP,pollen,,,,,,25.0,369.0,pollen,6/30/2007,228.0,1.75438596491
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Pinus sylvestris-type,3.0,NISP,pollen,,,,,,27.0,369.0,pollen,6/30/2007,228.0,1.31578947368
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Pinus sylvestris-type,3.0,NISP,pollen,,,,,,34.0,369.0,pollen,6/30/2007,231.0,1.2987012987
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Pinus sylvestris-type,41.0,NISP,pollen,,,,,,1.0,369.0,pollen,6/30/2007,228.0,17.9824561404
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Pinus sylvestris-type,8.0,NISP,pollen,,,,,,2.0,369.0,pollen,6/30/2007,324.0,2.46913580247
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Pinus sylvestris-type,11.0,NISP,pollen,,,,,,3.0,369.0,pollen,6/30/2007,299.0,3.67892976589
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Pinus sylvestris-type,2.0,NISP,pollen,,,,,,4.0,369.0,pollen,6/30/2007,295.0,0.677966101695
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Pinus sylvestris-type,4.0,NISP,pollen,,,,,,6.0,369.0,pollen,6/30/2007,290.0,1.37931034483
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Pinus sylvestris-type,5.0,NISP,pollen,,,,,,8.0,369.0,pollen,6/30/2007,296.0,1.68918918919
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Pinus sylvestris-type,2.0,NISP,pollen,,,,,,10.0,369.0,pollen,6/30/2007,290.0,0.689655172414
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Pinus sylvestris-type,1.0,NISP,pollen,,,,,,12.0,369.0,pollen,6/30/2007,317.0,0.315457413249
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Pinus sylvestris-type,3.0,NISP,pollen,,,,,,13.0,369.0,pollen,6/30/2007,337.0,0.890207715134
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Pinus sylvestris-type,1.0,NISP,pollen,,,,,,14.0,369.0,pollen,6/30/2007,354.0,0.282485875706
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Pinus sylvestris-type,2.0,NISP,pollen,,,,,,16.0,369.0,pollen,6/30/2007,250.0,0.8
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Pinus sylvestris-type,1.0,NISP,pollen,,,,,,18.0,369.0,pollen,6/30/2007,299.0,0.334448160535
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Pinus sylvestris-type,1.0,NISP,pollen,,,,,,20.0,369.0,pollen,6/30/2007,241.0,0.414937759336
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Pinus sylvestris-type,1.0,NISP,pollen,,,,,,22.0,369.0,pollen,6/30/2007,235.0,0.425531914894
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Pinus sylvestris-type,2.0,NISP,pollen,,,,,,24.0,369.0,pollen,6/30/2007,236.0,0.847457627119
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Pinus sylvestris-type,1.0,NISP,pollen,,,,,,26.0,369.0,pollen,6/30/2007,244.0,0.409836065574
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Pinus sylvestris-type,2.0,NISP,pollen,,,,,,30.0,369.0,pollen,6/30/2007,229.0,0.873362445415
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Pinus sylvestris-type,74.0,NISP,pollen,,,,,,8.0,369.0,pollen,6/30/2007,183.0,40.4371584699
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Pinus sylvestris-type,28.0,NISP,pollen,,,,,,14.0,369.0,pollen,6/30/2007,303.0,9.24092409241
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Pinus sylvestris-type,13.0,NISP,pollen,,,,,,16.0,369.0,pollen,6/30/2007,309.0,4.2071197411
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Pinus sylvestris-type,3.0,NISP,pollen,,,,,,18.0,369.0,pollen,6/30/2007,311.0,0.96463022508
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Pinus sylvestris-type,2.0,NISP,pollen,,,,,,20.0,369.0,pollen,6/30/2007,279.0,0.716845878136
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Pinus sylvestris-type,1.0,NISP,pollen,,,,,,22.0,369.0,pollen,6/30/2007,304.0,0.328947368421
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Pinus sylvestris-type,2.0,NISP,pollen,,,,,,24.0,369.0,pollen,6/30/2007,248.0,0.806451612903
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Pinus sylvestris-type,1.0,NISP,pollen,,,,,,26.0,369.0,pollen,6/30/2007,251.0,0.398406374502
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Pinus sylvestris-type,1.0,NISP,pollen,,,,,,28.0,369.0,pollen,6/30/2007,226.0,0.442477876106
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Pinus sylvestris-type,5.0,NISP,pollen,,,,,,30.0,369.0,pollen,6/30/2007,212.0,2.35849056604
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Pinus sylvestris-type,65.0,NISP,pollen,,,,,,6.0,369.0,pollen,6/30/2007,306.0,21.2418300654
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Pinus sylvestris-type,30.0,NISP,pollen,,,,,,8.0,369.0,pollen,6/30/2007,277.0,10.8303249097
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Pinus sylvestris-type,1.0,NISP,pollen,,,,,,10.0,369.0,pollen,6/30/2007,280.0,0.357142857143
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Pinus sylvestris-type,5.0,NISP,pollen,,,,,,12.0,369.0,pollen,6/30/2007,302.0,1.65562913907
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Pinus sylvestris-type,1.0,NISP,pollen,,,,,,14.0,369.0,pollen,6/30/2007,388.0,0.257731958763
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Pinus sylvestris-type,2.0,NISP,pollen,,,,,,16.0,369.0,pollen,6/30/2007,346.0,0.578034682081
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Pinus sylvestris-type,1.0,NISP,pollen,,,,,,18.0,369.0,pollen,6/30/2007,317.0,0.315457413249
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Pinus sylvestris-type,3.0,NISP,pollen,,,,,,20.0,369.0,pollen,6/30/2007,266.0,1.12781954887
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Pinus sylvestris-type,2.0,NISP,pollen,,,,,,24.0,369.0,pollen,6/30/2007,350.0,0.571428571429
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Pinus sylvestris-type,1.0,NISP,pollen,,,,,,26.0,369.0,pollen,6/30/2007,281.0,0.355871886121
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Pinus sylvestris-type,3.0,NISP,pollen,,,,,,28.0,369.0,pollen,6/30/2007,329.0,0.911854103343
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Pinus sylvestris-type,2.0,NISP,pollen,,,,,,30.0,369.0,pollen,6/30/2007,299.0,0.66889632107
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Pinus sylvestris-type,3.0,NISP,pollen,,,,,,32.0,369.0,pollen,6/30/2007,361.0,0.831024930748
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Pinus sylvestris-type,3.0,NISP,pollen,,,,,,34.0,369.0,pollen,6/30/2007,287.0,1.04529616725
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Pinus sylvestris-type,1.0,NISP,pollen,,,,,,36.0,369.0,pollen,6/30/2007,278.0,0.359712230216
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Pinus sylvestris-type,1.0,NISP,pollen,,,,,,38.0,369.0,pollen,6/30/2007,284.0,0.352112676056
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Pinus sylvestris-type,1.0,NISP,pollen,,,,,,40.0,369.0,pollen,6/30/2007,288.0,0.347222222222
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Pinus sylvestris-type,1.0,NISP,pollen,,,,,,42.0,369.0,pollen,6/30/2007,305.0,0.327868852459
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Pinus sylvestris-type,3.0,NISP,pollen,,,,,,44.0,369.0,pollen,6/30/2007,310.0,0.967741935484
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Pinus sylvestris-type,4.0,NISP,pollen,,,,,,46.0,369.0,pollen,6/30/2007,303.0,1.3201320132
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Pinus sylvestris-type,2.0,NISP,pollen,,,,,,48.0,369.0,pollen,6/30/2007,294.0,0.680272108844
+3263,Reisdorf,49.851667,6.301667,49.851667,49.851667,6.301667,6.301667,Vascular plants,Pinus sylvestris-type,2.0,NISP,pollen,,,,,,50.0,369.0,pollen,6/30/2007,316.0,0.632911392405
+3315,Niechorze,54.0,15.05,54.0,54.0,15.05,15.05,Vascular plants,Pinus sylvestris-type,221.0,NISP,pollen,,4942.0,,,Radiocarbon years BP,320.0,5.0,pollen,6/30/2007,1219.0,18.1296144381
+3315,Niechorze,54.0,15.05,54.0,54.0,15.05,15.05,Vascular plants,Pinus sylvestris-type,250.0,NISP,pollen,,5126.0,,,Radiocarbon years BP,325.0,5.0,pollen,6/30/2007,937.0,26.6808964781
+3315,Niechorze,54.0,15.05,54.0,54.0,15.05,15.05,Vascular plants,Pinus sylvestris-type,121.0,NISP,pollen,,5313.0,,,Radiocarbon years BP,330.0,5.0,pollen,6/30/2007,616.0,19.6428571429
+3315,Niechorze,54.0,15.05,54.0,54.0,15.05,15.05,Vascular plants,Pinus sylvestris-type,313.0,NISP,pollen,,5505.0,,,Radiocarbon years BP,335.0,5.0,pollen,6/30/2007,455.0,68.7912087912
+3315,Niechorze,54.0,15.05,54.0,54.0,15.05,15.05,Vascular plants,Pinus sylvestris-type,401.0,NISP,pollen,,5701.0,,,Radiocarbon years BP,340.0,5.0,pollen,6/30/2007,846.0,47.3995271868
+3315,Niechorze,54.0,15.05,54.0,54.0,15.05,15.05,Vascular plants,Pinus sylvestris-type,533.0,NISP,pollen,,5900.0,,,Radiocarbon years BP,345.0,5.0,pollen,6/30/2007,1161.0,45.9086993971
+3315,Niechorze,54.0,15.05,54.0,54.0,15.05,15.05,Vascular plants,Pinus sylvestris-type,372.0,NISP,pollen,,6104.0,,,Radiocarbon years BP,350.0,5.0,pollen,6/30/2007,1116.0,33.3333333333
+3315,Niechorze,54.0,15.05,54.0,54.0,15.05,15.05,Vascular plants,Pinus sylvestris-type,263.0,NISP,pollen,,6311.0,,,Radiocarbon years BP,355.0,5.0,pollen,6/30/2007,951.0,27.6550998948
+3315,Niechorze,54.0,15.05,54.0,54.0,15.05,15.05,Vascular plants,Pinus sylvestris-type,203.0,NISP,pollen,,6523.0,,,Radiocarbon years BP,360.0,5.0,pollen,6/30/2007,848.0,23.9386792453
+3315,Niechorze,54.0,15.05,54.0,54.0,15.05,15.05,Vascular plants,Pinus sylvestris-type,239.0,NISP,pollen,,6738.0,,,Radiocarbon years BP,365.0,5.0,pollen,6/30/2007,1108.0,21.5703971119
+3315,Niechorze,54.0,15.05,54.0,54.0,15.05,15.05,Vascular plants,Pinus sylvestris-type,381.0,NISP,pollen,,6958.0,,,Radiocarbon years BP,370.0,5.0,pollen,6/30/2007,1081.0,35.2451433858
+3315,Niechorze,54.0,15.05,54.0,54.0,15.05,15.05,Vascular plants,Pinus sylvestris-type,339.0,NISP,pollen,,7182.0,,,Radiocarbon years BP,375.0,5.0,pollen,6/30/2007,1122.0,30.2139037433
+3315,Niechorze,54.0,15.05,54.0,54.0,15.05,15.05,Vascular plants,Pinus sylvestris-type,250.0,NISP,pollen,,7409.0,,,Radiocarbon years BP,380.0,5.0,pollen,6/30/2007,1078.0,23.1910946197
+3315,Niechorze,54.0,15.05,54.0,54.0,15.05,15.05,Vascular plants,Pinus sylvestris-type,262.0,NISP,pollen,,7548.0,,,Radiocarbon years BP,383.0,5.0,pollen,6/30/2007,1145.0,22.8820960699
+3315,Niechorze,54.0,15.05,54.0,54.0,15.05,15.05,Vascular plants,Pinus sylvestris-type,326.0,NISP,pollen,,7641.0,,,Radiocarbon years BP,385.0,5.0,pollen,6/30/2007,1108.0,29.4223826715
+3315,Niechorze,54.0,15.05,54.0,54.0,15.05,15.05,Vascular plants,Pinus sylvestris-type,298.0,NISP,pollen,,7782.0,,,Radiocarbon years BP,388.0,5.0,pollen,6/30/2007,1094.0,27.239488117
+3315,Niechorze,54.0,15.05,54.0,54.0,15.05,15.05,Vascular plants,Pinus sylvestris-type,290.0,NISP,pollen,,7877.0,,,Radiocarbon years BP,390.0,5.0,pollen,6/30/2007,1148.0,25.2613240418
+3315,Niechorze,54.0,15.05,54.0,54.0,15.05,15.05,Vascular plants,Pinus sylvestris-type,241.0,NISP,pollen,,8117.0,,,Radiocarbon years BP,395.0,5.0,pollen,6/30/2007,1063.0,22.6716839135
+3315,Niechorze,54.0,15.05,54.0,54.0,15.05,15.05,Vascular plants,Pinus sylvestris-type,258.0,NISP,pollen,,8263.0,,,Radiocarbon years BP,398.0,5.0,pollen,6/30/2007,1096.0,23.5401459854
+3315,Niechorze,54.0,15.05,54.0,54.0,15.05,15.05,Vascular plants,Pinus sylvestris-type,300.0,NISP,pollen,,8362.0,,,Radiocarbon years BP,400.0,5.0,pollen,6/30/2007,1176.0,25.5102040816
+3315,Niechorze,54.0,15.05,54.0,54.0,15.05,15.05,Vascular plants,Pinus sylvestris-type,237.0,NISP,pollen,,8610.0,,,Radiocarbon years BP,405.0,5.0,pollen,6/30/2007,1154.0,20.5372616984
+3315,Niechorze,54.0,15.05,54.0,54.0,15.05,15.05,Vascular plants,Pinus sylvestris-type,234.0,NISP,pollen,,8863.0,,,Radiocarbon years BP,410.0,5.0,pollen,6/30/2007,1131.0,20.6896551724
+3315,Niechorze,54.0,15.05,54.0,54.0,15.05,15.05,Vascular plants,Pinus sylvestris-type,147.0,NISP,pollen,,9016.0,,,Radiocarbon years BP,413.0,5.0,pollen,6/30/2007,1163.0,12.6397248495
+3315,Niechorze,54.0,15.05,54.0,54.0,15.05,15.05,Vascular plants,Pinus sylvestris-type,187.0,NISP,pollen,,9223.0,,,Radiocarbon years BP,417.0,5.0,pollen,6/30/2007,1081.0,17.2987974098
+3315,Niechorze,54.0,15.05,54.0,54.0,15.05,15.05,Vascular plants,Pinus sylvestris-type,167.0,NISP,pollen,,9381.0,,,Radiocarbon years BP,420.0,5.0,pollen,6/30/2007,1108.0,15.0722021661
+3315,Niechorze,54.0,15.05,54.0,54.0,15.05,15.05,Vascular plants,Pinus sylvestris-type,149.0,NISP,pollen,,9646.0,,,Radiocarbon years BP,425.0,5.0,pollen,6/30/2007,1051.0,14.1769743102
+3315,Niechorze,54.0,15.05,54.0,54.0,15.05,15.05,Vascular plants,Pinus sylvestris-type,174.0,NISP,pollen,,9807.0,,,Radiocarbon years BP,428.0,5.0,pollen,6/30/2007,1106.0,15.7323688969
+3315,Niechorze,54.0,15.05,54.0,54.0,15.05,15.05,Vascular plants,Pinus sylvestris-type,177.0,NISP,pollen,,9916.0,,,Radiocarbon years BP,430.0,5.0,pollen,6/30/2007,1300.0,13.6153846154
+3315,Niechorze,54.0,15.05,54.0,54.0,15.05,15.05,Vascular plants,Pinus sylvestris-type,152.0,NISP,pollen,,10079.0,,,Radiocarbon years BP,433.0,5.0,pollen,6/30/2007,1070.0,14.2056074766
+3315,Niechorze,54.0,15.05,54.0,54.0,15.05,15.05,Vascular plants,Pinus sylvestris-type,167.0,NISP,pollen,,10189.0,,,Radiocarbon years BP,435.0,5.0,pollen,6/30/2007,1393.0,11.9885139986
+3315,Niechorze,54.0,15.05,54.0,54.0,15.05,15.05,Vascular plants,Pinus sylvestris-type,103.0,NISP,pollen,,10468.0,,,Radiocarbon years BP,440.0,5.0,pollen,6/30/2007,1023.0,10.0684261975
+3315,Niechorze,54.0,15.05,54.0,54.0,15.05,15.05,Vascular plants,Pinus sylvestris-type,93.0,NISP,pollen,,10637.0,,,Radiocarbon years BP,443.0,5.0,pollen,6/30/2007,1201.0,7.74354704413
+3315,Niechorze,54.0,15.05,54.0,54.0,15.05,15.05,Vascular plants,Pinus sylvestris-type,93.0,NISP,pollen,,10750.0,,,Radiocarbon years BP,445.0,5.0,pollen,6/30/2007,849.0,10.9540636042
+3315,Niechorze,54.0,15.05,54.0,54.0,15.05,15.05,Vascular plants,Pinus sylvestris-type,65.0,NISP,pollen,,10922.0,,,Radiocarbon years BP,448.0,5.0,pollen,6/30/2007,887.0,7.32807215333
+3315,Niechorze,54.0,15.05,54.0,54.0,15.05,15.05,Vascular plants,Pinus sylvestris-type,73.0,NISP,pollen,,11037.0,,,Radiocarbon years BP,450.0,5.0,pollen,6/30/2007,956.0,7.6359832636
+3315,Niechorze,54.0,15.05,54.0,54.0,15.05,15.05,Vascular plants,Pinus sylvestris-type,106.0,NISP,pollen,,11270.0,,,Radiocarbon years BP,454.0,5.0,pollen,6/30/2007,987.0,10.7396149949
+3315,Niechorze,54.0,15.05,54.0,54.0,15.05,15.05,Vascular plants,Pinus sylvestris-type,84.0,NISP,pollen,,11387.0,,,Radiocarbon years BP,456.0,5.0,pollen,6/30/2007,995.0,8.44221105528
+3315,Niechorze,54.0,15.05,54.0,54.0,15.05,15.05,Vascular plants,Pinus sylvestris-type,37.0,NISP,pollen,,11624.0,,,Radiocarbon years BP,460.0,5.0,pollen,6/30/2007,322.0,11.4906832298
+3315,Niechorze,54.0,15.05,54.0,54.0,15.05,15.05,Vascular plants,Pinus sylvestris-type,87.0,NISP,pollen,,11743.0,,,Radiocarbon years BP,462.0,5.0,pollen,6/30/2007,727.0,11.9669876204
+3315,Niechorze,54.0,15.05,54.0,54.0,15.05,15.05,Vascular plants,Pinus sylvestris-type,101.0,NISP,pollen,,11864.0,,,Radiocarbon years BP,464.0,5.0,pollen,6/30/2007,787.0,12.833545108
+3315,Niechorze,54.0,15.05,54.0,54.0,15.05,15.05,Vascular plants,Pinus sylvestris-type,175.0,NISP,pollen,,12106.0,,,Radiocarbon years BP,468.0,5.0,pollen,6/30/2007,1060.0,16.5094339623
+3315,Niechorze,54.0,15.05,54.0,54.0,15.05,15.05,Vascular plants,Pinus sylvestris-type,150.0,NISP,pollen,,12228.0,,,Radiocarbon years BP,470.0,5.0,pollen,6/30/2007,1426.0,10.5189340813
+3315,Niechorze,54.0,15.05,54.0,54.0,15.05,15.05,Vascular plants,Pinus sylvestris-type,96.0,NISP,pollen,,12413.0,,,Radiocarbon years BP,473.0,5.0,pollen,6/30/2007,941.0,10.2019128587
+3315,Niechorze,54.0,15.05,54.0,54.0,15.05,15.05,Vascular plants,Pinus sylvestris-type,105.0,NISP,pollen,,12537.0,,,Radiocarbon years BP,475.0,5.0,pollen,6/30/2007,1196.0,8.77926421405
+3315,Niechorze,54.0,15.05,54.0,54.0,15.05,15.05,Vascular plants,Pinus sylvestris-type,85.0,NISP,pollen,,13104.0,,,Radiocarbon years BP,484.0,5.0,pollen,6/30/2007,1008.0,8.43253968254
+3315,Niechorze,54.0,15.05,54.0,54.0,15.05,15.05,Vascular plants,Pinus sylvestris-type,92.0,NISP,pollen,,13232.0,,,Radiocarbon years BP,486.0,5.0,pollen,6/30/2007,641.0,14.352574103
+3315,Niechorze,54.0,15.05,54.0,54.0,15.05,15.05,Vascular plants,Pinus sylvestris-type,114.0,NISP,pollen,,13296.0,,,Radiocarbon years BP,487.0,5.0,pollen,6/30/2007,404.0,28.2178217822
+3315,Niechorze,54.0,15.05,54.0,54.0,15.05,15.05,Vascular plants,Pinus sylvestris-type,152.0,NISP,pollen,,13361.0,,,Radiocarbon years BP,488.0,5.0,pollen,6/30/2007,355.0,42.8169014085
+3315,Niechorze,54.0,15.05,54.0,54.0,15.05,15.05,Vascular plants,Pinus sylvestris-type,65.0,NISP,pollen,,13620.0,,,Radiocarbon years BP,492.0,5.0,pollen,6/30/2007,251.0,25.8964143426
+3315,Niechorze,54.0,15.05,54.0,54.0,15.05,15.05,Vascular plants,Pinus sylvestris-type,30.0,NISP,pollen,,13883.0,,,Radiocarbon years BP,496.0,5.0,pollen,6/30/2007,169.0,17.7514792899
+3315,Niechorze,54.0,15.05,54.0,54.0,15.05,15.05,Vascular plants,Pinus sylvestris-type,17.0,NISP,pollen,,14015.0,,,Radiocarbon years BP,498.0,5.0,pollen,6/30/2007,105.0,16.1904761905
+3315,Niechorze,54.0,15.05,54.0,54.0,15.05,15.05,Vascular plants,Pinus sylvestris-type,14.0,NISP,pollen,,14148.0,,,Radiocarbon years BP,500.0,5.0,pollen,6/30/2007,133.0,10.5263157895
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,45.0,NISP,pollen,,3092.0,,,Radiocarbon years BP,130.0,298.0,pollen,6/30/2007,395.0,11.3924050633
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,32.0,NISP,pollen,,3144.0,,,Radiocarbon years BP,140.0,298.0,pollen,6/30/2007,219.0,14.6118721461
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,13.0,NISP,pollen,,3195.0,,,Radiocarbon years BP,150.0,298.0,pollen,6/30/2007,230.0,5.65217391304
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,9.0,NISP,pollen,,3246.0,,,Radiocarbon years BP,160.0,298.0,pollen,6/30/2007,137.0,6.56934306569
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,7.0,NISP,pollen,,3272.0,,,Radiocarbon years BP,165.0,298.0,pollen,6/30/2007,139.0,5.03597122302
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,23.0,NISP,pollen,,3349.0,,,Radiocarbon years BP,180.0,298.0,pollen,6/30/2007,263.0,8.74524714829
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,18.0,NISP,pollen,,3401.0,,,Radiocarbon years BP,190.0,298.0,pollen,6/30/2007,77.0,23.3766233766
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,26.0,NISP,pollen,,4043.0,,,Radiocarbon years BP,315.0,298.0,pollen,6/30/2007,201.0,12.9353233831
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,14.0,NISP,pollen,,4120.0,,,Radiocarbon years BP,330.0,298.0,pollen,6/30/2007,98.0,14.2857142857
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,34.0,NISP,pollen,,4172.0,,,Radiocarbon years BP,340.0,298.0,pollen,6/30/2007,245.0,13.8775510204
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,7.0,NISP,pollen,,4429.0,,,Radiocarbon years BP,390.0,298.0,pollen,6/30/2007,98.0,7.14285714286
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,24.0,NISP,pollen,,4531.0,,,Radiocarbon years BP,410.0,298.0,pollen,6/30/2007,222.0,10.8108108108
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,29.0,NISP,pollen,,4737.0,,,Radiocarbon years BP,450.0,298.0,pollen,6/30/2007,169.0,17.1597633136
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,5.0,NISP,pollen,,4932.0,,,Radiocarbon years BP,488.0,298.0,pollen,6/30/2007,43.0,11.6279069767
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,23.0,NISP,pollen,,5009.0,,,Radiocarbon years BP,503.0,298.0,pollen,6/30/2007,167.0,13.7724550898
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,19.0,NISP,pollen,,5200.0,,,Radiocarbon years BP,540.0,298.0,pollen,6/30/2007,174.0,10.9195402299
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,16.0,NISP,pollen,,5241.0,,,Radiocarbon years BP,548.0,298.0,pollen,6/30/2007,195.0,8.20512820513
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,30.0,NISP,pollen,,5626.0,,,Radiocarbon years BP,623.0,298.0,pollen,6/30/2007,243.0,12.3456790123
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,10.0,NISP,pollen,,5816.0,,,Radiocarbon years BP,660.0,298.0,pollen,6/30/2007,100.0,10.0
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,15.0,NISP,pollen,,5894.0,,,Radiocarbon years BP,675.0,298.0,pollen,6/30/2007,221.0,6.78733031674
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,53.0,NISP,pollen,,6012.0,,,Radiocarbon years BP,698.0,298.0,pollen,6/30/2007,268.0,19.776119403
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,9.0,NISP,pollen,,6089.0,,,Radiocarbon years BP,713.0,298.0,pollen,6/30/2007,82.0,10.9756097561
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,57.0,NISP,pollen,,6166.0,,,Radiocarbon years BP,728.0,298.0,pollen,6/30/2007,329.0,17.3252279635
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,22.0,NISP,pollen,,6320.0,,,Radiocarbon years BP,758.0,298.0,pollen,6/30/2007,164.0,13.4146341463
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,14.0,NISP,pollen,,6433.0,,,Radiocarbon years BP,780.0,298.0,pollen,6/30/2007,224.0,6.25
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,23.0,NISP,pollen,,6551.0,,,Radiocarbon years BP,803.0,298.0,pollen,6/30/2007,164.0,14.0243902439
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,5.0,NISP,pollen,,6665.0,,,Radiocarbon years BP,825.0,298.0,pollen,6/30/2007,119.0,4.20168067227
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,30.0,NISP,pollen,,6783.0,,,Radiocarbon years BP,848.0,298.0,pollen,6/30/2007,603.0,4.97512437811
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,10.0,NISP,pollen,,6855.0,,,Radiocarbon years BP,862.0,298.0,pollen,6/30/2007,133.0,7.51879699248
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,9.0,NISP,pollen,,7050.0,,,Radiocarbon years BP,900.0,298.0,pollen,6/30/2007,121.0,7.43801652893
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,17.0,NISP,pollen,,7196.0,,,Radiocarbon years BP,923.0,298.0,pollen,6/30/2007,127.0,13.3858267717
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,43.0,NISP,pollen,,7335.0,,,Radiocarbon years BP,945.0,298.0,pollen,6/30/2007,357.0,12.0448179272
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,23.0,NISP,pollen,,7868.0,,,Radiocarbon years BP,1029.0,298.0,pollen,6/30/2007,314.0,7.32484076433
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,3.0,NISP,pollen,,7957.0,,,Radiocarbon years BP,1043.0,298.0,pollen,6/30/2007,106.0,2.83018867925
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,28.0,NISP,pollen,,8242.0,,,Radiocarbon years BP,1088.0,298.0,pollen,6/30/2007,321.0,8.72274143302
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,10.0,NISP,pollen,,8388.0,,,Radiocarbon years BP,1111.0,298.0,pollen,6/30/2007,116.0,8.62068965517
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,37.0,NISP,pollen,,8432.0,,,Radiocarbon years BP,1118.0,298.0,pollen,6/30/2007,292.0,12.6712328767
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,45.0,NISP,pollen,,8527.0,,,Radiocarbon years BP,1133.0,298.0,pollen,6/30/2007,185.0,24.3243243243
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,21.0,NISP,pollen,,8813.0,,,Radiocarbon years BP,1178.0,298.0,pollen,6/30/2007,162.0,12.962962963
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,33.0,NISP,pollen,,8902.0,,,Radiocarbon years BP,1192.0,298.0,pollen,6/30/2007,286.0,11.5384615385
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,84.0,NISP,pollen,,9098.0,,,Radiocarbon years BP,1223.0,298.0,pollen,6/30/2007,271.0,30.9963099631
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,34.0,NISP,pollen,,9143.0,,,Radiocarbon years BP,1230.0,298.0,pollen,6/30/2007,273.0,12.4542124542
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,29.0,NISP,pollen,,9339.0,,,Radiocarbon years BP,1261.0,298.0,pollen,6/30/2007,202.0,14.3564356436
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,57.0,NISP,pollen,,9428.0,,,Radiocarbon years BP,1275.0,298.0,pollen,6/30/2007,322.0,17.701863354
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,50.0,NISP,pollen,,9574.0,,,Radiocarbon years BP,1298.0,298.0,pollen,6/30/2007,269.0,18.5873605948
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,57.0,NISP,pollen,,9669.0,,,Radiocarbon years BP,1313.0,298.0,pollen,6/30/2007,157.0,36.3057324841
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,98.0,NISP,pollen,,9713.0,,,Radiocarbon years BP,1320.0,298.0,pollen,6/30/2007,401.0,24.4389027431
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,45.0,NISP,pollen,,9808.0,,,Radiocarbon years BP,1335.0,298.0,pollen,6/30/2007,294.0,15.306122449
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,29.0,NISP,pollen,,9852.0,,,Radiocarbon years BP,1343.0,298.0,pollen,6/30/2007,344.0,8.43023255814
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,46.0,NISP,pollen,,9911.0,,,Radiocarbon years BP,1358.0,298.0,pollen,6/30/2007,357.0,12.8851540616
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,25.0,NISP,pollen,,9970.0,,,Radiocarbon years BP,1373.0,298.0,pollen,6/30/2007,319.0,7.83699059561
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,171.0,NISP,pollen,,9998.0,,,Radiocarbon years BP,1380.0,298.0,pollen,6/30/2007,391.0,43.7340153453
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,238.0,NISP,pollen,,10030.0,,,Radiocarbon years BP,1388.0,298.0,pollen,6/30/2007,386.0,61.6580310881
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,180.0,NISP,pollen,,10057.0,,,Radiocarbon years BP,1395.0,298.0,pollen,6/30/2007,338.0,53.2544378698
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,194.0,NISP,pollen,,10176.0,,,Radiocarbon years BP,1425.0,298.0,pollen,6/30/2007,397.0,48.8664987406
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,77.0,NISP,pollen,,10326.0,,,Radiocarbon years BP,1463.0,298.0,pollen,6/30/2007,355.0,21.6901408451
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,150.0,NISP,pollen,,10354.0,,,Radiocarbon years BP,1470.0,298.0,pollen,6/30/2007,370.0,40.5405405405
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,197.0,NISP,pollen,,10385.0,,,Radiocarbon years BP,1478.0,298.0,pollen,6/30/2007,360.0,54.7222222222
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,109.0,NISP,pollen,,10591.0,,,Radiocarbon years BP,1530.0,298.0,pollen,6/30/2007,556.0,19.6043165468
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,76.0,NISP,pollen,,10622.0,,,Radiocarbon years BP,1538.0,298.0,pollen,6/30/2007,342.0,22.2222222222
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,133.0,NISP,pollen,,10741.0,,,Radiocarbon years BP,1568.0,298.0,pollen,6/30/2007,392.0,33.9285714286
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,73.0,NISP,pollen,,10768.0,,,Radiocarbon years BP,1575.0,298.0,pollen,6/30/2007,502.0,14.5418326693
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,103.0,NISP,pollen,,10828.0,,,Radiocarbon years BP,1590.0,298.0,pollen,6/30/2007,444.0,23.1981981982
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,151.0,NISP,pollen,,10887.0,,,Radiocarbon years BP,1605.0,298.0,pollen,6/30/2007,418.0,36.1244019139
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,174.0,NISP,pollen,,10978.0,,,Radiocarbon years BP,1628.0,298.0,pollen,6/30/2007,354.0,49.1525423729
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,58.0,NISP,pollen,,11124.0,,,Radiocarbon years BP,1665.0,298.0,pollen,6/30/2007,166.0,34.9397590361
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,104.0,NISP,pollen,,11183.0,,,Radiocarbon years BP,1680.0,298.0,pollen,6/30/2007,326.0,31.9018404908
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,77.0,NISP,pollen,,11215.0,,,Radiocarbon years BP,1688.0,298.0,pollen,6/30/2007,267.0,28.8389513109
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,164.0,NISP,pollen,,11274.0,,,Radiocarbon years BP,1703.0,298.0,pollen,6/30/2007,393.0,41.7302798982
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,97.0,NISP,pollen,,11392.0,,,Radiocarbon years BP,1733.0,298.0,pollen,6/30/2007,313.0,30.9904153355
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,37.0,NISP,pollen,,11479.0,,,Radiocarbon years BP,1755.0,298.0,pollen,6/30/2007,373.0,9.91957104558
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,154.0,NISP,pollen,,11539.0,,,Radiocarbon years BP,1770.0,298.0,pollen,6/30/2007,379.0,40.6332453826
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,167.0,NISP,pollen,,11598.0,,,Radiocarbon years BP,1785.0,298.0,pollen,6/30/2007,587.0,28.4497444634
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,161.0,NISP,pollen,,11657.0,,,Radiocarbon years BP,1800.0,298.0,pollen,6/30/2007,379.0,42.4802110818
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,57.0,NISP,pollen,,11776.0,,,Radiocarbon years BP,1830.0,298.0,pollen,6/30/2007,247.0,23.0769230769
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,81.0,NISP,pollen,,11807.0,,,Radiocarbon years BP,1838.0,298.0,pollen,6/30/2007,272.0,29.7794117647
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,138.0,NISP,pollen,,12013.0,,,Radiocarbon years BP,1890.0,298.0,pollen,6/30/2007,370.0,37.2972972973
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,19.0,NISP,pollen,,12044.0,,,Radiocarbon years BP,1898.0,298.0,pollen,6/30/2007,91.0,20.8791208791
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,138.0,NISP,pollen,,12072.0,,,Radiocarbon years BP,1905.0,298.0,pollen,6/30/2007,364.0,37.9120879121
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,64.0,NISP,pollen,,12163.0,,,Radiocarbon years BP,1928.0,298.0,pollen,6/30/2007,243.0,26.3374485597
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,199.0,NISP,pollen,,12336.0,,,Radiocarbon years BP,1972.0,298.0,pollen,6/30/2007,364.0,54.6703296703
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,70.0,NISP,pollen,,12427.0,,,Radiocarbon years BP,1995.0,298.0,pollen,6/30/2007,273.0,25.641025641
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,22.0,NISP,pollen,,12455.0,,,Radiocarbon years BP,2002.0,298.0,pollen,6/30/2007,251.0,8.76494023904
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,123.0,NISP,pollen,,12546.0,,,Radiocarbon years BP,2025.0,298.0,pollen,6/30/2007,458.0,26.8558951965
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,119.0,NISP,pollen,,12633.0,,,Radiocarbon years BP,2047.0,298.0,pollen,6/30/2007,300.0,39.6666666667
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,65.0,NISP,pollen,,12724.0,,,Radiocarbon years BP,2070.0,298.0,pollen,6/30/2007,296.0,21.9594594595
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,255.0,NISP,pollen,,12901.0,,,Radiocarbon years BP,2115.0,298.0,pollen,6/30/2007,473.0,53.911205074
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,131.0,NISP,pollen,,12992.0,,,Radiocarbon years BP,2138.0,298.0,pollen,6/30/2007,322.0,40.6832298137
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,53.0,NISP,pollen,,13079.0,,,Radiocarbon years BP,2160.0,298.0,pollen,6/30/2007,145.0,36.5517241379
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,56.0,NISP,pollen,,13198.0,,,Radiocarbon years BP,2190.0,298.0,pollen,6/30/2007,134.0,41.7910447761
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,91.0,NISP,pollen,,13288.0,,,Radiocarbon years BP,2213.0,298.0,pollen,6/30/2007,441.0,20.6349206349
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,79.0,NISP,pollen,,13348.0,,,Radiocarbon years BP,2228.0,298.0,pollen,6/30/2007,404.0,19.5544554455
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,75.0,NISP,pollen,,13521.0,,,Radiocarbon years BP,2272.0,298.0,pollen,6/30/2007,188.0,39.8936170213
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,49.0,NISP,pollen,,13585.0,,,Radiocarbon years BP,2288.0,298.0,pollen,6/30/2007,205.0,23.9024390244
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,46.0,NISP,pollen,,13672.0,,,Radiocarbon years BP,2310.0,298.0,pollen,6/30/2007,469.0,9.80810234542
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,35.0,NISP,pollen,,13731.0,,,Radiocarbon years BP,2325.0,298.0,pollen,6/30/2007,174.0,20.1149425287
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,125.0,NISP,pollen,,13849.0,,,Radiocarbon years BP,2355.0,298.0,pollen,6/30/2007,394.0,31.7258883249
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,35.0,NISP,pollen,,13968.0,,,Radiocarbon years BP,2385.0,298.0,pollen,6/30/2007,251.0,13.9442231076
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,28.0,NISP,pollen,,14071.0,,,Radiocarbon years BP,2411.0,298.0,pollen,6/30/2007,172.0,16.2790697674
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,53.0,NISP,pollen,,14118.0,,,Radiocarbon years BP,2423.0,298.0,pollen,6/30/2007,297.0,17.8451178451
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,64.0,NISP,pollen,,14209.0,,,Radiocarbon years BP,2446.0,298.0,pollen,6/30/2007,531.0,12.0527306968
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,43.0,NISP,pollen,,14252.0,,,Radiocarbon years BP,2457.0,298.0,pollen,6/30/2007,398.0,10.8040201005
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,141.0,NISP,pollen,,14343.0,,,Radiocarbon years BP,2480.0,298.0,pollen,6/30/2007,463.0,30.4535637149
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,55.0,NISP,pollen,,14367.0,,,Radiocarbon years BP,2486.0,298.0,pollen,6/30/2007,350.0,15.7142857143
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,46.0,NISP,pollen,,14387.0,,,Radiocarbon years BP,2491.0,298.0,pollen,6/30/2007,298.0,15.4362416107
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,91.0,NISP,pollen,,14454.0,,,Radiocarbon years BP,2508.0,298.0,pollen,6/30/2007,471.0,19.3205944798
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,45.0,NISP,pollen,,14564.0,,,Radiocarbon years BP,2536.0,298.0,pollen,6/30/2007,412.0,10.9223300971
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,71.0,NISP,pollen,,14588.0,,,Radiocarbon years BP,2542.0,298.0,pollen,6/30/2007,305.0,23.2786885246
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,14.0,NISP,pollen,,14612.0,,,Radiocarbon years BP,2548.0,298.0,pollen,6/30/2007,305.0,4.59016393443
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,69.0,NISP,pollen,,14635.0,,,Radiocarbon years BP,2554.0,298.0,pollen,6/30/2007,337.0,20.4747774481
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,73.0,NISP,pollen,,14659.0,,,Radiocarbon years BP,2560.0,298.0,pollen,6/30/2007,358.0,20.3910614525
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,107.0,NISP,pollen,,14683.0,,,Radiocarbon years BP,2566.0,298.0,pollen,6/30/2007,382.0,28.0104712042
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,55.0,NISP,pollen,,14706.0,,,Radiocarbon years BP,2572.0,298.0,pollen,6/30/2007,479.0,11.4822546973
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,57.0,NISP,pollen,,14730.0,,,Radiocarbon years BP,2578.0,298.0,pollen,6/30/2007,410.0,13.9024390244
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,77.0,NISP,pollen,,14754.0,,,Radiocarbon years BP,2584.0,298.0,pollen,6/30/2007,338.0,22.7810650888
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,37.0,NISP,pollen,,14778.0,,,Radiocarbon years BP,2590.0,298.0,pollen,6/30/2007,212.0,17.4528301887
+3474,Tourves,43.5,5.9,43.5,43.5,5.9,5.9,Vascular plants,Pinus sylvestris-type,60.0,NISP,pollen,,14801.0,,,Radiocarbon years BP,2596.0,298.0,pollen,6/30/2007,237.0,25.3164556962

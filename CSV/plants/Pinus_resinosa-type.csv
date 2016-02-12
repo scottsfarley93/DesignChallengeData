@@ -1,2 +1,0 @@
-siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
-252,Bereziuk,54.047222,-76.120278,54.047222,54.047222,-76.120278,-76.120278,Vascular plants,Pinus resinosa-type,1.0,NISP,pollen,,6520.0,,,Radiocarbon years BP,425.0,205.0,pollen,6/30/2007,414.0,0.24154589372

@@ -1,7 +1,0 @@
-siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
-759,Eaglenest Lake,57.766667,-112.1,57.766667,57.766667,-112.1,-112.1,Vascular plants,Epilobium angustifolium,1.0,NISP,pollen,,8630.0,,,Radiocarbon years BP,387.5,725.0,pollen,6/30/2007,350.5,0.285306704708
-967,Gytgykai Lake,63.166667,175.0,63.166667,63.166667,175.0,175.0,Vascular plants,Epilobium angustifolium,1.0,NISP,pollen,,7523.0,,,Radiocarbon years BP,160.0,102.0,pollen,6/30/2007,398.0,0.251256281407
-967,Gytgykai Lake,63.166667,175.0,63.166667,63.166667,175.0,175.0,Vascular plants,Epilobium angustifolium,1.0,NISP,pollen,,8376.0,,,Radiocarbon years BP,220.0,102.0,pollen,6/30/2007,548.0,0.182481751825
-1399,Kamenicky,49.733333,15.966667,49.733333,49.733333,15.966667,15.966667,Vascular plants,Epilobium angustifolium,1.0,NISP,pollen,,1225.0,,,Radiocarbon years BP,5.0,624.0,pollen,6/30/2007,766.0,0.130548302872
-1399,Kamenicky,49.733333,15.966667,49.733333,49.733333,15.966667,15.966667,Vascular plants,Epilobium angustifolium,1.0,NISP,pollen,,1815.0,,,Radiocarbon years BP,15.0,624.0,pollen,6/30/2007,850.0,0.117647058824
-1399,Kamenicky,49.733333,15.966667,49.733333,49.733333,15.966667,15.966667,Vascular plants,Epilobium angustifolium,1.0,NISP,pollen,,3049.0,,,Radiocarbon years BP,25.0,624.0,pollen,6/30/2007,671.0,0.149031296572

@@ -1,6 +1,0 @@
-siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
-161,Site 91 (Swain unpublished),44.15,-73.75,44.15,44.15,-73.75,-73.75,Vascular plants,Acer spicatum,1.0,NISP,pollen,,,,,,0.0,491.0,pollen surface sample,6/30/2007,,
-166,Site 96 (Swain unpublished),43.43,-74.05,43.43,43.43,-74.05,-74.05,Vascular plants,Acer spicatum,1.0,NISP,pollen,,,,,,0.0,519.0,pollen surface sample,6/30/2007,,
-173,Site 103 (Swain unpublished),44.7,-72.28,44.7,44.7,-72.28,-72.28,Vascular plants,Acer spicatum,1.0,NISP,pollen,,,,,,0.0,491.0,pollen surface sample,6/30/2007,,
-175,Site 105 (Swain unpublished),43.28,-73.0,43.28,43.28,-73.0,-73.0,Vascular plants,Acer spicatum,1.0,NISP,pollen,,,,,,0.0,217.0,pollen surface sample,6/30/2007,,
-198,Greens Lake,42.28,-73.88,42.28,42.28,-73.88,-73.88,Vascular plants,Acer spicatum,1.0,NISP,pollen,,,,,,0.0,77.0,pollen surface sample,6/30/2007,,

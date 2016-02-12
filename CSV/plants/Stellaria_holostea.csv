@@ -1,9 +1,0 @@
-siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
-16,Ahlenmoor,53.7,8.733333,53.7,53.7,8.733333,8.733333,Vascular plants,Stellaria holostea,2.0,NISP,pollen,,990.0,,,Radiocarbon years BP,6.0,2.0,pollen,6/30/2007,1005.0,0.199004975124
-3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Stellaria holostea,1.0,NISP,pollen,,,,,,415.0,20.0,pollen,6/30/2007,191.0,0.523560209424
-3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Stellaria holostea,1.0,NISP,pollen,,,,,,440.0,20.0,pollen,6/30/2007,324.0,0.308641975309
-3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Stellaria holostea,1.0,NISP,pollen,,,,,,475.0,20.0,pollen,6/30/2007,272.0,0.367647058824
-3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Stellaria holostea,1.0,NISP,pollen,,8006.0,,,Radiocarbon years BP,490.0,135.0,pollen,6/30/2007,267.0,0.374531835206
-3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Stellaria holostea,1.0,NISP,pollen,,8118.0,,,Radiocarbon years BP,500.0,135.0,pollen,6/30/2007,201.0,0.497512437811
-3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Stellaria holostea,1.0,NISP,pollen,,8624.0,,,Radiocarbon years BP,545.0,135.0,pollen,6/30/2007,304.0,0.328947368421
-3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Stellaria holostea,1.0,NISP,pollen,,8680.0,,,Radiocarbon years BP,550.0,135.0,pollen,6/30/2007,220.0,0.454545454545

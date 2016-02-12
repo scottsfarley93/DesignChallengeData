@@ -1,6 +1,0 @@
-siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
-7,Three Pines Bog,47.0,-80.116667,47.0,47.0,-80.116667,-80.116667,Vascular plants,Menyanthes trifoliata,1.0,NISP,pollen,,897.0,,,Radiocarbon years BP,70.0,294.0,pollen,6/30/2007,394.0,0.253807106599
-7,Three Pines Bog,47.0,-80.116667,47.0,47.0,-80.116667,-80.116667,Vascular plants,Menyanthes trifoliata,1.0,NISP,pollen,,2472.0,,,Radiocarbon years BP,140.0,294.0,pollen,6/30/2007,365.0,0.27397260274
-7,Three Pines Bog,47.0,-80.116667,47.0,47.0,-80.116667,-80.116667,Vascular plants,Menyanthes trifoliata,1.0,NISP,pollen,,2697.0,,,Radiocarbon years BP,150.0,294.0,pollen,6/30/2007,381.0,0.262467191601
-7,Three Pines Bog,47.0,-80.116667,47.0,47.0,-80.116667,-80.116667,Vascular plants,Menyanthes trifoliata,4.0,NISP,pollen,,2921.0,,,Radiocarbon years BP,160.0,294.0,pollen,6/30/2007,415.0,0.963855421687
-7,Three Pines Bog,47.0,-80.116667,47.0,47.0,-80.116667,-80.116667,Vascular plants,Menyanthes trifoliata,2.0,NISP,pollen,,3146.0,,,Radiocarbon years BP,170.0,294.0,pollen,6/30/2007,455.0,0.43956043956

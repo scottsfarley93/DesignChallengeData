@@ -1,6 +1,0 @@
-siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
-338,Lac Castor,46.613889,-72.998611,46.613889,46.613889,-72.998611,-72.998611,Vascular plants,Micranthes stellaris-type,1.0,NISP,pollen,,,,,Radiocarbon years BP,840.0,220.0,pollen,6/30/2007,592.0,0.168918918919
-669,Diana 375,60.9875,-69.958333,60.9875,60.9875,-69.958333,-69.958333,Vascular plants,Micranthes stellaris-type,2.0,NISP,pollen,,4870.0,,,Radiocarbon years BP,65.0,114.0,pollen,6/30/2007,472.0,0.423728813559
-670,Diana 500,60.978889,-69.991944,60.978889,60.978889,-69.991944,-69.991944,Vascular plants,Micranthes stellaris-type,1.0,NISP,pollen,,,,,,25.0,153.0,pollen,6/30/2007,373.0,0.268096514745
-970,Hail Lake,60.033333,-129.016667,60.033333,60.033333,-129.016667,-129.016667,Vascular plants,Micranthes stellaris-type,1.0,NISP,pollen,,9597.0,,,Radiocarbon years BP,492.0,690.0,pollen,6/30/2007,250.0,0.4
-1400,Kanaaupscow,54.027778,-76.643889,54.027778,54.027778,-76.643889,-76.643889,Vascular plants,Micranthes stellaris-type,1.0,NISP,pollen,,6630.0,,,Radiocarbon years BP,246.0,200.0,pollen,6/30/2007,343.0,0.291545189504

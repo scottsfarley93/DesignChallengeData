@@ -1,2 +1,0 @@
-siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
-30,Almora Lake,46.206111,-95.293611,46.206111,46.206111,-95.293611,-95.293611,Vascular plants,Fabaceae undiff.,1.0,NISP,pollen,,3716.0,,,Radiocarbon years BP,306.7,437.0,pollen,6/30/2007,330.0,0.30303030303

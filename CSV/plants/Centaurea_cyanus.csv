@@ -1,1 +1,10 @@
 siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Centaurea cyanus-type,1.0,NISP,pollen,,1409.0,,,Radiocarbon years BP,100.0,350.0,pollen,6/30/2007,1003.0,0.0997008973081
+2980,Arkutino Lake,42.366667,27.733333,42.366667,42.366667,27.733333,27.733333,Vascular plants,Centaurea cyanus-type,1.0,NISP,pollen,,1696.0,,,Radiocarbon years BP,65.0,0.0,pollen,6/30/2007,560.0,0.178571428571
+2980,Arkutino Lake,42.366667,27.733333,42.366667,42.366667,27.733333,27.733333,Vascular plants,Centaurea cyanus-type,3.0,NISP,pollen,,3029.0,,,Radiocarbon years BP,160.0,0.0,pollen,6/30/2007,353.0,0.849858356941
+2980,Arkutino Lake,42.366667,27.733333,42.366667,42.366667,27.733333,27.733333,Vascular plants,Centaurea cyanus-type,1.0,NISP,pollen,,4291.0,,,Radiocarbon years BP,250.0,0.0,pollen,6/30/2007,225.0,0.444444444444
+2980,Arkutino Lake,42.366667,27.733333,42.366667,42.366667,27.733333,27.733333,Vascular plants,Centaurea cyanus-type,1.0,NISP,pollen,,6022.0,,,Radiocarbon years BP,532.0,0.0,pollen,6/30/2007,460.0,0.217391304348
+2985,Lake Varna (Arsenala),43.2,27.833333,43.2,43.2,27.833333,27.833333,Vascular plants,Centaurea cyanus-type,1.0,NISP,pollen,,4688.0,,,Radiocarbon years BP,280.0,0.0,pollen,6/30/2007,407.0,0.2457002457
+2985,Lake Varna (Arsenala),43.2,27.833333,43.2,43.2,27.833333,27.833333,Vascular plants,Centaurea cyanus-type,1.0,NISP,pollen,,6821.0,,,Radiocarbon years BP,730.0,0.0,pollen,6/30/2007,264.0,0.378787878788
+2985,Lake Varna (Arsenala),43.2,27.833333,43.2,43.2,27.833333,27.833333,Vascular plants,Centaurea cyanus-type,1.0,NISP,pollen,,6930.0,,,Radiocarbon years BP,760.0,0.0,pollen,6/30/2007,213.0,0.469483568075
+2985,Lake Varna (Arsenala),43.2,27.833333,43.2,43.2,27.833333,27.833333,Vascular plants,Centaurea cyanus-type,2.0,NISP,pollen,,7035.0,,,Radiocarbon years BP,790.0,0.0,pollen,6/30/2007,256.0,0.78125

@@ -1,3 +1,0 @@
-siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
-702,Dosquet,46.45,-71.5,46.45,46.45,-71.5,-71.5,Vascular plants,Polypodium virginianum,1.0,NISP,spore,,6418.0,,,Radiocarbon years BP,425.0,140.0,pollen,6/30/2007,338.0,0.295857988166
-702,Dosquet,46.45,-71.5,46.45,46.45,-71.5,-71.5,Vascular plants,Polypodium virginianum,2.0,NISP,spore,,7173.0,,,Radiocarbon years BP,475.0,140.0,pollen,6/30/2007,462.0,0.4329004329

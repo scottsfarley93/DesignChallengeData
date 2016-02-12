@@ -1,9 +1,0 @@
-siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
-24,Alexander Lake,53.333333,-60.583333,53.333333,53.333333,-60.583333,-60.583333,Vascular plants,Shepherdia canadensis,1.0,NISP,pollen,,5990.0,,,Radiocarbon years BP,240.0,143.0,pollen,6/30/2007,230.0,0.434782608696
-202,Anderson Lake,46.416667,-92.716667,46.416667,46.416667,-92.716667,-92.716667,Vascular plants,Shepherdia canadensis,2.0,NISP,pollen,,10275.0,,,Radiocarbon years BP,820.0,,pollen,6/30/2007,375.0,0.533333333333
-202,Anderson Lake,46.416667,-92.716667,46.416667,46.416667,-92.716667,-92.716667,Vascular plants,Shepherdia canadensis,1.0,NISP,pollen,,10508.0,,,Radiocarbon years BP,890.0,,pollen,6/30/2007,370.0,0.27027027027
-202,Anderson Lake,46.416667,-92.716667,46.416667,46.416667,-92.716667,-92.716667,Vascular plants,Shepherdia canadensis,2.0,NISP,pollen,,10542.0,,,Radiocarbon years BP,900.0,,pollen,6/30/2007,370.0,0.540540540541
-202,Anderson Lake,46.416667,-92.716667,46.416667,46.416667,-92.716667,-92.716667,Vascular plants,Shepherdia canadensis,1.0,NISP,pollen,,10575.0,,,Radiocarbon years BP,910.0,,pollen,6/30/2007,361.0,0.277008310249
-203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Shepherdia canadensis,1.0,NISP,pollen,,16732.0,,,Radiocarbon years BP,470.0,303.0,pollen,6/30/2007,373.0,0.268096514745
-204,Andree Bog,45.725,-93.25,45.725,45.725,-93.25,-93.25,Vascular plants,Shepherdia canadensis,1.0,NISP,pollen,,8970.0,,,Radiocarbon years BP,425.0,300.0,pollen,6/30/2007,557.0,0.179533213645
-204,Andree Bog,45.725,-93.25,45.725,45.725,-93.25,-93.25,Vascular plants,Shepherdia canadensis,1.0,NISP,pollen,,10970.0,,,Radiocarbon years BP,590.0,300.0,pollen,6/30/2007,327.0,0.305810397554

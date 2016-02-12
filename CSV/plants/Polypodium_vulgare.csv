@@ -1,2 +1,0 @@
-siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
-9,Adange,43.305556,41.333333,43.305556,43.305556,41.333333,41.333333,Vascular plants,Polypodium vulgare,1.0,NISP,spore,,449.0,,,Radiocarbon years BP,42.0,1750.0,pollen,6/30/2007,208.0,0.480769230769

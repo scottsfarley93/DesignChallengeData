@@ -1,7 +1,0 @@
-siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
-355,Chernikhovo,53.416667,26.433333,53.416667,53.416667,26.433333,26.433333,Vascular plants,Nymphaea alba,1.0,NISP,pollen,,7261.0,,,Radiocarbon years BP,115.0,168.0,pollen,6/30/2007,165.0,0.606060606061
-355,Chernikhovo,53.416667,26.433333,53.416667,53.416667,26.433333,26.433333,Vascular plants,Nymphaea alba,3.0,NISP,pollen,,7464.0,,,Radiocarbon years BP,120.0,168.0,pollen,6/30/2007,325.0,0.923076923077
-355,Chernikhovo,53.416667,26.433333,53.416667,53.416667,26.433333,26.433333,Vascular plants,Nymphaea alba,2.0,NISP,pollen,,8602.0,,,Radiocarbon years BP,175.0,168.0,pollen,6/30/2007,372.0,0.537634408602
-355,Chernikhovo,53.416667,26.433333,53.416667,53.416667,26.433333,26.433333,Vascular plants,Nymphaea alba,1.0,NISP,pollen,,8690.0,,,Radiocarbon years BP,180.0,168.0,pollen,6/30/2007,236.0,0.423728813559
-355,Chernikhovo,53.416667,26.433333,53.416667,53.416667,26.433333,26.433333,Vascular plants,Nymphaea alba,2.0,NISP,pollen,,11231.0,,,Radiocarbon years BP,235.0,168.0,pollen,6/30/2007,215.0,0.93023255814
-355,Chernikhovo,53.416667,26.433333,53.416667,53.416667,26.433333,26.433333,Vascular plants,Nymphaea alba,1.0,NISP,pollen,,11462.0,,,Radiocarbon years BP,240.0,168.0,pollen,6/30/2007,209.0,0.478468899522

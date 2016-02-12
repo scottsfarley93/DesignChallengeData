@@ -1,2 +1,0 @@
-siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
-3080,Dendermonde,51.043889,4.089722,51.043889,51.043889,4.089722,4.089722,Vascular plants,Lonicera periclymenum,1.0,NISP,pollen,,,,,,2450.0,2.0,pollen,6/30/2007,636.0,0.157232704403

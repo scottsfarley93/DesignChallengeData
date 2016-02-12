@@ -1,6 +1,0 @@
-siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
-332,Lac Caribou,48.197778,-64.94,48.197778,48.197778,-64.94,-64.94,Vascular plants,Acer nigrum,1.0,NISP,pollen,,5745.0,,,Radiocarbon years BP,190.0,116.0,pollen,6/30/2007,377.0,0.26525198939
-525,Cupola Pond,36.8,-91.1,36.8,36.8,-91.1,-91.1,Vascular plants,Acer nigrum,1.0,NISP,pollen,,15352.0,,,Radiocarbon years BP,735.0,242.0,pollen,6/30/2007,405.5,0.246609124538
-525,Cupola Pond,36.8,-91.1,36.8,36.8,-91.1,-91.1,Vascular plants,Acer nigrum,1.0,NISP,pollen,,15876.0,,,Radiocarbon years BP,856.0,242.0,pollen,6/30/2007,402.0,0.248756218905
-525,Cupola Pond,36.8,-91.1,36.8,36.8,-91.1,-91.1,Vascular plants,Acer nigrum,1.0,NISP,pollen,,16218.0,,,Radiocarbon years BP,935.0,242.0,pollen,6/30/2007,441.5,0.226500566251
-525,Cupola Pond,36.8,-91.1,36.8,36.8,-91.1,-91.1,Vascular plants,Acer nigrum,7.0,NISP,pollen,,16477.0,,,Radiocarbon years BP,995.0,242.0,pollen,6/30/2007,480.0,1.45833333333

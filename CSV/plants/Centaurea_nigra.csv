@@ -140,3 +140,19 @@ siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUn
 9812,Cornaher Lough,53.365665,-7.412555,53.36646,53.36487,-7.4109,-7.41421,Vascular plants,Centaurea nigra,1.0,NISP,pollen,,1551.0,,,Calibrated radiocarbon years BP,136.0,65.0,pollen,9/2/2014,627.5,0.159362549801
 9812,Cornaher Lough,53.365665,-7.412555,53.36646,53.36487,-7.4109,-7.41421,Vascular plants,Centaurea nigra,1.0,NISP,pollen,,2023.0,,,Calibrated radiocarbon years BP,176.0,65.0,pollen,9/2/2014,627.0,0.159489633174
 9820,Black Lough,53.17034,-7.82615,53.17083,53.16985,-7.82403,-7.82827,Vascular plants,Centaurea nigra,1.0,NISP,pollen,,6046.0,,,Calibrated radiocarbon years BP,420.0,53.0,pollen,9/3/2014,376.0,0.265957446809
+siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Centaurea nigra-type,1.0,NISP,pollen,,,,,,672.0,989.0,pollen,6/30/2007,619.0,0.16155088853
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Centaurea nigra-type,1.0,NISP,pollen,,,,,,673.0,989.0,pollen,6/30/2007,726.0,0.137741046832
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Centaurea nigra-type,2.0,NISP,pollen,,,,,,674.0,989.0,pollen,6/30/2007,698.0,0.286532951289
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Centaurea nigra-type,1.0,NISP,pollen,,,,,,675.0,989.0,pollen,6/30/2007,719.0,0.139082058414
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Centaurea nigra-type,1.0,NISP,pollen,,,,,,692.0,989.0,pollen,6/30/2007,648.0,0.154320987654
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Centaurea nigra-type,1.0,NISP,pollen,,,,,,696.0,989.0,pollen,6/30/2007,692.0,0.14450867052
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Centaurea nigra-type,1.0,NISP,pollen,,,,,,697.0,989.0,pollen,6/30/2007,675.0,0.148148148148
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Centaurea nigra-type,1.0,NISP,pollen,,,,,,699.0,989.0,pollen,6/30/2007,679.0,0.147275405007
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Centaurea nigra-type,1.0,NISP,pollen,,,,,,702.0,989.0,pollen,6/30/2007,606.0,0.16501650165
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Centaurea nigra-type,1.0,NISP,pollen,,,,,,706.0,989.0,pollen,6/30/2007,711.0,0.14064697609
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Centaurea nigra-type,1.0,NISP,pollen,,,,,,710.0,989.0,pollen,6/30/2007,688.0,0.145348837209
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Centaurea nigra-type,1.0,NISP,pollen,,,,,,726.0,989.0,pollen,6/30/2007,604.0,0.165562913907
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Centaurea nigra-type,1.0,NISP,pollen,,,,,,727.0,989.0,pollen,6/30/2007,774.0,0.129198966408
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Centaurea nigra-type,1.0,NISP,pollen,,,,,,729.0,989.0,pollen,6/30/2007,817.0,0.122399020808
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Centaurea nigra-type,1.0,NISP,pollen,,,,,,224.0,242.0,pollen,6/30/2007,767.0,0.13037809648

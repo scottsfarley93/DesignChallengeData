@@ -1,7 +1,0 @@
-siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
-2966,Aholami,61.883333,25.216667,61.883333,61.883333,25.216667,25.216667,Vascular plants,Ericales (tetrad),1.0,NISP,pollen,,2635.0,,,Radiocarbon years BP,1067.5,114.0,pollen,6/30/2007,1043.0,0.0958772770853
-3145,Hirvilampi,60.625,24.25,60.625,60.625,24.25,24.25,Vascular plants,Ericales (tetrad),1.0,NISP,pollen,,6376.0,,,Radiocarbon years BP,142.5,114.0,pollen,6/30/2007,1028.0,0.0972762645914
-3145,Hirvilampi,60.625,24.25,60.625,60.625,24.25,24.25,Vascular plants,Ericales (tetrad),1.0,NISP,pollen,,9550.0,,,Radiocarbon years BP,280.0,114.0,pollen,6/30/2007,543.0,0.184162062615
-3145,Hirvilampi,60.625,24.25,60.625,60.625,24.25,24.25,Vascular plants,Ericales (tetrad),1.0,NISP,pollen,,10300.0,,,Radiocarbon years BP,317.5,114.0,pollen,6/30/2007,543.0,0.184162062615
-3145,Hirvilampi,60.625,24.25,60.625,60.625,24.25,24.25,Vascular plants,Ericales (tetrad),1.0,NISP,pollen,,10500.0,,,Radiocarbon years BP,327.5,114.0,pollen,6/30/2007,543.0,0.184162062615
-3145,Hirvilampi,60.625,24.25,60.625,60.625,24.25,24.25,Vascular plants,Ericales (tetrad),1.0,NISP,pollen,,10600.0,,,Radiocarbon years BP,332.5,114.0,pollen,6/30/2007,540.0,0.185185185185

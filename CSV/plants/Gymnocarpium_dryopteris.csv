@@ -1,8 +1,0 @@
-siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
-2965,Abernethy Forest,56.233333,-3.716667,56.233333,56.233333,-3.716667,-3.716667,Vascular plants,Gymnocarpium dryopteris,1.0,NISP,spore,,6576.0,,,Radiocarbon years BP,345.0,221.0,pollen,6/30/2007,576.0,0.173611111111
-2965,Abernethy Forest,56.233333,-3.716667,56.233333,56.233333,-3.716667,-3.716667,Vascular plants,Gymnocarpium dryopteris,1.0,NISP,spore,,7296.0,,,Radiocarbon years BP,365.0,221.0,pollen,6/30/2007,646.0,0.15479876161
-2965,Abernethy Forest,56.233333,-3.716667,56.233333,56.233333,-3.716667,-3.716667,Vascular plants,Gymnocarpium dryopteris,1.0,NISP,spore,,7531.0,,,Radiocarbon years BP,370.0,221.0,pollen,6/30/2007,567.0,0.176366843034
-2965,Abernethy Forest,56.233333,-3.716667,56.233333,56.233333,-3.716667,-3.716667,Vascular plants,Gymnocarpium dryopteris,2.0,NISP,spore,,7693.0,,,Radiocarbon years BP,375.0,221.0,pollen,6/30/2007,599.0,0.333889816361
-2965,Abernethy Forest,56.233333,-3.716667,56.233333,56.233333,-3.716667,-3.716667,Vascular plants,Gymnocarpium dryopteris,3.0,NISP,spore,,8683.0,,,Radiocarbon years BP,430.0,221.0,pollen,6/30/2007,548.0,0.547445255474
-2965,Abernethy Forest,56.233333,-3.716667,56.233333,56.233333,-3.716667,-3.716667,Vascular plants,Gymnocarpium dryopteris,4.0,NISP,spore,,8947.0,,,Radiocarbon years BP,440.0,221.0,pollen,6/30/2007,645.0,0.62015503876
-2965,Abernethy Forest,56.233333,-3.716667,56.233333,56.233333,-3.716667,-3.716667,Vascular plants,Gymnocarpium dryopteris,1.0,NISP,spore,,9212.0,,,Radiocarbon years BP,450.0,221.0,pollen,6/30/2007,627.0,0.159489633174

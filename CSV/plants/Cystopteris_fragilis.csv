@@ -1,3 +1,0 @@
-siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
-355,Chernikhovo,53.416667,26.433333,53.416667,53.416667,26.433333,26.433333,Vascular plants,Cystopteris fragilis,20.0,NISP,spore,,9614.0,,,Radiocarbon years BP,200.0,168.0,pollen,6/30/2007,191.0,10.4712041885
-355,Chernikhovo,53.416667,26.433333,53.416667,53.416667,26.433333,26.433333,Vascular plants,Cystopteris fragilis,26.0,NISP,spore,,9845.0,,,Radiocarbon years BP,205.0,168.0,pollen,6/30/2007,170.0,15.2941176471

@@ -1,6 +1,0 @@
-siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
-304,Brisay 2,54.355833,-70.357778,54.355833,54.355833,-70.357778,-70.357778,Vascular plants,Morus rubra-type,1.0,NISP,pollen,,1680.0,,,Radiocarbon years BP,30.0,595.0,pollen,6/30/2007,560.0,0.178571428571
-322,Saint-Calixte,45.961111,-73.868056,45.961111,45.961111,-73.868056,-73.868056,Vascular plants,Morus rubra-type,1.0,NISP,pollen,,6641.0,,,Radiocarbon years BP,400.0,261.0,pollen,6/30/2007,698.0,0.143266475645
-322,Saint-Calixte,45.961111,-73.868056,45.961111,45.961111,-73.868056,-73.868056,Vascular plants,Morus rubra-type,1.0,NISP,pollen,,8639.0,,,Radiocarbon years BP,500.0,261.0,pollen,6/30/2007,756.0,0.132275132275
-322,Saint-Calixte,45.961111,-73.868056,45.961111,45.961111,-73.868056,-73.868056,Vascular plants,Morus rubra-type,1.0,NISP,pollen,,9531.0,,,Radiocarbon years BP,560.0,261.0,pollen,6/30/2007,803.0,0.124533001245
-322,Saint-Calixte,45.961111,-73.868056,45.961111,45.961111,-73.868056,-73.868056,Vascular plants,Morus rubra-type,1.0,NISP,pollen,,0.0,,,Radiocarbon years BP,600.0,261.0,pollen,6/30/2007,744.0,0.134408602151

@@ -28,3 +28,48 @@ siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUn
 2988,Altenweiher,48.013333,6.994444,48.013333,48.013333,6.994444,6.994444,Vascular plants,Dryopteris filix-mas,1.0,NISP,spore,,7816.0,,,Radiocarbon years BP,1025.0,926.0,pollen,6/30/2007,616.0,0.162337662338
 2988,Altenweiher,48.013333,6.994444,48.013333,48.013333,6.994444,6.994444,Vascular plants,Dryopteris filix-mas,1.0,NISP,spore,,8639.0,,,Radiocarbon years BP,1052.0,926.0,pollen,6/30/2007,584.0,0.171232876712
 2988,Altenweiher,48.013333,6.994444,48.013333,48.013333,6.994444,6.994444,Vascular plants,Dryopteris filix-mas,2.0,NISP,spore,,9600.0,,,Radiocarbon years BP,1082.0,926.0,pollen,6/30/2007,703.0,0.284495021337
+siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Dryopteris filix-mas-type,5.0,NISP,spore,,,,,,649.0,989.0,pollen,6/30/2007,929.0,0.5382131324
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Dryopteris filix-mas-type,5.0,NISP,spore,,,,,,650.0,989.0,pollen,6/30/2007,625.0,0.8
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Dryopteris filix-mas-type,3.0,NISP,spore,,,,,,651.0,989.0,pollen,6/30/2007,563.0,0.532859680284
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Dryopteris filix-mas-type,9.0,NISP,spore,,,,,,652.0,989.0,pollen,6/30/2007,585.0,1.53846153846
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Dryopteris filix-mas-type,12.0,NISP,spore,,,,,,653.0,989.0,pollen,6/30/2007,804.0,1.49253731343
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Dryopteris filix-mas-type,9.0,NISP,spore,,,,,,654.0,989.0,pollen,6/30/2007,747.0,1.20481927711
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Dryopteris filix-mas-type,1.0,NISP,spore,,,,,,655.0,989.0,pollen,6/30/2007,847.0,0.118063754427
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Dryopteris filix-mas-type,8.0,NISP,spore,,,,,,656.0,989.0,pollen,6/30/2007,575.0,1.39130434783
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Dryopteris filix-mas-type,4.0,NISP,spore,,,,,,657.0,989.0,pollen,6/30/2007,643.0,0.622083981337
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Dryopteris filix-mas-type,9.0,NISP,spore,,,,,,659.0,989.0,pollen,6/30/2007,745.0,1.20805369128
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Dryopteris filix-mas-type,1.0,NISP,spore,,,,,,660.0,989.0,pollen,6/30/2007,652.0,0.153374233129
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Dryopteris filix-mas-type,1.0,NISP,spore,,,,,,671.0,989.0,pollen,6/30/2007,638.0,0.156739811912
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Dryopteris filix-mas-type,1.0,NISP,spore,,,,,,702.0,989.0,pollen,6/30/2007,606.0,0.16501650165
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Dryopteris filix-mas-type,2.0,NISP,spore,,,,,,704.0,989.0,pollen,6/30/2007,658.0,0.303951367781
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Dryopteris filix-mas-type,1.0,NISP,spore,,,,,,706.0,989.0,pollen,6/30/2007,711.0,0.14064697609
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Dryopteris filix-mas-type,1.0,NISP,spore,,,,,,707.0,989.0,pollen,6/30/2007,632.0,0.158227848101
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Dryopteris filix-mas-type,2.0,NISP,spore,,,,,,712.0,989.0,pollen,6/30/2007,655.0,0.30534351145
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Dryopteris filix-mas-type,1.0,NISP,spore,,,,,,713.0,989.0,pollen,6/30/2007,606.0,0.16501650165
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Dryopteris filix-mas-type,1.0,NISP,spore,,,,,,721.0,989.0,pollen,6/30/2007,672.0,0.14880952381
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Dryopteris filix-mas-type,1.0,NISP,spore,,,,,,725.0,989.0,pollen,6/30/2007,532.0,0.187969924812
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Dryopteris filix-mas-type,1.0,NISP,spore,,,,,,726.0,989.0,pollen,6/30/2007,604.0,0.165562913907
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Dryopteris filix-mas-type,1.0,NISP,spore,,,,,,727.0,989.0,pollen,6/30/2007,774.0,0.129198966408
+2964,Aegelsee,46.645833,7.543333,46.645833,46.645833,7.543333,7.543333,Vascular plants,Dryopteris filix-mas-type,1.0,NISP,spore,,,,,,731.0,989.0,pollen,6/30/2007,752.0,0.132978723404
+2965,Abernethy Forest,56.233333,-3.716667,56.233333,56.233333,-3.716667,-3.716667,Vascular plants,Dryopteris filix-mas-type,3.0,NISP,spore,,5736.0,,,Radiocarbon years BP,305.0,221.0,pollen,6/30/2007,538.0,0.557620817844
+2965,Abernethy Forest,56.233333,-3.716667,56.233333,56.233333,-3.716667,-3.716667,Vascular plants,Dryopteris filix-mas-type,3.0,NISP,spore,,5830.0,,,Radiocarbon years BP,310.0,221.0,pollen,6/30/2007,553.0,0.542495479204
+2965,Abernethy Forest,56.233333,-3.716667,56.233333,56.233333,-3.716667,-3.716667,Vascular plants,Dryopteris filix-mas-type,2.0,NISP,spore,,5924.0,,,Radiocarbon years BP,315.0,221.0,pollen,6/30/2007,629.0,0.317965023847
+2965,Abernethy Forest,56.233333,-3.716667,56.233333,56.233333,-3.716667,-3.716667,Vascular plants,Dryopteris filix-mas-type,2.0,NISP,spore,,6112.0,,,Radiocarbon years BP,325.0,221.0,pollen,6/30/2007,531.0,0.376647834275
+2965,Abernethy Forest,56.233333,-3.716667,56.233333,56.233333,-3.716667,-3.716667,Vascular plants,Dryopteris filix-mas-type,1.0,NISP,spore,,7657.0,,,Radiocarbon years BP,373.0,221.0,pollen,6/30/2007,520.0,0.192307692308
+2965,Abernethy Forest,56.233333,-3.716667,56.233333,56.233333,-3.716667,-3.716667,Vascular plants,Dryopteris filix-mas-type,2.0,NISP,spore,,7693.0,,,Radiocarbon years BP,375.0,221.0,pollen,6/30/2007,599.0,0.333889816361
+2965,Abernethy Forest,56.233333,-3.716667,56.233333,56.233333,-3.716667,-3.716667,Vascular plants,Dryopteris filix-mas-type,1.0,NISP,spore,,8231.0,,,Radiocarbon years BP,405.0,221.0,pollen,6/30/2007,575.0,0.173913043478
+2965,Abernethy Forest,56.233333,-3.716667,56.233333,56.233333,-3.716667,-3.716667,Vascular plants,Dryopteris filix-mas-type,3.0,NISP,spore,,9080.0,,,Radiocarbon years BP,445.0,221.0,pollen,6/30/2007,597.0,0.502512562814
+2965,Abernethy Forest,56.233333,-3.716667,56.233333,56.233333,-3.716667,-3.716667,Vascular plants,Dryopteris filix-mas-type,3.0,NISP,spore,,9212.0,,,Radiocarbon years BP,450.0,221.0,pollen,6/30/2007,627.0,0.478468899522
+2965,Abernethy Forest,56.233333,-3.716667,56.233333,56.233333,-3.716667,-3.716667,Vascular plants,Dryopteris filix-mas-type,3.0,NISP,spore,,9344.0,,,Radiocarbon years BP,455.0,221.0,pollen,6/30/2007,621.0,0.48309178744
+2965,Abernethy Forest,56.233333,-3.716667,56.233333,56.233333,-3.716667,-3.716667,Vascular plants,Dryopteris filix-mas-type,5.0,NISP,spore,,9476.0,,,Radiocarbon years BP,460.0,221.0,pollen,6/30/2007,636.0,0.786163522013
+2965,Abernethy Forest,56.233333,-3.716667,56.233333,56.233333,-3.716667,-3.716667,Vascular plants,Dryopteris filix-mas-type,6.0,NISP,spore,,9608.0,,,Radiocarbon years BP,465.0,221.0,pollen,6/30/2007,582.0,1.03092783505
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Dryopteris filix-mas-type,1.0,NISP,spore,,,,,,365.0,20.0,pollen,6/30/2007,651.0,0.153609831029
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Dryopteris filix-mas-type,7.0,NISP,spore,,,,,,400.0,20.0,pollen,6/30/2007,409.0,1.71149144254
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Dryopteris filix-mas-type,1.0,NISP,spore,,,,,,410.0,20.0,pollen,6/30/2007,396.0,0.252525252525
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Dryopteris filix-mas-type,1.0,NISP,spore,,,,,,420.0,20.0,pollen,6/30/2007,254.0,0.393700787402
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Dryopteris filix-mas-type,2.0,NISP,spore,,,,,,455.0,20.0,pollen,6/30/2007,96.0,2.08333333333
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Dryopteris filix-mas-type,2.0,NISP,spore,,,,,,470.0,20.0,pollen,6/30/2007,404.0,0.49504950495
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Dryopteris filix-mas-type,2.0,NISP,spore,,,,,,475.0,20.0,pollen,6/30/2007,272.0,0.735294117647
+3082,Derrycunihy,52.016667,-9.416667,52.016667,52.016667,-9.416667,-9.416667,Vascular plants,Dryopteris filix-mas-type,1.0,NISP,spore,,800.0,,,Radiocarbon years BP,4.0,60.0,pollen,6/30/2007,277.0,0.361010830325
+3082,Derrycunihy,52.016667,-9.416667,52.016667,52.016667,-9.416667,-9.416667,Vascular plants,Dryopteris filix-mas-type,1.0,NISP,spore,,2939.0,,,Radiocarbon years BP,70.0,60.0,pollen,6/30/2007,342.0,0.292397660819

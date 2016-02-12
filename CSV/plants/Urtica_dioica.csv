@@ -1,7 +1,0 @@
-siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
-3084,Dolgoe,55.233333,28.183333,55.233333,55.233333,28.183333,28.183333,Vascular plants,Urtica dioica,1.0,NISP,pollen,,2864.0,,,Radiocarbon years BP,22.0,173.0,pollen,6/30/2007,515.0,0.194174757282
-3084,Dolgoe,55.233333,28.183333,55.233333,55.233333,28.183333,28.183333,Vascular plants,Urtica dioica,1.0,NISP,pollen,,3645.0,,,Radiocarbon years BP,28.0,173.0,pollen,6/30/2007,1713.0,0.0583771161705
-3084,Dolgoe,55.233333,28.183333,55.233333,55.233333,28.183333,28.183333,Vascular plants,Urtica dioica,1.0,NISP,pollen,,8477.0,,,Radiocarbon years BP,130.0,173.0,pollen,6/30/2007,1413.0,0.070771408351
-3084,Dolgoe,55.233333,28.183333,55.233333,55.233333,28.183333,28.183333,Vascular plants,Urtica dioica,2.0,NISP,pollen,,360.0,,,Radiocarbon years BP,4.0,173.0,pollen,6/30/2007,1006.0,0.198807157058
-3084,Dolgoe,55.233333,28.183333,55.233333,55.233333,28.183333,28.183333,Vascular plants,Urtica dioica,2.0,NISP,pollen,,2880.0,,,Radiocarbon years BP,32.0,173.0,pollen,6/30/2007,629.0,0.317965023847
-3084,Dolgoe,55.233333,28.183333,55.233333,55.233333,28.183333,28.183333,Vascular plants,Urtica dioica,1.0,NISP,pollen,,11416.0,,,Radiocarbon years BP,133.0,173.0,pollen,6/30/2007,978.0,0.102249488753
