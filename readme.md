@@ -15,7 +15,7 @@ This data comes from the [Neotoma paleoecological database](http://neotomadb.org
 macro- and micro-fossils and particular spatial locations.  PMost often, the plant datasets are derived from fossil pollen studies, which link concentrations of fossilized pollen to depths within a sediment core, and subsequently to ages (years before present).  The mammals datasets are more often obtained 
 by exacation of a macrofossil, which is subsequently dated, often by using radiometric dating methods.  
 
-Conceptual description vascular plant dataset:
+Conceptual description vascular plant dataset:  
 	* Plants grow and produce pollen
 	* Pollen is dispersed by wind, insects, or other animals
 	* Pollen is deposited on a nearby lake or within a watershed and subsequently washed into the lake
@@ -27,7 +27,7 @@ Conceptual description vascular plant dataset:
 	* Each sample is then subjected to lab analyses that include identifying the species of each pollen grain within the sample
 	* Ecological implications are published in the scientific literature and the pollen counts uploaded to NeotomaDB
 
-Conceptual description of mammal dataset:
+Conceptual description of mammal dataset:  
 	* A mammal (like a woolly mammoth) lives and dies at some point in the past
 	* If the body of this mammal is deposited in a suitable location, it will be fossilized
 	* In the present day, a scientist uncovers some portion of the fossil
@@ -87,12 +87,12 @@ Fields:
 	* taxonName: the scientific name of the taxon
 	* value: The value of the record for that taxon at that space-time location
 	* variableUnit: The unit in which the value is measured
-	** Possible values:
+		** Possible values:
 		* NISP: Number of Identified Specimens -- the raw number of specimens identified at that level
 		* MNI: Minimum number of individuals -- the fewest possible number of organisms in a skeletal assemblage
 		* present/absent: Boolean -- 1 if present
 	* element:  The type of material used to generate the value 
-	** Possible Values:
+		** Possible Values:
 		* Bone/Tooth -- for most mammals
 		* Spore -- for pollen
 		* macrofossil -- for plant macrofossils
