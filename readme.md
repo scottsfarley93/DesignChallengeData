@@ -7,7 +7,7 @@ Introduction
 ##The Task
 This dataset describes the occurrence of selected vascular plant and mammal in North America between 22,000 and 0 years before the present.  This data has been used to trace trends in space (e.g., species range at a single time slice), trends through time (e.g., fossil pollen abundance at a particular spatial location through time), and trends in attribute (e.g., species richness).  Previous studies and 
 visualizations have primarily focused on a single one of these dimensions.  Your task is to come up with innovative, unqiue, creative and asthetically pleasing visualizations capable of communicating spatiotemporal patterns in highly multidimensional space.  The remainder of this document will introduce the datasets and its origins and try to clarify the fields in the data files.
-Still have questions?  Scott Farley, who culled the dataset from other sources, will be on hand throughout the day on Saturday to answer any questions that you may have.
+Still have questions?  Scott Farley, who organized this year's dataset, will be on hand throughout the day on Saturday to answer any questions that you may have.
   
 
 ##Where does the data come from?
@@ -16,6 +16,7 @@ macro- and micro-fossils and particular spatial locations.  PMost often, the pla
 by exacation of a macrofossil, which is subsequently dated, often by using radiometric dating methods.  
 
 Conceptual description vascular plant dataset:  
+
 	* Plants grow and produce pollen
 	* Pollen is dispersed by wind, insects, or other animals
 	* Pollen is deposited on a nearby lake or within a watershed and subsequently washed into the lake
@@ -28,6 +29,7 @@ Conceptual description vascular plant dataset:
 	* Ecological implications are published in the scientific literature and the pollen counts uploaded to NeotomaDB
 
 Conceptual description of mammal dataset:  
+
 	* A mammal (like a woolly mammoth) lives and dies at some point in the past
 	* If the body of this mammal is deposited in a suitable location, it will be fossilized
 	* In the present day, a scientist uncovers some portion of the fossil
