@@ -1,45 +1,44 @@
 siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
-203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Plantago major,1.0,NISP,pollen,,75.0,,,Radiocarbon years BP,40.0,303.0,pollen,6/30/2007,891.0,0.112233445567
-203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Plantago major,2.0,NISP,pollen,,155.0,,,Radiocarbon years BP,56.0,303.0,pollen,6/30/2007,749.0,0.267022696929
-203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Plantago major,1.0,NISP,pollen,,175.0,,,Radiocarbon years BP,60.0,303.0,pollen,6/30/2007,781.0,0.128040973111
-203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Plantago major,2.0,NISP,pollen,,2404.0,,,Radiocarbon years BP,80.0,303.0,pollen,6/30/2007,672.0,0.297619047619
-203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Plantago major,2.0,NISP,pollen,,2898.0,,,Radiocarbon years BP,84.0,303.0,pollen,6/30/2007,836.0,0.239234449761
-203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Plantago major,2.0,NISP,pollen,,3391.0,,,Radiocarbon years BP,88.0,303.0,pollen,6/30/2007,734.0,0.272479564033
-203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Plantago major,2.0,NISP,pollen,,3884.0,,,Radiocarbon years BP,92.0,303.0,pollen,6/30/2007,788.0,0.253807106599
-203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Plantago major,1.0,NISP,pollen,,12239.0,,,Radiocarbon years BP,148.0,303.0,pollen,6/30/2007,382.0,0.261780104712
-214,Arts Lough,52.95,-6.433333,52.95,52.95,-6.433333,-6.433333,Vascular plants,Plantago major,1.0,NISP,pollen,,4068.0,,,Radiocarbon years BP,35.0,490.0,pollen,6/30/2007,303.5,0.329489291598
-224,Ballybetagh,53.166667,-6.25,53.166667,53.166667,-6.25,-6.25,Vascular plants,Plantago major,1.0,NISP,pollen,,9349.0,,,Radiocarbon years BP,135.0,250.0,pollen,6/30/2007,265.0,0.377358490566
-224,Ballybetagh,53.166667,-6.25,53.166667,53.166667,-6.25,-6.25,Vascular plants,Plantago major,1.0,NISP,pollen,,9808.0,,,Radiocarbon years BP,165.0,250.0,pollen,6/30/2007,238.0,0.420168067227
-224,Ballybetagh,53.166667,-6.25,53.166667,53.166667,-6.25,-6.25,Vascular plants,Plantago major,1.0,NISP,pollen,,12229.0,,,Radiocarbon years BP,415.0,250.0,pollen,6/30/2007,393.0,0.254452926209
-232,Barry Lake,44.3,-77.916667,44.3,44.3,-77.916667,-77.916667,Vascular plants,Plantago major,2.0,NISP,pollen,,-17.0,,,Radiocarbon years BP,1.0,167.0,pollen,6/30/2007,483.0,0.414078674948
-249,Belmont Bog,42.25,-77.916667,42.25,42.25,-77.916667,-77.916667,Vascular plants,Plantago major,1.0,NISP,pollen,,119.0,,,Radiocarbon years BP,24.0,497.0,pollen,6/30/2007,358.0,0.279329608939
-272,Black Pond,35.620833,-84.186667,35.620833,35.620833,-84.186667,-84.186667,Vascular plants,Plantago major,3.0,NISP,pollen,,-9.0,,,Radiocarbon years BP,10.0,262.0,pollen,6/30/2007,527.0,0.569259962049
-272,Black Pond,35.620833,-84.186667,35.620833,35.620833,-84.186667,-84.186667,Vascular plants,Plantago major,3.0,NISP,pollen,,14.0,,,Radiocarbon years BP,20.0,262.0,pollen,6/30/2007,527.0,0.569259962049
-272,Black Pond,35.620833,-84.186667,35.620833,35.620833,-84.186667,-84.186667,Vascular plants,Plantago major,6.0,NISP,pollen,,36.0,,,Radiocarbon years BP,30.0,262.0,pollen,6/30/2007,673.0,0.891530460624
-272,Black Pond,35.620833,-84.186667,35.620833,35.620833,-84.186667,-84.186667,Vascular plants,Plantago major,3.0,NISP,pollen,,59.0,,,Radiocarbon years BP,40.0,262.0,pollen,6/30/2007,751.0,0.399467376831
-272,Black Pond,35.620833,-84.186667,35.620833,35.620833,-84.186667,-84.186667,Vascular plants,Plantago major,1.0,NISP,pollen,,82.0,,,Radiocarbon years BP,50.0,262.0,pollen,6/30/2007,979.0,0.102145045965
-272,Black Pond,35.620833,-84.186667,35.620833,35.620833,-84.186667,-84.186667,Vascular plants,Plantago major,1.0,NISP,pollen,,128.0,,,Radiocarbon years BP,70.0,262.0,pollen,6/30/2007,598.0,0.167224080268
-363,Le Marais St Boetien,49.616667,3.816667,49.616667,49.616667,3.816667,3.816667,Vascular plants,Plantago major,5.0,NISP,pollen,,1381.0,,,Radiocarbon years BP,70.0,,pollen,6/30/2007,2209.0,0.226346763241
-363,Le Marais St Boetien,49.616667,3.816667,49.616667,49.616667,3.816667,3.816667,Vascular plants,Plantago major,1.0,NISP,pollen,,1504.0,,,Radiocarbon years BP,80.0,,pollen,6/30/2007,939.0,0.10649627263
-363,Le Marais St Boetien,49.616667,3.816667,49.616667,49.616667,3.816667,3.816667,Vascular plants,Plantago major,1.0,NISP,pollen,,1627.0,,,Radiocarbon years BP,90.0,,pollen,6/30/2007,1178.0,0.0848896434635
-363,Le Marais St Boetien,49.616667,3.816667,49.616667,49.616667,3.816667,3.816667,Vascular plants,Plantago major,3.0,NISP,pollen,,1872.0,,,Radiocarbon years BP,110.0,,pollen,6/30/2007,1948.0,0.154004106776
-363,Le Marais St Boetien,49.616667,3.816667,49.616667,49.616667,3.816667,3.816667,Vascular plants,Plantago major,2.0,NISP,pollen,,2117.0,,,Radiocarbon years BP,130.0,,pollen,6/30/2007,3162.0,0.0632511068944
-363,Le Marais St Boetien,49.616667,3.816667,49.616667,49.616667,3.816667,3.816667,Vascular plants,Plantago major,3.0,NISP,pollen,,2240.0,,,Radiocarbon years BP,140.0,,pollen,6/30/2007,4064.0,0.0738188976378
-363,Le Marais St Boetien,49.616667,3.816667,49.616667,49.616667,3.816667,3.816667,Vascular plants,Plantago major,1.0,NISP,pollen,,2363.0,,,Radiocarbon years BP,150.0,,pollen,6/30/2007,1396.0,0.0716332378223
-363,Le Marais St Boetien,49.616667,3.816667,49.616667,49.616667,3.816667,3.816667,Vascular plants,Plantago major,1.0,NISP,pollen,,2731.0,,,Radiocarbon years BP,180.0,,pollen,6/30/2007,3440.0,0.0290697674419
-363,Le Marais St Boetien,49.616667,3.816667,49.616667,49.616667,3.816667,3.816667,Vascular plants,Plantago major,3.0,NISP,pollen,,10491.0,,,Radiocarbon years BP,423.0,,pollen,6/30/2007,3003.0,0.0999000999001
-siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
-269,Billy's Lake,46.27058,-94.551555,46.27186,46.2693,-94.54948,-94.55363,Vascular plants,Plantago major-type,1.0,NISP,pollen,,1260.0,,,Radiocarbon years BP,300.0,383.0,pollen,6/30/2007,214.0,0.467289719626
-1119,Irvin Lake,47.135556,-93.643611,47.135556,47.135556,-93.643611,-93.643611,Vascular plants,Plantago major-type,1.0,NISP,pollen,,230.0,,,Radiocarbon years BP,10.0,478.0,pollen,6/30/2007,435.0,0.229885057471
-1355,Joe Lake,66.766667,-157.216667,66.766667,66.766667,-157.216667,-157.216667,Vascular plants,Plantago major-type,2.0,NISP,pollen,,15058.0,,,Radiocarbon years BP,420.0,183.0,pollen,6/30/2007,510.0,0.392156862745
-1355,Joe Lake,66.766667,-157.216667,66.766667,66.766667,-157.216667,-157.216667,Vascular plants,Plantago major-type,1.0,NISP,pollen,,30136.0,,,Radiocarbon years BP,580.0,183.0,pollen,6/30/2007,545.0,0.183486238532
-1355,Joe Lake,66.766667,-157.216667,66.766667,66.766667,-157.216667,-157.216667,Vascular plants,Plantago major-type,4.0,NISP,pollen,,38251.0,,,Radiocarbon years BP,770.0,183.0,pollen,6/30/2007,510.0,0.78431372549
-1711,Moon Lake,46.85592,-98.15984,46.86123,46.85061,-98.15463,-98.16505,Vascular plants,Plantago major-type,4.0,NISP,pollen,,0.0,,,Radiocarbon years BP,1312.0,444.0,pollen,6/30/2007,452.0,0.884955752212
-1740,Niantic,39.839167,-89.156389,39.839167,39.839167,-89.156389,-89.156389,Vascular plants,Plantago major-type,1.0,NISP,pollen,,,,,,290.0,183.0,pollen,6/30/2007,504.0,0.198412698413
-2283,Seminary School Basin,38.8975,-89.178611,38.8975,38.8975,-89.178611,-89.178611,Vascular plants,Plantago major-type,2.0,NISP,pollen,,,,,,100.0,165.0,pollen,6/30/2007,571.0,0.350262697023
-2283,Seminary School Basin,38.8975,-89.178611,38.8975,38.8975,-89.178611,-89.178611,Vascular plants,Plantago major-type,2.0,NISP,pollen,,,,,,110.0,165.0,pollen,6/30/2007,583.0,0.343053173242
-2283,Seminary School Basin,38.8975,-89.178611,38.8975,38.8975,-89.178611,-89.178611,Vascular plants,Plantago major-type,2.0,NISP,pollen,,,,,,120.0,165.0,pollen,6/30/2007,575.0,0.347826086957
-2283,Seminary School Basin,38.8975,-89.178611,38.8975,38.8975,-89.178611,-89.178611,Vascular plants,Plantago major-type,1.0,NISP,pollen,,,,,,140.0,165.0,pollen,6/30/2007,672.0,0.14880952381
-2283,Seminary School Basin,38.8975,-89.178611,38.8975,38.8975,-89.178611,-89.178611,Vascular plants,Plantago major-type,1.0,NISP,pollen,,,,,,190.0,165.0,pollen,6/30/2007,508.0,0.196850393701
-1812,Pittsburg Basin,38.904167,-89.1875,38.904167,38.904167,-89.1875,-89.1875,Vascular plants,Plantago major-type,1.0,NISP,pollen,,37440.0,,,Radiocarbon years BP,272.0,162.0,pollen,6/30/2007,696.0,0.14367816092
-1812,Pittsburg Basin,38.904167,-89.1875,38.904167,38.904167,-89.1875,-89.1875,Vascular plants,Plantago major-type,1.0,NISP,pollen,,,,,Radiocarbon years BP,577.0,162.0,pollen,6/30/2007,800.0,0.125
+203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Plantago major,1,NISP,pollen,,75,,,Radiocarbon years BP,40,303,pollen,6/30/2007,891,0.112233446
+203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Plantago major,2,NISP,pollen,,155,,,Radiocarbon years BP,56,303,pollen,6/30/2007,749,0.267022697
+203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Plantago major,1,NISP,pollen,,175,,,Radiocarbon years BP,60,303,pollen,6/30/2007,781,0.128040973
+203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Plantago major,2,NISP,pollen,,2404,,,Radiocarbon years BP,80,303,pollen,6/30/2007,672,0.297619048
+203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Plantago major,2,NISP,pollen,,2898,,,Radiocarbon years BP,84,303,pollen,6/30/2007,836,0.23923445
+203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Plantago major,2,NISP,pollen,,3391,,,Radiocarbon years BP,88,303,pollen,6/30/2007,734,0.272479564
+203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Plantago major,2,NISP,pollen,,3884,,,Radiocarbon years BP,92,303,pollen,6/30/2007,788,0.253807107
+203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Plantago major,1,NISP,pollen,,12239,,,Radiocarbon years BP,148,303,pollen,6/30/2007,382,0.261780105
+214,Arts Lough,52.95,-6.433333,52.95,52.95,-6.433333,-6.433333,Vascular plants,Plantago major,1,NISP,pollen,,4068,,,Radiocarbon years BP,35,490,pollen,6/30/2007,303.5,0.329489292
+224,Ballybetagh,53.166667,-6.25,53.166667,53.166667,-6.25,-6.25,Vascular plants,Plantago major,1,NISP,pollen,,9349,,,Radiocarbon years BP,135,250,pollen,6/30/2007,265,0.377358491
+224,Ballybetagh,53.166667,-6.25,53.166667,53.166667,-6.25,-6.25,Vascular plants,Plantago major,1,NISP,pollen,,9808,,,Radiocarbon years BP,165,250,pollen,6/30/2007,238,0.420168067
+224,Ballybetagh,53.166667,-6.25,53.166667,53.166667,-6.25,-6.25,Vascular plants,Plantago major,1,NISP,pollen,,12229,,,Radiocarbon years BP,415,250,pollen,6/30/2007,393,0.254452926
+232,Barry Lake,44.3,-77.916667,44.3,44.3,-77.916667,-77.916667,Vascular plants,Plantago major,2,NISP,pollen,,-17,,,Radiocarbon years BP,1,167,pollen,6/30/2007,483,0.414078675
+249,Belmont Bog,42.25,-77.916667,42.25,42.25,-77.916667,-77.916667,Vascular plants,Plantago major,1,NISP,pollen,,119,,,Radiocarbon years BP,24,497,pollen,6/30/2007,358,0.279329609
+272,Black Pond,35.620833,-84.186667,35.620833,35.620833,-84.186667,-84.186667,Vascular plants,Plantago major,3,NISP,pollen,,-9,,,Radiocarbon years BP,10,262,pollen,6/30/2007,527,0.569259962
+272,Black Pond,35.620833,-84.186667,35.620833,35.620833,-84.186667,-84.186667,Vascular plants,Plantago major,3,NISP,pollen,,14,,,Radiocarbon years BP,20,262,pollen,6/30/2007,527,0.569259962
+272,Black Pond,35.620833,-84.186667,35.620833,35.620833,-84.186667,-84.186667,Vascular plants,Plantago major,6,NISP,pollen,,36,,,Radiocarbon years BP,30,262,pollen,6/30/2007,673,0.891530461
+272,Black Pond,35.620833,-84.186667,35.620833,35.620833,-84.186667,-84.186667,Vascular plants,Plantago major,3,NISP,pollen,,59,,,Radiocarbon years BP,40,262,pollen,6/30/2007,751,0.399467377
+272,Black Pond,35.620833,-84.186667,35.620833,35.620833,-84.186667,-84.186667,Vascular plants,Plantago major,1,NISP,pollen,,82,,,Radiocarbon years BP,50,262,pollen,6/30/2007,979,0.102145046
+272,Black Pond,35.620833,-84.186667,35.620833,35.620833,-84.186667,-84.186667,Vascular plants,Plantago major,1,NISP,pollen,,128,,,Radiocarbon years BP,70,262,pollen,6/30/2007,598,0.16722408
+363,Le Marais St Boetien,49.616667,3.816667,49.616667,49.616667,3.816667,3.816667,Vascular plants,Plantago major,5,NISP,pollen,,1381,,,Radiocarbon years BP,70,,pollen,6/30/2007,2209,0.226346763
+363,Le Marais St Boetien,49.616667,3.816667,49.616667,49.616667,3.816667,3.816667,Vascular plants,Plantago major,1,NISP,pollen,,1504,,,Radiocarbon years BP,80,,pollen,6/30/2007,939,0.106496273
+363,Le Marais St Boetien,49.616667,3.816667,49.616667,49.616667,3.816667,3.816667,Vascular plants,Plantago major,1,NISP,pollen,,1627,,,Radiocarbon years BP,90,,pollen,6/30/2007,1178,0.084889643
+363,Le Marais St Boetien,49.616667,3.816667,49.616667,49.616667,3.816667,3.816667,Vascular plants,Plantago major,3,NISP,pollen,,1872,,,Radiocarbon years BP,110,,pollen,6/30/2007,1948,0.154004107
+363,Le Marais St Boetien,49.616667,3.816667,49.616667,49.616667,3.816667,3.816667,Vascular plants,Plantago major,2,NISP,pollen,,2117,,,Radiocarbon years BP,130,,pollen,6/30/2007,3162,0.063251107
+363,Le Marais St Boetien,49.616667,3.816667,49.616667,49.616667,3.816667,3.816667,Vascular plants,Plantago major,3,NISP,pollen,,2240,,,Radiocarbon years BP,140,,pollen,6/30/2007,4064,0.073818898
+363,Le Marais St Boetien,49.616667,3.816667,49.616667,49.616667,3.816667,3.816667,Vascular plants,Plantago major,1,NISP,pollen,,2363,,,Radiocarbon years BP,150,,pollen,6/30/2007,1396,0.071633238
+363,Le Marais St Boetien,49.616667,3.816667,49.616667,49.616667,3.816667,3.816667,Vascular plants,Plantago major,1,NISP,pollen,,2731,,,Radiocarbon years BP,180,,pollen,6/30/2007,3440,0.029069767
+363,Le Marais St Boetien,49.616667,3.816667,49.616667,49.616667,3.816667,3.816667,Vascular plants,Plantago major,3,NISP,pollen,,10491,,,Radiocarbon years BP,423,,pollen,6/30/2007,3003,0.0999001
+269,Billy's Lake,46.27058,-94.551555,46.27186,46.2693,-94.54948,-94.55363,Vascular plants,Plantago major,1,NISP,pollen,,1260,,,Radiocarbon years BP,300,383,pollen,6/30/2007,214,0.46728972
+1119,Irvin Lake,47.135556,-93.643611,47.135556,47.135556,-93.643611,-93.643611,Vascular plants,Plantago major,1,NISP,pollen,,230,,,Radiocarbon years BP,10,478,pollen,6/30/2007,435,0.229885057
+1355,Joe Lake,66.766667,-157.216667,66.766667,66.766667,-157.216667,-157.216667,Vascular plants,Plantago major,2,NISP,pollen,,15058,,,Radiocarbon years BP,420,183,pollen,6/30/2007,510,0.392156863
+1355,Joe Lake,66.766667,-157.216667,66.766667,66.766667,-157.216667,-157.216667,Vascular plants,Plantago major,1,NISP,pollen,,30136,,,Radiocarbon years BP,580,183,pollen,6/30/2007,545,0.183486239
+1355,Joe Lake,66.766667,-157.216667,66.766667,66.766667,-157.216667,-157.216667,Vascular plants,Plantago major,4,NISP,pollen,,38251,,,Radiocarbon years BP,770,183,pollen,6/30/2007,510,0.784313725
+1711,Moon Lake,46.85592,-98.15984,46.86123,46.85061,-98.15463,-98.16505,Vascular plants,Plantago major,4,NISP,pollen,,0,,,Radiocarbon years BP,1312,444,pollen,6/30/2007,452,0.884955752
+1740,Niantic,39.839167,-89.156389,39.839167,39.839167,-89.156389,-89.156389,Vascular plants,Plantago major,1,NISP,pollen,,,,,,290,183,pollen,6/30/2007,504,0.198412698
+2283,Seminary School Basin,38.8975,-89.178611,38.8975,38.8975,-89.178611,-89.178611,Vascular plants,Plantago major,2,NISP,pollen,,,,,,100,165,pollen,6/30/2007,571,0.350262697
+2283,Seminary School Basin,38.8975,-89.178611,38.8975,38.8975,-89.178611,-89.178611,Vascular plants,Plantago major,2,NISP,pollen,,,,,,110,165,pollen,6/30/2007,583,0.343053173
+2283,Seminary School Basin,38.8975,-89.178611,38.8975,38.8975,-89.178611,-89.178611,Vascular plants,Plantago major,2,NISP,pollen,,,,,,120,165,pollen,6/30/2007,575,0.347826087
+2283,Seminary School Basin,38.8975,-89.178611,38.8975,38.8975,-89.178611,-89.178611,Vascular plants,Plantago major,1,NISP,pollen,,,,,,140,165,pollen,6/30/2007,672,0.148809524
+2283,Seminary School Basin,38.8975,-89.178611,38.8975,38.8975,-89.178611,-89.178611,Vascular plants,Plantago major,1,NISP,pollen,,,,,,190,165,pollen,6/30/2007,508,0.196850394
+1812,Pittsburg Basin,38.904167,-89.1875,38.904167,38.904167,-89.1875,-89.1875,Vascular plants,Plantago major,1,NISP,pollen,,37440,,,Radiocarbon years BP,272,162,pollen,6/30/2007,696,0.143678161
+1812,Pittsburg Basin,38.904167,-89.1875,38.904167,38.904167,-89.1875,-89.1875,Vascular plants,Plantago major,1,NISP,pollen,,,,,Radiocarbon years BP,577,162,pollen,6/30/2007,800,0.125

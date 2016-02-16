@@ -1,496 +1,495 @@
 siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
-7,Three Pines Bog,47.0,-80.116667,47.0,47.0,-80.116667,-80.116667,Vascular plants,Juglans cinerea,1.0,NISP,pollen,,1347.0,,,Radiocarbon years BP,90.0,294.0,pollen,6/30/2007,394.0,0.253807106599
-29,Lake Allie,44.8036,-94.5579,44.8138,44.7934,-94.5483,-94.5675,Vascular plants,Juglans cinerea,3.0,NISP,pollen,,18.0,,,Radiocarbon years BP,10.0,328.0,pollen,6/30/2007,415.0,0.722891566265
-29,Lake Allie,44.8036,-94.5579,44.8138,44.7934,-94.5483,-94.5675,Vascular plants,Juglans cinerea,1.0,NISP,pollen,,51.0,,,Radiocarbon years BP,20.0,328.0,pollen,6/30/2007,388.0,0.257731958763
-29,Lake Allie,44.8036,-94.5579,44.8138,44.7934,-94.5483,-94.5675,Vascular plants,Juglans cinerea,1.0,NISP,pollen,,84.0,,,Radiocarbon years BP,30.0,328.0,pollen,6/30/2007,376.0,0.265957446809
-29,Lake Allie,44.8036,-94.5579,44.8138,44.7934,-94.5483,-94.5675,Vascular plants,Juglans cinerea,1.0,NISP,pollen,,149.0,,,Radiocarbon years BP,50.0,328.0,pollen,6/30/2007,366.0,0.273224043716
-29,Lake Allie,44.8036,-94.5579,44.8138,44.7934,-94.5483,-94.5675,Vascular plants,Juglans cinerea,1.0,NISP,pollen,,182.0,,,Radiocarbon years BP,60.0,328.0,pollen,6/30/2007,358.0,0.279329608939
-29,Lake Allie,44.8036,-94.5579,44.8138,44.7934,-94.5483,-94.5675,Vascular plants,Juglans cinerea,1.0,NISP,pollen,,215.0,,,Radiocarbon years BP,70.0,328.0,pollen,6/30/2007,324.0,0.308641975309
-29,Lake Allie,44.8036,-94.5579,44.8138,44.7934,-94.5483,-94.5675,Vascular plants,Juglans cinerea,2.0,NISP,pollen,,248.0,,,Radiocarbon years BP,80.0,328.0,pollen,6/30/2007,338.0,0.591715976331
-29,Lake Allie,44.8036,-94.5579,44.8138,44.7934,-94.5483,-94.5675,Vascular plants,Juglans cinerea,1.0,NISP,pollen,,412.0,,,Radiocarbon years BP,130.0,328.0,pollen,6/30/2007,314.0,0.31847133758
-29,Lake Allie,44.8036,-94.5579,44.8138,44.7934,-94.5483,-94.5675,Vascular plants,Juglans cinerea,1.0,NISP,pollen,,445.0,,,Radiocarbon years BP,140.0,328.0,pollen,6/30/2007,345.0,0.289855072464
-30,Almora Lake,46.206111,-95.293611,46.206111,46.206111,-95.293611,-95.293611,Vascular plants,Juglans cinerea,1.0,NISP,pollen,,4450.0,,,Radiocarbon years BP,335.5,437.0,pollen,6/30/2007,317.0,0.315457413249
-30,Almora Lake,46.206111,-95.293611,46.206111,46.206111,-95.293611,-95.293611,Vascular plants,Juglans cinerea,1.0,NISP,pollen,,6400.0,,,Radiocarbon years BP,412.0,437.0,pollen,6/30/2007,326.0,0.306748466258
-30,Almora Lake,46.206111,-95.293611,46.206111,46.206111,-95.293611,-95.293611,Vascular plants,Juglans cinerea,2.0,NISP,pollen,,8708.0,,,Radiocarbon years BP,449.5,437.0,pollen,6/30/2007,526.0,0.380228136882
-30,Almora Lake,46.206111,-95.293611,46.206111,46.206111,-95.293611,-95.293611,Vascular plants,Juglans cinerea,2.0,NISP,pollen,,9058.0,,,Radiocarbon years BP,459.5,437.0,pollen,6/30/2007,528.0,0.378787878788
-30,Almora Lake,46.206111,-95.293611,46.206111,46.206111,-95.293611,-95.293611,Vascular plants,Juglans cinerea,2.0,NISP,pollen,,9408.0,,,Radiocarbon years BP,469.5,437.0,pollen,6/30/2007,773.0,0.25873221216
-30,Almora Lake,46.206111,-95.293611,46.206111,46.206111,-95.293611,-95.293611,Vascular plants,Juglans cinerea,1.0,NISP,pollen,,9705.0,,,Radiocarbon years BP,479.5,437.0,pollen,6/30/2007,442.0,0.226244343891
-30,Almora Lake,46.206111,-95.293611,46.206111,46.206111,-95.293611,-95.293611,Vascular plants,Juglans cinerea,1.0,NISP,pollen,,11090.0,,,Radiocarbon years BP,544.5,437.0,pollen,6/30/2007,457.0,0.218818380744
-120,Site 50 (Swain unpublished),42.1,-78.75,42.1,42.1,-78.75,-78.75,Vascular plants,Juglans cinerea,1.0,NISP,pollen,,,,,,0.0,427.0,pollen surface sample,6/30/2007,,
-121,Site 51 (Swain unpublished),41.75,-79.17,41.75,41.75,-79.17,-79.17,Vascular plants,Juglans cinerea,1.0,NISP,pollen,,,,,,0.0,457.0,pollen surface sample,6/30/2007,,
-123,Site 53 (Swain unpublished),41.73,-78.42,41.73,41.73,-78.42,-78.42,Vascular plants,Juglans cinerea,1.0,NISP,pollen,,,,,,0.0,518.0,pollen surface sample,6/30/2007,,
-125,Site 55 (Swain unpublished),41.72,-77.77,41.72,41.72,-77.77,-77.77,Vascular plants,Juglans cinerea,1.0,NISP,pollen,,,,,,0.0,518.0,pollen surface sample,6/30/2007,,
-130,Site 60 (Swain unpublished),41.58,-76.17,41.58,41.58,-76.17,-76.17,Vascular plants,Juglans cinerea,1.0,NISP,pollen,,,,,,0.0,335.0,pollen surface sample,6/30/2007,,
-132,Site 62 (Swain unpublished),41.48,-77.03,41.48,41.48,-77.03,-77.03,Vascular plants,Juglans cinerea,1.0,NISP,pollen,,,,,,0.0,335.0,pollen surface sample,6/30/2007,,
-133,Site 63 (Swain unpublished),41.3,-76.58,41.3,41.3,-76.58,-76.58,Vascular plants,Juglans cinerea,1.0,NISP,pollen,,,,,,0.0,305.0,pollen surface sample,6/30/2007,,
-134,Site 64 (Swain unpublished),41.12,-76.5225,41.12,41.12,-76.5225,-76.5225,Vascular plants,Juglans cinerea,1.0,NISP,pollen,,,,,,0.0,152.0,pollen surface sample,6/30/2007,,
-135,Site 65 (Swain unpublished),40.83,-76.37,40.83,40.83,-76.37,-76.37,Vascular plants,Juglans cinerea,1.0,NISP,pollen,,,,,,0.0,366.0,pollen surface sample,6/30/2007,,
-136,Site 66 (Swain unpublished),40.62,-76.05,40.62,40.62,-76.05,-76.05,Vascular plants,Juglans cinerea,3.0,NISP,pollen,,,,,,0.0,152.0,pollen surface sample,6/30/2007,,
-139,Site 69 (Swain unpublished),40.33,-75.48,40.33,40.33,-75.48,-75.48,Vascular plants,Juglans cinerea,1.0,NISP,pollen,,,,,,0.0,91.0,pollen surface sample,6/30/2007,,
-140,Site 70 (Swain unpublished),40.45,-75.52,40.45,40.45,-75.52,-75.52,Vascular plants,Juglans cinerea,2.0,NISP,pollen,,,,,,0.0,152.0,pollen surface sample,6/30/2007,,
-141,Site 71 (Swain unpublished),40.85,-75.8,40.85,40.85,-75.8,-75.8,Vascular plants,Juglans cinerea,1.0,NISP,pollen,,,,,,0.0,305.0,pollen surface sample,6/30/2007,,
-143,Site 73 (Swain unpublished),41.05,-75.93,41.05,41.05,-75.93,-75.93,Vascular plants,Juglans cinerea,1.0,NISP,pollen,,,,,,0.0,335.0,pollen surface sample,6/30/2007,,
-147,Site 77 (Swain unpublished),41.78,-75.53,41.78,41.78,-75.53,-75.53,Vascular plants,Juglans cinerea,1.0,NISP,pollen,,,,,,0.0,610.0,pollen surface sample,6/30/2007,,
-150,Site 80 (Swain unpublished),42.25,-76.05,42.25,42.25,-76.05,-76.05,Vascular plants,Juglans cinerea,1.0,NISP,pollen,,,,,,0.0,309.0,pollen surface sample,6/30/2007,,
-155,Site 85 (Swain unpublished),41.55,-74.07,41.55,41.55,-74.07,-74.07,Vascular plants,Juglans cinerea,1.0,NISP,pollen,,,,,,0.0,138.0,pollen surface sample,6/30/2007,,
-161,Site 91 (Swain unpublished),44.15,-73.75,44.15,44.15,-73.75,-73.75,Vascular plants,Juglans cinerea,1.0,NISP,pollen,,,,,,0.0,491.0,pollen surface sample,6/30/2007,,
-163,Site 93 (Swain unpublished),44.45,-74.25,44.45,44.45,-74.25,-74.25,Vascular plants,Juglans cinerea,1.0,NISP,pollen,,,,,,0.0,504.0,pollen surface sample,6/30/2007,,
-191,Site 121 (Swain unpublished),41.88,-74.08,41.88,41.88,-74.08,-74.08,Vascular plants,Juglans cinerea,3.0,NISP,pollen,,,,,,0.0,61.0,pollen surface sample,6/30/2007,,
-193,Site 123 (Swain unpublished),43.65,-74.4,43.65,43.65,-74.4,-74.4,Vascular plants,Juglans cinerea,4.0,NISP,pollen,,,,,,0.0,503.0,pollen surface sample,6/30/2007,,
-202,Anderson Lake,46.416667,-92.716667,46.416667,46.416667,-92.716667,-92.716667,Vascular plants,Juglans cinerea,3.0,NISP,pollen,,10208.0,,,Radiocarbon years BP,800.0,,pollen,6/30/2007,424.0,0.707547169811
-202,Anderson Lake,46.416667,-92.716667,46.416667,46.416667,-92.716667,-92.716667,Vascular plants,Juglans cinerea,4.0,NISP,pollen,,10242.0,,,Radiocarbon years BP,810.0,,pollen,6/30/2007,452.0,0.884955752212
-202,Anderson Lake,46.416667,-92.716667,46.416667,46.416667,-92.716667,-92.716667,Vascular plants,Juglans cinerea,2.0,NISP,pollen,,10275.0,,,Radiocarbon years BP,820.0,,pollen,6/30/2007,375.0,0.533333333333
-202,Anderson Lake,46.416667,-92.716667,46.416667,46.416667,-92.716667,-92.716667,Vascular plants,Juglans cinerea,1.0,NISP,pollen,,10342.0,,,Radiocarbon years BP,840.0,,pollen,6/30/2007,373.0,0.268096514745
-203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Juglans cinerea,1.0,NISP,pollen,,50.0,,,Radiocarbon years BP,35.0,303.0,pollen,6/30/2007,873.0,0.114547537228
-203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Juglans cinerea,2.0,NISP,pollen,,135.0,,,Radiocarbon years BP,52.0,303.0,pollen,6/30/2007,1105.0,0.180995475113
-203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Juglans cinerea,2.0,NISP,pollen,,175.0,,,Radiocarbon years BP,60.0,303.0,pollen,6/30/2007,781.0,0.256081946223
-203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Juglans cinerea,1.0,NISP,pollen,,432.0,,,Radiocarbon years BP,64.0,303.0,pollen,6/30/2007,674.0,0.148367952522
-203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Juglans cinerea,1.0,NISP,pollen,,925.0,,,Radiocarbon years BP,68.0,303.0,pollen,6/30/2007,685.0,0.14598540146
-203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Juglans cinerea,1.0,NISP,pollen,,1911.0,,,Radiocarbon years BP,76.0,303.0,pollen,6/30/2007,644.0,0.155279503106
-203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Juglans cinerea,1.0,NISP,pollen,,2898.0,,,Radiocarbon years BP,84.0,303.0,pollen,6/30/2007,836.0,0.11961722488
-203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Juglans cinerea,1.0,NISP,pollen,,3391.0,,,Radiocarbon years BP,88.0,303.0,pollen,6/30/2007,734.0,0.136239782016
-203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Juglans cinerea,1.0,NISP,pollen,,3884.0,,,Radiocarbon years BP,92.0,303.0,pollen,6/30/2007,788.0,0.126903553299
-203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Juglans cinerea,1.0,NISP,pollen,,4377.0,,,Radiocarbon years BP,96.0,303.0,pollen,6/30/2007,759.0,0.131752305665
-203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Juglans cinerea,1.0,NISP,pollen,,5363.0,,,Radiocarbon years BP,104.0,303.0,pollen,6/30/2007,856.0,0.116822429907
-203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Juglans cinerea,2.0,NISP,pollen,,5941.0,,,Radiocarbon years BP,108.0,303.0,pollen,6/30/2007,769.0,0.260078023407
-203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Juglans cinerea,2.0,NISP,pollen,,7270.0,,,Radiocarbon years BP,116.0,303.0,pollen,6/30/2007,793.0,0.252206809584
-203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Juglans cinerea,2.0,NISP,pollen,,8597.0,,,Radiocarbon years BP,124.0,303.0,pollen,6/30/2007,717.0,0.278940027894
-203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Juglans cinerea,4.0,NISP,pollen,,9230.0,,,Radiocarbon years BP,128.0,303.0,pollen,6/30/2007,668.0,0.59880239521
-203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Juglans cinerea,3.0,NISP,pollen,,9832.0,,,Radiocarbon years BP,132.0,303.0,pollen,6/30/2007,643.0,0.466562986003
-203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Juglans cinerea,1.0,NISP,pollen,,11035.0,,,Radiocarbon years BP,140.0,303.0,pollen,6/30/2007,382.0,0.261780104712
-203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Juglans cinerea,3.0,NISP,pollen,,12239.0,,,Radiocarbon years BP,148.0,303.0,pollen,6/30/2007,382.0,0.785340314136
-203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Juglans cinerea,2.0,NISP,pollen,,12546.0,,,Radiocarbon years BP,152.0,303.0,pollen,6/30/2007,379.0,0.527704485488
-203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Juglans cinerea,2.0,NISP,pollen,,12560.0,,,Radiocarbon years BP,156.0,303.0,pollen,6/30/2007,372.0,0.537634408602
-203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Juglans cinerea,4.0,NISP,pollen,,12588.0,,,Radiocarbon years BP,164.0,303.0,pollen,6/30/2007,349.0,1.14613180516
-203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Juglans cinerea,2.0,NISP,pollen,,12679.0,,,Radiocarbon years BP,190.0,303.0,pollen,6/30/2007,370.0,0.540540540541
-203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Juglans cinerea,1.0,NISP,pollen,,12714.0,,,Radiocarbon years BP,200.0,303.0,pollen,6/30/2007,367.0,0.272479564033
-203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Juglans cinerea,4.0,NISP,pollen,,12897.0,,,Radiocarbon years BP,216.0,303.0,pollen,6/30/2007,388.0,1.03092783505
-203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Juglans cinerea,1.0,NISP,pollen,,14079.0,,,Radiocarbon years BP,264.0,303.0,pollen,6/30/2007,349.0,0.286532951289
-203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Juglans cinerea,2.0,NISP,pollen,,14866.0,,,Radiocarbon years BP,296.0,303.0,pollen,6/30/2007,359.0,0.557103064067
-203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Juglans cinerea,2.0,NISP,pollen,,15260.0,,,Radiocarbon years BP,312.0,303.0,pollen,6/30/2007,335.0,0.597014925373
-203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Juglans cinerea,1.0,NISP,pollen,,15439.0,,,Radiocarbon years BP,330.0,303.0,pollen,6/30/2007,354.0,0.282485875706
-203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Juglans cinerea,1.0,NISP,pollen,,15600.0,,,Radiocarbon years BP,350.0,303.0,pollen,6/30/2007,351.0,0.2849002849
-203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Juglans cinerea,1.0,NISP,pollen,,15761.0,,,Radiocarbon years BP,370.0,303.0,pollen,6/30/2007,333.0,0.3003003003
-203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Juglans cinerea,1.0,NISP,pollen,,17929.0,,,Radiocarbon years BP,570.0,303.0,pollen,6/30/2007,411.0,0.243309002433
-203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Juglans cinerea,2.0,NISP,pollen,,24041.0,,,Radiocarbon years BP,930.0,303.0,pollen,6/30/2007,380.0,0.526315789474
-siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
-266,Big John Pond,47.559175,-94.970775,47.56018,47.55817,-94.96931,-94.97224,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,3053.0,,,Radiocarbon years BP,115.0,421.0,pollen,6/30/2007,390.0,0.25641025641
-269,Billy's Lake,46.27058,-94.551555,46.27186,46.2693,-94.54948,-94.55363,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,61.0,,,Radiocarbon years BP,194.0,383.0,pollen,6/30/2007,268.0,0.373134328358
-269,Billy's Lake,46.27058,-94.551555,46.27186,46.2693,-94.54948,-94.55363,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,220.0,,,Radiocarbon years BP,220.0,383.0,pollen,6/30/2007,224.0,0.446428571429
-269,Billy's Lake,46.27058,-94.551555,46.27186,46.2693,-94.54948,-94.55363,Vascular plants,Juglans cinerea-type,2.0,NISP,pollen,,587.0,,,Radiocarbon years BP,250.0,383.0,pollen,6/30/2007,251.0,0.796812749004
-269,Billy's Lake,46.27058,-94.551555,46.27186,46.2693,-94.54948,-94.55363,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,856.0,,,Radiocarbon years BP,270.0,383.0,pollen,6/30/2007,209.0,0.478468899522
-269,Billy's Lake,46.27058,-94.551555,46.27186,46.2693,-94.54948,-94.55363,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,910.0,,,Radiocarbon years BP,274.0,383.0,pollen,6/30/2007,528.0,0.189393939394
-269,Billy's Lake,46.27058,-94.551555,46.27186,46.2693,-94.54948,-94.55363,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,2302.0,,,Radiocarbon years BP,415.0,383.0,pollen,6/30/2007,347.0,0.28818443804
-269,Billy's Lake,46.27058,-94.551555,46.27186,46.2693,-94.54948,-94.55363,Vascular plants,Juglans cinerea-type,2.0,NISP,pollen,,3907.0,,,Radiocarbon years BP,610.0,383.0,pollen,6/30/2007,232.0,0.862068965517
-269,Billy's Lake,46.27058,-94.551555,46.27186,46.2693,-94.54948,-94.55363,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,8492.0,,,Radiocarbon years BP,930.0,383.0,pollen,6/30/2007,318.0,0.314465408805
-308,Brown Lake,40.680556,-82.0625,40.680556,40.680556,-82.0625,-82.0625,Vascular plants,Juglans cinerea-type,3.0,NISP,pollen,,6829.0,,,Radiocarbon years BP,755.0,295.0,pollen,6/30/2007,447.0,0.671140939597
-308,Brown Lake,40.680556,-82.0625,40.680556,40.680556,-82.0625,-82.0625,Vascular plants,Juglans cinerea-type,2.0,NISP,pollen,,8165.0,,,Radiocarbon years BP,815.0,295.0,pollen,6/30/2007,394.0,0.507614213198
-308,Brown Lake,40.680556,-82.0625,40.680556,40.680556,-82.0625,-82.0625,Vascular plants,Juglans cinerea-type,3.0,NISP,pollen,,8768.0,,,Radiocarbon years BP,855.0,295.0,pollen,6/30/2007,368.0,0.815217391304
-308,Brown Lake,40.680556,-82.0625,40.680556,40.680556,-82.0625,-82.0625,Vascular plants,Juglans cinerea-type,5.0,NISP,pollen,,9353.0,,,Radiocarbon years BP,915.0,295.0,pollen,6/30/2007,406.0,1.2315270936
-308,Brown Lake,40.680556,-82.0625,40.680556,40.680556,-82.0625,-82.0625,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,10023.0,,,Radiocarbon years BP,1055.0,295.0,pollen,6/30/2007,368.0,0.271739130435
-308,Brown Lake,40.680556,-82.0625,40.680556,40.680556,-82.0625,-82.0625,Vascular plants,Juglans cinerea-type,2.0,NISP,pollen,,10239.0,,,Radiocarbon years BP,1095.0,295.0,pollen,6/30/2007,358.0,0.558659217877
-308,Brown Lake,40.680556,-82.0625,40.680556,40.680556,-82.0625,-82.0625,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,10550.0,,,Radiocarbon years BP,1135.0,295.0,pollen,6/30/2007,378.0,0.26455026455
-308,Brown Lake,40.680556,-82.0625,40.680556,40.680556,-82.0625,-82.0625,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,10754.0,,,Radiocarbon years BP,1155.0,295.0,pollen,6/30/2007,374.0,0.267379679144
-314,Bucyrus Bog,40.797222,-82.933333,40.797222,40.797222,-82.933333,-82.933333,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,8365.0,,,Radiocarbon years BP,28.0,318.0,pollen,6/30/2007,388.0,0.257731958763
-314,Bucyrus Bog,40.797222,-82.933333,40.797222,40.797222,-82.933333,-82.933333,Vascular plants,Juglans cinerea-type,4.0,NISP,pollen,,8682.0,,,Radiocarbon years BP,37.0,318.0,pollen,6/30/2007,410.0,0.975609756098
-314,Bucyrus Bog,40.797222,-82.933333,40.797222,40.797222,-82.933333,-82.933333,Vascular plants,Juglans cinerea-type,6.0,NISP,pollen,,9023.0,,,Radiocarbon years BP,47.0,318.0,pollen,6/30/2007,591.0,1.0152284264
-314,Bucyrus Bog,40.797222,-82.933333,40.797222,40.797222,-82.933333,-82.933333,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,9517.0,,,Radiocarbon years BP,62.0,318.0,pollen,6/30/2007,443.0,0.225733634312
-314,Bucyrus Bog,40.797222,-82.933333,40.797222,40.797222,-82.933333,-82.933333,Vascular plants,Juglans cinerea-type,2.0,NISP,pollen,,10017.0,,,Radiocarbon years BP,78.0,318.0,pollen,6/30/2007,373.0,0.536193029491
-314,Bucyrus Bog,40.797222,-82.933333,40.797222,40.797222,-82.933333,-82.933333,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,10139.0,,,Radiocarbon years BP,82.0,318.0,pollen,6/30/2007,352.0,0.284090909091
-314,Bucyrus Bog,40.797222,-82.933333,40.797222,40.797222,-82.933333,-82.933333,Vascular plants,Juglans cinerea-type,2.0,NISP,pollen,,10258.0,,,Radiocarbon years BP,86.0,318.0,pollen,6/30/2007,355.0,0.56338028169
-314,Bucyrus Bog,40.797222,-82.933333,40.797222,40.797222,-82.933333,-82.933333,Vascular plants,Juglans cinerea-type,2.0,NISP,pollen,,10492.0,,,Radiocarbon years BP,94.0,318.0,pollen,6/30/2007,458.0,0.436681222707
-314,Bucyrus Bog,40.797222,-82.933333,40.797222,40.797222,-82.933333,-82.933333,Vascular plants,Juglans cinerea-type,2.0,NISP,pollen,,11462.0,,,Radiocarbon years BP,130.0,318.0,pollen,6/30/2007,396.0,0.505050505051
-314,Bucyrus Bog,40.797222,-82.933333,40.797222,40.797222,-82.933333,-82.933333,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,11943.0,,,Radiocarbon years BP,150.0,318.0,pollen,6/30/2007,344.0,0.290697674419
-314,Bucyrus Bog,40.797222,-82.933333,40.797222,40.797222,-82.933333,-82.933333,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,14170.0,,,Radiocarbon years BP,292.0,318.0,pollen,6/30/2007,370.0,0.27027027027
-314,Bucyrus Bog,40.797222,-82.933333,40.797222,40.797222,-82.933333,-82.933333,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,14421.0,,,Radiocarbon years BP,332.0,318.0,pollen,6/30/2007,395.0,0.253164556962
-9980,East Twin Lake,41.196155,-81.334765,41.20098,41.19133,-81.33052,-81.33901,Vascular plants,Juglans cinerea-type,2.0,NISP,pollen,,57.0,,,Radiocarbon years BP,1146.0,321.0,pollen,6/30/2007,482.0,0.414937759336
-9980,East Twin Lake,41.196155,-81.334765,41.20098,41.19133,-81.33052,-81.33901,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,94.0,,,Radiocarbon years BP,1154.0,321.0,pollen,6/30/2007,424.0,0.235849056604
-9980,East Twin Lake,41.196155,-81.334765,41.20098,41.19133,-81.33052,-81.33901,Vascular plants,Juglans cinerea-type,6.0,NISP,pollen,,232.0,,,Radiocarbon years BP,1170.0,321.0,pollen,6/30/2007,327.0,1.83486238532
-9980,East Twin Lake,41.196155,-81.334765,41.20098,41.19133,-81.33052,-81.33901,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,1064.0,,,Radiocarbon years BP,1242.0,321.0,pollen,6/30/2007,411.0,0.243309002433
-9980,East Twin Lake,41.196155,-81.334765,41.20098,41.19133,-81.33052,-81.33901,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,1615.0,,,Radiocarbon years BP,1290.0,321.0,pollen,6/30/2007,418.0,0.239234449761
-9980,East Twin Lake,41.196155,-81.334765,41.20098,41.19133,-81.33052,-81.33901,Vascular plants,Juglans cinerea-type,5.0,NISP,pollen,,2142.0,,,Radiocarbon years BP,1336.0,321.0,pollen,6/30/2007,548.0,0.912408759124
-9980,East Twin Lake,41.196155,-81.334765,41.20098,41.19133,-81.33052,-81.33901,Vascular plants,Juglans cinerea-type,2.0,NISP,pollen,,2234.0,,,Radiocarbon years BP,1344.0,321.0,pollen,6/30/2007,418.0,0.478468899522
-9980,East Twin Lake,41.196155,-81.334765,41.20098,41.19133,-81.33052,-81.33901,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,2605.0,,,Radiocarbon years BP,1376.0,321.0,pollen,6/30/2007,454.0,0.220264317181
-9980,East Twin Lake,41.196155,-81.334765,41.20098,41.19133,-81.33052,-81.33901,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,3115.0,,,Radiocarbon years BP,1420.0,321.0,pollen,6/30/2007,548.0,0.182481751825
-9980,East Twin Lake,41.196155,-81.334765,41.20098,41.19133,-81.33052,-81.33901,Vascular plants,Juglans cinerea-type,4.0,NISP,pollen,,3486.0,,,Radiocarbon years BP,1452.0,321.0,pollen,6/30/2007,464.0,0.862068965517
-9980,East Twin Lake,41.196155,-81.334765,41.20098,41.19133,-81.33052,-81.33901,Vascular plants,Juglans cinerea-type,3.0,NISP,pollen,,4355.0,,,Radiocarbon years BP,1526.0,321.0,pollen,6/30/2007,455.0,0.659340659341
-9980,East Twin Lake,41.196155,-81.334765,41.20098,41.19133,-81.33052,-81.33901,Vascular plants,Juglans cinerea-type,4.0,NISP,pollen,,4839.0,,,Radiocarbon years BP,1558.0,321.0,pollen,6/30/2007,630.0,0.634920634921
-9980,East Twin Lake,41.196155,-81.334765,41.20098,41.19133,-81.33052,-81.33901,Vascular plants,Juglans cinerea-type,10.0,NISP,pollen,,5081.0,,,Radiocarbon years BP,1574.0,321.0,pollen,6/30/2007,636.0,1.57232704403
-9980,East Twin Lake,41.196155,-81.334765,41.20098,41.19133,-81.33052,-81.33901,Vascular plants,Juglans cinerea-type,4.0,NISP,pollen,,5444.0,,,Radiocarbon years BP,1598.0,321.0,pollen,6/30/2007,526.0,0.760456273764
-9980,East Twin Lake,41.196155,-81.334765,41.20098,41.19133,-81.33052,-81.33901,Vascular plants,Juglans cinerea-type,4.0,NISP,pollen,,5868.0,,,Radiocarbon years BP,1626.0,321.0,pollen,6/30/2007,518.0,0.772200772201
-9980,East Twin Lake,41.196155,-81.334765,41.20098,41.19133,-81.33052,-81.33901,Vascular plants,Juglans cinerea-type,2.0,NISP,pollen,,6110.0,,,Radiocarbon years BP,1642.0,321.0,pollen,6/30/2007,541.0,0.369685767098
-9980,East Twin Lake,41.196155,-81.334765,41.20098,41.19133,-81.33052,-81.33901,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,6352.0,,,Radiocarbon years BP,1658.0,321.0,pollen,6/30/2007,522.0,0.191570881226
-9980,East Twin Lake,41.196155,-81.334765,41.20098,41.19133,-81.33052,-81.33901,Vascular plants,Juglans cinerea-type,4.0,NISP,pollen,,6715.0,,,Radiocarbon years BP,1682.0,321.0,pollen,6/30/2007,757.0,0.528401585205
-9980,East Twin Lake,41.196155,-81.334765,41.20098,41.19133,-81.33052,-81.33901,Vascular plants,Juglans cinerea-type,4.0,NISP,pollen,,6957.0,,,Radiocarbon years BP,1698.0,321.0,pollen,6/30/2007,525.0,0.761904761905
-9980,East Twin Lake,41.196155,-81.334765,41.20098,41.19133,-81.33052,-81.33901,Vascular plants,Juglans cinerea-type,7.0,NISP,pollen,,7168.0,,,Radiocarbon years BP,1712.0,321.0,pollen,6/30/2007,655.0,1.06870229008
-9980,East Twin Lake,41.196155,-81.334765,41.20098,41.19133,-81.33052,-81.33901,Vascular plants,Juglans cinerea-type,4.0,NISP,pollen,,7652.0,,,Radiocarbon years BP,1744.0,321.0,pollen,6/30/2007,473.0,0.845665961945
-9980,East Twin Lake,41.196155,-81.334765,41.20098,41.19133,-81.33052,-81.33901,Vascular plants,Juglans cinerea-type,4.0,NISP,pollen,,7894.0,,,Radiocarbon years BP,1760.0,321.0,pollen,6/30/2007,599.0,0.667779632721
-9980,East Twin Lake,41.196155,-81.334765,41.20098,41.19133,-81.33052,-81.33901,Vascular plants,Juglans cinerea-type,4.0,NISP,pollen,,8257.0,,,Radiocarbon years BP,1784.0,321.0,pollen,6/30/2007,605.0,0.661157024793
-9980,East Twin Lake,41.196155,-81.334765,41.20098,41.19133,-81.33052,-81.33901,Vascular plants,Juglans cinerea-type,4.0,NISP,pollen,,8660.0,,,Radiocarbon years BP,1810.0,321.0,pollen,6/30/2007,405.0,0.987654320988
-9980,East Twin Lake,41.196155,-81.334765,41.20098,41.19133,-81.33052,-81.33901,Vascular plants,Juglans cinerea-type,3.0,NISP,pollen,,8942.0,,,Radiocarbon years BP,1826.0,321.0,pollen,6/30/2007,644.0,0.465838509317
-9980,East Twin Lake,41.196155,-81.334765,41.20098,41.19133,-81.33052,-81.33901,Vascular plants,Juglans cinerea-type,2.0,NISP,pollen,,9224.0,,,Radiocarbon years BP,1842.0,321.0,pollen,6/30/2007,727.0,0.275103163686
-9980,East Twin Lake,41.196155,-81.334765,41.20098,41.19133,-81.33052,-81.33901,Vascular plants,Juglans cinerea-type,6.0,NISP,pollen,,9788.0,,,Radiocarbon years BP,1874.0,321.0,pollen,6/30/2007,583.0,1.02915951973
-9980,East Twin Lake,41.196155,-81.334765,41.20098,41.19133,-81.33052,-81.33901,Vascular plants,Juglans cinerea-type,2.0,NISP,pollen,,9929.0,,,Radiocarbon years BP,1882.0,321.0,pollen,6/30/2007,462.0,0.4329004329
-9980,East Twin Lake,41.196155,-81.334765,41.20098,41.19133,-81.33052,-81.33901,Vascular plants,Juglans cinerea-type,2.0,NISP,pollen,,10317.0,,,Radiocarbon years BP,1904.0,321.0,pollen,6/30/2007,683.0,0.292825768668
-9980,East Twin Lake,41.196155,-81.334765,41.20098,41.19133,-81.33052,-81.33901,Vascular plants,Juglans cinerea-type,3.0,NISP,pollen,,10458.0,,,Radiocarbon years BP,1912.0,321.0,pollen,6/30/2007,756.0,0.396825396825
-9980,East Twin Lake,41.196155,-81.334765,41.20098,41.19133,-81.33052,-81.33901,Vascular plants,Juglans cinerea-type,5.0,NISP,pollen,,10740.0,,,Radiocarbon years BP,1928.0,321.0,pollen,6/30/2007,619.0,0.807754442649
-9980,East Twin Lake,41.196155,-81.334765,41.20098,41.19133,-81.33052,-81.33901,Vascular plants,Juglans cinerea-type,2.0,NISP,pollen,,11304.0,,,Radiocarbon years BP,1960.0,321.0,pollen,6/30/2007,802.0,0.249376558603
-9980,East Twin Lake,41.196155,-81.334765,41.20098,41.19133,-81.33052,-81.33901,Vascular plants,Juglans cinerea-type,4.0,NISP,pollen,,11586.0,,,Radiocarbon years BP,1976.0,321.0,pollen,6/30/2007,649.0,0.616332819723
-9980,East Twin Lake,41.196155,-81.334765,41.20098,41.19133,-81.33052,-81.33901,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,12185.0,,,Radiocarbon years BP,2010.0,321.0,pollen,6/30/2007,419.0,0.238663484487
-9980,East Twin Lake,41.196155,-81.334765,41.20098,41.19133,-81.33052,-81.33901,Vascular plants,Juglans cinerea-type,3.0,NISP,pollen,,12467.0,,,Radiocarbon years BP,2026.0,321.0,pollen,6/30/2007,465.0,0.645161290323
-9980,East Twin Lake,41.196155,-81.334765,41.20098,41.19133,-81.33052,-81.33901,Vascular plants,Juglans cinerea-type,4.0,NISP,pollen,,12608.0,,,Radiocarbon years BP,2034.0,321.0,pollen,6/30/2007,367.0,1.08991825613
-9980,East Twin Lake,41.196155,-81.334765,41.20098,41.19133,-81.33052,-81.33901,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,12890.0,,,Radiocarbon years BP,2050.0,321.0,pollen,6/30/2007,500.0,0.2
-828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea-type,2.0,NISP,pollen,,-17.0,,,Radiocarbon years BP,672.0,320.0,pollen,6/30/2007,305.0,0.655737704918
-828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea-type,2.0,NISP,pollen,,234.0,,,Radiocarbon years BP,884.0,320.0,pollen,6/30/2007,335.0,0.597014925373
-828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea-type,3.0,NISP,pollen,,503.0,,,Radiocarbon years BP,916.0,320.0,pollen,6/30/2007,360.0,0.833333333333
-828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea-type,3.0,NISP,pollen,,773.0,,,Radiocarbon years BP,948.0,320.0,pollen,6/30/2007,348.0,0.862068965517
-828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea-type,2.0,NISP,pollen,,1042.0,,,Radiocarbon years BP,980.0,320.0,pollen,6/30/2007,376.0,0.531914893617
-828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,1581.0,,,Radiocarbon years BP,1044.0,320.0,pollen,6/30/2007,365.0,0.27397260274
-828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea-type,2.0,NISP,pollen,,2120.0,,,Radiocarbon years BP,1108.0,320.0,pollen,6/30/2007,342.0,0.584795321637
-828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,2390.0,,,Radiocarbon years BP,1140.0,320.0,pollen,6/30/2007,325.0,0.307692307692
-828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,2659.0,,,Radiocarbon years BP,1172.0,320.0,pollen,6/30/2007,348.0,0.287356321839
-828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea-type,2.0,NISP,pollen,,3602.0,,,Radiocarbon years BP,1284.0,320.0,pollen,6/30/2007,346.0,0.578034682081
-828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea-type,2.0,NISP,pollen,,3872.0,,,Radiocarbon years BP,1316.0,320.0,pollen,6/30/2007,354.0,0.564971751412
-828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea-type,4.0,NISP,pollen,,4006.0,,,Radiocarbon years BP,1332.0,320.0,pollen,6/30/2007,446.0,0.896860986547
-828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,4141.0,,,Radiocarbon years BP,1348.0,320.0,pollen,6/30/2007,374.0,0.267379679144
-828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea-type,2.0,NISP,pollen,,4410.0,,,Radiocarbon years BP,1380.0,320.0,pollen,6/30/2007,443.0,0.451467268623
-828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,4688.0,,,Radiocarbon years BP,1413.0,320.0,pollen,6/30/2007,334.0,0.299401197605
-828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea-type,7.0,NISP,pollen,,5082.0,,,Radiocarbon years BP,1460.0,320.0,pollen,6/30/2007,487.0,1.43737166324
-828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea-type,7.0,NISP,pollen,,5434.0,,,Radiocarbon years BP,1503.0,320.0,pollen,6/30/2007,370.0,1.89189189189
-828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea-type,20.0,NISP,pollen,,5607.0,,,Radiocarbon years BP,1524.0,320.0,pollen,6/30/2007,448.0,4.46428571429
-828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea-type,9.0,NISP,pollen,,5869.0,,,Radiocarbon years BP,1556.0,320.0,pollen,6/30/2007,374.0,2.4064171123
-828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea-type,5.0,NISP,pollen,,6115.0,,,Radiocarbon years BP,1586.0,320.0,pollen,6/30/2007,429.0,1.1655011655
-828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea-type,11.0,NISP,pollen,,6393.0,,,Radiocarbon years BP,1620.0,320.0,pollen,6/30/2007,346.0,3.17919075145
-828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea-type,8.0,NISP,pollen,,6525.0,,,Radiocarbon years BP,1636.0,320.0,pollen,6/30/2007,484.0,1.65289256198
-828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea-type,5.0,NISP,pollen,,6918.0,,,Radiocarbon years BP,1684.0,320.0,pollen,6/30/2007,410.0,1.21951219512
-828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea-type,2.0,NISP,pollen,,7180.0,,,Radiocarbon years BP,1716.0,320.0,pollen,6/30/2007,446.0,0.448430493274
-828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea-type,4.0,NISP,pollen,,7312.0,,,Radiocarbon years BP,1732.0,320.0,pollen,6/30/2007,394.0,1.0152284264
-828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,7705.0,,,Radiocarbon years BP,1780.0,320.0,pollen,6/30/2007,385.0,0.25974025974
-828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea-type,4.0,NISP,pollen,,7967.0,,,Radiocarbon years BP,1812.0,320.0,pollen,6/30/2007,357.0,1.12044817927
-828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,8230.0,,,Radiocarbon years BP,1844.0,320.0,pollen,6/30/2007,428.0,0.233644859813
-828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea-type,2.0,NISP,pollen,,8492.0,,,Radiocarbon years BP,1876.0,320.0,pollen,6/30/2007,453.0,0.441501103753
-828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,8902.0,,,Radiocarbon years BP,1926.0,320.0,pollen,6/30/2007,313.0,0.319488817891
-828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea-type,3.0,NISP,pollen,,9148.0,,,Radiocarbon years BP,1956.0,320.0,pollen,6/30/2007,504.0,0.595238095238
-828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea-type,2.0,NISP,pollen,,9279.0,,,Radiocarbon years BP,1972.0,320.0,pollen,6/30/2007,423.0,0.472813238771
-828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea-type,3.0,NISP,pollen,,9541.0,,,Radiocarbon years BP,2004.0,320.0,pollen,6/30/2007,451.0,0.665188470067
-828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea-type,10.0,NISP,pollen,,9902.0,,,Radiocarbon years BP,2048.0,320.0,pollen,6/30/2007,517.0,1.93423597679
-828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea-type,7.0,NISP,pollen,,10047.0,,,Radiocarbon years BP,2064.0,320.0,pollen,6/30/2007,475.0,1.47368421053
-828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea-type,6.0,NISP,pollen,,10233.0,,,Radiocarbon years BP,2080.0,320.0,pollen,6/30/2007,438.0,1.3698630137
-828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea-type,2.0,NISP,pollen,,10513.0,,,Radiocarbon years BP,2104.0,320.0,pollen,6/30/2007,355.0,0.56338028169
-828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,10607.0,,,Radiocarbon years BP,2112.0,320.0,pollen,6/30/2007,358.0,0.279329608939
-828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,10653.0,,,Radiocarbon years BP,2116.0,320.0,pollen,6/30/2007,349.0,0.286532951289
-828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,10793.0,,,Radiocarbon years BP,2128.0,320.0,pollen,6/30/2007,386.0,0.259067357513
-828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,10887.0,,,Radiocarbon years BP,2136.0,320.0,pollen,6/30/2007,396.0,0.252525252525
-828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,10980.0,,,Radiocarbon years BP,2144.0,320.0,pollen,6/30/2007,435.0,0.229885057471
-828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea-type,2.0,NISP,pollen,,11120.0,,,Radiocarbon years BP,2156.0,320.0,pollen,6/30/2007,418.0,0.478468899522
-828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,11307.0,,,Radiocarbon years BP,2172.0,320.0,pollen,6/30/2007,352.0,0.284090909091
-828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,11493.0,,,Radiocarbon years BP,2188.0,320.0,pollen,6/30/2007,407.0,0.2457002457
-1078,Hostage Lake,46.55,-94.133333,46.55,46.55,-94.133333,-94.133333,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,619.0,,,Radiocarbon years BP,100.0,368.0,pollen,6/30/2007,397.0,0.251889168766
-1078,Hostage Lake,46.55,-94.133333,46.55,46.55,-94.133333,-94.133333,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,1270.0,,,Radiocarbon years BP,180.0,368.0,pollen,6/30/2007,388.0,0.257731958763
-1078,Hostage Lake,46.55,-94.133333,46.55,46.55,-94.133333,-94.133333,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,1432.0,,,Radiocarbon years BP,200.0,368.0,pollen,6/30/2007,370.5,0.269905533063
-1078,Hostage Lake,46.55,-94.133333,46.55,46.55,-94.133333,-94.133333,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,1652.0,,,Radiocarbon years BP,225.0,368.0,pollen,6/30/2007,505.0,0.19801980198
-1078,Hostage Lake,46.55,-94.133333,46.55,46.55,-94.133333,-94.133333,Vascular plants,Juglans cinerea-type,2.0,NISP,pollen,,1939.0,,,Radiocarbon years BP,250.0,368.0,pollen,6/30/2007,321.0,0.623052959502
-1078,Hostage Lake,46.55,-94.133333,46.55,46.55,-94.133333,-94.133333,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,2511.0,,,Radiocarbon years BP,300.0,368.0,pollen,6/30/2007,320.0,0.3125
-1119,Irvin Lake,47.135556,-93.643611,47.135556,47.135556,-93.643611,-93.643611,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,492.0,,,Radiocarbon years BP,20.0,478.0,pollen,6/30/2007,472.0,0.21186440678
-1119,Irvin Lake,47.135556,-93.643611,47.135556,47.135556,-93.643611,-93.643611,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,3477.0,,,Radiocarbon years BP,310.0,478.0,pollen,6/30/2007,362.0,0.276243093923
-1119,Irvin Lake,47.135556,-93.643611,47.135556,47.135556,-93.643611,-93.643611,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,5782.0,,,Radiocarbon years BP,460.0,478.0,pollen,6/30/2007,462.0,0.21645021645
-1119,Irvin Lake,47.135556,-93.643611,47.135556,47.135556,-93.643611,-93.643611,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,10774.0,,,Radiocarbon years BP,778.0,478.0,pollen,6/30/2007,462.0,0.21645021645
-1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,-32.0,,,Radiocarbon years BP,934.0,249.0,pollen,6/30/2007,296.0,0.337837837838
-1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea-type,4.0,NISP,pollen,,95.0,,,Radiocarbon years BP,1078.0,249.0,pollen,6/30/2007,454.0,0.881057268722
-1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea-type,2.0,NISP,pollen,,144.0,,,Radiocarbon years BP,1134.0,249.0,pollen,6/30/2007,512.0,0.390625
-1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea-type,2.0,NISP,pollen,,196.0,,,Radiocarbon years BP,1192.0,249.0,pollen,6/30/2007,444.0,0.45045045045
-1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,710.0,,,Radiocarbon years BP,1234.0,249.0,pollen,6/30/2007,353.0,0.28328611898
-1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea-type,2.0,NISP,pollen,,1152.0,,,Radiocarbon years BP,1266.0,249.0,pollen,6/30/2007,336.0,0.595238095238
-1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea-type,4.0,NISP,pollen,,1594.0,,,Radiocarbon years BP,1298.0,249.0,pollen,6/30/2007,381.0,1.0498687664
-1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea-type,4.0,NISP,pollen,,2090.0,,,Radiocarbon years BP,1334.0,249.0,pollen,6/30/2007,402.0,0.995024875622
-1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea-type,8.0,NISP,pollen,,2532.0,,,Radiocarbon years BP,1366.0,249.0,pollen,6/30/2007,430.0,1.86046511628
-1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,3194.0,,,Radiocarbon years BP,1414.0,249.0,pollen,6/30/2007,394.0,0.253807106599
-1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,3484.0,,,Radiocarbon years BP,1435.0,249.0,pollen,6/30/2007,478.0,0.209205020921
-1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea-type,2.0,NISP,pollen,,3824.0,,,Radiocarbon years BP,1467.0,249.0,pollen,6/30/2007,368.0,0.54347826087
-1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,3994.0,,,Radiocarbon years BP,1499.0,249.0,pollen,6/30/2007,343.0,0.291545189504
-1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea-type,2.0,NISP,pollen,,4078.0,,,Radiocarbon years BP,1515.0,249.0,pollen,6/30/2007,350.0,0.571428571429
-1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea-type,6.0,NISP,pollen,,4164.0,,,Radiocarbon years BP,1531.0,249.0,pollen,6/30/2007,450.0,1.33333333333
-1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea-type,4.0,NISP,pollen,,4270.0,,,Radiocarbon years BP,1551.0,249.0,pollen,6/30/2007,397.0,1.00755667506
-1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea-type,4.0,NISP,pollen,,4355.0,,,Radiocarbon years BP,1567.0,249.0,pollen,6/30/2007,372.0,1.0752688172
-1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,4440.0,,,Radiocarbon years BP,1583.0,249.0,pollen,6/30/2007,355.0,0.281690140845
-1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,4524.0,,,Radiocarbon years BP,1599.0,249.0,pollen,6/30/2007,352.0,0.284090909091
-1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea-type,2.0,NISP,pollen,,4716.0,,,Radiocarbon years BP,1635.0,249.0,pollen,6/30/2007,362.0,0.552486187845
-1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,4801.0,,,Radiocarbon years BP,1651.0,249.0,pollen,6/30/2007,354.0,0.282485875706
-1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea-type,4.0,NISP,pollen,,4886.0,,,Radiocarbon years BP,1667.0,249.0,pollen,6/30/2007,375.0,1.06666666667
-1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea-type,5.0,NISP,pollen,,4970.0,,,Radiocarbon years BP,1683.0,249.0,pollen,6/30/2007,410.0,1.21951219512
-1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea-type,3.0,NISP,pollen,,5055.0,,,Radiocarbon years BP,1699.0,249.0,pollen,6/30/2007,370.0,0.810810810811
-1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea-type,2.0,NISP,pollen,,5140.0,,,Radiocarbon years BP,1715.0,249.0,pollen,6/30/2007,533.0,0.375234521576
-1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea-type,6.0,NISP,pollen,,5246.0,,,Radiocarbon years BP,1735.0,249.0,pollen,6/30/2007,512.0,1.171875
-1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea-type,3.0,NISP,pollen,,5416.0,,,Radiocarbon years BP,1767.0,249.0,pollen,6/30/2007,380.0,0.789473684211
-1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea-type,5.0,NISP,pollen,,5544.0,,,Radiocarbon years BP,1791.0,249.0,pollen,6/30/2007,388.0,1.28865979381
-1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea-type,4.0,NISP,pollen,,5629.0,,,Radiocarbon years BP,1807.0,249.0,pollen,6/30/2007,341.0,1.17302052786
-1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea-type,4.0,NISP,pollen,,5650.0,,,Radiocarbon years BP,1811.0,249.0,pollen,6/30/2007,370.0,1.08108108108
-1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea-type,2.0,NISP,pollen,,5740.0,,,Radiocarbon years BP,1815.0,249.0,pollen,6/30/2007,375.0,0.533333333333
-1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea-type,2.0,NISP,pollen,,5919.0,,,Radiocarbon years BP,1823.0,249.0,pollen,6/30/2007,417.0,0.479616306954
-1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea-type,2.0,NISP,pollen,,6188.0,,,Radiocarbon years BP,1835.0,249.0,pollen,6/30/2007,430.0,0.46511627907
-1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,6546.0,,,Radiocarbon years BP,1851.0,249.0,pollen,6/30/2007,320.0,0.3125
-1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea-type,3.0,NISP,pollen,,6904.0,,,Radiocarbon years BP,1867.0,249.0,pollen,6/30/2007,360.0,0.833333333333
-1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea-type,3.0,NISP,pollen,,7263.0,,,Radiocarbon years BP,1883.0,249.0,pollen,6/30/2007,375.0,0.8
-1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,7621.0,,,Radiocarbon years BP,1899.0,249.0,pollen,6/30/2007,359.0,0.278551532033
-1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,7800.0,,,Radiocarbon years BP,1907.0,249.0,pollen,6/30/2007,398.0,0.251256281407
-1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,8159.0,,,Radiocarbon years BP,1923.0,249.0,pollen,6/30/2007,475.0,0.210526315789
-1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,8786.0,,,Radiocarbon years BP,1951.0,249.0,pollen,6/30/2007,453.0,0.220750551876
-1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea-type,2.0,NISP,pollen,,9525.0,,,Radiocarbon years BP,1984.0,249.0,pollen,6/30/2007,557.0,0.359066427289
-1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,10542.0,,,Radiocarbon years BP,2024.0,249.0,pollen,6/30/2007,419.0,0.238663484487
-1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,11250.0,,,Radiocarbon years BP,2048.0,249.0,pollen,6/30/2007,445.0,0.224719101124
-1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea-type,2.0,NISP,pollen,,11643.0,,,Radiocarbon years BP,2060.0,249.0,pollen,6/30/2007,385.0,0.519480519481
-1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,11905.0,,,Radiocarbon years BP,2068.0,249.0,pollen,6/30/2007,466.0,0.214592274678
-1676,Medicine Lake,44.98419,-97.350125,44.99104,44.97734,-97.33724,-97.36301,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,9360.0,,,Radiocarbon years BP,2288.0,519.0,pollen,6/30/2007,182.0,0.549450549451
-1676,Medicine Lake,44.98419,-97.350125,44.99104,44.97734,-97.33724,-97.36301,Vascular plants,Juglans cinerea-type,2.0,NISP,pollen,,9684.0,,,Radiocarbon years BP,2314.0,519.0,pollen,6/30/2007,148.0,1.35135135135
-1676,Medicine Lake,44.98419,-97.350125,44.99104,44.97734,-97.33724,-97.36301,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,9884.0,,,Radiocarbon years BP,2330.0,519.0,pollen,6/30/2007,167.0,0.59880239521
-1676,Medicine Lake,44.98419,-97.350125,44.99104,44.97734,-97.33724,-97.36301,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,10034.0,,,Radiocarbon years BP,2342.0,519.0,pollen,6/30/2007,194.0,0.515463917526
-1676,Medicine Lake,44.98419,-97.350125,44.99104,44.97734,-97.33724,-97.36301,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,10084.0,,,Radiocarbon years BP,2346.0,519.0,pollen,6/30/2007,154.0,0.649350649351
-1676,Medicine Lake,44.98419,-97.350125,44.99104,44.97734,-97.33724,-97.36301,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,10183.0,,,Radiocarbon years BP,2354.0,519.0,pollen,6/30/2007,200.0,0.5
-1721,Mud Lake (US:Minnesota:Hubbard),46.866667,-94.75,46.866667,46.866667,-94.75,-94.75,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,3631.0,,,Radiocarbon years BP,580.0,424.0,pollen,6/30/2007,239.5,0.417536534447
-1738,Neville Marsh,40.545833,-83.833333,40.545833,40.545833,-83.833333,-83.833333,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,8958.0,,,Radiocarbon years BP,83.0,305.0,pollen,6/30/2007,203.0,0.492610837438
-1738,Neville Marsh,40.545833,-83.833333,40.545833,40.545833,-83.833333,-83.833333,Vascular plants,Juglans cinerea-type,2.0,NISP,pollen,,9372.0,,,Radiocarbon years BP,115.0,305.0,pollen,6/30/2007,458.0,0.436681222707
-1738,Neville Marsh,40.545833,-83.833333,40.545833,40.545833,-83.833333,-83.833333,Vascular plants,Juglans cinerea-type,2.0,NISP,pollen,,9580.0,,,Radiocarbon years BP,131.0,305.0,pollen,6/30/2007,416.0,0.480769230769
-1738,Neville Marsh,40.545833,-83.833333,40.545833,40.545833,-83.833333,-83.833333,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,10111.0,,,Radiocarbon years BP,172.0,305.0,pollen,6/30/2007,521.0,0.191938579655
-1738,Neville Marsh,40.545833,-83.833333,40.545833,40.545833,-83.833333,-83.833333,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,11044.0,,,Radiocarbon years BP,244.0,305.0,pollen,6/30/2007,395.0,0.253164556962
-1738,Neville Marsh,40.545833,-83.833333,40.545833,40.545833,-83.833333,-83.833333,Vascular plants,Juglans cinerea-type,2.0,NISP,pollen,,11251.0,,,Radiocarbon years BP,260.0,305.0,pollen,6/30/2007,187.0,1.06951871658
-1738,Neville Marsh,40.545833,-83.833333,40.545833,40.545833,-83.833333,-83.833333,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,11432.0,,,Radiocarbon years BP,274.0,305.0,pollen,6/30/2007,364.0,0.274725274725
-1738,Neville Marsh,40.545833,-83.833333,40.545833,40.545833,-83.833333,-83.833333,Vascular plants,Juglans cinerea-type,3.0,NISP,pollen,,11808.0,,,Radiocarbon years BP,303.0,305.0,pollen,6/30/2007,446.0,0.67264573991
-1738,Neville Marsh,40.545833,-83.833333,40.545833,40.545833,-83.833333,-83.833333,Vascular plants,Juglans cinerea-type,3.0,NISP,pollen,,12119.0,,,Radiocarbon years BP,327.0,305.0,pollen,6/30/2007,379.0,0.791556728232
-1738,Neville Marsh,40.545833,-83.833333,40.545833,40.545833,-83.833333,-83.833333,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,12430.0,,,Radiocarbon years BP,351.0,305.0,pollen,6/30/2007,375.0,0.266666666667
-1738,Neville Marsh,40.545833,-83.833333,40.545833,40.545833,-83.833333,-83.833333,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,12586.0,,,Radiocarbon years BP,363.0,305.0,pollen,6/30/2007,387.0,0.258397932817
-1827,Peterson Slough,46.966667,-95.316667,46.966667,46.966667,-95.316667,-95.316667,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,3466.0,,,Radiocarbon years BP,450.0,460.0,pollen,6/30/2007,238.6,0.419111483655
-1934,Pyle Site,40.666667,-84.883333,40.666667,40.666667,-84.883333,-84.883333,Vascular plants,Juglans cinerea-type,3.0,NISP,pollen,,8804.0,,,Radiocarbon years BP,160.0,250.0,pollen,6/30/2007,449.0,0.668151447661
-1934,Pyle Site,40.666667,-84.883333,40.666667,40.666667,-84.883333,-84.883333,Vascular plants,Juglans cinerea-type,5.0,NISP,pollen,,9081.0,,,Radiocarbon years BP,180.0,250.0,pollen,6/30/2007,434.0,1.15207373272
-1934,Pyle Site,40.666667,-84.883333,40.666667,40.666667,-84.883333,-84.883333,Vascular plants,Juglans cinerea-type,4.0,NISP,pollen,,9288.0,,,Radiocarbon years BP,195.0,250.0,pollen,6/30/2007,347.0,1.15273775216
-1934,Pyle Site,40.666667,-84.883333,40.666667,40.666667,-84.883333,-84.883333,Vascular plants,Juglans cinerea-type,2.0,NISP,pollen,,9358.0,,,Radiocarbon years BP,200.0,250.0,pollen,6/30/2007,411.0,0.486618004866
-1934,Pyle Site,40.666667,-84.883333,40.666667,40.666667,-84.883333,-84.883333,Vascular plants,Juglans cinerea-type,4.0,NISP,pollen,,9496.0,,,Radiocarbon years BP,210.0,250.0,pollen,6/30/2007,381.0,1.0498687664
-1934,Pyle Site,40.666667,-84.883333,40.666667,40.666667,-84.883333,-84.883333,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,9634.0,,,Radiocarbon years BP,220.0,250.0,pollen,6/30/2007,432.0,0.231481481481
-1934,Pyle Site,40.666667,-84.883333,40.666667,40.666667,-84.883333,-84.883333,Vascular plants,Juglans cinerea-type,4.0,NISP,pollen,,9772.0,,,Radiocarbon years BP,230.0,250.0,pollen,6/30/2007,342.0,1.16959064327
-1934,Pyle Site,40.666667,-84.883333,40.666667,40.666667,-84.883333,-84.883333,Vascular plants,Juglans cinerea-type,8.0,NISP,pollen,,9911.0,,,Radiocarbon years BP,240.0,250.0,pollen,6/30/2007,626.0,1.27795527157
-1934,Pyle Site,40.666667,-84.883333,40.666667,40.666667,-84.883333,-84.883333,Vascular plants,Juglans cinerea-type,3.0,NISP,pollen,,10049.0,,,Radiocarbon years BP,250.0,250.0,pollen,6/30/2007,624.0,0.480769230769
-1934,Pyle Site,40.666667,-84.883333,40.666667,40.666667,-84.883333,-84.883333,Vascular plants,Juglans cinerea-type,8.0,NISP,pollen,,10184.0,,,Radiocarbon years BP,260.0,250.0,pollen,6/30/2007,530.0,1.50943396226
-1934,Pyle Site,40.666667,-84.883333,40.666667,40.666667,-84.883333,-84.883333,Vascular plants,Juglans cinerea-type,3.0,NISP,pollen,,10292.0,,,Radiocarbon years BP,270.0,250.0,pollen,6/30/2007,449.0,0.668151447661
-1934,Pyle Site,40.666667,-84.883333,40.666667,40.666667,-84.883333,-84.883333,Vascular plants,Juglans cinerea-type,3.0,NISP,pollen,,10401.0,,,Radiocarbon years BP,280.0,250.0,pollen,6/30/2007,452.0,0.663716814159
-1934,Pyle Site,40.666667,-84.883333,40.666667,40.666667,-84.883333,-84.883333,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,10597.0,,,Radiocarbon years BP,298.0,250.0,pollen,6/30/2007,431.0,0.232018561485
-1934,Pyle Site,40.666667,-84.883333,40.666667,40.666667,-84.883333,-84.883333,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,10749.0,,,Radiocarbon years BP,312.0,250.0,pollen,6/30/2007,163.0,0.613496932515
-1934,Pyle Site,40.666667,-84.883333,40.666667,40.666667,-84.883333,-84.883333,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,10790.0,,,Radiocarbon years BP,314.0,250.0,pollen,6/30/2007,169.0,0.591715976331
-1934,Pyle Site,40.666667,-84.883333,40.666667,40.666667,-84.883333,-84.883333,Vascular plants,Juglans cinerea-type,2.0,NISP,pollen,,10967.0,,,Radiocarbon years BP,320.0,250.0,pollen,6/30/2007,455.0,0.43956043956
-1934,Pyle Site,40.666667,-84.883333,40.666667,40.666667,-84.883333,-84.883333,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,11264.0,,,Radiocarbon years BP,330.0,250.0,pollen,6/30/2007,444.0,0.225225225225
-1934,Pyle Site,40.666667,-84.883333,40.666667,40.666667,-84.883333,-84.883333,Vascular plants,Juglans cinerea-type,3.0,NISP,pollen,,11856.0,,,Radiocarbon years BP,350.0,250.0,pollen,6/30/2007,477.0,0.62893081761
-1934,Pyle Site,40.666667,-84.883333,40.666667,40.666667,-84.883333,-84.883333,Vascular plants,Juglans cinerea-type,2.0,NISP,pollen,,12588.0,,,Radiocarbon years BP,390.0,250.0,pollen,6/30/2007,407.0,0.4914004914
-1940,Quillin Site,41.0,-81.966667,41.0,41.0,-81.966667,-81.966667,Vascular plants,Juglans cinerea-type,3.0,NISP,pollen,,4854.0,,,Radiocarbon years BP,31.0,305.0,pollen,6/30/2007,450.0,0.666666666667
-1940,Quillin Site,41.0,-81.966667,41.0,41.0,-81.966667,-81.966667,Vascular plants,Juglans cinerea-type,3.0,NISP,pollen,,6318.0,,,Radiocarbon years BP,61.0,305.0,pollen,6/30/2007,395.0,0.759493670886
-1940,Quillin Site,41.0,-81.966667,41.0,41.0,-81.966667,-81.966667,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,7570.0,,,Radiocarbon years BP,91.0,305.0,pollen,6/30/2007,421.0,0.237529691211
-1940,Quillin Site,41.0,-81.966667,41.0,41.0,-81.966667,-81.966667,Vascular plants,Juglans cinerea-type,2.0,NISP,pollen,,7980.0,,,Radiocarbon years BP,102.0,305.0,pollen,6/30/2007,353.0,0.56657223796
-1940,Quillin Site,41.0,-81.966667,41.0,41.0,-81.966667,-81.966667,Vascular plants,Juglans cinerea-type,2.0,NISP,pollen,,8331.0,,,Radiocarbon years BP,112.0,305.0,pollen,6/30/2007,674.0,0.296735905045
-1940,Quillin Site,41.0,-81.966667,41.0,41.0,-81.966667,-81.966667,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,8661.0,,,Radiocarbon years BP,122.0,305.0,pollen,6/30/2007,743.0,0.134589502019
-1940,Quillin Site,41.0,-81.966667,41.0,41.0,-81.966667,-81.966667,Vascular plants,Juglans cinerea-type,3.0,NISP,pollen,,8972.0,,,Radiocarbon years BP,132.0,305.0,pollen,6/30/2007,497.0,0.603621730382
-1940,Quillin Site,41.0,-81.966667,41.0,41.0,-81.966667,-81.966667,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,9538.0,,,Radiocarbon years BP,152.0,305.0,pollen,6/30/2007,982.0,0.10183299389
-1940,Quillin Site,41.0,-81.966667,41.0,41.0,-81.966667,-81.966667,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,9868.0,,,Radiocarbon years BP,165.0,305.0,pollen,6/30/2007,618.0,0.161812297735
-1940,Quillin Site,41.0,-81.966667,41.0,41.0,-81.966667,-81.966667,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,10278.0,,,Radiocarbon years BP,183.0,305.0,pollen,6/30/2007,674.0,0.148367952522
-1940,Quillin Site,41.0,-81.966667,41.0,41.0,-81.966667,-81.966667,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,11031.0,,,Radiocarbon years BP,224.0,305.0,pollen,6/30/2007,451.0,0.221729490022
-1940,Quillin Site,41.0,-81.966667,41.0,41.0,-81.966667,-81.966667,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,11317.0,,,Radiocarbon years BP,244.0,305.0,pollen,6/30/2007,443.0,0.225733634312
-1940,Quillin Site,41.0,-81.966667,41.0,41.0,-81.966667,-81.966667,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,11755.0,,,Radiocarbon years BP,284.0,305.0,pollen,6/30/2007,388.0,0.257731958763
-1940,Quillin Site,41.0,-81.966667,41.0,41.0,-81.966667,-81.966667,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,12414.0,,,Radiocarbon years BP,417.0,305.0,pollen,6/30/2007,379.0,0.263852242744
-1989,Rhule Fen,39.953611,-85.741667,39.953611,39.953611,-85.741667,-85.741667,Vascular plants,Juglans cinerea-type,4.0,NISP,pollen,,9448.0,,,Radiocarbon years BP,545.0,268.0,pollen,6/30/2007,339.0,1.17994100295
-1989,Rhule Fen,39.953611,-85.741667,39.953611,39.953611,-85.741667,-85.741667,Vascular plants,Juglans cinerea-type,4.0,NISP,pollen,,9830.0,,,Radiocarbon years BP,577.0,268.0,pollen,6/30/2007,434.0,0.921658986175
-1989,Rhule Fen,39.953611,-85.741667,39.953611,39.953611,-85.741667,-85.741667,Vascular plants,Juglans cinerea-type,4.0,NISP,pollen,,10309.0,,,Radiocarbon years BP,617.0,268.0,pollen,6/30/2007,452.0,0.884955752212
-1989,Rhule Fen,39.953611,-85.741667,39.953611,39.953611,-85.741667,-85.741667,Vascular plants,Juglans cinerea-type,5.0,NISP,pollen,,10686.0,,,Radiocarbon years BP,645.0,268.0,pollen,6/30/2007,378.0,1.32275132275
-1989,Rhule Fen,39.953611,-85.741667,39.953611,39.953611,-85.741667,-85.741667,Vascular plants,Juglans cinerea-type,2.0,NISP,pollen,,10811.0,,,Radiocarbon years BP,653.0,268.0,pollen,6/30/2007,480.0,0.416666666667
-1989,Rhule Fen,39.953611,-85.741667,39.953611,39.953611,-85.741667,-85.741667,Vascular plants,Juglans cinerea-type,4.0,NISP,pollen,,11059.0,,,Radiocarbon years BP,669.0,268.0,pollen,6/30/2007,580.0,0.689655172414
-1989,Rhule Fen,39.953611,-85.741667,39.953611,39.953611,-85.741667,-85.741667,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,11122.0,,,Radiocarbon years BP,673.0,268.0,pollen,6/30/2007,440.0,0.227272727273
-1989,Rhule Fen,39.953611,-85.741667,39.953611,39.953611,-85.741667,-85.741667,Vascular plants,Juglans cinerea-type,4.0,NISP,pollen,,11308.0,,,Radiocarbon years BP,685.0,268.0,pollen,6/30/2007,480.0,0.833333333333
-1989,Rhule Fen,39.953611,-85.741667,39.953611,39.953611,-85.741667,-85.741667,Vascular plants,Juglans cinerea-type,3.0,NISP,pollen,,11432.0,,,Radiocarbon years BP,693.0,268.0,pollen,6/30/2007,433.0,0.692840646651
-1989,Rhule Fen,39.953611,-85.741667,39.953611,39.953611,-85.741667,-85.741667,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,11588.0,,,Radiocarbon years BP,703.0,268.0,pollen,6/30/2007,474.0,0.210970464135
-1989,Rhule Fen,39.953611,-85.741667,39.953611,39.953611,-85.741667,-85.741667,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,11992.0,,,Radiocarbon years BP,729.0,268.0,pollen,6/30/2007,396.0,0.252525252525
-1989,Rhule Fen,39.953611,-85.741667,39.953611,39.953611,-85.741667,-85.741667,Vascular plants,Juglans cinerea-type,2.0,NISP,pollen,,12240.0,,,Radiocarbon years BP,745.0,268.0,pollen,6/30/2007,375.0,0.533333333333
-2310,Siseebakwet South,47.133333,-93.683333,47.133333,47.133333,-93.683333,-93.683333,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,-28.0,,,Radiocarbon years BP,1.0,436.0,pollen,6/30/2007,417.0,0.239808153477
-2310,Siseebakwet South,47.133333,-93.683333,47.133333,47.133333,-93.683333,-93.683333,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,57.0,,,Radiocarbon years BP,21.0,436.0,pollen,6/30/2007,421.0,0.237529691211
-2310,Siseebakwet South,47.133333,-93.683333,47.133333,47.133333,-93.683333,-93.683333,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,313.0,,,Radiocarbon years BP,81.0,436.0,pollen,6/30/2007,593.5,0.16849199663
-2310,Siseebakwet South,47.133333,-93.683333,47.133333,47.133333,-93.683333,-93.683333,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,398.0,,,Radiocarbon years BP,101.0,436.0,pollen,6/30/2007,397.0,0.251889168766
-2310,Siseebakwet South,47.133333,-93.683333,47.133333,47.133333,-93.683333,-93.683333,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,632.0,,,Radiocarbon years BP,156.0,436.0,pollen,6/30/2007,389.0,0.25706940874
-2494,Smoot Lake Bog,40.205556,-82.445833,40.205556,40.205556,-82.445833,-82.445833,Vascular plants,Juglans cinerea-type,6.0,NISP,pollen,,7269.0,,,Radiocarbon years BP,766.0,292.0,pollen,6/30/2007,378.0,1.5873015873
-2494,Smoot Lake Bog,40.205556,-82.445833,40.205556,40.205556,-82.445833,-82.445833,Vascular plants,Juglans cinerea-type,5.0,NISP,pollen,,9344.0,,,Radiocarbon years BP,834.0,292.0,pollen,6/30/2007,408.0,1.22549019608
-2494,Smoot Lake Bog,40.205556,-82.445833,40.205556,40.205556,-82.445833,-82.445833,Vascular plants,Juglans cinerea-type,4.0,NISP,pollen,,10138.0,,,Radiocarbon years BP,860.0,292.0,pollen,6/30/2007,498.0,0.803212851406
-2494,Smoot Lake Bog,40.205556,-82.445833,40.205556,40.205556,-82.445833,-82.445833,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,11481.0,,,Radiocarbon years BP,904.0,292.0,pollen,6/30/2007,374.0,0.267379679144
-2494,Smoot Lake Bog,40.205556,-82.445833,40.205556,40.205556,-82.445833,-82.445833,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,12213.0,,,Radiocarbon years BP,928.0,292.0,pollen,6/30/2007,449.0,0.22271714922
-1814,Pogonia Bog Pond,45.03503,-93.6305,45.03619,45.03387,-93.62724,-93.63376,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,-24.0,,,Radiocarbon years BP,240.0,292.0,pollen,6/30/2007,410.5,0.243605359318
-1814,Pogonia Bog Pond,45.03503,-93.6305,45.03619,45.03387,-93.62724,-93.63376,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,-7.0,,,Radiocarbon years BP,250.0,292.0,pollen,6/30/2007,323.5,0.309119010819
-1814,Pogonia Bog Pond,45.03503,-93.6305,45.03619,45.03387,-93.62724,-93.63376,Vascular plants,Juglans cinerea-type,2.0,NISP,pollen,,9.0,,,Radiocarbon years BP,260.0,292.0,pollen,6/30/2007,525.5,0.380589914367
-1814,Pogonia Bog Pond,45.03503,-93.6305,45.03619,45.03387,-93.62724,-93.63376,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,26.0,,,Radiocarbon years BP,270.0,292.0,pollen,6/30/2007,377.0,0.26525198939
-1814,Pogonia Bog Pond,45.03503,-93.6305,45.03619,45.03387,-93.62724,-93.63376,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,93.0,,,Radiocarbon years BP,310.0,292.0,pollen,6/30/2007,395.0,0.253164556962
-1814,Pogonia Bog Pond,45.03503,-93.6305,45.03619,45.03387,-93.62724,-93.63376,Vascular plants,Juglans cinerea-type,3.0,NISP,pollen,,110.0,,,Radiocarbon years BP,320.0,292.0,pollen,6/30/2007,782.5,0.38338658147
-1814,Pogonia Bog Pond,45.03503,-93.6305,45.03619,45.03387,-93.62724,-93.63376,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,129.0,,,Radiocarbon years BP,330.0,292.0,pollen,6/30/2007,471.0,0.212314225053
-1814,Pogonia Bog Pond,45.03503,-93.6305,45.03619,45.03387,-93.62724,-93.63376,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,157.0,,,Radiocarbon years BP,345.0,292.0,pollen,6/30/2007,753.0,0.132802124834
-1814,Pogonia Bog Pond,45.03503,-93.6305,45.03619,45.03387,-93.62724,-93.63376,Vascular plants,Juglans cinerea-type,2.0,NISP,pollen,,213.0,,,Radiocarbon years BP,375.0,292.0,pollen,6/30/2007,511.0,0.391389432485
-1814,Pogonia Bog Pond,45.03503,-93.6305,45.03619,45.03387,-93.62724,-93.63376,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,367.0,,,Radiocarbon years BP,425.0,292.0,pollen,6/30/2007,437.0,0.228832951945
-1814,Pogonia Bog Pond,45.03503,-93.6305,45.03619,45.03387,-93.62724,-93.63376,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,1908.0,,,Radiocarbon years BP,785.0,292.0,pollen,6/30/2007,285.5,0.350262697023
-1814,Pogonia Bog Pond,45.03503,-93.6305,45.03619,45.03387,-93.62724,-93.63376,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,2637.0,,,Radiocarbon years BP,965.0,292.0,pollen,6/30/2007,336.5,0.297176820208
-1814,Pogonia Bog Pond,45.03503,-93.6305,45.03619,45.03387,-93.62724,-93.63376,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,2752.0,,,Radiocarbon years BP,1005.0,292.0,pollen,6/30/2007,305.0,0.327868852459
-1814,Pogonia Bog Pond,45.03503,-93.6305,45.03619,45.03387,-93.62724,-93.63376,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,2868.0,,,Radiocarbon years BP,1045.0,292.0,pollen,6/30/2007,340.0,0.294117647059
-1814,Pogonia Bog Pond,45.03503,-93.6305,45.03619,45.03387,-93.62724,-93.63376,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,2926.0,,,Radiocarbon years BP,1065.0,292.0,pollen,6/30/2007,372.0,0.268817204301
-1814,Pogonia Bog Pond,45.03503,-93.6305,45.03619,45.03387,-93.62724,-93.63376,Vascular plants,Juglans cinerea-type,3.0,NISP,pollen,,3042.0,,,Radiocarbon years BP,1105.0,292.0,pollen,6/30/2007,406.0,0.738916256158
-1814,Pogonia Bog Pond,45.03503,-93.6305,45.03619,45.03387,-93.62724,-93.63376,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,3818.0,,,Radiocarbon years BP,1325.0,292.0,pollen,6/30/2007,456.5,0.219058050383
-1814,Pogonia Bog Pond,45.03503,-93.6305,45.03619,45.03387,-93.62724,-93.63376,Vascular plants,Juglans cinerea-type,2.0,NISP,pollen,,5605.0,,,Radiocarbon years BP,1505.0,292.0,pollen,6/30/2007,444.0,0.45045045045
-1814,Pogonia Bog Pond,45.03503,-93.6305,45.03619,45.03387,-93.62724,-93.63376,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,6002.0,,,Radiocarbon years BP,1545.0,292.0,pollen,6/30/2007,308.5,0.32414910859
-1814,Pogonia Bog Pond,45.03503,-93.6305,45.03619,45.03387,-93.62724,-93.63376,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,8063.0,,,Radiocarbon years BP,1670.0,292.0,pollen,6/30/2007,525.0,0.190476190476
-1814,Pogonia Bog Pond,45.03503,-93.6305,45.03619,45.03387,-93.62724,-93.63376,Vascular plants,Juglans cinerea-type,3.0,NISP,pollen,,8426.0,,,Radiocarbon years BP,1690.0,292.0,pollen,6/30/2007,488.0,0.614754098361
-1814,Pogonia Bog Pond,45.03503,-93.6305,45.03619,45.03387,-93.62724,-93.63376,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,9151.0,,,Radiocarbon years BP,1730.0,292.0,pollen,6/30/2007,435.5,0.229621125144
-1814,Pogonia Bog Pond,45.03503,-93.6305,45.03619,45.03387,-93.62724,-93.63376,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,9877.0,,,Radiocarbon years BP,1770.0,292.0,pollen,6/30/2007,361.0,0.277008310249
-6506,South Heron Lake,43.7195,-95.228,43.75,43.689,-95.186,-95.27,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,-10.0,,,Calendar years BP,1.0,428.0,pollen,12/6/2013,328.0,0.30487804878
-6511,Blomford Lake,45.4935,-93.1545,45.496,45.491,-93.152,-93.157,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,-20.0,,,Calendar years BP,1.0,291.0,pollen,12/11/2013,773.0,0.12936610608
-6511,Blomford Lake,45.4935,-93.1545,45.496,45.491,-93.152,-93.157,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,282.0,,,Calendar years BP,30.0,291.0,pollen,12/11/2013,525.5,0.190294957184
-6511,Blomford Lake,45.4935,-93.1545,45.496,45.491,-93.152,-93.157,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,1322.0,,,Calendar years BP,130.0,291.0,pollen,12/11/2013,377.0,0.26525198939
-6512,Fawn Lake,45.4072,-93.0532,45.4099,45.4045,-93.0494,-93.057,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,-26.0,,,Calendar years BP,1.0,274.0,pollen,12/11/2013,829.0,0.120627261761
-6512,Fawn Lake,45.4072,-93.0532,45.4099,45.4045,-93.0494,-93.057,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,13.0,,,Calendar years BP,10.0,274.0,pollen,12/11/2013,584.5,0.171086398631
-6512,Fawn Lake,45.4072,-93.0532,45.4099,45.4045,-93.0494,-93.057,Vascular plants,Juglans cinerea-type,2.0,NISP,pollen,,57.0,,,Calendar years BP,20.0,274.0,pollen,12/11/2013,652.5,0.306513409962
-6512,Fawn Lake,45.4072,-93.0532,45.4099,45.4045,-93.0494,-93.057,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,403.0,,,Calendar years BP,100.0,274.0,pollen,12/11/2013,601.0,0.166389351082
-6513,Frovold Lake,45.377,-95.5625,45.38,45.374,-95.557,-95.568,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,230.0,,,Calendar years BP,50.0,318.0,pollen,12/11/2013,347.0,0.28818443804
-6514,Goose Lake,44.99,-94.591,44.995,44.985,-94.586,-94.596,Vascular plants,Juglans cinerea-type,2.0,NISP,pollen,,-17.0,,,Calendar years BP,5.0,334.0,pollen,12/12/2013,689.5,0.290065264685
-6514,Goose Lake,44.99,-94.591,44.995,44.985,-94.586,-94.596,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,4.0,,,Calendar years BP,15.0,334.0,pollen,12/12/2013,214.0,0.467289719626
-6514,Goose Lake,44.99,-94.591,44.995,44.985,-94.586,-94.596,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,15.0,,,Calendar years BP,20.0,334.0,pollen,12/12/2013,378.5,0.264200792602
-6514,Goose Lake,44.99,-94.591,44.995,44.985,-94.586,-94.596,Vascular plants,Juglans cinerea-type,2.0,NISP,pollen,,25.0,,,Calendar years BP,25.0,334.0,pollen,12/12/2013,383.5,0.521512385919
-6514,Goose Lake,44.99,-94.591,44.995,44.985,-94.586,-94.596,Vascular plants,Juglans cinerea-type,2.0,NISP,pollen,,36.0,,,Calendar years BP,30.0,334.0,pollen,12/12/2013,430.5,0.464576074332
-6514,Goose Lake,44.99,-94.591,44.995,44.985,-94.586,-94.596,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,47.0,,,Calendar years BP,35.0,334.0,pollen,12/12/2013,370.5,0.269905533063
-6514,Goose Lake,44.99,-94.591,44.995,44.985,-94.586,-94.596,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,57.0,,,Calendar years BP,40.0,334.0,pollen,12/12/2013,267.5,0.373831775701
-6514,Goose Lake,44.99,-94.591,44.995,44.985,-94.586,-94.596,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,68.0,,,Calendar years BP,45.0,334.0,pollen,12/12/2013,243.5,0.41067761807
-6514,Goose Lake,44.99,-94.591,44.995,44.985,-94.586,-94.596,Vascular plants,Juglans cinerea-type,2.0,NISP,pollen,,100.0,,,Calendar years BP,60.0,334.0,pollen,12/12/2013,1233.0,0.162206001622
-6514,Goose Lake,44.99,-94.591,44.995,44.985,-94.586,-94.596,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,121.0,,,Calendar years BP,70.0,334.0,pollen,12/12/2013,446.5,0.223964165733
-6514,Goose Lake,44.99,-94.591,44.995,44.985,-94.586,-94.596,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,143.0,,,Calendar years BP,80.0,334.0,pollen,12/12/2013,310.5,0.322061191626
-6514,Goose Lake,44.99,-94.591,44.995,44.985,-94.586,-94.596,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,217.0,,,Calendar years BP,115.0,334.0,pollen,12/12/2013,363.5,0.275103163686
-6515,Olson Lake,46.51205,-93.66005,46.5137,46.5104,-93.6582,-93.6619,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,143.0,,,Calendar years BP,1060.0,379.0,pollen,12/12/2013,661.5,0.151171579743
-6515,Olson Lake,46.51205,-93.66005,46.5137,46.5104,-93.6582,-93.6619,Vascular plants,Juglans cinerea-type,3.0,NISP,pollen,,1295.0,,,Calendar years BP,1330.0,379.0,pollen,12/12/2013,781.0,0.384122919334
-6515,Olson Lake,46.51205,-93.66005,46.5137,46.5104,-93.6582,-93.6619,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,1465.0,,,Calendar years BP,1370.0,379.0,pollen,12/12/2013,642.5,0.155642023346
-6521,Round Grove Lake,44.709,-94.4935,44.718,44.7,-94.487,-94.5,Vascular plants,Juglans cinerea-type,2.0,NISP,pollen,,32.0,,,Calendar years BP,20.0,318.0,pollen,12/17/2013,514.0,0.389105058366
-6521,Round Grove Lake,44.709,-94.4935,44.718,44.7,-94.487,-94.5,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,108.0,,,Calendar years BP,45.0,318.0,pollen,12/17/2013,672.5,0.148698884758
-6521,Round Grove Lake,44.709,-94.4935,44.718,44.7,-94.487,-94.5,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,183.0,,,Calendar years BP,70.0,318.0,pollen,12/17/2013,340.0,0.294117647059
-7531,Last Lake,45.45,-95.24005,45.4519,45.4481,-95.2363,-95.2438,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,270.0,,,Calendar years BP,50.0,396.0,pollen,2/10/2014,313.0,0.319488817891
-7531,Last Lake,45.45,-95.24005,45.4519,45.4481,-95.2363,-95.2438,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,570.0,,,Calendar years BP,100.0,396.0,pollen,2/10/2014,366.0,0.273224043716
-7531,Last Lake,45.45,-95.24005,45.4519,45.4481,-95.2363,-95.2438,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,750.0,,,Calendar years BP,130.0,396.0,pollen,2/10/2014,321.0,0.311526479751
-7532,Cottonwood Lake,44.6173,-95.68015,44.6243,44.6103,-95.6684,-95.6919,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,24.0,,,Calendar years BP,10.0,324.0,pollen,2/13/2014,129.0,0.77519379845
-7533,Monson Lake,45.324,-95.27935,45.33,45.318,-95.269,-95.2897,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,-27.0,,,Calendar years BP,2.0,376.0,pollen,2/13/2014,1390.5,0.0719165767709
-7533,Monson Lake,45.324,-95.27935,45.33,45.318,-95.269,-95.2897,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,141.0,,,Calendar years BP,100.0,376.0,pollen,2/13/2014,494.0,0.202429149798
-7534,Deans Lake,44.77528,-93.44692,44.77926,44.7713,-93.4366,-93.45724,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,209.0,,,Calendar years BP,100.0,228.0,pollen,2/13/2014,645.5,0.154918667699
-7534,Deans Lake,44.77528,-93.44692,44.77926,44.7713,-93.4366,-93.45724,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,733.0,,,Calendar years BP,320.0,228.0,pollen,2/13/2014,811.0,0.123304562269
-7535,Lake Emily,44.30865,-93.92,44.3135,44.3038,-93.9138,-93.9262,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,30.0,,,Calendar years BP,70.0,302.0,pollen,2/13/2014,315.0,0.31746031746
-7535,Lake Emily,44.30865,-93.92,44.3135,44.3038,-93.9138,-93.9262,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,55.0,,,Calendar years BP,100.0,302.0,pollen,2/13/2014,362.0,0.276243093923
-7535,Lake Emily,44.30865,-93.92,44.3135,44.3038,-93.9138,-93.9262,Vascular plants,Juglans cinerea-type,3.0,NISP,pollen,,72.0,,,Calendar years BP,120.0,302.0,pollen,2/13/2014,299.5,1.00166944908
-7535,Lake Emily,44.30865,-93.92,44.3135,44.3038,-93.9138,-93.9262,Vascular plants,Juglans cinerea-type,4.0,NISP,pollen,,80.0,,,Calendar years BP,130.0,302.0,pollen,2/13/2014,290.0,1.37931034483
-7535,Lake Emily,44.30865,-93.92,44.3135,44.3038,-93.9138,-93.9262,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,133.0,,,Calendar years BP,193.0,302.0,pollen,2/13/2014,348.0,0.287356321839
-7536,Perch Lake,46.19165,-95.4687,46.1959,46.1874,-95.465,-95.4724,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,66.0,,,Calendar years BP,60.0,477.0,pollen,2/13/2014,373.0,0.268096514745
-7538,Lake Rachel,45.80155,-95.55285,45.8078,45.7953,-95.5441,-95.5616,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,173.0,,,Calendar years BP,55.0,415.0,pollen,2/14/2014,561.5,0.178094390027
-7538,Lake Rachel,45.80155,-95.55285,45.8078,45.7953,-95.5441,-95.5616,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,210.0,,,Calendar years BP,65.0,415.0,pollen,2/14/2014,517.5,0.193236714976
-7540,Mud Lake,45.8576,-95.4609,45.8607,45.8545,-95.4561,-95.4657,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,86.0,,,Calendar years BP,65.0,415.0,pollen,2/15/2014,407.0,0.2457002457
-7540,Mud Lake,45.8576,-95.4609,45.8607,45.8545,-95.4561,-95.4657,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,139.0,,,Calendar years BP,95.0,415.0,pollen,2/15/2014,314.0,0.31847133758
-7540,Mud Lake,45.8576,-95.4609,45.8607,45.8545,-95.4561,-95.4657,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,157.0,,,Calendar years BP,105.0,415.0,pollen,2/15/2014,499.5,0.2002002002
-7540,Mud Lake,45.8576,-95.4609,45.8607,45.8545,-95.4561,-95.4657,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,166.0,,,Calendar years BP,110.0,415.0,pollen,2/15/2014,609.0,0.164203612479
-7540,Mud Lake,45.8576,-95.4609,45.8607,45.8545,-95.4561,-95.4657,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,237.0,,,Calendar years BP,150.0,415.0,pollen,2/15/2014,278.5,0.359066427289
-7540,Mud Lake,45.8576,-95.4609,45.8607,45.8545,-95.4561,-95.4657,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,272.0,,,Calendar years BP,170.0,415.0,pollen,2/15/2014,355.5,0.28129395218
-7541,Lybeck Lake,45.6745,-95.7125,45.679,45.67,-95.708,-95.717,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,49.0,,,Calendar years BP,35.0,356.0,pollen,2/15/2014,356.5,0.280504908836
-7541,Lybeck Lake,45.6745,-95.7125,45.679,45.67,-95.708,-95.717,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,131.0,,,Calendar years BP,70.0,356.0,pollen,2/15/2014,334.0,0.299401197605
-7542,Union Lake,45.81725,-95.34235,45.8207,45.8138,-95.3363,-95.3484,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,-27.0,,,Calendar years BP,1.0,423.0,pollen,2/15/2014,437.5,0.228571428571
-7542,Union Lake,45.81725,-95.34235,45.8207,45.8138,-95.3363,-95.3484,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,330.0,,,Calendar years BP,120.0,423.0,pollen,2/15/2014,413.0,0.242130750605
-7542,Union Lake,45.81725,-95.34235,45.8207,45.8138,-95.3363,-95.3484,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,420.0,,,Calendar years BP,150.0,423.0,pollen,2/15/2014,453.0,0.220750551876
-7543,Albert Lea Lake,43.65255,-93.284,43.6582,43.6469,-93.2786,-93.2894,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,-27.0,,,Calendar years BP,1.0,369.0,pollen,2/16/2014,644.5,0.155159038014
-7543,Albert Lea Lake,43.65255,-93.284,43.6582,43.6469,-93.2786,-93.2894,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,166.0,,,Calendar years BP,90.0,369.0,pollen,2/16/2014,343.0,0.291545189504
-7543,Albert Lea Lake,43.65255,-93.284,43.6582,43.6469,-93.2786,-93.2894,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,209.0,,,Calendar years BP,110.0,369.0,pollen,2/16/2014,385.5,0.259403372244
-7549,Everhart Lake,43.6176,-93.43875,43.6198,43.6154,-93.4351,-93.4424,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,49.0,,,Calendar years BP,25.0,392.0,pollen,3/15/2014,416.5,0.240096038415
-7549,Everhart Lake,43.6176,-93.43875,43.6198,43.6154,-93.4351,-93.4424,Vascular plants,Juglans cinerea-type,2.0,NISP,pollen,,363.0,,,Calendar years BP,125.0,392.0,pollen,3/15/2014,225.5,0.886917960089
-8565,Oak Glen Lake,43.92945,-93.0815,43.9343,43.9246,-93.0754,-93.0876,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,-29.0,,,Calendar years BP,165.0,391.0,pollen,4/27/2014,933.5,0.107123727906
-8565,Oak Glen Lake,43.92945,-93.0815,43.9343,43.9246,-93.0754,-93.0876,Vascular plants,Juglans cinerea-type,2.0,NISP,pollen,,86.0,,,Calendar years BP,212.0,391.0,pollen,4/27/2014,511.5,0.39100684262
-8565,Oak Glen Lake,43.92945,-93.0815,43.9343,43.9246,-93.0754,-93.0876,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,94.0,,,Calendar years BP,215.0,391.0,pollen,4/27/2014,513.5,0.194741966894
-8565,Oak Glen Lake,43.92945,-93.0815,43.9343,43.9246,-93.0754,-93.0876,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,180.0,,,Calendar years BP,250.0,391.0,pollen,4/27/2014,600.5,0.166527893422
-8566,Camp Lake,45.40595,-95.39015,45.4133,45.3986,-95.3823,-95.398,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,-27.0,,,Calendar years BP,1.0,344.0,pollen,4/30/2014,595.0,0.168067226891
-8566,Camp Lake,45.40595,-95.39015,45.4133,45.3986,-95.3823,-95.398,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,107.0,,,Calendar years BP,40.0,344.0,pollen,4/30/2014,776.0,0.128865979381
-9735,Lake Sallie,46.77186,-95.896225,46.78554,46.75818,-95.87992,-95.91253,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,53.0,,,Calendar years BP,41.0,405.0,pollen,8/13/2014,310.0,0.322580645161
-9762,Johnson Lake,45.44376,-95.272065,45.44663,45.44089,-95.26753,-95.2766,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,130.0,,,Calendar years BP,40.0,364.0,pollen,8/18/2014,492.0,0.20325203252
-9762,Johnson Lake,45.44376,-95.272065,45.44663,45.44089,-95.26753,-95.2766,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,210.0,,,Calendar years BP,60.0,364.0,pollen,8/18/2014,591.0,0.169204737733
-10091,Elk Lake,47.18919,-95.21787,47.19675,47.18163,-95.2095,-95.22624,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,-28.0,,,Calendar years BP,0.0,449.0,pollen,1/17/2015,198.5,0.503778337531
-10091,Elk Lake,47.18919,-95.21787,47.19675,47.18163,-95.2095,-95.22624,Vascular plants,Juglans cinerea-type,2.0,NISP,pollen,,33.0,,,Calendar years BP,21.0,449.0,pollen,2/10/2015,326.0,0.613496932515
-10091,Elk Lake,47.18919,-95.21787,47.19675,47.18163,-95.2095,-95.22624,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,53.0,,,Calendar years BP,29.0,449.0,pollen,2/10/2015,306.5,0.326264274062
-10121,St. Clair Lake,46.80338,-95.88068,46.80944,46.79732,-95.87523,-95.88613,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,45.0,,,Calendar years BP,35.0,407.0,pollen,2/11/2015,384.5,0.260078023407
-10121,St. Clair Lake,46.80338,-95.88068,46.80944,46.79732,-95.87523,-95.88613,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,71.0,,,Calendar years BP,49.0,407.0,pollen,2/11/2015,345.0,0.289855072464
-10121,St. Clair Lake,46.80338,-95.88068,46.80944,46.79732,-95.87523,-95.88613,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,111.0,,,Calendar years BP,71.0,407.0,pollen,2/11/2015,631.0,0.158478605388
-841,George Lake,44.2329,-93.87066,44.23611,44.22969,-93.86559,-93.87573,Vascular plants,Juglans cinerea-type,2.0,NISP,pollen,,-10.0,,,Calendar years BP,1.0,301.0,pollen,2/14/2015,474.0,0.42194092827
-841,George Lake,44.2329,-93.87066,44.23611,44.22969,-93.86559,-93.87573,Vascular plants,Juglans cinerea-type,3.0,NISP,pollen,,69.0,,,Calendar years BP,30.0,301.0,pollen,2/14/2015,544.0,0.551470588235
-841,George Lake,44.2329,-93.87066,44.23611,44.22969,-93.86559,-93.87573,Vascular plants,Juglans cinerea-type,7.0,NISP,pollen,,83.0,,,Calendar years BP,35.0,301.0,pollen,2/14/2015,439.0,1.59453302961
-841,George Lake,44.2329,-93.87066,44.23611,44.22969,-93.86559,-93.87573,Vascular plants,Juglans cinerea-type,8.0,NISP,pollen,,97.0,,,Calendar years BP,40.0,301.0,pollen,2/14/2015,614.0,1.30293159609
-841,George Lake,44.2329,-93.87066,44.23611,44.22969,-93.86559,-93.87573,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,179.0,,,Calendar years BP,70.0,301.0,pollen,2/14/2015,474.0,0.210970464135
-841,George Lake,44.2329,-93.87066,44.23611,44.22969,-93.86559,-93.87573,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,234.0,,,Calendar years BP,90.0,301.0,pollen,2/14/2015,504.0,0.198412698413
-841,George Lake,44.2329,-93.87066,44.23611,44.22969,-93.86559,-93.87573,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,275.0,,,Calendar years BP,105.0,301.0,pollen,2/14/2015,525.0,0.190476190476
-10134,Little Horseshoe Lake,45.590765,-93.06903,45.59348,45.58805,-93.06507,-93.07299,Vascular plants,Juglans cinerea-type,6.0,NISP,pollen,,-27.0,,,Calendar years BP,1.0,281.0,pollen,2/21/2015,939.5,0.638637573177
-10134,Little Horseshoe Lake,45.590765,-93.06903,45.59348,45.58805,-93.06507,-93.07299,Vascular plants,Juglans cinerea-type,5.0,NISP,pollen,,-1.0,,,Calendar years BP,10.0,281.0,pollen,2/21/2015,775.0,0.645161290323
-10134,Little Horseshoe Lake,45.590765,-93.06903,45.59348,45.58805,-93.06507,-93.07299,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,27.0,,,Calendar years BP,20.0,281.0,pollen,2/21/2015,484.0,0.206611570248
-10134,Little Horseshoe Lake,45.590765,-93.06903,45.59348,45.58805,-93.06507,-93.07299,Vascular plants,Juglans cinerea-type,4.0,NISP,pollen,,56.0,,,Calendar years BP,30.0,281.0,pollen,2/21/2015,566.0,0.706713780919
-10134,Little Horseshoe Lake,45.590765,-93.06903,45.59348,45.58805,-93.06507,-93.07299,Vascular plants,Juglans cinerea-type,5.5,NISP,pollen,,84.0,,,Calendar years BP,40.0,281.0,pollen,2/21/2015,886.5,0.620417371686
-10134,Little Horseshoe Lake,45.590765,-93.06903,45.59348,45.58805,-93.06507,-93.07299,Vascular plants,Juglans cinerea-type,2.5,NISP,pollen,,113.0,,,Calendar years BP,50.0,281.0,pollen,2/21/2015,556.5,0.449236298293
-10134,Little Horseshoe Lake,45.590765,-93.06903,45.59348,45.58805,-93.06507,-93.07299,Vascular plants,Juglans cinerea-type,2.0,NISP,pollen,,141.0,,,Calendar years BP,60.0,281.0,pollen,2/21/2015,551.0,0.362976406534
-10134,Little Horseshoe Lake,45.590765,-93.06903,45.59348,45.58805,-93.06507,-93.07299,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,199.0,,,Calendar years BP,80.0,281.0,pollen,2/21/2015,585.0,0.17094017094
-7532,Cottonwood Lake,44.6173,-95.68015,44.6243,44.6103,-95.6684,-95.6919,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,,,,,15.0,324.0,pollen,2/22/2015,376.0,0.265957446809
-7532,Cottonwood Lake,44.6173,-95.68015,44.6243,44.6103,-95.6684,-95.6919,Vascular plants,Juglans cinerea-type,2.0,NISP,pollen,,,,,,35.0,324.0,pollen,2/22/2015,277.0,0.72202166065
-7532,Cottonwood Lake,44.6173,-95.68015,44.6243,44.6103,-95.6684,-95.6919,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,,,,,40.0,324.0,pollen,2/22/2015,462.0,0.21645021645
-10135,Cora Lake,46.165285,-95.32412,46.16933,46.16124,-95.31979,-95.32845,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,96.0,,,Calendar years BP,40.0,586.0,pollen,2/23/2015,208.5,0.479616306954
-10135,Cora Lake,46.165285,-95.32412,46.16933,46.16124,-95.31979,-95.32845,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,158.0,,,Calendar years BP,60.0,586.0,pollen,2/23/2015,335.5,0.298062593145
-10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,-24.0,,,Calendar years BP,2.5,294.0,pollen,2/27/2015,370.0,0.27027027027
-10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Juglans cinerea-type,2.0,NISP,pollen,,-19.0,,,Calendar years BP,6.2,294.0,pollen,2/27/2015,389.0,0.514138817481
-10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,-8.0,,,Calendar years BP,14.8,294.0,pollen,2/27/2015,538.0,0.185873605948
-10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,0.0,,,Calendar years BP,20.7,294.0,pollen,2/27/2015,228.0,0.438596491228
-10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Juglans cinerea-type,2.0,NISP,pollen,,2.0,,,Calendar years BP,22.0,294.0,pollen,2/27/2015,449.0,0.445434298441
-10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Juglans cinerea-type,2.0,NISP,pollen,,8.0,,,Calendar years BP,26.8,294.0,pollen,2/27/2015,217.0,0.921658986175
-10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,10.0,,,Calendar years BP,28.5,294.0,pollen,2/27/2015,290.0,0.344827586207
-10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,13.0,,,Calendar years BP,30.2,294.0,pollen,2/27/2015,426.0,0.234741784038
-10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,17.0,,,Calendar years BP,33.6,294.0,pollen,2/27/2015,315.0,0.31746031746
-10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,26.0,,,Calendar years BP,40.0,294.0,pollen,2/27/2015,393.0,0.254452926209
-10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,28.0,,,Calendar years BP,42.0,294.0,pollen,2/27/2015,522.0,0.191570881226
-10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,31.0,,,Calendar years BP,44.0,294.0,pollen,2/27/2015,568.0,0.176056338028
-10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Juglans cinerea-type,2.0,NISP,pollen,,33.0,,,Calendar years BP,46.0,294.0,pollen,2/27/2015,383.0,0.522193211488
-10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Juglans cinerea-type,2.0,NISP,pollen,,44.0,,,Calendar years BP,54.0,294.0,pollen,2/27/2015,328.0,0.609756097561
-10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Juglans cinerea-type,3.0,NISP,pollen,,46.0,,,Calendar years BP,55.3,294.0,pollen,2/27/2015,268.0,1.11940298507
-10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,50.0,,,Calendar years BP,58.8,294.0,pollen,2/27/2015,244.0,0.409836065574
-10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,62.0,,,Calendar years BP,68.0,294.0,pollen,2/27/2015,249.0,0.401606425703
-10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Juglans cinerea-type,2.0,NISP,pollen,,76.0,,,Calendar years BP,78.4,294.0,pollen,2/27/2015,268.0,0.746268656716
-10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,80.0,,,Calendar years BP,81.3,294.0,pollen,2/27/2015,393.0,0.254452926209
-10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,80.0,,,Calendar years BP,81.8,294.0,pollen,2/27/2015,462.0,0.21645021645
-10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Juglans cinerea-type,2.0,NISP,pollen,,81.0,,,Calendar years BP,82.0,294.0,pollen,2/27/2015,404.0,0.49504950495
-10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,81.0,,,Calendar years BP,82.2,294.0,pollen,2/27/2015,407.0,0.2457002457
-10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,81.0,,,Calendar years BP,82.4,294.0,pollen,2/27/2015,411.0,0.243309002433
-10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,82.0,,,Calendar years BP,82.6,294.0,pollen,2/27/2015,384.0,0.260416666667
-10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,82.0,,,Calendar years BP,82.8,294.0,pollen,2/27/2015,323.0,0.30959752322
-10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Juglans cinerea-type,2.0,NISP,pollen,,82.0,,,Calendar years BP,83.1,294.0,pollen,2/27/2015,302.0,0.662251655629
-10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,83.0,,,Calendar years BP,83.4,294.0,pollen,2/27/2015,323.0,0.30959752322
-10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Juglans cinerea-type,4.0,NISP,pollen,,83.0,,,Calendar years BP,83.6,294.0,pollen,2/27/2015,404.0,0.990099009901
-10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,86.0,,,Calendar years BP,86.0,294.0,pollen,2/27/2015,543.0,0.184162062615
-10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Juglans cinerea-type,3.0,NISP,pollen,,89.0,,,Calendar years BP,88.0,294.0,pollen,2/27/2015,512.0,0.5859375
-10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Juglans cinerea-type,3.0,NISP,pollen,,94.0,,,Calendar years BP,92.0,294.0,pollen,2/27/2015,858.0,0.34965034965
-10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Juglans cinerea-type,3.0,NISP,pollen,,97.0,,,Calendar years BP,94.0,294.0,pollen,2/27/2015,600.0,0.5
-10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,103.0,,,Calendar years BP,98.8,294.0,pollen,2/27/2015,599.0,0.16694490818
-10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,103.0,,,Calendar years BP,99.0,294.0,pollen,2/27/2015,355.0,0.281690140845
-10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,104.0,,,Calendar years BP,99.4,294.0,pollen,2/27/2015,518.0,0.19305019305
-10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Juglans cinerea-type,3.0,NISP,pollen,,104.0,,,Calendar years BP,99.6,294.0,pollen,2/27/2015,538.0,0.557620817844
-10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Juglans cinerea-type,3.0,NISP,pollen,,104.0,,,Calendar years BP,100.0,294.0,pollen,2/27/2015,641.0,0.468018720749
-10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Juglans cinerea-type,2.0,NISP,pollen,,105.0,,,Calendar years BP,100.1,294.0,pollen,2/27/2015,622.0,0.32154340836
-10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Juglans cinerea-type,2.0,NISP,pollen,,105.0,,,Calendar years BP,100.3,294.0,pollen,2/27/2015,301.0,0.664451827243
-10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Juglans cinerea-type,5.0,NISP,pollen,,107.0,,,Calendar years BP,101.7,294.0,pollen,2/27/2015,627.0,0.797448165869
-10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,111.0,,,Calendar years BP,104.8,294.0,pollen,2/27/2015,272.0,0.367647058824
-10144,Saint Olaf Lake,43.90284,-93.417225,43.90534,43.90034,-93.41124,-93.42321,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,31.0,,,Calendar years BP,760.0,366.0,pollen,3/2/2015,712.5,0.140350877193
-10144,Saint Olaf Lake,43.90284,-93.417225,43.90534,43.90034,-93.41124,-93.42321,Vascular plants,Juglans cinerea-type,3.0,NISP,pollen,,84.0,,,Calendar years BP,795.0,366.0,pollen,3/2/2015,509.0,0.589390962672
-10144,Saint Olaf Lake,43.90284,-93.417225,43.90534,43.90034,-93.41124,-93.42321,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,89.0,,,Calendar years BP,798.0,366.0,pollen,3/2/2015,364.5,0.274348422497
-10144,Saint Olaf Lake,43.90284,-93.417225,43.90534,43.90034,-93.41124,-93.42321,Vascular plants,Juglans cinerea-type,2.0,NISP,pollen,,97.0,,,Calendar years BP,803.0,366.0,pollen,3/2/2015,745.5,0.268276324614
-10144,Saint Olaf Lake,43.90284,-93.417225,43.90534,43.90034,-93.41124,-93.42321,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,168.0,,,Calendar years BP,850.0,366.0,pollen,3/2/2015,548.5,0.182315405652
-1359,Jones Lake,45.428085,-93.981475,45.43037,45.4258,-93.97474,-93.98821,Vascular plants,Juglans cinerea-type,3.0,NISP,pollen,,-6.0,,,Calendar years BP,1.0,293.0,pollen,3/2/2015,884.0,0.339366515837
-1359,Jones Lake,45.428085,-93.981475,45.43037,45.4258,-93.97474,-93.98821,Vascular plants,Juglans cinerea-type,2.0,NISP,pollen,,59.0,,,Calendar years BP,10.0,293.0,pollen,3/2/2015,725.0,0.275862068966
-1359,Jones Lake,45.428085,-93.981475,45.43037,45.4258,-93.97474,-93.98821,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,131.0,,,Calendar years BP,20.0,293.0,pollen,3/2/2015,486.0,0.205761316872
-1359,Jones Lake,45.428085,-93.981475,45.43037,45.4258,-93.97474,-93.98821,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,203.0,,,Calendar years BP,30.0,293.0,pollen,3/2/2015,589.0,0.169779286927
-1359,Jones Lake,45.428085,-93.981475,45.43037,45.4258,-93.97474,-93.98821,Vascular plants,Juglans cinerea-type,2.0,NISP,pollen,,347.0,,,Calendar years BP,50.0,293.0,pollen,3/2/2015,500.0,0.4
-1359,Jones Lake,45.428085,-93.981475,45.43037,45.4258,-93.97474,-93.98821,Vascular plants,Juglans cinerea-type,3.0,NISP,pollen,,419.0,,,Calendar years BP,60.0,293.0,pollen,3/2/2015,467.0,0.642398286938
-10156,Long Lake,44.988845,-93.556405,44.99322,44.98447,-93.54317,-93.56964,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,-27.0,-31.0,-23.0,Calibrated radiocarbon years BP,759.0,288.0,pollen,3/6/2015,520.5,0.192122958694
-10156,Long Lake,44.988845,-93.556405,44.99322,44.98447,-93.54317,-93.56964,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,3.0,-18.0,32.0,Calibrated radiocarbon years BP,777.0,288.0,pollen,3/6/2015,256.5,0.389863547758
-10156,Long Lake,44.988845,-93.556405,44.99322,44.98447,-93.54317,-93.56964,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,66.0,30.0,106.0,Calibrated radiocarbon years BP,813.0,288.0,pollen,3/6/2015,663.0,0.150829562594
-10156,Long Lake,44.988845,-93.556405,44.99322,44.98447,-93.54317,-93.56964,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,97.0,61.0,138.0,Calibrated radiocarbon years BP,831.0,288.0,pollen,3/6/2015,487.5,0.205128205128
-10156,Long Lake,44.988845,-93.556405,44.99322,44.98447,-93.54317,-93.56964,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,142.0,91.0,231.0,Calibrated radiocarbon years BP,849.0,288.0,pollen,3/6/2015,449.5,0.222469410456
-10156,Long Lake,44.988845,-93.556405,44.99322,44.98447,-93.54317,-93.56964,Vascular plants,Juglans cinerea-type,2.0,NISP,pollen,,446.0,325.0,561.0,Calibrated radiocarbon years BP,885.0,288.0,pollen,3/6/2015,424.0,0.471698113208
-10156,Long Lake,44.988845,-93.556405,44.99322,44.98447,-93.54317,-93.56964,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,607.0,511.0,699.0,Calibrated radiocarbon years BP,903.0,288.0,pollen,3/6/2015,462.0,0.21645021645
-10156,Long Lake,44.988845,-93.556405,44.99322,44.98447,-93.54317,-93.56964,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,761.0,621.0,912.0,Calibrated radiocarbon years BP,921.0,288.0,pollen,3/6/2015,535.5,0.186741363212
-10156,Long Lake,44.988845,-93.556405,44.99322,44.98447,-93.54317,-93.56964,Vascular plants,Juglans cinerea-type,3.0,NISP,pollen,,914.0,751.0,1088.0,Calibrated radiocarbon years BP,939.0,288.0,pollen,3/6/2015,542.0,0.553505535055
-10156,Long Lake,44.988845,-93.556405,44.99322,44.98447,-93.54317,-93.56964,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,2315.0,1997.0,2612.0,Calibrated radiocarbon years BP,1072.0,288.0,pollen,3/6/2015,499.5,0.2002002002
-10156,Long Lake,44.988845,-93.556405,44.99322,44.98447,-93.54317,-93.56964,Vascular plants,Juglans cinerea-type,1.0,NISP,pollen,,2572.0,2233.0,2885.0,Calibrated radiocarbon years BP,1096.0,288.0,pollen,3/6/2015,538.0,0.185873605948
+7,Three Pines Bog,47,-80.116667,47,47,-80.116667,-80.116667,Vascular plants,Juglans cinerea,1,NISP,pollen,,1347,,,Radiocarbon years BP,90,294,pollen,6/30/2007,394,0.253807107
+29,Lake Allie,44.8036,-94.5579,44.8138,44.7934,-94.5483,-94.5675,Vascular plants,Juglans cinerea,3,NISP,pollen,,18,,,Radiocarbon years BP,10,328,pollen,6/30/2007,415,0.722891566
+29,Lake Allie,44.8036,-94.5579,44.8138,44.7934,-94.5483,-94.5675,Vascular plants,Juglans cinerea,1,NISP,pollen,,51,,,Radiocarbon years BP,20,328,pollen,6/30/2007,388,0.257731959
+29,Lake Allie,44.8036,-94.5579,44.8138,44.7934,-94.5483,-94.5675,Vascular plants,Juglans cinerea,1,NISP,pollen,,84,,,Radiocarbon years BP,30,328,pollen,6/30/2007,376,0.265957447
+29,Lake Allie,44.8036,-94.5579,44.8138,44.7934,-94.5483,-94.5675,Vascular plants,Juglans cinerea,1,NISP,pollen,,149,,,Radiocarbon years BP,50,328,pollen,6/30/2007,366,0.273224044
+29,Lake Allie,44.8036,-94.5579,44.8138,44.7934,-94.5483,-94.5675,Vascular plants,Juglans cinerea,1,NISP,pollen,,182,,,Radiocarbon years BP,60,328,pollen,6/30/2007,358,0.279329609
+29,Lake Allie,44.8036,-94.5579,44.8138,44.7934,-94.5483,-94.5675,Vascular plants,Juglans cinerea,1,NISP,pollen,,215,,,Radiocarbon years BP,70,328,pollen,6/30/2007,324,0.308641975
+29,Lake Allie,44.8036,-94.5579,44.8138,44.7934,-94.5483,-94.5675,Vascular plants,Juglans cinerea,2,NISP,pollen,,248,,,Radiocarbon years BP,80,328,pollen,6/30/2007,338,0.591715976
+29,Lake Allie,44.8036,-94.5579,44.8138,44.7934,-94.5483,-94.5675,Vascular plants,Juglans cinerea,1,NISP,pollen,,412,,,Radiocarbon years BP,130,328,pollen,6/30/2007,314,0.318471338
+29,Lake Allie,44.8036,-94.5579,44.8138,44.7934,-94.5483,-94.5675,Vascular plants,Juglans cinerea,1,NISP,pollen,,445,,,Radiocarbon years BP,140,328,pollen,6/30/2007,345,0.289855072
+30,Almora Lake,46.206111,-95.293611,46.206111,46.206111,-95.293611,-95.293611,Vascular plants,Juglans cinerea,1,NISP,pollen,,4450,,,Radiocarbon years BP,335.5,437,pollen,6/30/2007,317,0.315457413
+30,Almora Lake,46.206111,-95.293611,46.206111,46.206111,-95.293611,-95.293611,Vascular plants,Juglans cinerea,1,NISP,pollen,,6400,,,Radiocarbon years BP,412,437,pollen,6/30/2007,326,0.306748466
+30,Almora Lake,46.206111,-95.293611,46.206111,46.206111,-95.293611,-95.293611,Vascular plants,Juglans cinerea,2,NISP,pollen,,8708,,,Radiocarbon years BP,449.5,437,pollen,6/30/2007,526,0.380228137
+30,Almora Lake,46.206111,-95.293611,46.206111,46.206111,-95.293611,-95.293611,Vascular plants,Juglans cinerea,2,NISP,pollen,,9058,,,Radiocarbon years BP,459.5,437,pollen,6/30/2007,528,0.378787879
+30,Almora Lake,46.206111,-95.293611,46.206111,46.206111,-95.293611,-95.293611,Vascular plants,Juglans cinerea,2,NISP,pollen,,9408,,,Radiocarbon years BP,469.5,437,pollen,6/30/2007,773,0.258732212
+30,Almora Lake,46.206111,-95.293611,46.206111,46.206111,-95.293611,-95.293611,Vascular plants,Juglans cinerea,1,NISP,pollen,,9705,,,Radiocarbon years BP,479.5,437,pollen,6/30/2007,442,0.226244344
+30,Almora Lake,46.206111,-95.293611,46.206111,46.206111,-95.293611,-95.293611,Vascular plants,Juglans cinerea,1,NISP,pollen,,11090,,,Radiocarbon years BP,544.5,437,pollen,6/30/2007,457,0.218818381
+120,Site 50 (Swain unpublished),42.1,-78.75,42.1,42.1,-78.75,-78.75,Vascular plants,Juglans cinerea,1,NISP,pollen,,,,,,0,427,pollen surface sample,6/30/2007,,
+121,Site 51 (Swain unpublished),41.75,-79.17,41.75,41.75,-79.17,-79.17,Vascular plants,Juglans cinerea,1,NISP,pollen,,,,,,0,457,pollen surface sample,6/30/2007,,
+123,Site 53 (Swain unpublished),41.73,-78.42,41.73,41.73,-78.42,-78.42,Vascular plants,Juglans cinerea,1,NISP,pollen,,,,,,0,518,pollen surface sample,6/30/2007,,
+125,Site 55 (Swain unpublished),41.72,-77.77,41.72,41.72,-77.77,-77.77,Vascular plants,Juglans cinerea,1,NISP,pollen,,,,,,0,518,pollen surface sample,6/30/2007,,
+130,Site 60 (Swain unpublished),41.58,-76.17,41.58,41.58,-76.17,-76.17,Vascular plants,Juglans cinerea,1,NISP,pollen,,,,,,0,335,pollen surface sample,6/30/2007,,
+132,Site 62 (Swain unpublished),41.48,-77.03,41.48,41.48,-77.03,-77.03,Vascular plants,Juglans cinerea,1,NISP,pollen,,,,,,0,335,pollen surface sample,6/30/2007,,
+133,Site 63 (Swain unpublished),41.3,-76.58,41.3,41.3,-76.58,-76.58,Vascular plants,Juglans cinerea,1,NISP,pollen,,,,,,0,305,pollen surface sample,6/30/2007,,
+134,Site 64 (Swain unpublished),41.12,-76.5225,41.12,41.12,-76.5225,-76.5225,Vascular plants,Juglans cinerea,1,NISP,pollen,,,,,,0,152,pollen surface sample,6/30/2007,,
+135,Site 65 (Swain unpublished),40.83,-76.37,40.83,40.83,-76.37,-76.37,Vascular plants,Juglans cinerea,1,NISP,pollen,,,,,,0,366,pollen surface sample,6/30/2007,,
+136,Site 66 (Swain unpublished),40.62,-76.05,40.62,40.62,-76.05,-76.05,Vascular plants,Juglans cinerea,3,NISP,pollen,,,,,,0,152,pollen surface sample,6/30/2007,,
+139,Site 69 (Swain unpublished),40.33,-75.48,40.33,40.33,-75.48,-75.48,Vascular plants,Juglans cinerea,1,NISP,pollen,,,,,,0,91,pollen surface sample,6/30/2007,,
+140,Site 70 (Swain unpublished),40.45,-75.52,40.45,40.45,-75.52,-75.52,Vascular plants,Juglans cinerea,2,NISP,pollen,,,,,,0,152,pollen surface sample,6/30/2007,,
+141,Site 71 (Swain unpublished),40.85,-75.8,40.85,40.85,-75.8,-75.8,Vascular plants,Juglans cinerea,1,NISP,pollen,,,,,,0,305,pollen surface sample,6/30/2007,,
+143,Site 73 (Swain unpublished),41.05,-75.93,41.05,41.05,-75.93,-75.93,Vascular plants,Juglans cinerea,1,NISP,pollen,,,,,,0,335,pollen surface sample,6/30/2007,,
+147,Site 77 (Swain unpublished),41.78,-75.53,41.78,41.78,-75.53,-75.53,Vascular plants,Juglans cinerea,1,NISP,pollen,,,,,,0,610,pollen surface sample,6/30/2007,,
+150,Site 80 (Swain unpublished),42.25,-76.05,42.25,42.25,-76.05,-76.05,Vascular plants,Juglans cinerea,1,NISP,pollen,,,,,,0,309,pollen surface sample,6/30/2007,,
+155,Site 85 (Swain unpublished),41.55,-74.07,41.55,41.55,-74.07,-74.07,Vascular plants,Juglans cinerea,1,NISP,pollen,,,,,,0,138,pollen surface sample,6/30/2007,,
+161,Site 91 (Swain unpublished),44.15,-73.75,44.15,44.15,-73.75,-73.75,Vascular plants,Juglans cinerea,1,NISP,pollen,,,,,,0,491,pollen surface sample,6/30/2007,,
+163,Site 93 (Swain unpublished),44.45,-74.25,44.45,44.45,-74.25,-74.25,Vascular plants,Juglans cinerea,1,NISP,pollen,,,,,,0,504,pollen surface sample,6/30/2007,,
+191,Site 121 (Swain unpublished),41.88,-74.08,41.88,41.88,-74.08,-74.08,Vascular plants,Juglans cinerea,3,NISP,pollen,,,,,,0,61,pollen surface sample,6/30/2007,,
+193,Site 123 (Swain unpublished),43.65,-74.4,43.65,43.65,-74.4,-74.4,Vascular plants,Juglans cinerea,4,NISP,pollen,,,,,,0,503,pollen surface sample,6/30/2007,,
+202,Anderson Lake,46.416667,-92.716667,46.416667,46.416667,-92.716667,-92.716667,Vascular plants,Juglans cinerea,3,NISP,pollen,,10208,,,Radiocarbon years BP,800,,pollen,6/30/2007,424,0.70754717
+202,Anderson Lake,46.416667,-92.716667,46.416667,46.416667,-92.716667,-92.716667,Vascular plants,Juglans cinerea,4,NISP,pollen,,10242,,,Radiocarbon years BP,810,,pollen,6/30/2007,452,0.884955752
+202,Anderson Lake,46.416667,-92.716667,46.416667,46.416667,-92.716667,-92.716667,Vascular plants,Juglans cinerea,2,NISP,pollen,,10275,,,Radiocarbon years BP,820,,pollen,6/30/2007,375,0.533333333
+202,Anderson Lake,46.416667,-92.716667,46.416667,46.416667,-92.716667,-92.716667,Vascular plants,Juglans cinerea,1,NISP,pollen,,10342,,,Radiocarbon years BP,840,,pollen,6/30/2007,373,0.268096515
+203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Juglans cinerea,1,NISP,pollen,,50,,,Radiocarbon years BP,35,303,pollen,6/30/2007,873,0.114547537
+203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Juglans cinerea,2,NISP,pollen,,135,,,Radiocarbon years BP,52,303,pollen,6/30/2007,1105,0.180995475
+203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Juglans cinerea,2,NISP,pollen,,175,,,Radiocarbon years BP,60,303,pollen,6/30/2007,781,0.256081946
+203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Juglans cinerea,1,NISP,pollen,,432,,,Radiocarbon years BP,64,303,pollen,6/30/2007,674,0.148367953
+203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Juglans cinerea,1,NISP,pollen,,925,,,Radiocarbon years BP,68,303,pollen,6/30/2007,685,0.145985401
+203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Juglans cinerea,1,NISP,pollen,,1911,,,Radiocarbon years BP,76,303,pollen,6/30/2007,644,0.155279503
+203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Juglans cinerea,1,NISP,pollen,,2898,,,Radiocarbon years BP,84,303,pollen,6/30/2007,836,0.119617225
+203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Juglans cinerea,1,NISP,pollen,,3391,,,Radiocarbon years BP,88,303,pollen,6/30/2007,734,0.136239782
+203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Juglans cinerea,1,NISP,pollen,,3884,,,Radiocarbon years BP,92,303,pollen,6/30/2007,788,0.126903553
+203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Juglans cinerea,1,NISP,pollen,,4377,,,Radiocarbon years BP,96,303,pollen,6/30/2007,759,0.131752306
+203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Juglans cinerea,1,NISP,pollen,,5363,,,Radiocarbon years BP,104,303,pollen,6/30/2007,856,0.11682243
+203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Juglans cinerea,2,NISP,pollen,,5941,,,Radiocarbon years BP,108,303,pollen,6/30/2007,769,0.260078023
+203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Juglans cinerea,2,NISP,pollen,,7270,,,Radiocarbon years BP,116,303,pollen,6/30/2007,793,0.25220681
+203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Juglans cinerea,2,NISP,pollen,,8597,,,Radiocarbon years BP,124,303,pollen,6/30/2007,717,0.278940028
+203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Juglans cinerea,4,NISP,pollen,,9230,,,Radiocarbon years BP,128,303,pollen,6/30/2007,668,0.598802395
+203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Juglans cinerea,3,NISP,pollen,,9832,,,Radiocarbon years BP,132,303,pollen,6/30/2007,643,0.466562986
+203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Juglans cinerea,1,NISP,pollen,,11035,,,Radiocarbon years BP,140,303,pollen,6/30/2007,382,0.261780105
+203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Juglans cinerea,3,NISP,pollen,,12239,,,Radiocarbon years BP,148,303,pollen,6/30/2007,382,0.785340314
+203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Juglans cinerea,2,NISP,pollen,,12546,,,Radiocarbon years BP,152,303,pollen,6/30/2007,379,0.527704485
+203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Juglans cinerea,2,NISP,pollen,,12560,,,Radiocarbon years BP,156,303,pollen,6/30/2007,372,0.537634409
+203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Juglans cinerea,4,NISP,pollen,,12588,,,Radiocarbon years BP,164,303,pollen,6/30/2007,349,1.146131805
+203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Juglans cinerea,2,NISP,pollen,,12679,,,Radiocarbon years BP,190,303,pollen,6/30/2007,370,0.540540541
+203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Juglans cinerea,1,NISP,pollen,,12714,,,Radiocarbon years BP,200,303,pollen,6/30/2007,367,0.272479564
+203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Juglans cinerea,4,NISP,pollen,,12897,,,Radiocarbon years BP,216,303,pollen,6/30/2007,388,1.030927835
+203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Juglans cinerea,1,NISP,pollen,,14079,,,Radiocarbon years BP,264,303,pollen,6/30/2007,349,0.286532951
+203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Juglans cinerea,2,NISP,pollen,,14866,,,Radiocarbon years BP,296,303,pollen,6/30/2007,359,0.557103064
+203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Juglans cinerea,2,NISP,pollen,,15260,,,Radiocarbon years BP,312,303,pollen,6/30/2007,335,0.597014925
+203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Juglans cinerea,1,NISP,pollen,,15439,,,Radiocarbon years BP,330,303,pollen,6/30/2007,354,0.282485876
+203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Juglans cinerea,1,NISP,pollen,,15600,,,Radiocarbon years BP,350,303,pollen,6/30/2007,351,0.284900285
+203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Juglans cinerea,1,NISP,pollen,,15761,,,Radiocarbon years BP,370,303,pollen,6/30/2007,333,0.3003003
+203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Juglans cinerea,1,NISP,pollen,,17929,,,Radiocarbon years BP,570,303,pollen,6/30/2007,411,0.243309002
+203,Anderson Pond,36.03015,-85.50132,36.03275,36.02755,-85.49868,-85.50396,Vascular plants,Juglans cinerea,2,NISP,pollen,,24041,,,Radiocarbon years BP,930,303,pollen,6/30/2007,380,0.526315789
+266,Big John Pond,47.559175,-94.970775,47.56018,47.55817,-94.96931,-94.97224,Vascular plants,Juglans cinerea,1,NISP,pollen,,3053,,,Radiocarbon years BP,115,421,pollen,6/30/2007,390,0.256410256
+269,Billy's Lake,46.27058,-94.551555,46.27186,46.2693,-94.54948,-94.55363,Vascular plants,Juglans cinerea,1,NISP,pollen,,61,,,Radiocarbon years BP,194,383,pollen,6/30/2007,268,0.373134328
+269,Billy's Lake,46.27058,-94.551555,46.27186,46.2693,-94.54948,-94.55363,Vascular plants,Juglans cinerea,1,NISP,pollen,,220,,,Radiocarbon years BP,220,383,pollen,6/30/2007,224,0.446428571
+269,Billy's Lake,46.27058,-94.551555,46.27186,46.2693,-94.54948,-94.55363,Vascular plants,Juglans cinerea,2,NISP,pollen,,587,,,Radiocarbon years BP,250,383,pollen,6/30/2007,251,0.796812749
+269,Billy's Lake,46.27058,-94.551555,46.27186,46.2693,-94.54948,-94.55363,Vascular plants,Juglans cinerea,1,NISP,pollen,,856,,,Radiocarbon years BP,270,383,pollen,6/30/2007,209,0.4784689
+269,Billy's Lake,46.27058,-94.551555,46.27186,46.2693,-94.54948,-94.55363,Vascular plants,Juglans cinerea,1,NISP,pollen,,910,,,Radiocarbon years BP,274,383,pollen,6/30/2007,528,0.189393939
+269,Billy's Lake,46.27058,-94.551555,46.27186,46.2693,-94.54948,-94.55363,Vascular plants,Juglans cinerea,1,NISP,pollen,,2302,,,Radiocarbon years BP,415,383,pollen,6/30/2007,347,0.288184438
+269,Billy's Lake,46.27058,-94.551555,46.27186,46.2693,-94.54948,-94.55363,Vascular plants,Juglans cinerea,2,NISP,pollen,,3907,,,Radiocarbon years BP,610,383,pollen,6/30/2007,232,0.862068966
+269,Billy's Lake,46.27058,-94.551555,46.27186,46.2693,-94.54948,-94.55363,Vascular plants,Juglans cinerea,1,NISP,pollen,,8492,,,Radiocarbon years BP,930,383,pollen,6/30/2007,318,0.314465409
+308,Brown Lake,40.680556,-82.0625,40.680556,40.680556,-82.0625,-82.0625,Vascular plants,Juglans cinerea,3,NISP,pollen,,6829,,,Radiocarbon years BP,755,295,pollen,6/30/2007,447,0.67114094
+308,Brown Lake,40.680556,-82.0625,40.680556,40.680556,-82.0625,-82.0625,Vascular plants,Juglans cinerea,2,NISP,pollen,,8165,,,Radiocarbon years BP,815,295,pollen,6/30/2007,394,0.507614213
+308,Brown Lake,40.680556,-82.0625,40.680556,40.680556,-82.0625,-82.0625,Vascular plants,Juglans cinerea,3,NISP,pollen,,8768,,,Radiocarbon years BP,855,295,pollen,6/30/2007,368,0.815217391
+308,Brown Lake,40.680556,-82.0625,40.680556,40.680556,-82.0625,-82.0625,Vascular plants,Juglans cinerea,5,NISP,pollen,,9353,,,Radiocarbon years BP,915,295,pollen,6/30/2007,406,1.231527094
+308,Brown Lake,40.680556,-82.0625,40.680556,40.680556,-82.0625,-82.0625,Vascular plants,Juglans cinerea,1,NISP,pollen,,10023,,,Radiocarbon years BP,1055,295,pollen,6/30/2007,368,0.27173913
+308,Brown Lake,40.680556,-82.0625,40.680556,40.680556,-82.0625,-82.0625,Vascular plants,Juglans cinerea,2,NISP,pollen,,10239,,,Radiocarbon years BP,1095,295,pollen,6/30/2007,358,0.558659218
+308,Brown Lake,40.680556,-82.0625,40.680556,40.680556,-82.0625,-82.0625,Vascular plants,Juglans cinerea,1,NISP,pollen,,10550,,,Radiocarbon years BP,1135,295,pollen,6/30/2007,378,0.264550265
+308,Brown Lake,40.680556,-82.0625,40.680556,40.680556,-82.0625,-82.0625,Vascular plants,Juglans cinerea,1,NISP,pollen,,10754,,,Radiocarbon years BP,1155,295,pollen,6/30/2007,374,0.267379679
+314,Bucyrus Bog,40.797222,-82.933333,40.797222,40.797222,-82.933333,-82.933333,Vascular plants,Juglans cinerea,1,NISP,pollen,,8365,,,Radiocarbon years BP,28,318,pollen,6/30/2007,388,0.257731959
+314,Bucyrus Bog,40.797222,-82.933333,40.797222,40.797222,-82.933333,-82.933333,Vascular plants,Juglans cinerea,4,NISP,pollen,,8682,,,Radiocarbon years BP,37,318,pollen,6/30/2007,410,0.975609756
+314,Bucyrus Bog,40.797222,-82.933333,40.797222,40.797222,-82.933333,-82.933333,Vascular plants,Juglans cinerea,6,NISP,pollen,,9023,,,Radiocarbon years BP,47,318,pollen,6/30/2007,591,1.015228426
+314,Bucyrus Bog,40.797222,-82.933333,40.797222,40.797222,-82.933333,-82.933333,Vascular plants,Juglans cinerea,1,NISP,pollen,,9517,,,Radiocarbon years BP,62,318,pollen,6/30/2007,443,0.225733634
+314,Bucyrus Bog,40.797222,-82.933333,40.797222,40.797222,-82.933333,-82.933333,Vascular plants,Juglans cinerea,2,NISP,pollen,,10017,,,Radiocarbon years BP,78,318,pollen,6/30/2007,373,0.536193029
+314,Bucyrus Bog,40.797222,-82.933333,40.797222,40.797222,-82.933333,-82.933333,Vascular plants,Juglans cinerea,1,NISP,pollen,,10139,,,Radiocarbon years BP,82,318,pollen,6/30/2007,352,0.284090909
+314,Bucyrus Bog,40.797222,-82.933333,40.797222,40.797222,-82.933333,-82.933333,Vascular plants,Juglans cinerea,2,NISP,pollen,,10258,,,Radiocarbon years BP,86,318,pollen,6/30/2007,355,0.563380282
+314,Bucyrus Bog,40.797222,-82.933333,40.797222,40.797222,-82.933333,-82.933333,Vascular plants,Juglans cinerea,2,NISP,pollen,,10492,,,Radiocarbon years BP,94,318,pollen,6/30/2007,458,0.436681223
+314,Bucyrus Bog,40.797222,-82.933333,40.797222,40.797222,-82.933333,-82.933333,Vascular plants,Juglans cinerea,2,NISP,pollen,,11462,,,Radiocarbon years BP,130,318,pollen,6/30/2007,396,0.505050505
+314,Bucyrus Bog,40.797222,-82.933333,40.797222,40.797222,-82.933333,-82.933333,Vascular plants,Juglans cinerea,1,NISP,pollen,,11943,,,Radiocarbon years BP,150,318,pollen,6/30/2007,344,0.290697674
+314,Bucyrus Bog,40.797222,-82.933333,40.797222,40.797222,-82.933333,-82.933333,Vascular plants,Juglans cinerea,1,NISP,pollen,,14170,,,Radiocarbon years BP,292,318,pollen,6/30/2007,370,0.27027027
+314,Bucyrus Bog,40.797222,-82.933333,40.797222,40.797222,-82.933333,-82.933333,Vascular plants,Juglans cinerea,1,NISP,pollen,,14421,,,Radiocarbon years BP,332,318,pollen,6/30/2007,395,0.253164557
+9980,East Twin Lake,41.196155,-81.334765,41.20098,41.19133,-81.33052,-81.33901,Vascular plants,Juglans cinerea,2,NISP,pollen,,57,,,Radiocarbon years BP,1146,321,pollen,6/30/2007,482,0.414937759
+9980,East Twin Lake,41.196155,-81.334765,41.20098,41.19133,-81.33052,-81.33901,Vascular plants,Juglans cinerea,1,NISP,pollen,,94,,,Radiocarbon years BP,1154,321,pollen,6/30/2007,424,0.235849057
+9980,East Twin Lake,41.196155,-81.334765,41.20098,41.19133,-81.33052,-81.33901,Vascular plants,Juglans cinerea,6,NISP,pollen,,232,,,Radiocarbon years BP,1170,321,pollen,6/30/2007,327,1.834862385
+9980,East Twin Lake,41.196155,-81.334765,41.20098,41.19133,-81.33052,-81.33901,Vascular plants,Juglans cinerea,1,NISP,pollen,,1064,,,Radiocarbon years BP,1242,321,pollen,6/30/2007,411,0.243309002
+9980,East Twin Lake,41.196155,-81.334765,41.20098,41.19133,-81.33052,-81.33901,Vascular plants,Juglans cinerea,1,NISP,pollen,,1615,,,Radiocarbon years BP,1290,321,pollen,6/30/2007,418,0.23923445
+9980,East Twin Lake,41.196155,-81.334765,41.20098,41.19133,-81.33052,-81.33901,Vascular plants,Juglans cinerea,5,NISP,pollen,,2142,,,Radiocarbon years BP,1336,321,pollen,6/30/2007,548,0.912408759
+9980,East Twin Lake,41.196155,-81.334765,41.20098,41.19133,-81.33052,-81.33901,Vascular plants,Juglans cinerea,2,NISP,pollen,,2234,,,Radiocarbon years BP,1344,321,pollen,6/30/2007,418,0.4784689
+9980,East Twin Lake,41.196155,-81.334765,41.20098,41.19133,-81.33052,-81.33901,Vascular plants,Juglans cinerea,1,NISP,pollen,,2605,,,Radiocarbon years BP,1376,321,pollen,6/30/2007,454,0.220264317
+9980,East Twin Lake,41.196155,-81.334765,41.20098,41.19133,-81.33052,-81.33901,Vascular plants,Juglans cinerea,1,NISP,pollen,,3115,,,Radiocarbon years BP,1420,321,pollen,6/30/2007,548,0.182481752
+9980,East Twin Lake,41.196155,-81.334765,41.20098,41.19133,-81.33052,-81.33901,Vascular plants,Juglans cinerea,4,NISP,pollen,,3486,,,Radiocarbon years BP,1452,321,pollen,6/30/2007,464,0.862068966
+9980,East Twin Lake,41.196155,-81.334765,41.20098,41.19133,-81.33052,-81.33901,Vascular plants,Juglans cinerea,3,NISP,pollen,,4355,,,Radiocarbon years BP,1526,321,pollen,6/30/2007,455,0.659340659
+9980,East Twin Lake,41.196155,-81.334765,41.20098,41.19133,-81.33052,-81.33901,Vascular plants,Juglans cinerea,4,NISP,pollen,,4839,,,Radiocarbon years BP,1558,321,pollen,6/30/2007,630,0.634920635
+9980,East Twin Lake,41.196155,-81.334765,41.20098,41.19133,-81.33052,-81.33901,Vascular plants,Juglans cinerea,10,NISP,pollen,,5081,,,Radiocarbon years BP,1574,321,pollen,6/30/2007,636,1.572327044
+9980,East Twin Lake,41.196155,-81.334765,41.20098,41.19133,-81.33052,-81.33901,Vascular plants,Juglans cinerea,4,NISP,pollen,,5444,,,Radiocarbon years BP,1598,321,pollen,6/30/2007,526,0.760456274
+9980,East Twin Lake,41.196155,-81.334765,41.20098,41.19133,-81.33052,-81.33901,Vascular plants,Juglans cinerea,4,NISP,pollen,,5868,,,Radiocarbon years BP,1626,321,pollen,6/30/2007,518,0.772200772
+9980,East Twin Lake,41.196155,-81.334765,41.20098,41.19133,-81.33052,-81.33901,Vascular plants,Juglans cinerea,2,NISP,pollen,,6110,,,Radiocarbon years BP,1642,321,pollen,6/30/2007,541,0.369685767
+9980,East Twin Lake,41.196155,-81.334765,41.20098,41.19133,-81.33052,-81.33901,Vascular plants,Juglans cinerea,1,NISP,pollen,,6352,,,Radiocarbon years BP,1658,321,pollen,6/30/2007,522,0.191570881
+9980,East Twin Lake,41.196155,-81.334765,41.20098,41.19133,-81.33052,-81.33901,Vascular plants,Juglans cinerea,4,NISP,pollen,,6715,,,Radiocarbon years BP,1682,321,pollen,6/30/2007,757,0.528401585
+9980,East Twin Lake,41.196155,-81.334765,41.20098,41.19133,-81.33052,-81.33901,Vascular plants,Juglans cinerea,4,NISP,pollen,,6957,,,Radiocarbon years BP,1698,321,pollen,6/30/2007,525,0.761904762
+9980,East Twin Lake,41.196155,-81.334765,41.20098,41.19133,-81.33052,-81.33901,Vascular plants,Juglans cinerea,7,NISP,pollen,,7168,,,Radiocarbon years BP,1712,321,pollen,6/30/2007,655,1.06870229
+9980,East Twin Lake,41.196155,-81.334765,41.20098,41.19133,-81.33052,-81.33901,Vascular plants,Juglans cinerea,4,NISP,pollen,,7652,,,Radiocarbon years BP,1744,321,pollen,6/30/2007,473,0.845665962
+9980,East Twin Lake,41.196155,-81.334765,41.20098,41.19133,-81.33052,-81.33901,Vascular plants,Juglans cinerea,4,NISP,pollen,,7894,,,Radiocarbon years BP,1760,321,pollen,6/30/2007,599,0.667779633
+9980,East Twin Lake,41.196155,-81.334765,41.20098,41.19133,-81.33052,-81.33901,Vascular plants,Juglans cinerea,4,NISP,pollen,,8257,,,Radiocarbon years BP,1784,321,pollen,6/30/2007,605,0.661157025
+9980,East Twin Lake,41.196155,-81.334765,41.20098,41.19133,-81.33052,-81.33901,Vascular plants,Juglans cinerea,4,NISP,pollen,,8660,,,Radiocarbon years BP,1810,321,pollen,6/30/2007,405,0.987654321
+9980,East Twin Lake,41.196155,-81.334765,41.20098,41.19133,-81.33052,-81.33901,Vascular plants,Juglans cinerea,3,NISP,pollen,,8942,,,Radiocarbon years BP,1826,321,pollen,6/30/2007,644,0.465838509
+9980,East Twin Lake,41.196155,-81.334765,41.20098,41.19133,-81.33052,-81.33901,Vascular plants,Juglans cinerea,2,NISP,pollen,,9224,,,Radiocarbon years BP,1842,321,pollen,6/30/2007,727,0.275103164
+9980,East Twin Lake,41.196155,-81.334765,41.20098,41.19133,-81.33052,-81.33901,Vascular plants,Juglans cinerea,6,NISP,pollen,,9788,,,Radiocarbon years BP,1874,321,pollen,6/30/2007,583,1.02915952
+9980,East Twin Lake,41.196155,-81.334765,41.20098,41.19133,-81.33052,-81.33901,Vascular plants,Juglans cinerea,2,NISP,pollen,,9929,,,Radiocarbon years BP,1882,321,pollen,6/30/2007,462,0.432900433
+9980,East Twin Lake,41.196155,-81.334765,41.20098,41.19133,-81.33052,-81.33901,Vascular plants,Juglans cinerea,2,NISP,pollen,,10317,,,Radiocarbon years BP,1904,321,pollen,6/30/2007,683,0.292825769
+9980,East Twin Lake,41.196155,-81.334765,41.20098,41.19133,-81.33052,-81.33901,Vascular plants,Juglans cinerea,3,NISP,pollen,,10458,,,Radiocarbon years BP,1912,321,pollen,6/30/2007,756,0.396825397
+9980,East Twin Lake,41.196155,-81.334765,41.20098,41.19133,-81.33052,-81.33901,Vascular plants,Juglans cinerea,5,NISP,pollen,,10740,,,Radiocarbon years BP,1928,321,pollen,6/30/2007,619,0.807754443
+9980,East Twin Lake,41.196155,-81.334765,41.20098,41.19133,-81.33052,-81.33901,Vascular plants,Juglans cinerea,2,NISP,pollen,,11304,,,Radiocarbon years BP,1960,321,pollen,6/30/2007,802,0.249376559
+9980,East Twin Lake,41.196155,-81.334765,41.20098,41.19133,-81.33052,-81.33901,Vascular plants,Juglans cinerea,4,NISP,pollen,,11586,,,Radiocarbon years BP,1976,321,pollen,6/30/2007,649,0.61633282
+9980,East Twin Lake,41.196155,-81.334765,41.20098,41.19133,-81.33052,-81.33901,Vascular plants,Juglans cinerea,1,NISP,pollen,,12185,,,Radiocarbon years BP,2010,321,pollen,6/30/2007,419,0.238663484
+9980,East Twin Lake,41.196155,-81.334765,41.20098,41.19133,-81.33052,-81.33901,Vascular plants,Juglans cinerea,3,NISP,pollen,,12467,,,Radiocarbon years BP,2026,321,pollen,6/30/2007,465,0.64516129
+9980,East Twin Lake,41.196155,-81.334765,41.20098,41.19133,-81.33052,-81.33901,Vascular plants,Juglans cinerea,4,NISP,pollen,,12608,,,Radiocarbon years BP,2034,321,pollen,6/30/2007,367,1.089918256
+9980,East Twin Lake,41.196155,-81.334765,41.20098,41.19133,-81.33052,-81.33901,Vascular plants,Juglans cinerea,1,NISP,pollen,,12890,,,Radiocarbon years BP,2050,321,pollen,6/30/2007,500,0.2
+828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea,2,NISP,pollen,,-17,,,Radiocarbon years BP,672,320,pollen,6/30/2007,305,0.655737705
+828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea,2,NISP,pollen,,234,,,Radiocarbon years BP,884,320,pollen,6/30/2007,335,0.597014925
+828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea,3,NISP,pollen,,503,,,Radiocarbon years BP,916,320,pollen,6/30/2007,360,0.833333333
+828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea,3,NISP,pollen,,773,,,Radiocarbon years BP,948,320,pollen,6/30/2007,348,0.862068966
+828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea,2,NISP,pollen,,1042,,,Radiocarbon years BP,980,320,pollen,6/30/2007,376,0.531914894
+828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea,1,NISP,pollen,,1581,,,Radiocarbon years BP,1044,320,pollen,6/30/2007,365,0.273972603
+828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea,2,NISP,pollen,,2120,,,Radiocarbon years BP,1108,320,pollen,6/30/2007,342,0.584795322
+828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea,1,NISP,pollen,,2390,,,Radiocarbon years BP,1140,320,pollen,6/30/2007,325,0.307692308
+828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea,1,NISP,pollen,,2659,,,Radiocarbon years BP,1172,320,pollen,6/30/2007,348,0.287356322
+828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea,2,NISP,pollen,,3602,,,Radiocarbon years BP,1284,320,pollen,6/30/2007,346,0.578034682
+828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea,2,NISP,pollen,,3872,,,Radiocarbon years BP,1316,320,pollen,6/30/2007,354,0.564971751
+828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea,4,NISP,pollen,,4006,,,Radiocarbon years BP,1332,320,pollen,6/30/2007,446,0.896860987
+828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea,1,NISP,pollen,,4141,,,Radiocarbon years BP,1348,320,pollen,6/30/2007,374,0.267379679
+828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea,2,NISP,pollen,,4410,,,Radiocarbon years BP,1380,320,pollen,6/30/2007,443,0.451467269
+828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea,1,NISP,pollen,,4688,,,Radiocarbon years BP,1413,320,pollen,6/30/2007,334,0.299401198
+828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea,7,NISP,pollen,,5082,,,Radiocarbon years BP,1460,320,pollen,6/30/2007,487,1.437371663
+828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea,7,NISP,pollen,,5434,,,Radiocarbon years BP,1503,320,pollen,6/30/2007,370,1.891891892
+828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea,20,NISP,pollen,,5607,,,Radiocarbon years BP,1524,320,pollen,6/30/2007,448,4.464285714
+828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea,9,NISP,pollen,,5869,,,Radiocarbon years BP,1556,320,pollen,6/30/2007,374,2.406417112
+828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea,5,NISP,pollen,,6115,,,Radiocarbon years BP,1586,320,pollen,6/30/2007,429,1.165501166
+828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea,11,NISP,pollen,,6393,,,Radiocarbon years BP,1620,320,pollen,6/30/2007,346,3.179190751
+828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea,8,NISP,pollen,,6525,,,Radiocarbon years BP,1636,320,pollen,6/30/2007,484,1.652892562
+828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea,5,NISP,pollen,,6918,,,Radiocarbon years BP,1684,320,pollen,6/30/2007,410,1.219512195
+828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea,2,NISP,pollen,,7180,,,Radiocarbon years BP,1716,320,pollen,6/30/2007,446,0.448430493
+828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea,4,NISP,pollen,,7312,,,Radiocarbon years BP,1732,320,pollen,6/30/2007,394,1.015228426
+828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea,1,NISP,pollen,,7705,,,Radiocarbon years BP,1780,320,pollen,6/30/2007,385,0.25974026
+828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea,4,NISP,pollen,,7967,,,Radiocarbon years BP,1812,320,pollen,6/30/2007,357,1.120448179
+828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea,1,NISP,pollen,,8230,,,Radiocarbon years BP,1844,320,pollen,6/30/2007,428,0.23364486
+828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea,2,NISP,pollen,,8492,,,Radiocarbon years BP,1876,320,pollen,6/30/2007,453,0.441501104
+828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea,1,NISP,pollen,,8902,,,Radiocarbon years BP,1926,320,pollen,6/30/2007,313,0.319488818
+828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea,3,NISP,pollen,,9148,,,Radiocarbon years BP,1956,320,pollen,6/30/2007,504,0.595238095
+828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea,2,NISP,pollen,,9279,,,Radiocarbon years BP,1972,320,pollen,6/30/2007,423,0.472813239
+828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea,3,NISP,pollen,,9541,,,Radiocarbon years BP,2004,320,pollen,6/30/2007,451,0.66518847
+828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea,10,NISP,pollen,,9902,,,Radiocarbon years BP,2048,320,pollen,6/30/2007,517,1.934235977
+828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea,7,NISP,pollen,,10047,,,Radiocarbon years BP,2064,320,pollen,6/30/2007,475,1.473684211
+828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea,6,NISP,pollen,,10233,,,Radiocarbon years BP,2080,320,pollen,6/30/2007,438,1.369863014
+828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea,2,NISP,pollen,,10513,,,Radiocarbon years BP,2104,320,pollen,6/30/2007,355,0.563380282
+828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea,1,NISP,pollen,,10607,,,Radiocarbon years BP,2112,320,pollen,6/30/2007,358,0.279329609
+828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea,1,NISP,pollen,,10653,,,Radiocarbon years BP,2116,320,pollen,6/30/2007,349,0.286532951
+828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea,1,NISP,pollen,,10793,,,Radiocarbon years BP,2128,320,pollen,6/30/2007,386,0.259067358
+828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea,1,NISP,pollen,,10887,,,Radiocarbon years BP,2136,320,pollen,6/30/2007,396,0.252525253
+828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea,1,NISP,pollen,,10980,,,Radiocarbon years BP,2144,320,pollen,6/30/2007,435,0.229885057
+828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea,2,NISP,pollen,,11120,,,Radiocarbon years BP,2156,320,pollen,6/30/2007,418,0.4784689
+828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea,1,NISP,pollen,,11307,,,Radiocarbon years BP,2172,320,pollen,6/30/2007,352,0.284090909
+828,Fudger Lake,40.1,-83.533333,40.1,40.1,-83.533333,-83.533333,Vascular plants,Juglans cinerea,1,NISP,pollen,,11493,,,Radiocarbon years BP,2188,320,pollen,6/30/2007,407,0.245700246
+1078,Hostage Lake,46.55,-94.133333,46.55,46.55,-94.133333,-94.133333,Vascular plants,Juglans cinerea,1,NISP,pollen,,619,,,Radiocarbon years BP,100,368,pollen,6/30/2007,397,0.251889169
+1078,Hostage Lake,46.55,-94.133333,46.55,46.55,-94.133333,-94.133333,Vascular plants,Juglans cinerea,1,NISP,pollen,,1270,,,Radiocarbon years BP,180,368,pollen,6/30/2007,388,0.257731959
+1078,Hostage Lake,46.55,-94.133333,46.55,46.55,-94.133333,-94.133333,Vascular plants,Juglans cinerea,1,NISP,pollen,,1432,,,Radiocarbon years BP,200,368,pollen,6/30/2007,370.5,0.269905533
+1078,Hostage Lake,46.55,-94.133333,46.55,46.55,-94.133333,-94.133333,Vascular plants,Juglans cinerea,1,NISP,pollen,,1652,,,Radiocarbon years BP,225,368,pollen,6/30/2007,505,0.198019802
+1078,Hostage Lake,46.55,-94.133333,46.55,46.55,-94.133333,-94.133333,Vascular plants,Juglans cinerea,2,NISP,pollen,,1939,,,Radiocarbon years BP,250,368,pollen,6/30/2007,321,0.62305296
+1078,Hostage Lake,46.55,-94.133333,46.55,46.55,-94.133333,-94.133333,Vascular plants,Juglans cinerea,1,NISP,pollen,,2511,,,Radiocarbon years BP,300,368,pollen,6/30/2007,320,0.3125
+1119,Irvin Lake,47.135556,-93.643611,47.135556,47.135556,-93.643611,-93.643611,Vascular plants,Juglans cinerea,1,NISP,pollen,,492,,,Radiocarbon years BP,20,478,pollen,6/30/2007,472,0.211864407
+1119,Irvin Lake,47.135556,-93.643611,47.135556,47.135556,-93.643611,-93.643611,Vascular plants,Juglans cinerea,1,NISP,pollen,,3477,,,Radiocarbon years BP,310,478,pollen,6/30/2007,362,0.276243094
+1119,Irvin Lake,47.135556,-93.643611,47.135556,47.135556,-93.643611,-93.643611,Vascular plants,Juglans cinerea,1,NISP,pollen,,5782,,,Radiocarbon years BP,460,478,pollen,6/30/2007,462,0.216450216
+1119,Irvin Lake,47.135556,-93.643611,47.135556,47.135556,-93.643611,-93.643611,Vascular plants,Juglans cinerea,1,NISP,pollen,,10774,,,Radiocarbon years BP,778,478,pollen,6/30/2007,462,0.216450216
+1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea,1,NISP,pollen,,-32,,,Radiocarbon years BP,934,249,pollen,6/30/2007,296,0.337837838
+1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea,4,NISP,pollen,,95,,,Radiocarbon years BP,1078,249,pollen,6/30/2007,454,0.881057269
+1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea,2,NISP,pollen,,144,,,Radiocarbon years BP,1134,249,pollen,6/30/2007,512,0.390625
+1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea,2,NISP,pollen,,196,,,Radiocarbon years BP,1192,249,pollen,6/30/2007,444,0.45045045
+1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea,1,NISP,pollen,,710,,,Radiocarbon years BP,1234,249,pollen,6/30/2007,353,0.283286119
+1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea,2,NISP,pollen,,1152,,,Radiocarbon years BP,1266,249,pollen,6/30/2007,336,0.595238095
+1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea,4,NISP,pollen,,1594,,,Radiocarbon years BP,1298,249,pollen,6/30/2007,381,1.049868766
+1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea,4,NISP,pollen,,2090,,,Radiocarbon years BP,1334,249,pollen,6/30/2007,402,0.995024876
+1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea,8,NISP,pollen,,2532,,,Radiocarbon years BP,1366,249,pollen,6/30/2007,430,1.860465116
+1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea,1,NISP,pollen,,3194,,,Radiocarbon years BP,1414,249,pollen,6/30/2007,394,0.253807107
+1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea,1,NISP,pollen,,3484,,,Radiocarbon years BP,1435,249,pollen,6/30/2007,478,0.209205021
+1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea,2,NISP,pollen,,3824,,,Radiocarbon years BP,1467,249,pollen,6/30/2007,368,0.543478261
+1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea,1,NISP,pollen,,3994,,,Radiocarbon years BP,1499,249,pollen,6/30/2007,343,0.29154519
+1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea,2,NISP,pollen,,4078,,,Radiocarbon years BP,1515,249,pollen,6/30/2007,350,0.571428571
+1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea,6,NISP,pollen,,4164,,,Radiocarbon years BP,1531,249,pollen,6/30/2007,450,1.333333333
+1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea,4,NISP,pollen,,4270,,,Radiocarbon years BP,1551,249,pollen,6/30/2007,397,1.007556675
+1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea,4,NISP,pollen,,4355,,,Radiocarbon years BP,1567,249,pollen,6/30/2007,372,1.075268817
+1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea,1,NISP,pollen,,4440,,,Radiocarbon years BP,1583,249,pollen,6/30/2007,355,0.281690141
+1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea,1,NISP,pollen,,4524,,,Radiocarbon years BP,1599,249,pollen,6/30/2007,352,0.284090909
+1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea,2,NISP,pollen,,4716,,,Radiocarbon years BP,1635,249,pollen,6/30/2007,362,0.552486188
+1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea,1,NISP,pollen,,4801,,,Radiocarbon years BP,1651,249,pollen,6/30/2007,354,0.282485876
+1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea,4,NISP,pollen,,4886,,,Radiocarbon years BP,1667,249,pollen,6/30/2007,375,1.066666667
+1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea,5,NISP,pollen,,4970,,,Radiocarbon years BP,1683,249,pollen,6/30/2007,410,1.219512195
+1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea,3,NISP,pollen,,5055,,,Radiocarbon years BP,1699,249,pollen,6/30/2007,370,0.810810811
+1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea,2,NISP,pollen,,5140,,,Radiocarbon years BP,1715,249,pollen,6/30/2007,533,0.375234522
+1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea,6,NISP,pollen,,5246,,,Radiocarbon years BP,1735,249,pollen,6/30/2007,512,1.171875
+1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea,3,NISP,pollen,,5416,,,Radiocarbon years BP,1767,249,pollen,6/30/2007,380,0.789473684
+1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea,5,NISP,pollen,,5544,,,Radiocarbon years BP,1791,249,pollen,6/30/2007,388,1.288659794
+1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea,4,NISP,pollen,,5629,,,Radiocarbon years BP,1807,249,pollen,6/30/2007,341,1.173020528
+1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea,4,NISP,pollen,,5650,,,Radiocarbon years BP,1811,249,pollen,6/30/2007,370,1.081081081
+1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea,2,NISP,pollen,,5740,,,Radiocarbon years BP,1815,249,pollen,6/30/2007,375,0.533333333
+1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea,2,NISP,pollen,,5919,,,Radiocarbon years BP,1823,249,pollen,6/30/2007,417,0.479616307
+1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea,2,NISP,pollen,,6188,,,Radiocarbon years BP,1835,249,pollen,6/30/2007,430,0.465116279
+1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea,1,NISP,pollen,,6546,,,Radiocarbon years BP,1851,249,pollen,6/30/2007,320,0.3125
+1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea,3,NISP,pollen,,6904,,,Radiocarbon years BP,1867,249,pollen,6/30/2007,360,0.833333333
+1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea,3,NISP,pollen,,7263,,,Radiocarbon years BP,1883,249,pollen,6/30/2007,375,0.8
+1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea,1,NISP,pollen,,7621,,,Radiocarbon years BP,1899,249,pollen,6/30/2007,359,0.278551532
+1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea,1,NISP,pollen,,7800,,,Radiocarbon years BP,1907,249,pollen,6/30/2007,398,0.251256281
+1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea,1,NISP,pollen,,8159,,,Radiocarbon years BP,1923,249,pollen,6/30/2007,475,0.210526316
+1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea,1,NISP,pollen,,8786,,,Radiocarbon years BP,1951,249,pollen,6/30/2007,453,0.220750552
+1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea,2,NISP,pollen,,9525,,,Radiocarbon years BP,1984,249,pollen,6/30/2007,557,0.359066427
+1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea,1,NISP,pollen,,10542,,,Radiocarbon years BP,2024,249,pollen,6/30/2007,419,0.238663484
+1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea,1,NISP,pollen,,11250,,,Radiocarbon years BP,2048,249,pollen,6/30/2007,445,0.224719101
+1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea,2,NISP,pollen,,11643,,,Radiocarbon years BP,2060,249,pollen,6/30/2007,385,0.519480519
+1535,Ladd Lake,41.416667,-84.75,41.416667,41.416667,-84.75,-84.75,Vascular plants,Juglans cinerea,1,NISP,pollen,,11905,,,Radiocarbon years BP,2068,249,pollen,6/30/2007,466,0.214592275
+1676,Medicine Lake,44.98419,-97.350125,44.99104,44.97734,-97.33724,-97.36301,Vascular plants,Juglans cinerea,1,NISP,pollen,,9360,,,Radiocarbon years BP,2288,519,pollen,6/30/2007,182,0.549450549
+1676,Medicine Lake,44.98419,-97.350125,44.99104,44.97734,-97.33724,-97.36301,Vascular plants,Juglans cinerea,2,NISP,pollen,,9684,,,Radiocarbon years BP,2314,519,pollen,6/30/2007,148,1.351351351
+1676,Medicine Lake,44.98419,-97.350125,44.99104,44.97734,-97.33724,-97.36301,Vascular plants,Juglans cinerea,1,NISP,pollen,,9884,,,Radiocarbon years BP,2330,519,pollen,6/30/2007,167,0.598802395
+1676,Medicine Lake,44.98419,-97.350125,44.99104,44.97734,-97.33724,-97.36301,Vascular plants,Juglans cinerea,1,NISP,pollen,,10034,,,Radiocarbon years BP,2342,519,pollen,6/30/2007,194,0.515463918
+1676,Medicine Lake,44.98419,-97.350125,44.99104,44.97734,-97.33724,-97.36301,Vascular plants,Juglans cinerea,1,NISP,pollen,,10084,,,Radiocarbon years BP,2346,519,pollen,6/30/2007,154,0.649350649
+1676,Medicine Lake,44.98419,-97.350125,44.99104,44.97734,-97.33724,-97.36301,Vascular plants,Juglans cinerea,1,NISP,pollen,,10183,,,Radiocarbon years BP,2354,519,pollen,6/30/2007,200,0.5
+1721,Mud Lake (US:Minnesota:Hubbard),46.866667,-94.75,46.866667,46.866667,-94.75,-94.75,Vascular plants,Juglans cinerea,1,NISP,pollen,,3631,,,Radiocarbon years BP,580,424,pollen,6/30/2007,239.5,0.417536534
+1738,Neville Marsh,40.545833,-83.833333,40.545833,40.545833,-83.833333,-83.833333,Vascular plants,Juglans cinerea,1,NISP,pollen,,8958,,,Radiocarbon years BP,83,305,pollen,6/30/2007,203,0.492610837
+1738,Neville Marsh,40.545833,-83.833333,40.545833,40.545833,-83.833333,-83.833333,Vascular plants,Juglans cinerea,2,NISP,pollen,,9372,,,Radiocarbon years BP,115,305,pollen,6/30/2007,458,0.436681223
+1738,Neville Marsh,40.545833,-83.833333,40.545833,40.545833,-83.833333,-83.833333,Vascular plants,Juglans cinerea,2,NISP,pollen,,9580,,,Radiocarbon years BP,131,305,pollen,6/30/2007,416,0.480769231
+1738,Neville Marsh,40.545833,-83.833333,40.545833,40.545833,-83.833333,-83.833333,Vascular plants,Juglans cinerea,1,NISP,pollen,,10111,,,Radiocarbon years BP,172,305,pollen,6/30/2007,521,0.19193858
+1738,Neville Marsh,40.545833,-83.833333,40.545833,40.545833,-83.833333,-83.833333,Vascular plants,Juglans cinerea,1,NISP,pollen,,11044,,,Radiocarbon years BP,244,305,pollen,6/30/2007,395,0.253164557
+1738,Neville Marsh,40.545833,-83.833333,40.545833,40.545833,-83.833333,-83.833333,Vascular plants,Juglans cinerea,2,NISP,pollen,,11251,,,Radiocarbon years BP,260,305,pollen,6/30/2007,187,1.069518717
+1738,Neville Marsh,40.545833,-83.833333,40.545833,40.545833,-83.833333,-83.833333,Vascular plants,Juglans cinerea,1,NISP,pollen,,11432,,,Radiocarbon years BP,274,305,pollen,6/30/2007,364,0.274725275
+1738,Neville Marsh,40.545833,-83.833333,40.545833,40.545833,-83.833333,-83.833333,Vascular plants,Juglans cinerea,3,NISP,pollen,,11808,,,Radiocarbon years BP,303,305,pollen,6/30/2007,446,0.67264574
+1738,Neville Marsh,40.545833,-83.833333,40.545833,40.545833,-83.833333,-83.833333,Vascular plants,Juglans cinerea,3,NISP,pollen,,12119,,,Radiocarbon years BP,327,305,pollen,6/30/2007,379,0.791556728
+1738,Neville Marsh,40.545833,-83.833333,40.545833,40.545833,-83.833333,-83.833333,Vascular plants,Juglans cinerea,1,NISP,pollen,,12430,,,Radiocarbon years BP,351,305,pollen,6/30/2007,375,0.266666667
+1738,Neville Marsh,40.545833,-83.833333,40.545833,40.545833,-83.833333,-83.833333,Vascular plants,Juglans cinerea,1,NISP,pollen,,12586,,,Radiocarbon years BP,363,305,pollen,6/30/2007,387,0.258397933
+1827,Peterson Slough,46.966667,-95.316667,46.966667,46.966667,-95.316667,-95.316667,Vascular plants,Juglans cinerea,1,NISP,pollen,,3466,,,Radiocarbon years BP,450,460,pollen,6/30/2007,238.6,0.419111484
+1934,Pyle Site,40.666667,-84.883333,40.666667,40.666667,-84.883333,-84.883333,Vascular plants,Juglans cinerea,3,NISP,pollen,,8804,,,Radiocarbon years BP,160,250,pollen,6/30/2007,449,0.668151448
+1934,Pyle Site,40.666667,-84.883333,40.666667,40.666667,-84.883333,-84.883333,Vascular plants,Juglans cinerea,5,NISP,pollen,,9081,,,Radiocarbon years BP,180,250,pollen,6/30/2007,434,1.152073733
+1934,Pyle Site,40.666667,-84.883333,40.666667,40.666667,-84.883333,-84.883333,Vascular plants,Juglans cinerea,4,NISP,pollen,,9288,,,Radiocarbon years BP,195,250,pollen,6/30/2007,347,1.152737752
+1934,Pyle Site,40.666667,-84.883333,40.666667,40.666667,-84.883333,-84.883333,Vascular plants,Juglans cinerea,2,NISP,pollen,,9358,,,Radiocarbon years BP,200,250,pollen,6/30/2007,411,0.486618005
+1934,Pyle Site,40.666667,-84.883333,40.666667,40.666667,-84.883333,-84.883333,Vascular plants,Juglans cinerea,4,NISP,pollen,,9496,,,Radiocarbon years BP,210,250,pollen,6/30/2007,381,1.049868766
+1934,Pyle Site,40.666667,-84.883333,40.666667,40.666667,-84.883333,-84.883333,Vascular plants,Juglans cinerea,1,NISP,pollen,,9634,,,Radiocarbon years BP,220,250,pollen,6/30/2007,432,0.231481481
+1934,Pyle Site,40.666667,-84.883333,40.666667,40.666667,-84.883333,-84.883333,Vascular plants,Juglans cinerea,4,NISP,pollen,,9772,,,Radiocarbon years BP,230,250,pollen,6/30/2007,342,1.169590643
+1934,Pyle Site,40.666667,-84.883333,40.666667,40.666667,-84.883333,-84.883333,Vascular plants,Juglans cinerea,8,NISP,pollen,,9911,,,Radiocarbon years BP,240,250,pollen,6/30/2007,626,1.277955272
+1934,Pyle Site,40.666667,-84.883333,40.666667,40.666667,-84.883333,-84.883333,Vascular plants,Juglans cinerea,3,NISP,pollen,,10049,,,Radiocarbon years BP,250,250,pollen,6/30/2007,624,0.480769231
+1934,Pyle Site,40.666667,-84.883333,40.666667,40.666667,-84.883333,-84.883333,Vascular plants,Juglans cinerea,8,NISP,pollen,,10184,,,Radiocarbon years BP,260,250,pollen,6/30/2007,530,1.509433962
+1934,Pyle Site,40.666667,-84.883333,40.666667,40.666667,-84.883333,-84.883333,Vascular plants,Juglans cinerea,3,NISP,pollen,,10292,,,Radiocarbon years BP,270,250,pollen,6/30/2007,449,0.668151448
+1934,Pyle Site,40.666667,-84.883333,40.666667,40.666667,-84.883333,-84.883333,Vascular plants,Juglans cinerea,3,NISP,pollen,,10401,,,Radiocarbon years BP,280,250,pollen,6/30/2007,452,0.663716814
+1934,Pyle Site,40.666667,-84.883333,40.666667,40.666667,-84.883333,-84.883333,Vascular plants,Juglans cinerea,1,NISP,pollen,,10597,,,Radiocarbon years BP,298,250,pollen,6/30/2007,431,0.232018561
+1934,Pyle Site,40.666667,-84.883333,40.666667,40.666667,-84.883333,-84.883333,Vascular plants,Juglans cinerea,1,NISP,pollen,,10749,,,Radiocarbon years BP,312,250,pollen,6/30/2007,163,0.613496933
+1934,Pyle Site,40.666667,-84.883333,40.666667,40.666667,-84.883333,-84.883333,Vascular plants,Juglans cinerea,1,NISP,pollen,,10790,,,Radiocarbon years BP,314,250,pollen,6/30/2007,169,0.591715976
+1934,Pyle Site,40.666667,-84.883333,40.666667,40.666667,-84.883333,-84.883333,Vascular plants,Juglans cinerea,2,NISP,pollen,,10967,,,Radiocarbon years BP,320,250,pollen,6/30/2007,455,0.43956044
+1934,Pyle Site,40.666667,-84.883333,40.666667,40.666667,-84.883333,-84.883333,Vascular plants,Juglans cinerea,1,NISP,pollen,,11264,,,Radiocarbon years BP,330,250,pollen,6/30/2007,444,0.225225225
+1934,Pyle Site,40.666667,-84.883333,40.666667,40.666667,-84.883333,-84.883333,Vascular plants,Juglans cinerea,3,NISP,pollen,,11856,,,Radiocarbon years BP,350,250,pollen,6/30/2007,477,0.628930818
+1934,Pyle Site,40.666667,-84.883333,40.666667,40.666667,-84.883333,-84.883333,Vascular plants,Juglans cinerea,2,NISP,pollen,,12588,,,Radiocarbon years BP,390,250,pollen,6/30/2007,407,0.491400491
+1940,Quillin Site,41,-81.966667,41,41,-81.966667,-81.966667,Vascular plants,Juglans cinerea,3,NISP,pollen,,4854,,,Radiocarbon years BP,31,305,pollen,6/30/2007,450,0.666666667
+1940,Quillin Site,41,-81.966667,41,41,-81.966667,-81.966667,Vascular plants,Juglans cinerea,3,NISP,pollen,,6318,,,Radiocarbon years BP,61,305,pollen,6/30/2007,395,0.759493671
+1940,Quillin Site,41,-81.966667,41,41,-81.966667,-81.966667,Vascular plants,Juglans cinerea,1,NISP,pollen,,7570,,,Radiocarbon years BP,91,305,pollen,6/30/2007,421,0.237529691
+1940,Quillin Site,41,-81.966667,41,41,-81.966667,-81.966667,Vascular plants,Juglans cinerea,2,NISP,pollen,,7980,,,Radiocarbon years BP,102,305,pollen,6/30/2007,353,0.566572238
+1940,Quillin Site,41,-81.966667,41,41,-81.966667,-81.966667,Vascular plants,Juglans cinerea,2,NISP,pollen,,8331,,,Radiocarbon years BP,112,305,pollen,6/30/2007,674,0.296735905
+1940,Quillin Site,41,-81.966667,41,41,-81.966667,-81.966667,Vascular plants,Juglans cinerea,1,NISP,pollen,,8661,,,Radiocarbon years BP,122,305,pollen,6/30/2007,743,0.134589502
+1940,Quillin Site,41,-81.966667,41,41,-81.966667,-81.966667,Vascular plants,Juglans cinerea,3,NISP,pollen,,8972,,,Radiocarbon years BP,132,305,pollen,6/30/2007,497,0.60362173
+1940,Quillin Site,41,-81.966667,41,41,-81.966667,-81.966667,Vascular plants,Juglans cinerea,1,NISP,pollen,,9538,,,Radiocarbon years BP,152,305,pollen,6/30/2007,982,0.101832994
+1940,Quillin Site,41,-81.966667,41,41,-81.966667,-81.966667,Vascular plants,Juglans cinerea,1,NISP,pollen,,9868,,,Radiocarbon years BP,165,305,pollen,6/30/2007,618,0.161812298
+1940,Quillin Site,41,-81.966667,41,41,-81.966667,-81.966667,Vascular plants,Juglans cinerea,1,NISP,pollen,,10278,,,Radiocarbon years BP,183,305,pollen,6/30/2007,674,0.148367953
+1940,Quillin Site,41,-81.966667,41,41,-81.966667,-81.966667,Vascular plants,Juglans cinerea,1,NISP,pollen,,11031,,,Radiocarbon years BP,224,305,pollen,6/30/2007,451,0.22172949
+1940,Quillin Site,41,-81.966667,41,41,-81.966667,-81.966667,Vascular plants,Juglans cinerea,1,NISP,pollen,,11317,,,Radiocarbon years BP,244,305,pollen,6/30/2007,443,0.225733634
+1940,Quillin Site,41,-81.966667,41,41,-81.966667,-81.966667,Vascular plants,Juglans cinerea,1,NISP,pollen,,11755,,,Radiocarbon years BP,284,305,pollen,6/30/2007,388,0.257731959
+1940,Quillin Site,41,-81.966667,41,41,-81.966667,-81.966667,Vascular plants,Juglans cinerea,1,NISP,pollen,,12414,,,Radiocarbon years BP,417,305,pollen,6/30/2007,379,0.263852243
+1989,Rhule Fen,39.953611,-85.741667,39.953611,39.953611,-85.741667,-85.741667,Vascular plants,Juglans cinerea,4,NISP,pollen,,9448,,,Radiocarbon years BP,545,268,pollen,6/30/2007,339,1.179941003
+1989,Rhule Fen,39.953611,-85.741667,39.953611,39.953611,-85.741667,-85.741667,Vascular plants,Juglans cinerea,4,NISP,pollen,,9830,,,Radiocarbon years BP,577,268,pollen,6/30/2007,434,0.921658986
+1989,Rhule Fen,39.953611,-85.741667,39.953611,39.953611,-85.741667,-85.741667,Vascular plants,Juglans cinerea,4,NISP,pollen,,10309,,,Radiocarbon years BP,617,268,pollen,6/30/2007,452,0.884955752
+1989,Rhule Fen,39.953611,-85.741667,39.953611,39.953611,-85.741667,-85.741667,Vascular plants,Juglans cinerea,5,NISP,pollen,,10686,,,Radiocarbon years BP,645,268,pollen,6/30/2007,378,1.322751323
+1989,Rhule Fen,39.953611,-85.741667,39.953611,39.953611,-85.741667,-85.741667,Vascular plants,Juglans cinerea,2,NISP,pollen,,10811,,,Radiocarbon years BP,653,268,pollen,6/30/2007,480,0.416666667
+1989,Rhule Fen,39.953611,-85.741667,39.953611,39.953611,-85.741667,-85.741667,Vascular plants,Juglans cinerea,4,NISP,pollen,,11059,,,Radiocarbon years BP,669,268,pollen,6/30/2007,580,0.689655172
+1989,Rhule Fen,39.953611,-85.741667,39.953611,39.953611,-85.741667,-85.741667,Vascular plants,Juglans cinerea,1,NISP,pollen,,11122,,,Radiocarbon years BP,673,268,pollen,6/30/2007,440,0.227272727
+1989,Rhule Fen,39.953611,-85.741667,39.953611,39.953611,-85.741667,-85.741667,Vascular plants,Juglans cinerea,4,NISP,pollen,,11308,,,Radiocarbon years BP,685,268,pollen,6/30/2007,480,0.833333333
+1989,Rhule Fen,39.953611,-85.741667,39.953611,39.953611,-85.741667,-85.741667,Vascular plants,Juglans cinerea,3,NISP,pollen,,11432,,,Radiocarbon years BP,693,268,pollen,6/30/2007,433,0.692840647
+1989,Rhule Fen,39.953611,-85.741667,39.953611,39.953611,-85.741667,-85.741667,Vascular plants,Juglans cinerea,1,NISP,pollen,,11588,,,Radiocarbon years BP,703,268,pollen,6/30/2007,474,0.210970464
+1989,Rhule Fen,39.953611,-85.741667,39.953611,39.953611,-85.741667,-85.741667,Vascular plants,Juglans cinerea,1,NISP,pollen,,11992,,,Radiocarbon years BP,729,268,pollen,6/30/2007,396,0.252525253
+1989,Rhule Fen,39.953611,-85.741667,39.953611,39.953611,-85.741667,-85.741667,Vascular plants,Juglans cinerea,2,NISP,pollen,,12240,,,Radiocarbon years BP,745,268,pollen,6/30/2007,375,0.533333333
+2310,Siseebakwet South,47.133333,-93.683333,47.133333,47.133333,-93.683333,-93.683333,Vascular plants,Juglans cinerea,1,NISP,pollen,,-28,,,Radiocarbon years BP,1,436,pollen,6/30/2007,417,0.239808153
+2310,Siseebakwet South,47.133333,-93.683333,47.133333,47.133333,-93.683333,-93.683333,Vascular plants,Juglans cinerea,1,NISP,pollen,,57,,,Radiocarbon years BP,21,436,pollen,6/30/2007,421,0.237529691
+2310,Siseebakwet South,47.133333,-93.683333,47.133333,47.133333,-93.683333,-93.683333,Vascular plants,Juglans cinerea,1,NISP,pollen,,313,,,Radiocarbon years BP,81,436,pollen,6/30/2007,593.5,0.168491997
+2310,Siseebakwet South,47.133333,-93.683333,47.133333,47.133333,-93.683333,-93.683333,Vascular plants,Juglans cinerea,1,NISP,pollen,,398,,,Radiocarbon years BP,101,436,pollen,6/30/2007,397,0.251889169
+2310,Siseebakwet South,47.133333,-93.683333,47.133333,47.133333,-93.683333,-93.683333,Vascular plants,Juglans cinerea,1,NISP,pollen,,632,,,Radiocarbon years BP,156,436,pollen,6/30/2007,389,0.257069409
+2494,Smoot Lake Bog,40.205556,-82.445833,40.205556,40.205556,-82.445833,-82.445833,Vascular plants,Juglans cinerea,6,NISP,pollen,,7269,,,Radiocarbon years BP,766,292,pollen,6/30/2007,378,1.587301587
+2494,Smoot Lake Bog,40.205556,-82.445833,40.205556,40.205556,-82.445833,-82.445833,Vascular plants,Juglans cinerea,5,NISP,pollen,,9344,,,Radiocarbon years BP,834,292,pollen,6/30/2007,408,1.225490196
+2494,Smoot Lake Bog,40.205556,-82.445833,40.205556,40.205556,-82.445833,-82.445833,Vascular plants,Juglans cinerea,4,NISP,pollen,,10138,,,Radiocarbon years BP,860,292,pollen,6/30/2007,498,0.803212851
+2494,Smoot Lake Bog,40.205556,-82.445833,40.205556,40.205556,-82.445833,-82.445833,Vascular plants,Juglans cinerea,1,NISP,pollen,,11481,,,Radiocarbon years BP,904,292,pollen,6/30/2007,374,0.267379679
+2494,Smoot Lake Bog,40.205556,-82.445833,40.205556,40.205556,-82.445833,-82.445833,Vascular plants,Juglans cinerea,1,NISP,pollen,,12213,,,Radiocarbon years BP,928,292,pollen,6/30/2007,449,0.222717149
+1814,Pogonia Bog Pond,45.03503,-93.6305,45.03619,45.03387,-93.62724,-93.63376,Vascular plants,Juglans cinerea,1,NISP,pollen,,-24,,,Radiocarbon years BP,240,292,pollen,6/30/2007,410.5,0.243605359
+1814,Pogonia Bog Pond,45.03503,-93.6305,45.03619,45.03387,-93.62724,-93.63376,Vascular plants,Juglans cinerea,1,NISP,pollen,,-7,,,Radiocarbon years BP,250,292,pollen,6/30/2007,323.5,0.309119011
+1814,Pogonia Bog Pond,45.03503,-93.6305,45.03619,45.03387,-93.62724,-93.63376,Vascular plants,Juglans cinerea,2,NISP,pollen,,9,,,Radiocarbon years BP,260,292,pollen,6/30/2007,525.5,0.380589914
+1814,Pogonia Bog Pond,45.03503,-93.6305,45.03619,45.03387,-93.62724,-93.63376,Vascular plants,Juglans cinerea,1,NISP,pollen,,26,,,Radiocarbon years BP,270,292,pollen,6/30/2007,377,0.265251989
+1814,Pogonia Bog Pond,45.03503,-93.6305,45.03619,45.03387,-93.62724,-93.63376,Vascular plants,Juglans cinerea,1,NISP,pollen,,93,,,Radiocarbon years BP,310,292,pollen,6/30/2007,395,0.253164557
+1814,Pogonia Bog Pond,45.03503,-93.6305,45.03619,45.03387,-93.62724,-93.63376,Vascular plants,Juglans cinerea,3,NISP,pollen,,110,,,Radiocarbon years BP,320,292,pollen,6/30/2007,782.5,0.383386581
+1814,Pogonia Bog Pond,45.03503,-93.6305,45.03619,45.03387,-93.62724,-93.63376,Vascular plants,Juglans cinerea,1,NISP,pollen,,129,,,Radiocarbon years BP,330,292,pollen,6/30/2007,471,0.212314225
+1814,Pogonia Bog Pond,45.03503,-93.6305,45.03619,45.03387,-93.62724,-93.63376,Vascular plants,Juglans cinerea,1,NISP,pollen,,157,,,Radiocarbon years BP,345,292,pollen,6/30/2007,753,0.132802125
+1814,Pogonia Bog Pond,45.03503,-93.6305,45.03619,45.03387,-93.62724,-93.63376,Vascular plants,Juglans cinerea,2,NISP,pollen,,213,,,Radiocarbon years BP,375,292,pollen,6/30/2007,511,0.391389432
+1814,Pogonia Bog Pond,45.03503,-93.6305,45.03619,45.03387,-93.62724,-93.63376,Vascular plants,Juglans cinerea,1,NISP,pollen,,367,,,Radiocarbon years BP,425,292,pollen,6/30/2007,437,0.228832952
+1814,Pogonia Bog Pond,45.03503,-93.6305,45.03619,45.03387,-93.62724,-93.63376,Vascular plants,Juglans cinerea,1,NISP,pollen,,1908,,,Radiocarbon years BP,785,292,pollen,6/30/2007,285.5,0.350262697
+1814,Pogonia Bog Pond,45.03503,-93.6305,45.03619,45.03387,-93.62724,-93.63376,Vascular plants,Juglans cinerea,1,NISP,pollen,,2637,,,Radiocarbon years BP,965,292,pollen,6/30/2007,336.5,0.29717682
+1814,Pogonia Bog Pond,45.03503,-93.6305,45.03619,45.03387,-93.62724,-93.63376,Vascular plants,Juglans cinerea,1,NISP,pollen,,2752,,,Radiocarbon years BP,1005,292,pollen,6/30/2007,305,0.327868852
+1814,Pogonia Bog Pond,45.03503,-93.6305,45.03619,45.03387,-93.62724,-93.63376,Vascular plants,Juglans cinerea,1,NISP,pollen,,2868,,,Radiocarbon years BP,1045,292,pollen,6/30/2007,340,0.294117647
+1814,Pogonia Bog Pond,45.03503,-93.6305,45.03619,45.03387,-93.62724,-93.63376,Vascular plants,Juglans cinerea,1,NISP,pollen,,2926,,,Radiocarbon years BP,1065,292,pollen,6/30/2007,372,0.268817204
+1814,Pogonia Bog Pond,45.03503,-93.6305,45.03619,45.03387,-93.62724,-93.63376,Vascular plants,Juglans cinerea,3,NISP,pollen,,3042,,,Radiocarbon years BP,1105,292,pollen,6/30/2007,406,0.738916256
+1814,Pogonia Bog Pond,45.03503,-93.6305,45.03619,45.03387,-93.62724,-93.63376,Vascular plants,Juglans cinerea,1,NISP,pollen,,3818,,,Radiocarbon years BP,1325,292,pollen,6/30/2007,456.5,0.21905805
+1814,Pogonia Bog Pond,45.03503,-93.6305,45.03619,45.03387,-93.62724,-93.63376,Vascular plants,Juglans cinerea,2,NISP,pollen,,5605,,,Radiocarbon years BP,1505,292,pollen,6/30/2007,444,0.45045045
+1814,Pogonia Bog Pond,45.03503,-93.6305,45.03619,45.03387,-93.62724,-93.63376,Vascular plants,Juglans cinerea,1,NISP,pollen,,6002,,,Radiocarbon years BP,1545,292,pollen,6/30/2007,308.5,0.324149109
+1814,Pogonia Bog Pond,45.03503,-93.6305,45.03619,45.03387,-93.62724,-93.63376,Vascular plants,Juglans cinerea,1,NISP,pollen,,8063,,,Radiocarbon years BP,1670,292,pollen,6/30/2007,525,0.19047619
+1814,Pogonia Bog Pond,45.03503,-93.6305,45.03619,45.03387,-93.62724,-93.63376,Vascular plants,Juglans cinerea,3,NISP,pollen,,8426,,,Radiocarbon years BP,1690,292,pollen,6/30/2007,488,0.614754098
+1814,Pogonia Bog Pond,45.03503,-93.6305,45.03619,45.03387,-93.62724,-93.63376,Vascular plants,Juglans cinerea,1,NISP,pollen,,9151,,,Radiocarbon years BP,1730,292,pollen,6/30/2007,435.5,0.229621125
+1814,Pogonia Bog Pond,45.03503,-93.6305,45.03619,45.03387,-93.62724,-93.63376,Vascular plants,Juglans cinerea,1,NISP,pollen,,9877,,,Radiocarbon years BP,1770,292,pollen,6/30/2007,361,0.27700831
+6506,South Heron Lake,43.7195,-95.228,43.75,43.689,-95.186,-95.27,Vascular plants,Juglans cinerea,1,NISP,pollen,,-10,,,Calendar years BP,1,428,pollen,12/6/2013,328,0.304878049
+6511,Blomford Lake,45.4935,-93.1545,45.496,45.491,-93.152,-93.157,Vascular plants,Juglans cinerea,1,NISP,pollen,,-20,,,Calendar years BP,1,291,pollen,12/11/2013,773,0.129366106
+6511,Blomford Lake,45.4935,-93.1545,45.496,45.491,-93.152,-93.157,Vascular plants,Juglans cinerea,1,NISP,pollen,,282,,,Calendar years BP,30,291,pollen,12/11/2013,525.5,0.190294957
+6511,Blomford Lake,45.4935,-93.1545,45.496,45.491,-93.152,-93.157,Vascular plants,Juglans cinerea,1,NISP,pollen,,1322,,,Calendar years BP,130,291,pollen,12/11/2013,377,0.265251989
+6512,Fawn Lake,45.4072,-93.0532,45.4099,45.4045,-93.0494,-93.057,Vascular plants,Juglans cinerea,1,NISP,pollen,,-26,,,Calendar years BP,1,274,pollen,12/11/2013,829,0.120627262
+6512,Fawn Lake,45.4072,-93.0532,45.4099,45.4045,-93.0494,-93.057,Vascular plants,Juglans cinerea,1,NISP,pollen,,13,,,Calendar years BP,10,274,pollen,12/11/2013,584.5,0.171086399
+6512,Fawn Lake,45.4072,-93.0532,45.4099,45.4045,-93.0494,-93.057,Vascular plants,Juglans cinerea,2,NISP,pollen,,57,,,Calendar years BP,20,274,pollen,12/11/2013,652.5,0.30651341
+6512,Fawn Lake,45.4072,-93.0532,45.4099,45.4045,-93.0494,-93.057,Vascular plants,Juglans cinerea,1,NISP,pollen,,403,,,Calendar years BP,100,274,pollen,12/11/2013,601,0.166389351
+6513,Frovold Lake,45.377,-95.5625,45.38,45.374,-95.557,-95.568,Vascular plants,Juglans cinerea,1,NISP,pollen,,230,,,Calendar years BP,50,318,pollen,12/11/2013,347,0.288184438
+6514,Goose Lake,44.99,-94.591,44.995,44.985,-94.586,-94.596,Vascular plants,Juglans cinerea,2,NISP,pollen,,-17,,,Calendar years BP,5,334,pollen,12/12/2013,689.5,0.290065265
+6514,Goose Lake,44.99,-94.591,44.995,44.985,-94.586,-94.596,Vascular plants,Juglans cinerea,1,NISP,pollen,,4,,,Calendar years BP,15,334,pollen,12/12/2013,214,0.46728972
+6514,Goose Lake,44.99,-94.591,44.995,44.985,-94.586,-94.596,Vascular plants,Juglans cinerea,1,NISP,pollen,,15,,,Calendar years BP,20,334,pollen,12/12/2013,378.5,0.264200793
+6514,Goose Lake,44.99,-94.591,44.995,44.985,-94.586,-94.596,Vascular plants,Juglans cinerea,2,NISP,pollen,,25,,,Calendar years BP,25,334,pollen,12/12/2013,383.5,0.521512386
+6514,Goose Lake,44.99,-94.591,44.995,44.985,-94.586,-94.596,Vascular plants,Juglans cinerea,2,NISP,pollen,,36,,,Calendar years BP,30,334,pollen,12/12/2013,430.5,0.464576074
+6514,Goose Lake,44.99,-94.591,44.995,44.985,-94.586,-94.596,Vascular plants,Juglans cinerea,1,NISP,pollen,,47,,,Calendar years BP,35,334,pollen,12/12/2013,370.5,0.269905533
+6514,Goose Lake,44.99,-94.591,44.995,44.985,-94.586,-94.596,Vascular plants,Juglans cinerea,1,NISP,pollen,,57,,,Calendar years BP,40,334,pollen,12/12/2013,267.5,0.373831776
+6514,Goose Lake,44.99,-94.591,44.995,44.985,-94.586,-94.596,Vascular plants,Juglans cinerea,1,NISP,pollen,,68,,,Calendar years BP,45,334,pollen,12/12/2013,243.5,0.410677618
+6514,Goose Lake,44.99,-94.591,44.995,44.985,-94.586,-94.596,Vascular plants,Juglans cinerea,2,NISP,pollen,,100,,,Calendar years BP,60,334,pollen,12/12/2013,1233,0.162206002
+6514,Goose Lake,44.99,-94.591,44.995,44.985,-94.586,-94.596,Vascular plants,Juglans cinerea,1,NISP,pollen,,121,,,Calendar years BP,70,334,pollen,12/12/2013,446.5,0.223964166
+6514,Goose Lake,44.99,-94.591,44.995,44.985,-94.586,-94.596,Vascular plants,Juglans cinerea,1,NISP,pollen,,143,,,Calendar years BP,80,334,pollen,12/12/2013,310.5,0.322061192
+6514,Goose Lake,44.99,-94.591,44.995,44.985,-94.586,-94.596,Vascular plants,Juglans cinerea,1,NISP,pollen,,217,,,Calendar years BP,115,334,pollen,12/12/2013,363.5,0.275103164
+6515,Olson Lake,46.51205,-93.66005,46.5137,46.5104,-93.6582,-93.6619,Vascular plants,Juglans cinerea,1,NISP,pollen,,143,,,Calendar years BP,1060,379,pollen,12/12/2013,661.5,0.15117158
+6515,Olson Lake,46.51205,-93.66005,46.5137,46.5104,-93.6582,-93.6619,Vascular plants,Juglans cinerea,3,NISP,pollen,,1295,,,Calendar years BP,1330,379,pollen,12/12/2013,781,0.384122919
+6515,Olson Lake,46.51205,-93.66005,46.5137,46.5104,-93.6582,-93.6619,Vascular plants,Juglans cinerea,1,NISP,pollen,,1465,,,Calendar years BP,1370,379,pollen,12/12/2013,642.5,0.155642023
+6521,Round Grove Lake,44.709,-94.4935,44.718,44.7,-94.487,-94.5,Vascular plants,Juglans cinerea,2,NISP,pollen,,32,,,Calendar years BP,20,318,pollen,12/17/2013,514,0.389105058
+6521,Round Grove Lake,44.709,-94.4935,44.718,44.7,-94.487,-94.5,Vascular plants,Juglans cinerea,1,NISP,pollen,,108,,,Calendar years BP,45,318,pollen,12/17/2013,672.5,0.148698885
+6521,Round Grove Lake,44.709,-94.4935,44.718,44.7,-94.487,-94.5,Vascular plants,Juglans cinerea,1,NISP,pollen,,183,,,Calendar years BP,70,318,pollen,12/17/2013,340,0.294117647
+7531,Last Lake,45.45,-95.24005,45.4519,45.4481,-95.2363,-95.2438,Vascular plants,Juglans cinerea,1,NISP,pollen,,270,,,Calendar years BP,50,396,pollen,2/10/2014,313,0.319488818
+7531,Last Lake,45.45,-95.24005,45.4519,45.4481,-95.2363,-95.2438,Vascular plants,Juglans cinerea,1,NISP,pollen,,570,,,Calendar years BP,100,396,pollen,2/10/2014,366,0.273224044
+7531,Last Lake,45.45,-95.24005,45.4519,45.4481,-95.2363,-95.2438,Vascular plants,Juglans cinerea,1,NISP,pollen,,750,,,Calendar years BP,130,396,pollen,2/10/2014,321,0.31152648
+7532,Cottonwood Lake,44.6173,-95.68015,44.6243,44.6103,-95.6684,-95.6919,Vascular plants,Juglans cinerea,1,NISP,pollen,,24,,,Calendar years BP,10,324,pollen,2/13/2014,129,0.775193798
+7533,Monson Lake,45.324,-95.27935,45.33,45.318,-95.269,-95.2897,Vascular plants,Juglans cinerea,1,NISP,pollen,,-27,,,Calendar years BP,2,376,pollen,2/13/2014,1390.5,0.071916577
+7533,Monson Lake,45.324,-95.27935,45.33,45.318,-95.269,-95.2897,Vascular plants,Juglans cinerea,1,NISP,pollen,,141,,,Calendar years BP,100,376,pollen,2/13/2014,494,0.20242915
+7534,Deans Lake,44.77528,-93.44692,44.77926,44.7713,-93.4366,-93.45724,Vascular plants,Juglans cinerea,1,NISP,pollen,,209,,,Calendar years BP,100,228,pollen,2/13/2014,645.5,0.154918668
+7534,Deans Lake,44.77528,-93.44692,44.77926,44.7713,-93.4366,-93.45724,Vascular plants,Juglans cinerea,1,NISP,pollen,,733,,,Calendar years BP,320,228,pollen,2/13/2014,811,0.123304562
+7535,Lake Emily,44.30865,-93.92,44.3135,44.3038,-93.9138,-93.9262,Vascular plants,Juglans cinerea,1,NISP,pollen,,30,,,Calendar years BP,70,302,pollen,2/13/2014,315,0.317460317
+7535,Lake Emily,44.30865,-93.92,44.3135,44.3038,-93.9138,-93.9262,Vascular plants,Juglans cinerea,1,NISP,pollen,,55,,,Calendar years BP,100,302,pollen,2/13/2014,362,0.276243094
+7535,Lake Emily,44.30865,-93.92,44.3135,44.3038,-93.9138,-93.9262,Vascular plants,Juglans cinerea,3,NISP,pollen,,72,,,Calendar years BP,120,302,pollen,2/13/2014,299.5,1.001669449
+7535,Lake Emily,44.30865,-93.92,44.3135,44.3038,-93.9138,-93.9262,Vascular plants,Juglans cinerea,4,NISP,pollen,,80,,,Calendar years BP,130,302,pollen,2/13/2014,290,1.379310345
+7535,Lake Emily,44.30865,-93.92,44.3135,44.3038,-93.9138,-93.9262,Vascular plants,Juglans cinerea,1,NISP,pollen,,133,,,Calendar years BP,193,302,pollen,2/13/2014,348,0.287356322
+7536,Perch Lake,46.19165,-95.4687,46.1959,46.1874,-95.465,-95.4724,Vascular plants,Juglans cinerea,1,NISP,pollen,,66,,,Calendar years BP,60,477,pollen,2/13/2014,373,0.268096515
+7538,Lake Rachel,45.80155,-95.55285,45.8078,45.7953,-95.5441,-95.5616,Vascular plants,Juglans cinerea,1,NISP,pollen,,173,,,Calendar years BP,55,415,pollen,2/14/2014,561.5,0.17809439
+7538,Lake Rachel,45.80155,-95.55285,45.8078,45.7953,-95.5441,-95.5616,Vascular plants,Juglans cinerea,1,NISP,pollen,,210,,,Calendar years BP,65,415,pollen,2/14/2014,517.5,0.193236715
+7540,Mud Lake,45.8576,-95.4609,45.8607,45.8545,-95.4561,-95.4657,Vascular plants,Juglans cinerea,1,NISP,pollen,,86,,,Calendar years BP,65,415,pollen,2/15/2014,407,0.245700246
+7540,Mud Lake,45.8576,-95.4609,45.8607,45.8545,-95.4561,-95.4657,Vascular plants,Juglans cinerea,1,NISP,pollen,,139,,,Calendar years BP,95,415,pollen,2/15/2014,314,0.318471338
+7540,Mud Lake,45.8576,-95.4609,45.8607,45.8545,-95.4561,-95.4657,Vascular plants,Juglans cinerea,1,NISP,pollen,,157,,,Calendar years BP,105,415,pollen,2/15/2014,499.5,0.2002002
+7540,Mud Lake,45.8576,-95.4609,45.8607,45.8545,-95.4561,-95.4657,Vascular plants,Juglans cinerea,1,NISP,pollen,,166,,,Calendar years BP,110,415,pollen,2/15/2014,609,0.164203612
+7540,Mud Lake,45.8576,-95.4609,45.8607,45.8545,-95.4561,-95.4657,Vascular plants,Juglans cinerea,1,NISP,pollen,,237,,,Calendar years BP,150,415,pollen,2/15/2014,278.5,0.359066427
+7540,Mud Lake,45.8576,-95.4609,45.8607,45.8545,-95.4561,-95.4657,Vascular plants,Juglans cinerea,1,NISP,pollen,,272,,,Calendar years BP,170,415,pollen,2/15/2014,355.5,0.281293952
+7541,Lybeck Lake,45.6745,-95.7125,45.679,45.67,-95.708,-95.717,Vascular plants,Juglans cinerea,1,NISP,pollen,,49,,,Calendar years BP,35,356,pollen,2/15/2014,356.5,0.280504909
+7541,Lybeck Lake,45.6745,-95.7125,45.679,45.67,-95.708,-95.717,Vascular plants,Juglans cinerea,1,NISP,pollen,,131,,,Calendar years BP,70,356,pollen,2/15/2014,334,0.299401198
+7542,Union Lake,45.81725,-95.34235,45.8207,45.8138,-95.3363,-95.3484,Vascular plants,Juglans cinerea,1,NISP,pollen,,-27,,,Calendar years BP,1,423,pollen,2/15/2014,437.5,0.228571429
+7542,Union Lake,45.81725,-95.34235,45.8207,45.8138,-95.3363,-95.3484,Vascular plants,Juglans cinerea,1,NISP,pollen,,330,,,Calendar years BP,120,423,pollen,2/15/2014,413,0.242130751
+7542,Union Lake,45.81725,-95.34235,45.8207,45.8138,-95.3363,-95.3484,Vascular plants,Juglans cinerea,1,NISP,pollen,,420,,,Calendar years BP,150,423,pollen,2/15/2014,453,0.220750552
+7543,Albert Lea Lake,43.65255,-93.284,43.6582,43.6469,-93.2786,-93.2894,Vascular plants,Juglans cinerea,1,NISP,pollen,,-27,,,Calendar years BP,1,369,pollen,2/16/2014,644.5,0.155159038
+7543,Albert Lea Lake,43.65255,-93.284,43.6582,43.6469,-93.2786,-93.2894,Vascular plants,Juglans cinerea,1,NISP,pollen,,166,,,Calendar years BP,90,369,pollen,2/16/2014,343,0.29154519
+7543,Albert Lea Lake,43.65255,-93.284,43.6582,43.6469,-93.2786,-93.2894,Vascular plants,Juglans cinerea,1,NISP,pollen,,209,,,Calendar years BP,110,369,pollen,2/16/2014,385.5,0.259403372
+7549,Everhart Lake,43.6176,-93.43875,43.6198,43.6154,-93.4351,-93.4424,Vascular plants,Juglans cinerea,1,NISP,pollen,,49,,,Calendar years BP,25,392,pollen,3/15/2014,416.5,0.240096038
+7549,Everhart Lake,43.6176,-93.43875,43.6198,43.6154,-93.4351,-93.4424,Vascular plants,Juglans cinerea,2,NISP,pollen,,363,,,Calendar years BP,125,392,pollen,3/15/2014,225.5,0.88691796
+8565,Oak Glen Lake,43.92945,-93.0815,43.9343,43.9246,-93.0754,-93.0876,Vascular plants,Juglans cinerea,1,NISP,pollen,,-29,,,Calendar years BP,165,391,pollen,4/27/2014,933.5,0.107123728
+8565,Oak Glen Lake,43.92945,-93.0815,43.9343,43.9246,-93.0754,-93.0876,Vascular plants,Juglans cinerea,2,NISP,pollen,,86,,,Calendar years BP,212,391,pollen,4/27/2014,511.5,0.391006843
+8565,Oak Glen Lake,43.92945,-93.0815,43.9343,43.9246,-93.0754,-93.0876,Vascular plants,Juglans cinerea,1,NISP,pollen,,94,,,Calendar years BP,215,391,pollen,4/27/2014,513.5,0.194741967
+8565,Oak Glen Lake,43.92945,-93.0815,43.9343,43.9246,-93.0754,-93.0876,Vascular plants,Juglans cinerea,1,NISP,pollen,,180,,,Calendar years BP,250,391,pollen,4/27/2014,600.5,0.166527893
+8566,Camp Lake,45.40595,-95.39015,45.4133,45.3986,-95.3823,-95.398,Vascular plants,Juglans cinerea,1,NISP,pollen,,-27,,,Calendar years BP,1,344,pollen,4/30/2014,595,0.168067227
+8566,Camp Lake,45.40595,-95.39015,45.4133,45.3986,-95.3823,-95.398,Vascular plants,Juglans cinerea,1,NISP,pollen,,107,,,Calendar years BP,40,344,pollen,4/30/2014,776,0.128865979
+9735,Lake Sallie,46.77186,-95.896225,46.78554,46.75818,-95.87992,-95.91253,Vascular plants,Juglans cinerea,1,NISP,pollen,,53,,,Calendar years BP,41,405,pollen,8/13/2014,310,0.322580645
+9762,Johnson Lake,45.44376,-95.272065,45.44663,45.44089,-95.26753,-95.2766,Vascular plants,Juglans cinerea,1,NISP,pollen,,130,,,Calendar years BP,40,364,pollen,8/18/2014,492,0.203252033
+9762,Johnson Lake,45.44376,-95.272065,45.44663,45.44089,-95.26753,-95.2766,Vascular plants,Juglans cinerea,1,NISP,pollen,,210,,,Calendar years BP,60,364,pollen,8/18/2014,591,0.169204738
+10091,Elk Lake,47.18919,-95.21787,47.19675,47.18163,-95.2095,-95.22624,Vascular plants,Juglans cinerea,1,NISP,pollen,,-28,,,Calendar years BP,0,449,pollen,1/17/2015,198.5,0.503778338
+10091,Elk Lake,47.18919,-95.21787,47.19675,47.18163,-95.2095,-95.22624,Vascular plants,Juglans cinerea,2,NISP,pollen,,33,,,Calendar years BP,21,449,pollen,2/10/2015,326,0.613496933
+10091,Elk Lake,47.18919,-95.21787,47.19675,47.18163,-95.2095,-95.22624,Vascular plants,Juglans cinerea,1,NISP,pollen,,53,,,Calendar years BP,29,449,pollen,2/10/2015,306.5,0.326264274
+10121,St. Clair Lake,46.80338,-95.88068,46.80944,46.79732,-95.87523,-95.88613,Vascular plants,Juglans cinerea,1,NISP,pollen,,45,,,Calendar years BP,35,407,pollen,2/11/2015,384.5,0.260078023
+10121,St. Clair Lake,46.80338,-95.88068,46.80944,46.79732,-95.87523,-95.88613,Vascular plants,Juglans cinerea,1,NISP,pollen,,71,,,Calendar years BP,49,407,pollen,2/11/2015,345,0.289855072
+10121,St. Clair Lake,46.80338,-95.88068,46.80944,46.79732,-95.87523,-95.88613,Vascular plants,Juglans cinerea,1,NISP,pollen,,111,,,Calendar years BP,71,407,pollen,2/11/2015,631,0.158478605
+841,George Lake,44.2329,-93.87066,44.23611,44.22969,-93.86559,-93.87573,Vascular plants,Juglans cinerea,2,NISP,pollen,,-10,,,Calendar years BP,1,301,pollen,2/14/2015,474,0.421940928
+841,George Lake,44.2329,-93.87066,44.23611,44.22969,-93.86559,-93.87573,Vascular plants,Juglans cinerea,3,NISP,pollen,,69,,,Calendar years BP,30,301,pollen,2/14/2015,544,0.551470588
+841,George Lake,44.2329,-93.87066,44.23611,44.22969,-93.86559,-93.87573,Vascular plants,Juglans cinerea,7,NISP,pollen,,83,,,Calendar years BP,35,301,pollen,2/14/2015,439,1.59453303
+841,George Lake,44.2329,-93.87066,44.23611,44.22969,-93.86559,-93.87573,Vascular plants,Juglans cinerea,8,NISP,pollen,,97,,,Calendar years BP,40,301,pollen,2/14/2015,614,1.302931596
+841,George Lake,44.2329,-93.87066,44.23611,44.22969,-93.86559,-93.87573,Vascular plants,Juglans cinerea,1,NISP,pollen,,179,,,Calendar years BP,70,301,pollen,2/14/2015,474,0.210970464
+841,George Lake,44.2329,-93.87066,44.23611,44.22969,-93.86559,-93.87573,Vascular plants,Juglans cinerea,1,NISP,pollen,,234,,,Calendar years BP,90,301,pollen,2/14/2015,504,0.198412698
+841,George Lake,44.2329,-93.87066,44.23611,44.22969,-93.86559,-93.87573,Vascular plants,Juglans cinerea,1,NISP,pollen,,275,,,Calendar years BP,105,301,pollen,2/14/2015,525,0.19047619
+10134,Little Horseshoe Lake,45.590765,-93.06903,45.59348,45.58805,-93.06507,-93.07299,Vascular plants,Juglans cinerea,6,NISP,pollen,,-27,,,Calendar years BP,1,281,pollen,2/21/2015,939.5,0.638637573
+10134,Little Horseshoe Lake,45.590765,-93.06903,45.59348,45.58805,-93.06507,-93.07299,Vascular plants,Juglans cinerea,5,NISP,pollen,,-1,,,Calendar years BP,10,281,pollen,2/21/2015,775,0.64516129
+10134,Little Horseshoe Lake,45.590765,-93.06903,45.59348,45.58805,-93.06507,-93.07299,Vascular plants,Juglans cinerea,1,NISP,pollen,,27,,,Calendar years BP,20,281,pollen,2/21/2015,484,0.20661157
+10134,Little Horseshoe Lake,45.590765,-93.06903,45.59348,45.58805,-93.06507,-93.07299,Vascular plants,Juglans cinerea,4,NISP,pollen,,56,,,Calendar years BP,30,281,pollen,2/21/2015,566,0.706713781
+10134,Little Horseshoe Lake,45.590765,-93.06903,45.59348,45.58805,-93.06507,-93.07299,Vascular plants,Juglans cinerea,5.5,NISP,pollen,,84,,,Calendar years BP,40,281,pollen,2/21/2015,886.5,0.620417372
+10134,Little Horseshoe Lake,45.590765,-93.06903,45.59348,45.58805,-93.06507,-93.07299,Vascular plants,Juglans cinerea,2.5,NISP,pollen,,113,,,Calendar years BP,50,281,pollen,2/21/2015,556.5,0.449236298
+10134,Little Horseshoe Lake,45.590765,-93.06903,45.59348,45.58805,-93.06507,-93.07299,Vascular plants,Juglans cinerea,2,NISP,pollen,,141,,,Calendar years BP,60,281,pollen,2/21/2015,551,0.362976407
+10134,Little Horseshoe Lake,45.590765,-93.06903,45.59348,45.58805,-93.06507,-93.07299,Vascular plants,Juglans cinerea,1,NISP,pollen,,199,,,Calendar years BP,80,281,pollen,2/21/2015,585,0.170940171
+7532,Cottonwood Lake,44.6173,-95.68015,44.6243,44.6103,-95.6684,-95.6919,Vascular plants,Juglans cinerea,1,NISP,pollen,,,,,,15,324,pollen,2/22/2015,376,0.265957447
+7532,Cottonwood Lake,44.6173,-95.68015,44.6243,44.6103,-95.6684,-95.6919,Vascular plants,Juglans cinerea,2,NISP,pollen,,,,,,35,324,pollen,2/22/2015,277,0.722021661
+7532,Cottonwood Lake,44.6173,-95.68015,44.6243,44.6103,-95.6684,-95.6919,Vascular plants,Juglans cinerea,1,NISP,pollen,,,,,,40,324,pollen,2/22/2015,462,0.216450216
+10135,Cora Lake,46.165285,-95.32412,46.16933,46.16124,-95.31979,-95.32845,Vascular plants,Juglans cinerea,1,NISP,pollen,,96,,,Calendar years BP,40,586,pollen,2/23/2015,208.5,0.479616307
+10135,Cora Lake,46.165285,-95.32412,46.16933,46.16124,-95.31979,-95.32845,Vascular plants,Juglans cinerea,1,NISP,pollen,,158,,,Calendar years BP,60,586,pollen,2/23/2015,335.5,0.298062593
+10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Juglans cinerea,1,NISP,pollen,,-24,,,Calendar years BP,2.5,294,pollen,2/27/2015,370,0.27027027
+10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Juglans cinerea,2,NISP,pollen,,-19,,,Calendar years BP,6.2,294,pollen,2/27/2015,389,0.514138817
+10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Juglans cinerea,1,NISP,pollen,,-8,,,Calendar years BP,14.8,294,pollen,2/27/2015,538,0.185873606
+10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Juglans cinerea,1,NISP,pollen,,0,,,Calendar years BP,20.7,294,pollen,2/27/2015,228,0.438596491
+10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Juglans cinerea,2,NISP,pollen,,2,,,Calendar years BP,22,294,pollen,2/27/2015,449,0.445434298
+10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Juglans cinerea,2,NISP,pollen,,8,,,Calendar years BP,26.8,294,pollen,2/27/2015,217,0.921658986
+10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Juglans cinerea,1,NISP,pollen,,10,,,Calendar years BP,28.5,294,pollen,2/27/2015,290,0.344827586
+10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Juglans cinerea,1,NISP,pollen,,13,,,Calendar years BP,30.2,294,pollen,2/27/2015,426,0.234741784
+10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Juglans cinerea,1,NISP,pollen,,17,,,Calendar years BP,33.6,294,pollen,2/27/2015,315,0.317460317
+10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Juglans cinerea,1,NISP,pollen,,26,,,Calendar years BP,40,294,pollen,2/27/2015,393,0.254452926
+10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Juglans cinerea,1,NISP,pollen,,28,,,Calendar years BP,42,294,pollen,2/27/2015,522,0.191570881
+10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Juglans cinerea,1,NISP,pollen,,31,,,Calendar years BP,44,294,pollen,2/27/2015,568,0.176056338
+10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Juglans cinerea,2,NISP,pollen,,33,,,Calendar years BP,46,294,pollen,2/27/2015,383,0.522193211
+10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Juglans cinerea,2,NISP,pollen,,44,,,Calendar years BP,54,294,pollen,2/27/2015,328,0.609756098
+10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Juglans cinerea,3,NISP,pollen,,46,,,Calendar years BP,55.3,294,pollen,2/27/2015,268,1.119402985
+10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Juglans cinerea,1,NISP,pollen,,50,,,Calendar years BP,58.8,294,pollen,2/27/2015,244,0.409836066
+10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Juglans cinerea,1,NISP,pollen,,62,,,Calendar years BP,68,294,pollen,2/27/2015,249,0.401606426
+10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Juglans cinerea,2,NISP,pollen,,76,,,Calendar years BP,78.4,294,pollen,2/27/2015,268,0.746268657
+10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Juglans cinerea,1,NISP,pollen,,80,,,Calendar years BP,81.3,294,pollen,2/27/2015,393,0.254452926
+10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Juglans cinerea,1,NISP,pollen,,80,,,Calendar years BP,81.8,294,pollen,2/27/2015,462,0.216450216
+10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Juglans cinerea,2,NISP,pollen,,81,,,Calendar years BP,82,294,pollen,2/27/2015,404,0.495049505
+10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Juglans cinerea,1,NISP,pollen,,81,,,Calendar years BP,82.2,294,pollen,2/27/2015,407,0.245700246
+10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Juglans cinerea,1,NISP,pollen,,81,,,Calendar years BP,82.4,294,pollen,2/27/2015,411,0.243309002
+10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Juglans cinerea,1,NISP,pollen,,82,,,Calendar years BP,82.6,294,pollen,2/27/2015,384,0.260416667
+10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Juglans cinerea,1,NISP,pollen,,82,,,Calendar years BP,82.8,294,pollen,2/27/2015,323,0.309597523
+10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Juglans cinerea,2,NISP,pollen,,82,,,Calendar years BP,83.1,294,pollen,2/27/2015,302,0.662251656
+10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Juglans cinerea,1,NISP,pollen,,83,,,Calendar years BP,83.4,294,pollen,2/27/2015,323,0.309597523
+10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Juglans cinerea,4,NISP,pollen,,83,,,Calendar years BP,83.6,294,pollen,2/27/2015,404,0.99009901
+10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Juglans cinerea,1,NISP,pollen,,86,,,Calendar years BP,86,294,pollen,2/27/2015,543,0.184162063
+10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Juglans cinerea,3,NISP,pollen,,89,,,Calendar years BP,88,294,pollen,2/27/2015,512,0.5859375
+10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Juglans cinerea,3,NISP,pollen,,94,,,Calendar years BP,92,294,pollen,2/27/2015,858,0.34965035
+10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Juglans cinerea,3,NISP,pollen,,97,,,Calendar years BP,94,294,pollen,2/27/2015,600,0.5
+10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Juglans cinerea,1,NISP,pollen,,103,,,Calendar years BP,98.8,294,pollen,2/27/2015,599,0.166944908
+10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Juglans cinerea,1,NISP,pollen,,103,,,Calendar years BP,99,294,pollen,2/27/2015,355,0.281690141
+10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Juglans cinerea,1,NISP,pollen,,104,,,Calendar years BP,99.4,294,pollen,2/27/2015,518,0.193050193
+10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Juglans cinerea,3,NISP,pollen,,104,,,Calendar years BP,99.6,294,pollen,2/27/2015,538,0.557620818
+10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Juglans cinerea,3,NISP,pollen,,104,,,Calendar years BP,100,294,pollen,2/27/2015,641,0.468018721
+10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Juglans cinerea,2,NISP,pollen,,105,,,Calendar years BP,100.1,294,pollen,2/27/2015,622,0.321543408
+10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Juglans cinerea,2,NISP,pollen,,105,,,Calendar years BP,100.3,294,pollen,2/27/2015,301,0.664451827
+10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Juglans cinerea,5,NISP,pollen,,107,,,Calendar years BP,101.7,294,pollen,2/27/2015,627,0.797448166
+10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Juglans cinerea,1,NISP,pollen,,111,,,Calendar years BP,104.8,294,pollen,2/27/2015,272,0.367647059
+10144,Saint Olaf Lake,43.90284,-93.417225,43.90534,43.90034,-93.41124,-93.42321,Vascular plants,Juglans cinerea,1,NISP,pollen,,31,,,Calendar years BP,760,366,pollen,3/2/2015,712.5,0.140350877
+10144,Saint Olaf Lake,43.90284,-93.417225,43.90534,43.90034,-93.41124,-93.42321,Vascular plants,Juglans cinerea,3,NISP,pollen,,84,,,Calendar years BP,795,366,pollen,3/2/2015,509,0.589390963
+10144,Saint Olaf Lake,43.90284,-93.417225,43.90534,43.90034,-93.41124,-93.42321,Vascular plants,Juglans cinerea,1,NISP,pollen,,89,,,Calendar years BP,798,366,pollen,3/2/2015,364.5,0.274348422
+10144,Saint Olaf Lake,43.90284,-93.417225,43.90534,43.90034,-93.41124,-93.42321,Vascular plants,Juglans cinerea,2,NISP,pollen,,97,,,Calendar years BP,803,366,pollen,3/2/2015,745.5,0.268276325
+10144,Saint Olaf Lake,43.90284,-93.417225,43.90534,43.90034,-93.41124,-93.42321,Vascular plants,Juglans cinerea,1,NISP,pollen,,168,,,Calendar years BP,850,366,pollen,3/2/2015,548.5,0.182315406
+1359,Jones Lake,45.428085,-93.981475,45.43037,45.4258,-93.97474,-93.98821,Vascular plants,Juglans cinerea,3,NISP,pollen,,-6,,,Calendar years BP,1,293,pollen,3/2/2015,884,0.339366516
+1359,Jones Lake,45.428085,-93.981475,45.43037,45.4258,-93.97474,-93.98821,Vascular plants,Juglans cinerea,2,NISP,pollen,,59,,,Calendar years BP,10,293,pollen,3/2/2015,725,0.275862069
+1359,Jones Lake,45.428085,-93.981475,45.43037,45.4258,-93.97474,-93.98821,Vascular plants,Juglans cinerea,1,NISP,pollen,,131,,,Calendar years BP,20,293,pollen,3/2/2015,486,0.205761317
+1359,Jones Lake,45.428085,-93.981475,45.43037,45.4258,-93.97474,-93.98821,Vascular plants,Juglans cinerea,1,NISP,pollen,,203,,,Calendar years BP,30,293,pollen,3/2/2015,589,0.169779287
+1359,Jones Lake,45.428085,-93.981475,45.43037,45.4258,-93.97474,-93.98821,Vascular plants,Juglans cinerea,2,NISP,pollen,,347,,,Calendar years BP,50,293,pollen,3/2/2015,500,0.4
+1359,Jones Lake,45.428085,-93.981475,45.43037,45.4258,-93.97474,-93.98821,Vascular plants,Juglans cinerea,3,NISP,pollen,,419,,,Calendar years BP,60,293,pollen,3/2/2015,467,0.642398287
+10156,Long Lake,44.988845,-93.556405,44.99322,44.98447,-93.54317,-93.56964,Vascular plants,Juglans cinerea,1,NISP,pollen,,-27,-31,-23,Calibrated radiocarbon years BP,759,288,pollen,3/6/2015,520.5,0.192122959
+10156,Long Lake,44.988845,-93.556405,44.99322,44.98447,-93.54317,-93.56964,Vascular plants,Juglans cinerea,1,NISP,pollen,,3,-18,32,Calibrated radiocarbon years BP,777,288,pollen,3/6/2015,256.5,0.389863548
+10156,Long Lake,44.988845,-93.556405,44.99322,44.98447,-93.54317,-93.56964,Vascular plants,Juglans cinerea,1,NISP,pollen,,66,30,106,Calibrated radiocarbon years BP,813,288,pollen,3/6/2015,663,0.150829563
+10156,Long Lake,44.988845,-93.556405,44.99322,44.98447,-93.54317,-93.56964,Vascular plants,Juglans cinerea,1,NISP,pollen,,97,61,138,Calibrated radiocarbon years BP,831,288,pollen,3/6/2015,487.5,0.205128205
+10156,Long Lake,44.988845,-93.556405,44.99322,44.98447,-93.54317,-93.56964,Vascular plants,Juglans cinerea,1,NISP,pollen,,142,91,231,Calibrated radiocarbon years BP,849,288,pollen,3/6/2015,449.5,0.22246941
+10156,Long Lake,44.988845,-93.556405,44.99322,44.98447,-93.54317,-93.56964,Vascular plants,Juglans cinerea,2,NISP,pollen,,446,325,561,Calibrated radiocarbon years BP,885,288,pollen,3/6/2015,424,0.471698113
+10156,Long Lake,44.988845,-93.556405,44.99322,44.98447,-93.54317,-93.56964,Vascular plants,Juglans cinerea,1,NISP,pollen,,607,511,699,Calibrated radiocarbon years BP,903,288,pollen,3/6/2015,462,0.216450216
+10156,Long Lake,44.988845,-93.556405,44.99322,44.98447,-93.54317,-93.56964,Vascular plants,Juglans cinerea,1,NISP,pollen,,761,621,912,Calibrated radiocarbon years BP,921,288,pollen,3/6/2015,535.5,0.186741363
+10156,Long Lake,44.988845,-93.556405,44.99322,44.98447,-93.54317,-93.56964,Vascular plants,Juglans cinerea,3,NISP,pollen,,914,751,1088,Calibrated radiocarbon years BP,939,288,pollen,3/6/2015,542,0.553505535
+10156,Long Lake,44.988845,-93.556405,44.99322,44.98447,-93.54317,-93.56964,Vascular plants,Juglans cinerea,1,NISP,pollen,,2315,1997,2612,Calibrated radiocarbon years BP,1072,288,pollen,3/6/2015,499.5,0.2002002
+10156,Long Lake,44.988845,-93.556405,44.99322,44.98447,-93.54317,-93.56964,Vascular plants,Juglans cinerea,1,NISP,pollen,,2572,2233,2885,Calibrated radiocarbon years BP,1096,288,pollen,3/6/2015,538,0.185873606

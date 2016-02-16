@@ -1,349 +1,348 @@
 siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
-292,Bog D Pond,47.1775,-95.162675,47.178,47.177,-95.162,-95.16335,Vascular plants,Dalea candida,1.0,NISP,pollen,,25.0,,,Radiocarbon years BP,10.0,460.0,pollen,6/30/2007,497.0,0.201207243461
-292,Bog D Pond,47.1775,-95.162675,47.178,47.177,-95.162,-95.16335,Vascular plants,Dalea candida,1.0,NISP,pollen,,466.0,,,Radiocarbon years BP,70.0,460.0,pollen,6/30/2007,443.0,0.225733634312
-292,Bog D Pond,47.1775,-95.162675,47.178,47.177,-95.162,-95.16335,Vascular plants,Dalea candida,1.0,NISP,pollen,,3885.0,,,Radiocarbon years BP,410.0,460.0,pollen,6/30/2007,431.0,0.232018561485
-292,Bog D Pond,47.1775,-95.162675,47.178,47.177,-95.162,-95.16335,Vascular plants,Dalea candida,3.0,NISP,pollen,,4305.0,,,Radiocarbon years BP,440.0,460.0,pollen,6/30/2007,834.0,0.359712230216
-292,Bog D Pond,47.1775,-95.162675,47.178,47.177,-95.162,-95.16335,Vascular plants,Dalea candida,1.0,NISP,pollen,,4618.0,,,Radiocarbon years BP,460.0,460.0,pollen,6/30/2007,352.0,0.284090909091
-292,Bog D Pond,47.1775,-95.162675,47.178,47.177,-95.162,-95.16335,Vascular plants,Dalea candida,2.0,NISP,pollen,,6495.0,,,Radiocarbon years BP,580.0,460.0,pollen,6/30/2007,399.0,0.501253132832
-292,Bog D Pond,47.1775,-95.162675,47.178,47.177,-95.162,-95.16335,Vascular plants,Dalea candida,2.0,NISP,pollen,,7746.0,,,Radiocarbon years BP,660.0,460.0,pollen,6/30/2007,417.0,0.479616306954
-292,Bog D Pond,47.1775,-95.162675,47.178,47.177,-95.162,-95.16335,Vascular plants,Dalea candida,1.0,NISP,pollen,,8372.0,,,Radiocarbon years BP,700.0,460.0,pollen,6/30/2007,372.0,0.268817204301
-292,Bog D Pond,47.1775,-95.162675,47.178,47.177,-95.162,-95.16335,Vascular plants,Dalea candida,1.0,NISP,pollen,,9152.0,,,Radiocarbon years BP,740.0,460.0,pollen,6/30/2007,423.0,0.236406619385
-318,Burntside Lake,47.924167,-91.994722,47.924167,47.924167,-91.994722,-91.994722,Vascular plants,Dalea candida,1.0,NISP,pollen,,266.0,,,Radiocarbon years BP,35.0,,pollen,6/30/2007,400.0,0.25
-785,Lake Erie,41.92,-82.76,41.92,41.92,-82.76,-82.76,Vascular plants,Dalea candida,1.0,NISP,pollen,,8559.0,,,Radiocarbon years BP,250.0,168.0,pollen,6/30/2007,345.0,0.289855072464
-1652,Martin Pond,47.173975,-94.943965,47.17452,47.17343,-94.943,-94.94493,Vascular plants,Dalea candida,1.0,NISP,pollen,,4955.0,,,Radiocarbon years BP,355.0,472.0,pollen,6/30/2007,373.0,0.268096514745
-1652,Martin Pond,47.173975,-94.943965,47.17452,47.17343,-94.943,-94.94493,Vascular plants,Dalea candida,2.0,NISP,pollen,,5339.0,,,Radiocarbon years BP,375.0,472.0,pollen,6/30/2007,431.0,0.46403712297
-1652,Martin Pond,47.173975,-94.943965,47.17452,47.17343,-94.943,-94.94493,Vascular plants,Dalea candida,1.0,NISP,pollen,,7067.0,,,Radiocarbon years BP,465.0,472.0,pollen,6/30/2007,447.0,0.223713646532
-1652,Martin Pond,47.173975,-94.943965,47.17452,47.17343,-94.943,-94.94493,Vascular plants,Dalea candida,1.0,NISP,pollen,,8507.0,,,Radiocarbon years BP,540.0,472.0,pollen,6/30/2007,390.0,0.25641025641
-1711,Moon Lake,46.85592,-98.15984,46.86123,46.85061,-98.15463,-98.16505,Vascular plants,Dalea candida,1.0,NISP,pollen,,-35.0,,,Radiocarbon years BP,1296.0,444.0,pollen,6/30/2007,505.0,0.19801980198
-1711,Moon Lake,46.85592,-98.15984,46.86123,46.85061,-98.15463,-98.16505,Vascular plants,Dalea candida,2.0,NISP,pollen,,51.0,,,Radiocarbon years BP,1336.0,444.0,pollen,6/30/2007,564.0,0.354609929078
-1711,Moon Lake,46.85592,-98.15984,46.86123,46.85061,-98.15463,-98.16505,Vascular plants,Dalea candida,1.0,NISP,pollen,,539.0,,,Radiocarbon years BP,1449.8,444.0,pollen,6/30/2007,402.5,0.248447204969
-1711,Moon Lake,46.85592,-98.15984,46.86123,46.85061,-98.15463,-98.16505,Vascular plants,Dalea candida,1.0,NISP,pollen,,651.0,,,Radiocarbon years BP,1475.3,444.0,pollen,6/30/2007,621.5,0.160901045857
-1711,Moon Lake,46.85592,-98.15984,46.86123,46.85061,-98.15463,-98.16505,Vascular plants,Dalea candida,3.0,NISP,pollen,,802.0,,,Radiocarbon years BP,1509.4,444.0,pollen,6/30/2007,509.5,0.588812561335
-1711,Moon Lake,46.85592,-98.15984,46.86123,46.85061,-98.15463,-98.16505,Vascular plants,Dalea candida,2.0,NISP,pollen,,1218.0,,,Radiocarbon years BP,1576.0,444.0,pollen,6/30/2007,493.5,0.405268490375
-1711,Moon Lake,46.85592,-98.15984,46.86123,46.85061,-98.15463,-98.16505,Vascular plants,Dalea candida,3.0,NISP,pollen,,1313.0,,,Radiocarbon years BP,1584.0,444.0,pollen,6/30/2007,567.5,0.528634361233
-1711,Moon Lake,46.85592,-98.15984,46.86123,46.85061,-98.15463,-98.16505,Vascular plants,Dalea candida,1.0,NISP,pollen,,1994.0,,,Radiocarbon years BP,1640.8,444.0,pollen,6/30/2007,446.0,0.224215246637
-1711,Moon Lake,46.85592,-98.15984,46.86123,46.85061,-98.15463,-98.16505,Vascular plants,Dalea candida,1.0,NISP,pollen,,2441.0,,,Radiocarbon years BP,1674.2,444.0,pollen,6/30/2007,484.5,0.206398348813
-1711,Moon Lake,46.85592,-98.15984,46.86123,46.85061,-98.15463,-98.16505,Vascular plants,Dalea candida,1.0,NISP,pollen,,3855.0,,,Radiocarbon years BP,1752.7,444.0,pollen,6/30/2007,517.0,0.193423597679
-1711,Moon Lake,46.85592,-98.15984,46.86123,46.85061,-98.15463,-98.16505,Vascular plants,Dalea candida,1.0,NISP,pollen,,4590.0,,,Radiocarbon years BP,1793.5,444.0,pollen,6/30/2007,633.5,0.157853196527
-1711,Moon Lake,46.85592,-98.15984,46.86123,46.85061,-98.15463,-98.16505,Vascular plants,Dalea candida,1.0,NISP,pollen,,4932.0,,,Radiocarbon years BP,1832.0,444.0,pollen,6/30/2007,473.5,0.211193241816
-1711,Moon Lake,46.85592,-98.15984,46.86123,46.85061,-98.15463,-98.16505,Vascular plants,Dalea candida,0.5,NISP,pollen,,5074.0,,,Radiocarbon years BP,1848.0,444.0,pollen,6/30/2007,575.5,0.0868809730669
-1711,Moon Lake,46.85592,-98.15984,46.86123,46.85061,-98.15463,-98.16505,Vascular plants,Dalea candida,4.0,NISP,pollen,,5429.0,,,Radiocarbon years BP,1888.0,444.0,pollen,6/30/2007,1791.0,0.223338916806
-1711,Moon Lake,46.85592,-98.15984,46.86123,46.85061,-98.15463,-98.16505,Vascular plants,Dalea candida,1.0,NISP,pollen,,5643.0,,,Radiocarbon years BP,1912.0,444.0,pollen,6/30/2007,366.0,0.273224043716
-1711,Moon Lake,46.85592,-98.15984,46.86123,46.85061,-98.15463,-98.16505,Vascular plants,Dalea candida,1.0,NISP,pollen,,5715.0,,,Radiocarbon years BP,1920.0,444.0,pollen,6/30/2007,786.5,0.127145581691
-1711,Moon Lake,46.85592,-98.15984,46.86123,46.85061,-98.15463,-98.16505,Vascular plants,Dalea candida,4.0,NISP,pollen,,5789.0,,,Radiocarbon years BP,1928.3,444.0,pollen,6/30/2007,419.0,0.954653937947
-1711,Moon Lake,46.85592,-98.15984,46.86123,46.85061,-98.15463,-98.16505,Vascular plants,Dalea candida,1.0,NISP,pollen,,5864.0,,,Radiocarbon years BP,1936.7,444.0,pollen,6/30/2007,1097.0,0.0911577028259
-1711,Moon Lake,46.85592,-98.15984,46.86123,46.85061,-98.15463,-98.16505,Vascular plants,Dalea candida,2.0,NISP,pollen,,5938.0,,,Radiocarbon years BP,1945.0,444.0,pollen,6/30/2007,578.5,0.345721694036
-1711,Moon Lake,46.85592,-98.15984,46.86123,46.85061,-98.15463,-98.16505,Vascular plants,Dalea candida,1.0,NISP,pollen,,6310.0,,,Radiocarbon years BP,1986.7,444.0,pollen,6/30/2007,444.5,0.224971878515
-1711,Moon Lake,46.85592,-98.15984,46.86123,46.85061,-98.15463,-98.16505,Vascular plants,Dalea candida,1.0,NISP,pollen,,6339.0,,,Radiocarbon years BP,2003.3,444.0,pollen,6/30/2007,411.5,0.243013365735
-1711,Moon Lake,46.85592,-98.15984,46.86123,46.85061,-98.15463,-98.16505,Vascular plants,Dalea candida,2.0,NISP,pollen,,6421.0,,,Radiocarbon years BP,2049.8,444.0,pollen,6/30/2007,422.5,0.473372781065
-1711,Moon Lake,46.85592,-98.15984,46.86123,46.85061,-98.15463,-98.16505,Vascular plants,Dalea candida,1.0,NISP,pollen,,6496.0,,,Radiocarbon years BP,2092.3,444.0,pollen,6/30/2007,686.0,0.145772594752
-1711,Moon Lake,46.85592,-98.15984,46.86123,46.85061,-98.15463,-98.16505,Vascular plants,Dalea candida,1.0,NISP,pollen,,6606.0,,,Radiocarbon years BP,2155.2,444.0,pollen,6/30/2007,476.5,0.209863588667
-1711,Moon Lake,46.85592,-98.15984,46.86123,46.85061,-98.15463,-98.16505,Vascular plants,Dalea candida,1.0,NISP,pollen,,6767.0,,,Radiocarbon years BP,2172.7,444.0,pollen,6/30/2007,430.0,0.232558139535
-1711,Moon Lake,46.85592,-98.15984,46.86123,46.85061,-98.15463,-98.16505,Vascular plants,Dalea candida,1.0,NISP,pollen,,6858.0,,,Radiocarbon years BP,2181.5,444.0,pollen,6/30/2007,483.5,0.206825232678
-1711,Moon Lake,46.85592,-98.15984,46.86123,46.85061,-98.15463,-98.16505,Vascular plants,Dalea candida,1.0,NISP,pollen,,7534.0,,,Radiocarbon years BP,2233.3,444.0,pollen,6/30/2007,624.5,0.160128102482
-1711,Moon Lake,46.85592,-98.15984,46.86123,46.85061,-98.15463,-98.16505,Vascular plants,Dalea candida,2.0,NISP,pollen,,7770.0,,,Radiocarbon years BP,2242.2,444.0,pollen,6/30/2007,408.0,0.490196078431
-1711,Moon Lake,46.85592,-98.15984,46.86123,46.85061,-98.15463,-98.16505,Vascular plants,Dalea candida,2.0,NISP,pollen,,7890.0,,,Radiocarbon years BP,2246.7,444.0,pollen,6/30/2007,486.5,0.411099691675
-1711,Moon Lake,46.85592,-98.15984,46.86123,46.85061,-98.15463,-98.16505,Vascular plants,Dalea candida,1.0,NISP,pollen,,9543.0,,,Radiocarbon years BP,2308.9,444.0,pollen,6/30/2007,420.0,0.238095238095
-1711,Moon Lake,46.85592,-98.15984,46.86123,46.85061,-98.15463,-98.16505,Vascular plants,Dalea candida,1.0,NISP,pollen,,9657.0,,,Radiocarbon years BP,2313.3,444.0,pollen,6/30/2007,586.5,0.170502983802
-1711,Moon Lake,46.85592,-98.15984,46.86123,46.85061,-98.15463,-98.16505,Vascular plants,Dalea candida,1.0,NISP,pollen,,10901.0,,,Radiocarbon years BP,2364.0,444.0,pollen,6/30/2007,919.0,0.108813928183
-1819,Peggy Lake,49.48,-92.0,49.48,49.48,-92.0,-92.0,Vascular plants,Dalea candida,1.0,NISP,pollen,,5954.0,,,Radiocarbon years BP,440.0,470.0,pollen,6/30/2007,419.0,0.238663484487
-1990,Rice Lake,48.00942,-101.53972,48.01617,48.00267,-101.52706,-101.55238,Vascular plants,Dalea candida,1.0,NISP,pollen,,233.0,,,Radiocarbon years BP,944.0,620.0,pollen,6/30/2007,471.5,0.212089077413
-1990,Rice Lake,48.00942,-101.53972,48.01617,48.00267,-101.52706,-101.55238,Vascular plants,Dalea candida,1.0,NISP,pollen,,259.0,,,Radiocarbon years BP,952.0,620.0,pollen,6/30/2007,418.0,0.239234449761
-1990,Rice Lake,48.00942,-101.53972,48.01617,48.00267,-101.52706,-101.55238,Vascular plants,Dalea candida,2.0,NISP,pollen,,285.0,,,Radiocarbon years BP,960.0,620.0,pollen,6/30/2007,759.0,0.263504611331
-1990,Rice Lake,48.00942,-101.53972,48.01617,48.00267,-101.52706,-101.55238,Vascular plants,Dalea candida,1.0,NISP,pollen,,361.0,,,Radiocarbon years BP,984.0,620.0,pollen,6/30/2007,404.5,0.247218788628
-1990,Rice Lake,48.00942,-101.53972,48.01617,48.00267,-101.52706,-101.55238,Vascular plants,Dalea candida,1.0,NISP,pollen,,387.0,,,Radiocarbon years BP,992.0,620.0,pollen,6/30/2007,469.5,0.212992545261
-1990,Rice Lake,48.00942,-101.53972,48.01617,48.00267,-101.52706,-101.55238,Vascular plants,Dalea candida,1.0,NISP,pollen,,591.0,,,Radiocarbon years BP,1056.0,620.0,pollen,6/30/2007,634.5,0.157604412924
-1990,Rice Lake,48.00942,-101.53972,48.01617,48.00267,-101.52706,-101.55238,Vascular plants,Dalea candida,1.0,NISP,pollen,,802.0,,,Radiocarbon years BP,1120.0,620.0,pollen,6/30/2007,461.5,0.216684723727
-1990,Rice Lake,48.00942,-101.53972,48.01617,48.00267,-101.52706,-101.55238,Vascular plants,Dalea candida,1.0,NISP,pollen,,1102.0,,,Radiocarbon years BP,1203.0,620.0,pollen,6/30/2007,444.0,0.225225225225
-1990,Rice Lake,48.00942,-101.53972,48.01617,48.00267,-101.52706,-101.55238,Vascular plants,Dalea candida,1.0,NISP,pollen,,1282.0,,,Radiocarbon years BP,1248.0,620.0,pollen,6/30/2007,406.5,0.246002460025
-1990,Rice Lake,48.00942,-101.53972,48.01617,48.00267,-101.52706,-101.55238,Vascular plants,Dalea candida,1.0,NISP,pollen,,1420.0,,,Radiocarbon years BP,1280.0,620.0,pollen,6/30/2007,423.5,0.236127508855
-1990,Rice Lake,48.00942,-101.53972,48.01617,48.00267,-101.52706,-101.55238,Vascular plants,Dalea candida,1.0,NISP,pollen,,1567.0,,,Radiocarbon years BP,1312.0,620.0,pollen,6/30/2007,497.0,0.201207243461
-1990,Rice Lake,48.00942,-101.53972,48.01617,48.00267,-101.52706,-101.55238,Vascular plants,Dalea candida,2.0,NISP,pollen,,1984.0,,,Radiocarbon years BP,1392.0,620.0,pollen,6/30/2007,424.5,0.471142520612
-1990,Rice Lake,48.00942,-101.53972,48.01617,48.00267,-101.52706,-101.55238,Vascular plants,Dalea candida,1.0,NISP,pollen,,2483.0,,,Radiocarbon years BP,1472.0,620.0,pollen,6/30/2007,600.0,0.166666666667
-1990,Rice Lake,48.00942,-101.53972,48.01617,48.00267,-101.52706,-101.55238,Vascular plants,Dalea candida,1.0,NISP,pollen,,2594.0,,,Radiocarbon years BP,1488.0,620.0,pollen,6/30/2007,410.5,0.243605359318
-1990,Rice Lake,48.00942,-101.53972,48.01617,48.00267,-101.52706,-101.55238,Vascular plants,Dalea candida,1.0,NISP,pollen,,2953.0,,,Radiocarbon years BP,1536.0,620.0,pollen,6/30/2007,639.5,0.156372165754
-1990,Rice Lake,48.00942,-101.53972,48.01617,48.00267,-101.52706,-101.55238,Vascular plants,Dalea candida,1.0,NISP,pollen,,4286.0,,,Radiocarbon years BP,1680.0,620.0,pollen,6/30/2007,563.5,0.177462289264
-1990,Rice Lake,48.00942,-101.53972,48.01617,48.00267,-101.52706,-101.55238,Vascular plants,Dalea candida,2.0,NISP,pollen,,4642.0,,,Radiocarbon years BP,1712.0,620.0,pollen,6/30/2007,406.0,0.492610837438
-1990,Rice Lake,48.00942,-101.53972,48.01617,48.00267,-101.52706,-101.55238,Vascular plants,Dalea candida,2.0,NISP,pollen,,4829.0,,,Radiocarbon years BP,1728.0,620.0,pollen,6/30/2007,553.0,0.361663652803
-1990,Rice Lake,48.00942,-101.53972,48.01617,48.00267,-101.52706,-101.55238,Vascular plants,Dalea candida,1.0,NISP,pollen,,5021.0,,,Radiocarbon years BP,1744.0,620.0,pollen,6/30/2007,468.0,0.213675213675
-1990,Rice Lake,48.00942,-101.53972,48.01617,48.00267,-101.52706,-101.55238,Vascular plants,Dalea candida,1.0,NISP,pollen,,5426.0,,,Radiocarbon years BP,1776.0,620.0,pollen,6/30/2007,421.5,0.237247924081
-1990,Rice Lake,48.00942,-101.53972,48.01617,48.00267,-101.52706,-101.55238,Vascular plants,Dalea candida,1.0,NISP,pollen,,5598.0,,,Radiocarbon years BP,1789.0,620.0,pollen,6/30/2007,593.0,0.168634064081
-1990,Rice Lake,48.00942,-101.53972,48.01617,48.00267,-101.52706,-101.55238,Vascular plants,Dalea candida,2.0,NISP,pollen,,5857.0,,,Radiocarbon years BP,1808.0,620.0,pollen,6/30/2007,408.0,0.490196078431
-1990,Rice Lake,48.00942,-101.53972,48.01617,48.00267,-101.52706,-101.55238,Vascular plants,Dalea candida,1.0,NISP,pollen,,6082.0,,,Radiocarbon years BP,1824.0,620.0,pollen,6/30/2007,742.0,0.134770889488
-1990,Rice Lake,48.00942,-101.53972,48.01617,48.00267,-101.52706,-101.55238,Vascular plants,Dalea candida,3.0,NISP,pollen,,6315.0,,,Radiocarbon years BP,1840.0,620.0,pollen,6/30/2007,494.5,0.606673407482
-1990,Rice Lake,48.00942,-101.53972,48.01617,48.00267,-101.52706,-101.55238,Vascular plants,Dalea candida,1.0,NISP,pollen,,6554.0,,,Radiocarbon years BP,1856.0,620.0,pollen,6/30/2007,473.0,0.211416490486
-1990,Rice Lake,48.00942,-101.53972,48.01617,48.00267,-101.52706,-101.55238,Vascular plants,Dalea candida,1.0,NISP,pollen,,6801.0,,,Radiocarbon years BP,1872.0,620.0,pollen,6/30/2007,438.5,0.228050171038
-1990,Rice Lake,48.00942,-101.53972,48.01617,48.00267,-101.52706,-101.55238,Vascular plants,Dalea candida,1.0,NISP,pollen,,7055.0,,,Radiocarbon years BP,1888.0,620.0,pollen,6/30/2007,440.5,0.227014755959
-1990,Rice Lake,48.00942,-101.53972,48.01617,48.00267,-101.52706,-101.55238,Vascular plants,Dalea candida,1.0,NISP,pollen,,7317.0,,,Radiocarbon years BP,1904.0,620.0,pollen,6/30/2007,426.5,0.234466588511
-1990,Rice Lake,48.00942,-101.53972,48.01617,48.00267,-101.52706,-101.55238,Vascular plants,Dalea candida,2.0,NISP,pollen,,7586.0,,,Radiocarbon years BP,1920.0,620.0,pollen,6/30/2007,537.5,0.372093023256
-1990,Rice Lake,48.00942,-101.53972,48.01617,48.00267,-101.52706,-101.55238,Vascular plants,Dalea candida,1.0,NISP,pollen,,7862.0,,,Radiocarbon years BP,1936.0,620.0,pollen,6/30/2007,492.0,0.20325203252
-1990,Rice Lake,48.00942,-101.53972,48.01617,48.00267,-101.52706,-101.55238,Vascular plants,Dalea candida,2.0,NISP,pollen,,8440.0,,,Radiocarbon years BP,1968.0,620.0,pollen,6/30/2007,600.5,0.333055786844
-1990,Rice Lake,48.00942,-101.53972,48.01617,48.00267,-101.52706,-101.55238,Vascular plants,Dalea candida,2.0,NISP,pollen,,8741.0,,,Radiocarbon years BP,1984.0,620.0,pollen,6/30/2007,529.0,0.378071833648
-2548,Quallen Lake [Terhell Pond],47.19324,-95.786645,47.1957,47.19078,-95.78329,-95.79,Vascular plants,Dalea candida,1.0,NISP,pollen,,2.0,,,Radiocarbon years BP,1.0,448.0,pollen,6/30/2007,505.0,0.19801980198
-2548,Quallen Lake [Terhell Pond],47.19324,-95.786645,47.1957,47.19078,-95.78329,-95.79,Vascular plants,Dalea candida,1.0,NISP,pollen,,60.0,,,Radiocarbon years BP,30.0,448.0,pollen,6/30/2007,462.0,0.21645021645
-2548,Quallen Lake [Terhell Pond],47.19324,-95.786645,47.1957,47.19078,-95.78329,-95.79,Vascular plants,Dalea candida,1.0,NISP,pollen,,3921.0,,,Radiocarbon years BP,510.0,448.0,pollen,6/30/2007,526.0,0.190114068441
-2548,Quallen Lake [Terhell Pond],47.19324,-95.786645,47.1957,47.19078,-95.78329,-95.79,Vascular plants,Dalea candida,1.0,NISP,pollen,,4087.0,,,Radiocarbon years BP,530.0,448.0,pollen,6/30/2007,504.0,0.198412698413
-2548,Quallen Lake [Terhell Pond],47.19324,-95.786645,47.1957,47.19078,-95.78329,-95.79,Vascular plants,Dalea candida,1.0,NISP,pollen,,4253.0,,,Radiocarbon years BP,550.0,448.0,pollen,6/30/2007,526.0,0.190114068441
-2548,Quallen Lake [Terhell Pond],47.19324,-95.786645,47.1957,47.19078,-95.78329,-95.79,Vascular plants,Dalea candida,1.0,NISP,pollen,,4362.0,,,Radiocarbon years BP,560.0,448.0,pollen,6/30/2007,632.0,0.158227848101
-2548,Quallen Lake [Terhell Pond],47.19324,-95.786645,47.1957,47.19078,-95.78329,-95.79,Vascular plants,Dalea candida,1.0,NISP,pollen,,4822.0,,,Radiocarbon years BP,600.0,448.0,pollen,6/30/2007,443.0,0.225733634312
-2548,Quallen Lake [Terhell Pond],47.19324,-95.786645,47.1957,47.19078,-95.78329,-95.79,Vascular plants,Dalea candida,1.0,NISP,pollen,,5052.0,,,Radiocarbon years BP,620.0,448.0,pollen,6/30/2007,453.0,0.220750551876
-2548,Quallen Lake [Terhell Pond],47.19324,-95.786645,47.1957,47.19078,-95.78329,-95.79,Vascular plants,Dalea candida,2.0,NISP,pollen,,6376.0,,,Radiocarbon years BP,735.0,448.0,pollen,6/30/2007,480.0,0.416666666667
-2548,Quallen Lake [Terhell Pond],47.19324,-95.786645,47.1957,47.19078,-95.78329,-95.79,Vascular plants,Dalea candida,1.0,NISP,pollen,,7123.0,,,Radiocarbon years BP,800.0,448.0,pollen,6/30/2007,464.0,0.215517241379
-2548,Quallen Lake [Terhell Pond],47.19324,-95.786645,47.1957,47.19078,-95.78329,-95.79,Vascular plants,Dalea candida,3.0,NISP,pollen,,7526.0,,,Radiocarbon years BP,835.0,448.0,pollen,6/30/2007,516.0,0.581395348837
-2548,Quallen Lake [Terhell Pond],47.19324,-95.786645,47.1957,47.19078,-95.78329,-95.79,Vascular plants,Dalea candida,1.0,NISP,pollen,,8677.0,,,Radiocarbon years BP,935.0,448.0,pollen,6/30/2007,360.0,0.277777777778
-1813,Pickerel Lake,45.501375,-97.27683,45.52583,45.47692,-97.26299,-97.29067,Vascular plants,Dalea candida,2.0,NISP,pollen,,50.0,,,Radiocarbon years BP,210.0,395.0,pollen,6/30/2007,334.0,0.59880239521
-1813,Pickerel Lake,45.501375,-97.27683,45.52583,45.47692,-97.26299,-97.29067,Vascular plants,Dalea candida,1.0,NISP,pollen,,1957.0,,,Radiocarbon years BP,280.0,395.0,pollen,6/30/2007,371.0,0.269541778976
-1813,Pickerel Lake,45.501375,-97.27683,45.52583,45.47692,-97.26299,-97.29067,Vascular plants,Dalea candida,2.0,NISP,pollen,,4063.0,,,Radiocarbon years BP,400.0,395.0,pollen,6/30/2007,316.0,0.632911392405
-1813,Pickerel Lake,45.501375,-97.27683,45.52583,45.47692,-97.26299,-97.29067,Vascular plants,Dalea candida,2.0,NISP,pollen,,4991.0,,,Radiocarbon years BP,480.0,395.0,pollen,6/30/2007,312.0,0.641025641026
-1813,Pickerel Lake,45.501375,-97.27683,45.52583,45.47692,-97.26299,-97.29067,Vascular plants,Dalea candida,1.0,NISP,pollen,,7365.0,,,Radiocarbon years BP,690.0,395.0,pollen,6/30/2007,307.0,0.325732899023
-1222,Spiritwood Lake,47.074695,-98.5866,47.08102,47.06837,-98.56972,-98.60348,Vascular plants,Dalea candida,2.0,NISP,pollen,,3417.0,,,Radiocarbon years BP,630.0,437.0,pollen,6/30/2007,376.0,0.531914893617
-1222,Spiritwood Lake,47.074695,-98.5866,47.08102,47.06837,-98.56972,-98.60348,Vascular plants,Dalea candida,1.0,NISP,pollen,,4390.0,,,Radiocarbon years BP,710.0,437.0,pollen,6/30/2007,359.0,0.278551532033
-1222,Spiritwood Lake,47.074695,-98.5866,47.08102,47.06837,-98.56972,-98.60348,Vascular plants,Dalea candida,2.0,NISP,pollen,,4843.0,,,Radiocarbon years BP,750.0,437.0,pollen,6/30/2007,344.0,0.581395348837
-1222,Spiritwood Lake,47.074695,-98.5866,47.08102,47.06837,-98.56972,-98.60348,Vascular plants,Dalea candida,4.0,NISP,pollen,,5268.0,,,Radiocarbon years BP,810.0,437.0,pollen,6/30/2007,347.0,1.15273775216
-1222,Spiritwood Lake,47.074695,-98.5866,47.08102,47.06837,-98.56972,-98.60348,Vascular plants,Dalea candida,1.0,NISP,pollen,,5367.0,,,Radiocarbon years BP,830.0,437.0,pollen,6/30/2007,294.0,0.340136054422
-1222,Spiritwood Lake,47.074695,-98.5866,47.08102,47.06837,-98.56972,-98.60348,Vascular plants,Dalea candida,1.0,NISP,pollen,,6355.0,,,Radiocarbon years BP,1130.0,437.0,pollen,6/30/2007,356.0,0.280898876404
-1222,Spiritwood Lake,47.074695,-98.5866,47.08102,47.06837,-98.56972,-98.60348,Vascular plants,Dalea candida,1.0,NISP,pollen,,8612.0,,,Radiocarbon years BP,1370.0,437.0,pollen,6/30/2007,395.0,0.253164556962
-1222,Spiritwood Lake,47.074695,-98.5866,47.08102,47.06837,-98.56972,-98.60348,Vascular plants,Dalea candida,1.0,NISP,pollen,,9882.0,,,Radiocarbon years BP,1410.0,437.0,pollen,6/30/2007,361.0,0.277008310249
-8561,West Olaf Lake,46.5986,-96.18675,46.6043,46.5929,-96.1755,-96.198,Vascular plants,Dalea candida,1.0,NISP,pollen,,6844.0,,,Calibrated radiocarbon years BP,1470.0,393.0,pollen,4/9/2014,361.0,0.277008310249
-10142,LaSalle Lake,47.33732,-95.16525,47.34647,47.32817,-95.15623,-95.17427,Vascular plants,Dalea candida,1.0,NISP,pollen,,135.0,,,Varve years BP,160.0,422.0,pollen,3/1/2015,442.0,0.226244343891
-10142,LaSalle Lake,47.33732,-95.16525,47.34647,47.32817,-95.15623,-95.17427,Vascular plants,Dalea candida,1.0,NISP,pollen,,203.0,,,Varve years BP,228.0,422.0,pollen,3/1/2015,337.0,0.296735905045
-10456,Mayflower Lake,45.3898611111,-79.2165277778,45.3913888889,45.3883333333,-79.2138888889,-79.2191666667,Vascular plants,Dalea candida,1.0,NISP,pollen,,4894.0,4178.0,5552.0,Calibrated radiocarbon years BP,210.0,189.0,pollen,5/30/2015,321.0,0.311526479751
-siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
-29,Lake Allie,44.8036,-94.5579,44.8138,44.7934,-94.5483,-94.5675,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,-12.0,,,Radiocarbon years BP,1.0,328.0,pollen,6/30/2007,404.0,0.247524752475
-29,Lake Allie,44.8036,-94.5579,44.8138,44.7934,-94.5483,-94.5675,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,116.0,,,Radiocarbon years BP,40.0,328.0,pollen,6/30/2007,336.0,0.297619047619
-29,Lake Allie,44.8036,-94.5579,44.8138,44.7934,-94.5483,-94.5675,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,182.0,,,Radiocarbon years BP,60.0,328.0,pollen,6/30/2007,358.0,0.279329608939
-204,Andree Bog,45.725,-93.25,45.725,45.725,-93.25,-93.25,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,8970.0,,,Radiocarbon years BP,425.0,300.0,pollen,6/30/2007,557.0,0.179533213645
-204,Andree Bog,45.725,-93.25,45.725,45.725,-93.25,-93.25,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,10667.0,,,Radiocarbon years BP,565.0,300.0,pollen,6/30/2007,525.0,0.190476190476
-266,Big John Pond,47.559175,-94.970775,47.56018,47.55817,-94.96931,-94.97224,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,5559.0,,,Radiocarbon years BP,200.0,421.0,pollen,6/30/2007,418.0,0.239234449761
-299,Bossuot Lake,44.296475,-93.73571,44.30067,44.29228,-93.72938,-93.74204,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,200.0,,,Radiocarbon years BP,70.0,310.0,pollen,6/30/2007,441.0,0.226757369615
-327,Campbell Lake,44.70722,-93.497645,44.71047,44.70397,-93.49075,-93.50454,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,62.0,,,Radiocarbon years BP,30.0,281.0,pollen,6/30/2007,599.0,0.16694490818
-327,Campbell Lake,44.70722,-93.497645,44.71047,44.70397,-93.49075,-93.50454,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,215.0,,,Radiocarbon years BP,90.0,281.0,pollen,6/30/2007,589.0,0.169779286927
-344,Cedar Bog,45.411111,-93.197222,45.411111,45.411111,-93.197222,-93.197222,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,1812.0,,,Radiocarbon years BP,270.0,,pollen,6/30/2007,545.0,0.183486238532
-344,Cedar Bog,45.411111,-93.197222,45.411111,45.411111,-93.197222,-93.197222,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,4313.0,,,Radiocarbon years BP,430.0,,pollen,6/30/2007,305.0,0.327868852459
-344,Cedar Bog,45.411111,-93.197222,45.411111,45.411111,-93.197222,-93.197222,Vascular plants,Dalea candida-type,2.0,NISP,pollen,,4590.0,,,Radiocarbon years BP,470.0,,pollen,6/30/2007,520.0,0.384615384615
-344,Cedar Bog,45.411111,-93.197222,45.411111,45.411111,-93.197222,-93.197222,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,4867.0,,,Radiocarbon years BP,510.0,,pollen,6/30/2007,284.0,0.352112676056
-344,Cedar Bog,45.411111,-93.197222,45.411111,45.411111,-93.197222,-93.197222,Vascular plants,Dalea candida-type,3.0,NISP,pollen,,5144.0,,,Radiocarbon years BP,550.0,,pollen,6/30/2007,401.0,0.74812967581
-344,Cedar Bog,45.411111,-93.197222,45.411111,45.411111,-93.197222,-93.197222,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,6806.0,,,Radiocarbon years BP,790.0,,pollen,6/30/2007,511.0,0.195694716243
-344,Cedar Bog,45.411111,-93.197222,45.411111,45.411111,-93.197222,-93.197222,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,7083.0,,,Radiocarbon years BP,830.0,,pollen,6/30/2007,1094.0,0.091407678245
-500,Cottonwood Lake,44.835435,-99.90806,44.84519,44.82568,-99.89006,-99.92606,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,20.0,,,Radiocarbon years BP,332.0,549.0,pollen,6/30/2007,525.0,0.190476190476
-500,Cottonwood Lake,44.835435,-99.90806,44.84519,44.82568,-99.89006,-99.92606,Vascular plants,Dalea candida-type,4.0,NISP,pollen,,60.0,,,Radiocarbon years BP,344.0,549.0,pollen,6/30/2007,561.5,0.712377560107
-500,Cottonwood Lake,44.835435,-99.90806,44.84519,44.82568,-99.89006,-99.92606,Vascular plants,Dalea candida-type,5.0,NISP,pollen,,126.0,,,Radiocarbon years BP,360.0,549.0,pollen,6/30/2007,831.5,0.601322910403
-500,Cottonwood Lake,44.835435,-99.90806,44.84519,44.82568,-99.89006,-99.92606,Vascular plants,Dalea candida-type,7.0,NISP,pollen,,159.0,,,Radiocarbon years BP,368.0,549.0,pollen,6/30/2007,451.5,1.5503875969
-500,Cottonwood Lake,44.835435,-99.90806,44.84519,44.82568,-99.89006,-99.92606,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,226.0,,,Radiocarbon years BP,384.0,549.0,pollen,6/30/2007,714.5,0.139958012596
-500,Cottonwood Lake,44.835435,-99.90806,44.84519,44.82568,-99.89006,-99.92606,Vascular plants,Dalea candida-type,2.0,NISP,pollen,,563.0,,,Radiocarbon years BP,400.0,549.0,pollen,6/30/2007,919.5,0.217509516041
-500,Cottonwood Lake,44.835435,-99.90806,44.84519,44.82568,-99.89006,-99.92606,Vascular plants,Dalea candida-type,25.0,NISP,pollen,,977.0,,,Radiocarbon years BP,416.0,549.0,pollen,6/30/2007,752.5,3.32225913621
-500,Cottonwood Lake,44.835435,-99.90806,44.84519,44.82568,-99.89006,-99.92606,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,1287.0,,,Radiocarbon years BP,428.0,549.0,pollen,6/30/2007,707.5,0.141342756184
-500,Cottonwood Lake,44.835435,-99.90806,44.84519,44.82568,-99.89006,-99.92606,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,1804.0,,,Radiocarbon years BP,448.0,549.0,pollen,6/30/2007,689.5,0.145032632342
-500,Cottonwood Lake,44.835435,-99.90806,44.84519,44.82568,-99.89006,-99.92606,Vascular plants,Dalea candida-type,2.0,NISP,pollen,,3666.0,,,Radiocarbon years BP,520.0,549.0,pollen,6/30/2007,380.0,0.526315789474
-500,Cottonwood Lake,44.835435,-99.90806,44.84519,44.82568,-99.89006,-99.92606,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,8023.0,,,Radiocarbon years BP,576.0,549.0,pollen,6/30/2007,338.5,0.295420974889
-500,Cottonwood Lake,44.835435,-99.90806,44.84519,44.82568,-99.89006,-99.92606,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,8206.0,,,Radiocarbon years BP,586.0,549.0,pollen,6/30/2007,569.5,0.17559262511
-500,Cottonwood Lake,44.835435,-99.90806,44.84519,44.82568,-99.89006,-99.92606,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,8661.0,,,Radiocarbon years BP,616.0,549.0,pollen,6/30/2007,617.0,0.162074554295
-500,Cottonwood Lake,44.835435,-99.90806,44.84519,44.82568,-99.89006,-99.92606,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,8761.0,,,Radiocarbon years BP,624.0,549.0,pollen,6/30/2007,644.5,0.155159038014
-500,Cottonwood Lake,44.835435,-99.90806,44.84519,44.82568,-99.89006,-99.92606,Vascular plants,Dalea candida-type,3.0,NISP,pollen,,8935.0,,,Radiocarbon years BP,640.0,549.0,pollen,6/30/2007,733.0,0.409276944065
-500,Cottonwood Lake,44.835435,-99.90806,44.84519,44.82568,-99.89006,-99.92606,Vascular plants,Dalea candida-type,4.0,NISP,pollen,,9079.0,,,Radiocarbon years BP,656.0,549.0,pollen,6/30/2007,936.0,0.42735042735
-500,Cottonwood Lake,44.835435,-99.90806,44.84519,44.82568,-99.89006,-99.92606,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,9198.0,,,Radiocarbon years BP,672.0,549.0,pollen,6/30/2007,665.5,0.15026296018
-500,Cottonwood Lake,44.835435,-99.90806,44.84519,44.82568,-99.89006,-99.92606,Vascular plants,Dalea candida-type,2.0,NISP,pollen,,9295.0,,,Radiocarbon years BP,688.0,549.0,pollen,6/30/2007,496.0,0.403225806452
-500,Cottonwood Lake,44.835435,-99.90806,44.84519,44.82568,-99.89006,-99.92606,Vascular plants,Dalea candida-type,6.0,NISP,pollen,,9355.0,,,Radiocarbon years BP,700.0,549.0,pollen,6/30/2007,733.0,0.818553888131
-500,Cottonwood Lake,44.835435,-99.90806,44.84519,44.82568,-99.89006,-99.92606,Vascular plants,Dalea candida-type,2.0,NISP,pollen,,9390.0,,,Radiocarbon years BP,708.0,549.0,pollen,6/30/2007,766.0,0.261096605744
-500,Cottonwood Lake,44.835435,-99.90806,44.84519,44.82568,-99.89006,-99.92606,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,9465.0,,,Radiocarbon years BP,728.0,549.0,pollen,6/30/2007,496.0,0.201612903226
-500,Cottonwood Lake,44.835435,-99.90806,44.84519,44.82568,-99.89006,-99.92606,Vascular plants,Dalea candida-type,5.0,NISP,pollen,,9503.0,,,Radiocarbon years BP,740.0,549.0,pollen,6/30/2007,615.5,0.812347684809
-500,Cottonwood Lake,44.835435,-99.90806,44.84519,44.82568,-99.89006,-99.92606,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,9526.0,,,Radiocarbon years BP,748.0,549.0,pollen,6/30/2007,770.5,0.129785853342
-500,Cottonwood Lake,44.835435,-99.90806,44.84519,44.82568,-99.89006,-99.92606,Vascular plants,Dalea candida-type,5.0,NISP,pollen,,9661.0,,,Radiocarbon years BP,796.0,549.0,pollen,6/30/2007,700.5,0.713775874375
-500,Cottonwood Lake,44.835435,-99.90806,44.84519,44.82568,-99.89006,-99.92606,Vascular plants,Dalea candida-type,3.0,NISP,pollen,,9715.0,,,Radiocarbon years BP,812.0,549.0,pollen,6/30/2007,678.5,0.442151805453
-500,Cottonwood Lake,44.835435,-99.90806,44.84519,44.82568,-99.89006,-99.92606,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,9781.0,,,Radiocarbon years BP,828.0,549.0,pollen,6/30/2007,665.0,0.15037593985
-500,Cottonwood Lake,44.835435,-99.90806,44.84519,44.82568,-99.89006,-99.92606,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,9862.0,,,Radiocarbon years BP,844.0,549.0,pollen,6/30/2007,637.0,0.156985871272
-500,Cottonwood Lake,44.835435,-99.90806,44.84519,44.82568,-99.89006,-99.92606,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,10182.0,,,Radiocarbon years BP,887.0,549.0,pollen,6/30/2007,805.0,0.124223602484
-500,Cottonwood Lake,44.835435,-99.90806,44.84519,44.82568,-99.89006,-99.92606,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,10805.0,,,Radiocarbon years BP,936.0,549.0,pollen,6/30/2007,897.0,0.111482720178
-500,Cottonwood Lake,44.835435,-99.90806,44.84519,44.82568,-99.89006,-99.92606,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,11544.0,,,Radiocarbon years BP,974.0,549.0,pollen,6/30/2007,512.5,0.19512195122
-502,Cottonwood Lake,45.76101,-96.01988,45.76618,45.75584,-96.01191,-96.02785,Vascular plants,Dalea candida-type,2.0,NISP,pollen,,105.0,,,Radiocarbon years BP,40.0,336.0,pollen,6/30/2007,391.0,0.511508951407
-508,Crazy Pond,47.182465,-95.73495,47.18493,47.18,-95.73287,-95.73703,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,382.0,,,Radiocarbon years BP,70.0,457.0,pollen,6/30/2007,520.0,0.192307692308
-530,Dalton Lake,46.173889,-95.915278,46.173889,46.173889,-95.915278,-95.915278,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,229.0,,,Radiocarbon years BP,90.0,418.0,pollen,6/30/2007,388.0,0.257731958763
-795,Faith Pond,47.272455,-96.09405,47.27333,47.27158,-96.0931,-96.095,Vascular plants,Dalea candida-type,2.0,NISP,pollen,,121.0,,,Radiocarbon years BP,40.0,347.0,pollen,6/30/2007,402.0,0.497512437811
-799,Farquar Lake,44.75815,-93.16449,44.76081,44.75549,-93.15986,-93.16912,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,36.0,,,Radiocarbon years BP,20.0,273.0,pollen,6/30/2007,1730.0,0.0578034682081
-799,Farquar Lake,44.75815,-93.16449,44.76081,44.75549,-93.15986,-93.16912,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,62.0,,,Radiocarbon years BP,30.0,273.0,pollen,6/30/2007,704.0,0.142045454545
-799,Farquar Lake,44.75815,-93.16449,44.76081,44.75549,-93.15986,-93.16912,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,419.0,,,Radiocarbon years BP,170.0,273.0,pollen,6/30/2007,463.0,0.215982721382
-824,French Lake,44.945765,-94.42074,44.9482,44.94333,-94.41676,-94.42472,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,2054.0,,,Radiocarbon years BP,920.0,327.0,pollen,6/30/2007,741.0,0.134952766532
-824,French Lake,44.945765,-94.42074,44.9482,44.94333,-94.41676,-94.42472,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,2580.0,,,Radiocarbon years BP,1000.0,327.0,pollen,6/30/2007,785.5,0.127307447486
-841,George Lake,44.2329,-93.87066,44.23611,44.22969,-93.86559,-93.87573,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,18.0,,,Radiocarbon years BP,10.0,301.0,pollen,6/30/2007,518.0,0.19305019305
-938,Goldsmith Lake,46.583333,-92.466667,46.583333,46.583333,-92.466667,-92.466667,Vascular plants,Dalea candida-type,2.0,NISP,pollen,,212.0,,,Radiocarbon years BP,40.0,,pollen,6/30/2007,352.0,0.568181818182
-959,Grice Pond,47.2036,-95.755515,47.20642,47.20078,-95.75192,-95.75911,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,650.0,,,Radiocarbon years BP,70.0,453.0,pollen,6/30/2007,395.0,0.253164556962
-1076,Blocknic Lake [Horse Pond],47.181535,-95.86866,47.18376,47.17931,-95.86691,-95.87041,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,23.0,,,Radiocarbon years BP,10.0,393.0,pollen,6/30/2007,394.0,0.253807106599
-1076,Blocknic Lake [Horse Pond],47.181535,-95.86866,47.18376,47.17931,-95.86691,-95.87041,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,99.0,,,Radiocarbon years BP,30.0,393.0,pollen,6/30/2007,372.0,0.268817204301
-1077,Horseshoe Lake,45.460278,-93.047778,45.460278,45.460278,-93.047778,-93.047778,Vascular plants,Dalea candida-type,3.0,NISP,pollen,,9332.0,,,Radiocarbon years BP,900.0,277.0,pollen,6/30/2007,434.0,0.691244239631
-1077,Horseshoe Lake,45.460278,-93.047778,45.460278,45.460278,-93.047778,-93.047778,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,12626.0,,,Radiocarbon years BP,1030.0,277.0,pollen,6/30/2007,787.0,0.12706480305
-1078,Hostage Lake,46.55,-94.133333,46.55,46.55,-94.133333,-94.133333,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,1432.0,,,Radiocarbon years BP,200.0,368.0,pollen,6/30/2007,370.5,0.269905533063
-1078,Hostage Lake,46.55,-94.133333,46.55,46.55,-94.133333,-94.133333,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,4630.0,,,Radiocarbon years BP,485.0,368.0,pollen,6/30/2007,359.0,0.278551532033
-1544,Lake Ann,45.425,-93.6875,45.425,45.425,-93.6875,-93.6875,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,314.0,,,Radiocarbon years BP,100.0,291.0,pollen,6/30/2007,398.0,0.251256281407
-1654,Mary Lake,44.45,-93.694444,44.45,44.45,-93.694444,-93.694444,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,,,,,1.0,306.0,pollen surface sample,6/30/2007,,
-1664,McCraney Lake,47.17087,-95.70266,47.17574,47.166,-95.689,-95.71632,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,53.0,,,Radiocarbon years BP,20.0,446.0,pollen,6/30/2007,337.0,0.296735905045
-1664,McCraney Lake,47.17087,-95.70266,47.17574,47.166,-95.689,-95.71632,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,189.0,,,Radiocarbon years BP,60.0,446.0,pollen,6/30/2007,328.0,0.30487804878
-1701,Lake Minnie,47.244755,-95.007715,47.24862,47.24089,-95.00459,-95.01084,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,5751.0,,,Radiocarbon years BP,170.0,430.0,pollen,6/30/2007,344.0,0.290697674419
-1703,Mirror Pool,46.525833,-97.241389,46.525833,46.525833,-97.241389,-97.241389,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,9000.0,,,Radiocarbon years BP,0.0,302.0,pollen,6/30/2007,462.0,0.21645021645
-1703,Mirror Pool,46.525833,-97.241389,46.525833,46.525833,-97.241389,-97.241389,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,9027.0,,,Radiocarbon years BP,5.0,302.0,pollen,6/30/2007,720.0,0.138888888889
-1703,Mirror Pool,46.525833,-97.241389,46.525833,46.525833,-97.241389,-97.241389,Vascular plants,Dalea candida-type,2.0,NISP,pollen,,9107.0,,,Radiocarbon years BP,20.0,302.0,pollen,6/30/2007,657.0,0.304414003044
-1720,Mud Lake,44.226105,-93.829815,44.23136,44.22085,-93.82444,-93.83519,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,285.0,,,Radiocarbon years BP,100.0,308.0,pollen,6/30/2007,859.0,0.11641443539
-1721,Mud Lake (US:Minnesota:Hubbard),46.866667,-94.75,46.866667,46.866667,-94.75,-94.75,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,2955.0,,,Radiocarbon years BP,460.0,424.0,pollen,6/30/2007,279.0,0.358422939068
-1724,Murphy Lake,44.711625,-93.341105,44.7142,44.70905,-93.337,-93.34521,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,177.0,,,Radiocarbon years BP,100.0,280.0,pollen,6/30/2007,574.0,0.174216027875
-1764,Lake Ogechie,46.133333,-93.783333,46.133333,46.133333,-93.783333,-93.783333,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,,,,,200.0,380.0,pollen,6/30/2007,522.0,0.191570881226
-1764,Lake Ogechie,46.133333,-93.783333,46.133333,46.133333,-93.783333,-93.783333,Vascular plants,Dalea candida-type,2.0,NISP,pollen,,,,,,280.0,380.0,pollen,6/30/2007,436.0,0.45871559633
-1764,Lake Ogechie,46.133333,-93.783333,46.133333,46.133333,-93.783333,-93.783333,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,,,,,340.0,380.0,pollen,6/30/2007,468.0,0.213675213675
-1764,Lake Ogechie,46.133333,-93.783333,46.133333,46.133333,-93.783333,-93.783333,Vascular plants,Dalea candida-type,2.0,NISP,pollen,,,,,,460.0,380.0,pollen,6/30/2007,392.0,0.510204081633
-1764,Lake Ogechie,46.133333,-93.783333,46.133333,46.133333,-93.783333,-93.783333,Vascular plants,Dalea candida-type,2.0,NISP,pollen,,,,,,660.0,380.0,pollen,6/30/2007,442.0,0.452488687783
-1764,Lake Ogechie,46.133333,-93.783333,46.133333,46.133333,-93.783333,-93.783333,Vascular plants,Dalea candida-type,2.0,NISP,pollen,,,,,,700.0,380.0,pollen,6/30/2007,549.0,0.364298724954
-1764,Lake Ogechie,46.133333,-93.783333,46.133333,46.133333,-93.783333,-93.783333,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,,,,,740.0,380.0,pollen,6/30/2007,493.0,0.202839756592
-1764,Lake Ogechie,46.133333,-93.783333,46.133333,46.133333,-93.783333,-93.783333,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,,,,,780.0,380.0,pollen,6/30/2007,488.0,0.204918032787
-1764,Lake Ogechie,46.133333,-93.783333,46.133333,46.133333,-93.783333,-93.783333,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,,,,,820.0,380.0,pollen,6/30/2007,499.0,0.200400801603
-1764,Lake Ogechie,46.133333,-93.783333,46.133333,46.133333,-93.783333,-93.783333,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,,,,,885.0,380.0,pollen,6/30/2007,432.0,0.231481481481
-1764,Lake Ogechie,46.133333,-93.783333,46.133333,46.133333,-93.783333,-93.783333,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,,,,,940.0,380.0,pollen,6/30/2007,553.0,0.180831826401
-1764,Lake Ogechie,46.133333,-93.783333,46.133333,46.133333,-93.783333,-93.783333,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,,,,,960.0,380.0,pollen,6/30/2007,460.0,0.217391304348
-1764,Lake Ogechie,46.133333,-93.783333,46.133333,46.133333,-93.783333,-93.783333,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,,,,,1040.0,380.0,pollen,6/30/2007,540.0,0.185185185185
-1764,Lake Ogechie,46.133333,-93.783333,46.133333,46.133333,-93.783333,-93.783333,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,,,,,1180.0,380.0,pollen,6/30/2007,619.0,0.16155088853
-1764,Lake Ogechie,46.133333,-93.783333,46.133333,46.133333,-93.783333,-93.783333,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,,,,,1220.0,380.0,pollen,6/30/2007,359.0,0.278551532033
-1764,Lake Ogechie,46.133333,-93.783333,46.133333,46.133333,-93.783333,-93.783333,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,,,,,1320.0,380.0,pollen,6/30/2007,361.0,0.277008310249
-1771,Lake Onamia,46.068333,-93.68,46.068333,46.068333,-93.68,-93.68,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,808.0,,,Radiocarbon years BP,130.0,380.0,pollen,6/30/2007,2456.0,0.0407166123779
-1799,Pasqua Lake,50.78,-104.0,50.78,50.78,-104.0,-104.0,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,63.0,,,Radiocarbon years BP,44.0,,pollen,6/30/2007,310.0,0.322580645161
-1799,Pasqua Lake,50.78,-104.0,50.78,50.78,-104.0,-104.0,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,92.0,,,Radiocarbon years BP,58.0,,pollen,6/30/2007,310.0,0.322580645161
-1799,Pasqua Lake,50.78,-104.0,50.78,50.78,-104.0,-104.0,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,94.0,,,Radiocarbon years BP,59.0,,pollen,6/30/2007,309.0,0.323624595469
-1799,Pasqua Lake,50.78,-104.0,50.78,50.78,-104.0,-104.0,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,126.0,,,Radiocarbon years BP,74.0,,pollen,6/30/2007,311.0,0.32154340836
-1799,Pasqua Lake,50.78,-104.0,50.78,50.78,-104.0,-104.0,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,141.0,,,Radiocarbon years BP,81.0,,pollen,6/30/2007,306.0,0.326797385621
-1799,Pasqua Lake,50.78,-104.0,50.78,50.78,-104.0,-104.0,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,145.0,,,Radiocarbon years BP,83.0,,pollen,6/30/2007,317.0,0.315457413249
-1799,Pasqua Lake,50.78,-104.0,50.78,50.78,-104.0,-104.0,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,153.0,,,Radiocarbon years BP,87.0,,pollen,6/30/2007,307.0,0.325732899023
-1799,Pasqua Lake,50.78,-104.0,50.78,50.78,-104.0,-104.0,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,191.0,,,Radiocarbon years BP,105.0,,pollen,6/30/2007,310.0,0.322580645161
-1799,Pasqua Lake,50.78,-104.0,50.78,50.78,-104.0,-104.0,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,199.0,,,Radiocarbon years BP,109.0,,pollen,6/30/2007,315.0,0.31746031746
-1799,Pasqua Lake,50.78,-104.0,50.78,50.78,-104.0,-104.0,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,225.0,,,Radiocarbon years BP,121.0,,pollen,6/30/2007,311.0,0.32154340836
-1799,Pasqua Lake,50.78,-104.0,50.78,50.78,-104.0,-104.0,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,233.0,,,Radiocarbon years BP,125.0,,pollen,6/30/2007,309.0,0.323624595469
-1799,Pasqua Lake,50.78,-104.0,50.78,50.78,-104.0,-104.0,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,349.0,,,Radiocarbon years BP,180.0,,pollen,6/30/2007,313.0,0.319488817891
-1827,Peterson Slough,46.966667,-95.316667,46.966667,46.966667,-95.316667,-95.316667,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,980.0,,,Radiocarbon years BP,150.0,460.0,pollen,6/30/2007,387.5,0.258064516129
-1891,Pleasant Lake,44.60587,-93.563475,44.61154,44.6002,-93.5538,-93.57315,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,-8.0,,,Radiocarbon years BP,1.0,274.0,pollen,6/30/2007,704.0,0.142045454545
-1891,Pleasant Lake,44.60587,-93.563475,44.61154,44.6002,-93.5538,-93.57315,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,265.0,,,Radiocarbon years BP,40.0,274.0,pollen,6/30/2007,532.0,0.187969924812
-1891,Pleasant Lake,44.60587,-93.563475,44.61154,44.6002,-93.5538,-93.57315,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,755.0,,,Radiocarbon years BP,110.0,274.0,pollen,6/30/2007,567.0,0.176366843034
-1901,Portage Lake,47.081,-94.113,47.087,47.075,-94.107,-94.119,Vascular plants,Dalea candida-type,2.0,NISP,pollen,,4570.0,,,Radiocarbon years BP,400.0,397.0,pollen,6/30/2007,420.0,0.47619047619
-1901,Portage Lake,47.081,-94.113,47.087,47.075,-94.107,-94.119,Vascular plants,Dalea candida-type,2.0,NISP,pollen,,4943.0,,,Radiocarbon years BP,440.0,397.0,pollen,6/30/2007,405.0,0.493827160494
-1901,Portage Lake,47.081,-94.113,47.087,47.075,-94.107,-94.119,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,5223.0,,,Radiocarbon years BP,470.0,397.0,pollen,6/30/2007,413.0,0.242130750605
-1901,Portage Lake,47.081,-94.113,47.087,47.075,-94.107,-94.119,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,5502.0,,,Radiocarbon years BP,500.0,397.0,pollen,6/30/2007,567.0,0.176366843034
-1901,Portage Lake,47.081,-94.113,47.087,47.075,-94.107,-94.119,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,6435.0,,,Radiocarbon years BP,600.0,397.0,pollen,6/30/2007,397.0,0.251889168766
-1901,Portage Lake,47.081,-94.113,47.087,47.075,-94.107,-94.119,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,9347.0,,,Radiocarbon years BP,770.0,397.0,pollen,6/30/2007,343.0,0.291545189504
-1978,Reichow Pond,47.190745,-95.77364,47.192,47.18949,-95.77188,-95.7754,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,645.0,,,Radiocarbon years BP,97.0,455.0,pollen,6/30/2007,415.0,0.240963855422
-1988,Rholl Lake,47.6,-96.166667,47.6,47.6,-96.166667,-96.166667,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,552.0,,,Radiocarbon years BP,100.0,,pollen,6/30/2007,366.0,0.273224043716
-1991,Rice Lake,46.922222,-95.575,46.922222,46.922222,-95.575,-95.575,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,1517.0,,,Radiocarbon years BP,70.0,443.0,pollen,6/30/2007,5317.0,0.0188075982697
-1991,Rice Lake,46.922222,-95.575,46.922222,46.922222,-95.575,-95.575,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,4690.0,,,Radiocarbon years BP,240.0,443.0,pollen,6/30/2007,493.0,0.202839756592
-1991,Rice Lake,46.922222,-95.575,46.922222,46.922222,-95.575,-95.575,Vascular plants,Dalea candida-type,2.0,NISP,pollen,,5035.0,,,Radiocarbon years BP,260.0,443.0,pollen,6/30/2007,610.0,0.327868852459
-2211,Rosebud,43.229167,-100.848611,43.229167,43.229167,-100.848611,-100.848611,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,12000.0,,,Radiocarbon years BP,500.0,,pollen,6/30/2007,396.0,0.252525252525
-2273,Sedivy Lake,47.208889,-95.833333,47.208889,47.208889,-95.833333,-95.833333,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,0.0,,,Radiocarbon years BP,10.0,405.0,pollen,6/30/2007,532.0,0.187969924812
-2273,Sedivy Lake,47.208889,-95.833333,47.208889,47.208889,-95.833333,-95.833333,Vascular plants,Dalea candida-type,2.0,NISP,pollen,,16.0,,,Radiocarbon years BP,20.0,405.0,pollen,6/30/2007,503.0,0.397614314115
-2301,Silver Lake,44.895835,-94.20414,44.9034,44.88827,-94.1906,-94.21768,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,153.0,,,Radiocarbon years BP,80.0,328.0,pollen,6/30/2007,371.0,0.269541778976
-2301,Silver Lake,44.895835,-94.20414,44.9034,44.88827,-94.1906,-94.21768,Vascular plants,Dalea candida-type,2.0,NISP,pollen,,174.0,,,Radiocarbon years BP,90.0,328.0,pollen,6/30/2007,371.0,0.539083557951
-2301,Silver Lake,44.895835,-94.20414,44.9034,44.88827,-94.1906,-94.21768,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,195.0,,,Radiocarbon years BP,100.0,328.0,pollen,6/30/2007,419.0,0.238663484487
-2500,South Stanchfield Lake,45.725,-93.466667,45.725,45.725,-93.466667,-93.466667,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,-14.0,,,Radiocarbon years BP,1.0,293.0,pollen,6/30/2007,687.0,0.145560407569
-2518,Stone Lake,45.4,-93.522222,45.4,45.4,-93.522222,-93.522222,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,682.0,,,Radiocarbon years BP,110.0,,pollen,6/30/2007,546.0,0.18315018315
-2524,Sunfish Lake,44.874722,-93.1,44.874722,44.874722,-93.1,-93.1,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,346.0,,,Radiocarbon years BP,110.0,,pollen,6/30/2007,445.0,0.224719101124
-2524,Sunfish Lake,44.874722,-93.1,44.874722,44.874722,-93.1,-93.1,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,478.0,,,Radiocarbon years BP,150.0,,pollen,6/30/2007,440.0,0.227272727273
-2530,Swan Lake,41.72106,-102.499255,41.72769,41.71443,-102.48,-102.51851,Vascular plants,Dalea candida-type,3.0,NISP,pollen,,763.0,,,Radiocarbon years BP,168.0,,pollen,6/30/2007,567.0,0.529100529101
-2530,Swan Lake,41.72106,-102.499255,41.72769,41.71443,-102.48,-102.51851,Vascular plants,Dalea candida-type,2.0,NISP,pollen,,1217.0,,,Radiocarbon years BP,268.0,,pollen,6/30/2007,591.0,0.338409475465
-2530,Swan Lake,41.72106,-102.499255,41.72769,41.71443,-102.48,-102.51851,Vascular plants,Dalea candida-type,2.0,NISP,pollen,,1671.0,,,Radiocarbon years BP,368.0,,pollen,6/30/2007,576.0,0.347222222222
-2530,Swan Lake,41.72106,-102.499255,41.72769,41.71443,-102.48,-102.51851,Vascular plants,Dalea candida-type,3.0,NISP,pollen,,2580.0,,,Radiocarbon years BP,568.0,,pollen,6/30/2007,594.0,0.505050505051
-2530,Swan Lake,41.72106,-102.499255,41.72769,41.71443,-102.48,-102.51851,Vascular plants,Dalea candida-type,2.0,NISP,pollen,,3053.0,,,Radiocarbon years BP,672.0,,pollen,6/30/2007,562.0,0.355871886121
-2530,Swan Lake,41.72106,-102.499255,41.72769,41.71443,-102.48,-102.51851,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,3742.0,,,Radiocarbon years BP,818.0,,pollen,6/30/2007,449.0,0.22271714922
-2530,Swan Lake,41.72106,-102.499255,41.72769,41.71443,-102.48,-102.51851,Vascular plants,Dalea candida-type,2.0,NISP,pollen,,6240.0,,,Radiocarbon years BP,1138.0,,pollen,6/30/2007,624.0,0.320512820513
-2530,Swan Lake,41.72106,-102.499255,41.72769,41.71443,-102.48,-102.51851,Vascular plants,Dalea candida-type,5.0,NISP,pollen,,8114.0,,,Radiocarbon years BP,1378.0,,pollen,6/30/2007,235.0,2.12765957447
-2557,Toenjes Lake,45.40895,-93.981715,45.40997,45.40793,-93.98004,-93.98339,Vascular plants,Dalea candida-type,2.0,NISP,pollen,,61.0,,,Radiocarbon years BP,40.0,,pollen,6/30/2007,599.0,0.333889816361
-2557,Toenjes Lake,45.40895,-93.981715,45.40997,45.40793,-93.98004,-93.98339,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,157.0,,,Radiocarbon years BP,90.0,,pollen,6/30/2007,450.0,0.222222222222
-2557,Toenjes Lake,45.40895,-93.981715,45.40997,45.40793,-93.98004,-93.98339,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,310.0,,,Radiocarbon years BP,170.0,,pollen,6/30/2007,545.0,0.183486238532
-2851,Wentzel's Pond,46.95,-94.95,46.95,46.95,-94.95,-94.95,Vascular plants,Dalea candida-type,3.0,NISP,pollen,,2893.0,,,Radiocarbon years BP,210.0,435.0,pollen,6/30/2007,345.5,0.868306801737
-2933,Wolsfeld Lake,45.005,-93.5727,45.008,45.002,-93.5684,-93.577,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,742.0,,,Radiocarbon years BP,738.0,292.0,pollen,6/30/2007,966.0,0.103519668737
-2933,Wolsfeld Lake,45.005,-93.5727,45.008,45.002,-93.5684,-93.577,Vascular plants,Dalea candida-type,2.0,NISP,pollen,,4605.0,,,Radiocarbon years BP,1210.0,292.0,pollen,6/30/2007,907.0,0.220507166483
-2933,Wolsfeld Lake,45.005,-93.5727,45.008,45.002,-93.5684,-93.577,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,7319.0,,,Radiocarbon years BP,1470.0,292.0,pollen,6/30/2007,488.0,0.204918032787
-2938,Woodworth Pond,47.15,-99.233333,47.15,47.15,-99.233333,-99.233333,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,2963.0,,,Radiocarbon years BP,50.0,580.0,pollen,6/30/2007,542.0,0.184501845018
-2938,Woodworth Pond,47.15,-99.233333,47.15,47.15,-99.233333,-99.233333,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,3556.0,,,Radiocarbon years BP,60.0,580.0,pollen,6/30/2007,678.0,0.147492625369
-1701,Lake Minnie,47.244755,-95.007715,47.24862,47.24089,-95.00459,-95.01084,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,4394.0,,,Radiocarbon years BP,470.0,430.0,pollen,6/30/2007,319.0,0.313479623824
-1701,Lake Minnie,47.244755,-95.007715,47.24862,47.24089,-95.00459,-95.01084,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,4547.0,,,Radiocarbon years BP,480.0,430.0,pollen,6/30/2007,338.0,0.295857988166
-1701,Lake Minnie,47.244755,-95.007715,47.24862,47.24089,-95.00459,-95.01084,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,4700.0,,,Radiocarbon years BP,490.0,430.0,pollen,6/30/2007,345.0,0.289855072464
-1701,Lake Minnie,47.244755,-95.007715,47.24862,47.24089,-95.00459,-95.01084,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,5158.0,,,Radiocarbon years BP,520.0,430.0,pollen,6/30/2007,341.0,0.293255131965
-1701,Lake Minnie,47.244755,-95.007715,47.24862,47.24089,-95.00459,-95.01084,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,7605.0,,,Radiocarbon years BP,680.0,430.0,pollen,6/30/2007,369.0,0.271002710027
-2855,White Lily Lake,46.086111,-93.102778,46.086111,46.086111,-93.102778,-93.102778,Vascular plants,Dalea candida-type,2.0,NISP,pollen,,8000.0,,,Radiocarbon years BP,670.0,344.0,pollen,6/30/2007,936.0,0.213675213675
-2855,White Lily Lake,46.086111,-93.102778,46.086111,46.086111,-93.102778,-93.102778,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,10925.0,,,Radiocarbon years BP,790.0,344.0,pollen,6/30/2007,910.0,0.10989010989
-6506,South Heron Lake,43.7195,-95.228,43.75,43.689,-95.186,-95.27,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,131.0,,,Calendar years BP,42.0,428.0,pollen,12/6/2013,373.0,0.268096514745
-6506,South Heron Lake,43.7195,-95.228,43.75,43.689,-95.186,-95.27,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,145.0,,,Calendar years BP,46.0,428.0,pollen,12/6/2013,418.0,0.239234449761
-6507,Ocheda Lake,43.56928,-95.59275,43.59211,43.54645,-95.54295,-95.64255,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,90.0,,,Calendar years BP,30.0,476.0,pollen,12/8/2013,397.0,0.251889168766
-6507,Ocheda Lake,43.56928,-95.59275,43.59211,43.54645,-95.54295,-95.64255,Vascular plants,Dalea candida-type,2.0,NISP,pollen,,124.0,,,Calendar years BP,40.0,476.0,pollen,12/8/2013,259.0,0.772200772201
-6511,Blomford Lake,45.4935,-93.1545,45.496,45.491,-93.152,-93.157,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,802.0,,,Calendar years BP,80.0,291.0,pollen,12/11/2013,831.5,0.120264582081
-6511,Blomford Lake,45.4935,-93.1545,45.496,45.491,-93.152,-93.157,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,1322.0,,,Calendar years BP,130.0,291.0,pollen,12/11/2013,377.0,0.26525198939
-6512,Fawn Lake,45.4072,-93.0532,45.4099,45.4045,-93.0494,-93.057,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,230.0,,,Calendar years BP,60.0,274.0,pollen,12/11/2013,413.0,0.242130750605
-6512,Fawn Lake,45.4072,-93.0532,45.4099,45.4045,-93.0494,-93.057,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,403.0,,,Calendar years BP,100.0,274.0,pollen,12/11/2013,601.0,0.166389351082
-6513,Frovold Lake,45.377,-95.5625,45.38,45.374,-95.557,-95.568,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,334.0,,,Calendar years BP,70.0,318.0,pollen,12/11/2013,340.5,0.293685756241
-6514,Goose Lake,44.99,-94.591,44.995,44.985,-94.586,-94.596,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,68.0,,,Calendar years BP,45.0,334.0,pollen,12/12/2013,243.5,0.41067761807
-6521,Round Grove Lake,44.709,-94.4935,44.718,44.7,-94.487,-94.5,Vascular plants,Dalea candida-type,2.0,NISP,pollen,,92.0,,,Calendar years BP,40.0,318.0,pollen,12/17/2013,526.0,0.380228136882
-6521,Round Grove Lake,44.709,-94.4935,44.718,44.7,-94.487,-94.5,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,123.0,,,Calendar years BP,50.0,318.0,pollen,12/17/2013,586.0,0.170648464164
-7533,Monson Lake,45.324,-95.27935,45.33,45.318,-95.269,-95.2897,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,-27.0,,,Calendar years BP,2.0,376.0,pollen,2/13/2014,1390.5,0.0719165767709
-7533,Monson Lake,45.324,-95.27935,45.33,45.318,-95.269,-95.2897,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,107.0,,,Calendar years BP,80.0,376.0,pollen,2/13/2014,326.5,0.306278713629
-7533,Monson Lake,45.324,-95.27935,45.33,45.318,-95.269,-95.2897,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,176.0,,,Calendar years BP,120.0,376.0,pollen,2/13/2014,840.0,0.119047619048
-7549,Everhart Lake,43.6176,-93.43875,43.6198,43.6154,-93.4351,-93.4424,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,221.0,,,Calendar years BP,80.0,392.0,pollen,3/15/2014,278.0,0.359712230216
-9604,Upper Carters Pond,47.153965,-109.42636,47.15657,47.15136,-109.42382,-109.4289,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,,,,,,1235.0,pollen surface sample,6/19/2014,,
-9612,Fork Reservoir,47.444725,-106.412405,47.44652,47.44293,-106.41045,-106.41436,Vascular plants,Dalea candida-type,3.0,NISP,pollen,,-47.0,,,Calendar years BP,8.0,737.0,pollen surface sample,6/23/2014,,
-9621,Phillips Charging Buffalo Dam,44.38938,-102.773975,44.39024,44.38852,-102.77316,-102.77479,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,-34.0,,,Calendar years BP,,759.0,pollen surface sample,6/23/2014,,
-9659,Unnamed Stock Dam,45.73753,-104.51315,45.73771,45.73735,-104.51292,-104.51338,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,-37.0,,,Calendar years BP,,1002.0,pollen surface sample,6/29/2014,,
-9661,Pot Hole Reservoir,45.62385,-104.13899,45.62475,45.62295,-104.1376,-104.14038,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,-37.0,,,Calendar years BP,,1098.0,pollen surface sample,6/29/2014,,
-9651,Bitter Lake,45.28149,-97.30256,45.31214,45.25084,-97.26608,-97.33904,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,-35.0,,,Calendar years BP,,540.0,pollen surface sample,6/30/2014,,
-9721,Bull Pond,39.391925,-96.928015,39.39256,39.39129,-96.92774,-96.92829,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,-58.0,,,Calendar years BP,,431.0,pollen surface sample,8/12/2014,,
-9735,Lake Sallie,46.77186,-95.896225,46.78554,46.75818,-95.87992,-95.91253,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,3.0,,,Calendar years BP,13.0,405.0,pollen,8/13/2014,502.5,0.199004975124
-9735,Lake Sallie,46.77186,-95.896225,46.78554,46.75818,-95.87992,-95.91253,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,53.0,,,Calendar years BP,41.0,405.0,pollen,8/13/2014,310.0,0.322580645161
-9748,Byer Pond,39.373185,-96.11764,39.37353,39.37284,-96.11726,-96.11802,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,-59.0,,,Calendar years BP,,367.0,pollen surface sample,8/15/2014,,
-9773,Hamann Dam,46.52435,-103.401185,46.52745,46.52125,-103.39655,-103.40582,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,-37.0,,,Calendar years BP,,820.0,pollen surface sample,8/21/2014,,
-10080,Wendel site,46.433115,-98.28941,46.43358,46.43265,-98.28725,-98.29157,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,7970.0,,,Radiocarbon years BP,395.0,423.0,pollen,1/14/2015,308.5,0.32414910859
-10080,Wendel site,46.433115,-98.28941,46.43358,46.43265,-98.28725,-98.29157,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,8620.0,,,Radiocarbon years BP,420.0,423.0,pollen,1/14/2015,380.0,0.263157894737
-10080,Wendel site,46.433115,-98.28941,46.43358,46.43265,-98.28725,-98.29157,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,10683.0,,,Radiocarbon years BP,500.0,423.0,pollen,1/14/2015,349.0,0.286532951289
-7532,Cottonwood Lake,44.6173,-95.68015,44.6243,44.6103,-95.6684,-95.6919,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,,,,,30.0,324.0,pollen,2/22/2015,245.0,0.408163265306
-10135,Cora Lake,46.165285,-95.32412,46.16933,46.16124,-95.31979,-95.32845,Vascular plants,Dalea candida-type,2.0,NISP,pollen,,189.0,,,Calendar years BP,70.0,586.0,pollen,2/23/2015,410.0,0.487804878049
-10135,Cora Lake,46.165285,-95.32412,46.16933,46.16124,-95.31979,-95.32845,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,282.0,,,Calendar years BP,100.0,586.0,pollen,2/23/2015,295.5,0.338409475465
-10135,Cora Lake,46.165285,-95.32412,46.16933,46.16124,-95.31979,-95.32845,Vascular plants,Dalea candida-type,2.0,NISP,pollen,,345.0,,,Calendar years BP,120.0,586.0,pollen,2/23/2015,462.0,0.4329004329
-10135,Cora Lake,46.165285,-95.32412,46.16933,46.16124,-95.31979,-95.32845,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,401.0,,,Calendar years BP,138.0,586.0,pollen,2/23/2015,276.5,0.361663652803
-10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,4.0,,,Calendar years BP,23.5,294.0,pollen,2/27/2015,273.0,0.3663003663
-10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,6.0,,,Calendar years BP,25.4,294.0,pollen,2/27/2015,366.0,0.273224043716
-10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Dalea candida-type,2.0,NISP,pollen,,26.0,,,Calendar years BP,40.0,294.0,pollen,2/27/2015,393.0,0.508905852417
-10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,31.0,,,Calendar years BP,44.0,294.0,pollen,2/27/2015,568.0,0.176056338028
-1359,Jones Lake,45.428085,-93.981475,45.43037,45.4258,-93.97474,-93.98821,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,131.0,,,Calendar years BP,20.0,293.0,pollen,3/2/2015,486.0,0.205761316872
-1359,Jones Lake,45.428085,-93.981475,45.43037,45.4258,-93.97474,-93.98821,Vascular plants,Dalea candida-type,2.0,NISP,pollen,,491.0,,,Calendar years BP,70.0,293.0,pollen,3/2/2015,617.0,0.32414910859
-10146,Williams Lake,46.95391,-94.66923,46.95798,46.94984,-94.66376,-94.6747,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,,,,,80.0,421.0,pollen,3/4/2015,439.0,0.227790432802
-10146,Williams Lake,46.95391,-94.66923,46.95798,46.94984,-94.66376,-94.6747,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,,,,,138.0,421.0,pollen,3/4/2015,211.0,0.473933649289
-10146,Williams Lake,46.95391,-94.66923,46.95798,46.94984,-94.66376,-94.6747,Vascular plants,Dalea candida-type,2.0,NISP,pollen,,,,,,154.0,421.0,pollen,3/4/2015,230.0,0.869565217391
-10146,Williams Lake,46.95391,-94.66923,46.95798,46.94984,-94.66376,-94.6747,Vascular plants,Dalea candida-type,2.0,NISP,pollen,,,,,,208.0,421.0,pollen,3/4/2015,226.0,0.884955752212
-10146,Williams Lake,46.95391,-94.66923,46.95798,46.94984,-94.66376,-94.6747,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,,,,,174.0,421.0,pollen,3/4/2015,499.0,0.200400801603
-10146,Williams Lake,46.95391,-94.66923,46.95798,46.94984,-94.66376,-94.6747,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,,,,,202.0,421.0,pollen,3/4/2015,477.0,0.20964360587
-10146,Williams Lake,46.95391,-94.66923,46.95798,46.94984,-94.66376,-94.6747,Vascular plants,Dalea candida-type,2.0,NISP,pollen,,,,,,226.0,421.0,pollen,3/4/2015,421.0,0.475059382423
-10146,Williams Lake,46.95391,-94.66923,46.95798,46.94984,-94.66376,-94.6747,Vascular plants,Dalea candida-type,2.0,NISP,pollen,,,,,,310.0,421.0,pollen,3/4/2015,451.0,0.443458980044
-10146,Williams Lake,46.95391,-94.66923,46.95798,46.94984,-94.66376,-94.6747,Vascular plants,Dalea candida-type,2.0,NISP,pollen,,,,,,350.0,421.0,pollen,3/4/2015,469.0,0.426439232409
-10146,Williams Lake,46.95391,-94.66923,46.95798,46.94984,-94.66376,-94.6747,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,,,,,398.0,421.0,pollen,3/4/2015,492.0,0.20325203252
-10146,Williams Lake,46.95391,-94.66923,46.95798,46.94984,-94.66376,-94.6747,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,,,,,41.0,421.0,pollen,3/4/2015,736.5,0.135777325187
-10146,Williams Lake,46.95391,-94.66923,46.95798,46.94984,-94.66376,-94.6747,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,319.0,49.0,752.0,Calibrated radiocarbon years BP,26.0,421.0,pollen,3/4/2015,762.0,0.131233595801
-10146,Williams Lake,46.95391,-94.66923,46.95798,46.94984,-94.66376,-94.6747,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,3391.0,2479.0,4343.0,Calibrated radiocarbon years BP,224.0,421.0,pollen,3/4/2015,728.0,0.137362637363
-10146,Williams Lake,46.95391,-94.66923,46.95798,46.94984,-94.66376,-94.6747,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,3644.0,2722.0,4592.0,Calibrated radiocarbon years BP,240.0,421.0,pollen,3/4/2015,849.0,0.117785630153
-10146,Williams Lake,46.95391,-94.66923,46.95798,46.94984,-94.66376,-94.6747,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,4384.0,3423.0,5344.0,Calibrated radiocarbon years BP,288.0,421.0,pollen,3/4/2015,533.0,0.187617260788
-10146,Williams Lake,46.95391,-94.66923,46.95798,46.94984,-94.66376,-94.6747,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,4754.0,3766.0,5723.0,Calibrated radiocarbon years BP,312.0,421.0,pollen,3/4/2015,484.0,0.206611570248
-10146,Williams Lake,46.95391,-94.66923,46.95798,46.94984,-94.66376,-94.6747,Vascular plants,Dalea candida-type,2.0,NISP,pollen,,5246.0,4253.0,6179.0,Calibrated radiocarbon years BP,344.0,421.0,pollen,3/4/2015,481.0,0.4158004158
-10146,Williams Lake,46.95391,-94.66923,46.95798,46.94984,-94.66376,-94.6747,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,6721.0,5834.0,7509.0,Calibrated radiocarbon years BP,440.0,421.0,pollen,3/4/2015,482.0,0.207468879668
-10146,Williams Lake,46.95391,-94.66923,46.95798,46.94984,-94.66376,-94.6747,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,6906.0,6044.0,7679.0,Calibrated radiocarbon years BP,452.0,421.0,pollen,3/4/2015,454.0,0.220264317181
-10146,Williams Lake,46.95391,-94.66923,46.95798,46.94984,-94.66376,-94.6747,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,7155.0,6344.0,7868.0,Calibrated radiocarbon years BP,468.0,421.0,pollen,3/4/2015,522.0,0.191570881226
-10146,Williams Lake,46.95391,-94.66923,46.95798,46.94984,-94.66376,-94.6747,Vascular plants,Dalea candida-type,4.0,NISP,pollen,,7216.0,6412.0,7927.0,Calibrated radiocarbon years BP,472.0,421.0,pollen,3/4/2015,456.0,0.877192982456
-10146,Williams Lake,46.95391,-94.66923,46.95798,46.94984,-94.66376,-94.6747,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,7400.0,6631.0,8063.0,Calibrated radiocarbon years BP,484.0,421.0,pollen,3/4/2015,526.0,0.190114068441
-10146,Williams Lake,46.95391,-94.66923,46.95798,46.94984,-94.66376,-94.6747,Vascular plants,Dalea candida-type,3.0,NISP,pollen,,7772.0,7098.0,8372.0,Calibrated radiocarbon years BP,508.0,421.0,pollen,3/4/2015,549.0,0.546448087432
-10146,Williams Lake,46.95391,-94.66923,46.95798,46.94984,-94.66376,-94.6747,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,8134.0,7558.0,8681.0,Calibrated radiocarbon years BP,532.0,421.0,pollen,3/4/2015,482.0,0.207468879668
-10146,Williams Lake,46.95391,-94.66923,46.95798,46.94984,-94.66376,-94.6747,Vascular plants,Dalea candida-type,2.0,NISP,pollen,,8254.0,7739.0,8776.0,Calibrated radiocarbon years BP,540.0,421.0,pollen,3/4/2015,495.0,0.40404040404
-10146,Williams Lake,46.95391,-94.66923,46.95798,46.94984,-94.66376,-94.6747,Vascular plants,Dalea candida-type,2.0,NISP,pollen,,8511.0,8192.0,8964.0,Calibrated radiocarbon years BP,557.0,421.0,pollen,3/4/2015,504.0,0.396825396825
-10146,Williams Lake,46.95391,-94.66923,46.95798,46.94984,-94.66376,-94.6747,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,8664.0,8359.0,9122.0,Calibrated radiocarbon years BP,577.0,421.0,pollen,3/4/2015,605.0,0.165289256198
-10146,Williams Lake,46.95391,-94.66923,46.95798,46.94984,-94.66376,-94.6747,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,10787.0,8523.0,15437.0,Calibrated radiocarbon years BP,721.0,421.0,pollen,3/4/2015,429.0,0.2331002331
-10219,Shingobee Lake,47.004035,-94.688245,47.00938,46.99869,-94.68082,-94.69567,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,,,,,50.0,405.0,pollen,3/23/2015,582.0,0.171821305842
-10219,Shingobee Lake,47.004035,-94.688245,47.00938,46.99869,-94.68082,-94.69567,Vascular plants,Dalea candida-type,2.0,NISP,pollen,,,,,,282.0,405.0,pollen,3/23/2015,217.0,0.921658986175
-10219,Shingobee Lake,47.004035,-94.688245,47.00938,46.99869,-94.68082,-94.69567,Vascular plants,Dalea candida-type,3.0,NISP,pollen,,,,,,314.0,405.0,pollen,3/23/2015,424.0,0.707547169811
-10219,Shingobee Lake,47.004035,-94.688245,47.00938,46.99869,-94.68082,-94.69567,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,,,,,330.0,405.0,pollen,3/23/2015,408.0,0.245098039216
-10219,Shingobee Lake,47.004035,-94.688245,47.00938,46.99869,-94.68082,-94.69567,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,,,,,352.0,405.0,pollen,3/23/2015,422.0,0.236966824645
-10219,Shingobee Lake,47.004035,-94.688245,47.00938,46.99869,-94.68082,-94.69567,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,,,,,366.0,405.0,pollen,3/23/2015,230.0,0.434782608696
-10219,Shingobee Lake,47.004035,-94.688245,47.00938,46.99869,-94.68082,-94.69567,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,,,,,382.0,405.0,pollen,3/23/2015,503.0,0.198807157058
-10219,Shingobee Lake,47.004035,-94.688245,47.00938,46.99869,-94.68082,-94.69567,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,,,,,598.0,405.0,pollen,3/23/2015,668.0,0.149700598802
-10457,Itasca Bison Kill Site,47.19285,-95.2339,47.197,47.1887,-95.2247,-95.2431,Vascular plants,Dalea candida-type,2.0,NISP,pollen,,,,,,203.0,447.0,pollen,6/3/2015,791.0,0.252844500632
-10457,Itasca Bison Kill Site,47.19285,-95.2339,47.197,47.1887,-95.2247,-95.2431,Vascular plants,Dalea candida-type,2.0,NISP,pollen,,8899.0,7974.0,10164.0,Calibrated radiocarbon years BP,220.0,447.0,pollen,6/3/2015,852.5,0.234604105572
-10457,Itasca Bison Kill Site,47.19285,-95.2339,47.197,47.1887,-95.2247,-95.2431,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,5580.0,4061.0,7313.0,Calibrated radiocarbon years BP,230.0,447.0,pollen,6/3/2015,1262.5,0.0792079207921
-10457,Itasca Bison Kill Site,47.19285,-95.2339,47.197,47.1887,-95.2247,-95.2431,Vascular plants,Dalea candida-type,4.0,NISP,pollen,,,,,,90.0,447.0,pollen,6/3/2015,889.0,0.44994375703
-10457,Itasca Bison Kill Site,47.19285,-95.2339,47.197,47.1887,-95.2247,-95.2431,Vascular plants,Dalea candida-type,2.0,NISP,pollen,,,,,,200.0,447.0,pollen,6/3/2015,769.5,0.259909031839
-10554,Round Pond,52.531655,-91.3723611111,52.53382,52.52949,-91.3688888889,-91.3758333333,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,2104.0,1545.0,2709.0,Calibrated radiocarbon years BP,105.0,358.0,pollen,7/17/2015,233.0,0.429184549356
-10554,Round Pond,52.531655,-91.3723611111,52.53382,52.52949,-91.3688888889,-91.3758333333,Vascular plants,Dalea candida-type,1.0,NISP,pollen,,3528.0,2982.0,4099.0,Calibrated radiocarbon years BP,175.0,358.0,pollen,7/17/2015,233.0,0.429184549356
-10554,Round Pond,52.531655,-91.3723611111,52.53382,52.52949,-91.3688888889,-91.3758333333,Vascular plants,Dalea candida-type,2.0,NISP,pollen,,5157.0,4599.0,5806.0,Calibrated radiocarbon years BP,245.0,358.0,pollen,7/17/2015,287.0,0.696864111498
+292,Bog D Pond,47.1775,-95.162675,47.178,47.177,-95.162,-95.16335,Vascular plants,Dalea candida,1,NISP,pollen,,25,,,Radiocarbon years BP,10,460,pollen,6/30/2007,497,0.201207243
+292,Bog D Pond,47.1775,-95.162675,47.178,47.177,-95.162,-95.16335,Vascular plants,Dalea candida,1,NISP,pollen,,466,,,Radiocarbon years BP,70,460,pollen,6/30/2007,443,0.225733634
+292,Bog D Pond,47.1775,-95.162675,47.178,47.177,-95.162,-95.16335,Vascular plants,Dalea candida,1,NISP,pollen,,3885,,,Radiocarbon years BP,410,460,pollen,6/30/2007,431,0.232018561
+292,Bog D Pond,47.1775,-95.162675,47.178,47.177,-95.162,-95.16335,Vascular plants,Dalea candida,3,NISP,pollen,,4305,,,Radiocarbon years BP,440,460,pollen,6/30/2007,834,0.35971223
+292,Bog D Pond,47.1775,-95.162675,47.178,47.177,-95.162,-95.16335,Vascular plants,Dalea candida,1,NISP,pollen,,4618,,,Radiocarbon years BP,460,460,pollen,6/30/2007,352,0.284090909
+292,Bog D Pond,47.1775,-95.162675,47.178,47.177,-95.162,-95.16335,Vascular plants,Dalea candida,2,NISP,pollen,,6495,,,Radiocarbon years BP,580,460,pollen,6/30/2007,399,0.501253133
+292,Bog D Pond,47.1775,-95.162675,47.178,47.177,-95.162,-95.16335,Vascular plants,Dalea candida,2,NISP,pollen,,7746,,,Radiocarbon years BP,660,460,pollen,6/30/2007,417,0.479616307
+292,Bog D Pond,47.1775,-95.162675,47.178,47.177,-95.162,-95.16335,Vascular plants,Dalea candida,1,NISP,pollen,,8372,,,Radiocarbon years BP,700,460,pollen,6/30/2007,372,0.268817204
+292,Bog D Pond,47.1775,-95.162675,47.178,47.177,-95.162,-95.16335,Vascular plants,Dalea candida,1,NISP,pollen,,9152,,,Radiocarbon years BP,740,460,pollen,6/30/2007,423,0.236406619
+318,Burntside Lake,47.924167,-91.994722,47.924167,47.924167,-91.994722,-91.994722,Vascular plants,Dalea candida,1,NISP,pollen,,266,,,Radiocarbon years BP,35,,pollen,6/30/2007,400,0.25
+785,Lake Erie,41.92,-82.76,41.92,41.92,-82.76,-82.76,Vascular plants,Dalea candida,1,NISP,pollen,,8559,,,Radiocarbon years BP,250,168,pollen,6/30/2007,345,0.289855072
+1652,Martin Pond,47.173975,-94.943965,47.17452,47.17343,-94.943,-94.94493,Vascular plants,Dalea candida,1,NISP,pollen,,4955,,,Radiocarbon years BP,355,472,pollen,6/30/2007,373,0.268096515
+1652,Martin Pond,47.173975,-94.943965,47.17452,47.17343,-94.943,-94.94493,Vascular plants,Dalea candida,2,NISP,pollen,,5339,,,Radiocarbon years BP,375,472,pollen,6/30/2007,431,0.464037123
+1652,Martin Pond,47.173975,-94.943965,47.17452,47.17343,-94.943,-94.94493,Vascular plants,Dalea candida,1,NISP,pollen,,7067,,,Radiocarbon years BP,465,472,pollen,6/30/2007,447,0.223713647
+1652,Martin Pond,47.173975,-94.943965,47.17452,47.17343,-94.943,-94.94493,Vascular plants,Dalea candida,1,NISP,pollen,,8507,,,Radiocarbon years BP,540,472,pollen,6/30/2007,390,0.256410256
+1711,Moon Lake,46.85592,-98.15984,46.86123,46.85061,-98.15463,-98.16505,Vascular plants,Dalea candida,1,NISP,pollen,,-35,,,Radiocarbon years BP,1296,444,pollen,6/30/2007,505,0.198019802
+1711,Moon Lake,46.85592,-98.15984,46.86123,46.85061,-98.15463,-98.16505,Vascular plants,Dalea candida,2,NISP,pollen,,51,,,Radiocarbon years BP,1336,444,pollen,6/30/2007,564,0.354609929
+1711,Moon Lake,46.85592,-98.15984,46.86123,46.85061,-98.15463,-98.16505,Vascular plants,Dalea candida,1,NISP,pollen,,539,,,Radiocarbon years BP,1449.8,444,pollen,6/30/2007,402.5,0.248447205
+1711,Moon Lake,46.85592,-98.15984,46.86123,46.85061,-98.15463,-98.16505,Vascular plants,Dalea candida,1,NISP,pollen,,651,,,Radiocarbon years BP,1475.3,444,pollen,6/30/2007,621.5,0.160901046
+1711,Moon Lake,46.85592,-98.15984,46.86123,46.85061,-98.15463,-98.16505,Vascular plants,Dalea candida,3,NISP,pollen,,802,,,Radiocarbon years BP,1509.4,444,pollen,6/30/2007,509.5,0.588812561
+1711,Moon Lake,46.85592,-98.15984,46.86123,46.85061,-98.15463,-98.16505,Vascular plants,Dalea candida,2,NISP,pollen,,1218,,,Radiocarbon years BP,1576,444,pollen,6/30/2007,493.5,0.40526849
+1711,Moon Lake,46.85592,-98.15984,46.86123,46.85061,-98.15463,-98.16505,Vascular plants,Dalea candida,3,NISP,pollen,,1313,,,Radiocarbon years BP,1584,444,pollen,6/30/2007,567.5,0.528634361
+1711,Moon Lake,46.85592,-98.15984,46.86123,46.85061,-98.15463,-98.16505,Vascular plants,Dalea candida,1,NISP,pollen,,1994,,,Radiocarbon years BP,1640.8,444,pollen,6/30/2007,446,0.224215247
+1711,Moon Lake,46.85592,-98.15984,46.86123,46.85061,-98.15463,-98.16505,Vascular plants,Dalea candida,1,NISP,pollen,,2441,,,Radiocarbon years BP,1674.2,444,pollen,6/30/2007,484.5,0.206398349
+1711,Moon Lake,46.85592,-98.15984,46.86123,46.85061,-98.15463,-98.16505,Vascular plants,Dalea candida,1,NISP,pollen,,3855,,,Radiocarbon years BP,1752.7,444,pollen,6/30/2007,517,0.193423598
+1711,Moon Lake,46.85592,-98.15984,46.86123,46.85061,-98.15463,-98.16505,Vascular plants,Dalea candida,1,NISP,pollen,,4590,,,Radiocarbon years BP,1793.5,444,pollen,6/30/2007,633.5,0.157853197
+1711,Moon Lake,46.85592,-98.15984,46.86123,46.85061,-98.15463,-98.16505,Vascular plants,Dalea candida,1,NISP,pollen,,4932,,,Radiocarbon years BP,1832,444,pollen,6/30/2007,473.5,0.211193242
+1711,Moon Lake,46.85592,-98.15984,46.86123,46.85061,-98.15463,-98.16505,Vascular plants,Dalea candida,0.5,NISP,pollen,,5074,,,Radiocarbon years BP,1848,444,pollen,6/30/2007,575.5,0.086880973
+1711,Moon Lake,46.85592,-98.15984,46.86123,46.85061,-98.15463,-98.16505,Vascular plants,Dalea candida,4,NISP,pollen,,5429,,,Radiocarbon years BP,1888,444,pollen,6/30/2007,1791,0.223338917
+1711,Moon Lake,46.85592,-98.15984,46.86123,46.85061,-98.15463,-98.16505,Vascular plants,Dalea candida,1,NISP,pollen,,5643,,,Radiocarbon years BP,1912,444,pollen,6/30/2007,366,0.273224044
+1711,Moon Lake,46.85592,-98.15984,46.86123,46.85061,-98.15463,-98.16505,Vascular plants,Dalea candida,1,NISP,pollen,,5715,,,Radiocarbon years BP,1920,444,pollen,6/30/2007,786.5,0.127145582
+1711,Moon Lake,46.85592,-98.15984,46.86123,46.85061,-98.15463,-98.16505,Vascular plants,Dalea candida,4,NISP,pollen,,5789,,,Radiocarbon years BP,1928.3,444,pollen,6/30/2007,419,0.954653938
+1711,Moon Lake,46.85592,-98.15984,46.86123,46.85061,-98.15463,-98.16505,Vascular plants,Dalea candida,1,NISP,pollen,,5864,,,Radiocarbon years BP,1936.7,444,pollen,6/30/2007,1097,0.091157703
+1711,Moon Lake,46.85592,-98.15984,46.86123,46.85061,-98.15463,-98.16505,Vascular plants,Dalea candida,2,NISP,pollen,,5938,,,Radiocarbon years BP,1945,444,pollen,6/30/2007,578.5,0.345721694
+1711,Moon Lake,46.85592,-98.15984,46.86123,46.85061,-98.15463,-98.16505,Vascular plants,Dalea candida,1,NISP,pollen,,6310,,,Radiocarbon years BP,1986.7,444,pollen,6/30/2007,444.5,0.224971879
+1711,Moon Lake,46.85592,-98.15984,46.86123,46.85061,-98.15463,-98.16505,Vascular plants,Dalea candida,1,NISP,pollen,,6339,,,Radiocarbon years BP,2003.3,444,pollen,6/30/2007,411.5,0.243013366
+1711,Moon Lake,46.85592,-98.15984,46.86123,46.85061,-98.15463,-98.16505,Vascular plants,Dalea candida,2,NISP,pollen,,6421,,,Radiocarbon years BP,2049.8,444,pollen,6/30/2007,422.5,0.473372781
+1711,Moon Lake,46.85592,-98.15984,46.86123,46.85061,-98.15463,-98.16505,Vascular plants,Dalea candida,1,NISP,pollen,,6496,,,Radiocarbon years BP,2092.3,444,pollen,6/30/2007,686,0.145772595
+1711,Moon Lake,46.85592,-98.15984,46.86123,46.85061,-98.15463,-98.16505,Vascular plants,Dalea candida,1,NISP,pollen,,6606,,,Radiocarbon years BP,2155.2,444,pollen,6/30/2007,476.5,0.209863589
+1711,Moon Lake,46.85592,-98.15984,46.86123,46.85061,-98.15463,-98.16505,Vascular plants,Dalea candida,1,NISP,pollen,,6767,,,Radiocarbon years BP,2172.7,444,pollen,6/30/2007,430,0.23255814
+1711,Moon Lake,46.85592,-98.15984,46.86123,46.85061,-98.15463,-98.16505,Vascular plants,Dalea candida,1,NISP,pollen,,6858,,,Radiocarbon years BP,2181.5,444,pollen,6/30/2007,483.5,0.206825233
+1711,Moon Lake,46.85592,-98.15984,46.86123,46.85061,-98.15463,-98.16505,Vascular plants,Dalea candida,1,NISP,pollen,,7534,,,Radiocarbon years BP,2233.3,444,pollen,6/30/2007,624.5,0.160128102
+1711,Moon Lake,46.85592,-98.15984,46.86123,46.85061,-98.15463,-98.16505,Vascular plants,Dalea candida,2,NISP,pollen,,7770,,,Radiocarbon years BP,2242.2,444,pollen,6/30/2007,408,0.490196078
+1711,Moon Lake,46.85592,-98.15984,46.86123,46.85061,-98.15463,-98.16505,Vascular plants,Dalea candida,2,NISP,pollen,,7890,,,Radiocarbon years BP,2246.7,444,pollen,6/30/2007,486.5,0.411099692
+1711,Moon Lake,46.85592,-98.15984,46.86123,46.85061,-98.15463,-98.16505,Vascular plants,Dalea candida,1,NISP,pollen,,9543,,,Radiocarbon years BP,2308.9,444,pollen,6/30/2007,420,0.238095238
+1711,Moon Lake,46.85592,-98.15984,46.86123,46.85061,-98.15463,-98.16505,Vascular plants,Dalea candida,1,NISP,pollen,,9657,,,Radiocarbon years BP,2313.3,444,pollen,6/30/2007,586.5,0.170502984
+1711,Moon Lake,46.85592,-98.15984,46.86123,46.85061,-98.15463,-98.16505,Vascular plants,Dalea candida,1,NISP,pollen,,10901,,,Radiocarbon years BP,2364,444,pollen,6/30/2007,919,0.108813928
+1819,Peggy Lake,49.48,-92,49.48,49.48,-92,-92,Vascular plants,Dalea candida,1,NISP,pollen,,5954,,,Radiocarbon years BP,440,470,pollen,6/30/2007,419,0.238663484
+1990,Rice Lake,48.00942,-101.53972,48.01617,48.00267,-101.52706,-101.55238,Vascular plants,Dalea candida,1,NISP,pollen,,233,,,Radiocarbon years BP,944,620,pollen,6/30/2007,471.5,0.212089077
+1990,Rice Lake,48.00942,-101.53972,48.01617,48.00267,-101.52706,-101.55238,Vascular plants,Dalea candida,1,NISP,pollen,,259,,,Radiocarbon years BP,952,620,pollen,6/30/2007,418,0.23923445
+1990,Rice Lake,48.00942,-101.53972,48.01617,48.00267,-101.52706,-101.55238,Vascular plants,Dalea candida,2,NISP,pollen,,285,,,Radiocarbon years BP,960,620,pollen,6/30/2007,759,0.263504611
+1990,Rice Lake,48.00942,-101.53972,48.01617,48.00267,-101.52706,-101.55238,Vascular plants,Dalea candida,1,NISP,pollen,,361,,,Radiocarbon years BP,984,620,pollen,6/30/2007,404.5,0.247218789
+1990,Rice Lake,48.00942,-101.53972,48.01617,48.00267,-101.52706,-101.55238,Vascular plants,Dalea candida,1,NISP,pollen,,387,,,Radiocarbon years BP,992,620,pollen,6/30/2007,469.5,0.212992545
+1990,Rice Lake,48.00942,-101.53972,48.01617,48.00267,-101.52706,-101.55238,Vascular plants,Dalea candida,1,NISP,pollen,,591,,,Radiocarbon years BP,1056,620,pollen,6/30/2007,634.5,0.157604413
+1990,Rice Lake,48.00942,-101.53972,48.01617,48.00267,-101.52706,-101.55238,Vascular plants,Dalea candida,1,NISP,pollen,,802,,,Radiocarbon years BP,1120,620,pollen,6/30/2007,461.5,0.216684724
+1990,Rice Lake,48.00942,-101.53972,48.01617,48.00267,-101.52706,-101.55238,Vascular plants,Dalea candida,1,NISP,pollen,,1102,,,Radiocarbon years BP,1203,620,pollen,6/30/2007,444,0.225225225
+1990,Rice Lake,48.00942,-101.53972,48.01617,48.00267,-101.52706,-101.55238,Vascular plants,Dalea candida,1,NISP,pollen,,1282,,,Radiocarbon years BP,1248,620,pollen,6/30/2007,406.5,0.24600246
+1990,Rice Lake,48.00942,-101.53972,48.01617,48.00267,-101.52706,-101.55238,Vascular plants,Dalea candida,1,NISP,pollen,,1420,,,Radiocarbon years BP,1280,620,pollen,6/30/2007,423.5,0.236127509
+1990,Rice Lake,48.00942,-101.53972,48.01617,48.00267,-101.52706,-101.55238,Vascular plants,Dalea candida,1,NISP,pollen,,1567,,,Radiocarbon years BP,1312,620,pollen,6/30/2007,497,0.201207243
+1990,Rice Lake,48.00942,-101.53972,48.01617,48.00267,-101.52706,-101.55238,Vascular plants,Dalea candida,2,NISP,pollen,,1984,,,Radiocarbon years BP,1392,620,pollen,6/30/2007,424.5,0.471142521
+1990,Rice Lake,48.00942,-101.53972,48.01617,48.00267,-101.52706,-101.55238,Vascular plants,Dalea candida,1,NISP,pollen,,2483,,,Radiocarbon years BP,1472,620,pollen,6/30/2007,600,0.166666667
+1990,Rice Lake,48.00942,-101.53972,48.01617,48.00267,-101.52706,-101.55238,Vascular plants,Dalea candida,1,NISP,pollen,,2594,,,Radiocarbon years BP,1488,620,pollen,6/30/2007,410.5,0.243605359
+1990,Rice Lake,48.00942,-101.53972,48.01617,48.00267,-101.52706,-101.55238,Vascular plants,Dalea candida,1,NISP,pollen,,2953,,,Radiocarbon years BP,1536,620,pollen,6/30/2007,639.5,0.156372166
+1990,Rice Lake,48.00942,-101.53972,48.01617,48.00267,-101.52706,-101.55238,Vascular plants,Dalea candida,1,NISP,pollen,,4286,,,Radiocarbon years BP,1680,620,pollen,6/30/2007,563.5,0.177462289
+1990,Rice Lake,48.00942,-101.53972,48.01617,48.00267,-101.52706,-101.55238,Vascular plants,Dalea candida,2,NISP,pollen,,4642,,,Radiocarbon years BP,1712,620,pollen,6/30/2007,406,0.492610837
+1990,Rice Lake,48.00942,-101.53972,48.01617,48.00267,-101.52706,-101.55238,Vascular plants,Dalea candida,2,NISP,pollen,,4829,,,Radiocarbon years BP,1728,620,pollen,6/30/2007,553,0.361663653
+1990,Rice Lake,48.00942,-101.53972,48.01617,48.00267,-101.52706,-101.55238,Vascular plants,Dalea candida,1,NISP,pollen,,5021,,,Radiocarbon years BP,1744,620,pollen,6/30/2007,468,0.213675214
+1990,Rice Lake,48.00942,-101.53972,48.01617,48.00267,-101.52706,-101.55238,Vascular plants,Dalea candida,1,NISP,pollen,,5426,,,Radiocarbon years BP,1776,620,pollen,6/30/2007,421.5,0.237247924
+1990,Rice Lake,48.00942,-101.53972,48.01617,48.00267,-101.52706,-101.55238,Vascular plants,Dalea candida,1,NISP,pollen,,5598,,,Radiocarbon years BP,1789,620,pollen,6/30/2007,593,0.168634064
+1990,Rice Lake,48.00942,-101.53972,48.01617,48.00267,-101.52706,-101.55238,Vascular plants,Dalea candida,2,NISP,pollen,,5857,,,Radiocarbon years BP,1808,620,pollen,6/30/2007,408,0.490196078
+1990,Rice Lake,48.00942,-101.53972,48.01617,48.00267,-101.52706,-101.55238,Vascular plants,Dalea candida,1,NISP,pollen,,6082,,,Radiocarbon years BP,1824,620,pollen,6/30/2007,742,0.134770889
+1990,Rice Lake,48.00942,-101.53972,48.01617,48.00267,-101.52706,-101.55238,Vascular plants,Dalea candida,3,NISP,pollen,,6315,,,Radiocarbon years BP,1840,620,pollen,6/30/2007,494.5,0.606673407
+1990,Rice Lake,48.00942,-101.53972,48.01617,48.00267,-101.52706,-101.55238,Vascular plants,Dalea candida,1,NISP,pollen,,6554,,,Radiocarbon years BP,1856,620,pollen,6/30/2007,473,0.21141649
+1990,Rice Lake,48.00942,-101.53972,48.01617,48.00267,-101.52706,-101.55238,Vascular plants,Dalea candida,1,NISP,pollen,,6801,,,Radiocarbon years BP,1872,620,pollen,6/30/2007,438.5,0.228050171
+1990,Rice Lake,48.00942,-101.53972,48.01617,48.00267,-101.52706,-101.55238,Vascular plants,Dalea candida,1,NISP,pollen,,7055,,,Radiocarbon years BP,1888,620,pollen,6/30/2007,440.5,0.227014756
+1990,Rice Lake,48.00942,-101.53972,48.01617,48.00267,-101.52706,-101.55238,Vascular plants,Dalea candida,1,NISP,pollen,,7317,,,Radiocarbon years BP,1904,620,pollen,6/30/2007,426.5,0.234466589
+1990,Rice Lake,48.00942,-101.53972,48.01617,48.00267,-101.52706,-101.55238,Vascular plants,Dalea candida,2,NISP,pollen,,7586,,,Radiocarbon years BP,1920,620,pollen,6/30/2007,537.5,0.372093023
+1990,Rice Lake,48.00942,-101.53972,48.01617,48.00267,-101.52706,-101.55238,Vascular plants,Dalea candida,1,NISP,pollen,,7862,,,Radiocarbon years BP,1936,620,pollen,6/30/2007,492,0.203252033
+1990,Rice Lake,48.00942,-101.53972,48.01617,48.00267,-101.52706,-101.55238,Vascular plants,Dalea candida,2,NISP,pollen,,8440,,,Radiocarbon years BP,1968,620,pollen,6/30/2007,600.5,0.333055787
+1990,Rice Lake,48.00942,-101.53972,48.01617,48.00267,-101.52706,-101.55238,Vascular plants,Dalea candida,2,NISP,pollen,,8741,,,Radiocarbon years BP,1984,620,pollen,6/30/2007,529,0.378071834
+2548,Quallen Lake [Terhell Pond],47.19324,-95.786645,47.1957,47.19078,-95.78329,-95.79,Vascular plants,Dalea candida,1,NISP,pollen,,2,,,Radiocarbon years BP,1,448,pollen,6/30/2007,505,0.198019802
+2548,Quallen Lake [Terhell Pond],47.19324,-95.786645,47.1957,47.19078,-95.78329,-95.79,Vascular plants,Dalea candida,1,NISP,pollen,,60,,,Radiocarbon years BP,30,448,pollen,6/30/2007,462,0.216450216
+2548,Quallen Lake [Terhell Pond],47.19324,-95.786645,47.1957,47.19078,-95.78329,-95.79,Vascular plants,Dalea candida,1,NISP,pollen,,3921,,,Radiocarbon years BP,510,448,pollen,6/30/2007,526,0.190114068
+2548,Quallen Lake [Terhell Pond],47.19324,-95.786645,47.1957,47.19078,-95.78329,-95.79,Vascular plants,Dalea candida,1,NISP,pollen,,4087,,,Radiocarbon years BP,530,448,pollen,6/30/2007,504,0.198412698
+2548,Quallen Lake [Terhell Pond],47.19324,-95.786645,47.1957,47.19078,-95.78329,-95.79,Vascular plants,Dalea candida,1,NISP,pollen,,4253,,,Radiocarbon years BP,550,448,pollen,6/30/2007,526,0.190114068
+2548,Quallen Lake [Terhell Pond],47.19324,-95.786645,47.1957,47.19078,-95.78329,-95.79,Vascular plants,Dalea candida,1,NISP,pollen,,4362,,,Radiocarbon years BP,560,448,pollen,6/30/2007,632,0.158227848
+2548,Quallen Lake [Terhell Pond],47.19324,-95.786645,47.1957,47.19078,-95.78329,-95.79,Vascular plants,Dalea candida,1,NISP,pollen,,4822,,,Radiocarbon years BP,600,448,pollen,6/30/2007,443,0.225733634
+2548,Quallen Lake [Terhell Pond],47.19324,-95.786645,47.1957,47.19078,-95.78329,-95.79,Vascular plants,Dalea candida,1,NISP,pollen,,5052,,,Radiocarbon years BP,620,448,pollen,6/30/2007,453,0.220750552
+2548,Quallen Lake [Terhell Pond],47.19324,-95.786645,47.1957,47.19078,-95.78329,-95.79,Vascular plants,Dalea candida,2,NISP,pollen,,6376,,,Radiocarbon years BP,735,448,pollen,6/30/2007,480,0.416666667
+2548,Quallen Lake [Terhell Pond],47.19324,-95.786645,47.1957,47.19078,-95.78329,-95.79,Vascular plants,Dalea candida,1,NISP,pollen,,7123,,,Radiocarbon years BP,800,448,pollen,6/30/2007,464,0.215517241
+2548,Quallen Lake [Terhell Pond],47.19324,-95.786645,47.1957,47.19078,-95.78329,-95.79,Vascular plants,Dalea candida,3,NISP,pollen,,7526,,,Radiocarbon years BP,835,448,pollen,6/30/2007,516,0.581395349
+2548,Quallen Lake [Terhell Pond],47.19324,-95.786645,47.1957,47.19078,-95.78329,-95.79,Vascular plants,Dalea candida,1,NISP,pollen,,8677,,,Radiocarbon years BP,935,448,pollen,6/30/2007,360,0.277777778
+1813,Pickerel Lake,45.501375,-97.27683,45.52583,45.47692,-97.26299,-97.29067,Vascular plants,Dalea candida,2,NISP,pollen,,50,,,Radiocarbon years BP,210,395,pollen,6/30/2007,334,0.598802395
+1813,Pickerel Lake,45.501375,-97.27683,45.52583,45.47692,-97.26299,-97.29067,Vascular plants,Dalea candida,1,NISP,pollen,,1957,,,Radiocarbon years BP,280,395,pollen,6/30/2007,371,0.269541779
+1813,Pickerel Lake,45.501375,-97.27683,45.52583,45.47692,-97.26299,-97.29067,Vascular plants,Dalea candida,2,NISP,pollen,,4063,,,Radiocarbon years BP,400,395,pollen,6/30/2007,316,0.632911392
+1813,Pickerel Lake,45.501375,-97.27683,45.52583,45.47692,-97.26299,-97.29067,Vascular plants,Dalea candida,2,NISP,pollen,,4991,,,Radiocarbon years BP,480,395,pollen,6/30/2007,312,0.641025641
+1813,Pickerel Lake,45.501375,-97.27683,45.52583,45.47692,-97.26299,-97.29067,Vascular plants,Dalea candida,1,NISP,pollen,,7365,,,Radiocarbon years BP,690,395,pollen,6/30/2007,307,0.325732899
+1222,Spiritwood Lake,47.074695,-98.5866,47.08102,47.06837,-98.56972,-98.60348,Vascular plants,Dalea candida,2,NISP,pollen,,3417,,,Radiocarbon years BP,630,437,pollen,6/30/2007,376,0.531914894
+1222,Spiritwood Lake,47.074695,-98.5866,47.08102,47.06837,-98.56972,-98.60348,Vascular plants,Dalea candida,1,NISP,pollen,,4390,,,Radiocarbon years BP,710,437,pollen,6/30/2007,359,0.278551532
+1222,Spiritwood Lake,47.074695,-98.5866,47.08102,47.06837,-98.56972,-98.60348,Vascular plants,Dalea candida,2,NISP,pollen,,4843,,,Radiocarbon years BP,750,437,pollen,6/30/2007,344,0.581395349
+1222,Spiritwood Lake,47.074695,-98.5866,47.08102,47.06837,-98.56972,-98.60348,Vascular plants,Dalea candida,4,NISP,pollen,,5268,,,Radiocarbon years BP,810,437,pollen,6/30/2007,347,1.152737752
+1222,Spiritwood Lake,47.074695,-98.5866,47.08102,47.06837,-98.56972,-98.60348,Vascular plants,Dalea candida,1,NISP,pollen,,5367,,,Radiocarbon years BP,830,437,pollen,6/30/2007,294,0.340136054
+1222,Spiritwood Lake,47.074695,-98.5866,47.08102,47.06837,-98.56972,-98.60348,Vascular plants,Dalea candida,1,NISP,pollen,,6355,,,Radiocarbon years BP,1130,437,pollen,6/30/2007,356,0.280898876
+1222,Spiritwood Lake,47.074695,-98.5866,47.08102,47.06837,-98.56972,-98.60348,Vascular plants,Dalea candida,1,NISP,pollen,,8612,,,Radiocarbon years BP,1370,437,pollen,6/30/2007,395,0.253164557
+1222,Spiritwood Lake,47.074695,-98.5866,47.08102,47.06837,-98.56972,-98.60348,Vascular plants,Dalea candida,1,NISP,pollen,,9882,,,Radiocarbon years BP,1410,437,pollen,6/30/2007,361,0.27700831
+8561,West Olaf Lake,46.5986,-96.18675,46.6043,46.5929,-96.1755,-96.198,Vascular plants,Dalea candida,1,NISP,pollen,,6844,,,Calibrated radiocarbon years BP,1470,393,pollen,4/9/2014,361,0.27700831
+10142,LaSalle Lake,47.33732,-95.16525,47.34647,47.32817,-95.15623,-95.17427,Vascular plants,Dalea candida,1,NISP,pollen,,135,,,Varve years BP,160,422,pollen,3/1/2015,442,0.226244344
+10142,LaSalle Lake,47.33732,-95.16525,47.34647,47.32817,-95.15623,-95.17427,Vascular plants,Dalea candida,1,NISP,pollen,,203,,,Varve years BP,228,422,pollen,3/1/2015,337,0.296735905
+10456,Mayflower Lake,45.38986111,-79.21652778,45.39138889,45.38833333,-79.21388889,-79.21916667,Vascular plants,Dalea candida,1,NISP,pollen,,4894,4178,5552,Calibrated radiocarbon years BP,210,189,pollen,5/30/2015,321,0.31152648
+29,Lake Allie,44.8036,-94.5579,44.8138,44.7934,-94.5483,-94.5675,Vascular plants,Dalea candida,1,NISP,pollen,,-12,,,Radiocarbon years BP,1,328,pollen,6/30/2007,404,0.247524752
+29,Lake Allie,44.8036,-94.5579,44.8138,44.7934,-94.5483,-94.5675,Vascular plants,Dalea candida,1,NISP,pollen,,116,,,Radiocarbon years BP,40,328,pollen,6/30/2007,336,0.297619048
+29,Lake Allie,44.8036,-94.5579,44.8138,44.7934,-94.5483,-94.5675,Vascular plants,Dalea candida,1,NISP,pollen,,182,,,Radiocarbon years BP,60,328,pollen,6/30/2007,358,0.279329609
+204,Andree Bog,45.725,-93.25,45.725,45.725,-93.25,-93.25,Vascular plants,Dalea candida,1,NISP,pollen,,8970,,,Radiocarbon years BP,425,300,pollen,6/30/2007,557,0.179533214
+204,Andree Bog,45.725,-93.25,45.725,45.725,-93.25,-93.25,Vascular plants,Dalea candida,1,NISP,pollen,,10667,,,Radiocarbon years BP,565,300,pollen,6/30/2007,525,0.19047619
+266,Big John Pond,47.559175,-94.970775,47.56018,47.55817,-94.96931,-94.97224,Vascular plants,Dalea candida,1,NISP,pollen,,5559,,,Radiocarbon years BP,200,421,pollen,6/30/2007,418,0.23923445
+299,Bossuot Lake,44.296475,-93.73571,44.30067,44.29228,-93.72938,-93.74204,Vascular plants,Dalea candida,1,NISP,pollen,,200,,,Radiocarbon years BP,70,310,pollen,6/30/2007,441,0.22675737
+327,Campbell Lake,44.70722,-93.497645,44.71047,44.70397,-93.49075,-93.50454,Vascular plants,Dalea candida,1,NISP,pollen,,62,,,Radiocarbon years BP,30,281,pollen,6/30/2007,599,0.166944908
+327,Campbell Lake,44.70722,-93.497645,44.71047,44.70397,-93.49075,-93.50454,Vascular plants,Dalea candida,1,NISP,pollen,,215,,,Radiocarbon years BP,90,281,pollen,6/30/2007,589,0.169779287
+344,Cedar Bog,45.411111,-93.197222,45.411111,45.411111,-93.197222,-93.197222,Vascular plants,Dalea candida,1,NISP,pollen,,1812,,,Radiocarbon years BP,270,,pollen,6/30/2007,545,0.183486239
+344,Cedar Bog,45.411111,-93.197222,45.411111,45.411111,-93.197222,-93.197222,Vascular plants,Dalea candida,1,NISP,pollen,,4313,,,Radiocarbon years BP,430,,pollen,6/30/2007,305,0.327868852
+344,Cedar Bog,45.411111,-93.197222,45.411111,45.411111,-93.197222,-93.197222,Vascular plants,Dalea candida,2,NISP,pollen,,4590,,,Radiocarbon years BP,470,,pollen,6/30/2007,520,0.384615385
+344,Cedar Bog,45.411111,-93.197222,45.411111,45.411111,-93.197222,-93.197222,Vascular plants,Dalea candida,1,NISP,pollen,,4867,,,Radiocarbon years BP,510,,pollen,6/30/2007,284,0.352112676
+344,Cedar Bog,45.411111,-93.197222,45.411111,45.411111,-93.197222,-93.197222,Vascular plants,Dalea candida,3,NISP,pollen,,5144,,,Radiocarbon years BP,550,,pollen,6/30/2007,401,0.748129676
+344,Cedar Bog,45.411111,-93.197222,45.411111,45.411111,-93.197222,-93.197222,Vascular plants,Dalea candida,1,NISP,pollen,,6806,,,Radiocarbon years BP,790,,pollen,6/30/2007,511,0.195694716
+344,Cedar Bog,45.411111,-93.197222,45.411111,45.411111,-93.197222,-93.197222,Vascular plants,Dalea candida,1,NISP,pollen,,7083,,,Radiocarbon years BP,830,,pollen,6/30/2007,1094,0.091407678
+500,Cottonwood Lake,44.835435,-99.90806,44.84519,44.82568,-99.89006,-99.92606,Vascular plants,Dalea candida,1,NISP,pollen,,20,,,Radiocarbon years BP,332,549,pollen,6/30/2007,525,0.19047619
+500,Cottonwood Lake,44.835435,-99.90806,44.84519,44.82568,-99.89006,-99.92606,Vascular plants,Dalea candida,4,NISP,pollen,,60,,,Radiocarbon years BP,344,549,pollen,6/30/2007,561.5,0.71237756
+500,Cottonwood Lake,44.835435,-99.90806,44.84519,44.82568,-99.89006,-99.92606,Vascular plants,Dalea candida,5,NISP,pollen,,126,,,Radiocarbon years BP,360,549,pollen,6/30/2007,831.5,0.60132291
+500,Cottonwood Lake,44.835435,-99.90806,44.84519,44.82568,-99.89006,-99.92606,Vascular plants,Dalea candida,7,NISP,pollen,,159,,,Radiocarbon years BP,368,549,pollen,6/30/2007,451.5,1.550387597
+500,Cottonwood Lake,44.835435,-99.90806,44.84519,44.82568,-99.89006,-99.92606,Vascular plants,Dalea candida,1,NISP,pollen,,226,,,Radiocarbon years BP,384,549,pollen,6/30/2007,714.5,0.139958013
+500,Cottonwood Lake,44.835435,-99.90806,44.84519,44.82568,-99.89006,-99.92606,Vascular plants,Dalea candida,2,NISP,pollen,,563,,,Radiocarbon years BP,400,549,pollen,6/30/2007,919.5,0.217509516
+500,Cottonwood Lake,44.835435,-99.90806,44.84519,44.82568,-99.89006,-99.92606,Vascular plants,Dalea candida,25,NISP,pollen,,977,,,Radiocarbon years BP,416,549,pollen,6/30/2007,752.5,3.322259136
+500,Cottonwood Lake,44.835435,-99.90806,44.84519,44.82568,-99.89006,-99.92606,Vascular plants,Dalea candida,1,NISP,pollen,,1287,,,Radiocarbon years BP,428,549,pollen,6/30/2007,707.5,0.141342756
+500,Cottonwood Lake,44.835435,-99.90806,44.84519,44.82568,-99.89006,-99.92606,Vascular plants,Dalea candida,1,NISP,pollen,,1804,,,Radiocarbon years BP,448,549,pollen,6/30/2007,689.5,0.145032632
+500,Cottonwood Lake,44.835435,-99.90806,44.84519,44.82568,-99.89006,-99.92606,Vascular plants,Dalea candida,2,NISP,pollen,,3666,,,Radiocarbon years BP,520,549,pollen,6/30/2007,380,0.526315789
+500,Cottonwood Lake,44.835435,-99.90806,44.84519,44.82568,-99.89006,-99.92606,Vascular plants,Dalea candida,1,NISP,pollen,,8023,,,Radiocarbon years BP,576,549,pollen,6/30/2007,338.5,0.295420975
+500,Cottonwood Lake,44.835435,-99.90806,44.84519,44.82568,-99.89006,-99.92606,Vascular plants,Dalea candida,1,NISP,pollen,,8206,,,Radiocarbon years BP,586,549,pollen,6/30/2007,569.5,0.175592625
+500,Cottonwood Lake,44.835435,-99.90806,44.84519,44.82568,-99.89006,-99.92606,Vascular plants,Dalea candida,1,NISP,pollen,,8661,,,Radiocarbon years BP,616,549,pollen,6/30/2007,617,0.162074554
+500,Cottonwood Lake,44.835435,-99.90806,44.84519,44.82568,-99.89006,-99.92606,Vascular plants,Dalea candida,1,NISP,pollen,,8761,,,Radiocarbon years BP,624,549,pollen,6/30/2007,644.5,0.155159038
+500,Cottonwood Lake,44.835435,-99.90806,44.84519,44.82568,-99.89006,-99.92606,Vascular plants,Dalea candida,3,NISP,pollen,,8935,,,Radiocarbon years BP,640,549,pollen,6/30/2007,733,0.409276944
+500,Cottonwood Lake,44.835435,-99.90806,44.84519,44.82568,-99.89006,-99.92606,Vascular plants,Dalea candida,4,NISP,pollen,,9079,,,Radiocarbon years BP,656,549,pollen,6/30/2007,936,0.427350427
+500,Cottonwood Lake,44.835435,-99.90806,44.84519,44.82568,-99.89006,-99.92606,Vascular plants,Dalea candida,1,NISP,pollen,,9198,,,Radiocarbon years BP,672,549,pollen,6/30/2007,665.5,0.15026296
+500,Cottonwood Lake,44.835435,-99.90806,44.84519,44.82568,-99.89006,-99.92606,Vascular plants,Dalea candida,2,NISP,pollen,,9295,,,Radiocarbon years BP,688,549,pollen,6/30/2007,496,0.403225806
+500,Cottonwood Lake,44.835435,-99.90806,44.84519,44.82568,-99.89006,-99.92606,Vascular plants,Dalea candida,6,NISP,pollen,,9355,,,Radiocarbon years BP,700,549,pollen,6/30/2007,733,0.818553888
+500,Cottonwood Lake,44.835435,-99.90806,44.84519,44.82568,-99.89006,-99.92606,Vascular plants,Dalea candida,2,NISP,pollen,,9390,,,Radiocarbon years BP,708,549,pollen,6/30/2007,766,0.261096606
+500,Cottonwood Lake,44.835435,-99.90806,44.84519,44.82568,-99.89006,-99.92606,Vascular plants,Dalea candida,1,NISP,pollen,,9465,,,Radiocarbon years BP,728,549,pollen,6/30/2007,496,0.201612903
+500,Cottonwood Lake,44.835435,-99.90806,44.84519,44.82568,-99.89006,-99.92606,Vascular plants,Dalea candida,5,NISP,pollen,,9503,,,Radiocarbon years BP,740,549,pollen,6/30/2007,615.5,0.812347685
+500,Cottonwood Lake,44.835435,-99.90806,44.84519,44.82568,-99.89006,-99.92606,Vascular plants,Dalea candida,1,NISP,pollen,,9526,,,Radiocarbon years BP,748,549,pollen,6/30/2007,770.5,0.129785853
+500,Cottonwood Lake,44.835435,-99.90806,44.84519,44.82568,-99.89006,-99.92606,Vascular plants,Dalea candida,5,NISP,pollen,,9661,,,Radiocarbon years BP,796,549,pollen,6/30/2007,700.5,0.713775874
+500,Cottonwood Lake,44.835435,-99.90806,44.84519,44.82568,-99.89006,-99.92606,Vascular plants,Dalea candida,3,NISP,pollen,,9715,,,Radiocarbon years BP,812,549,pollen,6/30/2007,678.5,0.442151805
+500,Cottonwood Lake,44.835435,-99.90806,44.84519,44.82568,-99.89006,-99.92606,Vascular plants,Dalea candida,1,NISP,pollen,,9781,,,Radiocarbon years BP,828,549,pollen,6/30/2007,665,0.15037594
+500,Cottonwood Lake,44.835435,-99.90806,44.84519,44.82568,-99.89006,-99.92606,Vascular plants,Dalea candida,1,NISP,pollen,,9862,,,Radiocarbon years BP,844,549,pollen,6/30/2007,637,0.156985871
+500,Cottonwood Lake,44.835435,-99.90806,44.84519,44.82568,-99.89006,-99.92606,Vascular plants,Dalea candida,1,NISP,pollen,,10182,,,Radiocarbon years BP,887,549,pollen,6/30/2007,805,0.124223602
+500,Cottonwood Lake,44.835435,-99.90806,44.84519,44.82568,-99.89006,-99.92606,Vascular plants,Dalea candida,1,NISP,pollen,,10805,,,Radiocarbon years BP,936,549,pollen,6/30/2007,897,0.11148272
+500,Cottonwood Lake,44.835435,-99.90806,44.84519,44.82568,-99.89006,-99.92606,Vascular plants,Dalea candida,1,NISP,pollen,,11544,,,Radiocarbon years BP,974,549,pollen,6/30/2007,512.5,0.195121951
+502,Cottonwood Lake,45.76101,-96.01988,45.76618,45.75584,-96.01191,-96.02785,Vascular plants,Dalea candida,2,NISP,pollen,,105,,,Radiocarbon years BP,40,336,pollen,6/30/2007,391,0.511508951
+508,Crazy Pond,47.182465,-95.73495,47.18493,47.18,-95.73287,-95.73703,Vascular plants,Dalea candida,1,NISP,pollen,,382,,,Radiocarbon years BP,70,457,pollen,6/30/2007,520,0.192307692
+530,Dalton Lake,46.173889,-95.915278,46.173889,46.173889,-95.915278,-95.915278,Vascular plants,Dalea candida,1,NISP,pollen,,229,,,Radiocarbon years BP,90,418,pollen,6/30/2007,388,0.257731959
+795,Faith Pond,47.272455,-96.09405,47.27333,47.27158,-96.0931,-96.095,Vascular plants,Dalea candida,2,NISP,pollen,,121,,,Radiocarbon years BP,40,347,pollen,6/30/2007,402,0.497512438
+799,Farquar Lake,44.75815,-93.16449,44.76081,44.75549,-93.15986,-93.16912,Vascular plants,Dalea candida,1,NISP,pollen,,36,,,Radiocarbon years BP,20,273,pollen,6/30/2007,1730,0.057803468
+799,Farquar Lake,44.75815,-93.16449,44.76081,44.75549,-93.15986,-93.16912,Vascular plants,Dalea candida,1,NISP,pollen,,62,,,Radiocarbon years BP,30,273,pollen,6/30/2007,704,0.142045455
+799,Farquar Lake,44.75815,-93.16449,44.76081,44.75549,-93.15986,-93.16912,Vascular plants,Dalea candida,1,NISP,pollen,,419,,,Radiocarbon years BP,170,273,pollen,6/30/2007,463,0.215982721
+824,French Lake,44.945765,-94.42074,44.9482,44.94333,-94.41676,-94.42472,Vascular plants,Dalea candida,1,NISP,pollen,,2054,,,Radiocarbon years BP,920,327,pollen,6/30/2007,741,0.134952767
+824,French Lake,44.945765,-94.42074,44.9482,44.94333,-94.41676,-94.42472,Vascular plants,Dalea candida,1,NISP,pollen,,2580,,,Radiocarbon years BP,1000,327,pollen,6/30/2007,785.5,0.127307447
+841,George Lake,44.2329,-93.87066,44.23611,44.22969,-93.86559,-93.87573,Vascular plants,Dalea candida,1,NISP,pollen,,18,,,Radiocarbon years BP,10,301,pollen,6/30/2007,518,0.193050193
+938,Goldsmith Lake,46.583333,-92.466667,46.583333,46.583333,-92.466667,-92.466667,Vascular plants,Dalea candida,2,NISP,pollen,,212,,,Radiocarbon years BP,40,,pollen,6/30/2007,352,0.568181818
+959,Grice Pond,47.2036,-95.755515,47.20642,47.20078,-95.75192,-95.75911,Vascular plants,Dalea candida,1,NISP,pollen,,650,,,Radiocarbon years BP,70,453,pollen,6/30/2007,395,0.253164557
+1076,Blocknic Lake [Horse Pond],47.181535,-95.86866,47.18376,47.17931,-95.86691,-95.87041,Vascular plants,Dalea candida,1,NISP,pollen,,23,,,Radiocarbon years BP,10,393,pollen,6/30/2007,394,0.253807107
+1076,Blocknic Lake [Horse Pond],47.181535,-95.86866,47.18376,47.17931,-95.86691,-95.87041,Vascular plants,Dalea candida,1,NISP,pollen,,99,,,Radiocarbon years BP,30,393,pollen,6/30/2007,372,0.268817204
+1077,Horseshoe Lake,45.460278,-93.047778,45.460278,45.460278,-93.047778,-93.047778,Vascular plants,Dalea candida,3,NISP,pollen,,9332,,,Radiocarbon years BP,900,277,pollen,6/30/2007,434,0.69124424
+1077,Horseshoe Lake,45.460278,-93.047778,45.460278,45.460278,-93.047778,-93.047778,Vascular plants,Dalea candida,1,NISP,pollen,,12626,,,Radiocarbon years BP,1030,277,pollen,6/30/2007,787,0.127064803
+1078,Hostage Lake,46.55,-94.133333,46.55,46.55,-94.133333,-94.133333,Vascular plants,Dalea candida,1,NISP,pollen,,1432,,,Radiocarbon years BP,200,368,pollen,6/30/2007,370.5,0.269905533
+1078,Hostage Lake,46.55,-94.133333,46.55,46.55,-94.133333,-94.133333,Vascular plants,Dalea candida,1,NISP,pollen,,4630,,,Radiocarbon years BP,485,368,pollen,6/30/2007,359,0.278551532
+1544,Lake Ann,45.425,-93.6875,45.425,45.425,-93.6875,-93.6875,Vascular plants,Dalea candida,1,NISP,pollen,,314,,,Radiocarbon years BP,100,291,pollen,6/30/2007,398,0.251256281
+1654,Mary Lake,44.45,-93.694444,44.45,44.45,-93.694444,-93.694444,Vascular plants,Dalea candida,1,NISP,pollen,,,,,,1,306,pollen surface sample,6/30/2007,,
+1664,McCraney Lake,47.17087,-95.70266,47.17574,47.166,-95.689,-95.71632,Vascular plants,Dalea candida,1,NISP,pollen,,53,,,Radiocarbon years BP,20,446,pollen,6/30/2007,337,0.296735905
+1664,McCraney Lake,47.17087,-95.70266,47.17574,47.166,-95.689,-95.71632,Vascular plants,Dalea candida,1,NISP,pollen,,189,,,Radiocarbon years BP,60,446,pollen,6/30/2007,328,0.304878049
+1701,Lake Minnie,47.244755,-95.007715,47.24862,47.24089,-95.00459,-95.01084,Vascular plants,Dalea candida,1,NISP,pollen,,5751,,,Radiocarbon years BP,170,430,pollen,6/30/2007,344,0.290697674
+1703,Mirror Pool,46.525833,-97.241389,46.525833,46.525833,-97.241389,-97.241389,Vascular plants,Dalea candida,1,NISP,pollen,,9000,,,Radiocarbon years BP,0,302,pollen,6/30/2007,462,0.216450216
+1703,Mirror Pool,46.525833,-97.241389,46.525833,46.525833,-97.241389,-97.241389,Vascular plants,Dalea candida,1,NISP,pollen,,9027,,,Radiocarbon years BP,5,302,pollen,6/30/2007,720,0.138888889
+1703,Mirror Pool,46.525833,-97.241389,46.525833,46.525833,-97.241389,-97.241389,Vascular plants,Dalea candida,2,NISP,pollen,,9107,,,Radiocarbon years BP,20,302,pollen,6/30/2007,657,0.304414003
+1720,Mud Lake,44.226105,-93.829815,44.23136,44.22085,-93.82444,-93.83519,Vascular plants,Dalea candida,1,NISP,pollen,,285,,,Radiocarbon years BP,100,308,pollen,6/30/2007,859,0.116414435
+1721,Mud Lake (US:Minnesota:Hubbard),46.866667,-94.75,46.866667,46.866667,-94.75,-94.75,Vascular plants,Dalea candida,1,NISP,pollen,,2955,,,Radiocarbon years BP,460,424,pollen,6/30/2007,279,0.358422939
+1724,Murphy Lake,44.711625,-93.341105,44.7142,44.70905,-93.337,-93.34521,Vascular plants,Dalea candida,1,NISP,pollen,,177,,,Radiocarbon years BP,100,280,pollen,6/30/2007,574,0.174216028
+1764,Lake Ogechie,46.133333,-93.783333,46.133333,46.133333,-93.783333,-93.783333,Vascular plants,Dalea candida,1,NISP,pollen,,,,,,200,380,pollen,6/30/2007,522,0.191570881
+1764,Lake Ogechie,46.133333,-93.783333,46.133333,46.133333,-93.783333,-93.783333,Vascular plants,Dalea candida,2,NISP,pollen,,,,,,280,380,pollen,6/30/2007,436,0.458715596
+1764,Lake Ogechie,46.133333,-93.783333,46.133333,46.133333,-93.783333,-93.783333,Vascular plants,Dalea candida,1,NISP,pollen,,,,,,340,380,pollen,6/30/2007,468,0.213675214
+1764,Lake Ogechie,46.133333,-93.783333,46.133333,46.133333,-93.783333,-93.783333,Vascular plants,Dalea candida,2,NISP,pollen,,,,,,460,380,pollen,6/30/2007,392,0.510204082
+1764,Lake Ogechie,46.133333,-93.783333,46.133333,46.133333,-93.783333,-93.783333,Vascular plants,Dalea candida,2,NISP,pollen,,,,,,660,380,pollen,6/30/2007,442,0.452488688
+1764,Lake Ogechie,46.133333,-93.783333,46.133333,46.133333,-93.783333,-93.783333,Vascular plants,Dalea candida,2,NISP,pollen,,,,,,700,380,pollen,6/30/2007,549,0.364298725
+1764,Lake Ogechie,46.133333,-93.783333,46.133333,46.133333,-93.783333,-93.783333,Vascular plants,Dalea candida,1,NISP,pollen,,,,,,740,380,pollen,6/30/2007,493,0.202839757
+1764,Lake Ogechie,46.133333,-93.783333,46.133333,46.133333,-93.783333,-93.783333,Vascular plants,Dalea candida,1,NISP,pollen,,,,,,780,380,pollen,6/30/2007,488,0.204918033
+1764,Lake Ogechie,46.133333,-93.783333,46.133333,46.133333,-93.783333,-93.783333,Vascular plants,Dalea candida,1,NISP,pollen,,,,,,820,380,pollen,6/30/2007,499,0.200400802
+1764,Lake Ogechie,46.133333,-93.783333,46.133333,46.133333,-93.783333,-93.783333,Vascular plants,Dalea candida,1,NISP,pollen,,,,,,885,380,pollen,6/30/2007,432,0.231481481
+1764,Lake Ogechie,46.133333,-93.783333,46.133333,46.133333,-93.783333,-93.783333,Vascular plants,Dalea candida,1,NISP,pollen,,,,,,940,380,pollen,6/30/2007,553,0.180831826
+1764,Lake Ogechie,46.133333,-93.783333,46.133333,46.133333,-93.783333,-93.783333,Vascular plants,Dalea candida,1,NISP,pollen,,,,,,960,380,pollen,6/30/2007,460,0.217391304
+1764,Lake Ogechie,46.133333,-93.783333,46.133333,46.133333,-93.783333,-93.783333,Vascular plants,Dalea candida,1,NISP,pollen,,,,,,1040,380,pollen,6/30/2007,540,0.185185185
+1764,Lake Ogechie,46.133333,-93.783333,46.133333,46.133333,-93.783333,-93.783333,Vascular plants,Dalea candida,1,NISP,pollen,,,,,,1180,380,pollen,6/30/2007,619,0.161550889
+1764,Lake Ogechie,46.133333,-93.783333,46.133333,46.133333,-93.783333,-93.783333,Vascular plants,Dalea candida,1,NISP,pollen,,,,,,1220,380,pollen,6/30/2007,359,0.278551532
+1764,Lake Ogechie,46.133333,-93.783333,46.133333,46.133333,-93.783333,-93.783333,Vascular plants,Dalea candida,1,NISP,pollen,,,,,,1320,380,pollen,6/30/2007,361,0.27700831
+1771,Lake Onamia,46.068333,-93.68,46.068333,46.068333,-93.68,-93.68,Vascular plants,Dalea candida,1,NISP,pollen,,808,,,Radiocarbon years BP,130,380,pollen,6/30/2007,2456,0.040716612
+1799,Pasqua Lake,50.78,-104,50.78,50.78,-104,-104,Vascular plants,Dalea candida,1,NISP,pollen,,63,,,Radiocarbon years BP,44,,pollen,6/30/2007,310,0.322580645
+1799,Pasqua Lake,50.78,-104,50.78,50.78,-104,-104,Vascular plants,Dalea candida,1,NISP,pollen,,92,,,Radiocarbon years BP,58,,pollen,6/30/2007,310,0.322580645
+1799,Pasqua Lake,50.78,-104,50.78,50.78,-104,-104,Vascular plants,Dalea candida,1,NISP,pollen,,94,,,Radiocarbon years BP,59,,pollen,6/30/2007,309,0.323624595
+1799,Pasqua Lake,50.78,-104,50.78,50.78,-104,-104,Vascular plants,Dalea candida,1,NISP,pollen,,126,,,Radiocarbon years BP,74,,pollen,6/30/2007,311,0.321543408
+1799,Pasqua Lake,50.78,-104,50.78,50.78,-104,-104,Vascular plants,Dalea candida,1,NISP,pollen,,141,,,Radiocarbon years BP,81,,pollen,6/30/2007,306,0.326797386
+1799,Pasqua Lake,50.78,-104,50.78,50.78,-104,-104,Vascular plants,Dalea candida,1,NISP,pollen,,145,,,Radiocarbon years BP,83,,pollen,6/30/2007,317,0.315457413
+1799,Pasqua Lake,50.78,-104,50.78,50.78,-104,-104,Vascular plants,Dalea candida,1,NISP,pollen,,153,,,Radiocarbon years BP,87,,pollen,6/30/2007,307,0.325732899
+1799,Pasqua Lake,50.78,-104,50.78,50.78,-104,-104,Vascular plants,Dalea candida,1,NISP,pollen,,191,,,Radiocarbon years BP,105,,pollen,6/30/2007,310,0.322580645
+1799,Pasqua Lake,50.78,-104,50.78,50.78,-104,-104,Vascular plants,Dalea candida,1,NISP,pollen,,199,,,Radiocarbon years BP,109,,pollen,6/30/2007,315,0.317460317
+1799,Pasqua Lake,50.78,-104,50.78,50.78,-104,-104,Vascular plants,Dalea candida,1,NISP,pollen,,225,,,Radiocarbon years BP,121,,pollen,6/30/2007,311,0.321543408
+1799,Pasqua Lake,50.78,-104,50.78,50.78,-104,-104,Vascular plants,Dalea candida,1,NISP,pollen,,233,,,Radiocarbon years BP,125,,pollen,6/30/2007,309,0.323624595
+1799,Pasqua Lake,50.78,-104,50.78,50.78,-104,-104,Vascular plants,Dalea candida,1,NISP,pollen,,349,,,Radiocarbon years BP,180,,pollen,6/30/2007,313,0.319488818
+1827,Peterson Slough,46.966667,-95.316667,46.966667,46.966667,-95.316667,-95.316667,Vascular plants,Dalea candida,1,NISP,pollen,,980,,,Radiocarbon years BP,150,460,pollen,6/30/2007,387.5,0.258064516
+1891,Pleasant Lake,44.60587,-93.563475,44.61154,44.6002,-93.5538,-93.57315,Vascular plants,Dalea candida,1,NISP,pollen,,-8,,,Radiocarbon years BP,1,274,pollen,6/30/2007,704,0.142045455
+1891,Pleasant Lake,44.60587,-93.563475,44.61154,44.6002,-93.5538,-93.57315,Vascular plants,Dalea candida,1,NISP,pollen,,265,,,Radiocarbon years BP,40,274,pollen,6/30/2007,532,0.187969925
+1891,Pleasant Lake,44.60587,-93.563475,44.61154,44.6002,-93.5538,-93.57315,Vascular plants,Dalea candida,1,NISP,pollen,,755,,,Radiocarbon years BP,110,274,pollen,6/30/2007,567,0.176366843
+1901,Portage Lake,47.081,-94.113,47.087,47.075,-94.107,-94.119,Vascular plants,Dalea candida,2,NISP,pollen,,4570,,,Radiocarbon years BP,400,397,pollen,6/30/2007,420,0.476190476
+1901,Portage Lake,47.081,-94.113,47.087,47.075,-94.107,-94.119,Vascular plants,Dalea candida,2,NISP,pollen,,4943,,,Radiocarbon years BP,440,397,pollen,6/30/2007,405,0.49382716
+1901,Portage Lake,47.081,-94.113,47.087,47.075,-94.107,-94.119,Vascular plants,Dalea candida,1,NISP,pollen,,5223,,,Radiocarbon years BP,470,397,pollen,6/30/2007,413,0.242130751
+1901,Portage Lake,47.081,-94.113,47.087,47.075,-94.107,-94.119,Vascular plants,Dalea candida,1,NISP,pollen,,5502,,,Radiocarbon years BP,500,397,pollen,6/30/2007,567,0.176366843
+1901,Portage Lake,47.081,-94.113,47.087,47.075,-94.107,-94.119,Vascular plants,Dalea candida,1,NISP,pollen,,6435,,,Radiocarbon years BP,600,397,pollen,6/30/2007,397,0.251889169
+1901,Portage Lake,47.081,-94.113,47.087,47.075,-94.107,-94.119,Vascular plants,Dalea candida,1,NISP,pollen,,9347,,,Radiocarbon years BP,770,397,pollen,6/30/2007,343,0.29154519
+1978,Reichow Pond,47.190745,-95.77364,47.192,47.18949,-95.77188,-95.7754,Vascular plants,Dalea candida,1,NISP,pollen,,645,,,Radiocarbon years BP,97,455,pollen,6/30/2007,415,0.240963855
+1988,Rholl Lake,47.6,-96.166667,47.6,47.6,-96.166667,-96.166667,Vascular plants,Dalea candida,1,NISP,pollen,,552,,,Radiocarbon years BP,100,,pollen,6/30/2007,366,0.273224044
+1991,Rice Lake,46.922222,-95.575,46.922222,46.922222,-95.575,-95.575,Vascular plants,Dalea candida,1,NISP,pollen,,1517,,,Radiocarbon years BP,70,443,pollen,6/30/2007,5317,0.018807598
+1991,Rice Lake,46.922222,-95.575,46.922222,46.922222,-95.575,-95.575,Vascular plants,Dalea candida,1,NISP,pollen,,4690,,,Radiocarbon years BP,240,443,pollen,6/30/2007,493,0.202839757
+1991,Rice Lake,46.922222,-95.575,46.922222,46.922222,-95.575,-95.575,Vascular plants,Dalea candida,2,NISP,pollen,,5035,,,Radiocarbon years BP,260,443,pollen,6/30/2007,610,0.327868852
+2211,Rosebud,43.229167,-100.848611,43.229167,43.229167,-100.848611,-100.848611,Vascular plants,Dalea candida,1,NISP,pollen,,12000,,,Radiocarbon years BP,500,,pollen,6/30/2007,396,0.252525253
+2273,Sedivy Lake,47.208889,-95.833333,47.208889,47.208889,-95.833333,-95.833333,Vascular plants,Dalea candida,1,NISP,pollen,,0,,,Radiocarbon years BP,10,405,pollen,6/30/2007,532,0.187969925
+2273,Sedivy Lake,47.208889,-95.833333,47.208889,47.208889,-95.833333,-95.833333,Vascular plants,Dalea candida,2,NISP,pollen,,16,,,Radiocarbon years BP,20,405,pollen,6/30/2007,503,0.397614314
+2301,Silver Lake,44.895835,-94.20414,44.9034,44.88827,-94.1906,-94.21768,Vascular plants,Dalea candida,1,NISP,pollen,,153,,,Radiocarbon years BP,80,328,pollen,6/30/2007,371,0.269541779
+2301,Silver Lake,44.895835,-94.20414,44.9034,44.88827,-94.1906,-94.21768,Vascular plants,Dalea candida,2,NISP,pollen,,174,,,Radiocarbon years BP,90,328,pollen,6/30/2007,371,0.539083558
+2301,Silver Lake,44.895835,-94.20414,44.9034,44.88827,-94.1906,-94.21768,Vascular plants,Dalea candida,1,NISP,pollen,,195,,,Radiocarbon years BP,100,328,pollen,6/30/2007,419,0.238663484
+2500,South Stanchfield Lake,45.725,-93.466667,45.725,45.725,-93.466667,-93.466667,Vascular plants,Dalea candida,1,NISP,pollen,,-14,,,Radiocarbon years BP,1,293,pollen,6/30/2007,687,0.145560408
+2518,Stone Lake,45.4,-93.522222,45.4,45.4,-93.522222,-93.522222,Vascular plants,Dalea candida,1,NISP,pollen,,682,,,Radiocarbon years BP,110,,pollen,6/30/2007,546,0.183150183
+2524,Sunfish Lake,44.874722,-93.1,44.874722,44.874722,-93.1,-93.1,Vascular plants,Dalea candida,1,NISP,pollen,,346,,,Radiocarbon years BP,110,,pollen,6/30/2007,445,0.224719101
+2524,Sunfish Lake,44.874722,-93.1,44.874722,44.874722,-93.1,-93.1,Vascular plants,Dalea candida,1,NISP,pollen,,478,,,Radiocarbon years BP,150,,pollen,6/30/2007,440,0.227272727
+2530,Swan Lake,41.72106,-102.499255,41.72769,41.71443,-102.48,-102.51851,Vascular plants,Dalea candida,3,NISP,pollen,,763,,,Radiocarbon years BP,168,,pollen,6/30/2007,567,0.529100529
+2530,Swan Lake,41.72106,-102.499255,41.72769,41.71443,-102.48,-102.51851,Vascular plants,Dalea candida,2,NISP,pollen,,1217,,,Radiocarbon years BP,268,,pollen,6/30/2007,591,0.338409475
+2530,Swan Lake,41.72106,-102.499255,41.72769,41.71443,-102.48,-102.51851,Vascular plants,Dalea candida,2,NISP,pollen,,1671,,,Radiocarbon years BP,368,,pollen,6/30/2007,576,0.347222222
+2530,Swan Lake,41.72106,-102.499255,41.72769,41.71443,-102.48,-102.51851,Vascular plants,Dalea candida,3,NISP,pollen,,2580,,,Radiocarbon years BP,568,,pollen,6/30/2007,594,0.505050505
+2530,Swan Lake,41.72106,-102.499255,41.72769,41.71443,-102.48,-102.51851,Vascular plants,Dalea candida,2,NISP,pollen,,3053,,,Radiocarbon years BP,672,,pollen,6/30/2007,562,0.355871886
+2530,Swan Lake,41.72106,-102.499255,41.72769,41.71443,-102.48,-102.51851,Vascular plants,Dalea candida,1,NISP,pollen,,3742,,,Radiocarbon years BP,818,,pollen,6/30/2007,449,0.222717149
+2530,Swan Lake,41.72106,-102.499255,41.72769,41.71443,-102.48,-102.51851,Vascular plants,Dalea candida,2,NISP,pollen,,6240,,,Radiocarbon years BP,1138,,pollen,6/30/2007,624,0.320512821
+2530,Swan Lake,41.72106,-102.499255,41.72769,41.71443,-102.48,-102.51851,Vascular plants,Dalea candida,5,NISP,pollen,,8114,,,Radiocarbon years BP,1378,,pollen,6/30/2007,235,2.127659574
+2557,Toenjes Lake,45.40895,-93.981715,45.40997,45.40793,-93.98004,-93.98339,Vascular plants,Dalea candida,2,NISP,pollen,,61,,,Radiocarbon years BP,40,,pollen,6/30/2007,599,0.333889816
+2557,Toenjes Lake,45.40895,-93.981715,45.40997,45.40793,-93.98004,-93.98339,Vascular plants,Dalea candida,1,NISP,pollen,,157,,,Radiocarbon years BP,90,,pollen,6/30/2007,450,0.222222222
+2557,Toenjes Lake,45.40895,-93.981715,45.40997,45.40793,-93.98004,-93.98339,Vascular plants,Dalea candida,1,NISP,pollen,,310,,,Radiocarbon years BP,170,,pollen,6/30/2007,545,0.183486239
+2851,Wentzel's Pond,46.95,-94.95,46.95,46.95,-94.95,-94.95,Vascular plants,Dalea candida,3,NISP,pollen,,2893,,,Radiocarbon years BP,210,435,pollen,6/30/2007,345.5,0.868306802
+2933,Wolsfeld Lake,45.005,-93.5727,45.008,45.002,-93.5684,-93.577,Vascular plants,Dalea candida,1,NISP,pollen,,742,,,Radiocarbon years BP,738,292,pollen,6/30/2007,966,0.103519669
+2933,Wolsfeld Lake,45.005,-93.5727,45.008,45.002,-93.5684,-93.577,Vascular plants,Dalea candida,2,NISP,pollen,,4605,,,Radiocarbon years BP,1210,292,pollen,6/30/2007,907,0.220507166
+2933,Wolsfeld Lake,45.005,-93.5727,45.008,45.002,-93.5684,-93.577,Vascular plants,Dalea candida,1,NISP,pollen,,7319,,,Radiocarbon years BP,1470,292,pollen,6/30/2007,488,0.204918033
+2938,Woodworth Pond,47.15,-99.233333,47.15,47.15,-99.233333,-99.233333,Vascular plants,Dalea candida,1,NISP,pollen,,2963,,,Radiocarbon years BP,50,580,pollen,6/30/2007,542,0.184501845
+2938,Woodworth Pond,47.15,-99.233333,47.15,47.15,-99.233333,-99.233333,Vascular plants,Dalea candida,1,NISP,pollen,,3556,,,Radiocarbon years BP,60,580,pollen,6/30/2007,678,0.147492625
+1701,Lake Minnie,47.244755,-95.007715,47.24862,47.24089,-95.00459,-95.01084,Vascular plants,Dalea candida,1,NISP,pollen,,4394,,,Radiocarbon years BP,470,430,pollen,6/30/2007,319,0.313479624
+1701,Lake Minnie,47.244755,-95.007715,47.24862,47.24089,-95.00459,-95.01084,Vascular plants,Dalea candida,1,NISP,pollen,,4547,,,Radiocarbon years BP,480,430,pollen,6/30/2007,338,0.295857988
+1701,Lake Minnie,47.244755,-95.007715,47.24862,47.24089,-95.00459,-95.01084,Vascular plants,Dalea candida,1,NISP,pollen,,4700,,,Radiocarbon years BP,490,430,pollen,6/30/2007,345,0.289855072
+1701,Lake Minnie,47.244755,-95.007715,47.24862,47.24089,-95.00459,-95.01084,Vascular plants,Dalea candida,1,NISP,pollen,,5158,,,Radiocarbon years BP,520,430,pollen,6/30/2007,341,0.293255132
+1701,Lake Minnie,47.244755,-95.007715,47.24862,47.24089,-95.00459,-95.01084,Vascular plants,Dalea candida,1,NISP,pollen,,7605,,,Radiocarbon years BP,680,430,pollen,6/30/2007,369,0.27100271
+2855,White Lily Lake,46.086111,-93.102778,46.086111,46.086111,-93.102778,-93.102778,Vascular plants,Dalea candida,2,NISP,pollen,,8000,,,Radiocarbon years BP,670,344,pollen,6/30/2007,936,0.213675214
+2855,White Lily Lake,46.086111,-93.102778,46.086111,46.086111,-93.102778,-93.102778,Vascular plants,Dalea candida,1,NISP,pollen,,10925,,,Radiocarbon years BP,790,344,pollen,6/30/2007,910,0.10989011
+6506,South Heron Lake,43.7195,-95.228,43.75,43.689,-95.186,-95.27,Vascular plants,Dalea candida,1,NISP,pollen,,131,,,Calendar years BP,42,428,pollen,12/6/2013,373,0.268096515
+6506,South Heron Lake,43.7195,-95.228,43.75,43.689,-95.186,-95.27,Vascular plants,Dalea candida,1,NISP,pollen,,145,,,Calendar years BP,46,428,pollen,12/6/2013,418,0.23923445
+6507,Ocheda Lake,43.56928,-95.59275,43.59211,43.54645,-95.54295,-95.64255,Vascular plants,Dalea candida,1,NISP,pollen,,90,,,Calendar years BP,30,476,pollen,12/8/2013,397,0.251889169
+6507,Ocheda Lake,43.56928,-95.59275,43.59211,43.54645,-95.54295,-95.64255,Vascular plants,Dalea candida,2,NISP,pollen,,124,,,Calendar years BP,40,476,pollen,12/8/2013,259,0.772200772
+6511,Blomford Lake,45.4935,-93.1545,45.496,45.491,-93.152,-93.157,Vascular plants,Dalea candida,1,NISP,pollen,,802,,,Calendar years BP,80,291,pollen,12/11/2013,831.5,0.120264582
+6511,Blomford Lake,45.4935,-93.1545,45.496,45.491,-93.152,-93.157,Vascular plants,Dalea candida,1,NISP,pollen,,1322,,,Calendar years BP,130,291,pollen,12/11/2013,377,0.265251989
+6512,Fawn Lake,45.4072,-93.0532,45.4099,45.4045,-93.0494,-93.057,Vascular plants,Dalea candida,1,NISP,pollen,,230,,,Calendar years BP,60,274,pollen,12/11/2013,413,0.242130751
+6512,Fawn Lake,45.4072,-93.0532,45.4099,45.4045,-93.0494,-93.057,Vascular plants,Dalea candida,1,NISP,pollen,,403,,,Calendar years BP,100,274,pollen,12/11/2013,601,0.166389351
+6513,Frovold Lake,45.377,-95.5625,45.38,45.374,-95.557,-95.568,Vascular plants,Dalea candida,1,NISP,pollen,,334,,,Calendar years BP,70,318,pollen,12/11/2013,340.5,0.293685756
+6514,Goose Lake,44.99,-94.591,44.995,44.985,-94.586,-94.596,Vascular plants,Dalea candida,1,NISP,pollen,,68,,,Calendar years BP,45,334,pollen,12/12/2013,243.5,0.410677618
+6521,Round Grove Lake,44.709,-94.4935,44.718,44.7,-94.487,-94.5,Vascular plants,Dalea candida,2,NISP,pollen,,92,,,Calendar years BP,40,318,pollen,12/17/2013,526,0.380228137
+6521,Round Grove Lake,44.709,-94.4935,44.718,44.7,-94.487,-94.5,Vascular plants,Dalea candida,1,NISP,pollen,,123,,,Calendar years BP,50,318,pollen,12/17/2013,586,0.170648464
+7533,Monson Lake,45.324,-95.27935,45.33,45.318,-95.269,-95.2897,Vascular plants,Dalea candida,1,NISP,pollen,,-27,,,Calendar years BP,2,376,pollen,2/13/2014,1390.5,0.071916577
+7533,Monson Lake,45.324,-95.27935,45.33,45.318,-95.269,-95.2897,Vascular plants,Dalea candida,1,NISP,pollen,,107,,,Calendar years BP,80,376,pollen,2/13/2014,326.5,0.306278714
+7533,Monson Lake,45.324,-95.27935,45.33,45.318,-95.269,-95.2897,Vascular plants,Dalea candida,1,NISP,pollen,,176,,,Calendar years BP,120,376,pollen,2/13/2014,840,0.119047619
+7549,Everhart Lake,43.6176,-93.43875,43.6198,43.6154,-93.4351,-93.4424,Vascular plants,Dalea candida,1,NISP,pollen,,221,,,Calendar years BP,80,392,pollen,3/15/2014,278,0.35971223
+9604,Upper Carters Pond,47.153965,-109.42636,47.15657,47.15136,-109.42382,-109.4289,Vascular plants,Dalea candida,1,NISP,pollen,,,,,,,1235,pollen surface sample,6/19/2014,,
+9612,Fork Reservoir,47.444725,-106.412405,47.44652,47.44293,-106.41045,-106.41436,Vascular plants,Dalea candida,3,NISP,pollen,,-47,,,Calendar years BP,8,737,pollen surface sample,6/23/2014,,
+9621,Phillips Charging Buffalo Dam,44.38938,-102.773975,44.39024,44.38852,-102.77316,-102.77479,Vascular plants,Dalea candida,1,NISP,pollen,,-34,,,Calendar years BP,,759,pollen surface sample,6/23/2014,,
+9659,Unnamed Stock Dam,45.73753,-104.51315,45.73771,45.73735,-104.51292,-104.51338,Vascular plants,Dalea candida,1,NISP,pollen,,-37,,,Calendar years BP,,1002,pollen surface sample,6/29/2014,,
+9661,Pot Hole Reservoir,45.62385,-104.13899,45.62475,45.62295,-104.1376,-104.14038,Vascular plants,Dalea candida,1,NISP,pollen,,-37,,,Calendar years BP,,1098,pollen surface sample,6/29/2014,,
+9651,Bitter Lake,45.28149,-97.30256,45.31214,45.25084,-97.26608,-97.33904,Vascular plants,Dalea candida,1,NISP,pollen,,-35,,,Calendar years BP,,540,pollen surface sample,6/30/2014,,
+9721,Bull Pond,39.391925,-96.928015,39.39256,39.39129,-96.92774,-96.92829,Vascular plants,Dalea candida,1,NISP,pollen,,-58,,,Calendar years BP,,431,pollen surface sample,8/12/2014,,
+9735,Lake Sallie,46.77186,-95.896225,46.78554,46.75818,-95.87992,-95.91253,Vascular plants,Dalea candida,1,NISP,pollen,,3,,,Calendar years BP,13,405,pollen,8/13/2014,502.5,0.199004975
+9735,Lake Sallie,46.77186,-95.896225,46.78554,46.75818,-95.87992,-95.91253,Vascular plants,Dalea candida,1,NISP,pollen,,53,,,Calendar years BP,41,405,pollen,8/13/2014,310,0.322580645
+9748,Byer Pond,39.373185,-96.11764,39.37353,39.37284,-96.11726,-96.11802,Vascular plants,Dalea candida,1,NISP,pollen,,-59,,,Calendar years BP,,367,pollen surface sample,8/15/2014,,
+9773,Hamann Dam,46.52435,-103.401185,46.52745,46.52125,-103.39655,-103.40582,Vascular plants,Dalea candida,1,NISP,pollen,,-37,,,Calendar years BP,,820,pollen surface sample,8/21/2014,,
+10080,Wendel site,46.433115,-98.28941,46.43358,46.43265,-98.28725,-98.29157,Vascular plants,Dalea candida,1,NISP,pollen,,7970,,,Radiocarbon years BP,395,423,pollen,1/14/2015,308.5,0.324149109
+10080,Wendel site,46.433115,-98.28941,46.43358,46.43265,-98.28725,-98.29157,Vascular plants,Dalea candida,1,NISP,pollen,,8620,,,Radiocarbon years BP,420,423,pollen,1/14/2015,380,0.263157895
+10080,Wendel site,46.433115,-98.28941,46.43358,46.43265,-98.28725,-98.29157,Vascular plants,Dalea candida,1,NISP,pollen,,10683,,,Radiocarbon years BP,500,423,pollen,1/14/2015,349,0.286532951
+7532,Cottonwood Lake,44.6173,-95.68015,44.6243,44.6103,-95.6684,-95.6919,Vascular plants,Dalea candida,1,NISP,pollen,,,,,,30,324,pollen,2/22/2015,245,0.408163265
+10135,Cora Lake,46.165285,-95.32412,46.16933,46.16124,-95.31979,-95.32845,Vascular plants,Dalea candida,2,NISP,pollen,,189,,,Calendar years BP,70,586,pollen,2/23/2015,410,0.487804878
+10135,Cora Lake,46.165285,-95.32412,46.16933,46.16124,-95.31979,-95.32845,Vascular plants,Dalea candida,1,NISP,pollen,,282,,,Calendar years BP,100,586,pollen,2/23/2015,295.5,0.338409475
+10135,Cora Lake,46.165285,-95.32412,46.16933,46.16124,-95.31979,-95.32845,Vascular plants,Dalea candida,2,NISP,pollen,,345,,,Calendar years BP,120,586,pollen,2/23/2015,462,0.432900433
+10135,Cora Lake,46.165285,-95.32412,46.16933,46.16124,-95.31979,-95.32845,Vascular plants,Dalea candida,1,NISP,pollen,,401,,,Calendar years BP,138,586,pollen,2/23/2015,276.5,0.361663653
+10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Dalea candida,1,NISP,pollen,,4,,,Calendar years BP,23.5,294,pollen,2/27/2015,273,0.366300366
+10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Dalea candida,1,NISP,pollen,,6,,,Calendar years BP,25.4,294,pollen,2/27/2015,366,0.273224044
+10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Dalea candida,2,NISP,pollen,,26,,,Calendar years BP,40,294,pollen,2/27/2015,393,0.508905852
+10140,Tamarack Lake,44.87385,-93.63464,44.87624,44.87146,-93.63176,-93.63752,Vascular plants,Dalea candida,1,NISP,pollen,,31,,,Calendar years BP,44,294,pollen,2/27/2015,568,0.176056338
+1359,Jones Lake,45.428085,-93.981475,45.43037,45.4258,-93.97474,-93.98821,Vascular plants,Dalea candida,1,NISP,pollen,,131,,,Calendar years BP,20,293,pollen,3/2/2015,486,0.205761317
+1359,Jones Lake,45.428085,-93.981475,45.43037,45.4258,-93.97474,-93.98821,Vascular plants,Dalea candida,2,NISP,pollen,,491,,,Calendar years BP,70,293,pollen,3/2/2015,617,0.324149109
+10146,Williams Lake,46.95391,-94.66923,46.95798,46.94984,-94.66376,-94.6747,Vascular plants,Dalea candida,1,NISP,pollen,,,,,,80,421,pollen,3/4/2015,439,0.227790433
+10146,Williams Lake,46.95391,-94.66923,46.95798,46.94984,-94.66376,-94.6747,Vascular plants,Dalea candida,1,NISP,pollen,,,,,,138,421,pollen,3/4/2015,211,0.473933649
+10146,Williams Lake,46.95391,-94.66923,46.95798,46.94984,-94.66376,-94.6747,Vascular plants,Dalea candida,2,NISP,pollen,,,,,,154,421,pollen,3/4/2015,230,0.869565217
+10146,Williams Lake,46.95391,-94.66923,46.95798,46.94984,-94.66376,-94.6747,Vascular plants,Dalea candida,2,NISP,pollen,,,,,,208,421,pollen,3/4/2015,226,0.884955752
+10146,Williams Lake,46.95391,-94.66923,46.95798,46.94984,-94.66376,-94.6747,Vascular plants,Dalea candida,1,NISP,pollen,,,,,,174,421,pollen,3/4/2015,499,0.200400802
+10146,Williams Lake,46.95391,-94.66923,46.95798,46.94984,-94.66376,-94.6747,Vascular plants,Dalea candida,1,NISP,pollen,,,,,,202,421,pollen,3/4/2015,477,0.209643606
+10146,Williams Lake,46.95391,-94.66923,46.95798,46.94984,-94.66376,-94.6747,Vascular plants,Dalea candida,2,NISP,pollen,,,,,,226,421,pollen,3/4/2015,421,0.475059382
+10146,Williams Lake,46.95391,-94.66923,46.95798,46.94984,-94.66376,-94.6747,Vascular plants,Dalea candida,2,NISP,pollen,,,,,,310,421,pollen,3/4/2015,451,0.44345898
+10146,Williams Lake,46.95391,-94.66923,46.95798,46.94984,-94.66376,-94.6747,Vascular plants,Dalea candida,2,NISP,pollen,,,,,,350,421,pollen,3/4/2015,469,0.426439232
+10146,Williams Lake,46.95391,-94.66923,46.95798,46.94984,-94.66376,-94.6747,Vascular plants,Dalea candida,1,NISP,pollen,,,,,,398,421,pollen,3/4/2015,492,0.203252033
+10146,Williams Lake,46.95391,-94.66923,46.95798,46.94984,-94.66376,-94.6747,Vascular plants,Dalea candida,1,NISP,pollen,,,,,,41,421,pollen,3/4/2015,736.5,0.135777325
+10146,Williams Lake,46.95391,-94.66923,46.95798,46.94984,-94.66376,-94.6747,Vascular plants,Dalea candida,1,NISP,pollen,,319,49,752,Calibrated radiocarbon years BP,26,421,pollen,3/4/2015,762,0.131233596
+10146,Williams Lake,46.95391,-94.66923,46.95798,46.94984,-94.66376,-94.6747,Vascular plants,Dalea candida,1,NISP,pollen,,3391,2479,4343,Calibrated radiocarbon years BP,224,421,pollen,3/4/2015,728,0.137362637
+10146,Williams Lake,46.95391,-94.66923,46.95798,46.94984,-94.66376,-94.6747,Vascular plants,Dalea candida,1,NISP,pollen,,3644,2722,4592,Calibrated radiocarbon years BP,240,421,pollen,3/4/2015,849,0.11778563
+10146,Williams Lake,46.95391,-94.66923,46.95798,46.94984,-94.66376,-94.6747,Vascular plants,Dalea candida,1,NISP,pollen,,4384,3423,5344,Calibrated radiocarbon years BP,288,421,pollen,3/4/2015,533,0.187617261
+10146,Williams Lake,46.95391,-94.66923,46.95798,46.94984,-94.66376,-94.6747,Vascular plants,Dalea candida,1,NISP,pollen,,4754,3766,5723,Calibrated radiocarbon years BP,312,421,pollen,3/4/2015,484,0.20661157
+10146,Williams Lake,46.95391,-94.66923,46.95798,46.94984,-94.66376,-94.6747,Vascular plants,Dalea candida,2,NISP,pollen,,5246,4253,6179,Calibrated radiocarbon years BP,344,421,pollen,3/4/2015,481,0.415800416
+10146,Williams Lake,46.95391,-94.66923,46.95798,46.94984,-94.66376,-94.6747,Vascular plants,Dalea candida,1,NISP,pollen,,6721,5834,7509,Calibrated radiocarbon years BP,440,421,pollen,3/4/2015,482,0.20746888
+10146,Williams Lake,46.95391,-94.66923,46.95798,46.94984,-94.66376,-94.6747,Vascular plants,Dalea candida,1,NISP,pollen,,6906,6044,7679,Calibrated radiocarbon years BP,452,421,pollen,3/4/2015,454,0.220264317
+10146,Williams Lake,46.95391,-94.66923,46.95798,46.94984,-94.66376,-94.6747,Vascular plants,Dalea candida,1,NISP,pollen,,7155,6344,7868,Calibrated radiocarbon years BP,468,421,pollen,3/4/2015,522,0.191570881
+10146,Williams Lake,46.95391,-94.66923,46.95798,46.94984,-94.66376,-94.6747,Vascular plants,Dalea candida,4,NISP,pollen,,7216,6412,7927,Calibrated radiocarbon years BP,472,421,pollen,3/4/2015,456,0.877192982
+10146,Williams Lake,46.95391,-94.66923,46.95798,46.94984,-94.66376,-94.6747,Vascular plants,Dalea candida,1,NISP,pollen,,7400,6631,8063,Calibrated radiocarbon years BP,484,421,pollen,3/4/2015,526,0.190114068
+10146,Williams Lake,46.95391,-94.66923,46.95798,46.94984,-94.66376,-94.6747,Vascular plants,Dalea candida,3,NISP,pollen,,7772,7098,8372,Calibrated radiocarbon years BP,508,421,pollen,3/4/2015,549,0.546448087
+10146,Williams Lake,46.95391,-94.66923,46.95798,46.94984,-94.66376,-94.6747,Vascular plants,Dalea candida,1,NISP,pollen,,8134,7558,8681,Calibrated radiocarbon years BP,532,421,pollen,3/4/2015,482,0.20746888
+10146,Williams Lake,46.95391,-94.66923,46.95798,46.94984,-94.66376,-94.6747,Vascular plants,Dalea candida,2,NISP,pollen,,8254,7739,8776,Calibrated radiocarbon years BP,540,421,pollen,3/4/2015,495,0.404040404
+10146,Williams Lake,46.95391,-94.66923,46.95798,46.94984,-94.66376,-94.6747,Vascular plants,Dalea candida,2,NISP,pollen,,8511,8192,8964,Calibrated radiocarbon years BP,557,421,pollen,3/4/2015,504,0.396825397
+10146,Williams Lake,46.95391,-94.66923,46.95798,46.94984,-94.66376,-94.6747,Vascular plants,Dalea candida,1,NISP,pollen,,8664,8359,9122,Calibrated radiocarbon years BP,577,421,pollen,3/4/2015,605,0.165289256
+10146,Williams Lake,46.95391,-94.66923,46.95798,46.94984,-94.66376,-94.6747,Vascular plants,Dalea candida,1,NISP,pollen,,10787,8523,15437,Calibrated radiocarbon years BP,721,421,pollen,3/4/2015,429,0.233100233
+10219,Shingobee Lake,47.004035,-94.688245,47.00938,46.99869,-94.68082,-94.69567,Vascular plants,Dalea candida,1,NISP,pollen,,,,,,50,405,pollen,3/23/2015,582,0.171821306
+10219,Shingobee Lake,47.004035,-94.688245,47.00938,46.99869,-94.68082,-94.69567,Vascular plants,Dalea candida,2,NISP,pollen,,,,,,282,405,pollen,3/23/2015,217,0.921658986
+10219,Shingobee Lake,47.004035,-94.688245,47.00938,46.99869,-94.68082,-94.69567,Vascular plants,Dalea candida,3,NISP,pollen,,,,,,314,405,pollen,3/23/2015,424,0.70754717
+10219,Shingobee Lake,47.004035,-94.688245,47.00938,46.99869,-94.68082,-94.69567,Vascular plants,Dalea candida,1,NISP,pollen,,,,,,330,405,pollen,3/23/2015,408,0.245098039
+10219,Shingobee Lake,47.004035,-94.688245,47.00938,46.99869,-94.68082,-94.69567,Vascular plants,Dalea candida,1,NISP,pollen,,,,,,352,405,pollen,3/23/2015,422,0.236966825
+10219,Shingobee Lake,47.004035,-94.688245,47.00938,46.99869,-94.68082,-94.69567,Vascular plants,Dalea candida,1,NISP,pollen,,,,,,366,405,pollen,3/23/2015,230,0.434782609
+10219,Shingobee Lake,47.004035,-94.688245,47.00938,46.99869,-94.68082,-94.69567,Vascular plants,Dalea candida,1,NISP,pollen,,,,,,382,405,pollen,3/23/2015,503,0.198807157
+10219,Shingobee Lake,47.004035,-94.688245,47.00938,46.99869,-94.68082,-94.69567,Vascular plants,Dalea candida,1,NISP,pollen,,,,,,598,405,pollen,3/23/2015,668,0.149700599
+10457,Itasca Bison Kill Site,47.19285,-95.2339,47.197,47.1887,-95.2247,-95.2431,Vascular plants,Dalea candida,2,NISP,pollen,,,,,,203,447,pollen,6/3/2015,791,0.252844501
+10457,Itasca Bison Kill Site,47.19285,-95.2339,47.197,47.1887,-95.2247,-95.2431,Vascular plants,Dalea candida,2,NISP,pollen,,8899,7974,10164,Calibrated radiocarbon years BP,220,447,pollen,6/3/2015,852.5,0.234604106
+10457,Itasca Bison Kill Site,47.19285,-95.2339,47.197,47.1887,-95.2247,-95.2431,Vascular plants,Dalea candida,1,NISP,pollen,,5580,4061,7313,Calibrated radiocarbon years BP,230,447,pollen,6/3/2015,1262.5,0.079207921
+10457,Itasca Bison Kill Site,47.19285,-95.2339,47.197,47.1887,-95.2247,-95.2431,Vascular plants,Dalea candida,4,NISP,pollen,,,,,,90,447,pollen,6/3/2015,889,0.449943757
+10457,Itasca Bison Kill Site,47.19285,-95.2339,47.197,47.1887,-95.2247,-95.2431,Vascular plants,Dalea candida,2,NISP,pollen,,,,,,200,447,pollen,6/3/2015,769.5,0.259909032
+10554,Round Pond,52.531655,-91.37236111,52.53382,52.52949,-91.36888889,-91.37583333,Vascular plants,Dalea candida,1,NISP,pollen,,2104,1545,2709,Calibrated radiocarbon years BP,105,358,pollen,7/17/2015,233,0.429184549
+10554,Round Pond,52.531655,-91.37236111,52.53382,52.52949,-91.36888889,-91.37583333,Vascular plants,Dalea candida,1,NISP,pollen,,3528,2982,4099,Calibrated radiocarbon years BP,175,358,pollen,7/17/2015,233,0.429184549
+10554,Round Pond,52.531655,-91.37236111,52.53382,52.52949,-91.36888889,-91.37583333,Vascular plants,Dalea candida,2,NISP,pollen,,5157,4599,5806,Calibrated radiocarbon years BP,245,358,pollen,7/17/2015,287,0.696864111

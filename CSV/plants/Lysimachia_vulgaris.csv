@@ -1,13 +1,13 @@
 siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
-1399,Kamenicky,49.733333,15.966667,49.733333,49.733333,15.966667,15.966667,Vascular plants,Lysimachia vulgaris-type,1.0,NISP,pollen,,1077.0,,,Radiocarbon years BP,2.5,624.0,pollen,6/30/2007,787.0,0.12706480305
-1399,Kamenicky,49.733333,15.966667,49.733333,49.733333,15.966667,15.966667,Vascular plants,Lysimachia vulgaris-type,1.0,NISP,pollen,,1225.0,,,Radiocarbon years BP,5.0,624.0,pollen,6/30/2007,766.0,0.130548302872
-1399,Kamenicky,49.733333,15.966667,49.733333,49.733333,15.966667,15.966667,Vascular plants,Lysimachia vulgaris-type,1.0,NISP,pollen,,1520.0,,,Radiocarbon years BP,10.0,624.0,pollen,6/30/2007,714.0,0.140056022409
-1399,Kamenicky,49.733333,15.966667,49.733333,49.733333,15.966667,15.966667,Vascular plants,Lysimachia vulgaris-type,2.0,NISP,pollen,,1815.0,,,Radiocarbon years BP,15.0,624.0,pollen,6/30/2007,850.0,0.235294117647
-1399,Kamenicky,49.733333,15.966667,49.733333,49.733333,15.966667,15.966667,Vascular plants,Lysimachia vulgaris-type,2.0,NISP,pollen,,2110.0,,,Radiocarbon years BP,20.0,624.0,pollen,6/30/2007,679.0,0.294550810015
-1399,Kamenicky,49.733333,15.966667,49.733333,49.733333,15.966667,15.966667,Vascular plants,Lysimachia vulgaris-type,1.0,NISP,pollen,,3049.0,,,Radiocarbon years BP,25.0,624.0,pollen,6/30/2007,671.0,0.149031296572
-1399,Kamenicky,49.733333,15.966667,49.733333,49.733333,15.966667,15.966667,Vascular plants,Lysimachia vulgaris-type,1.0,NISP,pollen,,4059.0,,,Radiocarbon years BP,30.0,624.0,pollen,6/30/2007,533.0,0.187617260788
-1399,Kamenicky,49.733333,15.966667,49.733333,49.733333,15.966667,15.966667,Vascular plants,Lysimachia vulgaris-type,3.0,NISP,pollen,,4742.0,,,Radiocarbon years BP,35.0,624.0,pollen,6/30/2007,722.0,0.415512465374
-1399,Kamenicky,49.733333,15.966667,49.733333,49.733333,15.966667,15.966667,Vascular plants,Lysimachia vulgaris-type,2.0,NISP,pollen,,5389.0,,,Radiocarbon years BP,40.0,624.0,pollen,6/30/2007,764.0,0.261780104712
-1399,Kamenicky,49.733333,15.966667,49.733333,49.733333,15.966667,15.966667,Vascular plants,Lysimachia vulgaris-type,2.0,NISP,pollen,,6694.0,,,Radiocarbon years BP,50.0,624.0,pollen,6/30/2007,759.0,0.263504611331
-1399,Kamenicky,49.733333,15.966667,49.733333,49.733333,15.966667,15.966667,Vascular plants,Lysimachia vulgaris-type,1.0,NISP,pollen,,8014.0,,,Radiocarbon years BP,60.0,624.0,pollen,6/30/2007,792.0,0.126262626263
-1399,Kamenicky,49.733333,15.966667,49.733333,49.733333,15.966667,15.966667,Vascular plants,Lysimachia vulgaris-type,1.0,NISP,pollen,,8328.0,,,Radiocarbon years BP,65.0,624.0,pollen,6/30/2007,889.0,0.112485939258
+1399,Kamenicky,49.733333,15.966667,49.733333,49.733333,15.966667,15.966667,Vascular plants,Lysimachia vulgaris,1,NISP,pollen,,1077,,,Radiocarbon years BP,2.5,624,pollen,6/30/2007,787,0.127064803
+1399,Kamenicky,49.733333,15.966667,49.733333,49.733333,15.966667,15.966667,Vascular plants,Lysimachia vulgaris,1,NISP,pollen,,1225,,,Radiocarbon years BP,5,624,pollen,6/30/2007,766,0.130548303
+1399,Kamenicky,49.733333,15.966667,49.733333,49.733333,15.966667,15.966667,Vascular plants,Lysimachia vulgaris,1,NISP,pollen,,1520,,,Radiocarbon years BP,10,624,pollen,6/30/2007,714,0.140056022
+1399,Kamenicky,49.733333,15.966667,49.733333,49.733333,15.966667,15.966667,Vascular plants,Lysimachia vulgaris,2,NISP,pollen,,1815,,,Radiocarbon years BP,15,624,pollen,6/30/2007,850,0.235294118
+1399,Kamenicky,49.733333,15.966667,49.733333,49.733333,15.966667,15.966667,Vascular plants,Lysimachia vulgaris,2,NISP,pollen,,2110,,,Radiocarbon years BP,20,624,pollen,6/30/2007,679,0.29455081
+1399,Kamenicky,49.733333,15.966667,49.733333,49.733333,15.966667,15.966667,Vascular plants,Lysimachia vulgaris,1,NISP,pollen,,3049,,,Radiocarbon years BP,25,624,pollen,6/30/2007,671,0.149031297
+1399,Kamenicky,49.733333,15.966667,49.733333,49.733333,15.966667,15.966667,Vascular plants,Lysimachia vulgaris,1,NISP,pollen,,4059,,,Radiocarbon years BP,30,624,pollen,6/30/2007,533,0.187617261
+1399,Kamenicky,49.733333,15.966667,49.733333,49.733333,15.966667,15.966667,Vascular plants,Lysimachia vulgaris,3,NISP,pollen,,4742,,,Radiocarbon years BP,35,624,pollen,6/30/2007,722,0.415512465
+1399,Kamenicky,49.733333,15.966667,49.733333,49.733333,15.966667,15.966667,Vascular plants,Lysimachia vulgaris,2,NISP,pollen,,5389,,,Radiocarbon years BP,40,624,pollen,6/30/2007,764,0.261780105
+1399,Kamenicky,49.733333,15.966667,49.733333,49.733333,15.966667,15.966667,Vascular plants,Lysimachia vulgaris,2,NISP,pollen,,6694,,,Radiocarbon years BP,50,624,pollen,6/30/2007,759,0.263504611
+1399,Kamenicky,49.733333,15.966667,49.733333,49.733333,15.966667,15.966667,Vascular plants,Lysimachia vulgaris,1,NISP,pollen,,8014,,,Radiocarbon years BP,60,624,pollen,6/30/2007,792,0.126262626
+1399,Kamenicky,49.733333,15.966667,49.733333,49.733333,15.966667,15.966667,Vascular plants,Lysimachia vulgaris,1,NISP,pollen,,8328,,,Radiocarbon years BP,65,624,pollen,6/30/2007,889,0.112485939

@@ -1,254 +1,254 @@
 siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
-29,Lake Allie,44.8036,-94.5579,44.8138,44.7934,-94.5483,-94.5675,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,314.0,,,Radiocarbon years BP,100.0,328.0,pollen,6/30/2007,336.0,0.297619047619
-29,Lake Allie,44.8036,-94.5579,44.8138,44.7934,-94.5483,-94.5675,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,412.0,,,Radiocarbon years BP,130.0,328.0,pollen,6/30/2007,314.0,0.31847133758
-311,Buckbean Fen,44.298611,-110.260556,44.298611,44.298611,-110.260556,-110.260556,Vascular plants,Ephedra torreyana-type,2.0,NISP,pollen,,0.0,,,Radiocarbon years BP,0.0,2362.0,pollen,6/30/2007,321.0,0.623052959502
-311,Buckbean Fen,44.298611,-110.260556,44.298611,44.298611,-110.260556,-110.260556,Vascular plants,Ephedra torreyana-type,2.0,NISP,pollen,,1778.0,,,Radiocarbon years BP,180.0,2362.0,pollen,6/30/2007,358.0,0.558659217877
-311,Buckbean Fen,44.298611,-110.260556,44.298611,44.298611,-110.260556,-110.260556,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,3492.0,,,Radiocarbon years BP,320.0,2362.0,pollen,6/30/2007,315.0,0.31746031746
-311,Buckbean Fen,44.298611,-110.260556,44.298611,44.298611,-110.260556,-110.260556,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,5244.0,,,Radiocarbon years BP,440.0,2362.0,pollen,6/30/2007,354.0,0.282485875706
-311,Buckbean Fen,44.298611,-110.260556,44.298611,44.298611,-110.260556,-110.260556,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,11165.0,,,Radiocarbon years BP,680.0,2362.0,pollen,6/30/2007,323.0,0.30959752322
-311,Buckbean Fen,44.298611,-110.260556,44.298611,44.298611,-110.260556,-110.260556,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,13354.0,,,Radiocarbon years BP,890.0,2362.0,pollen,6/30/2007,476.0,0.210084033613
-311,Buckbean Fen,44.298611,-110.260556,44.298611,44.298611,-110.260556,-110.260556,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,13642.0,,,Radiocarbon years BP,910.0,2362.0,pollen,6/30/2007,369.0,0.271002710027
-327,Campbell Lake,44.70722,-93.497645,44.71047,44.70397,-93.49075,-93.50454,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,189.0,,,Radiocarbon years BP,80.0,281.0,pollen,6/30/2007,514.0,0.194552529183
-339,Cascade Fen,37.483333,-107.8,37.483333,37.483333,-107.8,-107.8,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,143.0,,,Radiocarbon years BP,12.0,2690.0,pollen,6/30/2007,365.0,0.27397260274
-339,Cascade Fen,37.483333,-107.8,37.483333,37.483333,-107.8,-107.8,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,338.0,,,Radiocarbon years BP,27.0,2690.0,pollen,6/30/2007,357.0,0.280112044818
-339,Cascade Fen,37.483333,-107.8,37.483333,37.483333,-107.8,-107.8,Vascular plants,Ephedra torreyana-type,4.0,NISP,pollen,,403.0,,,Radiocarbon years BP,32.0,2690.0,pollen,6/30/2007,341.0,1.17302052786
-339,Cascade Fen,37.483333,-107.8,37.483333,37.483333,-107.8,-107.8,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,533.0,,,Radiocarbon years BP,42.0,2690.0,pollen,6/30/2007,385.0,0.25974025974
-339,Cascade Fen,37.483333,-107.8,37.483333,37.483333,-107.8,-107.8,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,598.0,,,Radiocarbon years BP,47.0,2690.0,pollen,6/30/2007,376.0,0.265957446809
-339,Cascade Fen,37.483333,-107.8,37.483333,37.483333,-107.8,-107.8,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,662.0,,,Radiocarbon years BP,52.0,2690.0,pollen,6/30/2007,355.0,0.281690140845
-339,Cascade Fen,37.483333,-107.8,37.483333,37.483333,-107.8,-107.8,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,727.0,,,Radiocarbon years BP,57.0,2690.0,pollen,6/30/2007,318.0,0.314465408805
-339,Cascade Fen,37.483333,-107.8,37.483333,37.483333,-107.8,-107.8,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,1052.0,,,Radiocarbon years BP,82.0,2690.0,pollen,6/30/2007,320.0,0.3125
-339,Cascade Fen,37.483333,-107.8,37.483333,37.483333,-107.8,-107.8,Vascular plants,Ephedra torreyana-type,2.0,NISP,pollen,,1247.0,,,Radiocarbon years BP,97.0,2690.0,pollen,6/30/2007,352.0,0.568181818182
-339,Cascade Fen,37.483333,-107.8,37.483333,37.483333,-107.8,-107.8,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,1494.0,,,Radiocarbon years BP,116.0,2690.0,pollen,6/30/2007,363.0,0.275482093664
-339,Cascade Fen,37.483333,-107.8,37.483333,37.483333,-107.8,-107.8,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,1559.0,,,Radiocarbon years BP,121.0,2690.0,pollen,6/30/2007,354.0,0.282485875706
-339,Cascade Fen,37.483333,-107.8,37.483333,37.483333,-107.8,-107.8,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,1663.0,,,Radiocarbon years BP,129.0,2690.0,pollen,6/30/2007,349.0,0.286532951289
-339,Cascade Fen,37.483333,-107.8,37.483333,37.483333,-107.8,-107.8,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,1702.0,,,Radiocarbon years BP,132.0,2690.0,pollen,6/30/2007,374.0,0.267379679144
-339,Cascade Fen,37.483333,-107.8,37.483333,37.483333,-107.8,-107.8,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,1767.0,,,Radiocarbon years BP,137.0,2690.0,pollen,6/30/2007,250.0,0.4
-339,Cascade Fen,37.483333,-107.8,37.483333,37.483333,-107.8,-107.8,Vascular plants,Ephedra torreyana-type,3.0,NISP,pollen,,2039.0,,,Radiocarbon years BP,158.0,2690.0,pollen,6/30/2007,378.0,0.793650793651
-339,Cascade Fen,37.483333,-107.8,37.483333,37.483333,-107.8,-107.8,Vascular plants,Ephedra torreyana-type,4.0,NISP,pollen,,2169.0,,,Radiocarbon years BP,168.0,2690.0,pollen,6/30/2007,1070.0,0.373831775701
-339,Cascade Fen,37.483333,-107.8,37.483333,37.483333,-107.8,-107.8,Vascular plants,Ephedra torreyana-type,2.0,NISP,pollen,,2455.0,,,Radiocarbon years BP,190.0,2690.0,pollen,6/30/2007,1092.0,0.18315018315
-339,Cascade Fen,37.483333,-107.8,37.483333,37.483333,-107.8,-107.8,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,3135.0,,,Radiocarbon years BP,216.0,2690.0,pollen,6/30/2007,556.0,0.179856115108
-339,Cascade Fen,37.483333,-107.8,37.483333,37.483333,-107.8,-107.8,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,3428.0,,,Radiocarbon years BP,226.0,2690.0,pollen,6/30/2007,470.0,0.212765957447
-339,Cascade Fen,37.483333,-107.8,37.483333,37.483333,-107.8,-107.8,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,4044.0,,,Radiocarbon years BP,247.0,2690.0,pollen,6/30/2007,407.0,0.2457002457
-339,Cascade Fen,37.483333,-107.8,37.483333,37.483333,-107.8,-107.8,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,5040.0,,,Radiocarbon years BP,281.0,2690.0,pollen,6/30/2007,373.0,0.268096514745
-364,Chatsworth Bog,40.675865,-88.324435,40.67759,40.67414,-88.3213,-88.32757,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,8026.0,,,Radiocarbon years BP,860.0,219.0,pollen,6/30/2007,326.0,0.306748466258
-486,Columbine Ranch Fen,37.6125,-107.808333,37.6125,37.6125,-107.808333,-107.808333,Vascular plants,Ephedra torreyana-type,2.0,NISP,pollen,,-1.0,,,Radiocarbon years BP,0.5,2694.0,pollen,6/30/2007,908.0,0.220264317181
-486,Columbine Ranch Fen,37.6125,-107.808333,37.6125,37.6125,-107.808333,-107.808333,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,366.0,,,Radiocarbon years BP,10.0,2694.0,pollen,6/30/2007,481.0,0.2079002079
-486,Columbine Ranch Fen,37.6125,-107.808333,37.6125,37.6125,-107.808333,-107.808333,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,559.0,,,Radiocarbon years BP,15.0,2694.0,pollen,6/30/2007,507.0,0.197238658777
-486,Columbine Ranch Fen,37.6125,-107.808333,37.6125,37.6125,-107.808333,-107.808333,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,751.0,,,Radiocarbon years BP,20.0,2694.0,pollen,6/30/2007,573.0,0.174520069808
-486,Columbine Ranch Fen,37.6125,-107.808333,37.6125,37.6125,-107.808333,-107.808333,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,944.0,,,Radiocarbon years BP,25.0,2694.0,pollen,6/30/2007,600.0,0.166666666667
-486,Columbine Ranch Fen,37.6125,-107.808333,37.6125,37.6125,-107.808333,-107.808333,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,1523.0,,,Radiocarbon years BP,40.0,2694.0,pollen,6/30/2007,587.0,0.170357751278
-486,Columbine Ranch Fen,37.6125,-107.808333,37.6125,37.6125,-107.808333,-107.808333,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,1716.0,,,Radiocarbon years BP,45.0,2694.0,pollen,6/30/2007,523.0,0.19120458891
-486,Columbine Ranch Fen,37.6125,-107.808333,37.6125,37.6125,-107.808333,-107.808333,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,1909.0,,,Radiocarbon years BP,50.0,2694.0,pollen,6/30/2007,565.0,0.176991150442
-486,Columbine Ranch Fen,37.6125,-107.808333,37.6125,37.6125,-107.808333,-107.808333,Vascular plants,Ephedra torreyana-type,2.0,NISP,pollen,,3066.0,,,Radiocarbon years BP,80.0,2694.0,pollen,6/30/2007,503.0,0.397614314115
-486,Columbine Ranch Fen,37.6125,-107.808333,37.6125,37.6125,-107.808333,-107.808333,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,3451.0,,,Radiocarbon years BP,90.0,2694.0,pollen,6/30/2007,464.0,0.215517241379
-486,Columbine Ranch Fen,37.6125,-107.808333,37.6125,37.6125,-107.808333,-107.808333,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,3837.0,,,Radiocarbon years BP,100.0,2694.0,pollen,6/30/2007,429.0,0.2331002331
-486,Columbine Ranch Fen,37.6125,-107.808333,37.6125,37.6125,-107.808333,-107.808333,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,5187.0,,,Radiocarbon years BP,135.0,2694.0,pollen,6/30/2007,515.0,0.194174757282
-486,Columbine Ranch Fen,37.6125,-107.808333,37.6125,37.6125,-107.808333,-107.808333,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,5380.0,,,Radiocarbon years BP,140.0,2694.0,pollen,6/30/2007,467.0,0.214132762313
-486,Columbine Ranch Fen,37.6125,-107.808333,37.6125,37.6125,-107.808333,-107.808333,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,6151.0,,,Radiocarbon years BP,160.0,2694.0,pollen,6/30/2007,1014.0,0.0986193293886
-486,Columbine Ranch Fen,37.6125,-107.808333,37.6125,37.6125,-107.808333,-107.808333,Vascular plants,Ephedra torreyana-type,2.0,NISP,pollen,,6344.0,,,Radiocarbon years BP,165.0,2694.0,pollen,6/30/2007,1309.0,0.152788388083
-486,Columbine Ranch Fen,37.6125,-107.808333,37.6125,37.6125,-107.808333,-107.808333,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,6537.0,,,Radiocarbon years BP,170.0,2694.0,pollen,6/30/2007,399.0,0.250626566416
-530,Dalton Lake,46.173889,-95.915278,46.173889,46.173889,-95.915278,-95.915278,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,94.0,,,Radiocarbon years BP,40.0,418.0,pollen,6/30/2007,368.0,0.271739130435
-771,Eldora Fen,39.936667,-105.58,39.936667,39.936667,-105.58,-105.58,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,820.0,,,Radiocarbon years BP,34.0,2848.0,pollen,6/30/2007,411.0,0.243309002433
-771,Eldora Fen,39.936667,-105.58,39.936667,39.936667,-105.58,-105.58,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,1480.0,,,Radiocarbon years BP,50.0,2848.0,pollen,6/30/2007,377.0,0.26525198939
-771,Eldora Fen,39.936667,-105.58,39.936667,39.936667,-105.58,-105.58,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,2220.0,,,Radiocarbon years BP,65.0,2848.0,pollen,6/30/2007,1037.0,0.0964320154291
-771,Eldora Fen,39.936667,-105.58,39.936667,39.936667,-105.58,-105.58,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,2760.0,,,Radiocarbon years BP,75.0,2848.0,pollen,6/30/2007,435.0,0.229885057471
-771,Eldora Fen,39.936667,-105.58,39.936667,39.936667,-105.58,-105.58,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,4870.0,,,Radiocarbon years BP,110.0,2848.0,pollen,6/30/2007,440.0,0.227272727273
-771,Eldora Fen,39.936667,-105.58,39.936667,39.936667,-105.58,-105.58,Vascular plants,Ephedra torreyana-type,3.0,NISP,pollen,,4990.0,,,Radiocarbon years BP,112.0,2848.0,pollen,6/30/2007,1020.0,0.294117647059
-771,Eldora Fen,39.936667,-105.58,39.936667,39.936667,-105.58,-105.58,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,6110.0,,,Radiocarbon years BP,130.0,2848.0,pollen,6/30/2007,1100.0,0.0909090909091
-771,Eldora Fen,39.936667,-105.58,39.936667,39.936667,-105.58,-105.58,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,6360.0,,,Radiocarbon years BP,134.0,2848.0,pollen,6/30/2007,464.0,0.215517241379
-771,Eldora Fen,39.936667,-105.58,39.936667,39.936667,-105.58,-105.58,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,7540.0,,,Radiocarbon years BP,154.0,2848.0,pollen,6/30/2007,355.0,0.281690140845
-771,Eldora Fen,39.936667,-105.58,39.936667,39.936667,-105.58,-105.58,Vascular plants,Ephedra torreyana-type,3.0,NISP,pollen,,7660.0,,,Radiocarbon years BP,156.0,2848.0,pollen,6/30/2007,458.0,0.655021834061
-785,Lake Erie,41.92,-82.76,41.92,41.92,-82.76,-82.76,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,5056.0,,,Radiocarbon years BP,140.0,168.0,pollen,6/30/2007,611.0,0.163666121113
-785,Lake Erie,41.92,-82.76,41.92,41.92,-82.76,-82.76,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,7041.0,,,Radiocarbon years BP,200.0,168.0,pollen,6/30/2007,352.0,0.284090909091
-799,Farquar Lake,44.75815,-93.16449,44.76081,44.75549,-93.15986,-93.16912,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,-12.0,,,Radiocarbon years BP,1.0,273.0,pollen,6/30/2007,678.0,0.147492625369
-799,Farquar Lake,44.75815,-93.16449,44.76081,44.75549,-93.15986,-93.16912,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,11.0,,,Radiocarbon years BP,10.0,273.0,pollen,6/30/2007,821.0,0.121802679659
-799,Farquar Lake,44.75815,-93.16449,44.76081,44.75549,-93.15986,-93.16912,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,87.0,,,Radiocarbon years BP,40.0,273.0,pollen,6/30/2007,493.0,0.202839756592
-799,Farquar Lake,44.75815,-93.16449,44.76081,44.75549,-93.15986,-93.16912,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,189.0,,,Radiocarbon years BP,80.0,273.0,pollen,6/30/2007,445.0,0.224719101124
-835,"Georgian Bay, Lake Huron (1)",44.74,-80.86,44.74,44.74,-80.86,-80.86,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,6760.0,,,Radiocarbon years BP,170.0,176.0,pollen,6/30/2007,233.0,0.429184549356
-835,"Georgian Bay, Lake Huron (1)",44.74,-80.86,44.74,44.74,-80.86,-80.86,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,11341.0,,,Radiocarbon years BP,610.0,176.0,pollen,6/30/2007,268.0,0.373134328358
-836,"Georgian Bay, Lake Huron (2)",45.17,-81.32,45.17,45.17,-81.32,-81.32,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,9140.0,,,Radiocarbon years BP,310.0,176.0,pollen,6/30/2007,218.0,0.45871559633
-836,"Georgian Bay, Lake Huron (2)",45.17,-81.32,45.17,45.17,-81.32,-81.32,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,10408.0,,,Radiocarbon years BP,360.0,176.0,pollen,6/30/2007,241.0,0.414937759336
-841,George Lake,44.2329,-93.87066,44.23611,44.22969,-93.86559,-93.87573,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,18.0,,,Radiocarbon years BP,10.0,301.0,pollen,6/30/2007,518.0,0.19305019305
-841,George Lake,44.2329,-93.87066,44.23611,44.22969,-93.86559,-93.87573,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,200.0,,,Radiocarbon years BP,40.0,301.0,pollen,6/30/2007,500.0,0.2
-1220,Jewell Site,42.26,-93.7,42.26,42.26,-93.7,-93.7,Vascular plants,Ephedra torreyana-type,2.0,NISP,pollen,,5898.0,,,Radiocarbon years BP,186.0,317.0,pollen,6/30/2007,693.0,0.2886002886
-1220,Jewell Site,42.26,-93.7,42.26,42.26,-93.7,-93.7,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,6054.0,,,Radiocarbon years BP,198.0,317.0,pollen,6/30/2007,656.0,0.15243902439
-1220,Jewell Site,42.26,-93.7,42.26,42.26,-93.7,-93.7,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,6405.0,,,Radiocarbon years BP,225.0,317.0,pollen,6/30/2007,846.0,0.118203309693
-1220,Jewell Site,42.26,-93.7,42.26,42.26,-93.7,-93.7,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,8070.0,,,Radiocarbon years BP,430.0,317.0,pollen,6/30/2007,573.0,0.174520069808
-1220,Jewell Site,42.26,-93.7,42.26,42.26,-93.7,-93.7,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,10946.0,,,Radiocarbon years BP,678.0,317.0,pollen,6/30/2007,608.0,0.164473684211
-1409,Kegan Lake,44.75836,-93.11674,44.76042,44.7563,-93.11416,-93.11932,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,27.0,,,Radiocarbon years BP,10.0,285.0,pollen,6/30/2007,754.0,0.132625994695
-1514,Kryzewinski Lake,46.353333,-92.870278,46.353333,46.353333,-92.870278,-92.870278,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,189.0,,,Radiocarbon years BP,60.0,,pollen,6/30/2007,374.0,0.267379679144
-1703,Mirror Pool,46.525833,-97.241389,46.525833,46.525833,-97.241389,-97.241389,Vascular plants,Ephedra torreyana-type,2.0,NISP,pollen,,9053.0,,,Radiocarbon years BP,10.0,302.0,pollen,6/30/2007,720.0,0.277777777778
-1705,Molas Lake,37.745833,-107.683611,37.745833,37.745833,-107.683611,-107.683611,Vascular plants,Ephedra torreyana-type,2.0,NISP,pollen,,914.0,,,Radiocarbon years BP,10.0,3200.0,pollen,6/30/2007,334.0,0.59880239521
-1705,Molas Lake,37.745833,-107.683611,37.745833,37.745833,-107.683611,-107.683611,Vascular plants,Ephedra torreyana-type,2.0,NISP,pollen,,1303.0,,,Radiocarbon years BP,14.2,3200.0,pollen,6/30/2007,336.0,0.595238095238
-1705,Molas Lake,37.745833,-107.683611,37.745833,37.745833,-107.683611,-107.683611,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,1544.0,,,Radiocarbon years BP,16.8,3200.0,pollen,6/30/2007,347.0,0.28818443804
-1705,Molas Lake,37.745833,-107.683611,37.745833,37.745833,-107.683611,-107.683611,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,1932.0,,,Radiocarbon years BP,21.0,3200.0,pollen,6/30/2007,345.0,0.289855072464
-1705,Molas Lake,37.745833,-107.683611,37.745833,37.745833,-107.683611,-107.683611,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,2228.0,,,Radiocarbon years BP,24.2,3200.0,pollen,6/30/2007,332.0,0.301204819277
-1705,Molas Lake,37.745833,-107.683611,37.745833,37.745833,-107.683611,-107.683611,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,2626.0,,,Radiocarbon years BP,28.5,3200.0,pollen,6/30/2007,321.0,0.311526479751
-1705,Molas Lake,37.745833,-107.683611,37.745833,37.745833,-107.683611,-107.683611,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,2996.0,,,Radiocarbon years BP,32.5,3200.0,pollen,6/30/2007,343.0,0.291545189504
-1705,Molas Lake,37.745833,-107.683611,37.745833,37.745833,-107.683611,-107.683611,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,6466.0,,,Radiocarbon years BP,70.0,3200.0,pollen,6/30/2007,323.0,0.30959752322
-1705,Molas Lake,37.745833,-107.683611,37.745833,37.745833,-107.683611,-107.683611,Vascular plants,Ephedra torreyana-type,3.0,NISP,pollen,,6725.0,,,Radiocarbon years BP,72.8,3200.0,pollen,6/30/2007,337.0,0.890207715134
-1705,Molas Lake,37.745833,-107.683611,37.745833,37.745833,-107.683611,-107.683611,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,7253.0,,,Radiocarbon years BP,78.5,3200.0,pollen,6/30/2007,323.0,0.30959752322
-1705,Molas Lake,37.745833,-107.683611,37.745833,37.745833,-107.683611,-107.683611,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,8317.0,,,Radiocarbon years BP,90.0,3200.0,pollen,6/30/2007,337.0,0.296735905045
-1705,Molas Lake,37.745833,-107.683611,37.745833,37.745833,-107.683611,-107.683611,Vascular plants,Ephedra torreyana-type,2.0,NISP,pollen,,9039.0,,,Radiocarbon years BP,97.8,3200.0,pollen,6/30/2007,324.0,0.617283950617
-1705,Molas Lake,37.745833,-107.683611,37.745833,37.745833,-107.683611,-107.683611,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,9566.0,,,Radiocarbon years BP,103.5,3200.0,pollen,6/30/2007,334.0,0.299401197605
-1705,Molas Lake,37.745833,-107.683611,37.745833,37.745833,-107.683611,-107.683611,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,9909.0,,,Radiocarbon years BP,107.2,3200.0,pollen,6/30/2007,317.0,0.315457413249
-1705,Molas Lake,37.745833,-107.683611,37.745833,37.745833,-107.683611,-107.683611,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,13267.0,,,Radiocarbon years BP,143.5,3200.0,pollen,6/30/2007,462.0,0.21645021645
-1705,Molas Lake,37.745833,-107.683611,37.745833,37.745833,-107.683611,-107.683611,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,13412.0,,,Radiocarbon years BP,145.2,3200.0,pollen,6/30/2007,664.0,0.150602409639
-1705,Molas Lake,37.745833,-107.683611,37.745833,37.745833,-107.683611,-107.683611,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,14875.0,,,Radiocarbon years BP,164.8,3200.0,pollen,6/30/2007,660.0,0.151515151515
-1705,Molas Lake,37.745833,-107.683611,37.745833,37.745833,-107.683611,-107.683611,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,15353.0,,,Radiocarbon years BP,171.2,3200.0,pollen,6/30/2007,163.0,0.613496932515
-1706,Molas Pass Bog,37.737778,-107.6975,37.737778,37.737778,-107.6975,-107.6975,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,3798.0,,,Radiocarbon years BP,50.0,3220.0,pollen,6/30/2007,369.0,0.271002710027
-1713,Mordsger Lake,51.383333,-94.25,51.383333,51.383333,-94.25,-94.25,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,9310.0,,,Radiocarbon years BP,275.0,400.0,pollen,6/30/2007,302.0,0.331125827815
-1720,Mud Lake,44.226105,-93.829815,44.23136,44.22085,-93.82444,-93.83519,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,165.0,,,Radiocarbon years BP,60.0,308.0,pollen,6/30/2007,1162.0,0.0860585197935
-1724,Murphy Lake,44.711625,-93.341105,44.7142,44.70905,-93.337,-93.34521,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,81.0,,,Radiocarbon years BP,50.0,280.0,pollen,6/30/2007,564.0,0.177304964539
-1724,Murphy Lake,44.711625,-93.341105,44.7142,44.70905,-93.337,-93.34521,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,119.0,,,Radiocarbon years BP,70.0,280.0,pollen,6/30/2007,404.0,0.247524752475
-1764,Lake Ogechie,46.133333,-93.783333,46.133333,46.133333,-93.783333,-93.783333,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,,,,,1020.0,380.0,pollen,6/30/2007,457.0,0.218818380744
-1775,"Lake Ontario, Mississauga Basin",43.556667,-78.15,43.556667,43.556667,-78.15,-78.15,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,602.0,,,Radiocarbon years BP,50.0,75.0,pollen,6/30/2007,245.0,0.408163265306
-1775,"Lake Ontario, Mississauga Basin",43.556667,-78.15,43.556667,43.556667,-78.15,-78.15,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,1442.0,,,Radiocarbon years BP,100.0,75.0,pollen,6/30/2007,218.0,0.45871559633
-1796,Parrott's Pond,44.22,-76.7,44.22,44.22,-76.7,-76.7,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,219.0,,,Radiocarbon years BP,30.0,74.0,pollen,6/30/2007,144.0,0.694444444444
-1799,Pasqua Lake,50.78,-104.0,50.78,50.78,-104.0,-104.0,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,65.0,,,Radiocarbon years BP,45.0,,pollen,6/30/2007,306.0,0.326797385621
-1820,Pennington Lake,45.780556,-93.273056,45.780556,45.780556,-93.273056,-93.273056,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,155.0,,,Radiocarbon years BP,50.0,48.0,pollen,6/30/2007,378.0,0.26455026455
-1891,Pleasant Lake,44.60587,-93.563475,44.61154,44.6002,-93.5538,-93.57315,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,55.0,,,Radiocarbon years BP,10.0,274.0,pollen,6/30/2007,732.0,0.136612021858
-1976,Redrock Lake,40.083333,-105.541667,40.083333,40.083333,-105.541667,-105.541667,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,20.0,,,Radiocarbon years BP,1.0,3095.0,pollen,6/30/2007,1393.0,0.0717875089734
-1976,Redrock Lake,40.083333,-105.541667,40.083333,40.083333,-105.541667,-105.541667,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,620.0,,,Radiocarbon years BP,15.0,3095.0,pollen,6/30/2007,491.0,0.20366598778
-1976,Redrock Lake,40.083333,-105.541667,40.083333,40.083333,-105.541667,-105.541667,Vascular plants,Ephedra torreyana-type,2.0,NISP,pollen,,840.0,,,Radiocarbon years BP,20.0,3095.0,pollen,6/30/2007,1566.0,0.127713920817
-1976,Redrock Lake,40.083333,-105.541667,40.083333,40.083333,-105.541667,-105.541667,Vascular plants,Ephedra torreyana-type,2.0,NISP,pollen,,1700.0,,,Radiocarbon years BP,40.0,3095.0,pollen,6/30/2007,615.0,0.325203252033
-1976,Redrock Lake,40.083333,-105.541667,40.083333,40.083333,-105.541667,-105.541667,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,2130.0,,,Radiocarbon years BP,50.0,3095.0,pollen,6/30/2007,1209.0,0.0827129859388
-1976,Redrock Lake,40.083333,-105.541667,40.083333,40.083333,-105.541667,-105.541667,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,2780.0,,,Radiocarbon years BP,60.0,3095.0,pollen,6/30/2007,1369.0,0.073046018992
-1976,Redrock Lake,40.083333,-105.541667,40.083333,40.083333,-105.541667,-105.541667,Vascular plants,Ephedra torreyana-type,2.0,NISP,pollen,,3440.0,,,Radiocarbon years BP,65.0,3095.0,pollen,6/30/2007,746.0,0.268096514745
-1976,Redrock Lake,40.083333,-105.541667,40.083333,40.083333,-105.541667,-105.541667,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,3840.0,,,Radiocarbon years BP,68.0,3095.0,pollen,6/30/2007,634.0,0.157728706625
-1976,Redrock Lake,40.083333,-105.541667,40.083333,40.083333,-105.541667,-105.541667,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,4120.0,,,Radiocarbon years BP,75.0,3095.0,pollen,6/30/2007,655.0,0.152671755725
-1976,Redrock Lake,40.083333,-105.541667,40.083333,40.083333,-105.541667,-105.541667,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,4250.0,,,Radiocarbon years BP,80.0,3095.0,pollen,6/30/2007,1627.0,0.0614628149969
-1976,Redrock Lake,40.083333,-105.541667,40.083333,40.083333,-105.541667,-105.541667,Vascular plants,Ephedra torreyana-type,2.0,NISP,pollen,,4980.0,,,Radiocarbon years BP,100.0,3095.0,pollen,6/30/2007,1866.0,0.10718113612
-1976,Redrock Lake,40.083333,-105.541667,40.083333,40.083333,-105.541667,-105.541667,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,6680.0,,,Radiocarbon years BP,130.0,3095.0,pollen,6/30/2007,1212.0,0.0825082508251
-1976,Redrock Lake,40.083333,-105.541667,40.083333,40.083333,-105.541667,-105.541667,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,7890.0,,,Radiocarbon years BP,145.0,3095.0,pollen,6/30/2007,627.0,0.159489633174
-1976,Redrock Lake,40.083333,-105.541667,40.083333,40.083333,-105.541667,-105.541667,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,10010.0,,,Radiocarbon years BP,175.0,3095.0,pollen,6/30/2007,258.0,0.387596899225
-1991,Rice Lake,46.922222,-95.575,46.922222,46.922222,-95.575,-95.575,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,2102.0,,,Radiocarbon years BP,90.0,443.0,pollen,6/30/2007,490.0,0.204081632653
-1991,Rice Lake,46.922222,-95.575,46.922222,46.922222,-95.575,-95.575,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,2965.0,,,Radiocarbon years BP,140.0,443.0,pollen,6/30/2007,453.0,0.220750551876
-1991,Rice Lake,46.922222,-95.575,46.922222,46.922222,-95.575,-95.575,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,4172.0,,,Radiocarbon years BP,210.0,443.0,pollen,6/30/2007,444.0,0.225225225225
-2272,Second Lake,44.85,-79.98,44.85,44.85,-79.98,-79.98,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,378.0,,,Radiocarbon years BP,42.0,196.0,pollen,6/30/2007,434.0,0.230414746544
-2273,Sedivy Lake,47.208889,-95.833333,47.208889,47.208889,-95.833333,-95.833333,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,47.0,,,Radiocarbon years BP,40.0,405.0,pollen,6/30/2007,502.0,0.199203187251
-2300,Shouldice Lake,45.15,-81.416667,45.15,45.15,-81.416667,-81.416667,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,6627.0,,,Radiocarbon years BP,310.0,206.0,pollen,6/30/2007,300.0,0.333333333333
-2309,Sioux Pond,49.933333,-91.566667,49.933333,49.933333,-91.566667,-91.566667,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,7452.0,,,Radiocarbon years BP,560.0,410.0,pollen,6/30/2007,524.0,0.190839694656
-2514,St. Catherines Lake,44.626875,-93.43352,44.6307,44.62305,-93.42716,-93.43988,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,241.0,,,Radiocarbon years BP,100.0,287.0,pollen,6/30/2007,455.0,0.21978021978
-2518,Stone Lake,45.4,-93.522222,45.4,45.4,-93.522222,-93.522222,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,238.0,,,Radiocarbon years BP,40.0,,pollen,6/30/2007,515.0,0.194174757282
-2518,Stone Lake,45.4,-93.522222,45.4,45.4,-93.522222,-93.522222,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,365.0,,,Radiocarbon years BP,60.0,,pollen,6/30/2007,461.0,0.216919739696
-2524,Sunfish Lake,44.874722,-93.1,44.874722,44.874722,-93.1,-93.1,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,445.0,,,Radiocarbon years BP,140.0,,pollen,6/30/2007,558.0,0.179211469534
-2785,Twin Lakes,37.469444,-108.1025,37.469444,37.469444,-108.1025,-108.1025,Vascular plants,Ephedra torreyana-type,2.0,NISP,pollen,,408.0,,,Radiocarbon years BP,7.5,3290.0,pollen,6/30/2007,535.0,0.373831775701
-2785,Twin Lakes,37.469444,-108.1025,37.469444,37.469444,-108.1025,-108.1025,Vascular plants,Ephedra torreyana-type,4.0,NISP,pollen,,697.0,,,Radiocarbon years BP,12.5,3290.0,pollen,6/30/2007,653.0,0.612557427259
-2785,Twin Lakes,37.469444,-108.1025,37.469444,37.469444,-108.1025,-108.1025,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,986.0,,,Radiocarbon years BP,17.5,3290.0,pollen,6/30/2007,710.0,0.140845070423
-2785,Twin Lakes,37.469444,-108.1025,37.469444,37.469444,-108.1025,-108.1025,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,1274.0,,,Radiocarbon years BP,22.5,3290.0,pollen,6/30/2007,592.0,0.168918918919
-2785,Twin Lakes,37.469444,-108.1025,37.469444,37.469444,-108.1025,-108.1025,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,1419.0,,,Radiocarbon years BP,25.0,3290.0,pollen,6/30/2007,413.0,0.242130750605
-2785,Twin Lakes,37.469444,-108.1025,37.469444,37.469444,-108.1025,-108.1025,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,1563.0,,,Radiocarbon years BP,27.5,3290.0,pollen,6/30/2007,703.0,0.142247510669
-2785,Twin Lakes,37.469444,-108.1025,37.469444,37.469444,-108.1025,-108.1025,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,1852.0,,,Radiocarbon years BP,32.5,3290.0,pollen,6/30/2007,548.0,0.182481751825
-2785,Twin Lakes,37.469444,-108.1025,37.469444,37.469444,-108.1025,-108.1025,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,2549.0,,,Radiocarbon years BP,45.0,3290.0,pollen,6/30/2007,389.0,0.25706940874
-2785,Twin Lakes,37.469444,-108.1025,37.469444,37.469444,-108.1025,-108.1025,Vascular plants,Ephedra torreyana-type,2.0,NISP,pollen,,2625.0,,,Radiocarbon years BP,55.0,3290.0,pollen,6/30/2007,354.0,0.564971751412
-2785,Twin Lakes,37.469444,-108.1025,37.469444,37.469444,-108.1025,-108.1025,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,2644.0,,,Radiocarbon years BP,57.5,3290.0,pollen,6/30/2007,484.0,0.206611570248
-2785,Twin Lakes,37.469444,-108.1025,37.469444,37.469444,-108.1025,-108.1025,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,2700.0,,,Radiocarbon years BP,65.0,3290.0,pollen,6/30/2007,374.0,0.267379679144
-2785,Twin Lakes,37.469444,-108.1025,37.469444,37.469444,-108.1025,-108.1025,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,2719.0,,,Radiocarbon years BP,67.5,3290.0,pollen,6/30/2007,461.0,0.216919739696
-2785,Twin Lakes,37.469444,-108.1025,37.469444,37.469444,-108.1025,-108.1025,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,2776.0,,,Radiocarbon years BP,75.0,3290.0,pollen,6/30/2007,389.0,0.25706940874
-2785,Twin Lakes,37.469444,-108.1025,37.469444,37.469444,-108.1025,-108.1025,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,2814.0,,,Radiocarbon years BP,80.0,3290.0,pollen,6/30/2007,359.0,0.278551532033
-2785,Twin Lakes,37.469444,-108.1025,37.469444,37.469444,-108.1025,-108.1025,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,2852.0,,,Radiocarbon years BP,85.0,3290.0,pollen,6/30/2007,350.0,0.285714285714
-2785,Twin Lakes,37.469444,-108.1025,37.469444,37.469444,-108.1025,-108.1025,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,2890.0,,,Radiocarbon years BP,90.0,3290.0,pollen,6/30/2007,328.0,0.30487804878
-2785,Twin Lakes,37.469444,-108.1025,37.469444,37.469444,-108.1025,-108.1025,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,9905.0,,,Radiocarbon years BP,390.1,3290.0,pollen,6/30/2007,462.0,0.21645021645
-2800,Utricularia Lake,35.968889,-108.808333,35.968889,35.968889,-108.808333,-108.808333,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,16491.0,,,Radiocarbon years BP,73.0,2753.0,pollen,6/30/2007,456.0,0.219298245614
-2938,Woodworth Pond,47.15,-99.233333,47.15,47.15,-99.233333,-99.233333,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,593.0,,,Radiocarbon years BP,10.0,580.0,pollen,6/30/2007,899.0,0.111234705228
-2938,Woodworth Pond,47.15,-99.233333,47.15,47.15,-99.233333,-99.233333,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,10000.0,,,Radiocarbon years BP,185.0,580.0,pollen,6/30/2007,385.0,0.25974025974
-2938,Woodworth Pond,47.15,-99.233333,47.15,47.15,-99.233333,-99.233333,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,10750.0,,,Radiocarbon years BP,200.0,580.0,pollen,6/30/2007,452.0,0.221238938053
-1701,Lake Minnie,47.244755,-95.007715,47.24862,47.24089,-95.00459,-95.01084,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,1.0,,,Radiocarbon years BP,1.0,430.0,pollen,6/30/2007,361.0,0.277008310249
-1701,Lake Minnie,47.244755,-95.007715,47.24862,47.24089,-95.00459,-95.01084,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,1450.0,,,Radiocarbon years BP,200.0,430.0,pollen,6/30/2007,370.0,0.27027027027
-1701,Lake Minnie,47.244755,-95.007715,47.24862,47.24089,-95.00459,-95.01084,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,3629.0,,,Radiocarbon years BP,420.0,430.0,pollen,6/30/2007,371.0,0.269541778976
-1701,Lake Minnie,47.244755,-95.007715,47.24862,47.24089,-95.00459,-95.01084,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,7452.0,,,Radiocarbon years BP,670.0,430.0,pollen,6/30/2007,350.0,0.285714285714
-1991,Rice Lake,46.922222,-95.575,46.922222,46.922222,-95.575,-95.575,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,3283.0,,,Radiocarbon years BP,130.0,443.0,pollen,6/30/2007,863.0,0.115874855156
-1222,Spiritwood Lake,47.074695,-98.5866,47.08102,47.06837,-98.56972,-98.60348,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,634.0,,,Radiocarbon years BP,160.0,437.0,pollen,6/30/2007,291.0,0.343642611684
-1222,Spiritwood Lake,47.074695,-98.5866,47.08102,47.06837,-98.56972,-98.60348,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,1758.0,,,Radiocarbon years BP,380.0,437.0,pollen,6/30/2007,308.0,0.324675324675
-1222,Spiritwood Lake,47.074695,-98.5866,47.08102,47.06837,-98.56972,-98.60348,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,2217.0,,,Radiocarbon years BP,470.0,437.0,pollen,6/30/2007,292.0,0.342465753425
-1222,Spiritwood Lake,47.074695,-98.5866,47.08102,47.06837,-98.56972,-98.60348,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,2524.0,,,Radiocarbon years BP,530.0,437.0,pollen,6/30/2007,289.0,0.346020761246
-1222,Spiritwood Lake,47.074695,-98.5866,47.08102,47.06837,-98.56972,-98.60348,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,4163.0,,,Radiocarbon years BP,690.0,437.0,pollen,6/30/2007,375.0,0.266666666667
-1222,Spiritwood Lake,47.074695,-98.5866,47.08102,47.06837,-98.56972,-98.60348,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,6216.0,,,Radiocarbon years BP,1030.0,437.0,pollen,6/30/2007,367.0,0.272479564033
-2852,Weslemkoon Lake,45.033333,-77.433333,45.033333,45.033333,-77.433333,-77.433333,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,3944.0,,,Radiocarbon years BP,130.0,316.0,pollen,6/30/2007,202.0,0.49504950495
-9953,Lake Mina,45.89346,-95.47561,45.90369,45.88323,-95.45902,-95.4922,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,381.0,338.0,424.0,Varve years BP,381.0,415.0,pollen,11/1/2014,453.5,0.220507166483
-9953,Lake Mina,45.89346,-95.47561,45.90369,45.88323,-95.45902,-95.4922,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,466.0,414.0,518.0,Varve years BP,466.0,415.0,pollen,11/1/2014,419.5,0.238379022646
-9953,Lake Mina,45.89346,-95.47561,45.90369,45.88323,-95.45902,-95.4922,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,494.0,439.0,549.0,Varve years BP,494.0,415.0,pollen,11/1/2014,434.5,0.230149597238
-9953,Lake Mina,45.89346,-95.47561,45.90369,45.88323,-95.45902,-95.4922,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,611.0,545.0,677.0,Varve years BP,611.0,415.0,pollen,11/1/2014,375.0,0.266666666667
-9953,Lake Mina,45.89346,-95.47561,45.90369,45.88323,-95.45902,-95.4922,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,619.0,552.0,686.0,Varve years BP,619.0,415.0,pollen,11/1/2014,369.0,0.271002710027
-9953,Lake Mina,45.89346,-95.47561,45.90369,45.88323,-95.45902,-95.4922,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,623.0,556.0,691.0,Varve years BP,623.0,415.0,pollen,11/1/2014,398.0,0.251256281407
-9953,Lake Mina,45.89346,-95.47561,45.90369,45.88323,-95.45902,-95.4922,Vascular plants,Ephedra torreyana-type,2.0,NISP,pollen,,814.0,727.0,901.0,Varve years BP,814.0,415.0,pollen,11/1/2014,420.5,0.475624256837
-9717,"Devils Lake, Creel Bay",48.0859,-98.92935,48.10783,48.06397,-98.90227,-98.95643,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,6347.0,5561.0,7111.0,Calibrated radiocarbon years BP,1950.0,443.0,pollen,1/10/2015,567.0,0.176366843034
-10159,Don Brickyard Interglacial Section,43.686,-79.366,43.689,43.683,-79.365,-79.367,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,,,,,755.0,80.0,pollen,3/6/2015,217.0,0.460829493088
-10501,Los Penasquitos Lagoon,32.9311211111,-117.25287,32.93502,32.9272222222,-117.24566,-117.26008,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,3032.0,2903.0,3198.0,Calibrated radiocarbon years BP,180.0,0.0,pollen,6/16/2015,251.0,0.398406374502
-10521,Rice Lake,44.199085,-78.14232,44.3096,44.08857,-77.95555,-78.32909,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,2615.0,1687.0,3518.0,Calibrated radiocarbon years BP,90.0,186.0,pollen,6/25/2015,584.0,0.171232876712
-1823,Perch Lake,46.03,-77.34,46.03,46.03,-77.34,-77.34,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,515.0,255.0,825.0,Calibrated radiocarbon years BP,57.5,160.0,pollen,7/8/2015,390.0,0.25641025641
-1823,Perch Lake,46.03,-77.34,46.03,46.03,-77.34,-77.34,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,1259.0,1003.0,1516.0,Calibrated radiocarbon years BP,107.5,160.0,pollen,7/8/2015,369.0,0.271002710027
-1823,Perch Lake,46.03,-77.34,46.03,46.03,-77.34,-77.34,Vascular plants,Ephedra torreyana-type,2.0,NISP,pollen,,10503.0,9899.0,11145.0,Calibrated radiocarbon years BP,575.5,160.0,pollen,7/8/2015,418.0,0.478468899522
-1823,Perch Lake,46.03,-77.34,46.03,46.03,-77.34,-77.34,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,10729.0,10101.0,11403.0,Calibrated radiocarbon years BP,585.5,160.0,pollen,7/8/2015,364.0,0.274725274725
-10549,Glenora Bay,44.0463888889,-77.0391666667,44.0852777778,44.0075,-76.9383333333,-77.14,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,-22.0,,,Radiocarbon years BP,1.0,74.0,pollen,7/15/2015,417.0,0.239808153477
-10551,Mark Pond,51.8398611111,-89.6154166667,51.8411111111,51.8386111111,-89.6136111111,-89.6172222222,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,531.0,163.0,1029.0,Calibrated radiocarbon years BP,40.0,348.0,pollen,7/16/2015,226.0,0.442477876106
-10553,Rife Swamp,43.4677777778,-79.9868055556,43.4713888889,43.4641666667,-79.9830555556,-79.9905555556,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,18323.0,10878.0,34680.0,Calibrated radiocarbon years BP,200.0,277.0,pollen,7/17/2015,221.0,0.452488687783
-10555,Wagner Lake,44.19,-79.130295,44.1955555556,44.1844444444,-79.12761,-79.13298,Vascular plants,Ephedra torreyana-type,2.0,NISP,pollen,,,,,,77.0,241.0,pollen,7/17/2015,234.0,0.854700854701
-11557,Lovesick Lake,44.5568055556,-78.2247972222,44.5666666667,44.5469444444,-78.20515,-78.2444444444,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,2166.0,1013.0,3606.0,Calibrated radiocarbon years BP,30.0,242.0,pollen,7/23/2015,232.0,0.431034482759
-11606,Steel Lake,46.973155,-94.68138,46.97847,46.96784,-94.67606,-94.6867,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,122.0,-11.0,293.0,Calibrated radiocarbon years BP,30.0,415.0,pollen,8/20/2015,404.0,0.247524752475
-11606,Steel Lake,46.973155,-94.68138,46.97847,46.96784,-94.67606,-94.6867,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,2870.0,2658.0,3064.0,Calibrated radiocarbon years BP,335.0,415.0,pollen,8/20/2015,555.0,0.18018018018
-11606,Steel Lake,46.973155,-94.68138,46.97847,46.96784,-94.67606,-94.6867,Vascular plants,Ephedra torreyana-type,2.0,NISP,pollen,,4057.0,3561.0,4494.0,Calibrated radiocarbon years BP,420.0,415.0,pollen,8/20/2015,498.0,0.401606425703
-11606,Steel Lake,46.973155,-94.68138,46.97847,46.96784,-94.67606,-94.6867,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,4573.0,4324.0,4804.0,Calibrated radiocarbon years BP,455.0,415.0,pollen,8/20/2015,505.0,0.19801980198
-11606,Steel Lake,46.973155,-94.68138,46.97847,46.96784,-94.67606,-94.6867,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,4853.0,4636.0,5112.0,Calibrated radiocarbon years BP,480.0,415.0,pollen,8/20/2015,503.0,0.198807157058
-11606,Steel Lake,46.973155,-94.68138,46.97847,46.96784,-94.67606,-94.6867,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,4983.0,4852.0,5247.0,Calibrated radiocarbon years BP,490.0,415.0,pollen,8/20/2015,482.0,0.207468879668
-11606,Steel Lake,46.973155,-94.68138,46.97847,46.96784,-94.67606,-94.6867,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,7187.0,6871.0,7448.0,Calibrated radiocarbon years BP,660.0,415.0,pollen,8/20/2015,529.0,0.189035916824
-11606,Steel Lake,46.973155,-94.68138,46.97847,46.96784,-94.67606,-94.6867,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,8388.0,7959.0,8935.0,Calibrated radiocarbon years BP,766.0,415.0,pollen,8/20/2015,888.0,0.112612612613
-11606,Steel Lake,46.973155,-94.68138,46.97847,46.96784,-94.67606,-94.6867,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,9006.0,8434.0,9552.0,Calibrated radiocarbon years BP,833.0,415.0,pollen,8/20/2015,608.0,0.164473684211
-11606,Steel Lake,46.973155,-94.68138,46.97847,46.96784,-94.67606,-94.6867,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,9032.0,8455.0,9572.0,Calibrated radiocarbon years BP,835.0,415.0,pollen,8/20/2015,854.0,0.117096018735
-11606,Steel Lake,46.973155,-94.68138,46.97847,46.96784,-94.67606,-94.6867,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,9224.0,8651.0,9707.0,Calibrated radiocarbon years BP,850.0,415.0,pollen,8/20/2015,763.0,0.131061598952
-11606,Steel Lake,46.973155,-94.68138,46.97847,46.96784,-94.67606,-94.6867,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,9339.0,8812.0,9798.0,Calibrated radiocarbon years BP,859.0,415.0,pollen,8/20/2015,596.0,0.167785234899
-11606,Steel Lake,46.973155,-94.68138,46.97847,46.96784,-94.67606,-94.6867,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,9352.0,8840.0,9808.0,Calibrated radiocarbon years BP,860.0,415.0,pollen,8/20/2015,820.0,0.121951219512
-11606,Steel Lake,46.973155,-94.68138,46.97847,46.96784,-94.67606,-94.6867,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,9405.0,8916.0,9840.0,Calibrated radiocarbon years BP,864.0,415.0,pollen,8/20/2015,1102.0,0.0907441016334
-11606,Steel Lake,46.973155,-94.68138,46.97847,46.96784,-94.67606,-94.6867,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,11470.0,11136.0,11784.0,Calibrated radiocarbon years BP,1058.0,415.0,pollen,8/20/2015,1118.0,0.0894454382826
-11752,Runway Ruin,33.5375,-110.885,33.615,33.46,-110.84,-110.93,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,,,,,3.0,1000.0,pollen,9/29/2015,203.0,0.492610837438
-11752,Runway Ruin,33.5375,-110.885,33.615,33.46,-110.84,-110.93,Vascular plants,Ephedra torreyana-type,2.0,NISP,pollen,,,,,,4.0,1000.0,pollen,9/29/2015,205.0,0.975609756098
-11752,Runway Ruin,33.5375,-110.885,33.615,33.46,-110.84,-110.93,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,,,,,5.0,1000.0,pollen,9/29/2015,208.0,0.480769230769
-11753,Monitor,33.5375,-110.885,33.615,33.46,-110.84,-110.93,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,,,,,3.0,1000.0,pollen,9/29/2015,205.0,0.487804878049
-11753,Monitor,33.5375,-110.885,33.615,33.46,-110.84,-110.93,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,,,,,5.0,1000.0,pollen,9/29/2015,200.0,0.5
-11753,Monitor,33.5375,-110.885,33.615,33.46,-110.84,-110.93,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,,,,,6.0,1000.0,pollen,9/29/2015,200.0,0.5
-11753,Monitor,33.5375,-110.885,33.615,33.46,-110.84,-110.93,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,,,,,7.0,1000.0,pollen,9/29/2015,211.0,0.473933649289
-11753,Monitor,33.5375,-110.885,33.615,33.46,-110.84,-110.93,Vascular plants,Ephedra torreyana-type,2.0,NISP,pollen,,,,,,8.0,1000.0,pollen,9/29/2015,204.0,0.980392156863
-11753,Monitor,33.5375,-110.885,33.615,33.46,-110.84,-110.93,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,,,,,9.0,1000.0,pollen,9/29/2015,208.0,0.480769230769
-11756,Multigrade,33.5375,-110.885,33.615,33.46,-110.84,-110.93,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,,,,,5.0,1000.0,pollen,9/30/2015,212.0,0.471698113208
-11756,Multigrade,33.5375,-110.885,33.615,33.46,-110.84,-110.93,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,,,,,6.0,1000.0,pollen,9/30/2015,207.0,0.48309178744
-11757,Tinhorn Wash,33.5375,-110.885,33.615,33.46,-110.84,-110.93,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,,,,,4.0,1000.0,pollen,9/30/2015,202.0,0.49504950495
-11754,Columbus,33.5375,-110.885,33.615,33.46,-110.84,-110.93,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,,,,,1.0,1000.0,pollen,10/1/2015,201.0,0.497512437811
-11756,Multigrade,33.5375,-110.885,33.615,33.46,-110.84,-110.93,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,,,,,2.0,1000.0,pollen,10/1/2015,204.0,0.490196078431
-11754,Columbus,33.5375,-110.885,33.615,33.46,-110.84,-110.93,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,,,,,35.0,1000.0,pollen,10/6/2015,204.0,0.490196078431
-11756,Multigrade,33.5375,-110.885,33.615,33.46,-110.84,-110.93,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,,,,,0.0,1000.0,pollen,10/6/2015,202.0,0.49504950495
-11756,Multigrade,33.5375,-110.885,33.615,33.46,-110.84,-110.93,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,,,,,35.0,1000.0,pollen,10/6/2015,201.0,0.497512437811
-11756,Multigrade,33.5375,-110.885,33.615,33.46,-110.84,-110.93,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,,,,,45.0,1000.0,pollen,10/6/2015,201.0,0.497512437811
-11756,Multigrade,33.5375,-110.885,33.615,33.46,-110.84,-110.93,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,,,,,65.0,1000.0,pollen,10/6/2015,202.0,0.49504950495
-11756,Multigrade,33.5375,-110.885,33.615,33.46,-110.84,-110.93,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,,,,,75.0,1000.0,pollen,10/6/2015,206.0,0.485436893204
-11757,Tinhorn Wash,33.5375,-110.885,33.615,33.46,-110.84,-110.93,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,,,,,25.0,1000.0,pollen,10/6/2015,201.0,0.497512437811
-11753,Monitor,33.5375,-110.885,33.615,33.46,-110.84,-110.93,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,,,,,0.0,1000.0,pollen,10/6/2015,202.0,0.49504950495
-11753,Monitor,33.5375,-110.885,33.615,33.46,-110.84,-110.93,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,,,,,10.0,1000.0,pollen,10/6/2015,212.0,0.471698113208
-11754,Columbus,33.5375,-110.885,33.615,33.46,-110.84,-110.93,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,,,,,0.0,1000.0,pollen,10/16/2015,202.0,0.49504950495
-11754,Columbus,33.5375,-110.885,33.615,33.46,-110.84,-110.93,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,,,,,20.0,1000.0,pollen,10/16/2015,206.0,0.485436893204
-11754,Columbus,33.5375,-110.885,33.615,33.46,-110.84,-110.93,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,,,,,30.0,1000.0,pollen,10/16/2015,205.0,0.487804878049
-11778,East Ruin,33.5375,-110.885,33.615,33.46,-110.84,-110.93,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,,,,,5.0,1075.0,pollen,10/16/2015,202.0,0.49504950495
-11778,East Ruin,33.5375,-110.885,33.615,33.46,-110.84,-110.93,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,,,,,50.0,1075.0,pollen,10/16/2015,159.0,0.62893081761
-11778,East Ruin,33.5375,-110.885,33.615,33.46,-110.84,-110.93,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,,,,,60.0,1075.0,pollen,10/16/2015,213.0,0.469483568075
-11778,East Ruin,33.5375,-110.885,33.615,33.46,-110.84,-110.93,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,,,,,65.0,1075.0,pollen,10/16/2015,212.0,0.471698113208
-11783,Refugia Ruin,33.5375,-110.885,33.615,33.46,-110.84,-110.93,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,,,,,5.0,990.0,pollen,10/16/2015,200.0,0.5
-11783,Refugia Ruin,33.5375,-110.885,33.615,33.46,-110.84,-110.93,Vascular plants,Ephedra torreyana-type,2.0,NISP,pollen,,,,,,15.0,990.0,pollen,10/16/2015,202.0,0.990099009901
-11783,Refugia Ruin,33.5375,-110.885,33.615,33.46,-110.84,-110.93,Vascular plants,Ephedra torreyana-type,2.0,NISP,pollen,,,,,,25.0,990.0,pollen,10/16/2015,207.0,0.966183574879
-11752,Runway Ruin,33.5375,-110.885,33.615,33.46,-110.84,-110.93,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,,,,,20.0,1000.0,pollen,10/16/2015,202.0,0.49504950495
-11752,Runway Ruin,33.5375,-110.885,33.615,33.46,-110.84,-110.93,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,,,,,25.0,1000.0,pollen,10/16/2015,202.0,0.49504950495
-11752,Runway Ruin,33.5375,-110.885,33.615,33.46,-110.84,-110.93,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,,,,,50.0,1000.0,pollen,10/16/2015,208.0,0.480769230769
-11752,Runway Ruin,33.5375,-110.885,33.615,33.46,-110.84,-110.93,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,,,,,5.0,1000.0,pollen,10/16/2015,205.0,0.487804878049
-11752,Runway Ruin,33.5375,-110.885,33.615,33.46,-110.84,-110.93,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,,,,,35.0,1000.0,pollen,10/16/2015,203.0,0.492610837438
-11752,Runway Ruin,33.5375,-110.885,33.615,33.46,-110.84,-110.93,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,,,,,40.0,1000.0,pollen,10/16/2015,203.0,0.492610837438
-11752,Runway Ruin,33.5375,-110.885,33.615,33.46,-110.84,-110.93,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,,,,,45.0,1000.0,pollen,10/16/2015,200.0,0.5
-11792,Peloncillo Mountains,32.2890833333,-109.094166667,32.3165,32.2616666667,-109.073333333,-109.115,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,,,,,4.0,1400.0,pollen,10/22/2015,743.8,0.134444743211
-11792,Peloncillo Mountains,32.2890833333,-109.094166667,32.3165,32.2616666667,-109.073333333,-109.115,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,,,,,5.0,1400.0,pollen,10/22/2015,362.0,0.276243093923
-11792,Peloncillo Mountains,32.2890833333,-109.094166667,32.3165,32.2616666667,-109.073333333,-109.115,Vascular plants,Ephedra torreyana-type,5.0,NISP,pollen,,,,,,6.0,1400.0,pollen,10/22/2015,461.0,1.08459869848
-11792,Peloncillo Mountains,32.2890833333,-109.094166667,32.3165,32.2616666667,-109.073333333,-109.115,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,,,,,7.0,1400.0,pollen,10/22/2015,437.3,0.228675966156
-11792,Peloncillo Mountains,32.2890833333,-109.094166667,32.3165,32.2616666667,-109.073333333,-109.115,Vascular plants,Ephedra torreyana-type,2.0,NISP,pollen,,,,,,12.0,1400.0,pollen,10/22/2015,843.0,0.237247924081
-11792,Peloncillo Mountains,32.2890833333,-109.094166667,32.3165,32.2616666667,-109.073333333,-109.115,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,,,,,13.0,1400.0,pollen,10/22/2015,599.0,0.16694490818
-11792,Peloncillo Mountains,32.2890833333,-109.094166667,32.3165,32.2616666667,-109.073333333,-109.115,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,,,,,15.0,1400.0,pollen,10/22/2015,412.9,0.242189392105
-11792,Peloncillo Mountains,32.2890833333,-109.094166667,32.3165,32.2616666667,-109.073333333,-109.115,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,,,,,17.0,1400.0,pollen,10/22/2015,358.0,0.279329608939
-11792,Peloncillo Mountains,32.2890833333,-109.094166667,32.3165,32.2616666667,-109.073333333,-109.115,Vascular plants,Ephedra torreyana-type,4.0,NISP,pollen,,,,,,20.0,1400.0,pollen,10/22/2015,358.0,1.11731843575
-11792,Peloncillo Mountains,32.2890833333,-109.094166667,32.3165,32.2616666667,-109.073333333,-109.115,Vascular plants,Ephedra torreyana-type,1.0,NISP,pollen,,,,,,23.0,1400.0,pollen,10/22/2015,357.1,0.280033604032
-11792,Peloncillo Mountains,32.2890833333,-109.094166667,32.3165,32.2616666667,-109.073333333,-109.115,Vascular plants,Ephedra torreyana-type,4.0,NISP,pollen,,,,,,29.0,1400.0,pollen,10/22/2015,376.9,1.0612894667
+29,Lake Allie,44.8036,-94.5579,44.8138,44.7934,-94.5483,-94.5675,Vascular plants,Ephedra torreyana,1,NISP,pollen,,314,,,Radiocarbon years BP,100,328,pollen,6/30/2007,336,0.297619048
+29,Lake Allie,44.8036,-94.5579,44.8138,44.7934,-94.5483,-94.5675,Vascular plants,Ephedra torreyana,1,NISP,pollen,,412,,,Radiocarbon years BP,130,328,pollen,6/30/2007,314,0.318471338
+311,Buckbean Fen,44.298611,-110.260556,44.298611,44.298611,-110.260556,-110.260556,Vascular plants,Ephedra torreyana,2,NISP,pollen,,0,,,Radiocarbon years BP,0,2362,pollen,6/30/2007,321,0.62305296
+311,Buckbean Fen,44.298611,-110.260556,44.298611,44.298611,-110.260556,-110.260556,Vascular plants,Ephedra torreyana,2,NISP,pollen,,1778,,,Radiocarbon years BP,180,2362,pollen,6/30/2007,358,0.558659218
+311,Buckbean Fen,44.298611,-110.260556,44.298611,44.298611,-110.260556,-110.260556,Vascular plants,Ephedra torreyana,1,NISP,pollen,,3492,,,Radiocarbon years BP,320,2362,pollen,6/30/2007,315,0.317460317
+311,Buckbean Fen,44.298611,-110.260556,44.298611,44.298611,-110.260556,-110.260556,Vascular plants,Ephedra torreyana,1,NISP,pollen,,5244,,,Radiocarbon years BP,440,2362,pollen,6/30/2007,354,0.282485876
+311,Buckbean Fen,44.298611,-110.260556,44.298611,44.298611,-110.260556,-110.260556,Vascular plants,Ephedra torreyana,1,NISP,pollen,,11165,,,Radiocarbon years BP,680,2362,pollen,6/30/2007,323,0.309597523
+311,Buckbean Fen,44.298611,-110.260556,44.298611,44.298611,-110.260556,-110.260556,Vascular plants,Ephedra torreyana,1,NISP,pollen,,13354,,,Radiocarbon years BP,890,2362,pollen,6/30/2007,476,0.210084034
+311,Buckbean Fen,44.298611,-110.260556,44.298611,44.298611,-110.260556,-110.260556,Vascular plants,Ephedra torreyana,1,NISP,pollen,,13642,,,Radiocarbon years BP,910,2362,pollen,6/30/2007,369,0.27100271
+327,Campbell Lake,44.70722,-93.497645,44.71047,44.70397,-93.49075,-93.50454,Vascular plants,Ephedra torreyana,1,NISP,pollen,,189,,,Radiocarbon years BP,80,281,pollen,6/30/2007,514,0.194552529
+339,Cascade Fen,37.483333,-107.8,37.483333,37.483333,-107.8,-107.8,Vascular plants,Ephedra torreyana,1,NISP,pollen,,143,,,Radiocarbon years BP,12,2690,pollen,6/30/2007,365,0.273972603
+339,Cascade Fen,37.483333,-107.8,37.483333,37.483333,-107.8,-107.8,Vascular plants,Ephedra torreyana,1,NISP,pollen,,338,,,Radiocarbon years BP,27,2690,pollen,6/30/2007,357,0.280112045
+339,Cascade Fen,37.483333,-107.8,37.483333,37.483333,-107.8,-107.8,Vascular plants,Ephedra torreyana,4,NISP,pollen,,403,,,Radiocarbon years BP,32,2690,pollen,6/30/2007,341,1.173020528
+339,Cascade Fen,37.483333,-107.8,37.483333,37.483333,-107.8,-107.8,Vascular plants,Ephedra torreyana,1,NISP,pollen,,533,,,Radiocarbon years BP,42,2690,pollen,6/30/2007,385,0.25974026
+339,Cascade Fen,37.483333,-107.8,37.483333,37.483333,-107.8,-107.8,Vascular plants,Ephedra torreyana,1,NISP,pollen,,598,,,Radiocarbon years BP,47,2690,pollen,6/30/2007,376,0.265957447
+339,Cascade Fen,37.483333,-107.8,37.483333,37.483333,-107.8,-107.8,Vascular plants,Ephedra torreyana,1,NISP,pollen,,662,,,Radiocarbon years BP,52,2690,pollen,6/30/2007,355,0.281690141
+339,Cascade Fen,37.483333,-107.8,37.483333,37.483333,-107.8,-107.8,Vascular plants,Ephedra torreyana,1,NISP,pollen,,727,,,Radiocarbon years BP,57,2690,pollen,6/30/2007,318,0.314465409
+339,Cascade Fen,37.483333,-107.8,37.483333,37.483333,-107.8,-107.8,Vascular plants,Ephedra torreyana,1,NISP,pollen,,1052,,,Radiocarbon years BP,82,2690,pollen,6/30/2007,320,0.3125
+339,Cascade Fen,37.483333,-107.8,37.483333,37.483333,-107.8,-107.8,Vascular plants,Ephedra torreyana,2,NISP,pollen,,1247,,,Radiocarbon years BP,97,2690,pollen,6/30/2007,352,0.568181818
+339,Cascade Fen,37.483333,-107.8,37.483333,37.483333,-107.8,-107.8,Vascular plants,Ephedra torreyana,1,NISP,pollen,,1494,,,Radiocarbon years BP,116,2690,pollen,6/30/2007,363,0.275482094
+339,Cascade Fen,37.483333,-107.8,37.483333,37.483333,-107.8,-107.8,Vascular plants,Ephedra torreyana,1,NISP,pollen,,1559,,,Radiocarbon years BP,121,2690,pollen,6/30/2007,354,0.282485876
+339,Cascade Fen,37.483333,-107.8,37.483333,37.483333,-107.8,-107.8,Vascular plants,Ephedra torreyana,1,NISP,pollen,,1663,,,Radiocarbon years BP,129,2690,pollen,6/30/2007,349,0.286532951
+339,Cascade Fen,37.483333,-107.8,37.483333,37.483333,-107.8,-107.8,Vascular plants,Ephedra torreyana,1,NISP,pollen,,1702,,,Radiocarbon years BP,132,2690,pollen,6/30/2007,374,0.267379679
+339,Cascade Fen,37.483333,-107.8,37.483333,37.483333,-107.8,-107.8,Vascular plants,Ephedra torreyana,1,NISP,pollen,,1767,,,Radiocarbon years BP,137,2690,pollen,6/30/2007,250,0.4
+339,Cascade Fen,37.483333,-107.8,37.483333,37.483333,-107.8,-107.8,Vascular plants,Ephedra torreyana,3,NISP,pollen,,2039,,,Radiocarbon years BP,158,2690,pollen,6/30/2007,378,0.793650794
+339,Cascade Fen,37.483333,-107.8,37.483333,37.483333,-107.8,-107.8,Vascular plants,Ephedra torreyana,4,NISP,pollen,,2169,,,Radiocarbon years BP,168,2690,pollen,6/30/2007,1070,0.373831776
+339,Cascade Fen,37.483333,-107.8,37.483333,37.483333,-107.8,-107.8,Vascular plants,Ephedra torreyana,2,NISP,pollen,,2455,,,Radiocarbon years BP,190,2690,pollen,6/30/2007,1092,0.183150183
+339,Cascade Fen,37.483333,-107.8,37.483333,37.483333,-107.8,-107.8,Vascular plants,Ephedra torreyana,1,NISP,pollen,,3135,,,Radiocarbon years BP,216,2690,pollen,6/30/2007,556,0.179856115
+339,Cascade Fen,37.483333,-107.8,37.483333,37.483333,-107.8,-107.8,Vascular plants,Ephedra torreyana,1,NISP,pollen,,3428,,,Radiocarbon years BP,226,2690,pollen,6/30/2007,470,0.212765957
+339,Cascade Fen,37.483333,-107.8,37.483333,37.483333,-107.8,-107.8,Vascular plants,Ephedra torreyana,1,NISP,pollen,,4044,,,Radiocarbon years BP,247,2690,pollen,6/30/2007,407,0.245700246
+339,Cascade Fen,37.483333,-107.8,37.483333,37.483333,-107.8,-107.8,Vascular plants,Ephedra torreyana,1,NISP,pollen,,5040,,,Radiocarbon years BP,281,2690,pollen,6/30/2007,373,0.268096515
+364,Chatsworth Bog,40.675865,-88.324435,40.67759,40.67414,-88.3213,-88.32757,Vascular plants,Ephedra torreyana,1,NISP,pollen,,8026,,,Radiocarbon years BP,860,219,pollen,6/30/2007,326,0.306748466
+486,Columbine Ranch Fen,37.6125,-107.808333,37.6125,37.6125,-107.808333,-107.808333,Vascular plants,Ephedra torreyana,2,NISP,pollen,,-1,,,Radiocarbon years BP,0.5,2694,pollen,6/30/2007,908,0.220264317
+486,Columbine Ranch Fen,37.6125,-107.808333,37.6125,37.6125,-107.808333,-107.808333,Vascular plants,Ephedra torreyana,1,NISP,pollen,,366,,,Radiocarbon years BP,10,2694,pollen,6/30/2007,481,0.207900208
+486,Columbine Ranch Fen,37.6125,-107.808333,37.6125,37.6125,-107.808333,-107.808333,Vascular plants,Ephedra torreyana,1,NISP,pollen,,559,,,Radiocarbon years BP,15,2694,pollen,6/30/2007,507,0.197238659
+486,Columbine Ranch Fen,37.6125,-107.808333,37.6125,37.6125,-107.808333,-107.808333,Vascular plants,Ephedra torreyana,1,NISP,pollen,,751,,,Radiocarbon years BP,20,2694,pollen,6/30/2007,573,0.17452007
+486,Columbine Ranch Fen,37.6125,-107.808333,37.6125,37.6125,-107.808333,-107.808333,Vascular plants,Ephedra torreyana,1,NISP,pollen,,944,,,Radiocarbon years BP,25,2694,pollen,6/30/2007,600,0.166666667
+486,Columbine Ranch Fen,37.6125,-107.808333,37.6125,37.6125,-107.808333,-107.808333,Vascular plants,Ephedra torreyana,1,NISP,pollen,,1523,,,Radiocarbon years BP,40,2694,pollen,6/30/2007,587,0.170357751
+486,Columbine Ranch Fen,37.6125,-107.808333,37.6125,37.6125,-107.808333,-107.808333,Vascular plants,Ephedra torreyana,1,NISP,pollen,,1716,,,Radiocarbon years BP,45,2694,pollen,6/30/2007,523,0.191204589
+486,Columbine Ranch Fen,37.6125,-107.808333,37.6125,37.6125,-107.808333,-107.808333,Vascular plants,Ephedra torreyana,1,NISP,pollen,,1909,,,Radiocarbon years BP,50,2694,pollen,6/30/2007,565,0.17699115
+486,Columbine Ranch Fen,37.6125,-107.808333,37.6125,37.6125,-107.808333,-107.808333,Vascular plants,Ephedra torreyana,2,NISP,pollen,,3066,,,Radiocarbon years BP,80,2694,pollen,6/30/2007,503,0.397614314
+486,Columbine Ranch Fen,37.6125,-107.808333,37.6125,37.6125,-107.808333,-107.808333,Vascular plants,Ephedra torreyana,1,NISP,pollen,,3451,,,Radiocarbon years BP,90,2694,pollen,6/30/2007,464,0.215517241
+486,Columbine Ranch Fen,37.6125,-107.808333,37.6125,37.6125,-107.808333,-107.808333,Vascular plants,Ephedra torreyana,1,NISP,pollen,,3837,,,Radiocarbon years BP,100,2694,pollen,6/30/2007,429,0.233100233
+486,Columbine Ranch Fen,37.6125,-107.808333,37.6125,37.6125,-107.808333,-107.808333,Vascular plants,Ephedra torreyana,1,NISP,pollen,,5187,,,Radiocarbon years BP,135,2694,pollen,6/30/2007,515,0.194174757
+486,Columbine Ranch Fen,37.6125,-107.808333,37.6125,37.6125,-107.808333,-107.808333,Vascular plants,Ephedra torreyana,1,NISP,pollen,,5380,,,Radiocarbon years BP,140,2694,pollen,6/30/2007,467,0.214132762
+486,Columbine Ranch Fen,37.6125,-107.808333,37.6125,37.6125,-107.808333,-107.808333,Vascular plants,Ephedra torreyana,1,NISP,pollen,,6151,,,Radiocarbon years BP,160,2694,pollen,6/30/2007,1014,0.098619329
+486,Columbine Ranch Fen,37.6125,-107.808333,37.6125,37.6125,-107.808333,-107.808333,Vascular plants,Ephedra torreyana,2,NISP,pollen,,6344,,,Radiocarbon years BP,165,2694,pollen,6/30/2007,1309,0.152788388
+486,Columbine Ranch Fen,37.6125,-107.808333,37.6125,37.6125,-107.808333,-107.808333,Vascular plants,Ephedra torreyana,1,NISP,pollen,,6537,,,Radiocarbon years BP,170,2694,pollen,6/30/2007,399,0.250626566
+530,Dalton Lake,46.173889,-95.915278,46.173889,46.173889,-95.915278,-95.915278,Vascular plants,Ephedra torreyana,1,NISP,pollen,,94,,,Radiocarbon years BP,40,418,pollen,6/30/2007,368,0.27173913
+771,Eldora Fen,39.936667,-105.58,39.936667,39.936667,-105.58,-105.58,Vascular plants,Ephedra torreyana,1,NISP,pollen,,820,,,Radiocarbon years BP,34,2848,pollen,6/30/2007,411,0.243309002
+771,Eldora Fen,39.936667,-105.58,39.936667,39.936667,-105.58,-105.58,Vascular plants,Ephedra torreyana,1,NISP,pollen,,1480,,,Radiocarbon years BP,50,2848,pollen,6/30/2007,377,0.265251989
+771,Eldora Fen,39.936667,-105.58,39.936667,39.936667,-105.58,-105.58,Vascular plants,Ephedra torreyana,1,NISP,pollen,,2220,,,Radiocarbon years BP,65,2848,pollen,6/30/2007,1037,0.096432015
+771,Eldora Fen,39.936667,-105.58,39.936667,39.936667,-105.58,-105.58,Vascular plants,Ephedra torreyana,1,NISP,pollen,,2760,,,Radiocarbon years BP,75,2848,pollen,6/30/2007,435,0.229885057
+771,Eldora Fen,39.936667,-105.58,39.936667,39.936667,-105.58,-105.58,Vascular plants,Ephedra torreyana,1,NISP,pollen,,4870,,,Radiocarbon years BP,110,2848,pollen,6/30/2007,440,0.227272727
+771,Eldora Fen,39.936667,-105.58,39.936667,39.936667,-105.58,-105.58,Vascular plants,Ephedra torreyana,3,NISP,pollen,,4990,,,Radiocarbon years BP,112,2848,pollen,6/30/2007,1020,0.294117647
+771,Eldora Fen,39.936667,-105.58,39.936667,39.936667,-105.58,-105.58,Vascular plants,Ephedra torreyana,1,NISP,pollen,,6110,,,Radiocarbon years BP,130,2848,pollen,6/30/2007,1100,0.090909091
+771,Eldora Fen,39.936667,-105.58,39.936667,39.936667,-105.58,-105.58,Vascular plants,Ephedra torreyana,1,NISP,pollen,,6360,,,Radiocarbon years BP,134,2848,pollen,6/30/2007,464,0.215517241
+771,Eldora Fen,39.936667,-105.58,39.936667,39.936667,-105.58,-105.58,Vascular plants,Ephedra torreyana,1,NISP,pollen,,7540,,,Radiocarbon years BP,154,2848,pollen,6/30/2007,355,0.281690141
+771,Eldora Fen,39.936667,-105.58,39.936667,39.936667,-105.58,-105.58,Vascular plants,Ephedra torreyana,3,NISP,pollen,,7660,,,Radiocarbon years BP,156,2848,pollen,6/30/2007,458,0.655021834
+785,Lake Erie,41.92,-82.76,41.92,41.92,-82.76,-82.76,Vascular plants,Ephedra torreyana,1,NISP,pollen,,5056,,,Radiocarbon years BP,140,168,pollen,6/30/2007,611,0.163666121
+785,Lake Erie,41.92,-82.76,41.92,41.92,-82.76,-82.76,Vascular plants,Ephedra torreyana,1,NISP,pollen,,7041,,,Radiocarbon years BP,200,168,pollen,6/30/2007,352,0.284090909
+799,Farquar Lake,44.75815,-93.16449,44.76081,44.75549,-93.15986,-93.16912,Vascular plants,Ephedra torreyana,1,NISP,pollen,,-12,,,Radiocarbon years BP,1,273,pollen,6/30/2007,678,0.147492625
+799,Farquar Lake,44.75815,-93.16449,44.76081,44.75549,-93.15986,-93.16912,Vascular plants,Ephedra torreyana,1,NISP,pollen,,11,,,Radiocarbon years BP,10,273,pollen,6/30/2007,821,0.12180268
+799,Farquar Lake,44.75815,-93.16449,44.76081,44.75549,-93.15986,-93.16912,Vascular plants,Ephedra torreyana,1,NISP,pollen,,87,,,Radiocarbon years BP,40,273,pollen,6/30/2007,493,0.202839757
+799,Farquar Lake,44.75815,-93.16449,44.76081,44.75549,-93.15986,-93.16912,Vascular plants,Ephedra torreyana,1,NISP,pollen,,189,,,Radiocarbon years BP,80,273,pollen,6/30/2007,445,0.224719101
+835,"Georgian Bay, Lake Huron (1)",44.74,-80.86,44.74,44.74,-80.86,-80.86,Vascular plants,Ephedra torreyana,1,NISP,pollen,,6760,,,Radiocarbon years BP,170,176,pollen,6/30/2007,233,0.429184549
+835,"Georgian Bay, Lake Huron (1)",44.74,-80.86,44.74,44.74,-80.86,-80.86,Vascular plants,Ephedra torreyana,1,NISP,pollen,,11341,,,Radiocarbon years BP,610,176,pollen,6/30/2007,268,0.373134328
+836,"Georgian Bay, Lake Huron (2)",45.17,-81.32,45.17,45.17,-81.32,-81.32,Vascular plants,Ephedra torreyana,1,NISP,pollen,,9140,,,Radiocarbon years BP,310,176,pollen,6/30/2007,218,0.458715596
+836,"Georgian Bay, Lake Huron (2)",45.17,-81.32,45.17,45.17,-81.32,-81.32,Vascular plants,Ephedra torreyana,1,NISP,pollen,,10408,,,Radiocarbon years BP,360,176,pollen,6/30/2007,241,0.414937759
+841,George Lake,44.2329,-93.87066,44.23611,44.22969,-93.86559,-93.87573,Vascular plants,Ephedra torreyana,1,NISP,pollen,,18,,,Radiocarbon years BP,10,301,pollen,6/30/2007,518,0.193050193
+841,George Lake,44.2329,-93.87066,44.23611,44.22969,-93.86559,-93.87573,Vascular plants,Ephedra torreyana,1,NISP,pollen,,200,,,Radiocarbon years BP,40,301,pollen,6/30/2007,500,0.2
+1220,Jewell Site,42.26,-93.7,42.26,42.26,-93.7,-93.7,Vascular plants,Ephedra torreyana,2,NISP,pollen,,5898,,,Radiocarbon years BP,186,317,pollen,6/30/2007,693,0.288600289
+1220,Jewell Site,42.26,-93.7,42.26,42.26,-93.7,-93.7,Vascular plants,Ephedra torreyana,1,NISP,pollen,,6054,,,Radiocarbon years BP,198,317,pollen,6/30/2007,656,0.152439024
+1220,Jewell Site,42.26,-93.7,42.26,42.26,-93.7,-93.7,Vascular plants,Ephedra torreyana,1,NISP,pollen,,6405,,,Radiocarbon years BP,225,317,pollen,6/30/2007,846,0.11820331
+1220,Jewell Site,42.26,-93.7,42.26,42.26,-93.7,-93.7,Vascular plants,Ephedra torreyana,1,NISP,pollen,,8070,,,Radiocarbon years BP,430,317,pollen,6/30/2007,573,0.17452007
+1220,Jewell Site,42.26,-93.7,42.26,42.26,-93.7,-93.7,Vascular plants,Ephedra torreyana,1,NISP,pollen,,10946,,,Radiocarbon years BP,678,317,pollen,6/30/2007,608,0.164473684
+1409,Kegan Lake,44.75836,-93.11674,44.76042,44.7563,-93.11416,-93.11932,Vascular plants,Ephedra torreyana,1,NISP,pollen,,27,,,Radiocarbon years BP,10,285,pollen,6/30/2007,754,0.132625995
+1514,Kryzewinski Lake,46.353333,-92.870278,46.353333,46.353333,-92.870278,-92.870278,Vascular plants,Ephedra torreyana,1,NISP,pollen,,189,,,Radiocarbon years BP,60,,pollen,6/30/2007,374,0.267379679
+1703,Mirror Pool,46.525833,-97.241389,46.525833,46.525833,-97.241389,-97.241389,Vascular plants,Ephedra torreyana,2,NISP,pollen,,9053,,,Radiocarbon years BP,10,302,pollen,6/30/2007,720,0.277777778
+1705,Molas Lake,37.745833,-107.683611,37.745833,37.745833,-107.683611,-107.683611,Vascular plants,Ephedra torreyana,2,NISP,pollen,,914,,,Radiocarbon years BP,10,3200,pollen,6/30/2007,334,0.598802395
+1705,Molas Lake,37.745833,-107.683611,37.745833,37.745833,-107.683611,-107.683611,Vascular plants,Ephedra torreyana,2,NISP,pollen,,1303,,,Radiocarbon years BP,14.2,3200,pollen,6/30/2007,336,0.595238095
+1705,Molas Lake,37.745833,-107.683611,37.745833,37.745833,-107.683611,-107.683611,Vascular plants,Ephedra torreyana,1,NISP,pollen,,1544,,,Radiocarbon years BP,16.8,3200,pollen,6/30/2007,347,0.288184438
+1705,Molas Lake,37.745833,-107.683611,37.745833,37.745833,-107.683611,-107.683611,Vascular plants,Ephedra torreyana,1,NISP,pollen,,1932,,,Radiocarbon years BP,21,3200,pollen,6/30/2007,345,0.289855072
+1705,Molas Lake,37.745833,-107.683611,37.745833,37.745833,-107.683611,-107.683611,Vascular plants,Ephedra torreyana,1,NISP,pollen,,2228,,,Radiocarbon years BP,24.2,3200,pollen,6/30/2007,332,0.301204819
+1705,Molas Lake,37.745833,-107.683611,37.745833,37.745833,-107.683611,-107.683611,Vascular plants,Ephedra torreyana,1,NISP,pollen,,2626,,,Radiocarbon years BP,28.5,3200,pollen,6/30/2007,321,0.31152648
+1705,Molas Lake,37.745833,-107.683611,37.745833,37.745833,-107.683611,-107.683611,Vascular plants,Ephedra torreyana,1,NISP,pollen,,2996,,,Radiocarbon years BP,32.5,3200,pollen,6/30/2007,343,0.29154519
+1705,Molas Lake,37.745833,-107.683611,37.745833,37.745833,-107.683611,-107.683611,Vascular plants,Ephedra torreyana,1,NISP,pollen,,6466,,,Radiocarbon years BP,70,3200,pollen,6/30/2007,323,0.309597523
+1705,Molas Lake,37.745833,-107.683611,37.745833,37.745833,-107.683611,-107.683611,Vascular plants,Ephedra torreyana,3,NISP,pollen,,6725,,,Radiocarbon years BP,72.8,3200,pollen,6/30/2007,337,0.890207715
+1705,Molas Lake,37.745833,-107.683611,37.745833,37.745833,-107.683611,-107.683611,Vascular plants,Ephedra torreyana,1,NISP,pollen,,7253,,,Radiocarbon years BP,78.5,3200,pollen,6/30/2007,323,0.309597523
+1705,Molas Lake,37.745833,-107.683611,37.745833,37.745833,-107.683611,-107.683611,Vascular plants,Ephedra torreyana,1,NISP,pollen,,8317,,,Radiocarbon years BP,90,3200,pollen,6/30/2007,337,0.296735905
+1705,Molas Lake,37.745833,-107.683611,37.745833,37.745833,-107.683611,-107.683611,Vascular plants,Ephedra torreyana,2,NISP,pollen,,9039,,,Radiocarbon years BP,97.8,3200,pollen,6/30/2007,324,0.617283951
+1705,Molas Lake,37.745833,-107.683611,37.745833,37.745833,-107.683611,-107.683611,Vascular plants,Ephedra torreyana,1,NISP,pollen,,9566,,,Radiocarbon years BP,103.5,3200,pollen,6/30/2007,334,0.299401198
+1705,Molas Lake,37.745833,-107.683611,37.745833,37.745833,-107.683611,-107.683611,Vascular plants,Ephedra torreyana,1,NISP,pollen,,9909,,,Radiocarbon years BP,107.2,3200,pollen,6/30/2007,317,0.315457413
+1705,Molas Lake,37.745833,-107.683611,37.745833,37.745833,-107.683611,-107.683611,Vascular plants,Ephedra torreyana,1,NISP,pollen,,13267,,,Radiocarbon years BP,143.5,3200,pollen,6/30/2007,462,0.216450216
+1705,Molas Lake,37.745833,-107.683611,37.745833,37.745833,-107.683611,-107.683611,Vascular plants,Ephedra torreyana,1,NISP,pollen,,13412,,,Radiocarbon years BP,145.2,3200,pollen,6/30/2007,664,0.15060241
+1705,Molas Lake,37.745833,-107.683611,37.745833,37.745833,-107.683611,-107.683611,Vascular plants,Ephedra torreyana,1,NISP,pollen,,14875,,,Radiocarbon years BP,164.8,3200,pollen,6/30/2007,660,0.151515152
+1705,Molas Lake,37.745833,-107.683611,37.745833,37.745833,-107.683611,-107.683611,Vascular plants,Ephedra torreyana,1,NISP,pollen,,15353,,,Radiocarbon years BP,171.2,3200,pollen,6/30/2007,163,0.613496933
+1706,Molas Pass Bog,37.737778,-107.6975,37.737778,37.737778,-107.6975,-107.6975,Vascular plants,Ephedra torreyana,1,NISP,pollen,,3798,,,Radiocarbon years BP,50,3220,pollen,6/30/2007,369,0.27100271
+1713,Mordsger Lake,51.383333,-94.25,51.383333,51.383333,-94.25,-94.25,Vascular plants,Ephedra torreyana,1,NISP,pollen,,9310,,,Radiocarbon years BP,275,400,pollen,6/30/2007,302,0.331125828
+1720,Mud Lake,44.226105,-93.829815,44.23136,44.22085,-93.82444,-93.83519,Vascular plants,Ephedra torreyana,1,NISP,pollen,,165,,,Radiocarbon years BP,60,308,pollen,6/30/2007,1162,0.08605852
+1724,Murphy Lake,44.711625,-93.341105,44.7142,44.70905,-93.337,-93.34521,Vascular plants,Ephedra torreyana,1,NISP,pollen,,81,,,Radiocarbon years BP,50,280,pollen,6/30/2007,564,0.177304965
+1724,Murphy Lake,44.711625,-93.341105,44.7142,44.70905,-93.337,-93.34521,Vascular plants,Ephedra torreyana,1,NISP,pollen,,119,,,Radiocarbon years BP,70,280,pollen,6/30/2007,404,0.247524752
+1764,Lake Ogechie,46.133333,-93.783333,46.133333,46.133333,-93.783333,-93.783333,Vascular plants,Ephedra torreyana,1,NISP,pollen,,,,,,1020,380,pollen,6/30/2007,457,0.218818381
+1775,"Lake Ontario, Mississauga Basin",43.556667,-78.15,43.556667,43.556667,-78.15,-78.15,Vascular plants,Ephedra torreyana,1,NISP,pollen,,602,,,Radiocarbon years BP,50,75,pollen,6/30/2007,245,0.408163265
+1775,"Lake Ontario, Mississauga Basin",43.556667,-78.15,43.556667,43.556667,-78.15,-78.15,Vascular plants,Ephedra torreyana,1,NISP,pollen,,1442,,,Radiocarbon years BP,100,75,pollen,6/30/2007,218,0.458715596
+1796,Parrott's Pond,44.22,-76.7,44.22,44.22,-76.7,-76.7,Vascular plants,Ephedra torreyana,1,NISP,pollen,,219,,,Radiocarbon years BP,30,74,pollen,6/30/2007,144,0.694444444
+1799,Pasqua Lake,50.78,-104,50.78,50.78,-104,-104,Vascular plants,Ephedra torreyana,1,NISP,pollen,,65,,,Radiocarbon years BP,45,,pollen,6/30/2007,306,0.326797386
+1820,Pennington Lake,45.780556,-93.273056,45.780556,45.780556,-93.273056,-93.273056,Vascular plants,Ephedra torreyana,1,NISP,pollen,,155,,,Radiocarbon years BP,50,48,pollen,6/30/2007,378,0.264550265
+1891,Pleasant Lake,44.60587,-93.563475,44.61154,44.6002,-93.5538,-93.57315,Vascular plants,Ephedra torreyana,1,NISP,pollen,,55,,,Radiocarbon years BP,10,274,pollen,6/30/2007,732,0.136612022
+1976,Redrock Lake,40.083333,-105.541667,40.083333,40.083333,-105.541667,-105.541667,Vascular plants,Ephedra torreyana,1,NISP,pollen,,20,,,Radiocarbon years BP,1,3095,pollen,6/30/2007,1393,0.071787509
+1976,Redrock Lake,40.083333,-105.541667,40.083333,40.083333,-105.541667,-105.541667,Vascular plants,Ephedra torreyana,1,NISP,pollen,,620,,,Radiocarbon years BP,15,3095,pollen,6/30/2007,491,0.203665988
+1976,Redrock Lake,40.083333,-105.541667,40.083333,40.083333,-105.541667,-105.541667,Vascular plants,Ephedra torreyana,2,NISP,pollen,,840,,,Radiocarbon years BP,20,3095,pollen,6/30/2007,1566,0.127713921
+1976,Redrock Lake,40.083333,-105.541667,40.083333,40.083333,-105.541667,-105.541667,Vascular plants,Ephedra torreyana,2,NISP,pollen,,1700,,,Radiocarbon years BP,40,3095,pollen,6/30/2007,615,0.325203252
+1976,Redrock Lake,40.083333,-105.541667,40.083333,40.083333,-105.541667,-105.541667,Vascular plants,Ephedra torreyana,1,NISP,pollen,,2130,,,Radiocarbon years BP,50,3095,pollen,6/30/2007,1209,0.082712986
+1976,Redrock Lake,40.083333,-105.541667,40.083333,40.083333,-105.541667,-105.541667,Vascular plants,Ephedra torreyana,1,NISP,pollen,,2780,,,Radiocarbon years BP,60,3095,pollen,6/30/2007,1369,0.073046019
+1976,Redrock Lake,40.083333,-105.541667,40.083333,40.083333,-105.541667,-105.541667,Vascular plants,Ephedra torreyana,2,NISP,pollen,,3440,,,Radiocarbon years BP,65,3095,pollen,6/30/2007,746,0.268096515
+1976,Redrock Lake,40.083333,-105.541667,40.083333,40.083333,-105.541667,-105.541667,Vascular plants,Ephedra torreyana,1,NISP,pollen,,3840,,,Radiocarbon years BP,68,3095,pollen,6/30/2007,634,0.157728707
+1976,Redrock Lake,40.083333,-105.541667,40.083333,40.083333,-105.541667,-105.541667,Vascular plants,Ephedra torreyana,1,NISP,pollen,,4120,,,Radiocarbon years BP,75,3095,pollen,6/30/2007,655,0.152671756
+1976,Redrock Lake,40.083333,-105.541667,40.083333,40.083333,-105.541667,-105.541667,Vascular plants,Ephedra torreyana,1,NISP,pollen,,4250,,,Radiocarbon years BP,80,3095,pollen,6/30/2007,1627,0.061462815
+1976,Redrock Lake,40.083333,-105.541667,40.083333,40.083333,-105.541667,-105.541667,Vascular plants,Ephedra torreyana,2,NISP,pollen,,4980,,,Radiocarbon years BP,100,3095,pollen,6/30/2007,1866,0.107181136
+1976,Redrock Lake,40.083333,-105.541667,40.083333,40.083333,-105.541667,-105.541667,Vascular plants,Ephedra torreyana,1,NISP,pollen,,6680,,,Radiocarbon years BP,130,3095,pollen,6/30/2007,1212,0.082508251
+1976,Redrock Lake,40.083333,-105.541667,40.083333,40.083333,-105.541667,-105.541667,Vascular plants,Ephedra torreyana,1,NISP,pollen,,7890,,,Radiocarbon years BP,145,3095,pollen,6/30/2007,627,0.159489633
+1976,Redrock Lake,40.083333,-105.541667,40.083333,40.083333,-105.541667,-105.541667,Vascular plants,Ephedra torreyana,1,NISP,pollen,,10010,,,Radiocarbon years BP,175,3095,pollen,6/30/2007,258,0.387596899
+1991,Rice Lake,46.922222,-95.575,46.922222,46.922222,-95.575,-95.575,Vascular plants,Ephedra torreyana,1,NISP,pollen,,2102,,,Radiocarbon years BP,90,443,pollen,6/30/2007,490,0.204081633
+1991,Rice Lake,46.922222,-95.575,46.922222,46.922222,-95.575,-95.575,Vascular plants,Ephedra torreyana,1,NISP,pollen,,2965,,,Radiocarbon years BP,140,443,pollen,6/30/2007,453,0.220750552
+1991,Rice Lake,46.922222,-95.575,46.922222,46.922222,-95.575,-95.575,Vascular plants,Ephedra torreyana,1,NISP,pollen,,4172,,,Radiocarbon years BP,210,443,pollen,6/30/2007,444,0.225225225
+2272,Second Lake,44.85,-79.98,44.85,44.85,-79.98,-79.98,Vascular plants,Ephedra torreyana,1,NISP,pollen,,378,,,Radiocarbon years BP,42,196,pollen,6/30/2007,434,0.230414747
+2273,Sedivy Lake,47.208889,-95.833333,47.208889,47.208889,-95.833333,-95.833333,Vascular plants,Ephedra torreyana,1,NISP,pollen,,47,,,Radiocarbon years BP,40,405,pollen,6/30/2007,502,0.199203187
+2300,Shouldice Lake,45.15,-81.416667,45.15,45.15,-81.416667,-81.416667,Vascular plants,Ephedra torreyana,1,NISP,pollen,,6627,,,Radiocarbon years BP,310,206,pollen,6/30/2007,300,0.333333333
+2309,Sioux Pond,49.933333,-91.566667,49.933333,49.933333,-91.566667,-91.566667,Vascular plants,Ephedra torreyana,1,NISP,pollen,,7452,,,Radiocarbon years BP,560,410,pollen,6/30/2007,524,0.190839695
+2514,St. Catherines Lake,44.626875,-93.43352,44.6307,44.62305,-93.42716,-93.43988,Vascular plants,Ephedra torreyana,1,NISP,pollen,,241,,,Radiocarbon years BP,100,287,pollen,6/30/2007,455,0.21978022
+2518,Stone Lake,45.4,-93.522222,45.4,45.4,-93.522222,-93.522222,Vascular plants,Ephedra torreyana,1,NISP,pollen,,238,,,Radiocarbon years BP,40,,pollen,6/30/2007,515,0.194174757
+2518,Stone Lake,45.4,-93.522222,45.4,45.4,-93.522222,-93.522222,Vascular plants,Ephedra torreyana,1,NISP,pollen,,365,,,Radiocarbon years BP,60,,pollen,6/30/2007,461,0.21691974
+2524,Sunfish Lake,44.874722,-93.1,44.874722,44.874722,-93.1,-93.1,Vascular plants,Ephedra torreyana,1,NISP,pollen,,445,,,Radiocarbon years BP,140,,pollen,6/30/2007,558,0.17921147
+2785,Twin Lakes,37.469444,-108.1025,37.469444,37.469444,-108.1025,-108.1025,Vascular plants,Ephedra torreyana,2,NISP,pollen,,408,,,Radiocarbon years BP,7.5,3290,pollen,6/30/2007,535,0.373831776
+2785,Twin Lakes,37.469444,-108.1025,37.469444,37.469444,-108.1025,-108.1025,Vascular plants,Ephedra torreyana,4,NISP,pollen,,697,,,Radiocarbon years BP,12.5,3290,pollen,6/30/2007,653,0.612557427
+2785,Twin Lakes,37.469444,-108.1025,37.469444,37.469444,-108.1025,-108.1025,Vascular plants,Ephedra torreyana,1,NISP,pollen,,986,,,Radiocarbon years BP,17.5,3290,pollen,6/30/2007,710,0.14084507
+2785,Twin Lakes,37.469444,-108.1025,37.469444,37.469444,-108.1025,-108.1025,Vascular plants,Ephedra torreyana,1,NISP,pollen,,1274,,,Radiocarbon years BP,22.5,3290,pollen,6/30/2007,592,0.168918919
+2785,Twin Lakes,37.469444,-108.1025,37.469444,37.469444,-108.1025,-108.1025,Vascular plants,Ephedra torreyana,1,NISP,pollen,,1419,,,Radiocarbon years BP,25,3290,pollen,6/30/2007,413,0.242130751
+2785,Twin Lakes,37.469444,-108.1025,37.469444,37.469444,-108.1025,-108.1025,Vascular plants,Ephedra torreyana,1,NISP,pollen,,1563,,,Radiocarbon years BP,27.5,3290,pollen,6/30/2007,703,0.142247511
+2785,Twin Lakes,37.469444,-108.1025,37.469444,37.469444,-108.1025,-108.1025,Vascular plants,Ephedra torreyana,1,NISP,pollen,,1852,,,Radiocarbon years BP,32.5,3290,pollen,6/30/2007,548,0.182481752
+2785,Twin Lakes,37.469444,-108.1025,37.469444,37.469444,-108.1025,-108.1025,Vascular plants,Ephedra torreyana,1,NISP,pollen,,2549,,,Radiocarbon years BP,45,3290,pollen,6/30/2007,389,0.257069409
+2785,Twin Lakes,37.469444,-108.1025,37.469444,37.469444,-108.1025,-108.1025,Vascular plants,Ephedra torreyana,2,NISP,pollen,,2625,,,Radiocarbon years BP,55,3290,pollen,6/30/2007,354,0.564971751
+2785,Twin Lakes,37.469444,-108.1025,37.469444,37.469444,-108.1025,-108.1025,Vascular plants,Ephedra torreyana,1,NISP,pollen,,2644,,,Radiocarbon years BP,57.5,3290,pollen,6/30/2007,484,0.20661157
+2785,Twin Lakes,37.469444,-108.1025,37.469444,37.469444,-108.1025,-108.1025,Vascular plants,Ephedra torreyana,1,NISP,pollen,,2700,,,Radiocarbon years BP,65,3290,pollen,6/30/2007,374,0.267379679
+2785,Twin Lakes,37.469444,-108.1025,37.469444,37.469444,-108.1025,-108.1025,Vascular plants,Ephedra torreyana,1,NISP,pollen,,2719,,,Radiocarbon years BP,67.5,3290,pollen,6/30/2007,461,0.21691974
+2785,Twin Lakes,37.469444,-108.1025,37.469444,37.469444,-108.1025,-108.1025,Vascular plants,Ephedra torreyana,1,NISP,pollen,,2776,,,Radiocarbon years BP,75,3290,pollen,6/30/2007,389,0.257069409
+2785,Twin Lakes,37.469444,-108.1025,37.469444,37.469444,-108.1025,-108.1025,Vascular plants,Ephedra torreyana,1,NISP,pollen,,2814,,,Radiocarbon years BP,80,3290,pollen,6/30/2007,359,0.278551532
+2785,Twin Lakes,37.469444,-108.1025,37.469444,37.469444,-108.1025,-108.1025,Vascular plants,Ephedra torreyana,1,NISP,pollen,,2852,,,Radiocarbon years BP,85,3290,pollen,6/30/2007,350,0.285714286
+2785,Twin Lakes,37.469444,-108.1025,37.469444,37.469444,-108.1025,-108.1025,Vascular plants,Ephedra torreyana,1,NISP,pollen,,2890,,,Radiocarbon years BP,90,3290,pollen,6/30/2007,328,0.304878049
+2785,Twin Lakes,37.469444,-108.1025,37.469444,37.469444,-108.1025,-108.1025,Vascular plants,Ephedra torreyana,1,NISP,pollen,,9905,,,Radiocarbon years BP,390.1,3290,pollen,6/30/2007,462,0.216450216
+2800,Utricularia Lake,35.968889,-108.808333,35.968889,35.968889,-108.808333,-108.808333,Vascular plants,Ephedra torreyana,1,NISP,pollen,,16491,,,Radiocarbon years BP,73,2753,pollen,6/30/2007,456,0.219298246
+2938,Woodworth Pond,47.15,-99.233333,47.15,47.15,-99.233333,-99.233333,Vascular plants,Ephedra torreyana,1,NISP,pollen,,593,,,Radiocarbon years BP,10,580,pollen,6/30/2007,899,0.111234705
+2938,Woodworth Pond,47.15,-99.233333,47.15,47.15,-99.233333,-99.233333,Vascular plants,Ephedra torreyana,1,NISP,pollen,,10000,,,Radiocarbon years BP,185,580,pollen,6/30/2007,385,0.25974026
+2938,Woodworth Pond,47.15,-99.233333,47.15,47.15,-99.233333,-99.233333,Vascular plants,Ephedra torreyana,1,NISP,pollen,,10750,,,Radiocarbon years BP,200,580,pollen,6/30/2007,452,0.221238938
+1701,Lake Minnie,47.244755,-95.007715,47.24862,47.24089,-95.00459,-95.01084,Vascular plants,Ephedra torreyana,1,NISP,pollen,,1,,,Radiocarbon years BP,1,430,pollen,6/30/2007,361,0.27700831
+1701,Lake Minnie,47.244755,-95.007715,47.24862,47.24089,-95.00459,-95.01084,Vascular plants,Ephedra torreyana,1,NISP,pollen,,1450,,,Radiocarbon years BP,200,430,pollen,6/30/2007,370,0.27027027
+1701,Lake Minnie,47.244755,-95.007715,47.24862,47.24089,-95.00459,-95.01084,Vascular plants,Ephedra torreyana,1,NISP,pollen,,3629,,,Radiocarbon years BP,420,430,pollen,6/30/2007,371,0.269541779
+1701,Lake Minnie,47.244755,-95.007715,47.24862,47.24089,-95.00459,-95.01084,Vascular plants,Ephedra torreyana,1,NISP,pollen,,7452,,,Radiocarbon years BP,670,430,pollen,6/30/2007,350,0.285714286
+1991,Rice Lake,46.922222,-95.575,46.922222,46.922222,-95.575,-95.575,Vascular plants,Ephedra torreyana,1,NISP,pollen,,3283,,,Radiocarbon years BP,130,443,pollen,6/30/2007,863,0.115874855
+1222,Spiritwood Lake,47.074695,-98.5866,47.08102,47.06837,-98.56972,-98.60348,Vascular plants,Ephedra torreyana,1,NISP,pollen,,634,,,Radiocarbon years BP,160,437,pollen,6/30/2007,291,0.343642612
+1222,Spiritwood Lake,47.074695,-98.5866,47.08102,47.06837,-98.56972,-98.60348,Vascular plants,Ephedra torreyana,1,NISP,pollen,,1758,,,Radiocarbon years BP,380,437,pollen,6/30/2007,308,0.324675325
+1222,Spiritwood Lake,47.074695,-98.5866,47.08102,47.06837,-98.56972,-98.60348,Vascular plants,Ephedra torreyana,1,NISP,pollen,,2217,,,Radiocarbon years BP,470,437,pollen,6/30/2007,292,0.342465753
+1222,Spiritwood Lake,47.074695,-98.5866,47.08102,47.06837,-98.56972,-98.60348,Vascular plants,Ephedra torreyana,1,NISP,pollen,,2524,,,Radiocarbon years BP,530,437,pollen,6/30/2007,289,0.346020761
+1222,Spiritwood Lake,47.074695,-98.5866,47.08102,47.06837,-98.56972,-98.60348,Vascular plants,Ephedra torreyana,1,NISP,pollen,,4163,,,Radiocarbon years BP,690,437,pollen,6/30/2007,375,0.266666667
+1222,Spiritwood Lake,47.074695,-98.5866,47.08102,47.06837,-98.56972,-98.60348,Vascular plants,Ephedra torreyana,1,NISP,pollen,,6216,,,Radiocarbon years BP,1030,437,pollen,6/30/2007,367,0.272479564
+2852,Weslemkoon Lake,45.033333,-77.433333,45.033333,45.033333,-77.433333,-77.433333,Vascular plants,Ephedra torreyana,1,NISP,pollen,,3944,,,Radiocarbon years BP,130,316,pollen,6/30/2007,202,0.495049505
+9953,Lake Mina,45.89346,-95.47561,45.90369,45.88323,-95.45902,-95.4922,Vascular plants,Ephedra torreyana,1,NISP,pollen,,381,338,424,Varve years BP,381,415,pollen,11/1/2014,453.5,0.220507166
+9953,Lake Mina,45.89346,-95.47561,45.90369,45.88323,-95.45902,-95.4922,Vascular plants,Ephedra torreyana,1,NISP,pollen,,466,414,518,Varve years BP,466,415,pollen,11/1/2014,419.5,0.238379023
+9953,Lake Mina,45.89346,-95.47561,45.90369,45.88323,-95.45902,-95.4922,Vascular plants,Ephedra torreyana,1,NISP,pollen,,494,439,549,Varve years BP,494,415,pollen,11/1/2014,434.5,0.230149597
+9953,Lake Mina,45.89346,-95.47561,45.90369,45.88323,-95.45902,-95.4922,Vascular plants,Ephedra torreyana,1,NISP,pollen,,611,545,677,Varve years BP,611,415,pollen,11/1/2014,375,0.266666667
+9953,Lake Mina,45.89346,-95.47561,45.90369,45.88323,-95.45902,-95.4922,Vascular plants,Ephedra torreyana,1,NISP,pollen,,619,552,686,Varve years BP,619,415,pollen,11/1/2014,369,0.27100271
+9953,Lake Mina,45.89346,-95.47561,45.90369,45.88323,-95.45902,-95.4922,Vascular plants,Ephedra torreyana,1,NISP,pollen,,623,556,691,Varve years BP,623,415,pollen,11/1/2014,398,0.251256281
+9953,Lake Mina,45.89346,-95.47561,45.90369,45.88323,-95.45902,-95.4922,Vascular plants,Ephedra torreyana,2,NISP,pollen,,814,727,901,Varve years BP,814,415,pollen,11/1/2014,420.5,0.475624257
+9717,"Devils Lake, Creel Bay",48.0859,-98.92935,48.10783,48.06397,-98.90227,-98.95643,Vascular plants,Ephedra torreyana,1,NISP,pollen,,6347,5561,7111,Calibrated radiocarbon years BP,1950,443,pollen,1/10/2015,567,0.176366843
+10159,Don Brickyard Interglacial Section,43.686,-79.366,43.689,43.683,-79.365,-79.367,Vascular plants,Ephedra torreyana,1,NISP,pollen,,,,,,755,80,pollen,3/6/2015,217,0.460829493
+10501,Los Penasquitos Lagoon,32.93112111,-117.25287,32.93502,32.92722222,-117.24566,-117.26008,Vascular plants,Ephedra torreyana,1,NISP,pollen,,3032,2903,3198,Calibrated radiocarbon years BP,180,0,pollen,6/16/2015,251,0.398406375
+10521,Rice Lake,44.199085,-78.14232,44.3096,44.08857,-77.95555,-78.32909,Vascular plants,Ephedra torreyana,1,NISP,pollen,,2615,1687,3518,Calibrated radiocarbon years BP,90,186,pollen,6/25/2015,584,0.171232877
+1823,Perch Lake,46.03,-77.34,46.03,46.03,-77.34,-77.34,Vascular plants,Ephedra torreyana,1,NISP,pollen,,515,255,825,Calibrated radiocarbon years BP,57.5,160,pollen,7/8/2015,390,0.256410256
+1823,Perch Lake,46.03,-77.34,46.03,46.03,-77.34,-77.34,Vascular plants,Ephedra torreyana,1,NISP,pollen,,1259,1003,1516,Calibrated radiocarbon years BP,107.5,160,pollen,7/8/2015,369,0.27100271
+1823,Perch Lake,46.03,-77.34,46.03,46.03,-77.34,-77.34,Vascular plants,Ephedra torreyana,2,NISP,pollen,,10503,9899,11145,Calibrated radiocarbon years BP,575.5,160,pollen,7/8/2015,418,0.4784689
+1823,Perch Lake,46.03,-77.34,46.03,46.03,-77.34,-77.34,Vascular plants,Ephedra torreyana,1,NISP,pollen,,10729,10101,11403,Calibrated radiocarbon years BP,585.5,160,pollen,7/8/2015,364,0.274725275
+10549,Glenora Bay,44.04638889,-77.03916667,44.08527778,44.0075,-76.93833333,-77.14,Vascular plants,Ephedra torreyana,1,NISP,pollen,,-22,,,Radiocarbon years BP,1,74,pollen,7/15/2015,417,0.239808153
+10551,Mark Pond,51.83986111,-89.61541667,51.84111111,51.83861111,-89.61361111,-89.61722222,Vascular plants,Ephedra torreyana,1,NISP,pollen,,531,163,1029,Calibrated radiocarbon years BP,40,348,pollen,7/16/2015,226,0.442477876
+10553,Rife Swamp,43.46777778,-79.98680556,43.47138889,43.46416667,-79.98305556,-79.99055556,Vascular plants,Ephedra torreyana,1,NISP,pollen,,18323,10878,34680,Calibrated radiocarbon years BP,200,277,pollen,7/17/2015,221,0.452488688
+10555,Wagner Lake,44.19,-79.130295,44.19555556,44.18444444,-79.12761,-79.13298,Vascular plants,Ephedra torreyana,2,NISP,pollen,,,,,,77,241,pollen,7/17/2015,234,0.854700855
+11557,Lovesick Lake,44.55680556,-78.22479722,44.56666667,44.54694444,-78.20515,-78.24444444,Vascular plants,Ephedra torreyana,1,NISP,pollen,,2166,1013,3606,Calibrated radiocarbon years BP,30,242,pollen,7/23/2015,232,0.431034483
+11606,Steel Lake,46.973155,-94.68138,46.97847,46.96784,-94.67606,-94.6867,Vascular plants,Ephedra torreyana,1,NISP,pollen,,122,-11,293,Calibrated radiocarbon years BP,30,415,pollen,8/20/2015,404,0.247524752
+11606,Steel Lake,46.973155,-94.68138,46.97847,46.96784,-94.67606,-94.6867,Vascular plants,Ephedra torreyana,1,NISP,pollen,,2870,2658,3064,Calibrated radiocarbon years BP,335,415,pollen,8/20/2015,555,0.18018018
+11606,Steel Lake,46.973155,-94.68138,46.97847,46.96784,-94.67606,-94.6867,Vascular plants,Ephedra torreyana,2,NISP,pollen,,4057,3561,4494,Calibrated radiocarbon years BP,420,415,pollen,8/20/2015,498,0.401606426
+11606,Steel Lake,46.973155,-94.68138,46.97847,46.96784,-94.67606,-94.6867,Vascular plants,Ephedra torreyana,1,NISP,pollen,,4573,4324,4804,Calibrated radiocarbon years BP,455,415,pollen,8/20/2015,505,0.198019802
+11606,Steel Lake,46.973155,-94.68138,46.97847,46.96784,-94.67606,-94.6867,Vascular plants,Ephedra torreyana,1,NISP,pollen,,4853,4636,5112,Calibrated radiocarbon years BP,480,415,pollen,8/20/2015,503,0.198807157
+11606,Steel Lake,46.973155,-94.68138,46.97847,46.96784,-94.67606,-94.6867,Vascular plants,Ephedra torreyana,1,NISP,pollen,,4983,4852,5247,Calibrated radiocarbon years BP,490,415,pollen,8/20/2015,482,0.20746888
+11606,Steel Lake,46.973155,-94.68138,46.97847,46.96784,-94.67606,-94.6867,Vascular plants,Ephedra torreyana,1,NISP,pollen,,7187,6871,7448,Calibrated radiocarbon years BP,660,415,pollen,8/20/2015,529,0.189035917
+11606,Steel Lake,46.973155,-94.68138,46.97847,46.96784,-94.67606,-94.6867,Vascular plants,Ephedra torreyana,1,NISP,pollen,,8388,7959,8935,Calibrated radiocarbon years BP,766,415,pollen,8/20/2015,888,0.112612613
+11606,Steel Lake,46.973155,-94.68138,46.97847,46.96784,-94.67606,-94.6867,Vascular plants,Ephedra torreyana,1,NISP,pollen,,9006,8434,9552,Calibrated radiocarbon years BP,833,415,pollen,8/20/2015,608,0.164473684
+11606,Steel Lake,46.973155,-94.68138,46.97847,46.96784,-94.67606,-94.6867,Vascular plants,Ephedra torreyana,1,NISP,pollen,,9032,8455,9572,Calibrated radiocarbon years BP,835,415,pollen,8/20/2015,854,0.117096019
+11606,Steel Lake,46.973155,-94.68138,46.97847,46.96784,-94.67606,-94.6867,Vascular plants,Ephedra torreyana,1,NISP,pollen,,9224,8651,9707,Calibrated radiocarbon years BP,850,415,pollen,8/20/2015,763,0.131061599
+11606,Steel Lake,46.973155,-94.68138,46.97847,46.96784,-94.67606,-94.6867,Vascular plants,Ephedra torreyana,1,NISP,pollen,,9339,8812,9798,Calibrated radiocarbon years BP,859,415,pollen,8/20/2015,596,0.167785235
+11606,Steel Lake,46.973155,-94.68138,46.97847,46.96784,-94.67606,-94.6867,Vascular plants,Ephedra torreyana,1,NISP,pollen,,9352,8840,9808,Calibrated radiocarbon years BP,860,415,pollen,8/20/2015,820,0.12195122
+11606,Steel Lake,46.973155,-94.68138,46.97847,46.96784,-94.67606,-94.6867,Vascular plants,Ephedra torreyana,1,NISP,pollen,,9405,8916,9840,Calibrated radiocarbon years BP,864,415,pollen,8/20/2015,1102,0.090744102
+11606,Steel Lake,46.973155,-94.68138,46.97847,46.96784,-94.67606,-94.6867,Vascular plants,Ephedra torreyana,1,NISP,pollen,,11470,11136,11784,Calibrated radiocarbon years BP,1058,415,pollen,8/20/2015,1118,0.089445438
+11752,Runway Ruin,33.5375,-110.885,33.615,33.46,-110.84,-110.93,Vascular plants,Ephedra torreyana,1,NISP,pollen,,,,,,3,1000,pollen,9/29/2015,203,0.492610837
+11752,Runway Ruin,33.5375,-110.885,33.615,33.46,-110.84,-110.93,Vascular plants,Ephedra torreyana,2,NISP,pollen,,,,,,4,1000,pollen,9/29/2015,205,0.975609756
+11752,Runway Ruin,33.5375,-110.885,33.615,33.46,-110.84,-110.93,Vascular plants,Ephedra torreyana,1,NISP,pollen,,,,,,5,1000,pollen,9/29/2015,208,0.480769231
+11753,Monitor,33.5375,-110.885,33.615,33.46,-110.84,-110.93,Vascular plants,Ephedra torreyana,1,NISP,pollen,,,,,,3,1000,pollen,9/29/2015,205,0.487804878
+11753,Monitor,33.5375,-110.885,33.615,33.46,-110.84,-110.93,Vascular plants,Ephedra torreyana,1,NISP,pollen,,,,,,5,1000,pollen,9/29/2015,200,0.5
+11753,Monitor,33.5375,-110.885,33.615,33.46,-110.84,-110.93,Vascular plants,Ephedra torreyana,1,NISP,pollen,,,,,,6,1000,pollen,9/29/2015,200,0.5
+11753,Monitor,33.5375,-110.885,33.615,33.46,-110.84,-110.93,Vascular plants,Ephedra torreyana,1,NISP,pollen,,,,,,7,1000,pollen,9/29/2015,211,0.473933649
+11753,Monitor,33.5375,-110.885,33.615,33.46,-110.84,-110.93,Vascular plants,Ephedra torreyana,2,NISP,pollen,,,,,,8,1000,pollen,9/29/2015,204,0.980392157
+11753,Monitor,33.5375,-110.885,33.615,33.46,-110.84,-110.93,Vascular plants,Ephedra torreyana,1,NISP,pollen,,,,,,9,1000,pollen,9/29/2015,208,0.480769231
+11756,Multigrade,33.5375,-110.885,33.615,33.46,-110.84,-110.93,Vascular plants,Ephedra torreyana,1,NISP,pollen,,,,,,5,1000,pollen,9/30/2015,212,0.471698113
+11756,Multigrade,33.5375,-110.885,33.615,33.46,-110.84,-110.93,Vascular plants,Ephedra torreyana,1,NISP,pollen,,,,,,6,1000,pollen,9/30/2015,207,0.483091787
+11757,Tinhorn Wash,33.5375,-110.885,33.615,33.46,-110.84,-110.93,Vascular plants,Ephedra torreyana,1,NISP,pollen,,,,,,4,1000,pollen,9/30/2015,202,0.495049505
+11754,Columbus,33.5375,-110.885,33.615,33.46,-110.84,-110.93,Vascular plants,Ephedra torreyana,1,NISP,pollen,,,,,,1,1000,pollen,10/1/2015,201,0.497512438
+11756,Multigrade,33.5375,-110.885,33.615,33.46,-110.84,-110.93,Vascular plants,Ephedra torreyana,1,NISP,pollen,,,,,,2,1000,pollen,10/1/2015,204,0.490196078
+11754,Columbus,33.5375,-110.885,33.615,33.46,-110.84,-110.93,Vascular plants,Ephedra torreyana,1,NISP,pollen,,,,,,35,1000,pollen,10/6/2015,204,0.490196078
+11756,Multigrade,33.5375,-110.885,33.615,33.46,-110.84,-110.93,Vascular plants,Ephedra torreyana,1,NISP,pollen,,,,,,0,1000,pollen,10/6/2015,202,0.495049505
+11756,Multigrade,33.5375,-110.885,33.615,33.46,-110.84,-110.93,Vascular plants,Ephedra torreyana,1,NISP,pollen,,,,,,35,1000,pollen,10/6/2015,201,0.497512438
+11756,Multigrade,33.5375,-110.885,33.615,33.46,-110.84,-110.93,Vascular plants,Ephedra torreyana,1,NISP,pollen,,,,,,45,1000,pollen,10/6/2015,201,0.497512438
+11756,Multigrade,33.5375,-110.885,33.615,33.46,-110.84,-110.93,Vascular plants,Ephedra torreyana,1,NISP,pollen,,,,,,65,1000,pollen,10/6/2015,202,0.495049505
+11756,Multigrade,33.5375,-110.885,33.615,33.46,-110.84,-110.93,Vascular plants,Ephedra torreyana,1,NISP,pollen,,,,,,75,1000,pollen,10/6/2015,206,0.485436893
+11757,Tinhorn Wash,33.5375,-110.885,33.615,33.46,-110.84,-110.93,Vascular plants,Ephedra torreyana,1,NISP,pollen,,,,,,25,1000,pollen,10/6/2015,201,0.497512438
+11753,Monitor,33.5375,-110.885,33.615,33.46,-110.84,-110.93,Vascular plants,Ephedra torreyana,1,NISP,pollen,,,,,,0,1000,pollen,10/6/2015,202,0.495049505
+11753,Monitor,33.5375,-110.885,33.615,33.46,-110.84,-110.93,Vascular plants,Ephedra torreyana,1,NISP,pollen,,,,,,10,1000,pollen,10/6/2015,212,0.471698113
+11754,Columbus,33.5375,-110.885,33.615,33.46,-110.84,-110.93,Vascular plants,Ephedra torreyana,1,NISP,pollen,,,,,,0,1000,pollen,10/16/2015,202,0.495049505
+11754,Columbus,33.5375,-110.885,33.615,33.46,-110.84,-110.93,Vascular plants,Ephedra torreyana,1,NISP,pollen,,,,,,20,1000,pollen,10/16/2015,206,0.485436893
+11754,Columbus,33.5375,-110.885,33.615,33.46,-110.84,-110.93,Vascular plants,Ephedra torreyana,1,NISP,pollen,,,,,,30,1000,pollen,10/16/2015,205,0.487804878
+11778,East Ruin,33.5375,-110.885,33.615,33.46,-110.84,-110.93,Vascular plants,Ephedra torreyana,1,NISP,pollen,,,,,,5,1075,pollen,10/16/2015,202,0.495049505
+11778,East Ruin,33.5375,-110.885,33.615,33.46,-110.84,-110.93,Vascular plants,Ephedra torreyana,1,NISP,pollen,,,,,,50,1075,pollen,10/16/2015,159,0.628930818
+11778,East Ruin,33.5375,-110.885,33.615,33.46,-110.84,-110.93,Vascular plants,Ephedra torreyana,1,NISP,pollen,,,,,,60,1075,pollen,10/16/2015,213,0.469483568
+11778,East Ruin,33.5375,-110.885,33.615,33.46,-110.84,-110.93,Vascular plants,Ephedra torreyana,1,NISP,pollen,,,,,,65,1075,pollen,10/16/2015,212,0.471698113
+11783,Refugia Ruin,33.5375,-110.885,33.615,33.46,-110.84,-110.93,Vascular plants,Ephedra torreyana,1,NISP,pollen,,,,,,5,990,pollen,10/16/2015,200,0.5
+11783,Refugia Ruin,33.5375,-110.885,33.615,33.46,-110.84,-110.93,Vascular plants,Ephedra torreyana,2,NISP,pollen,,,,,,15,990,pollen,10/16/2015,202,0.99009901
+11783,Refugia Ruin,33.5375,-110.885,33.615,33.46,-110.84,-110.93,Vascular plants,Ephedra torreyana,2,NISP,pollen,,,,,,25,990,pollen,10/16/2015,207,0.966183575
+11752,Runway Ruin,33.5375,-110.885,33.615,33.46,-110.84,-110.93,Vascular plants,Ephedra torreyana,1,NISP,pollen,,,,,,20,1000,pollen,10/16/2015,202,0.495049505
+11752,Runway Ruin,33.5375,-110.885,33.615,33.46,-110.84,-110.93,Vascular plants,Ephedra torreyana,1,NISP,pollen,,,,,,25,1000,pollen,10/16/2015,202,0.495049505
+11752,Runway Ruin,33.5375,-110.885,33.615,33.46,-110.84,-110.93,Vascular plants,Ephedra torreyana,1,NISP,pollen,,,,,,50,1000,pollen,10/16/2015,208,0.480769231
+11752,Runway Ruin,33.5375,-110.885,33.615,33.46,-110.84,-110.93,Vascular plants,Ephedra torreyana,1,NISP,pollen,,,,,,5,1000,pollen,10/16/2015,205,0.487804878
+11752,Runway Ruin,33.5375,-110.885,33.615,33.46,-110.84,-110.93,Vascular plants,Ephedra torreyana,1,NISP,pollen,,,,,,35,1000,pollen,10/16/2015,203,0.492610837
+11752,Runway Ruin,33.5375,-110.885,33.615,33.46,-110.84,-110.93,Vascular plants,Ephedra torreyana,1,NISP,pollen,,,,,,40,1000,pollen,10/16/2015,203,0.492610837
+11752,Runway Ruin,33.5375,-110.885,33.615,33.46,-110.84,-110.93,Vascular plants,Ephedra torreyana,1,NISP,pollen,,,,,,45,1000,pollen,10/16/2015,200,0.5
+11792,Peloncillo Mountains,32.28908333,-109.0941667,32.3165,32.26166667,-109.0733333,-109.115,Vascular plants,Ephedra torreyana,1,NISP,pollen,,,,,,4,1400,pollen,10/22/2015,743.8,0.134444743
+11792,Peloncillo Mountains,32.28908333,-109.0941667,32.3165,32.26166667,-109.0733333,-109.115,Vascular plants,Ephedra torreyana,1,NISP,pollen,,,,,,5,1400,pollen,10/22/2015,362,0.276243094
+11792,Peloncillo Mountains,32.28908333,-109.0941667,32.3165,32.26166667,-109.0733333,-109.115,Vascular plants,Ephedra torreyana,5,NISP,pollen,,,,,,6,1400,pollen,10/22/2015,461,1.084598698
+11792,Peloncillo Mountains,32.28908333,-109.0941667,32.3165,32.26166667,-109.0733333,-109.115,Vascular plants,Ephedra torreyana,1,NISP,pollen,,,,,,7,1400,pollen,10/22/2015,437.3,0.228675966
+11792,Peloncillo Mountains,32.28908333,-109.0941667,32.3165,32.26166667,-109.0733333,-109.115,Vascular plants,Ephedra torreyana,2,NISP,pollen,,,,,,12,1400,pollen,10/22/2015,843,0.237247924
+11792,Peloncillo Mountains,32.28908333,-109.0941667,32.3165,32.26166667,-109.0733333,-109.115,Vascular plants,Ephedra torreyana,1,NISP,pollen,,,,,,13,1400,pollen,10/22/2015,599,0.166944908
+11792,Peloncillo Mountains,32.28908333,-109.0941667,32.3165,32.26166667,-109.0733333,-109.115,Vascular plants,Ephedra torreyana,1,NISP,pollen,,,,,,15,1400,pollen,10/22/2015,412.9,0.242189392
+11792,Peloncillo Mountains,32.28908333,-109.0941667,32.3165,32.26166667,-109.0733333,-109.115,Vascular plants,Ephedra torreyana,1,NISP,pollen,,,,,,17,1400,pollen,10/22/2015,358,0.279329609
+11792,Peloncillo Mountains,32.28908333,-109.0941667,32.3165,32.26166667,-109.0733333,-109.115,Vascular plants,Ephedra torreyana,4,NISP,pollen,,,,,,20,1400,pollen,10/22/2015,358,1.117318436
+11792,Peloncillo Mountains,32.28908333,-109.0941667,32.3165,32.26166667,-109.0733333,-109.115,Vascular plants,Ephedra torreyana,1,NISP,pollen,,,,,,23,1400,pollen,10/22/2015,357.1,0.280033604
+11792,Peloncillo Mountains,32.28908333,-109.0941667,32.3165,32.26166667,-109.0733333,-109.115,Vascular plants,Ephedra torreyana,4,NISP,pollen,,,,,,29,1400,pollen,10/22/2015,376.9,1.061289467

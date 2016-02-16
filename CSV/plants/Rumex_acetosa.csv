@@ -1,262 +1,261 @@
 siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
-2993,Badentarbat,58.035833,-5.366111,58.035833,58.035833,-5.366111,-5.366111,Vascular plants,Rumex acetosa,1.0,NISP,pollen,,1536.0,,,Radiocarbon years BP,32.0,,pollen,6/30/2007,605.0,0.165289256198
-2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Rumex acetosa,1.0,NISP,pollen,,,,,,116.0,242.0,pollen,6/30/2007,542.0,0.184501845018
-2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Rumex acetosa,2.0,NISP,pollen,,,,,,120.0,242.0,pollen,6/30/2007,613.0,0.326264274062
-2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Rumex acetosa,3.0,NISP,pollen,,,,,,124.0,242.0,pollen,6/30/2007,945.0,0.31746031746
-2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Rumex acetosa,5.0,NISP,pollen,,,,,,128.0,242.0,pollen,6/30/2007,943.0,0.530222693531
-2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Rumex acetosa,5.0,NISP,pollen,,,,,,132.0,242.0,pollen,6/30/2007,761.0,0.65703022339
-2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Rumex acetosa,6.0,NISP,pollen,,,,,,136.0,242.0,pollen,6/30/2007,837.0,0.716845878136
-2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Rumex acetosa,10.0,NISP,pollen,,,,,,140.0,242.0,pollen,6/30/2007,788.0,1.26903553299
-2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Rumex acetosa,38.0,NISP,pollen,,,,,,144.0,242.0,pollen,6/30/2007,914.0,4.15754923414
-2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Rumex acetosa,56.0,NISP,pollen,,,,,,146.0,242.0,pollen,6/30/2007,933.0,6.00214362272
-2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Rumex acetosa,100.0,NISP,pollen,,,,,,148.0,242.0,pollen,6/30/2007,1947.0,5.13610683102
-2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Rumex acetosa,8.0,NISP,pollen,,,,,,152.0,242.0,pollen,6/30/2007,504.0,1.5873015873
-2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Rumex acetosa,4.0,NISP,pollen,,,,,,156.0,242.0,pollen,6/30/2007,462.0,0.865800865801
-2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Rumex acetosa,3.0,NISP,pollen,,,,,,168.0,242.0,pollen,6/30/2007,625.0,0.48
-2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Rumex acetosa,5.0,NISP,pollen,,,,,,172.0,242.0,pollen,6/30/2007,514.0,0.972762645914
-2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Rumex acetosa,14.0,NISP,pollen,,,,,,188.0,242.0,pollen,6/30/2007,599.0,2.33722871452
-2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Rumex acetosa,11.0,NISP,pollen,,,,,,196.0,242.0,pollen,6/30/2007,537.0,2.04841713222
-2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Rumex acetosa,3.0,NISP,pollen,,,,,,201.0,242.0,pollen,6/30/2007,522.0,0.574712643678
-2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Rumex acetosa,10.0,NISP,pollen,,,,,,203.0,242.0,pollen,6/30/2007,707.0,1.414427157
-2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Rumex acetosa,9.0,NISP,pollen,,,,,,204.0,242.0,pollen,6/30/2007,668.0,1.34730538922
-2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Rumex acetosa,22.0,NISP,pollen,,,,,,206.0,242.0,pollen,6/30/2007,720.0,3.05555555556
-2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Rumex acetosa,15.0,NISP,pollen,,,,,,208.0,242.0,pollen,6/30/2007,763.0,1.96592398427
-2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Rumex acetosa,13.0,NISP,pollen,,,,,,210.0,242.0,pollen,6/30/2007,728.0,1.78571428571
-2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Rumex acetosa,21.0,NISP,pollen,,,,,,212.0,242.0,pollen,6/30/2007,733.0,2.86493860846
-2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Rumex acetosa,43.0,NISP,pollen,,,,,,214.0,242.0,pollen,6/30/2007,744.0,5.77956989247
-2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Rumex acetosa,10.0,NISP,pollen,,,,,,215.0,242.0,pollen,6/30/2007,656.0,1.5243902439
-2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Rumex acetosa,10.0,NISP,pollen,,,,,,216.0,242.0,pollen,6/30/2007,681.0,1.4684287812
-2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Rumex acetosa,17.0,NISP,pollen,,,,,,218.0,242.0,pollen,6/30/2007,700.0,2.42857142857
-2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Rumex acetosa,47.0,NISP,pollen,,,,,,220.0,242.0,pollen,6/30/2007,765.0,6.14379084967
-2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Rumex acetosa,20.0,NISP,pollen,,,,,,222.0,242.0,pollen,6/30/2007,706.0,2.8328611898
-2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Rumex acetosa,70.0,NISP,pollen,,,,,,224.0,242.0,pollen,6/30/2007,767.0,9.12646675359
-2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Rumex acetosa,48.0,NISP,pollen,,,,,,226.0,242.0,pollen,6/30/2007,712.0,6.74157303371
-2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Rumex acetosa,106.0,NISP,pollen,,,,,,228.0,242.0,pollen,6/30/2007,671.0,15.7973174367
-2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Rumex acetosa,67.0,NISP,pollen,,,,,,230.0,242.0,pollen,6/30/2007,716.0,9.35754189944
-2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Rumex acetosa,61.0,NISP,pollen,,,,,,232.0,242.0,pollen,6/30/2007,622.0,9.80707395498
-2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Rumex acetosa,80.0,NISP,pollen,,,,,,236.0,242.0,pollen,6/30/2007,697.0,11.4777618364
-3024,Black Loch,56.320833,-3.194722,56.320833,56.320833,-3.194722,-3.194722,Vascular plants,Rumex acetosa,10.0,NISP,pollen,,6200.0,,,Radiocarbon years BP,560.0,90.0,pollen,6/30/2007,486.0,2.05761316872
-3024,Black Loch,56.320833,-3.194722,56.320833,56.320833,-3.194722,-3.194722,Vascular plants,Rumex acetosa,22.0,NISP,pollen,,6346.0,,,Radiocarbon years BP,568.0,90.0,pollen,6/30/2007,508.0,4.33070866142
-3024,Black Loch,56.320833,-3.194722,56.320833,56.320833,-3.194722,-3.194722,Vascular plants,Rumex acetosa,17.0,NISP,pollen,,6400.0,,,Radiocarbon years BP,571.0,90.0,pollen,6/30/2007,471.0,3.6093418259
-3031,Loch Borralan,58.044167,-4.999167,58.044167,58.044167,-4.999167,-4.999167,Vascular plants,Rumex acetosa,3.0,NISP,pollen,,,,,,167.0,139.0,pollen,6/30/2007,100.0,3.0
-3031,Loch Borralan,58.044167,-4.999167,58.044167,58.044167,-4.999167,-4.999167,Vascular plants,Rumex acetosa,3.0,NISP,pollen,,,,,,171.0,139.0,pollen,6/30/2007,151.0,1.98675496689
-3031,Loch Borralan,58.044167,-4.999167,58.044167,58.044167,-4.999167,-4.999167,Vascular plants,Rumex acetosa,17.0,NISP,pollen,,,,,,175.0,139.0,pollen,6/30/2007,150.0,11.3333333333
-3031,Loch Borralan,58.044167,-4.999167,58.044167,58.044167,-4.999167,-4.999167,Vascular plants,Rumex acetosa,27.0,NISP,pollen,,,,,,179.0,139.0,pollen,6/30/2007,151.0,17.880794702
-3031,Loch Borralan,58.044167,-4.999167,58.044167,58.044167,-4.999167,-4.999167,Vascular plants,Rumex acetosa,8.0,NISP,pollen,,,,,,183.0,139.0,pollen,6/30/2007,102.0,7.8431372549
-3031,Loch Borralan,58.044167,-4.999167,58.044167,58.044167,-4.999167,-4.999167,Vascular plants,Rumex acetosa,12.0,NISP,pollen,,,,,,185.0,139.0,pollen,6/30/2007,161.0,7.45341614907
-3031,Loch Borralan,58.044167,-4.999167,58.044167,58.044167,-4.999167,-4.999167,Vascular plants,Rumex acetosa,18.0,NISP,pollen,,,,,,189.0,139.0,pollen,6/30/2007,154.0,11.6883116883
-3031,Loch Borralan,58.044167,-4.999167,58.044167,58.044167,-4.999167,-4.999167,Vascular plants,Rumex acetosa,9.0,NISP,pollen,,,,,,191.0,139.0,pollen,6/30/2007,152.0,5.92105263158
-3031,Loch Borralan,58.044167,-4.999167,58.044167,58.044167,-4.999167,-4.999167,Vascular plants,Rumex acetosa,15.0,NISP,pollen,,,,,,197.0,139.0,pollen,6/30/2007,151.0,9.93377483444
-3031,Loch Borralan,58.044167,-4.999167,58.044167,58.044167,-4.999167,-4.999167,Vascular plants,Rumex acetosa,19.0,NISP,pollen,,,,,,199.0,139.0,pollen,6/30/2007,150.0,12.6666666667
-3031,Loch Borralan,58.044167,-4.999167,58.044167,58.044167,-4.999167,-4.999167,Vascular plants,Rumex acetosa,20.0,NISP,pollen,,,,,,201.0,139.0,pollen,6/30/2007,101.0,19.801980198
-3031,Loch Borralan,58.044167,-4.999167,58.044167,58.044167,-4.999167,-4.999167,Vascular plants,Rumex acetosa,27.0,NISP,pollen,,,,,,239.0,139.0,pollen,6/30/2007,102.0,26.4705882353
-3031,Loch Borralan,58.044167,-4.999167,58.044167,58.044167,-4.999167,-4.999167,Vascular plants,Rumex acetosa,1.0,NISP,pollen,,,,,,20.0,139.0,pollen,6/30/2007,486.0,0.205761316872
-3031,Loch Borralan,58.044167,-4.999167,58.044167,58.044167,-4.999167,-4.999167,Vascular plants,Rumex acetosa,1.0,NISP,pollen,,,,,,151.0,139.0,pollen,6/30/2007,233.0,0.429184549356
-3031,Loch Borralan,58.044167,-4.999167,58.044167,58.044167,-4.999167,-4.999167,Vascular plants,Rumex acetosa,5.0,NISP,pollen,,,,,,157.0,139.0,pollen,6/30/2007,231.0,2.1645021645
-3031,Loch Borralan,58.044167,-4.999167,58.044167,58.044167,-4.999167,-4.999167,Vascular plants,Rumex acetosa,7.0,NISP,pollen,,,,,,162.0,139.0,pollen,6/30/2007,285.0,2.45614035088
-3037,Ballyscullion East,54.8,-6.433333,54.8,54.8,-6.433333,-6.433333,Vascular plants,Rumex acetosa,1.0,NISP,pollen,,,,,,26.0,50.0,pollen,6/30/2007,493.0,0.202839756592
-3037,Ballyscullion East,54.8,-6.433333,54.8,54.8,-6.433333,-6.433333,Vascular plants,Rumex acetosa,2.0,NISP,pollen,,,,,,36.0,50.0,pollen,6/30/2007,578.0,0.346020761246
-3037,Ballyscullion East,54.8,-6.433333,54.8,54.8,-6.433333,-6.433333,Vascular plants,Rumex acetosa,1.0,NISP,pollen,,,,,,38.0,50.0,pollen,6/30/2007,467.0,0.214132762313
-3037,Ballyscullion East,54.8,-6.433333,54.8,54.8,-6.433333,-6.433333,Vascular plants,Rumex acetosa,1.0,NISP,pollen,,,,,,44.0,50.0,pollen,6/30/2007,494.0,0.202429149798
-3037,Ballyscullion East,54.8,-6.433333,54.8,54.8,-6.433333,-6.433333,Vascular plants,Rumex acetosa,2.0,NISP,pollen,,,,,,46.0,50.0,pollen,6/30/2007,480.0,0.416666666667
-3037,Ballyscullion East,54.8,-6.433333,54.8,54.8,-6.433333,-6.433333,Vascular plants,Rumex acetosa,2.0,NISP,pollen,,,,,,50.0,50.0,pollen,6/30/2007,496.0,0.403225806452
-3037,Ballyscullion East,54.8,-6.433333,54.8,54.8,-6.433333,-6.433333,Vascular plants,Rumex acetosa,2.0,NISP,pollen,,,,,,51.0,50.0,pollen,6/30/2007,497.0,0.402414486922
-3037,Ballyscullion East,54.8,-6.433333,54.8,54.8,-6.433333,-6.433333,Vascular plants,Rumex acetosa,1.0,NISP,pollen,,,,,,53.0,50.0,pollen,6/30/2007,494.0,0.202429149798
-3037,Ballyscullion East,54.8,-6.433333,54.8,54.8,-6.433333,-6.433333,Vascular plants,Rumex acetosa,3.0,NISP,pollen,,,,,,55.0,50.0,pollen,6/30/2007,686.0,0.437317784257
-3037,Ballyscullion East,54.8,-6.433333,54.8,54.8,-6.433333,-6.433333,Vascular plants,Rumex acetosa,2.0,NISP,pollen,,,,,,56.0,50.0,pollen,6/30/2007,694.0,0.28818443804
-3037,Ballyscullion East,54.8,-6.433333,54.8,54.8,-6.433333,-6.433333,Vascular plants,Rumex acetosa,3.0,NISP,pollen,,,,,,57.0,50.0,pollen,6/30/2007,702.0,0.42735042735
-3037,Ballyscullion East,54.8,-6.433333,54.8,54.8,-6.433333,-6.433333,Vascular plants,Rumex acetosa,7.0,NISP,pollen,,,,,,58.0,50.0,pollen,6/30/2007,685.0,1.02189781022
-3037,Ballyscullion East,54.8,-6.433333,54.8,54.8,-6.433333,-6.433333,Vascular plants,Rumex acetosa,2.0,NISP,pollen,,,,,,59.0,50.0,pollen,6/30/2007,489.0,0.40899795501
-3037,Ballyscullion East,54.8,-6.433333,54.8,54.8,-6.433333,-6.433333,Vascular plants,Rumex acetosa,1.0,NISP,pollen,,,,,,60.0,50.0,pollen,6/30/2007,497.0,0.201207243461
-3037,Ballyscullion East,54.8,-6.433333,54.8,54.8,-6.433333,-6.433333,Vascular plants,Rumex acetosa,1.0,NISP,pollen,,,,,,61.0,50.0,pollen,6/30/2007,489.0,0.204498977505
-3037,Ballyscullion East,54.8,-6.433333,54.8,54.8,-6.433333,-6.433333,Vascular plants,Rumex acetosa,1.0,NISP,pollen,,,,,,62.0,50.0,pollen,6/30/2007,491.0,0.20366598778
-3037,Ballyscullion East,54.8,-6.433333,54.8,54.8,-6.433333,-6.433333,Vascular plants,Rumex acetosa,3.0,NISP,pollen,,,,,,63.0,50.0,pollen,6/30/2007,491.0,0.61099796334
-3037,Ballyscullion East,54.8,-6.433333,54.8,54.8,-6.433333,-6.433333,Vascular plants,Rumex acetosa,1.0,NISP,pollen,,,,,,64.0,50.0,pollen,6/30/2007,491.0,0.20366598778
-3037,Ballyscullion East,54.8,-6.433333,54.8,54.8,-6.433333,-6.433333,Vascular plants,Rumex acetosa,2.0,NISP,pollen,,,,,,70.0,50.0,pollen,6/30/2007,493.0,0.405679513185
-3037,Ballyscullion East,54.8,-6.433333,54.8,54.8,-6.433333,-6.433333,Vascular plants,Rumex acetosa,1.0,NISP,pollen,,,,,,78.0,50.0,pollen,6/30/2007,506.0,0.197628458498
-3037,Ballyscullion East,54.8,-6.433333,54.8,54.8,-6.433333,-6.433333,Vascular plants,Rumex acetosa,2.0,NISP,pollen,,,,,,80.0,50.0,pollen,6/30/2007,440.0,0.454545454545
-3037,Ballyscullion East,54.8,-6.433333,54.8,54.8,-6.433333,-6.433333,Vascular plants,Rumex acetosa,3.0,NISP,pollen,,,,,,84.0,50.0,pollen,6/30/2007,537.0,0.558659217877
-3037,Ballyscullion East,54.8,-6.433333,54.8,54.8,-6.433333,-6.433333,Vascular plants,Rumex acetosa,1.0,NISP,pollen,,,,,,88.0,50.0,pollen,6/30/2007,459.0,0.217864923747
-3037,Ballyscullion East,54.8,-6.433333,54.8,54.8,-6.433333,-6.433333,Vascular plants,Rumex acetosa,1.0,NISP,pollen,,,,,,92.0,50.0,pollen,6/30/2007,492.0,0.20325203252
-3043,Cam Loch,58.083333,-5.0,58.083333,58.083333,-5.0,-5.0,Vascular plants,Rumex acetosa,1.0,NISP,pollen,,2375.0,,,Radiocarbon years BP,200.0,130.0,pollen,6/30/2007,200.0,0.5
-3043,Cam Loch,58.083333,-5.0,58.083333,58.083333,-5.0,-5.0,Vascular plants,Rumex acetosa,1.0,NISP,pollen,,4800.0,,,Radiocarbon years BP,360.0,130.0,pollen,6/30/2007,202.0,0.49504950495
-3043,Cam Loch,58.083333,-5.0,58.083333,58.083333,-5.0,-5.0,Vascular plants,Rumex acetosa,1.0,NISP,pollen,,6050.0,,,Radiocarbon years BP,410.0,130.0,pollen,6/30/2007,200.0,0.5
-3043,Cam Loch,58.083333,-5.0,58.083333,58.083333,-5.0,-5.0,Vascular plants,Rumex acetosa,1.0,NISP,pollen,,6800.0,,,Radiocarbon years BP,440.0,130.0,pollen,6/30/2007,203.0,0.492610837438
-3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Rumex acetosa,1.0,NISP,pollen,,,,,,345.0,20.0,pollen,6/30/2007,486.0,0.205761316872
-3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Rumex acetosa,2.0,NISP,pollen,,,,,,355.0,20.0,pollen,6/30/2007,600.0,0.333333333333
-3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Rumex acetosa,3.0,NISP,pollen,,,,,,365.0,20.0,pollen,6/30/2007,651.0,0.460829493088
-3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Rumex acetosa,2.0,NISP,pollen,,,,,,375.0,20.0,pollen,6/30/2007,463.0,0.431965442765
-3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Rumex acetosa,1.0,NISP,pollen,,,,,,385.0,20.0,pollen,6/30/2007,741.0,0.134952766532
-3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Rumex acetosa,4.0,NISP,pollen,,,,,,395.0,20.0,pollen,6/30/2007,486.0,0.82304526749
-3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Rumex acetosa,1.0,NISP,pollen,,,,,,400.0,20.0,pollen,6/30/2007,409.0,0.244498777506
-3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Rumex acetosa,2.0,NISP,pollen,,,,,,405.0,20.0,pollen,6/30/2007,175.0,1.14285714286
-3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Rumex acetosa,9.0,NISP,pollen,,,,,,410.0,20.0,pollen,6/30/2007,396.0,2.27272727273
-3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Rumex acetosa,2.0,NISP,pollen,,,,,,415.0,20.0,pollen,6/30/2007,191.0,1.04712041885
-3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Rumex acetosa,2.0,NISP,pollen,,,,,,420.0,20.0,pollen,6/30/2007,254.0,0.787401574803
-3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Rumex acetosa,1.0,NISP,pollen,,,,,,425.0,20.0,pollen,6/30/2007,184.0,0.54347826087
-3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Rumex acetosa,1.0,NISP,pollen,,,,,,430.0,20.0,pollen,6/30/2007,174.0,0.574712643678
-3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Rumex acetosa,4.0,NISP,pollen,,,,,,435.0,20.0,pollen,6/30/2007,143.0,2.7972027972
-3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Rumex acetosa,11.0,NISP,pollen,,,,,,440.0,20.0,pollen,6/30/2007,324.0,3.3950617284
-3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Rumex acetosa,6.0,NISP,pollen,,,,,,445.0,20.0,pollen,6/30/2007,135.0,4.44444444444
-3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Rumex acetosa,3.0,NISP,pollen,,,,,,450.0,20.0,pollen,6/30/2007,125.0,2.4
-3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Rumex acetosa,1.0,NISP,pollen,,,,,,455.0,20.0,pollen,6/30/2007,96.0,1.04166666667
-3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Rumex acetosa,4.0,NISP,pollen,,,,,,465.0,20.0,pollen,6/30/2007,99.0,4.0404040404
-3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Rumex acetosa,6.0,NISP,pollen,,,,,,470.0,20.0,pollen,6/30/2007,404.0,1.48514851485
-3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Rumex acetosa,19.0,NISP,pollen,,,,,,475.0,20.0,pollen,6/30/2007,272.0,6.98529411765
-3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Rumex acetosa,2.0,NISP,pollen,,,,,,480.0,20.0,pollen,6/30/2007,192.0,1.04166666667
-3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Rumex acetosa,3.0,NISP,pollen,,,,,,485.0,20.0,pollen,6/30/2007,173.0,1.73410404624
-3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Rumex acetosa,4.0,NISP,pollen,,,,,,490.0,20.0,pollen,6/30/2007,212.0,1.88679245283
-3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Rumex acetosa,6.0,NISP,pollen,,,,,,495.0,20.0,pollen,6/30/2007,112.0,5.35714285714
-3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Rumex acetosa,1.0,NISP,pollen,,,,,,500.0,20.0,pollen,6/30/2007,157.0,0.636942675159
-3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Rumex acetosa,1.0,NISP,pollen,,,,,,520.0,20.0,pollen,6/30/2007,10.0,10.0
-3069,Loch Craggie,58.002778,-4.843333,58.002778,58.002778,-4.843333,-4.843333,Vascular plants,Rumex acetosa,1.0,NISP,pollen,,3288.0,,,Radiocarbon years BP,190.0,154.0,pollen,6/30/2007,224.0,0.446428571429
-3069,Loch Craggie,58.002778,-4.843333,58.002778,58.002778,-4.843333,-4.843333,Vascular plants,Rumex acetosa,2.0,NISP,pollen,,4327.0,,,Radiocarbon years BP,250.0,154.0,pollen,6/30/2007,246.0,0.813008130081
-3069,Loch Craggie,58.002778,-4.843333,58.002778,58.002778,-4.843333,-4.843333,Vascular plants,Rumex acetosa,1.0,NISP,pollen,,5464.0,,,Radiocarbon years BP,305.0,154.0,pollen,6/30/2007,191.0,0.523560209424
-3069,Loch Craggie,58.002778,-4.843333,58.002778,58.002778,-4.843333,-4.843333,Vascular plants,Rumex acetosa,1.0,NISP,pollen,,9200.0,,,Radiocarbon years BP,362.0,154.0,pollen,6/30/2007,233.0,0.429184549356
-3069,Loch Craggie,58.002778,-4.843333,58.002778,58.002778,-4.843333,-4.843333,Vascular plants,Rumex acetosa,1.0,NISP,pollen,,9500.0,,,Radiocarbon years BP,365.0,154.0,pollen,6/30/2007,316.0,0.316455696203
-3069,Loch Craggie,58.002778,-4.843333,58.002778,58.002778,-4.843333,-4.843333,Vascular plants,Rumex acetosa,9.0,NISP,pollen,,9600.0,,,Radiocarbon years BP,366.0,154.0,pollen,6/30/2007,154.0,5.84415584416
-3069,Loch Craggie,58.002778,-4.843333,58.002778,58.002778,-4.843333,-4.843333,Vascular plants,Rumex acetosa,24.0,NISP,pollen,,9650.0,,,Radiocarbon years BP,366.5,154.0,pollen,6/30/2007,155.0,15.4838709677
-3069,Loch Craggie,58.002778,-4.843333,58.002778,58.002778,-4.843333,-4.843333,Vascular plants,Rumex acetosa,21.0,NISP,pollen,,9700.0,,,Radiocarbon years BP,367.0,154.0,pollen,6/30/2007,148.0,14.1891891892
-3069,Loch Craggie,58.002778,-4.843333,58.002778,58.002778,-4.843333,-4.843333,Vascular plants,Rumex acetosa,12.0,NISP,pollen,,9750.0,,,Radiocarbon years BP,367.5,154.0,pollen,6/30/2007,158.0,7.59493670886
-3069,Loch Craggie,58.002778,-4.843333,58.002778,58.002778,-4.843333,-4.843333,Vascular plants,Rumex acetosa,20.0,NISP,pollen,,9800.0,,,Radiocarbon years BP,368.0,154.0,pollen,6/30/2007,154.0,12.987012987
-3069,Loch Craggie,58.002778,-4.843333,58.002778,58.002778,-4.843333,-4.843333,Vascular plants,Rumex acetosa,19.0,NISP,pollen,,9850.0,,,Radiocarbon years BP,368.5,154.0,pollen,6/30/2007,156.0,12.1794871795
-3069,Loch Craggie,58.002778,-4.843333,58.002778,58.002778,-4.843333,-4.843333,Vascular plants,Rumex acetosa,32.0,NISP,pollen,,9900.0,,,Radiocarbon years BP,369.0,154.0,pollen,6/30/2007,162.0,19.7530864198
-3069,Loch Craggie,58.002778,-4.843333,58.002778,58.002778,-4.843333,-4.843333,Vascular plants,Rumex acetosa,32.0,NISP,pollen,,9950.0,,,Radiocarbon years BP,369.5,154.0,pollen,6/30/2007,162.0,19.7530864198
-3069,Loch Craggie,58.002778,-4.843333,58.002778,58.002778,-4.843333,-4.843333,Vascular plants,Rumex acetosa,30.0,NISP,pollen,,10000.0,,,Radiocarbon years BP,370.0,154.0,pollen,6/30/2007,160.5,18.691588785
-3069,Loch Craggie,58.002778,-4.843333,58.002778,58.002778,-4.843333,-4.843333,Vascular plants,Rumex acetosa,27.0,NISP,pollen,,10050.0,,,Radiocarbon years BP,370.5,154.0,pollen,6/30/2007,157.0,17.1974522293
-3069,Loch Craggie,58.002778,-4.843333,58.002778,58.002778,-4.843333,-4.843333,Vascular plants,Rumex acetosa,17.0,NISP,pollen,,10100.0,,,Radiocarbon years BP,371.0,154.0,pollen,6/30/2007,152.0,11.1842105263
-3069,Loch Craggie,58.002778,-4.843333,58.002778,58.002778,-4.843333,-4.843333,Vascular plants,Rumex acetosa,6.0,NISP,pollen,,10150.0,,,Radiocarbon years BP,371.5,154.0,pollen,6/30/2007,101.0,5.94059405941
-3069,Loch Craggie,58.002778,-4.843333,58.002778,58.002778,-4.843333,-4.843333,Vascular plants,Rumex acetosa,9.0,NISP,pollen,,10200.0,,,Radiocarbon years BP,372.0,154.0,pollen,6/30/2007,100.0,9.0
-3069,Loch Craggie,58.002778,-4.843333,58.002778,58.002778,-4.843333,-4.843333,Vascular plants,Rumex acetosa,5.0,NISP,pollen,,10250.0,,,Radiocarbon years BP,372.5,154.0,pollen,6/30/2007,152.0,3.28947368421
-3069,Loch Craggie,58.002778,-4.843333,58.002778,58.002778,-4.843333,-4.843333,Vascular plants,Rumex acetosa,7.0,NISP,pollen,,10300.0,,,Radiocarbon years BP,373.0,154.0,pollen,6/30/2007,150.0,4.66666666667
-3069,Loch Craggie,58.002778,-4.843333,58.002778,58.002778,-4.843333,-4.843333,Vascular plants,Rumex acetosa,5.0,NISP,pollen,,10400.0,,,Radiocarbon years BP,374.0,154.0,pollen,6/30/2007,100.0,5.0
-3069,Loch Craggie,58.002778,-4.843333,58.002778,58.002778,-4.843333,-4.843333,Vascular plants,Rumex acetosa,15.0,NISP,pollen,,10500.0,,,Radiocarbon years BP,375.0,154.0,pollen,6/30/2007,150.0,10.0
-3069,Loch Craggie,58.002778,-4.843333,58.002778,58.002778,-4.843333,-4.843333,Vascular plants,Rumex acetosa,9.0,NISP,pollen,,10600.0,,,Radiocarbon years BP,376.0,154.0,pollen,6/30/2007,151.0,5.96026490066
-3069,Loch Craggie,58.002778,-4.843333,58.002778,58.002778,-4.843333,-4.843333,Vascular plants,Rumex acetosa,8.0,NISP,pollen,,10900.0,,,Radiocarbon years BP,379.0,154.0,pollen,6/30/2007,101.0,7.92079207921
-3069,Loch Craggie,58.002778,-4.843333,58.002778,58.002778,-4.843333,-4.843333,Vascular plants,Rumex acetosa,5.0,NISP,pollen,,10950.0,,,Radiocarbon years BP,379.5,154.0,pollen,6/30/2007,100.0,5.0
-3069,Loch Craggie,58.002778,-4.843333,58.002778,58.002778,-4.843333,-4.843333,Vascular plants,Rumex acetosa,13.0,NISP,pollen,,11000.0,,,Radiocarbon years BP,380.0,154.0,pollen,6/30/2007,100.0,13.0
-3069,Loch Craggie,58.002778,-4.843333,58.002778,58.002778,-4.843333,-4.843333,Vascular plants,Rumex acetosa,11.0,NISP,pollen,,11100.0,,,Radiocarbon years BP,381.0,154.0,pollen,6/30/2007,150.0,7.33333333333
-3069,Loch Craggie,58.002778,-4.843333,58.002778,58.002778,-4.843333,-4.843333,Vascular plants,Rumex acetosa,12.0,NISP,pollen,,11150.0,,,Radiocarbon years BP,381.5,154.0,pollen,6/30/2007,150.0,8.0
-3069,Loch Craggie,58.002778,-4.843333,58.002778,58.002778,-4.843333,-4.843333,Vascular plants,Rumex acetosa,20.0,NISP,pollen,,11200.0,,,Radiocarbon years BP,382.0,154.0,pollen,6/30/2007,151.0,13.2450331126
-3069,Loch Craggie,58.002778,-4.843333,58.002778,58.002778,-4.843333,-4.843333,Vascular plants,Rumex acetosa,8.0,NISP,pollen,,11300.0,,,Radiocarbon years BP,383.0,154.0,pollen,6/30/2007,150.0,5.33333333333
-3069,Loch Craggie,58.002778,-4.843333,58.002778,58.002778,-4.843333,-4.843333,Vascular plants,Rumex acetosa,10.0,NISP,pollen,,11350.0,,,Radiocarbon years BP,383.5,154.0,pollen,6/30/2007,152.0,6.57894736842
-3069,Loch Craggie,58.002778,-4.843333,58.002778,58.002778,-4.843333,-4.843333,Vascular plants,Rumex acetosa,21.0,NISP,pollen,,11400.0,,,Radiocarbon years BP,384.0,154.0,pollen,6/30/2007,150.0,14.0
-3069,Loch Craggie,58.002778,-4.843333,58.002778,58.002778,-4.843333,-4.843333,Vascular plants,Rumex acetosa,15.0,NISP,pollen,,11450.0,,,Radiocarbon years BP,384.5,154.0,pollen,6/30/2007,150.0,10.0
-3069,Loch Craggie,58.002778,-4.843333,58.002778,58.002778,-4.843333,-4.843333,Vascular plants,Rumex acetosa,13.0,NISP,pollen,,11500.0,,,Radiocarbon years BP,385.0,154.0,pollen,6/30/2007,150.0,8.66666666667
-3069,Loch Craggie,58.002778,-4.843333,58.002778,58.002778,-4.843333,-4.843333,Vascular plants,Rumex acetosa,27.0,NISP,pollen,,11550.0,,,Radiocarbon years BP,385.5,154.0,pollen,6/30/2007,151.0,17.880794702
-3069,Loch Craggie,58.002778,-4.843333,58.002778,58.002778,-4.843333,-4.843333,Vascular plants,Rumex acetosa,16.0,NISP,pollen,,11600.0,,,Radiocarbon years BP,386.0,154.0,pollen,6/30/2007,100.0,16.0
-3069,Loch Craggie,58.002778,-4.843333,58.002778,58.002778,-4.843333,-4.843333,Vascular plants,Rumex acetosa,21.0,NISP,pollen,,11650.0,,,Radiocarbon years BP,386.5,154.0,pollen,6/30/2007,100.0,21.0
-3069,Loch Craggie,58.002778,-4.843333,58.002778,58.002778,-4.843333,-4.843333,Vascular plants,Rumex acetosa,6.0,NISP,pollen,,11700.0,,,Radiocarbon years BP,387.0,154.0,pollen,6/30/2007,99.0,6.06060606061
-3069,Loch Craggie,58.002778,-4.843333,58.002778,58.002778,-4.843333,-4.843333,Vascular plants,Rumex acetosa,8.0,NISP,pollen,,11800.0,,,Radiocarbon years BP,388.0,154.0,pollen,6/30/2007,100.0,8.0
-3074,Culhorn Mains,54.891667,-4.983333,54.891667,54.891667,-4.983333,-4.983333,Vascular plants,Rumex acetosa,9.0,NISP,pollen,,,,,,660.0,17.0,pollen,6/30/2007,336.0,2.67857142857
-3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,1.0,NISP,pollen,,7219.0,,,Radiocarbon years BP,420.0,135.0,pollen,6/30/2007,223.0,0.448430493274
-3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,3.0,NISP,pollen,,7331.0,,,Radiocarbon years BP,430.0,135.0,pollen,6/30/2007,213.0,1.40845070423
-3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,5.0,NISP,pollen,,7444.0,,,Radiocarbon years BP,440.0,135.0,pollen,6/30/2007,327.0,1.52905198777
-3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,4.0,NISP,pollen,,7556.0,,,Radiocarbon years BP,450.0,135.0,pollen,6/30/2007,229.0,1.74672489083
-3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,10.0,NISP,pollen,,7669.0,,,Radiocarbon years BP,460.0,135.0,pollen,6/30/2007,340.0,2.94117647059
-3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,7.0,NISP,pollen,,7725.0,,,Radiocarbon years BP,465.0,135.0,pollen,6/30/2007,205.0,3.41463414634
-3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,13.0,NISP,pollen,,7781.0,,,Radiocarbon years BP,470.0,135.0,pollen,6/30/2007,210.0,6.19047619048
-3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,8.0,NISP,pollen,,7837.0,,,Radiocarbon years BP,475.0,135.0,pollen,6/30/2007,216.0,3.7037037037
-3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,11.0,NISP,pollen,,7893.0,,,Radiocarbon years BP,480.0,135.0,pollen,6/30/2007,275.0,4.0
-3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,6.0,NISP,pollen,,7949.0,,,Radiocarbon years BP,485.0,135.0,pollen,6/30/2007,219.0,2.7397260274
-3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,9.0,NISP,pollen,,8006.0,,,Radiocarbon years BP,490.0,135.0,pollen,6/30/2007,267.0,3.37078651685
-3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,9.0,NISP,pollen,,8062.0,,,Radiocarbon years BP,495.0,135.0,pollen,6/30/2007,257.0,3.50194552529
-3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,9.0,NISP,pollen,,8118.0,,,Radiocarbon years BP,500.0,135.0,pollen,6/30/2007,201.0,4.4776119403
-3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,12.0,NISP,pollen,,8174.0,,,Radiocarbon years BP,505.0,135.0,pollen,6/30/2007,210.0,5.71428571429
-3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,12.0,NISP,pollen,,8230.0,,,Radiocarbon years BP,510.0,135.0,pollen,6/30/2007,220.0,5.45454545455
-3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,9.0,NISP,pollen,,8287.0,,,Radiocarbon years BP,515.0,135.0,pollen,6/30/2007,318.0,2.83018867925
-3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,9.0,NISP,pollen,,8343.0,,,Radiocarbon years BP,520.0,135.0,pollen,6/30/2007,226.0,3.98230088496
-3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,10.0,NISP,pollen,,8399.0,,,Radiocarbon years BP,525.0,135.0,pollen,6/30/2007,285.0,3.50877192982
-3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,9.0,NISP,pollen,,8455.0,,,Radiocarbon years BP,530.0,135.0,pollen,6/30/2007,290.0,3.10344827586
-3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,11.0,NISP,pollen,,8511.0,,,Radiocarbon years BP,535.0,135.0,pollen,6/30/2007,298.0,3.69127516779
-3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,11.0,NISP,pollen,,8567.0,,,Radiocarbon years BP,540.0,135.0,pollen,6/30/2007,230.0,4.78260869565
-3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,13.0,NISP,pollen,,8624.0,,,Radiocarbon years BP,545.0,135.0,pollen,6/30/2007,304.0,4.27631578947
-3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,17.0,NISP,pollen,,8680.0,,,Radiocarbon years BP,550.0,135.0,pollen,6/30/2007,220.0,7.72727272727
-3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,9.0,NISP,pollen,,8736.0,,,Radiocarbon years BP,555.0,135.0,pollen,6/30/2007,213.0,4.22535211268
-3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,10.0,NISP,pollen,,8792.0,,,Radiocarbon years BP,560.0,135.0,pollen,6/30/2007,222.0,4.5045045045
-3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,14.0,NISP,pollen,,8848.0,,,Radiocarbon years BP,565.0,135.0,pollen,6/30/2007,350.0,4.0
-3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,9.0,NISP,pollen,,8904.0,,,Radiocarbon years BP,570.0,135.0,pollen,6/30/2007,165.0,5.45454545455
-3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,12.0,NISP,pollen,,8961.0,,,Radiocarbon years BP,575.0,135.0,pollen,6/30/2007,231.0,5.19480519481
-3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,10.0,NISP,pollen,,9017.0,,,Radiocarbon years BP,580.0,135.0,pollen,6/30/2007,147.0,6.80272108844
-3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,6.0,NISP,pollen,,9073.0,,,Radiocarbon years BP,585.0,135.0,pollen,6/30/2007,103.0,5.82524271845
-3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,6.0,NISP,pollen,,9129.0,,,Radiocarbon years BP,590.0,135.0,pollen,6/30/2007,106.0,5.66037735849
-3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,6.0,NISP,pollen,,9185.0,,,Radiocarbon years BP,595.0,135.0,pollen,6/30/2007,112.0,5.35714285714
-3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,9.0,NISP,pollen,,9242.0,,,Radiocarbon years BP,600.0,135.0,pollen,6/30/2007,252.0,3.57142857143
-3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,5.0,NISP,pollen,,9298.0,,,Radiocarbon years BP,605.0,135.0,pollen,6/30/2007,89.0,5.61797752809
-3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,8.0,NISP,pollen,,9354.0,,,Radiocarbon years BP,610.0,135.0,pollen,6/30/2007,164.0,4.87804878049
-3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,4.0,NISP,pollen,,9410.0,,,Radiocarbon years BP,615.0,135.0,pollen,6/30/2007,86.0,4.6511627907
-3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,8.0,NISP,pollen,,9466.0,,,Radiocarbon years BP,620.0,135.0,pollen,6/30/2007,273.0,2.9304029304
-3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,3.0,NISP,pollen,,9522.0,,,Radiocarbon years BP,625.0,135.0,pollen,6/30/2007,107.0,2.80373831776
-3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,1.0,NISP,pollen,,9579.0,,,Radiocarbon years BP,630.0,135.0,pollen,6/30/2007,82.0,1.21951219512
-3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,2.0,NISP,pollen,,9635.0,,,Radiocarbon years BP,635.0,135.0,pollen,6/30/2007,114.0,1.75438596491
-3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,3.0,NISP,pollen,,9691.0,,,Radiocarbon years BP,640.0,135.0,pollen,6/30/2007,128.0,2.34375
-3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,4.0,NISP,pollen,,9747.0,,,Radiocarbon years BP,645.0,135.0,pollen,6/30/2007,123.0,3.25203252033
-3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,5.0,NISP,pollen,,9803.0,,,Radiocarbon years BP,650.0,135.0,pollen,6/30/2007,220.0,2.27272727273
-3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,1.0,NISP,pollen,,9860.0,,,Radiocarbon years BP,655.0,135.0,pollen,6/30/2007,63.0,1.5873015873
-3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,3.0,NISP,pollen,,9916.0,,,Radiocarbon years BP,660.0,135.0,pollen,6/30/2007,167.0,1.79640718563
-3101,The Mire [Fallahogy],54.9,-6.6,54.9,54.9,-6.6,-6.6,Vascular plants,Rumex acetosa,1.0,NISP,pollen,,,,,,4.0,46.0,pollen,6/30/2007,491.0,0.20366598778
-3101,The Mire [Fallahogy],54.9,-6.6,54.9,54.9,-6.6,-6.6,Vascular plants,Rumex acetosa,6.0,NISP,pollen,,,,,,5.0,46.0,pollen,6/30/2007,797.0,0.752823086575
-3101,The Mire [Fallahogy],54.9,-6.6,54.9,54.9,-6.6,-6.6,Vascular plants,Rumex acetosa,3.0,NISP,pollen,,,,,,6.0,46.0,pollen,6/30/2007,763.0,0.393184796855
-3101,The Mire [Fallahogy],54.9,-6.6,54.9,54.9,-6.6,-6.6,Vascular plants,Rumex acetosa,1.0,NISP,pollen,,,,,,7.0,46.0,pollen,6/30/2007,795.0,0.125786163522
-3101,The Mire [Fallahogy],54.9,-6.6,54.9,54.9,-6.6,-6.6,Vascular plants,Rumex acetosa,8.0,NISP,pollen,,,,,,8.0,46.0,pollen,6/30/2007,497.0,1.60965794769
-3101,The Mire [Fallahogy],54.9,-6.6,54.9,54.9,-6.6,-6.6,Vascular plants,Rumex acetosa,6.0,NISP,pollen,,,,,,9.0,46.0,pollen,6/30/2007,763.0,0.786369593709
-3101,The Mire [Fallahogy],54.9,-6.6,54.9,54.9,-6.6,-6.6,Vascular plants,Rumex acetosa,7.0,NISP,pollen,,,,,,10.0,46.0,pollen,6/30/2007,794.0,0.88161209068
-3101,The Mire [Fallahogy],54.9,-6.6,54.9,54.9,-6.6,-6.6,Vascular plants,Rumex acetosa,3.0,NISP,pollen,,,,,,11.0,46.0,pollen,6/30/2007,756.0,0.396825396825
-3101,The Mire [Fallahogy],54.9,-6.6,54.9,54.9,-6.6,-6.6,Vascular plants,Rumex acetosa,5.0,NISP,pollen,,,,,,12.0,46.0,pollen,6/30/2007,492.0,1.0162601626
-3101,The Mire [Fallahogy],54.9,-6.6,54.9,54.9,-6.6,-6.6,Vascular plants,Rumex acetosa,13.0,NISP,pollen,,,,,,13.0,46.0,pollen,6/30/2007,772.0,1.68393782383
-3101,The Mire [Fallahogy],54.9,-6.6,54.9,54.9,-6.6,-6.6,Vascular plants,Rumex acetosa,9.0,NISP,pollen,,,,,,14.0,46.0,pollen,6/30/2007,771.0,1.1673151751
-3101,The Mire [Fallahogy],54.9,-6.6,54.9,54.9,-6.6,-6.6,Vascular plants,Rumex acetosa,2.0,NISP,pollen,,,,,,15.0,46.0,pollen,6/30/2007,786.0,0.254452926209
-3101,The Mire [Fallahogy],54.9,-6.6,54.9,54.9,-6.6,-6.6,Vascular plants,Rumex acetosa,1.0,NISP,pollen,,,,,,16.0,46.0,pollen,6/30/2007,497.0,0.201207243461
-3101,The Mire [Fallahogy],54.9,-6.6,54.9,54.9,-6.6,-6.6,Vascular plants,Rumex acetosa,1.0,NISP,pollen,,,,,,17.0,46.0,pollen,6/30/2007,792.0,0.126262626263
-3101,The Mire [Fallahogy],54.9,-6.6,54.9,54.9,-6.6,-6.6,Vascular plants,Rumex acetosa,3.0,NISP,pollen,,,,,,18.0,46.0,pollen,6/30/2007,788.0,0.380710659898
-3101,The Mire [Fallahogy],54.9,-6.6,54.9,54.9,-6.6,-6.6,Vascular plants,Rumex acetosa,1.0,NISP,pollen,,,,,,19.0,46.0,pollen,6/30/2007,495.0,0.20202020202
-3101,The Mire [Fallahogy],54.9,-6.6,54.9,54.9,-6.6,-6.6,Vascular plants,Rumex acetosa,1.0,NISP,pollen,,,,,,26.0,46.0,pollen,6/30/2007,493.0,0.202839756592
-3101,The Mire [Fallahogy],54.9,-6.6,54.9,54.9,-6.6,-6.6,Vascular plants,Rumex acetosa,1.0,NISP,pollen,,,,,,28.0,46.0,pollen,6/30/2007,499.0,0.200400801603
-3101,The Mire [Fallahogy],54.9,-6.6,54.9,54.9,-6.6,-6.6,Vascular plants,Rumex acetosa,4.0,NISP,pollen,,,,,,30.0,46.0,pollen,6/30/2007,751.0,0.532623169108
-3101,The Mire [Fallahogy],54.9,-6.6,54.9,54.9,-6.6,-6.6,Vascular plants,Rumex acetosa,1.0,NISP,pollen,,,,,,32.0,46.0,pollen,6/30/2007,464.0,0.215517241379
-3101,The Mire [Fallahogy],54.9,-6.6,54.9,54.9,-6.6,-6.6,Vascular plants,Rumex acetosa,3.0,NISP,pollen,,,,,,34.0,46.0,pollen,6/30/2007,797.0,0.376411543287
-3101,The Mire [Fallahogy],54.9,-6.6,54.9,54.9,-6.6,-6.6,Vascular plants,Rumex acetosa,1.0,NISP,pollen,,,,,,40.0,46.0,pollen,6/30/2007,247.0,0.404858299595
-3101,The Mire [Fallahogy],54.9,-6.6,54.9,54.9,-6.6,-6.6,Vascular plants,Rumex acetosa,1.0,NISP,pollen,,,,,,42.0,46.0,pollen,6/30/2007,500.0,0.2
-3101,The Mire [Fallahogy],54.9,-6.6,54.9,54.9,-6.6,-6.6,Vascular plants,Rumex acetosa,1.0,NISP,pollen,,,,,,52.0,46.0,pollen,6/30/2007,497.0,0.201207243461
-3101,The Mire [Fallahogy],54.9,-6.6,54.9,54.9,-6.6,-6.6,Vascular plants,Rumex acetosa,1.0,NISP,pollen,,,,,,54.0,46.0,pollen,6/30/2007,498.0,0.200803212851
-3101,The Mire [Fallahogy],54.9,-6.6,54.9,54.9,-6.6,-6.6,Vascular plants,Rumex acetosa,1.0,NISP,pollen,,,,,,74.0,46.0,pollen,6/30/2007,496.0,0.201612903226
-3101,The Mire [Fallahogy],54.9,-6.6,54.9,54.9,-6.6,-6.6,Vascular plants,Rumex acetosa,2.0,NISP,pollen,,,,,,86.0,46.0,pollen,6/30/2007,483.0,0.414078674948
-3101,The Mire [Fallahogy],54.9,-6.6,54.9,54.9,-6.6,-6.6,Vascular plants,Rumex acetosa,1.0,NISP,pollen,,,,,,88.0,46.0,pollen,6/30/2007,497.0,0.201207243461
-3101,The Mire [Fallahogy],54.9,-6.6,54.9,54.9,-6.6,-6.6,Vascular plants,Rumex acetosa,5.0,NISP,pollen,,,,,,92.0,46.0,pollen,6/30/2007,374.0,1.33689839572
-3101,The Mire [Fallahogy],54.9,-6.6,54.9,54.9,-6.6,-6.6,Vascular plants,Rumex acetosa,2.0,NISP,pollen,,,,,,94.0,46.0,pollen,6/30/2007,471.0,0.424628450106
-3101,The Mire [Fallahogy],54.9,-6.6,54.9,54.9,-6.6,-6.6,Vascular plants,Rumex acetosa,1.0,NISP,pollen,,,,,,98.0,46.0,pollen,6/30/2007,475.0,0.210526315789
-3101,The Mire [Fallahogy],54.9,-6.6,54.9,54.9,-6.6,-6.6,Vascular plants,Rumex acetosa,1.0,NISP,pollen,,,,,,104.0,46.0,pollen,6/30/2007,281.0,0.355871886121
-3101,The Mire [Fallahogy],54.9,-6.6,54.9,54.9,-6.6,-6.6,Vascular plants,Rumex acetosa,1.0,NISP,pollen,,,,,,116.0,46.0,pollen,6/30/2007,491.0,0.20366598778
-3101,The Mire [Fallahogy],54.9,-6.6,54.9,54.9,-6.6,-6.6,Vascular plants,Rumex acetosa,1.0,NISP,pollen,,,,,,128.0,46.0,pollen,6/30/2007,501.0,0.199600798403
-3101,The Mire [Fallahogy],54.9,-6.6,54.9,54.9,-6.6,-6.6,Vascular plants,Rumex acetosa,1.0,NISP,pollen,,,,,,144.0,46.0,pollen,6/30/2007,507.0,0.197238658777
-siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
-269,Billy's Lake,46.27058,-94.551555,46.27186,46.2693,-94.54948,-94.55363,Vascular plants,Rumex acetosa-type,1.0,NISP,pollen,,721.0,,,Radiocarbon years BP,260.0,383.0,pollen,6/30/2007,221.0,0.452488687783
-269,Billy's Lake,46.27058,-94.551555,46.27186,46.2693,-94.54948,-94.55363,Vascular plants,Rumex acetosa-type,1.0,NISP,pollen,,1351.0,,,Radiocarbon years BP,310.0,383.0,pollen,6/30/2007,251.0,0.398406374502
-269,Billy's Lake,46.27058,-94.551555,46.27186,46.2693,-94.54948,-94.55363,Vascular plants,Rumex acetosa-type,1.0,NISP,pollen,,3483.0,,,Radiocarbon years BP,560.0,383.0,pollen,6/30/2007,292.0,0.342465753425
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Rumex acetosa-type,3.0,NISP,pollen,,63.0,,,Radiocarbon years BP,5.0,350.0,pollen,6/30/2007,558.0,0.537634408602
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Rumex acetosa-type,11.0,NISP,pollen,,266.0,,,Radiocarbon years BP,20.0,350.0,pollen,6/30/2007,1150.0,0.95652173913
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Rumex acetosa-type,2.0,NISP,pollen,,974.0,,,Radiocarbon years BP,70.0,350.0,pollen,6/30/2007,342.0,0.584795321637
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Rumex acetosa-type,5.0,NISP,pollen,,1118.0,,,Radiocarbon years BP,80.0,350.0,pollen,6/30/2007,688.0,0.726744186047
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Rumex acetosa-type,9.0,NISP,pollen,,1409.0,,,Radiocarbon years BP,100.0,350.0,pollen,6/30/2007,1003.0,0.897308075773
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Rumex acetosa-type,21.0,NISP,pollen,,1702.0,,,Radiocarbon years BP,120.0,350.0,pollen,6/30/2007,1657.0,1.26735063368
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Rumex acetosa-type,12.0,NISP,pollen,,1996.0,,,Radiocarbon years BP,140.0,350.0,pollen,6/30/2007,1200.0,1.0
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Rumex acetosa-type,4.0,NISP,pollen,,2441.0,,,Radiocarbon years BP,170.0,350.0,pollen,6/30/2007,774.0,0.516795865633
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Rumex acetosa-type,3.0,NISP,pollen,,2739.0,,,Radiocarbon years BP,190.0,350.0,pollen,6/30/2007,622.0,0.48231511254
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Rumex acetosa-type,6.0,NISP,pollen,,3038.0,,,Radiocarbon years BP,210.0,350.0,pollen,6/30/2007,724.0,0.828729281768
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Rumex acetosa-type,14.0,NISP,pollen,,3338.0,,,Radiocarbon years BP,230.0,350.0,pollen,6/30/2007,1332.0,1.05105105105
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Rumex acetosa-type,7.0,NISP,pollen,,3639.0,,,Radiocarbon years BP,250.0,350.0,pollen,6/30/2007,1184.0,0.591216216216
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Rumex acetosa-type,5.0,NISP,pollen,,3941.0,,,Radiocarbon years BP,270.0,350.0,pollen,6/30/2007,791.0,0.63211125158
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Rumex acetosa-type,5.0,NISP,pollen,,4244.0,,,Radiocarbon years BP,290.0,350.0,pollen,6/30/2007,2154.0,0.232126276695
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Rumex acetosa-type,3.0,NISP,pollen,,4320.0,,,Radiocarbon years BP,295.0,350.0,pollen,6/30/2007,1315.0,0.228136882129
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Rumex acetosa-type,1.0,NISP,pollen,,4700.0,,,Radiocarbon years BP,320.0,350.0,pollen,6/30/2007,885.0,0.112994350282
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Rumex acetosa-type,1.0,NISP,pollen,,5462.0,,,Radiocarbon years BP,370.0,350.0,pollen,6/30/2007,1273.0,0.0785545954438
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Rumex acetosa-type,1.0,NISP,pollen,,5768.0,,,Radiocarbon years BP,390.0,350.0,pollen,6/30/2007,677.0,0.147710487445
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Rumex acetosa-type,2.0,NISP,pollen,,6382.0,,,Radiocarbon years BP,430.0,350.0,pollen,6/30/2007,727.0,0.275103163686
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Rumex acetosa-type,8.0,NISP,pollen,,6844.0,,,Radiocarbon years BP,460.0,350.0,pollen,6/30/2007,1406.0,0.568990042674
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Rumex acetosa-type,3.0,NISP,pollen,,7152.0,,,Radiocarbon years BP,480.0,350.0,pollen,6/30/2007,456.0,0.657894736842
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Rumex acetosa-type,8.0,NISP,pollen,,7925.0,,,Radiocarbon years BP,530.0,350.0,pollen,6/30/2007,540.0,1.48148148148
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Rumex acetosa-type,3.0,NISP,pollen,,8080.0,,,Radiocarbon years BP,540.0,350.0,pollen,6/30/2007,502.0,0.597609561753
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Rumex acetosa-type,5.0,NISP,pollen,,8390.0,,,Radiocarbon years BP,560.0,350.0,pollen,6/30/2007,269.0,1.85873605948
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Rumex acetosa-type,13.0,NISP,pollen,,8701.0,,,Radiocarbon years BP,580.0,350.0,pollen,6/30/2007,554.0,2.34657039711
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Rumex acetosa-type,13.0,NISP,pollen,,9090.0,,,Radiocarbon years BP,605.0,350.0,pollen,6/30/2007,671.0,1.93740685544
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Rumex acetosa-type,4.0,NISP,pollen,,9323.0,,,Radiocarbon years BP,620.0,350.0,pollen,6/30/2007,365.0,1.09589041096
+2993,Badentarbat,58.035833,-5.366111,58.035833,58.035833,-5.366111,-5.366111,Vascular plants,Rumex acetosa,1,NISP,pollen,,1536,,,Radiocarbon years BP,32,,pollen,6/30/2007,605,0.165289256
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Rumex acetosa,1,NISP,pollen,,,,,,116,242,pollen,6/30/2007,542,0.184501845
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Rumex acetosa,2,NISP,pollen,,,,,,120,242,pollen,6/30/2007,613,0.326264274
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Rumex acetosa,3,NISP,pollen,,,,,,124,242,pollen,6/30/2007,945,0.317460317
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Rumex acetosa,5,NISP,pollen,,,,,,128,242,pollen,6/30/2007,943,0.530222694
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Rumex acetosa,5,NISP,pollen,,,,,,132,242,pollen,6/30/2007,761,0.657030223
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Rumex acetosa,6,NISP,pollen,,,,,,136,242,pollen,6/30/2007,837,0.716845878
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Rumex acetosa,10,NISP,pollen,,,,,,140,242,pollen,6/30/2007,788,1.269035533
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Rumex acetosa,38,NISP,pollen,,,,,,144,242,pollen,6/30/2007,914,4.157549234
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Rumex acetosa,56,NISP,pollen,,,,,,146,242,pollen,6/30/2007,933,6.002143623
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Rumex acetosa,100,NISP,pollen,,,,,,148,242,pollen,6/30/2007,1947,5.136106831
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Rumex acetosa,8,NISP,pollen,,,,,,152,242,pollen,6/30/2007,504,1.587301587
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Rumex acetosa,4,NISP,pollen,,,,,,156,242,pollen,6/30/2007,462,0.865800866
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Rumex acetosa,3,NISP,pollen,,,,,,168,242,pollen,6/30/2007,625,0.48
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Rumex acetosa,5,NISP,pollen,,,,,,172,242,pollen,6/30/2007,514,0.972762646
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Rumex acetosa,14,NISP,pollen,,,,,,188,242,pollen,6/30/2007,599,2.337228715
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Rumex acetosa,11,NISP,pollen,,,,,,196,242,pollen,6/30/2007,537,2.048417132
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Rumex acetosa,3,NISP,pollen,,,,,,201,242,pollen,6/30/2007,522,0.574712644
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Rumex acetosa,10,NISP,pollen,,,,,,203,242,pollen,6/30/2007,707,1.414427157
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Rumex acetosa,9,NISP,pollen,,,,,,204,242,pollen,6/30/2007,668,1.347305389
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Rumex acetosa,22,NISP,pollen,,,,,,206,242,pollen,6/30/2007,720,3.055555556
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Rumex acetosa,15,NISP,pollen,,,,,,208,242,pollen,6/30/2007,763,1.965923984
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Rumex acetosa,13,NISP,pollen,,,,,,210,242,pollen,6/30/2007,728,1.785714286
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Rumex acetosa,21,NISP,pollen,,,,,,212,242,pollen,6/30/2007,733,2.864938608
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Rumex acetosa,43,NISP,pollen,,,,,,214,242,pollen,6/30/2007,744,5.779569892
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Rumex acetosa,10,NISP,pollen,,,,,,215,242,pollen,6/30/2007,656,1.524390244
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Rumex acetosa,10,NISP,pollen,,,,,,216,242,pollen,6/30/2007,681,1.468428781
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Rumex acetosa,17,NISP,pollen,,,,,,218,242,pollen,6/30/2007,700,2.428571429
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Rumex acetosa,47,NISP,pollen,,,,,,220,242,pollen,6/30/2007,765,6.14379085
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Rumex acetosa,20,NISP,pollen,,,,,,222,242,pollen,6/30/2007,706,2.83286119
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Rumex acetosa,70,NISP,pollen,,,,,,224,242,pollen,6/30/2007,767,9.126466754
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Rumex acetosa,48,NISP,pollen,,,,,,226,242,pollen,6/30/2007,712,6.741573034
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Rumex acetosa,106,NISP,pollen,,,,,,228,242,pollen,6/30/2007,671,15.79731744
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Rumex acetosa,67,NISP,pollen,,,,,,230,242,pollen,6/30/2007,716,9.357541899
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Rumex acetosa,61,NISP,pollen,,,,,,232,242,pollen,6/30/2007,622,9.807073955
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Rumex acetosa,80,NISP,pollen,,,,,,236,242,pollen,6/30/2007,697,11.47776184
+3024,Black Loch,56.320833,-3.194722,56.320833,56.320833,-3.194722,-3.194722,Vascular plants,Rumex acetosa,10,NISP,pollen,,6200,,,Radiocarbon years BP,560,90,pollen,6/30/2007,486,2.057613169
+3024,Black Loch,56.320833,-3.194722,56.320833,56.320833,-3.194722,-3.194722,Vascular plants,Rumex acetosa,22,NISP,pollen,,6346,,,Radiocarbon years BP,568,90,pollen,6/30/2007,508,4.330708661
+3024,Black Loch,56.320833,-3.194722,56.320833,56.320833,-3.194722,-3.194722,Vascular plants,Rumex acetosa,17,NISP,pollen,,6400,,,Radiocarbon years BP,571,90,pollen,6/30/2007,471,3.609341826
+3031,Loch Borralan,58.044167,-4.999167,58.044167,58.044167,-4.999167,-4.999167,Vascular plants,Rumex acetosa,3,NISP,pollen,,,,,,167,139,pollen,6/30/2007,100,3
+3031,Loch Borralan,58.044167,-4.999167,58.044167,58.044167,-4.999167,-4.999167,Vascular plants,Rumex acetosa,3,NISP,pollen,,,,,,171,139,pollen,6/30/2007,151,1.986754967
+3031,Loch Borralan,58.044167,-4.999167,58.044167,58.044167,-4.999167,-4.999167,Vascular plants,Rumex acetosa,17,NISP,pollen,,,,,,175,139,pollen,6/30/2007,150,11.33333333
+3031,Loch Borralan,58.044167,-4.999167,58.044167,58.044167,-4.999167,-4.999167,Vascular plants,Rumex acetosa,27,NISP,pollen,,,,,,179,139,pollen,6/30/2007,151,17.8807947
+3031,Loch Borralan,58.044167,-4.999167,58.044167,58.044167,-4.999167,-4.999167,Vascular plants,Rumex acetosa,8,NISP,pollen,,,,,,183,139,pollen,6/30/2007,102,7.843137255
+3031,Loch Borralan,58.044167,-4.999167,58.044167,58.044167,-4.999167,-4.999167,Vascular plants,Rumex acetosa,12,NISP,pollen,,,,,,185,139,pollen,6/30/2007,161,7.453416149
+3031,Loch Borralan,58.044167,-4.999167,58.044167,58.044167,-4.999167,-4.999167,Vascular plants,Rumex acetosa,18,NISP,pollen,,,,,,189,139,pollen,6/30/2007,154,11.68831169
+3031,Loch Borralan,58.044167,-4.999167,58.044167,58.044167,-4.999167,-4.999167,Vascular plants,Rumex acetosa,9,NISP,pollen,,,,,,191,139,pollen,6/30/2007,152,5.921052632
+3031,Loch Borralan,58.044167,-4.999167,58.044167,58.044167,-4.999167,-4.999167,Vascular plants,Rumex acetosa,15,NISP,pollen,,,,,,197,139,pollen,6/30/2007,151,9.933774834
+3031,Loch Borralan,58.044167,-4.999167,58.044167,58.044167,-4.999167,-4.999167,Vascular plants,Rumex acetosa,19,NISP,pollen,,,,,,199,139,pollen,6/30/2007,150,12.66666667
+3031,Loch Borralan,58.044167,-4.999167,58.044167,58.044167,-4.999167,-4.999167,Vascular plants,Rumex acetosa,20,NISP,pollen,,,,,,201,139,pollen,6/30/2007,101,19.8019802
+3031,Loch Borralan,58.044167,-4.999167,58.044167,58.044167,-4.999167,-4.999167,Vascular plants,Rumex acetosa,27,NISP,pollen,,,,,,239,139,pollen,6/30/2007,102,26.47058824
+3031,Loch Borralan,58.044167,-4.999167,58.044167,58.044167,-4.999167,-4.999167,Vascular plants,Rumex acetosa,1,NISP,pollen,,,,,,20,139,pollen,6/30/2007,486,0.205761317
+3031,Loch Borralan,58.044167,-4.999167,58.044167,58.044167,-4.999167,-4.999167,Vascular plants,Rumex acetosa,1,NISP,pollen,,,,,,151,139,pollen,6/30/2007,233,0.429184549
+3031,Loch Borralan,58.044167,-4.999167,58.044167,58.044167,-4.999167,-4.999167,Vascular plants,Rumex acetosa,5,NISP,pollen,,,,,,157,139,pollen,6/30/2007,231,2.164502165
+3031,Loch Borralan,58.044167,-4.999167,58.044167,58.044167,-4.999167,-4.999167,Vascular plants,Rumex acetosa,7,NISP,pollen,,,,,,162,139,pollen,6/30/2007,285,2.456140351
+3037,Ballyscullion East,54.8,-6.433333,54.8,54.8,-6.433333,-6.433333,Vascular plants,Rumex acetosa,1,NISP,pollen,,,,,,26,50,pollen,6/30/2007,493,0.202839757
+3037,Ballyscullion East,54.8,-6.433333,54.8,54.8,-6.433333,-6.433333,Vascular plants,Rumex acetosa,2,NISP,pollen,,,,,,36,50,pollen,6/30/2007,578,0.346020761
+3037,Ballyscullion East,54.8,-6.433333,54.8,54.8,-6.433333,-6.433333,Vascular plants,Rumex acetosa,1,NISP,pollen,,,,,,38,50,pollen,6/30/2007,467,0.214132762
+3037,Ballyscullion East,54.8,-6.433333,54.8,54.8,-6.433333,-6.433333,Vascular plants,Rumex acetosa,1,NISP,pollen,,,,,,44,50,pollen,6/30/2007,494,0.20242915
+3037,Ballyscullion East,54.8,-6.433333,54.8,54.8,-6.433333,-6.433333,Vascular plants,Rumex acetosa,2,NISP,pollen,,,,,,46,50,pollen,6/30/2007,480,0.416666667
+3037,Ballyscullion East,54.8,-6.433333,54.8,54.8,-6.433333,-6.433333,Vascular plants,Rumex acetosa,2,NISP,pollen,,,,,,50,50,pollen,6/30/2007,496,0.403225806
+3037,Ballyscullion East,54.8,-6.433333,54.8,54.8,-6.433333,-6.433333,Vascular plants,Rumex acetosa,2,NISP,pollen,,,,,,51,50,pollen,6/30/2007,497,0.402414487
+3037,Ballyscullion East,54.8,-6.433333,54.8,54.8,-6.433333,-6.433333,Vascular plants,Rumex acetosa,1,NISP,pollen,,,,,,53,50,pollen,6/30/2007,494,0.20242915
+3037,Ballyscullion East,54.8,-6.433333,54.8,54.8,-6.433333,-6.433333,Vascular plants,Rumex acetosa,3,NISP,pollen,,,,,,55,50,pollen,6/30/2007,686,0.437317784
+3037,Ballyscullion East,54.8,-6.433333,54.8,54.8,-6.433333,-6.433333,Vascular plants,Rumex acetosa,2,NISP,pollen,,,,,,56,50,pollen,6/30/2007,694,0.288184438
+3037,Ballyscullion East,54.8,-6.433333,54.8,54.8,-6.433333,-6.433333,Vascular plants,Rumex acetosa,3,NISP,pollen,,,,,,57,50,pollen,6/30/2007,702,0.427350427
+3037,Ballyscullion East,54.8,-6.433333,54.8,54.8,-6.433333,-6.433333,Vascular plants,Rumex acetosa,7,NISP,pollen,,,,,,58,50,pollen,6/30/2007,685,1.02189781
+3037,Ballyscullion East,54.8,-6.433333,54.8,54.8,-6.433333,-6.433333,Vascular plants,Rumex acetosa,2,NISP,pollen,,,,,,59,50,pollen,6/30/2007,489,0.408997955
+3037,Ballyscullion East,54.8,-6.433333,54.8,54.8,-6.433333,-6.433333,Vascular plants,Rumex acetosa,1,NISP,pollen,,,,,,60,50,pollen,6/30/2007,497,0.201207243
+3037,Ballyscullion East,54.8,-6.433333,54.8,54.8,-6.433333,-6.433333,Vascular plants,Rumex acetosa,1,NISP,pollen,,,,,,61,50,pollen,6/30/2007,489,0.204498978
+3037,Ballyscullion East,54.8,-6.433333,54.8,54.8,-6.433333,-6.433333,Vascular plants,Rumex acetosa,1,NISP,pollen,,,,,,62,50,pollen,6/30/2007,491,0.203665988
+3037,Ballyscullion East,54.8,-6.433333,54.8,54.8,-6.433333,-6.433333,Vascular plants,Rumex acetosa,3,NISP,pollen,,,,,,63,50,pollen,6/30/2007,491,0.610997963
+3037,Ballyscullion East,54.8,-6.433333,54.8,54.8,-6.433333,-6.433333,Vascular plants,Rumex acetosa,1,NISP,pollen,,,,,,64,50,pollen,6/30/2007,491,0.203665988
+3037,Ballyscullion East,54.8,-6.433333,54.8,54.8,-6.433333,-6.433333,Vascular plants,Rumex acetosa,2,NISP,pollen,,,,,,70,50,pollen,6/30/2007,493,0.405679513
+3037,Ballyscullion East,54.8,-6.433333,54.8,54.8,-6.433333,-6.433333,Vascular plants,Rumex acetosa,1,NISP,pollen,,,,,,78,50,pollen,6/30/2007,506,0.197628458
+3037,Ballyscullion East,54.8,-6.433333,54.8,54.8,-6.433333,-6.433333,Vascular plants,Rumex acetosa,2,NISP,pollen,,,,,,80,50,pollen,6/30/2007,440,0.454545455
+3037,Ballyscullion East,54.8,-6.433333,54.8,54.8,-6.433333,-6.433333,Vascular plants,Rumex acetosa,3,NISP,pollen,,,,,,84,50,pollen,6/30/2007,537,0.558659218
+3037,Ballyscullion East,54.8,-6.433333,54.8,54.8,-6.433333,-6.433333,Vascular plants,Rumex acetosa,1,NISP,pollen,,,,,,88,50,pollen,6/30/2007,459,0.217864924
+3037,Ballyscullion East,54.8,-6.433333,54.8,54.8,-6.433333,-6.433333,Vascular plants,Rumex acetosa,1,NISP,pollen,,,,,,92,50,pollen,6/30/2007,492,0.203252033
+3043,Cam Loch,58.083333,-5,58.083333,58.083333,-5,-5,Vascular plants,Rumex acetosa,1,NISP,pollen,,2375,,,Radiocarbon years BP,200,130,pollen,6/30/2007,200,0.5
+3043,Cam Loch,58.083333,-5,58.083333,58.083333,-5,-5,Vascular plants,Rumex acetosa,1,NISP,pollen,,4800,,,Radiocarbon years BP,360,130,pollen,6/30/2007,202,0.495049505
+3043,Cam Loch,58.083333,-5,58.083333,58.083333,-5,-5,Vascular plants,Rumex acetosa,1,NISP,pollen,,6050,,,Radiocarbon years BP,410,130,pollen,6/30/2007,200,0.5
+3043,Cam Loch,58.083333,-5,58.083333,58.083333,-5,-5,Vascular plants,Rumex acetosa,1,NISP,pollen,,6800,,,Radiocarbon years BP,440,130,pollen,6/30/2007,203,0.492610837
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Rumex acetosa,1,NISP,pollen,,,,,,345,20,pollen,6/30/2007,486,0.205761317
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Rumex acetosa,2,NISP,pollen,,,,,,355,20,pollen,6/30/2007,600,0.333333333
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Rumex acetosa,3,NISP,pollen,,,,,,365,20,pollen,6/30/2007,651,0.460829493
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Rumex acetosa,2,NISP,pollen,,,,,,375,20,pollen,6/30/2007,463,0.431965443
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Rumex acetosa,1,NISP,pollen,,,,,,385,20,pollen,6/30/2007,741,0.134952767
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Rumex acetosa,4,NISP,pollen,,,,,,395,20,pollen,6/30/2007,486,0.823045267
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Rumex acetosa,1,NISP,pollen,,,,,,400,20,pollen,6/30/2007,409,0.244498778
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Rumex acetosa,2,NISP,pollen,,,,,,405,20,pollen,6/30/2007,175,1.142857143
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Rumex acetosa,9,NISP,pollen,,,,,,410,20,pollen,6/30/2007,396,2.272727273
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Rumex acetosa,2,NISP,pollen,,,,,,415,20,pollen,6/30/2007,191,1.047120419
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Rumex acetosa,2,NISP,pollen,,,,,,420,20,pollen,6/30/2007,254,0.787401575
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Rumex acetosa,1,NISP,pollen,,,,,,425,20,pollen,6/30/2007,184,0.543478261
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Rumex acetosa,1,NISP,pollen,,,,,,430,20,pollen,6/30/2007,174,0.574712644
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Rumex acetosa,4,NISP,pollen,,,,,,435,20,pollen,6/30/2007,143,2.797202797
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Rumex acetosa,11,NISP,pollen,,,,,,440,20,pollen,6/30/2007,324,3.395061728
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Rumex acetosa,6,NISP,pollen,,,,,,445,20,pollen,6/30/2007,135,4.444444444
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Rumex acetosa,3,NISP,pollen,,,,,,450,20,pollen,6/30/2007,125,2.4
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Rumex acetosa,1,NISP,pollen,,,,,,455,20,pollen,6/30/2007,96,1.041666667
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Rumex acetosa,4,NISP,pollen,,,,,,465,20,pollen,6/30/2007,99,4.04040404
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Rumex acetosa,6,NISP,pollen,,,,,,470,20,pollen,6/30/2007,404,1.485148515
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Rumex acetosa,19,NISP,pollen,,,,,,475,20,pollen,6/30/2007,272,6.985294118
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Rumex acetosa,2,NISP,pollen,,,,,,480,20,pollen,6/30/2007,192,1.041666667
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Rumex acetosa,3,NISP,pollen,,,,,,485,20,pollen,6/30/2007,173,1.734104046
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Rumex acetosa,4,NISP,pollen,,,,,,490,20,pollen,6/30/2007,212,1.886792453
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Rumex acetosa,6,NISP,pollen,,,,,,495,20,pollen,6/30/2007,112,5.357142857
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Rumex acetosa,1,NISP,pollen,,,,,,500,20,pollen,6/30/2007,157,0.636942675
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Rumex acetosa,1,NISP,pollen,,,,,,520,20,pollen,6/30/2007,10,10
+3069,Loch Craggie,58.002778,-4.843333,58.002778,58.002778,-4.843333,-4.843333,Vascular plants,Rumex acetosa,1,NISP,pollen,,3288,,,Radiocarbon years BP,190,154,pollen,6/30/2007,224,0.446428571
+3069,Loch Craggie,58.002778,-4.843333,58.002778,58.002778,-4.843333,-4.843333,Vascular plants,Rumex acetosa,2,NISP,pollen,,4327,,,Radiocarbon years BP,250,154,pollen,6/30/2007,246,0.81300813
+3069,Loch Craggie,58.002778,-4.843333,58.002778,58.002778,-4.843333,-4.843333,Vascular plants,Rumex acetosa,1,NISP,pollen,,5464,,,Radiocarbon years BP,305,154,pollen,6/30/2007,191,0.523560209
+3069,Loch Craggie,58.002778,-4.843333,58.002778,58.002778,-4.843333,-4.843333,Vascular plants,Rumex acetosa,1,NISP,pollen,,9200,,,Radiocarbon years BP,362,154,pollen,6/30/2007,233,0.429184549
+3069,Loch Craggie,58.002778,-4.843333,58.002778,58.002778,-4.843333,-4.843333,Vascular plants,Rumex acetosa,1,NISP,pollen,,9500,,,Radiocarbon years BP,365,154,pollen,6/30/2007,316,0.316455696
+3069,Loch Craggie,58.002778,-4.843333,58.002778,58.002778,-4.843333,-4.843333,Vascular plants,Rumex acetosa,9,NISP,pollen,,9600,,,Radiocarbon years BP,366,154,pollen,6/30/2007,154,5.844155844
+3069,Loch Craggie,58.002778,-4.843333,58.002778,58.002778,-4.843333,-4.843333,Vascular plants,Rumex acetosa,24,NISP,pollen,,9650,,,Radiocarbon years BP,366.5,154,pollen,6/30/2007,155,15.48387097
+3069,Loch Craggie,58.002778,-4.843333,58.002778,58.002778,-4.843333,-4.843333,Vascular plants,Rumex acetosa,21,NISP,pollen,,9700,,,Radiocarbon years BP,367,154,pollen,6/30/2007,148,14.18918919
+3069,Loch Craggie,58.002778,-4.843333,58.002778,58.002778,-4.843333,-4.843333,Vascular plants,Rumex acetosa,12,NISP,pollen,,9750,,,Radiocarbon years BP,367.5,154,pollen,6/30/2007,158,7.594936709
+3069,Loch Craggie,58.002778,-4.843333,58.002778,58.002778,-4.843333,-4.843333,Vascular plants,Rumex acetosa,20,NISP,pollen,,9800,,,Radiocarbon years BP,368,154,pollen,6/30/2007,154,12.98701299
+3069,Loch Craggie,58.002778,-4.843333,58.002778,58.002778,-4.843333,-4.843333,Vascular plants,Rumex acetosa,19,NISP,pollen,,9850,,,Radiocarbon years BP,368.5,154,pollen,6/30/2007,156,12.17948718
+3069,Loch Craggie,58.002778,-4.843333,58.002778,58.002778,-4.843333,-4.843333,Vascular plants,Rumex acetosa,32,NISP,pollen,,9900,,,Radiocarbon years BP,369,154,pollen,6/30/2007,162,19.75308642
+3069,Loch Craggie,58.002778,-4.843333,58.002778,58.002778,-4.843333,-4.843333,Vascular plants,Rumex acetosa,32,NISP,pollen,,9950,,,Radiocarbon years BP,369.5,154,pollen,6/30/2007,162,19.75308642
+3069,Loch Craggie,58.002778,-4.843333,58.002778,58.002778,-4.843333,-4.843333,Vascular plants,Rumex acetosa,30,NISP,pollen,,10000,,,Radiocarbon years BP,370,154,pollen,6/30/2007,160.5,18.69158879
+3069,Loch Craggie,58.002778,-4.843333,58.002778,58.002778,-4.843333,-4.843333,Vascular plants,Rumex acetosa,27,NISP,pollen,,10050,,,Radiocarbon years BP,370.5,154,pollen,6/30/2007,157,17.19745223
+3069,Loch Craggie,58.002778,-4.843333,58.002778,58.002778,-4.843333,-4.843333,Vascular plants,Rumex acetosa,17,NISP,pollen,,10100,,,Radiocarbon years BP,371,154,pollen,6/30/2007,152,11.18421053
+3069,Loch Craggie,58.002778,-4.843333,58.002778,58.002778,-4.843333,-4.843333,Vascular plants,Rumex acetosa,6,NISP,pollen,,10150,,,Radiocarbon years BP,371.5,154,pollen,6/30/2007,101,5.940594059
+3069,Loch Craggie,58.002778,-4.843333,58.002778,58.002778,-4.843333,-4.843333,Vascular plants,Rumex acetosa,9,NISP,pollen,,10200,,,Radiocarbon years BP,372,154,pollen,6/30/2007,100,9
+3069,Loch Craggie,58.002778,-4.843333,58.002778,58.002778,-4.843333,-4.843333,Vascular plants,Rumex acetosa,5,NISP,pollen,,10250,,,Radiocarbon years BP,372.5,154,pollen,6/30/2007,152,3.289473684
+3069,Loch Craggie,58.002778,-4.843333,58.002778,58.002778,-4.843333,-4.843333,Vascular plants,Rumex acetosa,7,NISP,pollen,,10300,,,Radiocarbon years BP,373,154,pollen,6/30/2007,150,4.666666667
+3069,Loch Craggie,58.002778,-4.843333,58.002778,58.002778,-4.843333,-4.843333,Vascular plants,Rumex acetosa,5,NISP,pollen,,10400,,,Radiocarbon years BP,374,154,pollen,6/30/2007,100,5
+3069,Loch Craggie,58.002778,-4.843333,58.002778,58.002778,-4.843333,-4.843333,Vascular plants,Rumex acetosa,15,NISP,pollen,,10500,,,Radiocarbon years BP,375,154,pollen,6/30/2007,150,10
+3069,Loch Craggie,58.002778,-4.843333,58.002778,58.002778,-4.843333,-4.843333,Vascular plants,Rumex acetosa,9,NISP,pollen,,10600,,,Radiocarbon years BP,376,154,pollen,6/30/2007,151,5.960264901
+3069,Loch Craggie,58.002778,-4.843333,58.002778,58.002778,-4.843333,-4.843333,Vascular plants,Rumex acetosa,8,NISP,pollen,,10900,,,Radiocarbon years BP,379,154,pollen,6/30/2007,101,7.920792079
+3069,Loch Craggie,58.002778,-4.843333,58.002778,58.002778,-4.843333,-4.843333,Vascular plants,Rumex acetosa,5,NISP,pollen,,10950,,,Radiocarbon years BP,379.5,154,pollen,6/30/2007,100,5
+3069,Loch Craggie,58.002778,-4.843333,58.002778,58.002778,-4.843333,-4.843333,Vascular plants,Rumex acetosa,13,NISP,pollen,,11000,,,Radiocarbon years BP,380,154,pollen,6/30/2007,100,13
+3069,Loch Craggie,58.002778,-4.843333,58.002778,58.002778,-4.843333,-4.843333,Vascular plants,Rumex acetosa,11,NISP,pollen,,11100,,,Radiocarbon years BP,381,154,pollen,6/30/2007,150,7.333333333
+3069,Loch Craggie,58.002778,-4.843333,58.002778,58.002778,-4.843333,-4.843333,Vascular plants,Rumex acetosa,12,NISP,pollen,,11150,,,Radiocarbon years BP,381.5,154,pollen,6/30/2007,150,8
+3069,Loch Craggie,58.002778,-4.843333,58.002778,58.002778,-4.843333,-4.843333,Vascular plants,Rumex acetosa,20,NISP,pollen,,11200,,,Radiocarbon years BP,382,154,pollen,6/30/2007,151,13.24503311
+3069,Loch Craggie,58.002778,-4.843333,58.002778,58.002778,-4.843333,-4.843333,Vascular plants,Rumex acetosa,8,NISP,pollen,,11300,,,Radiocarbon years BP,383,154,pollen,6/30/2007,150,5.333333333
+3069,Loch Craggie,58.002778,-4.843333,58.002778,58.002778,-4.843333,-4.843333,Vascular plants,Rumex acetosa,10,NISP,pollen,,11350,,,Radiocarbon years BP,383.5,154,pollen,6/30/2007,152,6.578947368
+3069,Loch Craggie,58.002778,-4.843333,58.002778,58.002778,-4.843333,-4.843333,Vascular plants,Rumex acetosa,21,NISP,pollen,,11400,,,Radiocarbon years BP,384,154,pollen,6/30/2007,150,14
+3069,Loch Craggie,58.002778,-4.843333,58.002778,58.002778,-4.843333,-4.843333,Vascular plants,Rumex acetosa,15,NISP,pollen,,11450,,,Radiocarbon years BP,384.5,154,pollen,6/30/2007,150,10
+3069,Loch Craggie,58.002778,-4.843333,58.002778,58.002778,-4.843333,-4.843333,Vascular plants,Rumex acetosa,13,NISP,pollen,,11500,,,Radiocarbon years BP,385,154,pollen,6/30/2007,150,8.666666667
+3069,Loch Craggie,58.002778,-4.843333,58.002778,58.002778,-4.843333,-4.843333,Vascular plants,Rumex acetosa,27,NISP,pollen,,11550,,,Radiocarbon years BP,385.5,154,pollen,6/30/2007,151,17.8807947
+3069,Loch Craggie,58.002778,-4.843333,58.002778,58.002778,-4.843333,-4.843333,Vascular plants,Rumex acetosa,16,NISP,pollen,,11600,,,Radiocarbon years BP,386,154,pollen,6/30/2007,100,16
+3069,Loch Craggie,58.002778,-4.843333,58.002778,58.002778,-4.843333,-4.843333,Vascular plants,Rumex acetosa,21,NISP,pollen,,11650,,,Radiocarbon years BP,386.5,154,pollen,6/30/2007,100,21
+3069,Loch Craggie,58.002778,-4.843333,58.002778,58.002778,-4.843333,-4.843333,Vascular plants,Rumex acetosa,6,NISP,pollen,,11700,,,Radiocarbon years BP,387,154,pollen,6/30/2007,99,6.060606061
+3069,Loch Craggie,58.002778,-4.843333,58.002778,58.002778,-4.843333,-4.843333,Vascular plants,Rumex acetosa,8,NISP,pollen,,11800,,,Radiocarbon years BP,388,154,pollen,6/30/2007,100,8
+3074,Culhorn Mains,54.891667,-4.983333,54.891667,54.891667,-4.983333,-4.983333,Vascular plants,Rumex acetosa,9,NISP,pollen,,,,,,660,17,pollen,6/30/2007,336,2.678571429
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,1,NISP,pollen,,7219,,,Radiocarbon years BP,420,135,pollen,6/30/2007,223,0.448430493
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,3,NISP,pollen,,7331,,,Radiocarbon years BP,430,135,pollen,6/30/2007,213,1.408450704
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,5,NISP,pollen,,7444,,,Radiocarbon years BP,440,135,pollen,6/30/2007,327,1.529051988
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,4,NISP,pollen,,7556,,,Radiocarbon years BP,450,135,pollen,6/30/2007,229,1.746724891
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,10,NISP,pollen,,7669,,,Radiocarbon years BP,460,135,pollen,6/30/2007,340,2.941176471
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,7,NISP,pollen,,7725,,,Radiocarbon years BP,465,135,pollen,6/30/2007,205,3.414634146
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,13,NISP,pollen,,7781,,,Radiocarbon years BP,470,135,pollen,6/30/2007,210,6.19047619
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,8,NISP,pollen,,7837,,,Radiocarbon years BP,475,135,pollen,6/30/2007,216,3.703703704
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,11,NISP,pollen,,7893,,,Radiocarbon years BP,480,135,pollen,6/30/2007,275,4
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,6,NISP,pollen,,7949,,,Radiocarbon years BP,485,135,pollen,6/30/2007,219,2.739726027
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,9,NISP,pollen,,8006,,,Radiocarbon years BP,490,135,pollen,6/30/2007,267,3.370786517
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,9,NISP,pollen,,8062,,,Radiocarbon years BP,495,135,pollen,6/30/2007,257,3.501945525
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,9,NISP,pollen,,8118,,,Radiocarbon years BP,500,135,pollen,6/30/2007,201,4.47761194
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,12,NISP,pollen,,8174,,,Radiocarbon years BP,505,135,pollen,6/30/2007,210,5.714285714
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,12,NISP,pollen,,8230,,,Radiocarbon years BP,510,135,pollen,6/30/2007,220,5.454545455
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,9,NISP,pollen,,8287,,,Radiocarbon years BP,515,135,pollen,6/30/2007,318,2.830188679
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,9,NISP,pollen,,8343,,,Radiocarbon years BP,520,135,pollen,6/30/2007,226,3.982300885
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,10,NISP,pollen,,8399,,,Radiocarbon years BP,525,135,pollen,6/30/2007,285,3.50877193
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,9,NISP,pollen,,8455,,,Radiocarbon years BP,530,135,pollen,6/30/2007,290,3.103448276
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,11,NISP,pollen,,8511,,,Radiocarbon years BP,535,135,pollen,6/30/2007,298,3.691275168
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,11,NISP,pollen,,8567,,,Radiocarbon years BP,540,135,pollen,6/30/2007,230,4.782608696
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,13,NISP,pollen,,8624,,,Radiocarbon years BP,545,135,pollen,6/30/2007,304,4.276315789
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,17,NISP,pollen,,8680,,,Radiocarbon years BP,550,135,pollen,6/30/2007,220,7.727272727
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,9,NISP,pollen,,8736,,,Radiocarbon years BP,555,135,pollen,6/30/2007,213,4.225352113
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,10,NISP,pollen,,8792,,,Radiocarbon years BP,560,135,pollen,6/30/2007,222,4.504504505
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,14,NISP,pollen,,8848,,,Radiocarbon years BP,565,135,pollen,6/30/2007,350,4
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,9,NISP,pollen,,8904,,,Radiocarbon years BP,570,135,pollen,6/30/2007,165,5.454545455
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,12,NISP,pollen,,8961,,,Radiocarbon years BP,575,135,pollen,6/30/2007,231,5.194805195
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,10,NISP,pollen,,9017,,,Radiocarbon years BP,580,135,pollen,6/30/2007,147,6.802721088
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,6,NISP,pollen,,9073,,,Radiocarbon years BP,585,135,pollen,6/30/2007,103,5.825242718
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,6,NISP,pollen,,9129,,,Radiocarbon years BP,590,135,pollen,6/30/2007,106,5.660377358
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,6,NISP,pollen,,9185,,,Radiocarbon years BP,595,135,pollen,6/30/2007,112,5.357142857
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,9,NISP,pollen,,9242,,,Radiocarbon years BP,600,135,pollen,6/30/2007,252,3.571428571
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,5,NISP,pollen,,9298,,,Radiocarbon years BP,605,135,pollen,6/30/2007,89,5.617977528
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,8,NISP,pollen,,9354,,,Radiocarbon years BP,610,135,pollen,6/30/2007,164,4.87804878
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,4,NISP,pollen,,9410,,,Radiocarbon years BP,615,135,pollen,6/30/2007,86,4.651162791
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,8,NISP,pollen,,9466,,,Radiocarbon years BP,620,135,pollen,6/30/2007,273,2.93040293
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,3,NISP,pollen,,9522,,,Radiocarbon years BP,625,135,pollen,6/30/2007,107,2.803738318
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,1,NISP,pollen,,9579,,,Radiocarbon years BP,630,135,pollen,6/30/2007,82,1.219512195
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,2,NISP,pollen,,9635,,,Radiocarbon years BP,635,135,pollen,6/30/2007,114,1.754385965
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,3,NISP,pollen,,9691,,,Radiocarbon years BP,640,135,pollen,6/30/2007,128,2.34375
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,4,NISP,pollen,,9747,,,Radiocarbon years BP,645,135,pollen,6/30/2007,123,3.25203252
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,5,NISP,pollen,,9803,,,Radiocarbon years BP,650,135,pollen,6/30/2007,220,2.272727273
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,1,NISP,pollen,,9860,,,Radiocarbon years BP,655,135,pollen,6/30/2007,63,1.587301587
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Rumex acetosa,3,NISP,pollen,,9916,,,Radiocarbon years BP,660,135,pollen,6/30/2007,167,1.796407186
+3101,The Mire [Fallahogy],54.9,-6.6,54.9,54.9,-6.6,-6.6,Vascular plants,Rumex acetosa,1,NISP,pollen,,,,,,4,46,pollen,6/30/2007,491,0.203665988
+3101,The Mire [Fallahogy],54.9,-6.6,54.9,54.9,-6.6,-6.6,Vascular plants,Rumex acetosa,6,NISP,pollen,,,,,,5,46,pollen,6/30/2007,797,0.752823087
+3101,The Mire [Fallahogy],54.9,-6.6,54.9,54.9,-6.6,-6.6,Vascular plants,Rumex acetosa,3,NISP,pollen,,,,,,6,46,pollen,6/30/2007,763,0.393184797
+3101,The Mire [Fallahogy],54.9,-6.6,54.9,54.9,-6.6,-6.6,Vascular plants,Rumex acetosa,1,NISP,pollen,,,,,,7,46,pollen,6/30/2007,795,0.125786164
+3101,The Mire [Fallahogy],54.9,-6.6,54.9,54.9,-6.6,-6.6,Vascular plants,Rumex acetosa,8,NISP,pollen,,,,,,8,46,pollen,6/30/2007,497,1.609657948
+3101,The Mire [Fallahogy],54.9,-6.6,54.9,54.9,-6.6,-6.6,Vascular plants,Rumex acetosa,6,NISP,pollen,,,,,,9,46,pollen,6/30/2007,763,0.786369594
+3101,The Mire [Fallahogy],54.9,-6.6,54.9,54.9,-6.6,-6.6,Vascular plants,Rumex acetosa,7,NISP,pollen,,,,,,10,46,pollen,6/30/2007,794,0.881612091
+3101,The Mire [Fallahogy],54.9,-6.6,54.9,54.9,-6.6,-6.6,Vascular plants,Rumex acetosa,3,NISP,pollen,,,,,,11,46,pollen,6/30/2007,756,0.396825397
+3101,The Mire [Fallahogy],54.9,-6.6,54.9,54.9,-6.6,-6.6,Vascular plants,Rumex acetosa,5,NISP,pollen,,,,,,12,46,pollen,6/30/2007,492,1.016260163
+3101,The Mire [Fallahogy],54.9,-6.6,54.9,54.9,-6.6,-6.6,Vascular plants,Rumex acetosa,13,NISP,pollen,,,,,,13,46,pollen,6/30/2007,772,1.683937824
+3101,The Mire [Fallahogy],54.9,-6.6,54.9,54.9,-6.6,-6.6,Vascular plants,Rumex acetosa,9,NISP,pollen,,,,,,14,46,pollen,6/30/2007,771,1.167315175
+3101,The Mire [Fallahogy],54.9,-6.6,54.9,54.9,-6.6,-6.6,Vascular plants,Rumex acetosa,2,NISP,pollen,,,,,,15,46,pollen,6/30/2007,786,0.254452926
+3101,The Mire [Fallahogy],54.9,-6.6,54.9,54.9,-6.6,-6.6,Vascular plants,Rumex acetosa,1,NISP,pollen,,,,,,16,46,pollen,6/30/2007,497,0.201207243
+3101,The Mire [Fallahogy],54.9,-6.6,54.9,54.9,-6.6,-6.6,Vascular plants,Rumex acetosa,1,NISP,pollen,,,,,,17,46,pollen,6/30/2007,792,0.126262626
+3101,The Mire [Fallahogy],54.9,-6.6,54.9,54.9,-6.6,-6.6,Vascular plants,Rumex acetosa,3,NISP,pollen,,,,,,18,46,pollen,6/30/2007,788,0.38071066
+3101,The Mire [Fallahogy],54.9,-6.6,54.9,54.9,-6.6,-6.6,Vascular plants,Rumex acetosa,1,NISP,pollen,,,,,,19,46,pollen,6/30/2007,495,0.202020202
+3101,The Mire [Fallahogy],54.9,-6.6,54.9,54.9,-6.6,-6.6,Vascular plants,Rumex acetosa,1,NISP,pollen,,,,,,26,46,pollen,6/30/2007,493,0.202839757
+3101,The Mire [Fallahogy],54.9,-6.6,54.9,54.9,-6.6,-6.6,Vascular plants,Rumex acetosa,1,NISP,pollen,,,,,,28,46,pollen,6/30/2007,499,0.200400802
+3101,The Mire [Fallahogy],54.9,-6.6,54.9,54.9,-6.6,-6.6,Vascular plants,Rumex acetosa,4,NISP,pollen,,,,,,30,46,pollen,6/30/2007,751,0.532623169
+3101,The Mire [Fallahogy],54.9,-6.6,54.9,54.9,-6.6,-6.6,Vascular plants,Rumex acetosa,1,NISP,pollen,,,,,,32,46,pollen,6/30/2007,464,0.215517241
+3101,The Mire [Fallahogy],54.9,-6.6,54.9,54.9,-6.6,-6.6,Vascular plants,Rumex acetosa,3,NISP,pollen,,,,,,34,46,pollen,6/30/2007,797,0.376411543
+3101,The Mire [Fallahogy],54.9,-6.6,54.9,54.9,-6.6,-6.6,Vascular plants,Rumex acetosa,1,NISP,pollen,,,,,,40,46,pollen,6/30/2007,247,0.4048583
+3101,The Mire [Fallahogy],54.9,-6.6,54.9,54.9,-6.6,-6.6,Vascular plants,Rumex acetosa,1,NISP,pollen,,,,,,42,46,pollen,6/30/2007,500,0.2
+3101,The Mire [Fallahogy],54.9,-6.6,54.9,54.9,-6.6,-6.6,Vascular plants,Rumex acetosa,1,NISP,pollen,,,,,,52,46,pollen,6/30/2007,497,0.201207243
+3101,The Mire [Fallahogy],54.9,-6.6,54.9,54.9,-6.6,-6.6,Vascular plants,Rumex acetosa,1,NISP,pollen,,,,,,54,46,pollen,6/30/2007,498,0.200803213
+3101,The Mire [Fallahogy],54.9,-6.6,54.9,54.9,-6.6,-6.6,Vascular plants,Rumex acetosa,1,NISP,pollen,,,,,,74,46,pollen,6/30/2007,496,0.201612903
+3101,The Mire [Fallahogy],54.9,-6.6,54.9,54.9,-6.6,-6.6,Vascular plants,Rumex acetosa,2,NISP,pollen,,,,,,86,46,pollen,6/30/2007,483,0.414078675
+3101,The Mire [Fallahogy],54.9,-6.6,54.9,54.9,-6.6,-6.6,Vascular plants,Rumex acetosa,1,NISP,pollen,,,,,,88,46,pollen,6/30/2007,497,0.201207243
+3101,The Mire [Fallahogy],54.9,-6.6,54.9,54.9,-6.6,-6.6,Vascular plants,Rumex acetosa,5,NISP,pollen,,,,,,92,46,pollen,6/30/2007,374,1.336898396
+3101,The Mire [Fallahogy],54.9,-6.6,54.9,54.9,-6.6,-6.6,Vascular plants,Rumex acetosa,2,NISP,pollen,,,,,,94,46,pollen,6/30/2007,471,0.42462845
+3101,The Mire [Fallahogy],54.9,-6.6,54.9,54.9,-6.6,-6.6,Vascular plants,Rumex acetosa,1,NISP,pollen,,,,,,98,46,pollen,6/30/2007,475,0.210526316
+3101,The Mire [Fallahogy],54.9,-6.6,54.9,54.9,-6.6,-6.6,Vascular plants,Rumex acetosa,1,NISP,pollen,,,,,,104,46,pollen,6/30/2007,281,0.355871886
+3101,The Mire [Fallahogy],54.9,-6.6,54.9,54.9,-6.6,-6.6,Vascular plants,Rumex acetosa,1,NISP,pollen,,,,,,116,46,pollen,6/30/2007,491,0.203665988
+3101,The Mire [Fallahogy],54.9,-6.6,54.9,54.9,-6.6,-6.6,Vascular plants,Rumex acetosa,1,NISP,pollen,,,,,,128,46,pollen,6/30/2007,501,0.199600798
+3101,The Mire [Fallahogy],54.9,-6.6,54.9,54.9,-6.6,-6.6,Vascular plants,Rumex acetosa,1,NISP,pollen,,,,,,144,46,pollen,6/30/2007,507,0.197238659
+269,Billy's Lake,46.27058,-94.551555,46.27186,46.2693,-94.54948,-94.55363,Vascular plants,Rumex acetosa,1,NISP,pollen,,721,,,Radiocarbon years BP,260,383,pollen,6/30/2007,221,0.452488688
+269,Billy's Lake,46.27058,-94.551555,46.27186,46.2693,-94.54948,-94.55363,Vascular plants,Rumex acetosa,1,NISP,pollen,,1351,,,Radiocarbon years BP,310,383,pollen,6/30/2007,251,0.398406375
+269,Billy's Lake,46.27058,-94.551555,46.27186,46.2693,-94.54948,-94.55363,Vascular plants,Rumex acetosa,1,NISP,pollen,,3483,,,Radiocarbon years BP,560,383,pollen,6/30/2007,292,0.342465753
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Rumex acetosa,3,NISP,pollen,,63,,,Radiocarbon years BP,5,350,pollen,6/30/2007,558,0.537634409
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Rumex acetosa,11,NISP,pollen,,266,,,Radiocarbon years BP,20,350,pollen,6/30/2007,1150,0.956521739
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Rumex acetosa,2,NISP,pollen,,974,,,Radiocarbon years BP,70,350,pollen,6/30/2007,342,0.584795322
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Rumex acetosa,5,NISP,pollen,,1118,,,Radiocarbon years BP,80,350,pollen,6/30/2007,688,0.726744186
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Rumex acetosa,9,NISP,pollen,,1409,,,Radiocarbon years BP,100,350,pollen,6/30/2007,1003,0.897308076
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Rumex acetosa,21,NISP,pollen,,1702,,,Radiocarbon years BP,120,350,pollen,6/30/2007,1657,1.267350634
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Rumex acetosa,12,NISP,pollen,,1996,,,Radiocarbon years BP,140,350,pollen,6/30/2007,1200,1
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Rumex acetosa,4,NISP,pollen,,2441,,,Radiocarbon years BP,170,350,pollen,6/30/2007,774,0.516795866
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Rumex acetosa,3,NISP,pollen,,2739,,,Radiocarbon years BP,190,350,pollen,6/30/2007,622,0.482315113
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Rumex acetosa,6,NISP,pollen,,3038,,,Radiocarbon years BP,210,350,pollen,6/30/2007,724,0.828729282
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Rumex acetosa,14,NISP,pollen,,3338,,,Radiocarbon years BP,230,350,pollen,6/30/2007,1332,1.051051051
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Rumex acetosa,7,NISP,pollen,,3639,,,Radiocarbon years BP,250,350,pollen,6/30/2007,1184,0.591216216
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Rumex acetosa,5,NISP,pollen,,3941,,,Radiocarbon years BP,270,350,pollen,6/30/2007,791,0.632111252
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Rumex acetosa,5,NISP,pollen,,4244,,,Radiocarbon years BP,290,350,pollen,6/30/2007,2154,0.232126277
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Rumex acetosa,3,NISP,pollen,,4320,,,Radiocarbon years BP,295,350,pollen,6/30/2007,1315,0.228136882
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Rumex acetosa,1,NISP,pollen,,4700,,,Radiocarbon years BP,320,350,pollen,6/30/2007,885,0.11299435
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Rumex acetosa,1,NISP,pollen,,5462,,,Radiocarbon years BP,370,350,pollen,6/30/2007,1273,0.078554595
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Rumex acetosa,1,NISP,pollen,,5768,,,Radiocarbon years BP,390,350,pollen,6/30/2007,677,0.147710487
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Rumex acetosa,2,NISP,pollen,,6382,,,Radiocarbon years BP,430,350,pollen,6/30/2007,727,0.275103164
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Rumex acetosa,8,NISP,pollen,,6844,,,Radiocarbon years BP,460,350,pollen,6/30/2007,1406,0.568990043
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Rumex acetosa,3,NISP,pollen,,7152,,,Radiocarbon years BP,480,350,pollen,6/30/2007,456,0.657894737
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Rumex acetosa,8,NISP,pollen,,7925,,,Radiocarbon years BP,530,350,pollen,6/30/2007,540,1.481481481
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Rumex acetosa,3,NISP,pollen,,8080,,,Radiocarbon years BP,540,350,pollen,6/30/2007,502,0.597609562
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Rumex acetosa,5,NISP,pollen,,8390,,,Radiocarbon years BP,560,350,pollen,6/30/2007,269,1.858736059
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Rumex acetosa,13,NISP,pollen,,8701,,,Radiocarbon years BP,580,350,pollen,6/30/2007,554,2.346570397
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Rumex acetosa,13,NISP,pollen,,9090,,,Radiocarbon years BP,605,350,pollen,6/30/2007,671,1.937406855
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Rumex acetosa,4,NISP,pollen,,9323,,,Radiocarbon years BP,620,350,pollen,6/30/2007,365,1.095890411

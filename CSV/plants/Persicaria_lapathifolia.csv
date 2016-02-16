@@ -1,132 +1,131 @@
 siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
-656,Decoy Lake,43.233333,-80.366667,43.233333,43.233333,-80.366667,-80.366667,Vascular plants,Persicaria lapathifolia,1.0,NISP,pollen,,407.0,,,Radiocarbon years BP,40.0,260.0,pollen,6/30/2007,385.0,0.25974025974
-656,Decoy Lake,43.233333,-80.366667,43.233333,43.233333,-80.366667,-80.366667,Vascular plants,Persicaria lapathifolia,2.0,NISP,pollen,,612.0,,,Radiocarbon years BP,45.0,260.0,pollen,6/30/2007,399.0,0.501253132832
-656,Decoy Lake,43.233333,-80.366667,43.233333,43.233333,-80.366667,-80.366667,Vascular plants,Persicaria lapathifolia,1.0,NISP,pollen,,817.0,,,Radiocarbon years BP,50.0,260.0,pollen,6/30/2007,376.5,0.265604249668
-656,Decoy Lake,43.233333,-80.366667,43.233333,43.233333,-80.366667,-80.366667,Vascular plants,Persicaria lapathifolia,1.5,NISP,pollen,,1227.0,,,Radiocarbon years BP,60.0,260.0,pollen,6/30/2007,328.0,0.457317073171
-656,Decoy Lake,43.233333,-80.366667,43.233333,43.233333,-80.366667,-80.366667,Vascular plants,Persicaria lapathifolia,3.0,NISP,pollen,,1841.0,,,Radiocarbon years BP,75.0,260.0,pollen,6/30/2007,394.0,0.761421319797
-656,Decoy Lake,43.233333,-80.366667,43.233333,43.233333,-80.366667,-80.366667,Vascular plants,Persicaria lapathifolia,1.0,NISP,pollen,,2251.0,,,Radiocarbon years BP,85.0,260.0,pollen,6/30/2007,385.0,0.25974025974
-656,Decoy Lake,43.233333,-80.366667,43.233333,43.233333,-80.366667,-80.366667,Vascular plants,Persicaria lapathifolia,4.0,NISP,pollen,,3161.0,,,Radiocarbon years BP,100.0,260.0,pollen,6/30/2007,412.5,0.969696969697
-656,Decoy Lake,43.233333,-80.366667,43.233333,43.233333,-80.366667,-80.366667,Vascular plants,Persicaria lapathifolia,21.0,NISP,pollen,,3613.0,,,Radiocarbon years BP,105.0,260.0,pollen,6/30/2007,374.0,5.61497326203
-656,Decoy Lake,43.233333,-80.366667,43.233333,43.233333,-80.366667,-80.366667,Vascular plants,Persicaria lapathifolia,3.0,NISP,pollen,,4064.0,,,Radiocarbon years BP,110.0,260.0,pollen,6/30/2007,364.5,0.82304526749
-656,Decoy Lake,43.233333,-80.366667,43.233333,43.233333,-80.366667,-80.366667,Vascular plants,Persicaria lapathifolia,1.0,NISP,pollen,,4515.0,,,Radiocarbon years BP,115.0,260.0,pollen,6/30/2007,370.5,0.269905533063
-656,Decoy Lake,43.233333,-80.366667,43.233333,43.233333,-80.366667,-80.366667,Vascular plants,Persicaria lapathifolia,4.0,NISP,pollen,,4966.0,,,Radiocarbon years BP,120.0,260.0,pollen,6/30/2007,365.5,1.09439124487
-656,Decoy Lake,43.233333,-80.366667,43.233333,43.233333,-80.366667,-80.366667,Vascular plants,Persicaria lapathifolia,3.5,NISP,pollen,,5418.0,,,Radiocarbon years BP,125.0,260.0,pollen,6/30/2007,383.0,0.913838120104
-656,Decoy Lake,43.233333,-80.366667,43.233333,43.233333,-80.366667,-80.366667,Vascular plants,Persicaria lapathifolia,1.0,NISP,pollen,,5869.0,,,Radiocarbon years BP,130.0,260.0,pollen,6/30/2007,336.0,0.297619047619
-656,Decoy Lake,43.233333,-80.366667,43.233333,43.233333,-80.366667,-80.366667,Vascular plants,Persicaria lapathifolia,2.0,NISP,pollen,,6320.0,,,Radiocarbon years BP,135.0,260.0,pollen,6/30/2007,358.5,0.557880055788
-656,Decoy Lake,43.233333,-80.366667,43.233333,43.233333,-80.366667,-80.366667,Vascular plants,Persicaria lapathifolia,1.0,NISP,pollen,,6419.0,,,Radiocarbon years BP,140.0,260.0,pollen,6/30/2007,313.0,0.319488817891
-656,Decoy Lake,43.233333,-80.366667,43.233333,43.233333,-80.366667,-80.366667,Vascular plants,Persicaria lapathifolia,1.0,NISP,pollen,,8203.0,,,Radiocarbon years BP,230.0,260.0,pollen,6/30/2007,381.0,0.262467191601
-656,Decoy Lake,43.233333,-80.366667,43.233333,43.233333,-80.366667,-80.366667,Vascular plants,Persicaria lapathifolia,1.0,NISP,pollen,,8832.0,,,Radiocarbon years BP,275.0,260.0,pollen,6/30/2007,341.0,0.293255131965
-656,Decoy Lake,43.233333,-80.366667,43.233333,43.233333,-80.366667,-80.366667,Vascular plants,Persicaria lapathifolia,1.0,NISP,pollen,,8971.0,,,Radiocarbon years BP,290.0,260.0,pollen,6/30/2007,349.0,0.286532951289
-656,Decoy Lake,43.233333,-80.366667,43.233333,43.233333,-80.366667,-80.366667,Vascular plants,Persicaria lapathifolia,1.0,NISP,pollen,,9018.0,,,Radiocarbon years BP,295.0,260.0,pollen,6/30/2007,400.5,0.249687890137
-656,Decoy Lake,43.233333,-80.366667,43.233333,43.233333,-80.366667,-80.366667,Vascular plants,Persicaria lapathifolia,4.0,NISP,pollen,,9064.0,,,Radiocarbon years BP,300.0,260.0,pollen,6/30/2007,364.0,1.0989010989
-656,Decoy Lake,43.233333,-80.366667,43.233333,43.233333,-80.366667,-80.366667,Vascular plants,Persicaria lapathifolia,1.0,NISP,pollen,,9250.0,,,Radiocarbon years BP,320.0,260.0,pollen,6/30/2007,376.5,0.265604249668
-656,Decoy Lake,43.233333,-80.366667,43.233333,43.233333,-80.366667,-80.366667,Vascular plants,Persicaria lapathifolia,1.0,NISP,pollen,,9343.0,,,Radiocarbon years BP,330.0,260.0,pollen,6/30/2007,371.5,0.269179004038
-656,Decoy Lake,43.233333,-80.366667,43.233333,43.233333,-80.366667,-80.366667,Vascular plants,Persicaria lapathifolia,1.0,NISP,pollen,,9389.0,,,Radiocarbon years BP,335.0,260.0,pollen,6/30/2007,367.5,0.272108843537
-656,Decoy Lake,43.233333,-80.366667,43.233333,43.233333,-80.366667,-80.366667,Vascular plants,Persicaria lapathifolia,1.0,NISP,pollen,,9436.0,,,Radiocarbon years BP,340.0,260.0,pollen,6/30/2007,371.0,0.269541778976
-656,Decoy Lake,43.233333,-80.366667,43.233333,43.233333,-80.366667,-80.366667,Vascular plants,Persicaria lapathifolia,1.0,NISP,pollen,,9482.0,,,Radiocarbon years BP,345.0,260.0,pollen,6/30/2007,361.5,0.276625172891
-656,Decoy Lake,43.233333,-80.366667,43.233333,43.233333,-80.366667,-80.366667,Vascular plants,Persicaria lapathifolia,1.0,NISP,pollen,,9575.0,,,Radiocarbon years BP,355.0,260.0,pollen,6/30/2007,357.5,0.27972027972
-656,Decoy Lake,43.233333,-80.366667,43.233333,43.233333,-80.366667,-80.366667,Vascular plants,Persicaria lapathifolia,2.0,NISP,pollen,,9621.0,,,Radiocarbon years BP,360.0,260.0,pollen,6/30/2007,406.5,0.492004920049
-656,Decoy Lake,43.233333,-80.366667,43.233333,43.233333,-80.366667,-80.366667,Vascular plants,Persicaria lapathifolia,1.0,NISP,pollen,,9807.0,,,Radiocarbon years BP,380.0,260.0,pollen,6/30/2007,417.0,0.239808153477
-656,Decoy Lake,43.233333,-80.366667,43.233333,43.233333,-80.366667,-80.366667,Vascular plants,Persicaria lapathifolia,1.0,NISP,pollen,,9946.0,,,Radiocarbon years BP,395.0,260.0,pollen,6/30/2007,380.0,0.263157894737
-656,Decoy Lake,43.233333,-80.366667,43.233333,43.233333,-80.366667,-80.366667,Vascular plants,Persicaria lapathifolia,2.0,NISP,pollen,,10039.0,,,Radiocarbon years BP,405.0,260.0,pollen,6/30/2007,375.5,0.532623169108
-656,Decoy Lake,43.233333,-80.366667,43.233333,43.233333,-80.366667,-80.366667,Vascular plants,Persicaria lapathifolia,1.0,NISP,pollen,,10303.0,,,Radiocarbon years BP,425.0,260.0,pollen,6/30/2007,357.0,0.280112044818
-975,Harding Lake,64.444444,-146.9075,64.444444,64.444444,-146.9075,-146.9075,Vascular plants,Persicaria lapathifolia,1.0,NISP,pollen,,16946.0,,,Radiocarbon years BP,588.0,,pollen,6/30/2007,304.0,0.328947368421
-993,Healy Lake,64.0,-144.75,64.0,64.0,-144.75,-144.75,Vascular plants,Persicaria lapathifolia,1.0,NISP,pollen,,6087.0,,,Radiocarbon years BP,227.0,343.0,pollen,6/30/2007,359.0,0.278551532033
-2448,Stations 96-97 (Lichti-Federovich and Ritchie 1968),50.83,-104.05,50.83,50.83,-104.05,-104.05,Vascular plants,Persicaria lapathifolia,9.0,NISP,pollen,,,,,,0.0,602.0,pollen surface sample,6/30/2007,,
-2430,Stations 40-43 (Lichti-Federovich and Ritchie 1968),55.75,-105.67,55.75,55.75,-105.67,-105.67,Vascular plants,Persicaria lapathifolia,1.0,NISP,pollen,,,,,,0.0,358.0,pollen surface sample,6/30/2007,,
-2438,Stations 77-81 (Lichti-Federovich and Ritchie 1968),53.75,-102.67,53.75,53.75,-102.67,-102.67,Vascular plants,Persicaria lapathifolia,4.0,NISP,pollen,,,,,,0.0,271.0,pollen surface sample,6/30/2007,,
-3110,Mobeche Forest,48.516667,-1.0,48.516667,48.516667,-1.0,-1.0,Vascular plants,Persicaria lapathifolia,1.0,NISP,pollen,,274.0,,,Radiocarbon years BP,20.0,,pollen,6/30/2007,289.0,0.346020761246
-3110,Mobeche Forest,48.516667,-1.0,48.516667,48.516667,-1.0,-1.0,Vascular plants,Persicaria lapathifolia,1.0,NISP,pollen,,355.0,,,Radiocarbon years BP,37.0,,pollen,6/30/2007,170.0,0.588235294118
-3110,Mobeche Forest,48.516667,-1.0,48.516667,48.516667,-1.0,-1.0,Vascular plants,Persicaria lapathifolia,1.0,NISP,pollen,,378.0,,,Radiocarbon years BP,42.0,,pollen,6/30/2007,144.0,0.694444444444
-3110,Mobeche Forest,48.516667,-1.0,48.516667,48.516667,-1.0,-1.0,Vascular plants,Persicaria lapathifolia,1.0,NISP,pollen,,393.0,,,Radiocarbon years BP,45.0,,pollen,6/30/2007,189.0,0.529100529101
-3110,Mobeche Forest,48.516667,-1.0,48.516667,48.516667,-1.0,-1.0,Vascular plants,Persicaria lapathifolia,1.0,NISP,pollen,,426.0,,,Radiocarbon years BP,52.0,,pollen,6/30/2007,130.0,0.769230769231
-3110,Mobeche Forest,48.516667,-1.0,48.516667,48.516667,-1.0,-1.0,Vascular plants,Persicaria lapathifolia,1.0,NISP,pollen,,488.0,,,Radiocarbon years BP,65.0,,pollen,6/30/2007,445.0,0.224719101124
-3110,Mobeche Forest,48.516667,-1.0,48.516667,48.516667,-1.0,-1.0,Vascular plants,Persicaria lapathifolia,1.0,NISP,pollen,,630.0,,,Radiocarbon years BP,95.0,,pollen,6/30/2007,325.0,0.307692307692
-3110,Mobeche Forest,48.516667,-1.0,48.516667,48.516667,-1.0,-1.0,Vascular plants,Persicaria lapathifolia,2.0,NISP,pollen,,701.0,,,Radiocarbon years BP,110.0,,pollen,6/30/2007,308.0,0.649350649351
-3110,Mobeche Forest,48.516667,-1.0,48.516667,48.516667,-1.0,-1.0,Vascular plants,Persicaria lapathifolia,1.0,NISP,pollen,,711.0,,,Radiocarbon years BP,112.0,,pollen,6/30/2007,441.0,0.226757369615
-3110,Mobeche Forest,48.516667,-1.0,48.516667,48.516667,-1.0,-1.0,Vascular plants,Persicaria lapathifolia,1.0,NISP,pollen,,830.0,,,Radiocarbon years BP,137.0,,pollen,6/30/2007,201.0,0.497512437811
-3110,Mobeche Forest,48.516667,-1.0,48.516667,48.516667,-1.0,-1.0,Vascular plants,Persicaria lapathifolia,1.0,NISP,pollen,,1162.0,,,Radiocarbon years BP,207.0,,pollen,6/30/2007,219.0,0.456621004566
-3111,Malhaire,48.5,-1.0,48.5,48.5,-1.0,-1.0,Vascular plants,Persicaria lapathifolia,1.0,NISP,pollen,,61.0,,,Radiocarbon years BP,8.0,,pollen,6/30/2007,410.0,0.243902439024
-3111,Malhaire,48.5,-1.0,48.5,48.5,-1.0,-1.0,Vascular plants,Persicaria lapathifolia,2.0,NISP,pollen,,512.0,,,Radiocarbon years BP,67.0,,pollen,6/30/2007,509.0,0.392927308448
-3111,Malhaire,48.5,-1.0,48.5,48.5,-1.0,-1.0,Vascular plants,Persicaria lapathifolia,1.0,NISP,pollen,,535.0,,,Radiocarbon years BP,70.0,,pollen,6/30/2007,436.0,0.229357798165
-3111,Malhaire,48.5,-1.0,48.5,48.5,-1.0,-1.0,Vascular plants,Persicaria lapathifolia,1.0,NISP,pollen,,611.0,,,Radiocarbon years BP,80.0,,pollen,6/30/2007,376.0,0.265957446809
-3111,Malhaire,48.5,-1.0,48.5,48.5,-1.0,-1.0,Vascular plants,Persicaria lapathifolia,1.0,NISP,pollen,,649.0,,,Radiocarbon years BP,85.0,,pollen,6/30/2007,356.0,0.280898876404
-3111,Malhaire,48.5,-1.0,48.5,48.5,-1.0,-1.0,Vascular plants,Persicaria lapathifolia,1.0,NISP,pollen,,726.0,,,Radiocarbon years BP,95.0,,pollen,6/30/2007,371.0,0.269541778976
-3111,Malhaire,48.5,-1.0,48.5,48.5,-1.0,-1.0,Vascular plants,Persicaria lapathifolia,2.0,NISP,pollen,,764.0,,,Radiocarbon years BP,100.0,,pollen,6/30/2007,332.0,0.602409638554
-3111,Malhaire,48.5,-1.0,48.5,48.5,-1.0,-1.0,Vascular plants,Persicaria lapathifolia,1.0,NISP,pollen,,802.0,,,Radiocarbon years BP,105.0,,pollen,6/30/2007,322.0,0.310559006211
-3111,Malhaire,48.5,-1.0,48.5,48.5,-1.0,-1.0,Vascular plants,Persicaria lapathifolia,1.0,NISP,pollen,,825.0,,,Radiocarbon years BP,108.0,,pollen,6/30/2007,340.0,0.294117647059
-3111,Malhaire,48.5,-1.0,48.5,48.5,-1.0,-1.0,Vascular plants,Persicaria lapathifolia,1.0,NISP,pollen,,840.0,,,Radiocarbon years BP,110.0,,pollen,6/30/2007,345.0,0.289855072464
-3111,Malhaire,48.5,-1.0,48.5,48.5,-1.0,-1.0,Vascular plants,Persicaria lapathifolia,1.0,NISP,pollen,,878.0,,,Radiocarbon years BP,115.0,,pollen,6/30/2007,404.0,0.247524752475
-3111,Malhaire,48.5,-1.0,48.5,48.5,-1.0,-1.0,Vascular plants,Persicaria lapathifolia,1.0,NISP,pollen,,993.0,,,Radiocarbon years BP,130.0,,pollen,6/30/2007,293.0,0.341296928328
-3111,Malhaire,48.5,-1.0,48.5,48.5,-1.0,-1.0,Vascular plants,Persicaria lapathifolia,1.0,NISP,pollen,,1131.0,,,Radiocarbon years BP,148.0,,pollen,6/30/2007,384.0,0.260416666667
-3111,Malhaire,48.5,-1.0,48.5,48.5,-1.0,-1.0,Vascular plants,Persicaria lapathifolia,2.0,NISP,pollen,,1245.0,,,Radiocarbon years BP,163.0,,pollen,6/30/2007,418.0,0.478468899522
-3111,Malhaire,48.5,-1.0,48.5,48.5,-1.0,-1.0,Vascular plants,Persicaria lapathifolia,1.0,NISP,pollen,,1513.0,,,Radiocarbon years BP,198.0,,pollen,6/30/2007,424.0,0.235849056604
-3111,Malhaire,48.5,-1.0,48.5,48.5,-1.0,-1.0,Vascular plants,Persicaria lapathifolia,1.0,NISP,pollen,,1757.0,,,Radiocarbon years BP,230.0,,pollen,6/30/2007,560.0,0.178571428571
-siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
-245,Beckman Lake,45.425,-93.183333,45.425,45.425,-93.183333,-93.183333,Vascular plants,Persicaria lapathifolia-type,1.0,NISP,pollen,,3460.0,,,Radiocarbon years BP,205.0,278.0,pollen,6/30/2007,313.0,0.319488817891
-266,Big John Pond,47.559175,-94.970775,47.56018,47.55817,-94.96931,-94.97224,Vascular plants,Persicaria lapathifolia-type,2.0,NISP,pollen,,1154.0,,,Radiocarbon years BP,50.0,421.0,pollen,6/30/2007,385.0,0.519480519481
-266,Big John Pond,47.559175,-94.970775,47.56018,47.55817,-94.96931,-94.97224,Vascular plants,Persicaria lapathifolia-type,1.0,NISP,pollen,,3053.0,,,Radiocarbon years BP,115.0,421.0,pollen,6/30/2007,390.0,0.25641025641
-266,Big John Pond,47.559175,-94.970775,47.56018,47.55817,-94.96931,-94.97224,Vascular plants,Persicaria lapathifolia-type,2.0,NISP,pollen,,3937.0,,,Radiocarbon years BP,145.0,421.0,pollen,6/30/2007,387.5,0.516129032258
-269,Billy's Lake,46.27058,-94.551555,46.27186,46.2693,-94.54948,-94.55363,Vascular plants,Persicaria lapathifolia-type,1.0,NISP,pollen,,506.0,,,Radiocarbon years BP,244.0,383.0,pollen,6/30/2007,249.0,0.401606425703
-309,Browns Pond,38.154722,-79.616389,38.154722,38.154722,-79.616389,-79.616389,Vascular plants,Persicaria lapathifolia-type,1.0,NISP,pollen,,606.0,,,Radiocarbon years BP,10.0,620.0,pollen,6/30/2007,438.0,0.228310502283
-309,Browns Pond,38.154722,-79.616389,38.154722,38.154722,-79.616389,-79.616389,Vascular plants,Persicaria lapathifolia-type,1.0,NISP,pollen,,2425.0,,,Radiocarbon years BP,40.0,620.0,pollen,6/30/2007,333.0,0.3003003003
-309,Browns Pond,38.154722,-79.616389,38.154722,38.154722,-79.616389,-79.616389,Vascular plants,Persicaria lapathifolia-type,4.0,NISP,pollen,,3031.0,,,Radiocarbon years BP,50.0,620.0,pollen,6/30/2007,364.0,1.0989010989
-309,Browns Pond,38.154722,-79.616389,38.154722,38.154722,-79.616389,-79.616389,Vascular plants,Persicaria lapathifolia-type,1.0,NISP,pollen,,3638.0,,,Radiocarbon years BP,60.0,620.0,pollen,6/30/2007,375.0,0.266666666667
-309,Browns Pond,38.154722,-79.616389,38.154722,38.154722,-79.616389,-79.616389,Vascular plants,Persicaria lapathifolia-type,4.0,NISP,pollen,,4244.0,,,Radiocarbon years BP,70.0,620.0,pollen,6/30/2007,488.0,0.819672131148
-309,Browns Pond,38.154722,-79.616389,38.154722,38.154722,-79.616389,-79.616389,Vascular plants,Persicaria lapathifolia-type,8.0,NISP,pollen,,4850.0,,,Radiocarbon years BP,80.0,620.0,pollen,6/30/2007,523.0,1.52963671128
-309,Browns Pond,38.154722,-79.616389,38.154722,38.154722,-79.616389,-79.616389,Vascular plants,Persicaria lapathifolia-type,6.0,NISP,pollen,,5456.0,,,Radiocarbon years BP,90.0,620.0,pollen,6/30/2007,461.0,1.30151843818
-309,Browns Pond,38.154722,-79.616389,38.154722,38.154722,-79.616389,-79.616389,Vascular plants,Persicaria lapathifolia-type,1.0,NISP,pollen,,6063.0,,,Radiocarbon years BP,100.0,620.0,pollen,6/30/2007,472.0,0.21186440678
-309,Browns Pond,38.154722,-79.616389,38.154722,38.154722,-79.616389,-79.616389,Vascular plants,Persicaria lapathifolia-type,2.0,NISP,pollen,,6669.0,,,Radiocarbon years BP,110.0,620.0,pollen,6/30/2007,448.0,0.446428571429
-309,Browns Pond,38.154722,-79.616389,38.154722,38.154722,-79.616389,-79.616389,Vascular plants,Persicaria lapathifolia-type,6.0,NISP,pollen,,7275.0,,,Radiocarbon years BP,120.0,620.0,pollen,6/30/2007,424.0,1.41509433962
-309,Browns Pond,38.154722,-79.616389,38.154722,38.154722,-79.616389,-79.616389,Vascular plants,Persicaria lapathifolia-type,6.0,NISP,pollen,,7869.0,,,Radiocarbon years BP,130.0,620.0,pollen,6/30/2007,351.0,1.7094017094
-309,Browns Pond,38.154722,-79.616389,38.154722,38.154722,-79.616389,-79.616389,Vascular plants,Persicaria lapathifolia-type,1.0,NISP,pollen,,8423.0,,,Radiocarbon years BP,140.0,620.0,pollen,6/30/2007,18.0,5.55555555556
-309,Browns Pond,38.154722,-79.616389,38.154722,38.154722,-79.616389,-79.616389,Vascular plants,Persicaria lapathifolia-type,5.0,NISP,pollen,,8977.0,,,Radiocarbon years BP,150.0,620.0,pollen,6/30/2007,442.0,1.13122171946
-309,Browns Pond,38.154722,-79.616389,38.154722,38.154722,-79.616389,-79.616389,Vascular plants,Persicaria lapathifolia-type,1.0,NISP,pollen,,9531.0,,,Radiocarbon years BP,160.0,620.0,pollen,6/30/2007,337.0,0.296735905045
-309,Browns Pond,38.154722,-79.616389,38.154722,38.154722,-79.616389,-79.616389,Vascular plants,Persicaria lapathifolia-type,1.0,NISP,pollen,,10085.0,,,Radiocarbon years BP,170.0,620.0,pollen,6/30/2007,383.0,0.261096605744
-309,Browns Pond,38.154722,-79.616389,38.154722,38.154722,-79.616389,-79.616389,Vascular plants,Persicaria lapathifolia-type,1.0,NISP,pollen,,13370.0,,,Radiocarbon years BP,260.0,620.0,pollen,6/30/2007,371.0,0.269541778976
-309,Browns Pond,38.154722,-79.616389,38.154722,38.154722,-79.616389,-79.616389,Vascular plants,Persicaria lapathifolia-type,1.0,NISP,pollen,,13945.0,,,Radiocarbon years BP,310.1,620.0,pollen,6/30/2007,426.0,0.234741784038
-309,Browns Pond,38.154722,-79.616389,38.154722,38.154722,-79.616389,-79.616389,Vascular plants,Persicaria lapathifolia-type,1.0,NISP,pollen,,16148.0,,,Radiocarbon years BP,380.0,620.0,pollen,6/30/2007,500.0,0.2
-312,Buck Lake,27.234444,-81.332222,27.234444,27.234444,-81.332222,-81.332222,Vascular plants,Persicaria lapathifolia-type,1.0,NISP,pollen,,7282.0,,,Radiocarbon years BP,1955.0,45.0,pollen,6/30/2007,328.0,0.30487804878
-312,Buck Lake,27.234444,-81.332222,27.234444,27.234444,-81.332222,-81.332222,Vascular plants,Persicaria lapathifolia-type,1.0,NISP,pollen,,7502.0,,,Radiocarbon years BP,1975.0,45.0,pollen,6/30/2007,376.0,0.265957446809
-312,Buck Lake,27.234444,-81.332222,27.234444,27.234444,-81.332222,-81.332222,Vascular plants,Persicaria lapathifolia-type,1.0,NISP,pollen,,7831.0,,,Radiocarbon years BP,2005.0,45.0,pollen,6/30/2007,371.0,0.269541778976
-312,Buck Lake,27.234444,-81.332222,27.234444,27.234444,-81.332222,-81.332222,Vascular plants,Persicaria lapathifolia-type,1.0,NISP,pollen,,7941.0,,,Radiocarbon years BP,2015.0,45.0,pollen,6/30/2007,355.0,0.281690140845
-344,Cedar Bog,45.411111,-93.197222,45.411111,45.411111,-93.197222,-93.197222,Vascular plants,Persicaria lapathifolia-type,1.0,NISP,pollen,,7083.0,,,Radiocarbon years BP,830.0,,pollen,6/30/2007,1094.0,0.091407678245
-500,Cottonwood Lake,44.835435,-99.90806,44.84519,44.82568,-99.89006,-99.92606,Vascular plants,Persicaria lapathifolia-type,4.0,NISP,pollen,,3046.0,,,Radiocarbon years BP,496.0,549.0,pollen,6/30/2007,631.0,0.633914421553
-811,Floating Island Lake,44.55,-107.466667,44.55,44.55,-107.466667,-107.466667,Vascular plants,Persicaria lapathifolia-type,1.0,NISP,pollen,,3483.0,,,Radiocarbon years BP,430.0,2609.0,pollen,6/30/2007,201.0,0.497512437811
-811,Floating Island Lake,44.55,-107.466667,44.55,44.55,-107.466667,-107.466667,Vascular plants,Persicaria lapathifolia-type,1.0,NISP,pollen,,6675.0,,,Radiocarbon years BP,750.0,2609.0,pollen,6/30/2007,308.0,0.324675324675
-811,Floating Island Lake,44.55,-107.466667,44.55,44.55,-107.466667,-107.466667,Vascular plants,Persicaria lapathifolia-type,1.0,NISP,pollen,,7000.0,,,Radiocarbon years BP,780.0,2609.0,pollen,6/30/2007,297.0,0.3367003367
-811,Floating Island Lake,44.55,-107.466667,44.55,44.55,-107.466667,-107.466667,Vascular plants,Persicaria lapathifolia-type,1.0,NISP,pollen,,7773.0,,,Radiocarbon years BP,850.0,2609.0,pollen,6/30/2007,332.0,0.301204819277
-824,French Lake,44.945765,-94.42074,44.9482,44.94333,-94.41676,-94.42472,Vascular plants,Persicaria lapathifolia-type,1.0,NISP,pollen,,41.0,,,Radiocarbon years BP,630.0,327.0,pollen,6/30/2007,821.0,0.121802679659
-824,French Lake,44.945765,-94.42074,44.9482,44.94333,-94.41676,-94.42472,Vascular plants,Persicaria lapathifolia-type,1.0,NISP,pollen,,228.0,,,Radiocarbon years BP,680.0,327.0,pollen,6/30/2007,835.0,0.119760479042
-824,French Lake,44.945765,-94.42074,44.9482,44.94333,-94.41676,-94.42472,Vascular plants,Persicaria lapathifolia-type,2.0,NISP,pollen,,2295.0,,,Radiocarbon years BP,950.0,327.0,pollen,6/30/2007,704.0,0.284090909091
-941,Gould Pond,44.983333,-69.316667,44.983333,44.983333,-69.316667,-69.316667,Vascular plants,Persicaria lapathifolia-type,1.0,NISP,pollen,,98.0,,,Radiocarbon years BP,800.0,89.0,pollen,6/30/2007,318.0,0.314465408805
-1078,Hostage Lake,46.55,-94.133333,46.55,46.55,-94.133333,-94.133333,Vascular plants,Persicaria lapathifolia-type,1.0,NISP,pollen,,619.0,,,Radiocarbon years BP,100.0,368.0,pollen,6/30/2007,397.0,0.251889168766
-1078,Hostage Lake,46.55,-94.133333,46.55,46.55,-94.133333,-94.133333,Vascular plants,Persicaria lapathifolia-type,1.0,NISP,pollen,,1652.0,,,Radiocarbon years BP,225.0,368.0,pollen,6/30/2007,505.0,0.19801980198
-1119,Irvin Lake,47.135556,-93.643611,47.135556,47.135556,-93.643611,-93.643611,Vascular plants,Persicaria lapathifolia-type,1.0,NISP,pollen,,1617.0,,,Radiocarbon years BP,75.0,478.0,pollen,6/30/2007,312.0,0.320512820513
-1119,Irvin Lake,47.135556,-93.643611,47.135556,47.135556,-93.643611,-93.643611,Vascular plants,Persicaria lapathifolia-type,1.0,NISP,pollen,,1822.0,,,Radiocarbon years BP,115.0,478.0,pollen,6/30/2007,513.0,0.194931773879
-1119,Irvin Lake,47.135556,-93.643611,47.135556,47.135556,-93.643611,-93.643611,Vascular plants,Persicaria lapathifolia-type,1.0,NISP,pollen,,10077.0,,,Radiocarbon years BP,720.0,478.0,pollen,6/30/2007,326.0,0.306748466258
-1220,Jewell Site,42.26,-93.7,42.26,42.26,-93.7,-93.7,Vascular plants,Persicaria lapathifolia-type,2.0,NISP,pollen,,1056.0,,,Radiocarbon years BP,33.0,317.0,pollen,6/30/2007,647.0,0.309119010819
-1220,Jewell Site,42.26,-93.7,42.26,42.26,-93.7,-93.7,Vascular plants,Persicaria lapathifolia-type,6.0,NISP,pollen,,1505.0,,,Radiocarbon years BP,47.0,317.0,pollen,6/30/2007,1128.0,0.531914893617
-1220,Jewell Site,42.26,-93.7,42.26,42.26,-93.7,-93.7,Vascular plants,Persicaria lapathifolia-type,4.0,NISP,pollen,,2241.0,,,Radiocarbon years BP,70.0,317.0,pollen,6/30/2007,593.0,0.674536256324
-1220,Jewell Site,42.26,-93.7,42.26,42.26,-93.7,-93.7,Vascular plants,Persicaria lapathifolia-type,3.0,NISP,pollen,,3522.0,,,Radiocarbon years BP,110.0,317.0,pollen,6/30/2007,759.0,0.395256916996
-1220,Jewell Site,42.26,-93.7,42.26,42.26,-93.7,-93.7,Vascular plants,Persicaria lapathifolia-type,3.0,NISP,pollen,,4162.0,,,Radiocarbon years BP,130.0,317.0,pollen,6/30/2007,855.0,0.350877192982
-1220,Jewell Site,42.26,-93.7,42.26,42.26,-93.7,-93.7,Vascular plants,Persicaria lapathifolia-type,2.0,NISP,pollen,,4867.0,,,Radiocarbon years BP,152.0,317.0,pollen,6/30/2007,670.0,0.298507462687
-1220,Jewell Site,42.26,-93.7,42.26,42.26,-93.7,-93.7,Vascular plants,Persicaria lapathifolia-type,1.0,NISP,pollen,,5571.0,,,Radiocarbon years BP,174.0,317.0,pollen,6/30/2007,691.0,0.144717800289
-1220,Jewell Site,42.26,-93.7,42.26,42.26,-93.7,-93.7,Vascular plants,Persicaria lapathifolia-type,1.0,NISP,pollen,,6054.0,,,Radiocarbon years BP,198.0,317.0,pollen,6/30/2007,656.0,0.15243902439
-1220,Jewell Site,42.26,-93.7,42.26,42.26,-93.7,-93.7,Vascular plants,Persicaria lapathifolia-type,2.0,NISP,pollen,,6599.0,,,Radiocarbon years BP,240.0,317.0,pollen,6/30/2007,704.0,0.284090909091
-1220,Jewell Site,42.26,-93.7,42.26,42.26,-93.7,-93.7,Vascular plants,Persicaria lapathifolia-type,1.0,NISP,pollen,,6794.0,,,Radiocarbon years BP,255.0,317.0,pollen,6/30/2007,665.0,0.15037593985
-1220,Jewell Site,42.26,-93.7,42.26,42.26,-93.7,-93.7,Vascular plants,Persicaria lapathifolia-type,2.0,NISP,pollen,,6989.0,,,Radiocarbon years BP,270.0,317.0,pollen,6/30/2007,650.0,0.307692307692
-1220,Jewell Site,42.26,-93.7,42.26,42.26,-93.7,-93.7,Vascular plants,Persicaria lapathifolia-type,2.0,NISP,pollen,,7183.0,,,Radiocarbon years BP,285.0,317.0,pollen,6/30/2007,628.0,0.31847133758
-1220,Jewell Site,42.26,-93.7,42.26,42.26,-93.7,-93.7,Vascular plants,Persicaria lapathifolia-type,4.0,NISP,pollen,,7560.0,,,Radiocarbon years BP,314.0,317.0,pollen,6/30/2007,654.0,0.611620795107
-1220,Jewell Site,42.26,-93.7,42.26,42.26,-93.7,-93.7,Vascular plants,Persicaria lapathifolia-type,3.0,NISP,pollen,,7704.0,,,Radiocarbon years BP,328.0,317.0,pollen,6/30/2007,754.0,0.397877984085
-1220,Jewell Site,42.26,-93.7,42.26,42.26,-93.7,-93.7,Vascular plants,Persicaria lapathifolia-type,4.0,NISP,pollen,,7754.0,,,Radiocarbon years BP,342.0,317.0,pollen,6/30/2007,716.0,0.558659217877
-1220,Jewell Site,42.26,-93.7,42.26,42.26,-93.7,-93.7,Vascular plants,Persicaria lapathifolia-type,4.0,NISP,pollen,,7804.0,,,Radiocarbon years BP,356.0,317.0,pollen,6/30/2007,698.0,0.573065902579
-1220,Jewell Site,42.26,-93.7,42.26,42.26,-93.7,-93.7,Vascular plants,Persicaria lapathifolia-type,4.0,NISP,pollen,,7848.0,,,Radiocarbon years BP,368.0,317.0,pollen,6/30/2007,639.0,0.625978090767
-1220,Jewell Site,42.26,-93.7,42.26,42.26,-93.7,-93.7,Vascular plants,Persicaria lapathifolia-type,1.0,NISP,pollen,,7891.0,,,Radiocarbon years BP,380.0,317.0,pollen,6/30/2007,614.0,0.162866449511
-1220,Jewell Site,42.26,-93.7,42.26,42.26,-93.7,-93.7,Vascular plants,Persicaria lapathifolia-type,3.0,NISP,pollen,,7927.0,,,Radiocarbon years BP,390.0,317.0,pollen,6/30/2007,574.0,0.522648083624
-1220,Jewell Site,42.26,-93.7,42.26,42.26,-93.7,-93.7,Vascular plants,Persicaria lapathifolia-type,3.0,NISP,pollen,,7963.0,,,Radiocarbon years BP,400.0,317.0,pollen,6/30/2007,692.0,0.433526011561
-1220,Jewell Site,42.26,-93.7,42.26,42.26,-93.7,-93.7,Vascular plants,Persicaria lapathifolia-type,1.0,NISP,pollen,,7998.0,,,Radiocarbon years BP,410.0,317.0,pollen,6/30/2007,578.0,0.173010380623
-1220,Jewell Site,42.26,-93.7,42.26,42.26,-93.7,-93.7,Vascular plants,Persicaria lapathifolia-type,10.0,NISP,pollen,,8142.0,,,Radiocarbon years BP,450.0,317.0,pollen,6/30/2007,680.0,1.47058823529
-1220,Jewell Site,42.26,-93.7,42.26,42.26,-93.7,-93.7,Vascular plants,Persicaria lapathifolia-type,2.0,NISP,pollen,,8171.0,,,Radiocarbon years BP,458.0,317.0,pollen,6/30/2007,749.0,0.267022696929
-1220,Jewell Site,42.26,-93.7,42.26,42.26,-93.7,-93.7,Vascular plants,Persicaria lapathifolia-type,2.0,NISP,pollen,,8257.0,,,Radiocarbon years BP,482.0,317.0,pollen,6/30/2007,660.0,0.30303030303
-1220,Jewell Site,42.26,-93.7,42.26,42.26,-93.7,-93.7,Vascular plants,Persicaria lapathifolia-type,1.0,NISP,pollen,,13309.0,,,Radiocarbon years BP,847.0,317.0,pollen,6/30/2007,453.0,0.220750551876
+656,Decoy Lake,43.233333,-80.366667,43.233333,43.233333,-80.366667,-80.366667,Vascular plants,Persicaria lapathifolia,1,NISP,pollen,,407,,,Radiocarbon years BP,40,260,pollen,6/30/2007,385,0.25974026
+656,Decoy Lake,43.233333,-80.366667,43.233333,43.233333,-80.366667,-80.366667,Vascular plants,Persicaria lapathifolia,2,NISP,pollen,,612,,,Radiocarbon years BP,45,260,pollen,6/30/2007,399,0.501253133
+656,Decoy Lake,43.233333,-80.366667,43.233333,43.233333,-80.366667,-80.366667,Vascular plants,Persicaria lapathifolia,1,NISP,pollen,,817,,,Radiocarbon years BP,50,260,pollen,6/30/2007,376.5,0.26560425
+656,Decoy Lake,43.233333,-80.366667,43.233333,43.233333,-80.366667,-80.366667,Vascular plants,Persicaria lapathifolia,1.5,NISP,pollen,,1227,,,Radiocarbon years BP,60,260,pollen,6/30/2007,328,0.457317073
+656,Decoy Lake,43.233333,-80.366667,43.233333,43.233333,-80.366667,-80.366667,Vascular plants,Persicaria lapathifolia,3,NISP,pollen,,1841,,,Radiocarbon years BP,75,260,pollen,6/30/2007,394,0.76142132
+656,Decoy Lake,43.233333,-80.366667,43.233333,43.233333,-80.366667,-80.366667,Vascular plants,Persicaria lapathifolia,1,NISP,pollen,,2251,,,Radiocarbon years BP,85,260,pollen,6/30/2007,385,0.25974026
+656,Decoy Lake,43.233333,-80.366667,43.233333,43.233333,-80.366667,-80.366667,Vascular plants,Persicaria lapathifolia,4,NISP,pollen,,3161,,,Radiocarbon years BP,100,260,pollen,6/30/2007,412.5,0.96969697
+656,Decoy Lake,43.233333,-80.366667,43.233333,43.233333,-80.366667,-80.366667,Vascular plants,Persicaria lapathifolia,21,NISP,pollen,,3613,,,Radiocarbon years BP,105,260,pollen,6/30/2007,374,5.614973262
+656,Decoy Lake,43.233333,-80.366667,43.233333,43.233333,-80.366667,-80.366667,Vascular plants,Persicaria lapathifolia,3,NISP,pollen,,4064,,,Radiocarbon years BP,110,260,pollen,6/30/2007,364.5,0.823045267
+656,Decoy Lake,43.233333,-80.366667,43.233333,43.233333,-80.366667,-80.366667,Vascular plants,Persicaria lapathifolia,1,NISP,pollen,,4515,,,Radiocarbon years BP,115,260,pollen,6/30/2007,370.5,0.269905533
+656,Decoy Lake,43.233333,-80.366667,43.233333,43.233333,-80.366667,-80.366667,Vascular plants,Persicaria lapathifolia,4,NISP,pollen,,4966,,,Radiocarbon years BP,120,260,pollen,6/30/2007,365.5,1.094391245
+656,Decoy Lake,43.233333,-80.366667,43.233333,43.233333,-80.366667,-80.366667,Vascular plants,Persicaria lapathifolia,3.5,NISP,pollen,,5418,,,Radiocarbon years BP,125,260,pollen,6/30/2007,383,0.91383812
+656,Decoy Lake,43.233333,-80.366667,43.233333,43.233333,-80.366667,-80.366667,Vascular plants,Persicaria lapathifolia,1,NISP,pollen,,5869,,,Radiocarbon years BP,130,260,pollen,6/30/2007,336,0.297619048
+656,Decoy Lake,43.233333,-80.366667,43.233333,43.233333,-80.366667,-80.366667,Vascular plants,Persicaria lapathifolia,2,NISP,pollen,,6320,,,Radiocarbon years BP,135,260,pollen,6/30/2007,358.5,0.557880056
+656,Decoy Lake,43.233333,-80.366667,43.233333,43.233333,-80.366667,-80.366667,Vascular plants,Persicaria lapathifolia,1,NISP,pollen,,6419,,,Radiocarbon years BP,140,260,pollen,6/30/2007,313,0.319488818
+656,Decoy Lake,43.233333,-80.366667,43.233333,43.233333,-80.366667,-80.366667,Vascular plants,Persicaria lapathifolia,1,NISP,pollen,,8203,,,Radiocarbon years BP,230,260,pollen,6/30/2007,381,0.262467192
+656,Decoy Lake,43.233333,-80.366667,43.233333,43.233333,-80.366667,-80.366667,Vascular plants,Persicaria lapathifolia,1,NISP,pollen,,8832,,,Radiocarbon years BP,275,260,pollen,6/30/2007,341,0.293255132
+656,Decoy Lake,43.233333,-80.366667,43.233333,43.233333,-80.366667,-80.366667,Vascular plants,Persicaria lapathifolia,1,NISP,pollen,,8971,,,Radiocarbon years BP,290,260,pollen,6/30/2007,349,0.286532951
+656,Decoy Lake,43.233333,-80.366667,43.233333,43.233333,-80.366667,-80.366667,Vascular plants,Persicaria lapathifolia,1,NISP,pollen,,9018,,,Radiocarbon years BP,295,260,pollen,6/30/2007,400.5,0.24968789
+656,Decoy Lake,43.233333,-80.366667,43.233333,43.233333,-80.366667,-80.366667,Vascular plants,Persicaria lapathifolia,4,NISP,pollen,,9064,,,Radiocarbon years BP,300,260,pollen,6/30/2007,364,1.098901099
+656,Decoy Lake,43.233333,-80.366667,43.233333,43.233333,-80.366667,-80.366667,Vascular plants,Persicaria lapathifolia,1,NISP,pollen,,9250,,,Radiocarbon years BP,320,260,pollen,6/30/2007,376.5,0.26560425
+656,Decoy Lake,43.233333,-80.366667,43.233333,43.233333,-80.366667,-80.366667,Vascular plants,Persicaria lapathifolia,1,NISP,pollen,,9343,,,Radiocarbon years BP,330,260,pollen,6/30/2007,371.5,0.269179004
+656,Decoy Lake,43.233333,-80.366667,43.233333,43.233333,-80.366667,-80.366667,Vascular plants,Persicaria lapathifolia,1,NISP,pollen,,9389,,,Radiocarbon years BP,335,260,pollen,6/30/2007,367.5,0.272108844
+656,Decoy Lake,43.233333,-80.366667,43.233333,43.233333,-80.366667,-80.366667,Vascular plants,Persicaria lapathifolia,1,NISP,pollen,,9436,,,Radiocarbon years BP,340,260,pollen,6/30/2007,371,0.269541779
+656,Decoy Lake,43.233333,-80.366667,43.233333,43.233333,-80.366667,-80.366667,Vascular plants,Persicaria lapathifolia,1,NISP,pollen,,9482,,,Radiocarbon years BP,345,260,pollen,6/30/2007,361.5,0.276625173
+656,Decoy Lake,43.233333,-80.366667,43.233333,43.233333,-80.366667,-80.366667,Vascular plants,Persicaria lapathifolia,1,NISP,pollen,,9575,,,Radiocarbon years BP,355,260,pollen,6/30/2007,357.5,0.27972028
+656,Decoy Lake,43.233333,-80.366667,43.233333,43.233333,-80.366667,-80.366667,Vascular plants,Persicaria lapathifolia,2,NISP,pollen,,9621,,,Radiocarbon years BP,360,260,pollen,6/30/2007,406.5,0.49200492
+656,Decoy Lake,43.233333,-80.366667,43.233333,43.233333,-80.366667,-80.366667,Vascular plants,Persicaria lapathifolia,1,NISP,pollen,,9807,,,Radiocarbon years BP,380,260,pollen,6/30/2007,417,0.239808153
+656,Decoy Lake,43.233333,-80.366667,43.233333,43.233333,-80.366667,-80.366667,Vascular plants,Persicaria lapathifolia,1,NISP,pollen,,9946,,,Radiocarbon years BP,395,260,pollen,6/30/2007,380,0.263157895
+656,Decoy Lake,43.233333,-80.366667,43.233333,43.233333,-80.366667,-80.366667,Vascular plants,Persicaria lapathifolia,2,NISP,pollen,,10039,,,Radiocarbon years BP,405,260,pollen,6/30/2007,375.5,0.532623169
+656,Decoy Lake,43.233333,-80.366667,43.233333,43.233333,-80.366667,-80.366667,Vascular plants,Persicaria lapathifolia,1,NISP,pollen,,10303,,,Radiocarbon years BP,425,260,pollen,6/30/2007,357,0.280112045
+975,Harding Lake,64.444444,-146.9075,64.444444,64.444444,-146.9075,-146.9075,Vascular plants,Persicaria lapathifolia,1,NISP,pollen,,16946,,,Radiocarbon years BP,588,,pollen,6/30/2007,304,0.328947368
+993,Healy Lake,64,-144.75,64,64,-144.75,-144.75,Vascular plants,Persicaria lapathifolia,1,NISP,pollen,,6087,,,Radiocarbon years BP,227,343,pollen,6/30/2007,359,0.278551532
+2448,Stations 96-97 (Lichti-Federovich and Ritchie 1968),50.83,-104.05,50.83,50.83,-104.05,-104.05,Vascular plants,Persicaria lapathifolia,9,NISP,pollen,,,,,,0,602,pollen surface sample,6/30/2007,,
+2430,Stations 40-43 (Lichti-Federovich and Ritchie 1968),55.75,-105.67,55.75,55.75,-105.67,-105.67,Vascular plants,Persicaria lapathifolia,1,NISP,pollen,,,,,,0,358,pollen surface sample,6/30/2007,,
+2438,Stations 77-81 (Lichti-Federovich and Ritchie 1968),53.75,-102.67,53.75,53.75,-102.67,-102.67,Vascular plants,Persicaria lapathifolia,4,NISP,pollen,,,,,,0,271,pollen surface sample,6/30/2007,,
+3110,Mobeche Forest,48.516667,-1,48.516667,48.516667,-1,-1,Vascular plants,Persicaria lapathifolia,1,NISP,pollen,,274,,,Radiocarbon years BP,20,,pollen,6/30/2007,289,0.346020761
+3110,Mobeche Forest,48.516667,-1,48.516667,48.516667,-1,-1,Vascular plants,Persicaria lapathifolia,1,NISP,pollen,,355,,,Radiocarbon years BP,37,,pollen,6/30/2007,170,0.588235294
+3110,Mobeche Forest,48.516667,-1,48.516667,48.516667,-1,-1,Vascular plants,Persicaria lapathifolia,1,NISP,pollen,,378,,,Radiocarbon years BP,42,,pollen,6/30/2007,144,0.694444444
+3110,Mobeche Forest,48.516667,-1,48.516667,48.516667,-1,-1,Vascular plants,Persicaria lapathifolia,1,NISP,pollen,,393,,,Radiocarbon years BP,45,,pollen,6/30/2007,189,0.529100529
+3110,Mobeche Forest,48.516667,-1,48.516667,48.516667,-1,-1,Vascular plants,Persicaria lapathifolia,1,NISP,pollen,,426,,,Radiocarbon years BP,52,,pollen,6/30/2007,130,0.769230769
+3110,Mobeche Forest,48.516667,-1,48.516667,48.516667,-1,-1,Vascular plants,Persicaria lapathifolia,1,NISP,pollen,,488,,,Radiocarbon years BP,65,,pollen,6/30/2007,445,0.224719101
+3110,Mobeche Forest,48.516667,-1,48.516667,48.516667,-1,-1,Vascular plants,Persicaria lapathifolia,1,NISP,pollen,,630,,,Radiocarbon years BP,95,,pollen,6/30/2007,325,0.307692308
+3110,Mobeche Forest,48.516667,-1,48.516667,48.516667,-1,-1,Vascular plants,Persicaria lapathifolia,2,NISP,pollen,,701,,,Radiocarbon years BP,110,,pollen,6/30/2007,308,0.649350649
+3110,Mobeche Forest,48.516667,-1,48.516667,48.516667,-1,-1,Vascular plants,Persicaria lapathifolia,1,NISP,pollen,,711,,,Radiocarbon years BP,112,,pollen,6/30/2007,441,0.22675737
+3110,Mobeche Forest,48.516667,-1,48.516667,48.516667,-1,-1,Vascular plants,Persicaria lapathifolia,1,NISP,pollen,,830,,,Radiocarbon years BP,137,,pollen,6/30/2007,201,0.497512438
+3110,Mobeche Forest,48.516667,-1,48.516667,48.516667,-1,-1,Vascular plants,Persicaria lapathifolia,1,NISP,pollen,,1162,,,Radiocarbon years BP,207,,pollen,6/30/2007,219,0.456621005
+3111,Malhaire,48.5,-1,48.5,48.5,-1,-1,Vascular plants,Persicaria lapathifolia,1,NISP,pollen,,61,,,Radiocarbon years BP,8,,pollen,6/30/2007,410,0.243902439
+3111,Malhaire,48.5,-1,48.5,48.5,-1,-1,Vascular plants,Persicaria lapathifolia,2,NISP,pollen,,512,,,Radiocarbon years BP,67,,pollen,6/30/2007,509,0.392927308
+3111,Malhaire,48.5,-1,48.5,48.5,-1,-1,Vascular plants,Persicaria lapathifolia,1,NISP,pollen,,535,,,Radiocarbon years BP,70,,pollen,6/30/2007,436,0.229357798
+3111,Malhaire,48.5,-1,48.5,48.5,-1,-1,Vascular plants,Persicaria lapathifolia,1,NISP,pollen,,611,,,Radiocarbon years BP,80,,pollen,6/30/2007,376,0.265957447
+3111,Malhaire,48.5,-1,48.5,48.5,-1,-1,Vascular plants,Persicaria lapathifolia,1,NISP,pollen,,649,,,Radiocarbon years BP,85,,pollen,6/30/2007,356,0.280898876
+3111,Malhaire,48.5,-1,48.5,48.5,-1,-1,Vascular plants,Persicaria lapathifolia,1,NISP,pollen,,726,,,Radiocarbon years BP,95,,pollen,6/30/2007,371,0.269541779
+3111,Malhaire,48.5,-1,48.5,48.5,-1,-1,Vascular plants,Persicaria lapathifolia,2,NISP,pollen,,764,,,Radiocarbon years BP,100,,pollen,6/30/2007,332,0.602409639
+3111,Malhaire,48.5,-1,48.5,48.5,-1,-1,Vascular plants,Persicaria lapathifolia,1,NISP,pollen,,802,,,Radiocarbon years BP,105,,pollen,6/30/2007,322,0.310559006
+3111,Malhaire,48.5,-1,48.5,48.5,-1,-1,Vascular plants,Persicaria lapathifolia,1,NISP,pollen,,825,,,Radiocarbon years BP,108,,pollen,6/30/2007,340,0.294117647
+3111,Malhaire,48.5,-1,48.5,48.5,-1,-1,Vascular plants,Persicaria lapathifolia,1,NISP,pollen,,840,,,Radiocarbon years BP,110,,pollen,6/30/2007,345,0.289855072
+3111,Malhaire,48.5,-1,48.5,48.5,-1,-1,Vascular plants,Persicaria lapathifolia,1,NISP,pollen,,878,,,Radiocarbon years BP,115,,pollen,6/30/2007,404,0.247524752
+3111,Malhaire,48.5,-1,48.5,48.5,-1,-1,Vascular plants,Persicaria lapathifolia,1,NISP,pollen,,993,,,Radiocarbon years BP,130,,pollen,6/30/2007,293,0.341296928
+3111,Malhaire,48.5,-1,48.5,48.5,-1,-1,Vascular plants,Persicaria lapathifolia,1,NISP,pollen,,1131,,,Radiocarbon years BP,148,,pollen,6/30/2007,384,0.260416667
+3111,Malhaire,48.5,-1,48.5,48.5,-1,-1,Vascular plants,Persicaria lapathifolia,2,NISP,pollen,,1245,,,Radiocarbon years BP,163,,pollen,6/30/2007,418,0.4784689
+3111,Malhaire,48.5,-1,48.5,48.5,-1,-1,Vascular plants,Persicaria lapathifolia,1,NISP,pollen,,1513,,,Radiocarbon years BP,198,,pollen,6/30/2007,424,0.235849057
+3111,Malhaire,48.5,-1,48.5,48.5,-1,-1,Vascular plants,Persicaria lapathifolia,1,NISP,pollen,,1757,,,Radiocarbon years BP,230,,pollen,6/30/2007,560,0.178571429
+245,Beckman Lake,45.425,-93.183333,45.425,45.425,-93.183333,-93.183333,Vascular plants,Persicaria lapathifolia,1,NISP,pollen,,3460,,,Radiocarbon years BP,205,278,pollen,6/30/2007,313,0.319488818
+266,Big John Pond,47.559175,-94.970775,47.56018,47.55817,-94.96931,-94.97224,Vascular plants,Persicaria lapathifolia,2,NISP,pollen,,1154,,,Radiocarbon years BP,50,421,pollen,6/30/2007,385,0.519480519
+266,Big John Pond,47.559175,-94.970775,47.56018,47.55817,-94.96931,-94.97224,Vascular plants,Persicaria lapathifolia,1,NISP,pollen,,3053,,,Radiocarbon years BP,115,421,pollen,6/30/2007,390,0.256410256
+266,Big John Pond,47.559175,-94.970775,47.56018,47.55817,-94.96931,-94.97224,Vascular plants,Persicaria lapathifolia,2,NISP,pollen,,3937,,,Radiocarbon years BP,145,421,pollen,6/30/2007,387.5,0.516129032
+269,Billy's Lake,46.27058,-94.551555,46.27186,46.2693,-94.54948,-94.55363,Vascular plants,Persicaria lapathifolia,1,NISP,pollen,,506,,,Radiocarbon years BP,244,383,pollen,6/30/2007,249,0.401606426
+309,Browns Pond,38.154722,-79.616389,38.154722,38.154722,-79.616389,-79.616389,Vascular plants,Persicaria lapathifolia,1,NISP,pollen,,606,,,Radiocarbon years BP,10,620,pollen,6/30/2007,438,0.228310502
+309,Browns Pond,38.154722,-79.616389,38.154722,38.154722,-79.616389,-79.616389,Vascular plants,Persicaria lapathifolia,1,NISP,pollen,,2425,,,Radiocarbon years BP,40,620,pollen,6/30/2007,333,0.3003003
+309,Browns Pond,38.154722,-79.616389,38.154722,38.154722,-79.616389,-79.616389,Vascular plants,Persicaria lapathifolia,4,NISP,pollen,,3031,,,Radiocarbon years BP,50,620,pollen,6/30/2007,364,1.098901099
+309,Browns Pond,38.154722,-79.616389,38.154722,38.154722,-79.616389,-79.616389,Vascular plants,Persicaria lapathifolia,1,NISP,pollen,,3638,,,Radiocarbon years BP,60,620,pollen,6/30/2007,375,0.266666667
+309,Browns Pond,38.154722,-79.616389,38.154722,38.154722,-79.616389,-79.616389,Vascular plants,Persicaria lapathifolia,4,NISP,pollen,,4244,,,Radiocarbon years BP,70,620,pollen,6/30/2007,488,0.819672131
+309,Browns Pond,38.154722,-79.616389,38.154722,38.154722,-79.616389,-79.616389,Vascular plants,Persicaria lapathifolia,8,NISP,pollen,,4850,,,Radiocarbon years BP,80,620,pollen,6/30/2007,523,1.529636711
+309,Browns Pond,38.154722,-79.616389,38.154722,38.154722,-79.616389,-79.616389,Vascular plants,Persicaria lapathifolia,6,NISP,pollen,,5456,,,Radiocarbon years BP,90,620,pollen,6/30/2007,461,1.301518438
+309,Browns Pond,38.154722,-79.616389,38.154722,38.154722,-79.616389,-79.616389,Vascular plants,Persicaria lapathifolia,1,NISP,pollen,,6063,,,Radiocarbon years BP,100,620,pollen,6/30/2007,472,0.211864407
+309,Browns Pond,38.154722,-79.616389,38.154722,38.154722,-79.616389,-79.616389,Vascular plants,Persicaria lapathifolia,2,NISP,pollen,,6669,,,Radiocarbon years BP,110,620,pollen,6/30/2007,448,0.446428571
+309,Browns Pond,38.154722,-79.616389,38.154722,38.154722,-79.616389,-79.616389,Vascular plants,Persicaria lapathifolia,6,NISP,pollen,,7275,,,Radiocarbon years BP,120,620,pollen,6/30/2007,424,1.41509434
+309,Browns Pond,38.154722,-79.616389,38.154722,38.154722,-79.616389,-79.616389,Vascular plants,Persicaria lapathifolia,6,NISP,pollen,,7869,,,Radiocarbon years BP,130,620,pollen,6/30/2007,351,1.709401709
+309,Browns Pond,38.154722,-79.616389,38.154722,38.154722,-79.616389,-79.616389,Vascular plants,Persicaria lapathifolia,1,NISP,pollen,,8423,,,Radiocarbon years BP,140,620,pollen,6/30/2007,18,5.555555556
+309,Browns Pond,38.154722,-79.616389,38.154722,38.154722,-79.616389,-79.616389,Vascular plants,Persicaria lapathifolia,5,NISP,pollen,,8977,,,Radiocarbon years BP,150,620,pollen,6/30/2007,442,1.131221719
+309,Browns Pond,38.154722,-79.616389,38.154722,38.154722,-79.616389,-79.616389,Vascular plants,Persicaria lapathifolia,1,NISP,pollen,,9531,,,Radiocarbon years BP,160,620,pollen,6/30/2007,337,0.296735905
+309,Browns Pond,38.154722,-79.616389,38.154722,38.154722,-79.616389,-79.616389,Vascular plants,Persicaria lapathifolia,1,NISP,pollen,,10085,,,Radiocarbon years BP,170,620,pollen,6/30/2007,383,0.261096606
+309,Browns Pond,38.154722,-79.616389,38.154722,38.154722,-79.616389,-79.616389,Vascular plants,Persicaria lapathifolia,1,NISP,pollen,,13370,,,Radiocarbon years BP,260,620,pollen,6/30/2007,371,0.269541779
+309,Browns Pond,38.154722,-79.616389,38.154722,38.154722,-79.616389,-79.616389,Vascular plants,Persicaria lapathifolia,1,NISP,pollen,,13945,,,Radiocarbon years BP,310.1,620,pollen,6/30/2007,426,0.234741784
+309,Browns Pond,38.154722,-79.616389,38.154722,38.154722,-79.616389,-79.616389,Vascular plants,Persicaria lapathifolia,1,NISP,pollen,,16148,,,Radiocarbon years BP,380,620,pollen,6/30/2007,500,0.2
+312,Buck Lake,27.234444,-81.332222,27.234444,27.234444,-81.332222,-81.332222,Vascular plants,Persicaria lapathifolia,1,NISP,pollen,,7282,,,Radiocarbon years BP,1955,45,pollen,6/30/2007,328,0.304878049
+312,Buck Lake,27.234444,-81.332222,27.234444,27.234444,-81.332222,-81.332222,Vascular plants,Persicaria lapathifolia,1,NISP,pollen,,7502,,,Radiocarbon years BP,1975,45,pollen,6/30/2007,376,0.265957447
+312,Buck Lake,27.234444,-81.332222,27.234444,27.234444,-81.332222,-81.332222,Vascular plants,Persicaria lapathifolia,1,NISP,pollen,,7831,,,Radiocarbon years BP,2005,45,pollen,6/30/2007,371,0.269541779
+312,Buck Lake,27.234444,-81.332222,27.234444,27.234444,-81.332222,-81.332222,Vascular plants,Persicaria lapathifolia,1,NISP,pollen,,7941,,,Radiocarbon years BP,2015,45,pollen,6/30/2007,355,0.281690141
+344,Cedar Bog,45.411111,-93.197222,45.411111,45.411111,-93.197222,-93.197222,Vascular plants,Persicaria lapathifolia,1,NISP,pollen,,7083,,,Radiocarbon years BP,830,,pollen,6/30/2007,1094,0.091407678
+500,Cottonwood Lake,44.835435,-99.90806,44.84519,44.82568,-99.89006,-99.92606,Vascular plants,Persicaria lapathifolia,4,NISP,pollen,,3046,,,Radiocarbon years BP,496,549,pollen,6/30/2007,631,0.633914422
+811,Floating Island Lake,44.55,-107.466667,44.55,44.55,-107.466667,-107.466667,Vascular plants,Persicaria lapathifolia,1,NISP,pollen,,3483,,,Radiocarbon years BP,430,2609,pollen,6/30/2007,201,0.497512438
+811,Floating Island Lake,44.55,-107.466667,44.55,44.55,-107.466667,-107.466667,Vascular plants,Persicaria lapathifolia,1,NISP,pollen,,6675,,,Radiocarbon years BP,750,2609,pollen,6/30/2007,308,0.324675325
+811,Floating Island Lake,44.55,-107.466667,44.55,44.55,-107.466667,-107.466667,Vascular plants,Persicaria lapathifolia,1,NISP,pollen,,7000,,,Radiocarbon years BP,780,2609,pollen,6/30/2007,297,0.336700337
+811,Floating Island Lake,44.55,-107.466667,44.55,44.55,-107.466667,-107.466667,Vascular plants,Persicaria lapathifolia,1,NISP,pollen,,7773,,,Radiocarbon years BP,850,2609,pollen,6/30/2007,332,0.301204819
+824,French Lake,44.945765,-94.42074,44.9482,44.94333,-94.41676,-94.42472,Vascular plants,Persicaria lapathifolia,1,NISP,pollen,,41,,,Radiocarbon years BP,630,327,pollen,6/30/2007,821,0.12180268
+824,French Lake,44.945765,-94.42074,44.9482,44.94333,-94.41676,-94.42472,Vascular plants,Persicaria lapathifolia,1,NISP,pollen,,228,,,Radiocarbon years BP,680,327,pollen,6/30/2007,835,0.119760479
+824,French Lake,44.945765,-94.42074,44.9482,44.94333,-94.41676,-94.42472,Vascular plants,Persicaria lapathifolia,2,NISP,pollen,,2295,,,Radiocarbon years BP,950,327,pollen,6/30/2007,704,0.284090909
+941,Gould Pond,44.983333,-69.316667,44.983333,44.983333,-69.316667,-69.316667,Vascular plants,Persicaria lapathifolia,1,NISP,pollen,,98,,,Radiocarbon years BP,800,89,pollen,6/30/2007,318,0.314465409
+1078,Hostage Lake,46.55,-94.133333,46.55,46.55,-94.133333,-94.133333,Vascular plants,Persicaria lapathifolia,1,NISP,pollen,,619,,,Radiocarbon years BP,100,368,pollen,6/30/2007,397,0.251889169
+1078,Hostage Lake,46.55,-94.133333,46.55,46.55,-94.133333,-94.133333,Vascular plants,Persicaria lapathifolia,1,NISP,pollen,,1652,,,Radiocarbon years BP,225,368,pollen,6/30/2007,505,0.198019802
+1119,Irvin Lake,47.135556,-93.643611,47.135556,47.135556,-93.643611,-93.643611,Vascular plants,Persicaria lapathifolia,1,NISP,pollen,,1617,,,Radiocarbon years BP,75,478,pollen,6/30/2007,312,0.320512821
+1119,Irvin Lake,47.135556,-93.643611,47.135556,47.135556,-93.643611,-93.643611,Vascular plants,Persicaria lapathifolia,1,NISP,pollen,,1822,,,Radiocarbon years BP,115,478,pollen,6/30/2007,513,0.194931774
+1119,Irvin Lake,47.135556,-93.643611,47.135556,47.135556,-93.643611,-93.643611,Vascular plants,Persicaria lapathifolia,1,NISP,pollen,,10077,,,Radiocarbon years BP,720,478,pollen,6/30/2007,326,0.306748466
+1220,Jewell Site,42.26,-93.7,42.26,42.26,-93.7,-93.7,Vascular plants,Persicaria lapathifolia,2,NISP,pollen,,1056,,,Radiocarbon years BP,33,317,pollen,6/30/2007,647,0.309119011
+1220,Jewell Site,42.26,-93.7,42.26,42.26,-93.7,-93.7,Vascular plants,Persicaria lapathifolia,6,NISP,pollen,,1505,,,Radiocarbon years BP,47,317,pollen,6/30/2007,1128,0.531914894
+1220,Jewell Site,42.26,-93.7,42.26,42.26,-93.7,-93.7,Vascular plants,Persicaria lapathifolia,4,NISP,pollen,,2241,,,Radiocarbon years BP,70,317,pollen,6/30/2007,593,0.674536256
+1220,Jewell Site,42.26,-93.7,42.26,42.26,-93.7,-93.7,Vascular plants,Persicaria lapathifolia,3,NISP,pollen,,3522,,,Radiocarbon years BP,110,317,pollen,6/30/2007,759,0.395256917
+1220,Jewell Site,42.26,-93.7,42.26,42.26,-93.7,-93.7,Vascular plants,Persicaria lapathifolia,3,NISP,pollen,,4162,,,Radiocarbon years BP,130,317,pollen,6/30/2007,855,0.350877193
+1220,Jewell Site,42.26,-93.7,42.26,42.26,-93.7,-93.7,Vascular plants,Persicaria lapathifolia,2,NISP,pollen,,4867,,,Radiocarbon years BP,152,317,pollen,6/30/2007,670,0.298507463
+1220,Jewell Site,42.26,-93.7,42.26,42.26,-93.7,-93.7,Vascular plants,Persicaria lapathifolia,1,NISP,pollen,,5571,,,Radiocarbon years BP,174,317,pollen,6/30/2007,691,0.1447178
+1220,Jewell Site,42.26,-93.7,42.26,42.26,-93.7,-93.7,Vascular plants,Persicaria lapathifolia,1,NISP,pollen,,6054,,,Radiocarbon years BP,198,317,pollen,6/30/2007,656,0.152439024
+1220,Jewell Site,42.26,-93.7,42.26,42.26,-93.7,-93.7,Vascular plants,Persicaria lapathifolia,2,NISP,pollen,,6599,,,Radiocarbon years BP,240,317,pollen,6/30/2007,704,0.284090909
+1220,Jewell Site,42.26,-93.7,42.26,42.26,-93.7,-93.7,Vascular plants,Persicaria lapathifolia,1,NISP,pollen,,6794,,,Radiocarbon years BP,255,317,pollen,6/30/2007,665,0.15037594
+1220,Jewell Site,42.26,-93.7,42.26,42.26,-93.7,-93.7,Vascular plants,Persicaria lapathifolia,2,NISP,pollen,,6989,,,Radiocarbon years BP,270,317,pollen,6/30/2007,650,0.307692308
+1220,Jewell Site,42.26,-93.7,42.26,42.26,-93.7,-93.7,Vascular plants,Persicaria lapathifolia,2,NISP,pollen,,7183,,,Radiocarbon years BP,285,317,pollen,6/30/2007,628,0.318471338
+1220,Jewell Site,42.26,-93.7,42.26,42.26,-93.7,-93.7,Vascular plants,Persicaria lapathifolia,4,NISP,pollen,,7560,,,Radiocarbon years BP,314,317,pollen,6/30/2007,654,0.611620795
+1220,Jewell Site,42.26,-93.7,42.26,42.26,-93.7,-93.7,Vascular plants,Persicaria lapathifolia,3,NISP,pollen,,7704,,,Radiocarbon years BP,328,317,pollen,6/30/2007,754,0.397877984
+1220,Jewell Site,42.26,-93.7,42.26,42.26,-93.7,-93.7,Vascular plants,Persicaria lapathifolia,4,NISP,pollen,,7754,,,Radiocarbon years BP,342,317,pollen,6/30/2007,716,0.558659218
+1220,Jewell Site,42.26,-93.7,42.26,42.26,-93.7,-93.7,Vascular plants,Persicaria lapathifolia,4,NISP,pollen,,7804,,,Radiocarbon years BP,356,317,pollen,6/30/2007,698,0.573065903
+1220,Jewell Site,42.26,-93.7,42.26,42.26,-93.7,-93.7,Vascular plants,Persicaria lapathifolia,4,NISP,pollen,,7848,,,Radiocarbon years BP,368,317,pollen,6/30/2007,639,0.625978091
+1220,Jewell Site,42.26,-93.7,42.26,42.26,-93.7,-93.7,Vascular plants,Persicaria lapathifolia,1,NISP,pollen,,7891,,,Radiocarbon years BP,380,317,pollen,6/30/2007,614,0.16286645
+1220,Jewell Site,42.26,-93.7,42.26,42.26,-93.7,-93.7,Vascular plants,Persicaria lapathifolia,3,NISP,pollen,,7927,,,Radiocarbon years BP,390,317,pollen,6/30/2007,574,0.522648084
+1220,Jewell Site,42.26,-93.7,42.26,42.26,-93.7,-93.7,Vascular plants,Persicaria lapathifolia,3,NISP,pollen,,7963,,,Radiocarbon years BP,400,317,pollen,6/30/2007,692,0.433526012
+1220,Jewell Site,42.26,-93.7,42.26,42.26,-93.7,-93.7,Vascular plants,Persicaria lapathifolia,1,NISP,pollen,,7998,,,Radiocarbon years BP,410,317,pollen,6/30/2007,578,0.173010381
+1220,Jewell Site,42.26,-93.7,42.26,42.26,-93.7,-93.7,Vascular plants,Persicaria lapathifolia,10,NISP,pollen,,8142,,,Radiocarbon years BP,450,317,pollen,6/30/2007,680,1.470588235
+1220,Jewell Site,42.26,-93.7,42.26,42.26,-93.7,-93.7,Vascular plants,Persicaria lapathifolia,2,NISP,pollen,,8171,,,Radiocarbon years BP,458,317,pollen,6/30/2007,749,0.267022697
+1220,Jewell Site,42.26,-93.7,42.26,42.26,-93.7,-93.7,Vascular plants,Persicaria lapathifolia,2,NISP,pollen,,8257,,,Radiocarbon years BP,482,317,pollen,6/30/2007,660,0.303030303
+1220,Jewell Site,42.26,-93.7,42.26,42.26,-93.7,-93.7,Vascular plants,Persicaria lapathifolia,1,NISP,pollen,,13309,,,Radiocarbon years BP,847,317,pollen,6/30/2007,453,0.220750552

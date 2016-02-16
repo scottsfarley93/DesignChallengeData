@@ -1,151 +1,150 @@
 siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
-223,Ballinloghig Lake,52.2,-10.308333,52.2,52.2,-10.308333,-10.308333,Vascular plants,Plantago maritima,1.0,NISP,pollen,,9775.0,,,Radiocarbon years BP,530.0,84.0,pollen,6/30/2007,373.0,0.268096514745
-223,Ballinloghig Lake,52.2,-10.308333,52.2,52.2,-10.308333,-10.308333,Vascular plants,Plantago maritima,1.0,NISP,pollen,,9831.0,,,Radiocarbon years BP,540.0,84.0,pollen,6/30/2007,340.0,0.294117647059
-223,Ballinloghig Lake,52.2,-10.308333,52.2,52.2,-10.308333,-10.308333,Vascular plants,Plantago maritima,17.0,NISP,pollen,,9954.0,,,Radiocarbon years BP,545.0,84.0,pollen,6/30/2007,345.0,4.92753623188
-223,Ballinloghig Lake,52.2,-10.308333,52.2,52.2,-10.308333,-10.308333,Vascular plants,Plantago maritima,14.0,NISP,pollen,,10019.0,,,Radiocarbon years BP,547.0,84.0,pollen,6/30/2007,430.0,3.25581395349
-223,Ballinloghig Lake,52.2,-10.308333,52.2,52.2,-10.308333,-10.308333,Vascular plants,Plantago maritima,6.0,NISP,pollen,,10117.0,,,Radiocarbon years BP,550.0,84.0,pollen,6/30/2007,368.0,1.63043478261
-223,Ballinloghig Lake,52.2,-10.308333,52.2,52.2,-10.308333,-10.308333,Vascular plants,Plantago maritima,2.0,NISP,pollen,,10183.0,,,Radiocarbon years BP,552.0,84.0,pollen,6/30/2007,553.0,0.361663652803
-223,Ballinloghig Lake,52.2,-10.308333,52.2,52.2,-10.308333,-10.308333,Vascular plants,Plantago maritima,3.0,NISP,pollen,,10483.0,,,Radiocarbon years BP,562.0,84.0,pollen,6/30/2007,424.0,0.707547169811
-223,Ballinloghig Lake,52.2,-10.308333,52.2,52.2,-10.308333,-10.308333,Vascular plants,Plantago maritima,5.0,NISP,pollen,,10637.0,,,Radiocarbon years BP,572.0,84.0,pollen,6/30/2007,541.0,0.924214417745
-223,Ballinloghig Lake,52.2,-10.308333,52.2,52.2,-10.308333,-10.308333,Vascular plants,Plantago maritima,2.0,NISP,pollen,,10714.0,,,Radiocarbon years BP,577.0,84.0,pollen,6/30/2007,461.0,0.433839479393
-223,Ballinloghig Lake,52.2,-10.308333,52.2,52.2,-10.308333,-10.308333,Vascular plants,Plantago maritima,2.0,NISP,pollen,,10760.0,,,Radiocarbon years BP,580.0,84.0,pollen,6/30/2007,254.0,0.787401574803
-223,Ballinloghig Lake,52.2,-10.308333,52.2,52.2,-10.308333,-10.308333,Vascular plants,Plantago maritima,3.0,NISP,pollen,,10791.0,,,Radiocarbon years BP,582.0,84.0,pollen,6/30/2007,455.0,0.659340659341
-223,Ballinloghig Lake,52.2,-10.308333,52.2,52.2,-10.308333,-10.308333,Vascular plants,Plantago maritima,3.0,NISP,pollen,,10837.0,,,Radiocarbon years BP,585.0,84.0,pollen,6/30/2007,363.0,0.826446280992
-223,Ballinloghig Lake,52.2,-10.308333,52.2,52.2,-10.308333,-10.308333,Vascular plants,Plantago maritima,27.0,NISP,pollen,,10868.0,,,Radiocarbon years BP,587.0,84.0,pollen,6/30/2007,403.0,6.69975186104
-223,Ballinloghig Lake,52.2,-10.308333,52.2,52.2,-10.308333,-10.308333,Vascular plants,Plantago maritima,13.0,NISP,pollen,,10914.0,,,Radiocarbon years BP,590.0,84.0,pollen,6/30/2007,411.0,3.16301703163
-223,Ballinloghig Lake,52.2,-10.308333,52.2,52.2,-10.308333,-10.308333,Vascular plants,Plantago maritima,3.0,NISP,pollen,,10944.0,,,Radiocarbon years BP,592.0,84.0,pollen,6/30/2007,467.0,0.642398286938
-223,Ballinloghig Lake,52.2,-10.308333,52.2,52.2,-10.308333,-10.308333,Vascular plants,Plantago maritima,11.0,NISP,pollen,,10991.0,,,Radiocarbon years BP,595.0,84.0,pollen,6/30/2007,357.0,3.081232493
-223,Ballinloghig Lake,52.2,-10.308333,52.2,52.2,-10.308333,-10.308333,Vascular plants,Plantago maritima,3.0,NISP,pollen,,11431.0,,,Radiocarbon years BP,597.0,84.0,pollen,6/30/2007,367.0,0.817438692098
-223,Ballinloghig Lake,52.2,-10.308333,52.2,52.2,-10.308333,-10.308333,Vascular plants,Plantago maritima,31.0,NISP,pollen,,12705.0,,,Radiocarbon years BP,600.0,84.0,pollen,6/30/2007,280.0,11.0714285714
-223,Ballinloghig Lake,52.2,-10.308333,52.2,52.2,-10.308333,-10.308333,Vascular plants,Plantago maritima,9.0,NISP,pollen,,13555.0,,,Radiocarbon years BP,602.0,84.0,pollen,6/30/2007,345.0,2.60869565217
-223,Ballinloghig Lake,52.2,-10.308333,52.2,52.2,-10.308333,-10.308333,Vascular plants,Plantago maritima,8.0,NISP,pollen,,14036.0,,,Radiocarbon years BP,607.0,84.0,pollen,6/30/2007,372.0,2.15053763441
-223,Ballinloghig Lake,52.2,-10.308333,52.2,52.2,-10.308333,-10.308333,Vascular plants,Plantago maritima,3.0,NISP,pollen,,14106.0,,,Radiocarbon years BP,612.0,84.0,pollen,6/30/2007,223.0,1.34529147982
-223,Ballinloghig Lake,52.2,-10.308333,52.2,52.2,-10.308333,-10.308333,Vascular plants,Plantago maritima,1.0,NISP,pollen,,14359.0,,,Radiocarbon years BP,630.0,84.0,pollen,6/30/2007,132.0,0.757575757576
-224,Ballybetagh,53.166667,-6.25,53.166667,53.166667,-6.25,-6.25,Vascular plants,Plantago maritima,1.0,NISP,pollen,,11660.0,,,Radiocarbon years BP,340.0,250.0,pollen,6/30/2007,313.0,0.319488817891
-224,Ballybetagh,53.166667,-6.25,53.166667,53.166667,-6.25,-6.25,Vascular plants,Plantago maritima,2.0,NISP,pollen,,12158.0,,,Radiocarbon years BP,405.0,250.0,pollen,6/30/2007,369.0,0.542005420054
-224,Ballybetagh,53.166667,-6.25,53.166667,53.166667,-6.25,-6.25,Vascular plants,Plantago maritima,2.0,NISP,pollen,,12229.0,,,Radiocarbon years BP,415.0,250.0,pollen,6/30/2007,393.0,0.508905852417
-224,Ballybetagh,53.166667,-6.25,53.166667,53.166667,-6.25,-6.25,Vascular plants,Plantago maritima,1.0,NISP,pollen,,12299.0,,,Radiocarbon years BP,425.0,250.0,pollen,6/30/2007,484.0,0.206611570248
-224,Ballybetagh,53.166667,-6.25,53.166667,53.166667,-6.25,-6.25,Vascular plants,Plantago maritima,2.0,NISP,pollen,,12333.0,,,Radiocarbon years BP,430.0,250.0,pollen,6/30/2007,471.0,0.424628450106
-224,Ballybetagh,53.166667,-6.25,53.166667,53.166667,-6.25,-6.25,Vascular plants,Plantago maritima,4.0,NISP,pollen,,12566.0,,,Radiocarbon years BP,465.0,250.0,pollen,6/30/2007,323.0,1.23839009288
-224,Ballybetagh,53.166667,-6.25,53.166667,53.166667,-6.25,-6.25,Vascular plants,Plantago maritima,1.0,NISP,pollen,,12630.0,,,Radiocarbon years BP,475.0,250.0,pollen,6/30/2007,297.0,0.3367003367
-224,Ballybetagh,53.166667,-6.25,53.166667,53.166667,-6.25,-6.25,Vascular plants,Plantago maritima,1.0,NISP,pollen,,12693.0,,,Radiocarbon years BP,485.0,250.0,pollen,6/30/2007,302.0,0.331125827815
-224,Ballybetagh,53.166667,-6.25,53.166667,53.166667,-6.25,-6.25,Vascular plants,Plantago maritima,3.0,NISP,pollen,,12755.0,,,Radiocarbon years BP,495.0,250.0,pollen,6/30/2007,350.0,0.857142857143
-224,Ballybetagh,53.166667,-6.25,53.166667,53.166667,-6.25,-6.25,Vascular plants,Plantago maritima,1.0,NISP,pollen,,12817.0,,,Radiocarbon years BP,505.0,250.0,pollen,6/30/2007,323.0,0.30959752322
-224,Ballybetagh,53.166667,-6.25,53.166667,53.166667,-6.25,-6.25,Vascular plants,Plantago maritima,1.0,NISP,pollen,,12877.0,,,Radiocarbon years BP,515.0,250.0,pollen,6/30/2007,252.0,0.396825396825
-947,Grasvatn,63.7,8.7,63.7,63.7,8.7,8.7,Vascular plants,Plantago maritima,1.0,NISP,pollen,,922.0,,,Radiocarbon years BP,30.0,45.0,pollen,6/30/2007,626.0,0.159744408946
-947,Grasvatn,63.7,8.7,63.7,63.7,8.7,8.7,Vascular plants,Plantago maritima,1.0,NISP,pollen,,1202.0,,,Radiocarbon years BP,40.0,45.0,pollen,6/30/2007,590.0,0.169491525424
-947,Grasvatn,63.7,8.7,63.7,63.7,8.7,8.7,Vascular plants,Plantago maritima,1.0,NISP,pollen,,1477.0,,,Radiocarbon years BP,50.0,45.0,pollen,6/30/2007,701.0,0.142653352354
-947,Grasvatn,63.7,8.7,63.7,63.7,8.7,8.7,Vascular plants,Plantago maritima,1.0,NISP,pollen,,2542.0,,,Radiocarbon years BP,90.0,45.0,pollen,6/30/2007,672.0,0.14880952381
-947,Grasvatn,63.7,8.7,63.7,63.7,8.7,8.7,Vascular plants,Plantago maritima,1.0,NISP,pollen,,8905.0,,,Radiocarbon years BP,350.0,45.0,pollen,6/30/2007,843.0,0.11862396204
-947,Grasvatn,63.7,8.7,63.7,63.7,8.7,8.7,Vascular plants,Plantago maritima,1.0,NISP,pollen,,9257.0,,,Radiocarbon years BP,365.0,45.0,pollen,6/30/2007,964.0,0.103734439834
-947,Grasvatn,63.7,8.7,63.7,63.7,8.7,8.7,Vascular plants,Plantago maritima,2.0,NISP,pollen,,9841.0,,,Radiocarbon years BP,390.0,45.0,pollen,6/30/2007,1404.0,0.14245014245
-1798,Pashennoe,49.37,75.4,49.37,49.37,75.4,75.4,Vascular plants,Plantago maritima,2.0,NISP,pollen,,10778.0,,,Radiocarbon years BP,320.0,871.0,pollen,6/30/2007,259.0,0.772200772201
-2965,Abernethy Forest,56.233333,-3.716667,56.233333,56.233333,-3.716667,-3.716667,Vascular plants,Plantago maritima,1.0,NISP,pollen,,9450.0,,,Radiocarbon years BP,460.0,221.0,pollen,6/30/2007,714.0,0.140056022409
-2965,Abernethy Forest,56.233333,-3.716667,56.233333,56.233333,-3.716667,-3.716667,Vascular plants,Plantago maritima,1.0,NISP,pollen,,10450.0,,,Radiocarbon years BP,500.0,221.0,pollen,6/30/2007,338.0,0.295857988166
-2965,Abernethy Forest,56.233333,-3.716667,56.233333,56.233333,-3.716667,-3.716667,Vascular plants,Plantago maritima,1.0,NISP,pollen,,11502.0,,,Radiocarbon years BP,525.0,221.0,pollen,6/30/2007,606.0,0.16501650165
-2980,Arkutino Lake,42.366667,27.733333,42.366667,42.366667,27.733333,27.733333,Vascular plants,Plantago maritima,9.0,NISP,pollen,,1668.0,,,Radiocarbon years BP,63.0,0.0,pollen,6/30/2007,766.0,1.17493472585
-2980,Arkutino Lake,42.366667,27.733333,42.366667,42.366667,27.733333,27.733333,Vascular plants,Plantago maritima,5.0,NISP,pollen,,1836.0,,,Radiocarbon years BP,75.0,0.0,pollen,6/30/2007,618.0,0.809061488673
-2980,Arkutino Lake,42.366667,27.733333,42.366667,42.366667,27.733333,27.733333,Vascular plants,Plantago maritima,2.0,NISP,pollen,,1976.0,,,Radiocarbon years BP,85.0,0.0,pollen,6/30/2007,531.0,0.376647834275
-2980,Arkutino Lake,42.366667,27.733333,42.366667,42.366667,27.733333,27.733333,Vascular plants,Plantago maritima,3.0,NISP,pollen,,2061.0,,,Radiocarbon years BP,91.0,0.0,pollen,6/30/2007,712.0,0.421348314607
-2980,Arkutino Lake,42.366667,27.733333,42.366667,42.366667,27.733333,27.733333,Vascular plants,Plantago maritima,1.0,NISP,pollen,,2257.0,,,Radiocarbon years BP,105.0,0.0,pollen,6/30/2007,1030.0,0.0970873786408
-2980,Arkutino Lake,42.366667,27.733333,42.366667,42.366667,27.733333,27.733333,Vascular plants,Plantago maritima,2.0,NISP,pollen,,4790.0,,,Radiocarbon years BP,310.0,0.0,pollen,6/30/2007,463.0,0.431965442765
-2980,Arkutino Lake,42.366667,27.733333,42.366667,42.366667,27.733333,27.733333,Vascular plants,Plantago maritima,5.0,NISP,pollen,,4845.0,,,Radiocarbon years BP,320.0,0.0,pollen,6/30/2007,595.0,0.840336134454
-2980,Arkutino Lake,42.366667,27.733333,42.366667,42.366667,27.733333,27.733333,Vascular plants,Plantago maritima,2.0,NISP,pollen,,4951.0,,,Radiocarbon years BP,339.0,0.0,pollen,6/30/2007,334.0,0.59880239521
-2980,Arkutino Lake,42.366667,27.733333,42.366667,42.366667,27.733333,27.733333,Vascular plants,Plantago maritima,1.0,NISP,pollen,,5012.0,,,Radiocarbon years BP,350.0,0.0,pollen,6/30/2007,435.0,0.229885057471
-2980,Arkutino Lake,42.366667,27.733333,42.366667,42.366667,27.733333,27.733333,Vascular plants,Plantago maritima,1.0,NISP,pollen,,5067.0,,,Radiocarbon years BP,360.0,0.0,pollen,6/30/2007,562.0,0.17793594306
-2980,Arkutino Lake,42.366667,27.733333,42.366667,42.366667,27.733333,27.733333,Vascular plants,Plantago maritima,1.0,NISP,pollen,,5178.0,,,Radiocarbon years BP,380.0,0.0,pollen,6/30/2007,626.0,0.159744408946
-2980,Arkutino Lake,42.366667,27.733333,42.366667,42.366667,27.733333,27.733333,Vascular plants,Plantago maritima,2.0,NISP,pollen,,5633.0,,,Radiocarbon years BP,462.0,0.0,pollen,6/30/2007,351.0,0.569800569801
-2980,Arkutino Lake,42.366667,27.733333,42.366667,42.366667,27.733333,27.733333,Vascular plants,Plantago maritima,3.0,NISP,pollen,,1285.0,,,Radiocarbon years BP,108.0,0.0,pollen,6/30/2007,610.0,0.491803278689
-2980,Arkutino Lake,42.366667,27.733333,42.366667,42.366667,27.733333,27.733333,Vascular plants,Plantago maritima,1.0,NISP,pollen,,2493.0,,,Radiocarbon years BP,229.0,0.0,pollen,6/30/2007,505.0,0.19801980198
-2980,Arkutino Lake,42.366667,27.733333,42.366667,42.366667,27.733333,27.733333,Vascular plants,Plantago maritima,1.0,NISP,pollen,,3246.0,,,Radiocarbon years BP,309.0,0.0,pollen,6/30/2007,531.0,0.188323917137
-2980,Arkutino Lake,42.366667,27.733333,42.366667,42.366667,27.733333,27.733333,Vascular plants,Plantago maritima,3.0,NISP,pollen,,3439.0,,,Radiocarbon years BP,330.0,0.0,pollen,6/30/2007,676.0,0.443786982249
-2980,Arkutino Lake,42.366667,27.733333,42.366667,42.366667,27.733333,27.733333,Vascular plants,Plantago maritima,1.0,NISP,pollen,,3686.0,,,Radiocarbon years BP,357.0,0.0,pollen,6/30/2007,345.0,0.289855072464
-2980,Arkutino Lake,42.366667,27.733333,42.366667,42.366667,27.733333,27.733333,Vascular plants,Plantago maritima,3.0,NISP,pollen,,3876.0,,,Radiocarbon years BP,378.0,0.0,pollen,6/30/2007,388.0,0.773195876289
-2980,Arkutino Lake,42.366667,27.733333,42.366667,42.366667,27.733333,27.733333,Vascular plants,Plantago maritima,3.0,NISP,pollen,,4218.0,,,Radiocarbon years BP,416.0,0.0,pollen,6/30/2007,344.0,0.872093023256
-2980,Arkutino Lake,42.366667,27.733333,42.366667,42.366667,27.733333,27.733333,Vascular plants,Plantago maritima,1.0,NISP,pollen,,4934.0,,,Radiocarbon years BP,497.0,0.0,pollen,6/30/2007,357.0,0.280112044818
-2980,Arkutino Lake,42.366667,27.733333,42.366667,42.366667,27.733333,27.733333,Vascular plants,Plantago maritima,1.0,NISP,pollen,,5360.0,,,Radiocarbon years BP,546.0,0.0,pollen,6/30/2007,299.0,0.334448160535
-2980,Arkutino Lake,42.366667,27.733333,42.366667,42.366667,27.733333,27.733333,Vascular plants,Plantago maritima,1.0,NISP,pollen,,6738.0,,,Radiocarbon years BP,708.0,0.0,pollen,6/30/2007,412.0,0.242718446602
-2980,Arkutino Lake,42.366667,27.733333,42.366667,42.366667,27.733333,27.733333,Vascular plants,Plantago maritima,1.0,NISP,pollen,,7570.0,,,Radiocarbon years BP,808.0,0.0,pollen,6/30/2007,251.0,0.398406374502
-2980,Arkutino Lake,42.366667,27.733333,42.366667,42.366667,27.733333,27.733333,Vascular plants,Plantago maritima,1.0,NISP,pollen,,7743.0,,,Radiocarbon years BP,829.0,0.0,pollen,6/30/2007,252.0,0.396825396825
-2985,Lake Varna (Arsenala),43.2,27.833333,43.2,43.2,27.833333,27.833333,Vascular plants,Plantago maritima,2.0,NISP,pollen,,1670.0,,,Radiocarbon years BP,20.0,0.0,pollen,6/30/2007,424.0,0.471698113208
-2985,Lake Varna (Arsenala),43.2,27.833333,43.2,43.2,27.833333,27.833333,Vascular plants,Plantago maritima,1.0,NISP,pollen,,4266.0,,,Radiocarbon years BP,220.0,0.0,pollen,6/30/2007,261.0,0.383141762452
-2985,Lake Varna (Arsenala),43.2,27.833333,43.2,43.2,27.833333,27.833333,Vascular plants,Plantago maritima,1.0,NISP,pollen,,4688.0,,,Radiocarbon years BP,280.0,0.0,pollen,6/30/2007,407.0,0.2457002457
-2985,Lake Varna (Arsenala),43.2,27.833333,43.2,43.2,27.833333,27.833333,Vascular plants,Plantago maritima,10.0,NISP,pollen,,5595.0,,,Radiocarbon years BP,440.0,0.0,pollen,6/30/2007,248.0,4.03225806452
-2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Plantago maritima,1.0,NISP,pollen,,,,,,120.0,242.0,pollen,6/30/2007,613.0,0.163132137031
-2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Plantago maritima,1.0,NISP,pollen,,,,,,164.0,242.0,pollen,6/30/2007,372.0,0.268817204301
-2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Plantago maritima,1.0,NISP,pollen,,,,,,203.0,242.0,pollen,6/30/2007,707.0,0.1414427157
-2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Plantago maritima,2.0,NISP,pollen,,,,,,206.0,242.0,pollen,6/30/2007,720.0,0.277777777778
-2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Plantago maritima,7.0,NISP,pollen,,,,,,210.0,242.0,pollen,6/30/2007,728.0,0.961538461538
-2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Plantago maritima,9.0,NISP,pollen,,,,,,212.0,242.0,pollen,6/30/2007,733.0,1.2278308322
-2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Plantago maritima,8.0,NISP,pollen,,,,,,214.0,242.0,pollen,6/30/2007,744.0,1.0752688172
-2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Plantago maritima,5.0,NISP,pollen,,,,,,216.0,242.0,pollen,6/30/2007,681.0,0.734214390602
-2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Plantago maritima,5.0,NISP,pollen,,,,,,218.0,242.0,pollen,6/30/2007,700.0,0.714285714286
-2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Plantago maritima,6.0,NISP,pollen,,,,,,220.0,242.0,pollen,6/30/2007,765.0,0.78431372549
-2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Plantago maritima,7.0,NISP,pollen,,,,,,222.0,242.0,pollen,6/30/2007,706.0,0.991501416431
-2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Plantago maritima,3.0,NISP,pollen,,,,,,224.0,242.0,pollen,6/30/2007,767.0,0.391134289439
-2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Plantago maritima,1.0,NISP,pollen,,,,,,228.0,242.0,pollen,6/30/2007,671.0,0.149031296572
-2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Plantago maritima,1.0,NISP,pollen,,,,,,230.0,242.0,pollen,6/30/2007,716.0,0.139664804469
-2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Plantago maritima,1.0,NISP,pollen,,,,,,236.0,242.0,pollen,6/30/2007,697.0,0.143472022956
-3006,Belle Lake,52.183333,-7.033333,52.183333,52.183333,-7.033333,-7.033333,Vascular plants,Plantago maritima,1.0,NISP,pollen,,6654.0,,,Radiocarbon years BP,278.0,33.0,pollen,6/30/2007,387.0,0.258397932817
-3006,Belle Lake,52.183333,-7.033333,52.183333,52.183333,-7.033333,-7.033333,Vascular plants,Plantago maritima,1.0,NISP,pollen,,9381.0,,,Radiocarbon years BP,394.0,33.0,pollen,6/30/2007,779.0,0.12836970475
-3006,Belle Lake,52.183333,-7.033333,52.183333,52.183333,-7.033333,-7.033333,Vascular plants,Plantago maritima,1.0,NISP,pollen,,9608.0,,,Radiocarbon years BP,402.0,33.0,pollen,6/30/2007,893.0,0.111982082867
-3006,Belle Lake,52.183333,-7.033333,52.183333,52.183333,-7.033333,-7.033333,Vascular plants,Plantago maritima,8.0,NISP,pollen,,9659.0,,,Radiocarbon years BP,408.0,33.0,pollen,6/30/2007,462.0,1.7316017316
-3006,Belle Lake,52.183333,-7.033333,52.183333,52.183333,-7.033333,-7.033333,Vascular plants,Plantago maritima,3.0,NISP,pollen,,9709.0,,,Radiocarbon years BP,414.0,33.0,pollen,6/30/2007,385.0,0.779220779221
-3006,Belle Lake,52.183333,-7.033333,52.183333,52.183333,-7.033333,-7.033333,Vascular plants,Plantago maritima,2.0,NISP,pollen,,9743.0,,,Radiocarbon years BP,418.0,33.0,pollen,6/30/2007,348.0,0.574712643678
-3006,Belle Lake,52.183333,-7.033333,52.183333,52.183333,-7.033333,-7.033333,Vascular plants,Plantago maritima,1.0,NISP,pollen,,9894.0,,,Radiocarbon years BP,436.0,33.0,pollen,6/30/2007,373.0,0.268096514745
-3006,Belle Lake,52.183333,-7.033333,52.183333,52.183333,-7.033333,-7.033333,Vascular plants,Plantago maritima,2.0,NISP,pollen,,9994.0,,,Radiocarbon years BP,448.0,33.0,pollen,6/30/2007,425.0,0.470588235294
-3006,Belle Lake,52.183333,-7.033333,52.183333,52.183333,-7.033333,-7.033333,Vascular plants,Plantago maritima,1.0,NISP,pollen,,10078.0,,,Radiocarbon years BP,458.0,33.0,pollen,6/30/2007,360.0,0.277777777778
-3006,Belle Lake,52.183333,-7.033333,52.183333,52.183333,-7.033333,-7.033333,Vascular plants,Plantago maritima,3.0,NISP,pollen,,10162.0,,,Radiocarbon years BP,468.0,33.0,pollen,6/30/2007,346.0,0.867052023121
-3006,Belle Lake,52.183333,-7.033333,52.183333,52.183333,-7.033333,-7.033333,Vascular plants,Plantago maritima,2.0,NISP,pollen,,11281.0,,,Radiocarbon years BP,540.0,33.0,pollen,6/30/2007,376.0,0.531914893617
-3006,Belle Lake,52.183333,-7.033333,52.183333,52.183333,-7.033333,-7.033333,Vascular plants,Plantago maritima,1.0,NISP,pollen,,11577.0,,,Radiocarbon years BP,549.0,33.0,pollen,6/30/2007,357.0,0.280112044818
-3006,Belle Lake,52.183333,-7.033333,52.183333,52.183333,-7.033333,-7.033333,Vascular plants,Plantago maritima,1.0,NISP,pollen,,11873.0,,,Radiocarbon years BP,558.0,33.0,pollen,6/30/2007,380.0,0.263157894737
-3006,Belle Lake,52.183333,-7.033333,52.183333,52.183333,-7.033333,-7.033333,Vascular plants,Plantago maritima,8.0,NISP,pollen,,11939.0,,,Radiocarbon years BP,560.0,33.0,pollen,6/30/2007,634.0,1.261829653
-3006,Belle Lake,52.183333,-7.033333,52.183333,52.183333,-7.033333,-7.033333,Vascular plants,Plantago maritima,1.0,NISP,pollen,,12136.0,,,Radiocarbon years BP,566.0,33.0,pollen,6/30/2007,426.0,0.234741784038
-3006,Belle Lake,52.183333,-7.033333,52.183333,52.183333,-7.033333,-7.033333,Vascular plants,Plantago maritima,2.0,NISP,pollen,,12268.0,,,Radiocarbon years BP,570.0,33.0,pollen,6/30/2007,387.0,0.516795865633
-3009,Bergakyllen,57.166667,16.15,57.166667,57.166667,16.15,16.15,Vascular plants,Plantago maritima,1.0,NISP,pollen,,10904.0,,,Radiocarbon years BP,9280.0,73.0,pollen,6/30/2007,640.0,0.15625
-siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Plantago maritima-type,2.0,NISP,pollen,,1702.0,,,Radiocarbon years BP,120.0,350.0,pollen,6/30/2007,1657.0,0.12070006035
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Plantago maritima-type,3.0,NISP,pollen,,1996.0,,,Radiocarbon years BP,140.0,350.0,pollen,6/30/2007,1200.0,0.25
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Plantago maritima-type,1.0,NISP,pollen,,2292.0,,,Radiocarbon years BP,160.0,350.0,pollen,6/30/2007,679.0,0.147275405007
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Plantago maritima-type,1.0,NISP,pollen,,3941.0,,,Radiocarbon years BP,270.0,350.0,pollen,6/30/2007,791.0,0.126422250316
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Plantago maritima-type,1.0,NISP,pollen,,4244.0,,,Radiocarbon years BP,290.0,350.0,pollen,6/30/2007,2154.0,0.0464252553389
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Plantago maritima-type,1.0,NISP,pollen,,4852.0,,,Radiocarbon years BP,330.0,350.0,pollen,6/30/2007,1170.0,0.0854700854701
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Plantago maritima-type,2.0,NISP,pollen,,7538.0,,,Radiocarbon years BP,505.0,350.0,pollen,6/30/2007,2428.0,0.0823723228995
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Plantago maritima-type,2.0,NISP,pollen,,8701.0,,,Radiocarbon years BP,580.0,350.0,pollen,6/30/2007,554.0,0.361010830325
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Plantago maritima-type,1.0,NISP,pollen,,9090.0,,,Radiocarbon years BP,605.0,350.0,pollen,6/30/2007,671.0,0.149031296572
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Plantago maritima-type,1.0,NISP,pollen,,9323.0,,,Radiocarbon years BP,620.0,350.0,pollen,6/30/2007,365.0,0.27397260274
-805,Fiddler's Pond,56.25,-121.42,56.25,56.25,-121.42,-121.42,Vascular plants,Plantago maritima-type,1.0,NISP,pollen,,2002.0,,,Radiocarbon years BP,90.0,630.0,pollen,6/30/2007,369.0,0.271002710027
-2995,Balikh,36.516667,39.083333,36.516667,36.516667,39.083333,39.083333,Vascular plants,Plantago maritima-type,1.0,NISP,pollen,,,,,,30.0,,pollen,6/30/2007,1003.0,0.0997008973081
-2995,Balikh,36.516667,39.083333,36.516667,36.516667,39.083333,39.083333,Vascular plants,Plantago maritima-type,2.0,NISP,pollen,,,,,,80.0,,pollen,6/30/2007,989.0,0.202224469161
-3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Plantago maritima-type,11.0,NISP,pollen,,166.0,,,Radiocarbon years BP,10.0,,pollen,6/30/2007,936.0,1.17521367521
-3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Plantago maritima-type,6.0,NISP,pollen,,332.0,,,Radiocarbon years BP,20.0,,pollen,6/30/2007,2109.0,0.284495021337
-3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Plantago maritima-type,8.0,NISP,pollen,,498.0,,,Radiocarbon years BP,30.0,,pollen,6/30/2007,2260.0,0.353982300885
-3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Plantago maritima-type,10.0,NISP,pollen,,664.0,,,Radiocarbon years BP,40.0,,pollen,6/30/2007,1413.0,0.70771408351
-3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Plantago maritima-type,33.0,NISP,pollen,,830.0,,,Radiocarbon years BP,50.0,,pollen,6/30/2007,1651.0,1.99878861296
-3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Plantago maritima-type,5.0,NISP,pollen,,997.0,,,Radiocarbon years BP,60.0,,pollen,6/30/2007,1274.0,0.392464678179
-3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Plantago maritima-type,27.0,NISP,pollen,,1163.0,,,Radiocarbon years BP,70.0,,pollen,6/30/2007,2667.0,1.01237345332
-3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Plantago maritima-type,10.0,NISP,pollen,,1329.0,,,Radiocarbon years BP,80.0,,pollen,6/30/2007,1568.0,0.637755102041
-3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Plantago maritima-type,5.0,NISP,pollen,,1495.0,,,Radiocarbon years BP,90.0,,pollen,6/30/2007,4161.0,0.120163422254
-3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Plantago maritima-type,16.0,NISP,pollen,,1661.0,,,Radiocarbon years BP,100.0,,pollen,6/30/2007,1729.0,0.925390399075
-3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Plantago maritima-type,13.0,NISP,pollen,,1827.0,,,Radiocarbon years BP,110.0,,pollen,6/30/2007,3110.0,0.418006430868
-3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Plantago maritima-type,9.0,NISP,pollen,,1993.0,,,Radiocarbon years BP,120.0,,pollen,6/30/2007,2444.0,0.368248772504
-3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Plantago maritima-type,23.0,NISP,pollen,,2159.0,,,Radiocarbon years BP,130.0,,pollen,6/30/2007,1541.0,1.49253731343
-3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Plantago maritima-type,17.0,NISP,pollen,,2325.0,,,Radiocarbon years BP,140.0,,pollen,6/30/2007,1409.0,1.20652945351
-3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Plantago maritima-type,31.0,NISP,pollen,,2491.0,,,Radiocarbon years BP,150.0,,pollen,6/30/2007,2362.0,1.31244707875
-3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Plantago maritima-type,26.0,NISP,pollen,,2657.0,,,Radiocarbon years BP,160.0,,pollen,6/30/2007,3543.0,0.733841377364
-3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Plantago maritima-type,2.0,NISP,pollen,,2823.0,,,Radiocarbon years BP,170.0,,pollen,6/30/2007,1118.0,0.178890876565
-3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Plantago maritima-type,13.0,NISP,pollen,,2990.0,,,Radiocarbon years BP,180.0,,pollen,6/30/2007,1488.0,0.873655913978
-3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Plantago maritima-type,6.0,NISP,pollen,,3156.0,,,Radiocarbon years BP,190.0,,pollen,6/30/2007,2559.0,0.234466588511
-3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Plantago maritima-type,27.0,NISP,pollen,,3322.0,,,Radiocarbon years BP,200.0,,pollen,6/30/2007,4011.0,0.673148840688
-3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Plantago maritima-type,3.0,NISP,pollen,,3820.0,,,Radiocarbon years BP,230.0,,pollen,6/30/2007,3461.0,0.0866801502456
-3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Plantago maritima-type,13.0,NISP,pollen,,4152.0,,,Radiocarbon years BP,250.0,,pollen,6/30/2007,2306.0,0.563746747615
-3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Plantago maritima-type,3.0,NISP,pollen,,4318.0,,,Radiocarbon years BP,260.0,,pollen,6/30/2007,1030.0,0.291262135922
-3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Plantago maritima-type,2.0,NISP,pollen,,4484.0,,,Radiocarbon years BP,270.0,,pollen,6/30/2007,740.0,0.27027027027
-3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Plantago maritima-type,2.0,NISP,pollen,,4650.0,,,Radiocarbon years BP,280.0,,pollen,6/30/2007,460.0,0.434782608696
-3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Plantago maritima-type,4.0,NISP,pollen,,4817.0,,,Radiocarbon years BP,290.0,,pollen,6/30/2007,724.0,0.552486187845
-3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Plantago maritima-type,1.0,NISP,pollen,,4983.0,,,Radiocarbon years BP,300.0,,pollen,6/30/2007,403.0,0.248138957816
-3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Plantago maritima-type,12.0,NISP,pollen,,5149.0,,,Radiocarbon years BP,310.0,,pollen,6/30/2007,2613.0,0.459242250287
-3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Plantago maritima-type,1.0,NISP,pollen,,5481.0,,,Radiocarbon years BP,330.0,,pollen,6/30/2007,1280.0,0.078125
-3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Plantago maritima-type,2.0,NISP,pollen,,5813.0,,,Radiocarbon years BP,350.0,,pollen,6/30/2007,850.0,0.235294117647
-3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Plantago maritima-type,3.0,NISP,pollen,,5979.0,,,Radiocarbon years BP,360.0,,pollen,6/30/2007,510.0,0.588235294118
-3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Plantago maritima-type,2.0,NISP,pollen,,6145.0,,,Radiocarbon years BP,370.0,,pollen,6/30/2007,2754.0,0.0726216412491
+223,Ballinloghig Lake,52.2,-10.308333,52.2,52.2,-10.308333,-10.308333,Vascular plants,Plantago maritima,1,NISP,pollen,,9775,,,Radiocarbon years BP,530,84,pollen,6/30/2007,373,0.268096515
+223,Ballinloghig Lake,52.2,-10.308333,52.2,52.2,-10.308333,-10.308333,Vascular plants,Plantago maritima,1,NISP,pollen,,9831,,,Radiocarbon years BP,540,84,pollen,6/30/2007,340,0.294117647
+223,Ballinloghig Lake,52.2,-10.308333,52.2,52.2,-10.308333,-10.308333,Vascular plants,Plantago maritima,17,NISP,pollen,,9954,,,Radiocarbon years BP,545,84,pollen,6/30/2007,345,4.927536232
+223,Ballinloghig Lake,52.2,-10.308333,52.2,52.2,-10.308333,-10.308333,Vascular plants,Plantago maritima,14,NISP,pollen,,10019,,,Radiocarbon years BP,547,84,pollen,6/30/2007,430,3.255813953
+223,Ballinloghig Lake,52.2,-10.308333,52.2,52.2,-10.308333,-10.308333,Vascular plants,Plantago maritima,6,NISP,pollen,,10117,,,Radiocarbon years BP,550,84,pollen,6/30/2007,368,1.630434783
+223,Ballinloghig Lake,52.2,-10.308333,52.2,52.2,-10.308333,-10.308333,Vascular plants,Plantago maritima,2,NISP,pollen,,10183,,,Radiocarbon years BP,552,84,pollen,6/30/2007,553,0.361663653
+223,Ballinloghig Lake,52.2,-10.308333,52.2,52.2,-10.308333,-10.308333,Vascular plants,Plantago maritima,3,NISP,pollen,,10483,,,Radiocarbon years BP,562,84,pollen,6/30/2007,424,0.70754717
+223,Ballinloghig Lake,52.2,-10.308333,52.2,52.2,-10.308333,-10.308333,Vascular plants,Plantago maritima,5,NISP,pollen,,10637,,,Radiocarbon years BP,572,84,pollen,6/30/2007,541,0.924214418
+223,Ballinloghig Lake,52.2,-10.308333,52.2,52.2,-10.308333,-10.308333,Vascular plants,Plantago maritima,2,NISP,pollen,,10714,,,Radiocarbon years BP,577,84,pollen,6/30/2007,461,0.433839479
+223,Ballinloghig Lake,52.2,-10.308333,52.2,52.2,-10.308333,-10.308333,Vascular plants,Plantago maritima,2,NISP,pollen,,10760,,,Radiocarbon years BP,580,84,pollen,6/30/2007,254,0.787401575
+223,Ballinloghig Lake,52.2,-10.308333,52.2,52.2,-10.308333,-10.308333,Vascular plants,Plantago maritima,3,NISP,pollen,,10791,,,Radiocarbon years BP,582,84,pollen,6/30/2007,455,0.659340659
+223,Ballinloghig Lake,52.2,-10.308333,52.2,52.2,-10.308333,-10.308333,Vascular plants,Plantago maritima,3,NISP,pollen,,10837,,,Radiocarbon years BP,585,84,pollen,6/30/2007,363,0.826446281
+223,Ballinloghig Lake,52.2,-10.308333,52.2,52.2,-10.308333,-10.308333,Vascular plants,Plantago maritima,27,NISP,pollen,,10868,,,Radiocarbon years BP,587,84,pollen,6/30/2007,403,6.699751861
+223,Ballinloghig Lake,52.2,-10.308333,52.2,52.2,-10.308333,-10.308333,Vascular plants,Plantago maritima,13,NISP,pollen,,10914,,,Radiocarbon years BP,590,84,pollen,6/30/2007,411,3.163017032
+223,Ballinloghig Lake,52.2,-10.308333,52.2,52.2,-10.308333,-10.308333,Vascular plants,Plantago maritima,3,NISP,pollen,,10944,,,Radiocarbon years BP,592,84,pollen,6/30/2007,467,0.642398287
+223,Ballinloghig Lake,52.2,-10.308333,52.2,52.2,-10.308333,-10.308333,Vascular plants,Plantago maritima,11,NISP,pollen,,10991,,,Radiocarbon years BP,595,84,pollen,6/30/2007,357,3.081232493
+223,Ballinloghig Lake,52.2,-10.308333,52.2,52.2,-10.308333,-10.308333,Vascular plants,Plantago maritima,3,NISP,pollen,,11431,,,Radiocarbon years BP,597,84,pollen,6/30/2007,367,0.817438692
+223,Ballinloghig Lake,52.2,-10.308333,52.2,52.2,-10.308333,-10.308333,Vascular plants,Plantago maritima,31,NISP,pollen,,12705,,,Radiocarbon years BP,600,84,pollen,6/30/2007,280,11.07142857
+223,Ballinloghig Lake,52.2,-10.308333,52.2,52.2,-10.308333,-10.308333,Vascular plants,Plantago maritima,9,NISP,pollen,,13555,,,Radiocarbon years BP,602,84,pollen,6/30/2007,345,2.608695652
+223,Ballinloghig Lake,52.2,-10.308333,52.2,52.2,-10.308333,-10.308333,Vascular plants,Plantago maritima,8,NISP,pollen,,14036,,,Radiocarbon years BP,607,84,pollen,6/30/2007,372,2.150537634
+223,Ballinloghig Lake,52.2,-10.308333,52.2,52.2,-10.308333,-10.308333,Vascular plants,Plantago maritima,3,NISP,pollen,,14106,,,Radiocarbon years BP,612,84,pollen,6/30/2007,223,1.34529148
+223,Ballinloghig Lake,52.2,-10.308333,52.2,52.2,-10.308333,-10.308333,Vascular plants,Plantago maritima,1,NISP,pollen,,14359,,,Radiocarbon years BP,630,84,pollen,6/30/2007,132,0.757575758
+224,Ballybetagh,53.166667,-6.25,53.166667,53.166667,-6.25,-6.25,Vascular plants,Plantago maritima,1,NISP,pollen,,11660,,,Radiocarbon years BP,340,250,pollen,6/30/2007,313,0.319488818
+224,Ballybetagh,53.166667,-6.25,53.166667,53.166667,-6.25,-6.25,Vascular plants,Plantago maritima,2,NISP,pollen,,12158,,,Radiocarbon years BP,405,250,pollen,6/30/2007,369,0.54200542
+224,Ballybetagh,53.166667,-6.25,53.166667,53.166667,-6.25,-6.25,Vascular plants,Plantago maritima,2,NISP,pollen,,12229,,,Radiocarbon years BP,415,250,pollen,6/30/2007,393,0.508905852
+224,Ballybetagh,53.166667,-6.25,53.166667,53.166667,-6.25,-6.25,Vascular plants,Plantago maritima,1,NISP,pollen,,12299,,,Radiocarbon years BP,425,250,pollen,6/30/2007,484,0.20661157
+224,Ballybetagh,53.166667,-6.25,53.166667,53.166667,-6.25,-6.25,Vascular plants,Plantago maritima,2,NISP,pollen,,12333,,,Radiocarbon years BP,430,250,pollen,6/30/2007,471,0.42462845
+224,Ballybetagh,53.166667,-6.25,53.166667,53.166667,-6.25,-6.25,Vascular plants,Plantago maritima,4,NISP,pollen,,12566,,,Radiocarbon years BP,465,250,pollen,6/30/2007,323,1.238390093
+224,Ballybetagh,53.166667,-6.25,53.166667,53.166667,-6.25,-6.25,Vascular plants,Plantago maritima,1,NISP,pollen,,12630,,,Radiocarbon years BP,475,250,pollen,6/30/2007,297,0.336700337
+224,Ballybetagh,53.166667,-6.25,53.166667,53.166667,-6.25,-6.25,Vascular plants,Plantago maritima,1,NISP,pollen,,12693,,,Radiocarbon years BP,485,250,pollen,6/30/2007,302,0.331125828
+224,Ballybetagh,53.166667,-6.25,53.166667,53.166667,-6.25,-6.25,Vascular plants,Plantago maritima,3,NISP,pollen,,12755,,,Radiocarbon years BP,495,250,pollen,6/30/2007,350,0.857142857
+224,Ballybetagh,53.166667,-6.25,53.166667,53.166667,-6.25,-6.25,Vascular plants,Plantago maritima,1,NISP,pollen,,12817,,,Radiocarbon years BP,505,250,pollen,6/30/2007,323,0.309597523
+224,Ballybetagh,53.166667,-6.25,53.166667,53.166667,-6.25,-6.25,Vascular plants,Plantago maritima,1,NISP,pollen,,12877,,,Radiocarbon years BP,515,250,pollen,6/30/2007,252,0.396825397
+947,Grasvatn,63.7,8.7,63.7,63.7,8.7,8.7,Vascular plants,Plantago maritima,1,NISP,pollen,,922,,,Radiocarbon years BP,30,45,pollen,6/30/2007,626,0.159744409
+947,Grasvatn,63.7,8.7,63.7,63.7,8.7,8.7,Vascular plants,Plantago maritima,1,NISP,pollen,,1202,,,Radiocarbon years BP,40,45,pollen,6/30/2007,590,0.169491525
+947,Grasvatn,63.7,8.7,63.7,63.7,8.7,8.7,Vascular plants,Plantago maritima,1,NISP,pollen,,1477,,,Radiocarbon years BP,50,45,pollen,6/30/2007,701,0.142653352
+947,Grasvatn,63.7,8.7,63.7,63.7,8.7,8.7,Vascular plants,Plantago maritima,1,NISP,pollen,,2542,,,Radiocarbon years BP,90,45,pollen,6/30/2007,672,0.148809524
+947,Grasvatn,63.7,8.7,63.7,63.7,8.7,8.7,Vascular plants,Plantago maritima,1,NISP,pollen,,8905,,,Radiocarbon years BP,350,45,pollen,6/30/2007,843,0.118623962
+947,Grasvatn,63.7,8.7,63.7,63.7,8.7,8.7,Vascular plants,Plantago maritima,1,NISP,pollen,,9257,,,Radiocarbon years BP,365,45,pollen,6/30/2007,964,0.10373444
+947,Grasvatn,63.7,8.7,63.7,63.7,8.7,8.7,Vascular plants,Plantago maritima,2,NISP,pollen,,9841,,,Radiocarbon years BP,390,45,pollen,6/30/2007,1404,0.142450142
+1798,Pashennoe,49.37,75.4,49.37,49.37,75.4,75.4,Vascular plants,Plantago maritima,2,NISP,pollen,,10778,,,Radiocarbon years BP,320,871,pollen,6/30/2007,259,0.772200772
+2965,Abernethy Forest,56.233333,-3.716667,56.233333,56.233333,-3.716667,-3.716667,Vascular plants,Plantago maritima,1,NISP,pollen,,9450,,,Radiocarbon years BP,460,221,pollen,6/30/2007,714,0.140056022
+2965,Abernethy Forest,56.233333,-3.716667,56.233333,56.233333,-3.716667,-3.716667,Vascular plants,Plantago maritima,1,NISP,pollen,,10450,,,Radiocarbon years BP,500,221,pollen,6/30/2007,338,0.295857988
+2965,Abernethy Forest,56.233333,-3.716667,56.233333,56.233333,-3.716667,-3.716667,Vascular plants,Plantago maritima,1,NISP,pollen,,11502,,,Radiocarbon years BP,525,221,pollen,6/30/2007,606,0.165016502
+2980,Arkutino Lake,42.366667,27.733333,42.366667,42.366667,27.733333,27.733333,Vascular plants,Plantago maritima,9,NISP,pollen,,1668,,,Radiocarbon years BP,63,0,pollen,6/30/2007,766,1.174934726
+2980,Arkutino Lake,42.366667,27.733333,42.366667,42.366667,27.733333,27.733333,Vascular plants,Plantago maritima,5,NISP,pollen,,1836,,,Radiocarbon years BP,75,0,pollen,6/30/2007,618,0.809061489
+2980,Arkutino Lake,42.366667,27.733333,42.366667,42.366667,27.733333,27.733333,Vascular plants,Plantago maritima,2,NISP,pollen,,1976,,,Radiocarbon years BP,85,0,pollen,6/30/2007,531,0.376647834
+2980,Arkutino Lake,42.366667,27.733333,42.366667,42.366667,27.733333,27.733333,Vascular plants,Plantago maritima,3,NISP,pollen,,2061,,,Radiocarbon years BP,91,0,pollen,6/30/2007,712,0.421348315
+2980,Arkutino Lake,42.366667,27.733333,42.366667,42.366667,27.733333,27.733333,Vascular plants,Plantago maritima,1,NISP,pollen,,2257,,,Radiocarbon years BP,105,0,pollen,6/30/2007,1030,0.097087379
+2980,Arkutino Lake,42.366667,27.733333,42.366667,42.366667,27.733333,27.733333,Vascular plants,Plantago maritima,2,NISP,pollen,,4790,,,Radiocarbon years BP,310,0,pollen,6/30/2007,463,0.431965443
+2980,Arkutino Lake,42.366667,27.733333,42.366667,42.366667,27.733333,27.733333,Vascular plants,Plantago maritima,5,NISP,pollen,,4845,,,Radiocarbon years BP,320,0,pollen,6/30/2007,595,0.840336134
+2980,Arkutino Lake,42.366667,27.733333,42.366667,42.366667,27.733333,27.733333,Vascular plants,Plantago maritima,2,NISP,pollen,,4951,,,Radiocarbon years BP,339,0,pollen,6/30/2007,334,0.598802395
+2980,Arkutino Lake,42.366667,27.733333,42.366667,42.366667,27.733333,27.733333,Vascular plants,Plantago maritima,1,NISP,pollen,,5012,,,Radiocarbon years BP,350,0,pollen,6/30/2007,435,0.229885057
+2980,Arkutino Lake,42.366667,27.733333,42.366667,42.366667,27.733333,27.733333,Vascular plants,Plantago maritima,1,NISP,pollen,,5067,,,Radiocarbon years BP,360,0,pollen,6/30/2007,562,0.177935943
+2980,Arkutino Lake,42.366667,27.733333,42.366667,42.366667,27.733333,27.733333,Vascular plants,Plantago maritima,1,NISP,pollen,,5178,,,Radiocarbon years BP,380,0,pollen,6/30/2007,626,0.159744409
+2980,Arkutino Lake,42.366667,27.733333,42.366667,42.366667,27.733333,27.733333,Vascular plants,Plantago maritima,2,NISP,pollen,,5633,,,Radiocarbon years BP,462,0,pollen,6/30/2007,351,0.56980057
+2980,Arkutino Lake,42.366667,27.733333,42.366667,42.366667,27.733333,27.733333,Vascular plants,Plantago maritima,3,NISP,pollen,,1285,,,Radiocarbon years BP,108,0,pollen,6/30/2007,610,0.491803279
+2980,Arkutino Lake,42.366667,27.733333,42.366667,42.366667,27.733333,27.733333,Vascular plants,Plantago maritima,1,NISP,pollen,,2493,,,Radiocarbon years BP,229,0,pollen,6/30/2007,505,0.198019802
+2980,Arkutino Lake,42.366667,27.733333,42.366667,42.366667,27.733333,27.733333,Vascular plants,Plantago maritima,1,NISP,pollen,,3246,,,Radiocarbon years BP,309,0,pollen,6/30/2007,531,0.188323917
+2980,Arkutino Lake,42.366667,27.733333,42.366667,42.366667,27.733333,27.733333,Vascular plants,Plantago maritima,3,NISP,pollen,,3439,,,Radiocarbon years BP,330,0,pollen,6/30/2007,676,0.443786982
+2980,Arkutino Lake,42.366667,27.733333,42.366667,42.366667,27.733333,27.733333,Vascular plants,Plantago maritima,1,NISP,pollen,,3686,,,Radiocarbon years BP,357,0,pollen,6/30/2007,345,0.289855072
+2980,Arkutino Lake,42.366667,27.733333,42.366667,42.366667,27.733333,27.733333,Vascular plants,Plantago maritima,3,NISP,pollen,,3876,,,Radiocarbon years BP,378,0,pollen,6/30/2007,388,0.773195876
+2980,Arkutino Lake,42.366667,27.733333,42.366667,42.366667,27.733333,27.733333,Vascular plants,Plantago maritima,3,NISP,pollen,,4218,,,Radiocarbon years BP,416,0,pollen,6/30/2007,344,0.872093023
+2980,Arkutino Lake,42.366667,27.733333,42.366667,42.366667,27.733333,27.733333,Vascular plants,Plantago maritima,1,NISP,pollen,,4934,,,Radiocarbon years BP,497,0,pollen,6/30/2007,357,0.280112045
+2980,Arkutino Lake,42.366667,27.733333,42.366667,42.366667,27.733333,27.733333,Vascular plants,Plantago maritima,1,NISP,pollen,,5360,,,Radiocarbon years BP,546,0,pollen,6/30/2007,299,0.334448161
+2980,Arkutino Lake,42.366667,27.733333,42.366667,42.366667,27.733333,27.733333,Vascular plants,Plantago maritima,1,NISP,pollen,,6738,,,Radiocarbon years BP,708,0,pollen,6/30/2007,412,0.242718447
+2980,Arkutino Lake,42.366667,27.733333,42.366667,42.366667,27.733333,27.733333,Vascular plants,Plantago maritima,1,NISP,pollen,,7570,,,Radiocarbon years BP,808,0,pollen,6/30/2007,251,0.398406375
+2980,Arkutino Lake,42.366667,27.733333,42.366667,42.366667,27.733333,27.733333,Vascular plants,Plantago maritima,1,NISP,pollen,,7743,,,Radiocarbon years BP,829,0,pollen,6/30/2007,252,0.396825397
+2985,Lake Varna (Arsenala),43.2,27.833333,43.2,43.2,27.833333,27.833333,Vascular plants,Plantago maritima,2,NISP,pollen,,1670,,,Radiocarbon years BP,20,0,pollen,6/30/2007,424,0.471698113
+2985,Lake Varna (Arsenala),43.2,27.833333,43.2,43.2,27.833333,27.833333,Vascular plants,Plantago maritima,1,NISP,pollen,,4266,,,Radiocarbon years BP,220,0,pollen,6/30/2007,261,0.383141762
+2985,Lake Varna (Arsenala),43.2,27.833333,43.2,43.2,27.833333,27.833333,Vascular plants,Plantago maritima,1,NISP,pollen,,4688,,,Radiocarbon years BP,280,0,pollen,6/30/2007,407,0.245700246
+2985,Lake Varna (Arsenala),43.2,27.833333,43.2,43.2,27.833333,27.833333,Vascular plants,Plantago maritima,10,NISP,pollen,,5595,,,Radiocarbon years BP,440,0,pollen,6/30/2007,248,4.032258065
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Plantago maritima,1,NISP,pollen,,,,,,120,242,pollen,6/30/2007,613,0.163132137
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Plantago maritima,1,NISP,pollen,,,,,,164,242,pollen,6/30/2007,372,0.268817204
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Plantago maritima,1,NISP,pollen,,,,,,203,242,pollen,6/30/2007,707,0.141442716
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Plantago maritima,2,NISP,pollen,,,,,,206,242,pollen,6/30/2007,720,0.277777778
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Plantago maritima,7,NISP,pollen,,,,,,210,242,pollen,6/30/2007,728,0.961538462
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Plantago maritima,9,NISP,pollen,,,,,,212,242,pollen,6/30/2007,733,1.227830832
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Plantago maritima,8,NISP,pollen,,,,,,214,242,pollen,6/30/2007,744,1.075268817
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Plantago maritima,5,NISP,pollen,,,,,,216,242,pollen,6/30/2007,681,0.734214391
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Plantago maritima,5,NISP,pollen,,,,,,218,242,pollen,6/30/2007,700,0.714285714
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Plantago maritima,6,NISP,pollen,,,,,,220,242,pollen,6/30/2007,765,0.784313725
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Plantago maritima,7,NISP,pollen,,,,,,222,242,pollen,6/30/2007,706,0.991501416
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Plantago maritima,3,NISP,pollen,,,,,,224,242,pollen,6/30/2007,767,0.391134289
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Plantago maritima,1,NISP,pollen,,,,,,228,242,pollen,6/30/2007,671,0.149031297
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Plantago maritima,1,NISP,pollen,,,,,,230,242,pollen,6/30/2007,716,0.139664804
+2997,Beanrig Moss,55.555,-2.765833,55.555,55.555,-2.765833,-2.765833,Vascular plants,Plantago maritima,1,NISP,pollen,,,,,,236,242,pollen,6/30/2007,697,0.143472023
+3006,Belle Lake,52.183333,-7.033333,52.183333,52.183333,-7.033333,-7.033333,Vascular plants,Plantago maritima,1,NISP,pollen,,6654,,,Radiocarbon years BP,278,33,pollen,6/30/2007,387,0.258397933
+3006,Belle Lake,52.183333,-7.033333,52.183333,52.183333,-7.033333,-7.033333,Vascular plants,Plantago maritima,1,NISP,pollen,,9381,,,Radiocarbon years BP,394,33,pollen,6/30/2007,779,0.128369705
+3006,Belle Lake,52.183333,-7.033333,52.183333,52.183333,-7.033333,-7.033333,Vascular plants,Plantago maritima,1,NISP,pollen,,9608,,,Radiocarbon years BP,402,33,pollen,6/30/2007,893,0.111982083
+3006,Belle Lake,52.183333,-7.033333,52.183333,52.183333,-7.033333,-7.033333,Vascular plants,Plantago maritima,8,NISP,pollen,,9659,,,Radiocarbon years BP,408,33,pollen,6/30/2007,462,1.731601732
+3006,Belle Lake,52.183333,-7.033333,52.183333,52.183333,-7.033333,-7.033333,Vascular plants,Plantago maritima,3,NISP,pollen,,9709,,,Radiocarbon years BP,414,33,pollen,6/30/2007,385,0.779220779
+3006,Belle Lake,52.183333,-7.033333,52.183333,52.183333,-7.033333,-7.033333,Vascular plants,Plantago maritima,2,NISP,pollen,,9743,,,Radiocarbon years BP,418,33,pollen,6/30/2007,348,0.574712644
+3006,Belle Lake,52.183333,-7.033333,52.183333,52.183333,-7.033333,-7.033333,Vascular plants,Plantago maritima,1,NISP,pollen,,9894,,,Radiocarbon years BP,436,33,pollen,6/30/2007,373,0.268096515
+3006,Belle Lake,52.183333,-7.033333,52.183333,52.183333,-7.033333,-7.033333,Vascular plants,Plantago maritima,2,NISP,pollen,,9994,,,Radiocarbon years BP,448,33,pollen,6/30/2007,425,0.470588235
+3006,Belle Lake,52.183333,-7.033333,52.183333,52.183333,-7.033333,-7.033333,Vascular plants,Plantago maritima,1,NISP,pollen,,10078,,,Radiocarbon years BP,458,33,pollen,6/30/2007,360,0.277777778
+3006,Belle Lake,52.183333,-7.033333,52.183333,52.183333,-7.033333,-7.033333,Vascular plants,Plantago maritima,3,NISP,pollen,,10162,,,Radiocarbon years BP,468,33,pollen,6/30/2007,346,0.867052023
+3006,Belle Lake,52.183333,-7.033333,52.183333,52.183333,-7.033333,-7.033333,Vascular plants,Plantago maritima,2,NISP,pollen,,11281,,,Radiocarbon years BP,540,33,pollen,6/30/2007,376,0.531914894
+3006,Belle Lake,52.183333,-7.033333,52.183333,52.183333,-7.033333,-7.033333,Vascular plants,Plantago maritima,1,NISP,pollen,,11577,,,Radiocarbon years BP,549,33,pollen,6/30/2007,357,0.280112045
+3006,Belle Lake,52.183333,-7.033333,52.183333,52.183333,-7.033333,-7.033333,Vascular plants,Plantago maritima,1,NISP,pollen,,11873,,,Radiocarbon years BP,558,33,pollen,6/30/2007,380,0.263157895
+3006,Belle Lake,52.183333,-7.033333,52.183333,52.183333,-7.033333,-7.033333,Vascular plants,Plantago maritima,8,NISP,pollen,,11939,,,Radiocarbon years BP,560,33,pollen,6/30/2007,634,1.261829653
+3006,Belle Lake,52.183333,-7.033333,52.183333,52.183333,-7.033333,-7.033333,Vascular plants,Plantago maritima,1,NISP,pollen,,12136,,,Radiocarbon years BP,566,33,pollen,6/30/2007,426,0.234741784
+3006,Belle Lake,52.183333,-7.033333,52.183333,52.183333,-7.033333,-7.033333,Vascular plants,Plantago maritima,2,NISP,pollen,,12268,,,Radiocarbon years BP,570,33,pollen,6/30/2007,387,0.516795866
+3009,Bergakyllen,57.166667,16.15,57.166667,57.166667,16.15,16.15,Vascular plants,Plantago maritima,1,NISP,pollen,,10904,,,Radiocarbon years BP,9280,73,pollen,6/30/2007,640,0.15625
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Plantago maritima,2,NISP,pollen,,1702,,,Radiocarbon years BP,120,350,pollen,6/30/2007,1657,0.12070006
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Plantago maritima,3,NISP,pollen,,1996,,,Radiocarbon years BP,140,350,pollen,6/30/2007,1200,0.25
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Plantago maritima,1,NISP,pollen,,2292,,,Radiocarbon years BP,160,350,pollen,6/30/2007,679,0.147275405
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Plantago maritima,1,NISP,pollen,,3941,,,Radiocarbon years BP,270,350,pollen,6/30/2007,791,0.12642225
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Plantago maritima,1,NISP,pollen,,4244,,,Radiocarbon years BP,290,350,pollen,6/30/2007,2154,0.046425255
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Plantago maritima,1,NISP,pollen,,4852,,,Radiocarbon years BP,330,350,pollen,6/30/2007,1170,0.085470085
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Plantago maritima,2,NISP,pollen,,7538,,,Radiocarbon years BP,505,350,pollen,6/30/2007,2428,0.082372323
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Plantago maritima,2,NISP,pollen,,8701,,,Radiocarbon years BP,580,350,pollen,6/30/2007,554,0.36101083
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Plantago maritima,1,NISP,pollen,,9090,,,Radiocarbon years BP,605,350,pollen,6/30/2007,671,0.149031297
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Plantago maritima,1,NISP,pollen,,9323,,,Radiocarbon years BP,620,350,pollen,6/30/2007,365,0.273972603
+805,Fiddler's Pond,56.25,-121.42,56.25,56.25,-121.42,-121.42,Vascular plants,Plantago maritima,1,NISP,pollen,,2002,,,Radiocarbon years BP,90,630,pollen,6/30/2007,369,0.27100271
+2995,Balikh,36.516667,39.083333,36.516667,36.516667,39.083333,39.083333,Vascular plants,Plantago maritima,1,NISP,pollen,,,,,,30,,pollen,6/30/2007,1003,0.099700897
+2995,Balikh,36.516667,39.083333,36.516667,36.516667,39.083333,39.083333,Vascular plants,Plantago maritima,2,NISP,pollen,,,,,,80,,pollen,6/30/2007,989,0.202224469
+3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Plantago maritima,11,NISP,pollen,,166,,,Radiocarbon years BP,10,,pollen,6/30/2007,936,1.175213675
+3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Plantago maritima,6,NISP,pollen,,332,,,Radiocarbon years BP,20,,pollen,6/30/2007,2109,0.284495021
+3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Plantago maritima,8,NISP,pollen,,498,,,Radiocarbon years BP,30,,pollen,6/30/2007,2260,0.353982301
+3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Plantago maritima,10,NISP,pollen,,664,,,Radiocarbon years BP,40,,pollen,6/30/2007,1413,0.707714084
+3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Plantago maritima,33,NISP,pollen,,830,,,Radiocarbon years BP,50,,pollen,6/30/2007,1651,1.998788613
+3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Plantago maritima,5,NISP,pollen,,997,,,Radiocarbon years BP,60,,pollen,6/30/2007,1274,0.392464678
+3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Plantago maritima,27,NISP,pollen,,1163,,,Radiocarbon years BP,70,,pollen,6/30/2007,2667,1.012373453
+3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Plantago maritima,10,NISP,pollen,,1329,,,Radiocarbon years BP,80,,pollen,6/30/2007,1568,0.637755102
+3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Plantago maritima,5,NISP,pollen,,1495,,,Radiocarbon years BP,90,,pollen,6/30/2007,4161,0.120163422
+3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Plantago maritima,16,NISP,pollen,,1661,,,Radiocarbon years BP,100,,pollen,6/30/2007,1729,0.925390399
+3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Plantago maritima,13,NISP,pollen,,1827,,,Radiocarbon years BP,110,,pollen,6/30/2007,3110,0.418006431
+3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Plantago maritima,9,NISP,pollen,,1993,,,Radiocarbon years BP,120,,pollen,6/30/2007,2444,0.368248773
+3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Plantago maritima,23,NISP,pollen,,2159,,,Radiocarbon years BP,130,,pollen,6/30/2007,1541,1.492537313
+3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Plantago maritima,17,NISP,pollen,,2325,,,Radiocarbon years BP,140,,pollen,6/30/2007,1409,1.206529454
+3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Plantago maritima,31,NISP,pollen,,2491,,,Radiocarbon years BP,150,,pollen,6/30/2007,2362,1.312447079
+3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Plantago maritima,26,NISP,pollen,,2657,,,Radiocarbon years BP,160,,pollen,6/30/2007,3543,0.733841377
+3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Plantago maritima,2,NISP,pollen,,2823,,,Radiocarbon years BP,170,,pollen,6/30/2007,1118,0.178890877
+3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Plantago maritima,13,NISP,pollen,,2990,,,Radiocarbon years BP,180,,pollen,6/30/2007,1488,0.873655914
+3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Plantago maritima,6,NISP,pollen,,3156,,,Radiocarbon years BP,190,,pollen,6/30/2007,2559,0.234466589
+3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Plantago maritima,27,NISP,pollen,,3322,,,Radiocarbon years BP,200,,pollen,6/30/2007,4011,0.673148841
+3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Plantago maritima,3,NISP,pollen,,3820,,,Radiocarbon years BP,230,,pollen,6/30/2007,3461,0.08668015
+3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Plantago maritima,13,NISP,pollen,,4152,,,Radiocarbon years BP,250,,pollen,6/30/2007,2306,0.563746748
+3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Plantago maritima,3,NISP,pollen,,4318,,,Radiocarbon years BP,260,,pollen,6/30/2007,1030,0.291262136
+3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Plantago maritima,2,NISP,pollen,,4484,,,Radiocarbon years BP,270,,pollen,6/30/2007,740,0.27027027
+3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Plantago maritima,2,NISP,pollen,,4650,,,Radiocarbon years BP,280,,pollen,6/30/2007,460,0.434782609
+3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Plantago maritima,4,NISP,pollen,,4817,,,Radiocarbon years BP,290,,pollen,6/30/2007,724,0.552486188
+3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Plantago maritima,1,NISP,pollen,,4983,,,Radiocarbon years BP,300,,pollen,6/30/2007,403,0.248138958
+3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Plantago maritima,12,NISP,pollen,,5149,,,Radiocarbon years BP,310,,pollen,6/30/2007,2613,0.45924225
+3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Plantago maritima,1,NISP,pollen,,5481,,,Radiocarbon years BP,330,,pollen,6/30/2007,1280,0.078125
+3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Plantago maritima,2,NISP,pollen,,5813,,,Radiocarbon years BP,350,,pollen,6/30/2007,850,0.235294118
+3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Plantago maritima,3,NISP,pollen,,5979,,,Radiocarbon years BP,360,,pollen,6/30/2007,510,0.588235294
+3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Plantago maritima,2,NISP,pollen,,6145,,,Radiocarbon years BP,370,,pollen,6/30/2007,2754,0.072621641

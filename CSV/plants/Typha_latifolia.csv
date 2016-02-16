@@ -1,94 +1,94 @@
 siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
-351,Chany Lake,54.75,77.25,54.75,54.75,77.25,77.25,Vascular plants,Typha latifolia-type,3.0,NISP,pollen,,,,,,50.0,120.0,pollen,6/30/2007,496.0,0.604838709677
-351,Chany Lake,54.75,77.25,54.75,54.75,77.25,77.25,Vascular plants,Typha latifolia-type,3.0,NISP,pollen,,,,,,160.0,120.0,pollen,6/30/2007,508.0,0.590551181102
-351,Chany Lake,54.75,77.25,54.75,54.75,77.25,77.25,Vascular plants,Typha latifolia-type,5.0,NISP,pollen,,,,,,170.0,120.0,pollen,6/30/2007,526.0,0.950570342205
-358,Cheyenne Bottoms,38.466667,-98.666667,38.466667,38.466667,-98.666667,-98.666667,Vascular plants,Typha latifolia-type,1.0,NISP,pollen,,9316.0,,,Radiocarbon years BP,518.0,547.0,pollen,6/30/2007,325.0,0.307692307692
-358,Cheyenne Bottoms,38.466667,-98.666667,38.466667,38.466667,-98.666667,-98.666667,Vascular plants,Typha latifolia-type,2.0,NISP,pollen,,9690.0,,,Radiocarbon years BP,534.0,547.0,pollen,6/30/2007,347.0,0.576368876081
-358,Cheyenne Bottoms,38.466667,-98.666667,38.466667,38.466667,-98.666667,-98.666667,Vascular plants,Typha latifolia-type,2.0,NISP,pollen,,10064.0,,,Radiocarbon years BP,550.0,547.0,pollen,6/30/2007,400.0,0.5
-358,Cheyenne Bottoms,38.466667,-98.666667,38.466667,38.466667,-98.666667,-98.666667,Vascular plants,Typha latifolia-type,2.0,NISP,pollen,,10251.0,,,Radiocarbon years BP,558.0,547.0,pollen,6/30/2007,192.0,1.04166666667
-358,Cheyenne Bottoms,38.466667,-98.666667,38.466667,38.466667,-98.666667,-98.666667,Vascular plants,Typha latifolia-type,1.0,NISP,pollen,,24505.0,,,Radiocarbon years BP,746.0,547.0,pollen,6/30/2007,364.0,0.274725274725
-358,Cheyenne Bottoms,38.466667,-98.666667,38.466667,38.466667,-98.666667,-98.666667,Vascular plants,Typha latifolia-type,2.0,NISP,pollen,,24572.0,,,Radiocarbon years BP,761.0,547.0,pollen,6/30/2007,382.0,0.523560209424
-358,Cheyenne Bottoms,38.466667,-98.666667,38.466667,38.466667,-98.666667,-98.666667,Vascular plants,Typha latifolia-type,2.0,NISP,pollen,,24625.0,,,Radiocarbon years BP,773.0,547.0,pollen,6/30/2007,406.0,0.492610837438
-358,Cheyenne Bottoms,38.466667,-98.666667,38.466667,38.466667,-98.666667,-98.666667,Vascular plants,Typha latifolia-type,3.0,NISP,pollen,,25178.0,,,Radiocarbon years BP,897.0,547.0,pollen,6/30/2007,391.0,0.76726342711
-358,Cheyenne Bottoms,38.466667,-98.666667,38.466667,38.466667,-98.666667,-98.666667,Vascular plants,Typha latifolia-type,1.0,NISP,pollen,,25276.0,,,Radiocarbon years BP,919.0,547.0,pollen,6/30/2007,430.0,0.232558139535
-358,Cheyenne Bottoms,38.466667,-98.666667,38.466667,38.466667,-98.666667,-98.666667,Vascular plants,Typha latifolia-type,3.0,NISP,pollen,,25468.0,,,Radiocarbon years BP,962.0,547.0,pollen,6/30/2007,473.0,0.634249471459
-358,Cheyenne Bottoms,38.466667,-98.666667,38.466667,38.466667,-98.666667,-98.666667,Vascular plants,Typha latifolia-type,1.0,NISP,pollen,,25647.0,,,Radiocarbon years BP,1002.0,547.0,pollen,6/30/2007,404.0,0.247524752475
-358,Cheyenne Bottoms,38.466667,-98.666667,38.466667,38.466667,-98.666667,-98.666667,Vascular plants,Typha latifolia-type,1.0,NISP,pollen,,26226.0,,,Radiocarbon years BP,1132.0,547.0,pollen,6/30/2007,348.0,0.287356321839
-358,Cheyenne Bottoms,38.466667,-98.666667,38.466667,38.466667,-98.666667,-98.666667,Vascular plants,Typha latifolia-type,3.0,NISP,pollen,,26324.0,,,Radiocarbon years BP,1154.0,547.0,pollen,6/30/2007,460.0,0.652173913043
-358,Cheyenne Bottoms,38.466667,-98.666667,38.466667,38.466667,-98.666667,-98.666667,Vascular plants,Typha latifolia-type,1.0,NISP,pollen,,26414.0,,,Radiocarbon years BP,1174.0,547.0,pollen,6/30/2007,404.0,0.247524752475
-358,Cheyenne Bottoms,38.466667,-98.666667,38.466667,38.466667,-98.666667,-98.666667,Vascular plants,Typha latifolia-type,1.0,NISP,pollen,,26503.0,,,Radiocarbon years BP,1194.0,547.0,pollen,6/30/2007,376.0,0.265957446809
-358,Cheyenne Bottoms,38.466667,-98.666667,38.466667,38.466667,-98.666667,-98.666667,Vascular plants,Typha latifolia-type,2.0,NISP,pollen,,26601.0,,,Radiocarbon years BP,1216.0,547.0,pollen,6/30/2007,343.0,0.583090379009
-358,Cheyenne Bottoms,38.466667,-98.666667,38.466667,38.466667,-98.666667,-98.666667,Vascular plants,Typha latifolia-type,1.0,NISP,pollen,,27083.0,,,Radiocarbon years BP,1324.0,547.0,pollen,6/30/2007,373.0,0.268096514745
-358,Cheyenne Bottoms,38.466667,-98.666667,38.466667,38.466667,-98.666667,-98.666667,Vascular plants,Typha latifolia-type,1.0,NISP,pollen,,27217.0,,,Radiocarbon years BP,1354.0,547.0,pollen,6/30/2007,352.0,0.284090909091
-358,Cheyenne Bottoms,38.466667,-98.666667,38.466667,38.466667,-98.666667,-98.666667,Vascular plants,Typha latifolia-type,2.0,NISP,pollen,,27261.0,,,Radiocarbon years BP,1364.0,547.0,pollen,6/30/2007,444.0,0.45045045045
-358,Cheyenne Bottoms,38.466667,-98.666667,38.466667,38.466667,-98.666667,-98.666667,Vascular plants,Typha latifolia-type,3.0,NISP,pollen,,27315.0,,,Radiocarbon years BP,1376.0,547.0,pollen,6/30/2007,339.0,0.884955752212
-358,Cheyenne Bottoms,38.466667,-98.666667,38.466667,38.466667,-98.666667,-98.666667,Vascular plants,Typha latifolia-type,2.0,NISP,pollen,,27350.0,,,Radiocarbon years BP,1384.0,547.0,pollen,6/30/2007,392.0,0.510204081633
-358,Cheyenne Bottoms,38.466667,-98.666667,38.466667,38.466667,-98.666667,-98.666667,Vascular plants,Typha latifolia-type,1.0,NISP,pollen,,27440.0,,,Radiocarbon years BP,1404.0,547.0,pollen,6/30/2007,306.0,0.326797385621
-358,Cheyenne Bottoms,38.466667,-98.666667,38.466667,38.466667,-98.666667,-98.666667,Vascular plants,Typha latifolia-type,2.0,NISP,pollen,,27600.0,,,Radiocarbon years BP,1440.0,547.0,pollen,6/30/2007,396.0,0.505050505051
-358,Cheyenne Bottoms,38.466667,-98.666667,38.466667,38.466667,-98.666667,-98.666667,Vascular plants,Typha latifolia-type,1.0,NISP,pollen,,27689.0,,,Radiocarbon years BP,1460.0,547.0,pollen,6/30/2007,365.0,0.27397260274
-358,Cheyenne Bottoms,38.466667,-98.666667,38.466667,38.466667,-98.666667,-98.666667,Vascular plants,Typha latifolia-type,6.0,NISP,pollen,,27778.0,,,Radiocarbon years BP,1480.0,547.0,pollen,6/30/2007,408.0,1.47058823529
-358,Cheyenne Bottoms,38.466667,-98.666667,38.466667,38.466667,-98.666667,-98.666667,Vascular plants,Typha latifolia-type,1.0,NISP,pollen,,27868.0,,,Radiocarbon years BP,1500.0,547.0,pollen,6/30/2007,376.0,0.265957446809
-358,Cheyenne Bottoms,38.466667,-98.666667,38.466667,38.466667,-98.666667,-98.666667,Vascular plants,Typha latifolia-type,3.0,NISP,pollen,,27957.0,,,Radiocarbon years BP,1520.0,547.0,pollen,6/30/2007,340.0,0.882352941176
-358,Cheyenne Bottoms,38.466667,-98.666667,38.466667,38.466667,-98.666667,-98.666667,Vascular plants,Typha latifolia-type,2.0,NISP,pollen,,28135.0,,,Radiocarbon years BP,1560.0,547.0,pollen,6/30/2007,339.0,0.589970501475
-358,Cheyenne Bottoms,38.466667,-98.666667,38.466667,38.466667,-98.666667,-98.666667,Vascular plants,Typha latifolia-type,9.0,NISP,pollen,,28314.0,,,Radiocarbon years BP,1600.0,547.0,pollen,6/30/2007,474.0,1.89873417722
-358,Cheyenne Bottoms,38.466667,-98.666667,38.466667,38.466667,-98.666667,-98.666667,Vascular plants,Typha latifolia-type,2.0,NISP,pollen,,28586.0,,,Radiocarbon years BP,1661.0,547.0,pollen,6/30/2007,335.0,0.597014925373
-358,Cheyenne Bottoms,38.466667,-98.666667,38.466667,38.466667,-98.666667,-98.666667,Vascular plants,Typha latifolia-type,3.0,NISP,pollen,,28675.0,,,Radiocarbon years BP,1681.0,547.0,pollen,6/30/2007,400.0,0.75
-358,Cheyenne Bottoms,38.466667,-98.666667,38.466667,38.466667,-98.666667,-98.666667,Vascular plants,Typha latifolia-type,1.0,NISP,pollen,,28943.0,,,Radiocarbon years BP,1741.0,547.0,pollen,6/30/2007,407.0,0.2457002457
-773,Elgennya Lake,62.083333,149.0,62.083333,62.083333,149.0,149.0,Vascular plants,Typha latifolia-type,2.0,NISP,pollen,,3657.0,,,Radiocarbon years BP,178.0,1040.0,pollen,6/30/2007,398.0,0.502512562814
-784,Entarnoye Peat Exposure,59.0,78.333333,59.0,59.0,78.333333,78.333333,Vascular plants,Typha latifolia-type,1.0,NISP,pollen,,2354.0,,,Radiocarbon years BP,140.0,65.0,pollen,6/30/2007,666.0,0.15015015015
-784,Entarnoye Peat Exposure,59.0,78.333333,59.0,59.0,78.333333,78.333333,Vascular plants,Typha latifolia-type,5.0,NISP,pollen,,4973.0,,,Radiocarbon years BP,240.0,65.0,pollen,6/30/2007,859.0,0.58207217695
-784,Entarnoye Peat Exposure,59.0,78.333333,59.0,59.0,78.333333,78.333333,Vascular plants,Typha latifolia-type,2.0,NISP,pollen,,7962.0,,,Radiocarbon years BP,340.0,65.0,pollen,6/30/2007,770.0,0.25974025974
-784,Entarnoye Peat Exposure,59.0,78.333333,59.0,59.0,78.333333,78.333333,Vascular plants,Typha latifolia-type,6.0,NISP,pollen,,8451.0,,,Radiocarbon years BP,360.0,65.0,pollen,6/30/2007,784.0,0.765306122449
-784,Entarnoye Peat Exposure,59.0,78.333333,59.0,59.0,78.333333,78.333333,Vascular plants,Typha latifolia-type,3.0,NISP,pollen,,8941.0,,,Radiocarbon years BP,380.0,65.0,pollen,6/30/2007,726.0,0.413223140496
-784,Entarnoye Peat Exposure,59.0,78.333333,59.0,59.0,78.333333,78.333333,Vascular plants,Typha latifolia-type,3.0,NISP,pollen,,9430.0,,,Radiocarbon years BP,400.0,65.0,pollen,6/30/2007,661.0,0.453857791225
-784,Entarnoye Peat Exposure,59.0,78.333333,59.0,59.0,78.333333,78.333333,Vascular plants,Typha latifolia-type,2.0,NISP,pollen,,9920.0,,,Radiocarbon years BP,420.0,65.0,pollen,6/30/2007,643.0,0.311041990669
-784,Entarnoye Peat Exposure,59.0,78.333333,59.0,59.0,78.333333,78.333333,Vascular plants,Typha latifolia-type,4.0,NISP,pollen,,10410.0,,,Radiocarbon years BP,440.0,65.0,pollen,6/30/2007,669.0,0.597907324365
-784,Entarnoye Peat Exposure,59.0,78.333333,59.0,59.0,78.333333,78.333333,Vascular plants,Typha latifolia-type,5.0,NISP,pollen,,11389.0,,,Radiocarbon years BP,480.0,65.0,pollen,6/30/2007,735.0,0.680272108844
-784,Entarnoye Peat Exposure,59.0,78.333333,59.0,59.0,78.333333,78.333333,Vascular plants,Typha latifolia-type,12.0,NISP,pollen,,11878.0,,,Radiocarbon years BP,500.0,65.0,pollen,6/30/2007,867.0,1.38408304498
-784,Entarnoye Peat Exposure,59.0,78.333333,59.0,59.0,78.333333,78.333333,Vascular plants,Typha latifolia-type,4.0,NISP,pollen,,12858.0,,,Radiocarbon years BP,540.0,65.0,pollen,6/30/2007,739.0,0.541271989175
-1070,Hickory Ridge Basin,38.947222,-89.113333,38.947222,38.947222,-89.113333,-89.113333,Vascular plants,Typha latifolia-type,2.0,NISP,pollen,,,,,,42.0,167.0,pollen,6/30/2007,627.0,0.318979266348
-1070,Hickory Ridge Basin,38.947222,-89.113333,38.947222,38.947222,-89.113333,-89.113333,Vascular plants,Typha latifolia-type,2.0,NISP,pollen,,,,,,52.0,167.0,pollen,6/30/2007,492.0,0.406504065041
-1070,Hickory Ridge Basin,38.947222,-89.113333,38.947222,38.947222,-89.113333,-89.113333,Vascular plants,Typha latifolia-type,9.0,NISP,pollen,,,,,,75.0,167.0,pollen,6/30/2007,454.0,1.98237885463
-1070,Hickory Ridge Basin,38.947222,-89.113333,38.947222,38.947222,-89.113333,-89.113333,Vascular plants,Typha latifolia-type,3.0,NISP,pollen,,,,,,85.0,167.0,pollen,6/30/2007,657.0,0.456621004566
-1070,Hickory Ridge Basin,38.947222,-89.113333,38.947222,38.947222,-89.113333,-89.113333,Vascular plants,Typha latifolia-type,4.0,NISP,pollen,,,,,,95.0,167.0,pollen,6/30/2007,531.0,0.75329566855
-1070,Hickory Ridge Basin,38.947222,-89.113333,38.947222,38.947222,-89.113333,-89.113333,Vascular plants,Typha latifolia-type,7.0,NISP,pollen,,,,,,105.0,167.0,pollen,6/30/2007,589.0,1.18845500849
-1070,Hickory Ridge Basin,38.947222,-89.113333,38.947222,38.947222,-89.113333,-89.113333,Vascular plants,Typha latifolia-type,2.0,NISP,pollen,,,,,,110.0,167.0,pollen,6/30/2007,555.0,0.36036036036
-1070,Hickory Ridge Basin,38.947222,-89.113333,38.947222,38.947222,-89.113333,-89.113333,Vascular plants,Typha latifolia-type,4.0,NISP,pollen,,,,,,115.0,167.0,pollen,6/30/2007,572.0,0.699300699301
-1070,Hickory Ridge Basin,38.947222,-89.113333,38.947222,38.947222,-89.113333,-89.113333,Vascular plants,Typha latifolia-type,11.0,NISP,pollen,,,,,,120.0,167.0,pollen,6/30/2007,550.0,2.0
-1070,Hickory Ridge Basin,38.947222,-89.113333,38.947222,38.947222,-89.113333,-89.113333,Vascular plants,Typha latifolia-type,16.0,NISP,pollen,,,,,,130.0,167.0,pollen,6/30/2007,584.0,2.7397260274
-1070,Hickory Ridge Basin,38.947222,-89.113333,38.947222,38.947222,-89.113333,-89.113333,Vascular plants,Typha latifolia-type,7.0,NISP,pollen,,,,,,135.0,167.0,pollen,6/30/2007,594.0,1.17845117845
-1070,Hickory Ridge Basin,38.947222,-89.113333,38.947222,38.947222,-89.113333,-89.113333,Vascular plants,Typha latifolia-type,15.0,NISP,pollen,,,,,,145.0,167.0,pollen,6/30/2007,637.0,2.35478806907
-1070,Hickory Ridge Basin,38.947222,-89.113333,38.947222,38.947222,-89.113333,-89.113333,Vascular plants,Typha latifolia-type,9.0,NISP,pollen,,,,,,155.0,167.0,pollen,6/30/2007,893.0,1.0078387458
-1070,Hickory Ridge Basin,38.947222,-89.113333,38.947222,38.947222,-89.113333,-89.113333,Vascular plants,Typha latifolia-type,13.0,NISP,pollen,,,,,,165.0,167.0,pollen,6/30/2007,832.0,1.5625
-1070,Hickory Ridge Basin,38.947222,-89.113333,38.947222,38.947222,-89.113333,-89.113333,Vascular plants,Typha latifolia-type,16.0,NISP,pollen,,,,,,175.0,167.0,pollen,6/30/2007,857.0,1.86697782964
-1070,Hickory Ridge Basin,38.947222,-89.113333,38.947222,38.947222,-89.113333,-89.113333,Vascular plants,Typha latifolia-type,7.0,NISP,pollen,,,,,,185.0,167.0,pollen,6/30/2007,789.0,0.887198986058
-1070,Hickory Ridge Basin,38.947222,-89.113333,38.947222,38.947222,-89.113333,-89.113333,Vascular plants,Typha latifolia-type,11.0,NISP,pollen,,,,,,195.0,167.0,pollen,6/30/2007,875.0,1.25714285714
-1070,Hickory Ridge Basin,38.947222,-89.113333,38.947222,38.947222,-89.113333,-89.113333,Vascular plants,Typha latifolia-type,1.0,NISP,pollen,,,,,,205.0,167.0,pollen,6/30/2007,599.0,0.16694490818
-1070,Hickory Ridge Basin,38.947222,-89.113333,38.947222,38.947222,-89.113333,-89.113333,Vascular plants,Typha latifolia-type,6.0,NISP,pollen,,,,,,215.0,167.0,pollen,6/30/2007,590.0,1.01694915254
-1070,Hickory Ridge Basin,38.947222,-89.113333,38.947222,38.947222,-89.113333,-89.113333,Vascular plants,Typha latifolia-type,2.0,NISP,pollen,,,,,,225.0,167.0,pollen,6/30/2007,742.0,0.269541778976
-1070,Hickory Ridge Basin,38.947222,-89.113333,38.947222,38.947222,-89.113333,-89.113333,Vascular plants,Typha latifolia-type,10.0,NISP,pollen,,,,,,235.0,167.0,pollen,6/30/2007,744.0,1.34408602151
-1070,Hickory Ridge Basin,38.947222,-89.113333,38.947222,38.947222,-89.113333,-89.113333,Vascular plants,Typha latifolia-type,6.0,NISP,pollen,,,,,,245.0,167.0,pollen,6/30/2007,671.0,0.894187779434
-1070,Hickory Ridge Basin,38.947222,-89.113333,38.947222,38.947222,-89.113333,-89.113333,Vascular plants,Typha latifolia-type,1.0,NISP,pollen,,,,,,255.0,167.0,pollen,6/30/2007,791.0,0.126422250316
-1397,Kalistratikha Exposure,53.333333,83.25,53.333333,53.333333,83.25,83.25,Vascular plants,Typha latifolia-type,1.0,NISP,pollen,,23439.0,,,Radiocarbon years BP,720.0,190.0,pollen,6/30/2007,31.0,3.22580645161
-1407,Kayakskoye Zaimitschye,55.0,81.0,55.0,55.0,81.0,81.0,Vascular plants,Typha latifolia-type,15.0,NISP,pollen,,724.0,,,Radiocarbon years BP,20.0,150.0,pollen,6/30/2007,936.0,1.60256410256
-1407,Kayakskoye Zaimitschye,55.0,81.0,55.0,55.0,81.0,81.0,Vascular plants,Typha latifolia-type,10.0,NISP,pollen,,948.0,,,Radiocarbon years BP,40.0,150.0,pollen,6/30/2007,935.0,1.06951871658
-1407,Kayakskoye Zaimitschye,55.0,81.0,55.0,55.0,81.0,81.0,Vascular plants,Typha latifolia-type,6.0,NISP,pollen,,1285.0,,,Radiocarbon years BP,70.0,150.0,pollen,6/30/2007,939.0,0.638977635783
-1407,Kayakskoye Zaimitschye,55.0,81.0,55.0,55.0,81.0,81.0,Vascular plants,Typha latifolia-type,25.0,NISP,pollen,,1397.0,,,Radiocarbon years BP,80.0,150.0,pollen,6/30/2007,839.0,2.97973778308
-1407,Kayakskoye Zaimitschye,55.0,81.0,55.0,55.0,81.0,81.0,Vascular plants,Typha latifolia-type,20.0,NISP,pollen,,1621.0,,,Radiocarbon years BP,100.0,150.0,pollen,6/30/2007,889.0,2.24971878515
-1407,Kayakskoye Zaimitschye,55.0,81.0,55.0,55.0,81.0,81.0,Vascular plants,Typha latifolia-type,24.0,NISP,pollen,,1733.0,,,Radiocarbon years BP,110.0,150.0,pollen,6/30/2007,907.0,2.64608599779
-1407,Kayakskoye Zaimitschye,55.0,81.0,55.0,55.0,81.0,81.0,Vascular plants,Typha latifolia-type,15.0,NISP,pollen,,1845.0,,,Radiocarbon years BP,120.0,150.0,pollen,6/30/2007,1011.0,1.48367952522
-1407,Kayakskoye Zaimitschye,55.0,81.0,55.0,55.0,81.0,81.0,Vascular plants,Typha latifolia-type,5.0,NISP,pollen,,1958.0,,,Radiocarbon years BP,130.0,150.0,pollen,6/30/2007,606.0,0.825082508251
-1407,Kayakskoye Zaimitschye,55.0,81.0,55.0,55.0,81.0,81.0,Vascular plants,Typha latifolia-type,20.0,NISP,pollen,,2070.0,,,Radiocarbon years BP,140.0,150.0,pollen,6/30/2007,888.0,2.25225225225
-1407,Kayakskoye Zaimitschye,55.0,81.0,55.0,55.0,81.0,81.0,Vascular plants,Typha latifolia-type,15.0,NISP,pollen,,2294.0,,,Radiocarbon years BP,160.0,150.0,pollen,6/30/2007,540.0,2.77777777778
-1407,Kayakskoye Zaimitschye,55.0,81.0,55.0,55.0,81.0,81.0,Vascular plants,Typha latifolia-type,20.0,NISP,pollen,,2438.0,,,Radiocarbon years BP,170.0,150.0,pollen,6/30/2007,627.0,3.18979266348
-1407,Kayakskoye Zaimitschye,55.0,81.0,55.0,55.0,81.0,81.0,Vascular plants,Typha latifolia-type,13.0,NISP,pollen,,2614.0,,,Radiocarbon years BP,180.0,150.0,pollen,6/30/2007,560.0,2.32142857143
-1407,Kayakskoye Zaimitschye,55.0,81.0,55.0,55.0,81.0,81.0,Vascular plants,Typha latifolia-type,7.0,NISP,pollen,,2790.0,,,Radiocarbon years BP,190.0,150.0,pollen,6/30/2007,672.0,1.04166666667
-1407,Kayakskoye Zaimitschye,55.0,81.0,55.0,55.0,81.0,81.0,Vascular plants,Typha latifolia-type,40.0,NISP,pollen,,2966.0,,,Radiocarbon years BP,200.0,150.0,pollen,6/30/2007,912.0,4.38596491228
-1407,Kayakskoye Zaimitschye,55.0,81.0,55.0,55.0,81.0,81.0,Vascular plants,Typha latifolia-type,7.0,NISP,pollen,,3318.0,,,Radiocarbon years BP,220.0,150.0,pollen,6/30/2007,237.0,2.95358649789
-1407,Kayakskoye Zaimitschye,55.0,81.0,55.0,55.0,81.0,81.0,Vascular plants,Typha latifolia-type,8.0,NISP,pollen,,3494.0,,,Radiocarbon years BP,230.0,150.0,pollen,6/30/2007,449.0,1.78173719376
-1407,Kayakskoye Zaimitschye,55.0,81.0,55.0,55.0,81.0,81.0,Vascular plants,Typha latifolia-type,7.0,NISP,pollen,,3670.0,,,Radiocarbon years BP,240.0,150.0,pollen,6/30/2007,393.0,1.78117048346
-1407,Kayakskoye Zaimitschye,55.0,81.0,55.0,55.0,81.0,81.0,Vascular plants,Typha latifolia-type,5.0,NISP,pollen,,4307.0,,,Radiocarbon years BP,270.0,150.0,pollen,6/30/2007,170.0,2.94117647059
-1407,Kayakskoye Zaimitschye,55.0,81.0,55.0,55.0,81.0,81.0,Vascular plants,Typha latifolia-type,10.0,NISP,pollen,,4701.0,,,Radiocarbon years BP,280.0,150.0,pollen,6/30/2007,204.0,4.90196078431
-1407,Kayakskoye Zaimitschye,55.0,81.0,55.0,55.0,81.0,81.0,Vascular plants,Typha latifolia-type,15.0,NISP,pollen,,5096.0,,,Radiocarbon years BP,290.0,150.0,pollen,6/30/2007,381.0,3.93700787402
-1407,Kayakskoye Zaimitschye,55.0,81.0,55.0,55.0,81.0,81.0,Vascular plants,Typha latifolia-type,12.0,NISP,pollen,,5490.0,,,Radiocarbon years BP,300.0,150.0,pollen,6/30/2007,483.0,2.48447204969
-1407,Kayakskoye Zaimitschye,55.0,81.0,55.0,55.0,81.0,81.0,Vascular plants,Typha latifolia-type,5.0,NISP,pollen,,6610.0,,,Radiocarbon years BP,310.0,150.0,pollen,6/30/2007,395.0,1.26582278481
+351,Chany Lake,54.75,77.25,54.75,54.75,77.25,77.25,Vascular plants,Typha latifolia,3,NISP,pollen,,,,,,50,120,pollen,6/30/2007,496,0.60483871
+351,Chany Lake,54.75,77.25,54.75,54.75,77.25,77.25,Vascular plants,Typha latifolia,3,NISP,pollen,,,,,,160,120,pollen,6/30/2007,508,0.590551181
+351,Chany Lake,54.75,77.25,54.75,54.75,77.25,77.25,Vascular plants,Typha latifolia,5,NISP,pollen,,,,,,170,120,pollen,6/30/2007,526,0.950570342
+358,Cheyenne Bottoms,38.466667,-98.666667,38.466667,38.466667,-98.666667,-98.666667,Vascular plants,Typha latifolia,1,NISP,pollen,,9316,,,Radiocarbon years BP,518,547,pollen,6/30/2007,325,0.307692308
+358,Cheyenne Bottoms,38.466667,-98.666667,38.466667,38.466667,-98.666667,-98.666667,Vascular plants,Typha latifolia,2,NISP,pollen,,9690,,,Radiocarbon years BP,534,547,pollen,6/30/2007,347,0.576368876
+358,Cheyenne Bottoms,38.466667,-98.666667,38.466667,38.466667,-98.666667,-98.666667,Vascular plants,Typha latifolia,2,NISP,pollen,,10064,,,Radiocarbon years BP,550,547,pollen,6/30/2007,400,0.5
+358,Cheyenne Bottoms,38.466667,-98.666667,38.466667,38.466667,-98.666667,-98.666667,Vascular plants,Typha latifolia,2,NISP,pollen,,10251,,,Radiocarbon years BP,558,547,pollen,6/30/2007,192,1.041666667
+358,Cheyenne Bottoms,38.466667,-98.666667,38.466667,38.466667,-98.666667,-98.666667,Vascular plants,Typha latifolia,1,NISP,pollen,,24505,,,Radiocarbon years BP,746,547,pollen,6/30/2007,364,0.274725275
+358,Cheyenne Bottoms,38.466667,-98.666667,38.466667,38.466667,-98.666667,-98.666667,Vascular plants,Typha latifolia,2,NISP,pollen,,24572,,,Radiocarbon years BP,761,547,pollen,6/30/2007,382,0.523560209
+358,Cheyenne Bottoms,38.466667,-98.666667,38.466667,38.466667,-98.666667,-98.666667,Vascular plants,Typha latifolia,2,NISP,pollen,,24625,,,Radiocarbon years BP,773,547,pollen,6/30/2007,406,0.492610837
+358,Cheyenne Bottoms,38.466667,-98.666667,38.466667,38.466667,-98.666667,-98.666667,Vascular plants,Typha latifolia,3,NISP,pollen,,25178,,,Radiocarbon years BP,897,547,pollen,6/30/2007,391,0.767263427
+358,Cheyenne Bottoms,38.466667,-98.666667,38.466667,38.466667,-98.666667,-98.666667,Vascular plants,Typha latifolia,1,NISP,pollen,,25276,,,Radiocarbon years BP,919,547,pollen,6/30/2007,430,0.23255814
+358,Cheyenne Bottoms,38.466667,-98.666667,38.466667,38.466667,-98.666667,-98.666667,Vascular plants,Typha latifolia,3,NISP,pollen,,25468,,,Radiocarbon years BP,962,547,pollen,6/30/2007,473,0.634249471
+358,Cheyenne Bottoms,38.466667,-98.666667,38.466667,38.466667,-98.666667,-98.666667,Vascular plants,Typha latifolia,1,NISP,pollen,,25647,,,Radiocarbon years BP,1002,547,pollen,6/30/2007,404,0.247524752
+358,Cheyenne Bottoms,38.466667,-98.666667,38.466667,38.466667,-98.666667,-98.666667,Vascular plants,Typha latifolia,1,NISP,pollen,,26226,,,Radiocarbon years BP,1132,547,pollen,6/30/2007,348,0.287356322
+358,Cheyenne Bottoms,38.466667,-98.666667,38.466667,38.466667,-98.666667,-98.666667,Vascular plants,Typha latifolia,3,NISP,pollen,,26324,,,Radiocarbon years BP,1154,547,pollen,6/30/2007,460,0.652173913
+358,Cheyenne Bottoms,38.466667,-98.666667,38.466667,38.466667,-98.666667,-98.666667,Vascular plants,Typha latifolia,1,NISP,pollen,,26414,,,Radiocarbon years BP,1174,547,pollen,6/30/2007,404,0.247524752
+358,Cheyenne Bottoms,38.466667,-98.666667,38.466667,38.466667,-98.666667,-98.666667,Vascular plants,Typha latifolia,1,NISP,pollen,,26503,,,Radiocarbon years BP,1194,547,pollen,6/30/2007,376,0.265957447
+358,Cheyenne Bottoms,38.466667,-98.666667,38.466667,38.466667,-98.666667,-98.666667,Vascular plants,Typha latifolia,2,NISP,pollen,,26601,,,Radiocarbon years BP,1216,547,pollen,6/30/2007,343,0.583090379
+358,Cheyenne Bottoms,38.466667,-98.666667,38.466667,38.466667,-98.666667,-98.666667,Vascular plants,Typha latifolia,1,NISP,pollen,,27083,,,Radiocarbon years BP,1324,547,pollen,6/30/2007,373,0.268096515
+358,Cheyenne Bottoms,38.466667,-98.666667,38.466667,38.466667,-98.666667,-98.666667,Vascular plants,Typha latifolia,1,NISP,pollen,,27217,,,Radiocarbon years BP,1354,547,pollen,6/30/2007,352,0.284090909
+358,Cheyenne Bottoms,38.466667,-98.666667,38.466667,38.466667,-98.666667,-98.666667,Vascular plants,Typha latifolia,2,NISP,pollen,,27261,,,Radiocarbon years BP,1364,547,pollen,6/30/2007,444,0.45045045
+358,Cheyenne Bottoms,38.466667,-98.666667,38.466667,38.466667,-98.666667,-98.666667,Vascular plants,Typha latifolia,3,NISP,pollen,,27315,,,Radiocarbon years BP,1376,547,pollen,6/30/2007,339,0.884955752
+358,Cheyenne Bottoms,38.466667,-98.666667,38.466667,38.466667,-98.666667,-98.666667,Vascular plants,Typha latifolia,2,NISP,pollen,,27350,,,Radiocarbon years BP,1384,547,pollen,6/30/2007,392,0.510204082
+358,Cheyenne Bottoms,38.466667,-98.666667,38.466667,38.466667,-98.666667,-98.666667,Vascular plants,Typha latifolia,1,NISP,pollen,,27440,,,Radiocarbon years BP,1404,547,pollen,6/30/2007,306,0.326797386
+358,Cheyenne Bottoms,38.466667,-98.666667,38.466667,38.466667,-98.666667,-98.666667,Vascular plants,Typha latifolia,2,NISP,pollen,,27600,,,Radiocarbon years BP,1440,547,pollen,6/30/2007,396,0.505050505
+358,Cheyenne Bottoms,38.466667,-98.666667,38.466667,38.466667,-98.666667,-98.666667,Vascular plants,Typha latifolia,1,NISP,pollen,,27689,,,Radiocarbon years BP,1460,547,pollen,6/30/2007,365,0.273972603
+358,Cheyenne Bottoms,38.466667,-98.666667,38.466667,38.466667,-98.666667,-98.666667,Vascular plants,Typha latifolia,6,NISP,pollen,,27778,,,Radiocarbon years BP,1480,547,pollen,6/30/2007,408,1.470588235
+358,Cheyenne Bottoms,38.466667,-98.666667,38.466667,38.466667,-98.666667,-98.666667,Vascular plants,Typha latifolia,1,NISP,pollen,,27868,,,Radiocarbon years BP,1500,547,pollen,6/30/2007,376,0.265957447
+358,Cheyenne Bottoms,38.466667,-98.666667,38.466667,38.466667,-98.666667,-98.666667,Vascular plants,Typha latifolia,3,NISP,pollen,,27957,,,Radiocarbon years BP,1520,547,pollen,6/30/2007,340,0.882352941
+358,Cheyenne Bottoms,38.466667,-98.666667,38.466667,38.466667,-98.666667,-98.666667,Vascular plants,Typha latifolia,2,NISP,pollen,,28135,,,Radiocarbon years BP,1560,547,pollen,6/30/2007,339,0.589970501
+358,Cheyenne Bottoms,38.466667,-98.666667,38.466667,38.466667,-98.666667,-98.666667,Vascular plants,Typha latifolia,9,NISP,pollen,,28314,,,Radiocarbon years BP,1600,547,pollen,6/30/2007,474,1.898734177
+358,Cheyenne Bottoms,38.466667,-98.666667,38.466667,38.466667,-98.666667,-98.666667,Vascular plants,Typha latifolia,2,NISP,pollen,,28586,,,Radiocarbon years BP,1661,547,pollen,6/30/2007,335,0.597014925
+358,Cheyenne Bottoms,38.466667,-98.666667,38.466667,38.466667,-98.666667,-98.666667,Vascular plants,Typha latifolia,3,NISP,pollen,,28675,,,Radiocarbon years BP,1681,547,pollen,6/30/2007,400,0.75
+358,Cheyenne Bottoms,38.466667,-98.666667,38.466667,38.466667,-98.666667,-98.666667,Vascular plants,Typha latifolia,1,NISP,pollen,,28943,,,Radiocarbon years BP,1741,547,pollen,6/30/2007,407,0.245700246
+773,Elgennya Lake,62.083333,149,62.083333,62.083333,149,149,Vascular plants,Typha latifolia,2,NISP,pollen,,3657,,,Radiocarbon years BP,178,1040,pollen,6/30/2007,398,0.502512563
+784,Entarnoye Peat Exposure,59,78.333333,59,59,78.333333,78.333333,Vascular plants,Typha latifolia,1,NISP,pollen,,2354,,,Radiocarbon years BP,140,65,pollen,6/30/2007,666,0.15015015
+784,Entarnoye Peat Exposure,59,78.333333,59,59,78.333333,78.333333,Vascular plants,Typha latifolia,5,NISP,pollen,,4973,,,Radiocarbon years BP,240,65,pollen,6/30/2007,859,0.582072177
+784,Entarnoye Peat Exposure,59,78.333333,59,59,78.333333,78.333333,Vascular plants,Typha latifolia,2,NISP,pollen,,7962,,,Radiocarbon years BP,340,65,pollen,6/30/2007,770,0.25974026
+784,Entarnoye Peat Exposure,59,78.333333,59,59,78.333333,78.333333,Vascular plants,Typha latifolia,6,NISP,pollen,,8451,,,Radiocarbon years BP,360,65,pollen,6/30/2007,784,0.765306122
+784,Entarnoye Peat Exposure,59,78.333333,59,59,78.333333,78.333333,Vascular plants,Typha latifolia,3,NISP,pollen,,8941,,,Radiocarbon years BP,380,65,pollen,6/30/2007,726,0.41322314
+784,Entarnoye Peat Exposure,59,78.333333,59,59,78.333333,78.333333,Vascular plants,Typha latifolia,3,NISP,pollen,,9430,,,Radiocarbon years BP,400,65,pollen,6/30/2007,661,0.453857791
+784,Entarnoye Peat Exposure,59,78.333333,59,59,78.333333,78.333333,Vascular plants,Typha latifolia,2,NISP,pollen,,9920,,,Radiocarbon years BP,420,65,pollen,6/30/2007,643,0.311041991
+784,Entarnoye Peat Exposure,59,78.333333,59,59,78.333333,78.333333,Vascular plants,Typha latifolia,4,NISP,pollen,,10410,,,Radiocarbon years BP,440,65,pollen,6/30/2007,669,0.597907324
+784,Entarnoye Peat Exposure,59,78.333333,59,59,78.333333,78.333333,Vascular plants,Typha latifolia,5,NISP,pollen,,11389,,,Radiocarbon years BP,480,65,pollen,6/30/2007,735,0.680272109
+784,Entarnoye Peat Exposure,59,78.333333,59,59,78.333333,78.333333,Vascular plants,Typha latifolia,12,NISP,pollen,,11878,,,Radiocarbon years BP,500,65,pollen,6/30/2007,867,1.384083045
+784,Entarnoye Peat Exposure,59,78.333333,59,59,78.333333,78.333333,Vascular plants,Typha latifolia,4,NISP,pollen,,12858,,,Radiocarbon years BP,540,65,pollen,6/30/2007,739,0.541271989
+1070,Hickory Ridge Basin,38.947222,-89.113333,38.947222,38.947222,-89.113333,-89.113333,Vascular plants,Typha latifolia,2,NISP,pollen,,,,,,42,167,pollen,6/30/2007,627,0.318979266
+1070,Hickory Ridge Basin,38.947222,-89.113333,38.947222,38.947222,-89.113333,-89.113333,Vascular plants,Typha latifolia,2,NISP,pollen,,,,,,52,167,pollen,6/30/2007,492,0.406504065
+1070,Hickory Ridge Basin,38.947222,-89.113333,38.947222,38.947222,-89.113333,-89.113333,Vascular plants,Typha latifolia,9,NISP,pollen,,,,,,75,167,pollen,6/30/2007,454,1.982378855
+1070,Hickory Ridge Basin,38.947222,-89.113333,38.947222,38.947222,-89.113333,-89.113333,Vascular plants,Typha latifolia,3,NISP,pollen,,,,,,85,167,pollen,6/30/2007,657,0.456621005
+1070,Hickory Ridge Basin,38.947222,-89.113333,38.947222,38.947222,-89.113333,-89.113333,Vascular plants,Typha latifolia,4,NISP,pollen,,,,,,95,167,pollen,6/30/2007,531,0.753295669
+1070,Hickory Ridge Basin,38.947222,-89.113333,38.947222,38.947222,-89.113333,-89.113333,Vascular plants,Typha latifolia,7,NISP,pollen,,,,,,105,167,pollen,6/30/2007,589,1.188455008
+1070,Hickory Ridge Basin,38.947222,-89.113333,38.947222,38.947222,-89.113333,-89.113333,Vascular plants,Typha latifolia,2,NISP,pollen,,,,,,110,167,pollen,6/30/2007,555,0.36036036
+1070,Hickory Ridge Basin,38.947222,-89.113333,38.947222,38.947222,-89.113333,-89.113333,Vascular plants,Typha latifolia,4,NISP,pollen,,,,,,115,167,pollen,6/30/2007,572,0.699300699
+1070,Hickory Ridge Basin,38.947222,-89.113333,38.947222,38.947222,-89.113333,-89.113333,Vascular plants,Typha latifolia,11,NISP,pollen,,,,,,120,167,pollen,6/30/2007,550,2
+1070,Hickory Ridge Basin,38.947222,-89.113333,38.947222,38.947222,-89.113333,-89.113333,Vascular plants,Typha latifolia,16,NISP,pollen,,,,,,130,167,pollen,6/30/2007,584,2.739726027
+1070,Hickory Ridge Basin,38.947222,-89.113333,38.947222,38.947222,-89.113333,-89.113333,Vascular plants,Typha latifolia,7,NISP,pollen,,,,,,135,167,pollen,6/30/2007,594,1.178451178
+1070,Hickory Ridge Basin,38.947222,-89.113333,38.947222,38.947222,-89.113333,-89.113333,Vascular plants,Typha latifolia,15,NISP,pollen,,,,,,145,167,pollen,6/30/2007,637,2.354788069
+1070,Hickory Ridge Basin,38.947222,-89.113333,38.947222,38.947222,-89.113333,-89.113333,Vascular plants,Typha latifolia,9,NISP,pollen,,,,,,155,167,pollen,6/30/2007,893,1.007838746
+1070,Hickory Ridge Basin,38.947222,-89.113333,38.947222,38.947222,-89.113333,-89.113333,Vascular plants,Typha latifolia,13,NISP,pollen,,,,,,165,167,pollen,6/30/2007,832,1.5625
+1070,Hickory Ridge Basin,38.947222,-89.113333,38.947222,38.947222,-89.113333,-89.113333,Vascular plants,Typha latifolia,16,NISP,pollen,,,,,,175,167,pollen,6/30/2007,857,1.86697783
+1070,Hickory Ridge Basin,38.947222,-89.113333,38.947222,38.947222,-89.113333,-89.113333,Vascular plants,Typha latifolia,7,NISP,pollen,,,,,,185,167,pollen,6/30/2007,789,0.887198986
+1070,Hickory Ridge Basin,38.947222,-89.113333,38.947222,38.947222,-89.113333,-89.113333,Vascular plants,Typha latifolia,11,NISP,pollen,,,,,,195,167,pollen,6/30/2007,875,1.257142857
+1070,Hickory Ridge Basin,38.947222,-89.113333,38.947222,38.947222,-89.113333,-89.113333,Vascular plants,Typha latifolia,1,NISP,pollen,,,,,,205,167,pollen,6/30/2007,599,0.166944908
+1070,Hickory Ridge Basin,38.947222,-89.113333,38.947222,38.947222,-89.113333,-89.113333,Vascular plants,Typha latifolia,6,NISP,pollen,,,,,,215,167,pollen,6/30/2007,590,1.016949153
+1070,Hickory Ridge Basin,38.947222,-89.113333,38.947222,38.947222,-89.113333,-89.113333,Vascular plants,Typha latifolia,2,NISP,pollen,,,,,,225,167,pollen,6/30/2007,742,0.269541779
+1070,Hickory Ridge Basin,38.947222,-89.113333,38.947222,38.947222,-89.113333,-89.113333,Vascular plants,Typha latifolia,10,NISP,pollen,,,,,,235,167,pollen,6/30/2007,744,1.344086022
+1070,Hickory Ridge Basin,38.947222,-89.113333,38.947222,38.947222,-89.113333,-89.113333,Vascular plants,Typha latifolia,6,NISP,pollen,,,,,,245,167,pollen,6/30/2007,671,0.894187779
+1070,Hickory Ridge Basin,38.947222,-89.113333,38.947222,38.947222,-89.113333,-89.113333,Vascular plants,Typha latifolia,1,NISP,pollen,,,,,,255,167,pollen,6/30/2007,791,0.12642225
+1397,Kalistratikha Exposure,53.333333,83.25,53.333333,53.333333,83.25,83.25,Vascular plants,Typha latifolia,1,NISP,pollen,,23439,,,Radiocarbon years BP,720,190,pollen,6/30/2007,31,3.225806452
+1407,Kayakskoye Zaimitschye,55,81,55,55,81,81,Vascular plants,Typha latifolia,15,NISP,pollen,,724,,,Radiocarbon years BP,20,150,pollen,6/30/2007,936,1.602564103
+1407,Kayakskoye Zaimitschye,55,81,55,55,81,81,Vascular plants,Typha latifolia,10,NISP,pollen,,948,,,Radiocarbon years BP,40,150,pollen,6/30/2007,935,1.069518717
+1407,Kayakskoye Zaimitschye,55,81,55,55,81,81,Vascular plants,Typha latifolia,6,NISP,pollen,,1285,,,Radiocarbon years BP,70,150,pollen,6/30/2007,939,0.638977636
+1407,Kayakskoye Zaimitschye,55,81,55,55,81,81,Vascular plants,Typha latifolia,25,NISP,pollen,,1397,,,Radiocarbon years BP,80,150,pollen,6/30/2007,839,2.979737783
+1407,Kayakskoye Zaimitschye,55,81,55,55,81,81,Vascular plants,Typha latifolia,20,NISP,pollen,,1621,,,Radiocarbon years BP,100,150,pollen,6/30/2007,889,2.249718785
+1407,Kayakskoye Zaimitschye,55,81,55,55,81,81,Vascular plants,Typha latifolia,24,NISP,pollen,,1733,,,Radiocarbon years BP,110,150,pollen,6/30/2007,907,2.646085998
+1407,Kayakskoye Zaimitschye,55,81,55,55,81,81,Vascular plants,Typha latifolia,15,NISP,pollen,,1845,,,Radiocarbon years BP,120,150,pollen,6/30/2007,1011,1.483679525
+1407,Kayakskoye Zaimitschye,55,81,55,55,81,81,Vascular plants,Typha latifolia,5,NISP,pollen,,1958,,,Radiocarbon years BP,130,150,pollen,6/30/2007,606,0.825082508
+1407,Kayakskoye Zaimitschye,55,81,55,55,81,81,Vascular plants,Typha latifolia,20,NISP,pollen,,2070,,,Radiocarbon years BP,140,150,pollen,6/30/2007,888,2.252252252
+1407,Kayakskoye Zaimitschye,55,81,55,55,81,81,Vascular plants,Typha latifolia,15,NISP,pollen,,2294,,,Radiocarbon years BP,160,150,pollen,6/30/2007,540,2.777777778
+1407,Kayakskoye Zaimitschye,55,81,55,55,81,81,Vascular plants,Typha latifolia,20,NISP,pollen,,2438,,,Radiocarbon years BP,170,150,pollen,6/30/2007,627,3.189792663
+1407,Kayakskoye Zaimitschye,55,81,55,55,81,81,Vascular plants,Typha latifolia,13,NISP,pollen,,2614,,,Radiocarbon years BP,180,150,pollen,6/30/2007,560,2.321428571
+1407,Kayakskoye Zaimitschye,55,81,55,55,81,81,Vascular plants,Typha latifolia,7,NISP,pollen,,2790,,,Radiocarbon years BP,190,150,pollen,6/30/2007,672,1.041666667
+1407,Kayakskoye Zaimitschye,55,81,55,55,81,81,Vascular plants,Typha latifolia,40,NISP,pollen,,2966,,,Radiocarbon years BP,200,150,pollen,6/30/2007,912,4.385964912
+1407,Kayakskoye Zaimitschye,55,81,55,55,81,81,Vascular plants,Typha latifolia,7,NISP,pollen,,3318,,,Radiocarbon years BP,220,150,pollen,6/30/2007,237,2.953586498
+1407,Kayakskoye Zaimitschye,55,81,55,55,81,81,Vascular plants,Typha latifolia,8,NISP,pollen,,3494,,,Radiocarbon years BP,230,150,pollen,6/30/2007,449,1.781737194
+1407,Kayakskoye Zaimitschye,55,81,55,55,81,81,Vascular plants,Typha latifolia,7,NISP,pollen,,3670,,,Radiocarbon years BP,240,150,pollen,6/30/2007,393,1.781170483
+1407,Kayakskoye Zaimitschye,55,81,55,55,81,81,Vascular plants,Typha latifolia,5,NISP,pollen,,4307,,,Radiocarbon years BP,270,150,pollen,6/30/2007,170,2.941176471
+1407,Kayakskoye Zaimitschye,55,81,55,55,81,81,Vascular plants,Typha latifolia,10,NISP,pollen,,4701,,,Radiocarbon years BP,280,150,pollen,6/30/2007,204,4.901960784
+1407,Kayakskoye Zaimitschye,55,81,55,55,81,81,Vascular plants,Typha latifolia,15,NISP,pollen,,5096,,,Radiocarbon years BP,290,150,pollen,6/30/2007,381,3.937007874
+1407,Kayakskoye Zaimitschye,55,81,55,55,81,81,Vascular plants,Typha latifolia,12,NISP,pollen,,5490,,,Radiocarbon years BP,300,150,pollen,6/30/2007,483,2.48447205
+1407,Kayakskoye Zaimitschye,55,81,55,55,81,81,Vascular plants,Typha latifolia,5,NISP,pollen,,6610,,,Radiocarbon years BP,310,150,pollen,6/30/2007,395,1.265822785

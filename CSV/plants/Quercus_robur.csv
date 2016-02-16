@@ -1,159 +1,159 @@
 siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Quercus robur-type,55.0,NISP,pollen,,63.0,,,Radiocarbon years BP,5.0,350.0,pollen,6/30/2007,558.0,9.85663082437
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Quercus robur-type,90.0,NISP,pollen,,266.0,,,Radiocarbon years BP,20.0,350.0,pollen,6/30/2007,1150.0,7.82608695652
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Quercus robur-type,67.0,NISP,pollen,,405.0,,,Radiocarbon years BP,30.0,350.0,pollen,6/30/2007,656.0,10.2134146341
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Quercus robur-type,96.0,NISP,pollen,,687.0,,,Radiocarbon years BP,50.0,350.0,pollen,6/30/2007,1209.0,7.94044665012
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Quercus robur-type,49.0,NISP,pollen,,974.0,,,Radiocarbon years BP,70.0,350.0,pollen,6/30/2007,342.0,14.3274853801
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Quercus robur-type,52.0,NISP,pollen,,1118.0,,,Radiocarbon years BP,80.0,350.0,pollen,6/30/2007,688.0,7.55813953488
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Quercus robur-type,104.0,NISP,pollen,,1409.0,,,Radiocarbon years BP,100.0,350.0,pollen,6/30/2007,1003.0,10.36889332
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Quercus robur-type,146.0,NISP,pollen,,1702.0,,,Radiocarbon years BP,120.0,350.0,pollen,6/30/2007,1657.0,8.81110440555
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Quercus robur-type,184.0,NISP,pollen,,1996.0,,,Radiocarbon years BP,140.0,350.0,pollen,6/30/2007,1200.0,15.3333333333
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Quercus robur-type,140.0,NISP,pollen,,2292.0,,,Radiocarbon years BP,160.0,350.0,pollen,6/30/2007,679.0,20.618556701
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Quercus robur-type,176.0,NISP,pollen,,2441.0,,,Radiocarbon years BP,170.0,350.0,pollen,6/30/2007,774.0,22.7390180879
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Quercus robur-type,99.0,NISP,pollen,,2739.0,,,Radiocarbon years BP,190.0,350.0,pollen,6/30/2007,622.0,15.9163987138
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Quercus robur-type,116.0,NISP,pollen,,3038.0,,,Radiocarbon years BP,210.0,350.0,pollen,6/30/2007,724.0,16.0220994475
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Quercus robur-type,222.0,NISP,pollen,,3338.0,,,Radiocarbon years BP,230.0,350.0,pollen,6/30/2007,1332.0,16.6666666667
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Quercus robur-type,357.0,NISP,pollen,,3639.0,,,Radiocarbon years BP,250.0,350.0,pollen,6/30/2007,1184.0,30.152027027
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Quercus robur-type,217.0,NISP,pollen,,3941.0,,,Radiocarbon years BP,270.0,350.0,pollen,6/30/2007,791.0,27.4336283186
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Quercus robur-type,173.0,NISP,pollen,,4244.0,,,Radiocarbon years BP,290.0,350.0,pollen,6/30/2007,2154.0,8.03156917363
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Quercus robur-type,66.0,NISP,pollen,,4320.0,,,Radiocarbon years BP,295.0,350.0,pollen,6/30/2007,1315.0,5.01901140684
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Quercus robur-type,248.0,NISP,pollen,,4700.0,,,Radiocarbon years BP,320.0,350.0,pollen,6/30/2007,885.0,28.0225988701
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Quercus robur-type,410.0,NISP,pollen,,4852.0,,,Radiocarbon years BP,330.0,350.0,pollen,6/30/2007,1170.0,35.0427350427
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Quercus robur-type,93.0,NISP,pollen,,5157.0,,,Radiocarbon years BP,350.0,350.0,pollen,6/30/2007,589.0,15.7894736842
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Quercus robur-type,504.0,NISP,pollen,,5462.0,,,Radiocarbon years BP,370.0,350.0,pollen,6/30/2007,1273.0,39.5915161037
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Quercus robur-type,212.0,NISP,pollen,,5768.0,,,Radiocarbon years BP,390.0,350.0,pollen,6/30/2007,677.0,31.3146233383
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Quercus robur-type,79.0,NISP,pollen,,5998.0,,,Radiocarbon years BP,405.0,350.0,pollen,6/30/2007,377.0,20.9549071618
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Quercus robur-type,166.0,NISP,pollen,,6382.0,,,Radiocarbon years BP,430.0,350.0,pollen,6/30/2007,727.0,22.833562586
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Quercus robur-type,520.0,NISP,pollen,,6844.0,,,Radiocarbon years BP,460.0,350.0,pollen,6/30/2007,1406.0,36.9843527738
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Quercus robur-type,115.0,NISP,pollen,,7152.0,,,Radiocarbon years BP,480.0,350.0,pollen,6/30/2007,456.0,25.2192982456
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Quercus robur-type,210.0,NISP,pollen,,7538.0,,,Radiocarbon years BP,505.0,350.0,pollen,6/30/2007,2428.0,8.64909390445
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Quercus robur-type,253.0,NISP,pollen,,7925.0,,,Radiocarbon years BP,530.0,350.0,pollen,6/30/2007,540.0,46.8518518519
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Quercus robur-type,235.0,NISP,pollen,,8080.0,,,Radiocarbon years BP,540.0,350.0,pollen,6/30/2007,502.0,46.812749004
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Quercus robur-type,122.0,NISP,pollen,,8390.0,,,Radiocarbon years BP,560.0,350.0,pollen,6/30/2007,269.0,45.3531598513
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Quercus robur-type,239.0,NISP,pollen,,8701.0,,,Radiocarbon years BP,580.0,350.0,pollen,6/30/2007,554.0,43.1407942238
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Quercus robur-type,265.0,NISP,pollen,,9090.0,,,Radiocarbon years BP,605.0,350.0,pollen,6/30/2007,671.0,39.4932935917
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Quercus robur-type,152.0,NISP,pollen,,9323.0,,,Radiocarbon years BP,620.0,350.0,pollen,6/30/2007,365.0,41.6438356164
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Quercus robur-type,75.0,NISP,pollen,,9635.0,,,Radiocarbon years BP,640.0,350.0,pollen,6/30/2007,317.0,23.6593059937
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Quercus robur-type,52.0,NISP,pollen,,9947.0,,,Radiocarbon years BP,660.0,350.0,pollen,6/30/2007,283.0,18.3745583039
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Quercus robur-type,23.0,NISP,pollen,,10259.0,,,Radiocarbon years BP,680.0,350.0,pollen,6/30/2007,461.0,4.98915401302
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Quercus robur-type,4.0,NISP,pollen,,10572.0,,,Radiocarbon years BP,700.0,350.0,pollen,6/30/2007,182.0,2.1978021978
-2960,Black Sea (Southwest 1),42.184167,28.916667,42.184167,42.184167,28.916667,28.916667,Vascular plants,Quercus robur-type,71.0,NISP,pollen,,630.0,,,Radiocarbon years BP,0.0,,pollen,6/30/2007,549.0,12.9326047359
-2960,Black Sea (Southwest 1),42.184167,28.916667,42.184167,42.184167,28.916667,28.916667,Vascular plants,Quercus robur-type,73.0,NISP,pollen,,1366.0,,,Radiocarbon years BP,10.0,,pollen,6/30/2007,362.0,20.1657458564
-2960,Black Sea (Southwest 1),42.184167,28.916667,42.184167,42.184167,28.916667,28.916667,Vascular plants,Quercus robur-type,84.0,NISP,pollen,,2102.0,,,Radiocarbon years BP,20.0,,pollen,6/30/2007,476.0,17.6470588235
-2960,Black Sea (Southwest 1),42.184167,28.916667,42.184167,42.184167,28.916667,28.916667,Vascular plants,Quercus robur-type,109.0,NISP,pollen,,2838.0,,,Radiocarbon years BP,30.0,,pollen,6/30/2007,528.0,20.6439393939
-2960,Black Sea (Southwest 1),42.184167,28.916667,42.184167,42.184167,28.916667,28.916667,Vascular plants,Quercus robur-type,102.0,NISP,pollen,,3574.0,,,Radiocarbon years BP,40.0,,pollen,6/30/2007,465.0,21.935483871
-2960,Black Sea (Southwest 1),42.184167,28.916667,42.184167,42.184167,28.916667,28.916667,Vascular plants,Quercus robur-type,199.0,NISP,pollen,,4310.0,,,Radiocarbon years BP,50.0,,pollen,6/30/2007,680.0,29.2647058824
-2960,Black Sea (Southwest 1),42.184167,28.916667,42.184167,42.184167,28.916667,28.916667,Vascular plants,Quercus robur-type,124.0,NISP,pollen,,5046.0,,,Radiocarbon years BP,60.0,,pollen,6/30/2007,546.0,22.7106227106
-2960,Black Sea (Southwest 1),42.184167,28.916667,42.184167,42.184167,28.916667,28.916667,Vascular plants,Quercus robur-type,124.0,NISP,pollen,,5414.0,,,Radiocarbon years BP,65.0,,pollen,6/30/2007,548.0,22.6277372263
-2960,Black Sea (Southwest 1),42.184167,28.916667,42.184167,42.184167,28.916667,28.916667,Vascular plants,Quercus robur-type,36.0,NISP,pollen,,6518.0,,,Radiocarbon years BP,80.0,,pollen,6/30/2007,428.0,8.41121495327
-2960,Black Sea (Southwest 1),42.184167,28.916667,42.184167,42.184167,28.916667,28.916667,Vascular plants,Quercus robur-type,50.0,NISP,pollen,,7137.0,,,Radiocarbon years BP,90.0,,pollen,6/30/2007,430.0,11.6279069767
-2960,Black Sea (Southwest 1),42.184167,28.916667,42.184167,42.184167,28.916667,28.916667,Vascular plants,Quercus robur-type,22.0,NISP,pollen,,7404.0,,,Radiocarbon years BP,100.0,,pollen,6/30/2007,464.0,4.74137931034
-2960,Black Sea (Southwest 1),42.184167,28.916667,42.184167,42.184167,28.916667,28.916667,Vascular plants,Quercus robur-type,7.0,NISP,pollen,,7672.0,,,Radiocarbon years BP,110.0,,pollen,6/30/2007,245.0,2.85714285714
-2960,Black Sea (Southwest 1),42.184167,28.916667,42.184167,42.184167,28.916667,28.916667,Vascular plants,Quercus robur-type,8.0,NISP,pollen,,7939.0,,,Radiocarbon years BP,120.0,,pollen,6/30/2007,254.0,3.14960629921
-2960,Black Sea (Southwest 1),42.184167,28.916667,42.184167,42.184167,28.916667,28.916667,Vascular plants,Quercus robur-type,12.0,NISP,pollen,,8207.0,,,Radiocarbon years BP,130.0,,pollen,6/30/2007,349.0,3.43839541547
-2960,Black Sea (Southwest 1),42.184167,28.916667,42.184167,42.184167,28.916667,28.916667,Vascular plants,Quercus robur-type,10.0,NISP,pollen,,8474.0,,,Radiocarbon years BP,140.0,,pollen,6/30/2007,301.0,3.32225913621
-2960,Black Sea (Southwest 1),42.184167,28.916667,42.184167,42.184167,28.916667,28.916667,Vascular plants,Quercus robur-type,16.0,NISP,pollen,,8742.0,,,Radiocarbon years BP,150.0,,pollen,6/30/2007,340.0,4.70588235294
-2960,Black Sea (Southwest 1),42.184167,28.916667,42.184167,42.184167,28.916667,28.916667,Vascular plants,Quercus robur-type,10.0,NISP,pollen,,9009.0,,,Radiocarbon years BP,160.0,,pollen,6/30/2007,281.0,3.55871886121
-2960,Black Sea (Southwest 1),42.184167,28.916667,42.184167,42.184167,28.916667,28.916667,Vascular plants,Quercus robur-type,10.0,NISP,pollen,,9544.0,,,Radiocarbon years BP,180.0,,pollen,6/30/2007,329.0,3.03951367781
-2960,Black Sea (Southwest 1),42.184167,28.916667,42.184167,42.184167,28.916667,28.916667,Vascular plants,Quercus robur-type,2.0,NISP,pollen,,10079.0,,,Radiocarbon years BP,200.0,,pollen,6/30/2007,314.0,0.636942675159
-2960,Black Sea (Southwest 1),42.184167,28.916667,42.184167,42.184167,28.916667,28.916667,Vascular plants,Quercus robur-type,2.0,NISP,pollen,,10347.0,,,Radiocarbon years BP,210.0,,pollen,6/30/2007,225.0,0.888888888889
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,5.0,NISP,pollen,,2262.0,,,Radiocarbon years BP,100.0,21.0,pollen,6/30/2007,312.0,1.60256410256
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,1.0,NISP,pollen,,2342.0,,,Radiocarbon years BP,125.0,21.0,pollen,6/30/2007,423.0,0.236406619385
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,7.0,NISP,pollen,,2502.0,,,Radiocarbon years BP,175.0,21.0,pollen,6/30/2007,540.0,1.2962962963
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,2.0,NISP,pollen,,2647.0,,,Radiocarbon years BP,220.0,21.0,pollen,6/30/2007,708.0,0.282485875706
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,7.0,NISP,pollen,,2695.0,,,Radiocarbon years BP,235.0,21.0,pollen,6/30/2007,564.0,1.24113475177
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,10.0,NISP,pollen,,2743.0,,,Radiocarbon years BP,250.0,21.0,pollen,6/30/2007,484.0,2.06611570248
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,7.0,NISP,pollen,,2839.0,,,Radiocarbon years BP,280.0,21.0,pollen,6/30/2007,318.0,2.20125786164
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,1.0,NISP,pollen,,2887.0,,,Radiocarbon years BP,295.0,21.0,pollen,6/30/2007,456.0,0.219298245614
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,9.0,NISP,pollen,,2935.0,,,Radiocarbon years BP,310.0,21.0,pollen,6/30/2007,407.0,2.2113022113
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,1.0,NISP,pollen,,3032.0,,,Radiocarbon years BP,340.0,21.0,pollen,6/30/2007,313.0,0.319488817891
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,11.0,NISP,pollen,,3224.0,,,Radiocarbon years BP,400.0,21.0,pollen,6/30/2007,443.0,2.48306997743
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,2.0,NISP,pollen,,3336.0,,,Radiocarbon years BP,435.0,21.0,pollen,6/30/2007,483.0,0.414078674948
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,1.0,NISP,pollen,,3448.0,,,Radiocarbon years BP,470.0,21.0,pollen,6/30/2007,493.0,0.202839756592
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,1.0,NISP,pollen,,3657.0,,,Radiocarbon years BP,535.0,21.0,pollen,6/30/2007,394.0,0.253807106599
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,5.0,NISP,pollen,,3769.0,,,Radiocarbon years BP,570.0,21.0,pollen,6/30/2007,411.0,1.21654501217
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,6.0,NISP,pollen,,3865.0,,,Radiocarbon years BP,600.0,21.0,pollen,6/30/2007,274.0,2.1897810219
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,8.0,NISP,pollen,,3962.0,,,Radiocarbon years BP,630.0,21.0,pollen,6/30/2007,397.0,2.01511335013
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,2.0,NISP,pollen,,3994.0,,,Radiocarbon years BP,640.0,21.0,pollen,6/30/2007,344.0,0.581395348837
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,4.0,NISP,pollen,,4026.0,,,Radiocarbon years BP,650.0,21.0,pollen,6/30/2007,425.0,0.941176470588
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,3.0,NISP,pollen,,4058.0,,,Radiocarbon years BP,660.0,21.0,pollen,6/30/2007,398.0,0.753768844221
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,8.0,NISP,pollen,,4090.0,,,Radiocarbon years BP,670.0,21.0,pollen,6/30/2007,440.0,1.81818181818
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,2.0,NISP,pollen,,4122.0,,,Radiocarbon years BP,680.0,21.0,pollen,6/30/2007,419.0,0.477326968974
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,5.0,NISP,pollen,,4186.0,,,Radiocarbon years BP,700.0,21.0,pollen,6/30/2007,412.0,1.21359223301
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,2.0,NISP,pollen,,4234.0,,,Radiocarbon years BP,715.0,21.0,pollen,6/30/2007,301.0,0.664451827243
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,1.0,NISP,pollen,,4282.0,,,Radiocarbon years BP,730.0,21.0,pollen,6/30/2007,316.0,0.316455696203
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,2.0,NISP,pollen,,4379.0,,,Radiocarbon years BP,760.0,21.0,pollen,6/30/2007,398.0,0.502512562814
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,5.0,NISP,pollen,,4427.0,,,Radiocarbon years BP,775.0,21.0,pollen,6/30/2007,465.0,1.0752688172
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,6.0,NISP,pollen,,4475.0,,,Radiocarbon years BP,790.0,21.0,pollen,6/30/2007,440.0,1.36363636364
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,6.0,NISP,pollen,,4635.0,,,Radiocarbon years BP,840.0,21.0,pollen,6/30/2007,497.0,1.20724346076
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,3.0,NISP,pollen,,4892.0,,,Radiocarbon years BP,920.0,21.0,pollen,6/30/2007,271.0,1.10701107011
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,2.0,NISP,pollen,,4940.0,,,Radiocarbon years BP,935.0,21.0,pollen,6/30/2007,390.0,0.512820512821
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,2.0,NISP,pollen,,5029.0,,,Radiocarbon years BP,980.0,21.0,pollen,6/30/2007,338.0,0.591715976331
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,2.0,NISP,pollen,,5058.0,,,Radiocarbon years BP,995.0,21.0,pollen,6/30/2007,325.0,0.615384615385
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,3.0,NISP,pollen,,5088.0,,,Radiocarbon years BP,1010.0,21.0,pollen,6/30/2007,302.0,0.993377483444
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,2.0,NISP,pollen,,5117.0,,,Radiocarbon years BP,1025.0,21.0,pollen,6/30/2007,320.0,0.625
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,2.0,NISP,pollen,,5265.0,,,Radiocarbon years BP,1100.0,21.0,pollen,6/30/2007,389.0,0.514138817481
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,4.0,NISP,pollen,,5294.0,,,Radiocarbon years BP,1115.0,21.0,pollen,6/30/2007,292.0,1.3698630137
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,2.0,NISP,pollen,,5324.0,,,Radiocarbon years BP,1130.0,21.0,pollen,6/30/2007,258.0,0.77519379845
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,2.0,NISP,pollen,,5353.0,,,Radiocarbon years BP,1145.0,21.0,pollen,6/30/2007,372.0,0.537634408602
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,2.0,NISP,pollen,,5412.0,,,Radiocarbon years BP,1175.0,21.0,pollen,6/30/2007,363.0,0.550964187328
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,4.0,NISP,pollen,,5442.0,,,Radiocarbon years BP,1190.0,21.0,pollen,6/30/2007,417.0,0.959232613909
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,6.0,NISP,pollen,,5481.0,,,Radiocarbon years BP,1210.0,21.0,pollen,6/30/2007,505.0,1.18811881188
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,1.0,NISP,pollen,,5525.0,,,Radiocarbon years BP,1232.0,21.0,pollen,6/30/2007,388.0,0.257731958763
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,6.0,NISP,pollen,,5572.0,,,Radiocarbon years BP,1256.0,21.0,pollen,6/30/2007,313.0,1.91693290735
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,1.0,NISP,pollen,,5619.0,,,Radiocarbon years BP,1280.0,21.0,pollen,6/30/2007,408.0,0.245098039216
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,10.0,NISP,pollen,,5643.0,,,Radiocarbon years BP,1292.0,21.0,pollen,6/30/2007,414.0,2.4154589372
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,2.0,NISP,pollen,,5666.0,,,Radiocarbon years BP,1304.0,21.0,pollen,6/30/2007,442.0,0.452488687783
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,4.0,NISP,pollen,,5690.0,,,Radiocarbon years BP,1316.0,21.0,pollen,6/30/2007,385.0,1.03896103896
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,1.0,NISP,pollen,,5713.0,,,Radiocarbon years BP,1328.0,21.0,pollen,6/30/2007,349.0,0.286532951289
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,10.0,NISP,pollen,,5737.0,,,Radiocarbon years BP,1340.0,21.0,pollen,6/30/2007,627.0,1.59489633174
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,2.0,NISP,pollen,,5761.0,,,Radiocarbon years BP,1352.0,21.0,pollen,6/30/2007,375.0,0.533333333333
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,4.0,NISP,pollen,,5784.0,,,Radiocarbon years BP,1364.0,21.0,pollen,6/30/2007,561.0,0.713012477718
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,5.0,NISP,pollen,,5808.0,,,Radiocarbon years BP,1376.0,21.0,pollen,6/30/2007,555.0,0.900900900901
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,1.0,NISP,pollen,,5832.0,,,Radiocarbon years BP,1388.0,21.0,pollen,6/30/2007,387.0,0.258397932817
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,3.0,NISP,pollen,,5855.0,,,Radiocarbon years BP,1400.0,21.0,pollen,6/30/2007,686.0,0.437317784257
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,4.0,NISP,pollen,,5885.0,,,Radiocarbon years BP,1415.0,21.0,pollen,6/30/2007,991.0,0.403632694248
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,2.0,NISP,pollen,,5914.0,,,Radiocarbon years BP,1430.0,21.0,pollen,6/30/2007,475.0,0.421052631579
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,4.0,NISP,pollen,,5944.0,,,Radiocarbon years BP,1445.0,21.0,pollen,6/30/2007,644.0,0.621118012422
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,6.0,NISP,pollen,,5973.0,,,Radiocarbon years BP,1460.0,21.0,pollen,6/30/2007,925.0,0.648648648649
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,3.0,NISP,pollen,,6003.0,,,Radiocarbon years BP,1475.0,21.0,pollen,6/30/2007,616.0,0.487012987013
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,4.0,NISP,pollen,,6032.0,,,Radiocarbon years BP,1490.0,21.0,pollen,6/30/2007,708.0,0.564971751412
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,3.0,NISP,pollen,,6052.0,,,Radiocarbon years BP,1500.0,21.0,pollen,6/30/2007,735.0,0.408163265306
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,3.0,NISP,pollen,,6111.0,,,Radiocarbon years BP,1530.0,21.0,pollen,6/30/2007,495.0,0.606060606061
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,2.0,NISP,pollen,,6140.0,,,Radiocarbon years BP,1545.0,21.0,pollen,6/30/2007,383.0,0.522193211488
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,9.0,NISP,pollen,,6170.0,,,Radiocarbon years BP,1560.0,21.0,pollen,6/30/2007,330.0,2.72727272727
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,4.0,NISP,pollen,,6202.0,,,Radiocarbon years BP,1575.0,21.0,pollen,6/30/2007,290.0,1.37931034483
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,7.0,NISP,pollen,,6233.0,,,Radiocarbon years BP,1590.0,21.0,pollen,6/30/2007,433.0,1.61662817552
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,2.0,NISP,pollen,,6255.0,,,Radiocarbon years BP,1600.0,21.0,pollen,6/30/2007,309.0,0.647249190939
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,2.0,NISP,pollen,,6350.0,,,Radiocarbon years BP,1645.0,21.0,pollen,6/30/2007,356.0,0.561797752809
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,2.0,NISP,pollen,,6381.0,,,Radiocarbon years BP,1660.0,21.0,pollen,6/30/2007,337.0,0.593471810089
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,2.0,NISP,pollen,,6413.0,,,Radiocarbon years BP,1675.0,21.0,pollen,6/30/2007,335.0,0.597014925373
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,2.0,NISP,pollen,,6445.0,,,Radiocarbon years BP,1690.0,21.0,pollen,6/30/2007,382.0,0.523560209424
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,1.0,NISP,pollen,,6466.0,,,Radiocarbon years BP,1700.0,21.0,pollen,6/30/2007,326.0,0.306748466258
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,3.0,NISP,pollen,,6572.0,,,Radiocarbon years BP,1750.0,21.0,pollen,6/30/2007,288.0,1.04166666667
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,1.0,NISP,pollen,,6593.0,,,Radiocarbon years BP,1760.0,21.0,pollen,6/30/2007,534.0,0.187265917603
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,2.0,NISP,pollen,,6614.0,,,Radiocarbon years BP,1770.0,21.0,pollen,6/30/2007,483.0,0.414078674948
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,3.0,NISP,pollen,,6752.0,,,Radiocarbon years BP,1835.0,21.0,pollen,6/30/2007,399.0,0.751879699248
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,1.0,NISP,pollen,,6826.0,,,Radiocarbon years BP,1870.0,21.0,pollen,6/30/2007,308.0,0.324675324675
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,1.0,NISP,pollen,,6900.0,,,Radiocarbon years BP,1905.0,21.0,pollen,6/30/2007,293.0,0.341296928328
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,3.0,NISP,pollen,,7048.0,,,Radiocarbon years BP,1975.0,21.0,pollen,6/30/2007,302.0,0.993377483444
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,1.0,NISP,pollen,,7122.0,,,Radiocarbon years BP,2010.0,21.0,pollen,6/30/2007,295.0,0.338983050847
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,4.0,NISP,pollen,,7270.0,,,Radiocarbon years BP,2080.0,21.0,pollen,6/30/2007,323.0,1.23839009288
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,1.0,NISP,pollen,,7301.0,,,Radiocarbon years BP,2095.0,21.0,pollen,6/30/2007,381.0,0.262467191601
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,5.0,NISP,pollen,,7407.0,,,Radiocarbon years BP,2145.0,21.0,pollen,6/30/2007,326.0,1.53374233129
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,1.0,NISP,pollen,,7460.0,,,Radiocarbon years BP,2170.0,21.0,pollen,6/30/2007,424.0,0.235849056604
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,1.0,NISP,pollen,,7513.0,,,Radiocarbon years BP,2195.0,21.0,pollen,6/30/2007,316.0,0.316455696203
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,3.0,NISP,pollen,,7566.0,,,Radiocarbon years BP,2220.0,21.0,pollen,6/30/2007,361.0,0.831024930748
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,2.0,NISP,pollen,,7619.0,,,Radiocarbon years BP,2245.0,21.0,pollen,6/30/2007,303.0,0.660066006601
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,2.0,NISP,pollen,,7671.0,,,Radiocarbon years BP,2270.0,21.0,pollen,6/30/2007,425.0,0.470588235294
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,3.0,NISP,pollen,,7724.0,,,Radiocarbon years BP,2295.0,21.0,pollen,6/30/2007,504.0,0.595238095238
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,3.0,NISP,pollen,,7777.0,,,Radiocarbon years BP,2320.0,21.0,pollen,6/30/2007,362.0,0.828729281768
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,2.0,NISP,pollen,,7830.0,,,Radiocarbon years BP,2345.0,21.0,pollen,6/30/2007,310.0,0.645161290323
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,2.0,NISP,pollen,,7883.0,,,Radiocarbon years BP,2370.0,21.0,pollen,6/30/2007,353.0,0.56657223796
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,5.0,NISP,pollen,,8179.0,,,Radiocarbon years BP,2510.0,21.0,pollen,6/30/2007,318.0,1.57232704403
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,6.0,NISP,pollen,,8348.0,,,Radiocarbon years BP,2590.0,21.0,pollen,6/30/2007,252.0,2.38095238095
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,1.0,NISP,pollen,,8433.0,,,Radiocarbon years BP,2630.0,21.0,pollen,6/30/2007,301.0,0.332225913621
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,1.0,NISP,pollen,,8517.0,,,Radiocarbon years BP,2670.0,21.0,pollen,6/30/2007,161.0,0.621118012422
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,1.0,NISP,pollen,,8686.0,,,Radiocarbon years BP,2750.0,21.0,pollen,6/30/2007,256.0,0.390625
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,1.0,NISP,pollen,,8856.0,,,Radiocarbon years BP,2830.0,21.0,pollen,6/30/2007,290.0,0.344827586207
-2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur-type,2.0,NISP,pollen,,8961.0,,,Radiocarbon years BP,2880.0,21.0,pollen,6/30/2007,249.0,0.803212851406
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Quercus robur,55,NISP,pollen,,63,,,Radiocarbon years BP,5,350,pollen,6/30/2007,558,9.856630824
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Quercus robur,90,NISP,pollen,,266,,,Radiocarbon years BP,20,350,pollen,6/30/2007,1150,7.826086957
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Quercus robur,67,NISP,pollen,,405,,,Radiocarbon years BP,30,350,pollen,6/30/2007,656,10.21341463
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Quercus robur,96,NISP,pollen,,687,,,Radiocarbon years BP,50,350,pollen,6/30/2007,1209,7.94044665
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Quercus robur,49,NISP,pollen,,974,,,Radiocarbon years BP,70,350,pollen,6/30/2007,342,14.32748538
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Quercus robur,52,NISP,pollen,,1118,,,Radiocarbon years BP,80,350,pollen,6/30/2007,688,7.558139535
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Quercus robur,104,NISP,pollen,,1409,,,Radiocarbon years BP,100,350,pollen,6/30/2007,1003,10.36889332
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Quercus robur,146,NISP,pollen,,1702,,,Radiocarbon years BP,120,350,pollen,6/30/2007,1657,8.811104406
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Quercus robur,184,NISP,pollen,,1996,,,Radiocarbon years BP,140,350,pollen,6/30/2007,1200,15.33333333
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Quercus robur,140,NISP,pollen,,2292,,,Radiocarbon years BP,160,350,pollen,6/30/2007,679,20.6185567
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Quercus robur,176,NISP,pollen,,2441,,,Radiocarbon years BP,170,350,pollen,6/30/2007,774,22.73901809
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Quercus robur,99,NISP,pollen,,2739,,,Radiocarbon years BP,190,350,pollen,6/30/2007,622,15.91639871
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Quercus robur,116,NISP,pollen,,3038,,,Radiocarbon years BP,210,350,pollen,6/30/2007,724,16.02209945
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Quercus robur,222,NISP,pollen,,3338,,,Radiocarbon years BP,230,350,pollen,6/30/2007,1332,16.66666667
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Quercus robur,357,NISP,pollen,,3639,,,Radiocarbon years BP,250,350,pollen,6/30/2007,1184,30.15202703
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Quercus robur,217,NISP,pollen,,3941,,,Radiocarbon years BP,270,350,pollen,6/30/2007,791,27.43362832
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Quercus robur,173,NISP,pollen,,4244,,,Radiocarbon years BP,290,350,pollen,6/30/2007,2154,8.031569174
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Quercus robur,66,NISP,pollen,,4320,,,Radiocarbon years BP,295,350,pollen,6/30/2007,1315,5.019011407
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Quercus robur,248,NISP,pollen,,4700,,,Radiocarbon years BP,320,350,pollen,6/30/2007,885,28.02259887
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Quercus robur,410,NISP,pollen,,4852,,,Radiocarbon years BP,330,350,pollen,6/30/2007,1170,35.04273504
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Quercus robur,93,NISP,pollen,,5157,,,Radiocarbon years BP,350,350,pollen,6/30/2007,589,15.78947368
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Quercus robur,504,NISP,pollen,,5462,,,Radiocarbon years BP,370,350,pollen,6/30/2007,1273,39.5915161
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Quercus robur,212,NISP,pollen,,5768,,,Radiocarbon years BP,390,350,pollen,6/30/2007,677,31.31462334
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Quercus robur,79,NISP,pollen,,5998,,,Radiocarbon years BP,405,350,pollen,6/30/2007,377,20.95490716
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Quercus robur,166,NISP,pollen,,6382,,,Radiocarbon years BP,430,350,pollen,6/30/2007,727,22.83356259
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Quercus robur,520,NISP,pollen,,6844,,,Radiocarbon years BP,460,350,pollen,6/30/2007,1406,36.98435277
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Quercus robur,115,NISP,pollen,,7152,,,Radiocarbon years BP,480,350,pollen,6/30/2007,456,25.21929825
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Quercus robur,210,NISP,pollen,,7538,,,Radiocarbon years BP,505,350,pollen,6/30/2007,2428,8.649093904
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Quercus robur,253,NISP,pollen,,7925,,,Radiocarbon years BP,530,350,pollen,6/30/2007,540,46.85185185
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Quercus robur,235,NISP,pollen,,8080,,,Radiocarbon years BP,540,350,pollen,6/30/2007,502,46.812749
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Quercus robur,122,NISP,pollen,,8390,,,Radiocarbon years BP,560,350,pollen,6/30/2007,269,45.35315985
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Quercus robur,239,NISP,pollen,,8701,,,Radiocarbon years BP,580,350,pollen,6/30/2007,554,43.14079422
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Quercus robur,265,NISP,pollen,,9090,,,Radiocarbon years BP,605,350,pollen,6/30/2007,671,39.49329359
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Quercus robur,152,NISP,pollen,,9323,,,Radiocarbon years BP,620,350,pollen,6/30/2007,365,41.64383562
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Quercus robur,75,NISP,pollen,,9635,,,Radiocarbon years BP,640,350,pollen,6/30/2007,317,23.65930599
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Quercus robur,52,NISP,pollen,,9947,,,Radiocarbon years BP,660,350,pollen,6/30/2007,283,18.3745583
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Quercus robur,23,NISP,pollen,,10259,,,Radiocarbon years BP,680,350,pollen,6/30/2007,461,4.989154013
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Quercus robur,4,NISP,pollen,,10572,,,Radiocarbon years BP,700,350,pollen,6/30/2007,182,2.197802198
+2960,Black Sea (Southwest 1),42.184167,28.916667,42.184167,42.184167,28.916667,28.916667,Vascular plants,Quercus robur,71,NISP,pollen,,630,,,Radiocarbon years BP,0,,pollen,6/30/2007,549,12.93260474
+2960,Black Sea (Southwest 1),42.184167,28.916667,42.184167,42.184167,28.916667,28.916667,Vascular plants,Quercus robur,73,NISP,pollen,,1366,,,Radiocarbon years BP,10,,pollen,6/30/2007,362,20.16574586
+2960,Black Sea (Southwest 1),42.184167,28.916667,42.184167,42.184167,28.916667,28.916667,Vascular plants,Quercus robur,84,NISP,pollen,,2102,,,Radiocarbon years BP,20,,pollen,6/30/2007,476,17.64705882
+2960,Black Sea (Southwest 1),42.184167,28.916667,42.184167,42.184167,28.916667,28.916667,Vascular plants,Quercus robur,109,NISP,pollen,,2838,,,Radiocarbon years BP,30,,pollen,6/30/2007,528,20.64393939
+2960,Black Sea (Southwest 1),42.184167,28.916667,42.184167,42.184167,28.916667,28.916667,Vascular plants,Quercus robur,102,NISP,pollen,,3574,,,Radiocarbon years BP,40,,pollen,6/30/2007,465,21.93548387
+2960,Black Sea (Southwest 1),42.184167,28.916667,42.184167,42.184167,28.916667,28.916667,Vascular plants,Quercus robur,199,NISP,pollen,,4310,,,Radiocarbon years BP,50,,pollen,6/30/2007,680,29.26470588
+2960,Black Sea (Southwest 1),42.184167,28.916667,42.184167,42.184167,28.916667,28.916667,Vascular plants,Quercus robur,124,NISP,pollen,,5046,,,Radiocarbon years BP,60,,pollen,6/30/2007,546,22.71062271
+2960,Black Sea (Southwest 1),42.184167,28.916667,42.184167,42.184167,28.916667,28.916667,Vascular plants,Quercus robur,124,NISP,pollen,,5414,,,Radiocarbon years BP,65,,pollen,6/30/2007,548,22.62773723
+2960,Black Sea (Southwest 1),42.184167,28.916667,42.184167,42.184167,28.916667,28.916667,Vascular plants,Quercus robur,36,NISP,pollen,,6518,,,Radiocarbon years BP,80,,pollen,6/30/2007,428,8.411214953
+2960,Black Sea (Southwest 1),42.184167,28.916667,42.184167,42.184167,28.916667,28.916667,Vascular plants,Quercus robur,50,NISP,pollen,,7137,,,Radiocarbon years BP,90,,pollen,6/30/2007,430,11.62790698
+2960,Black Sea (Southwest 1),42.184167,28.916667,42.184167,42.184167,28.916667,28.916667,Vascular plants,Quercus robur,22,NISP,pollen,,7404,,,Radiocarbon years BP,100,,pollen,6/30/2007,464,4.74137931
+2960,Black Sea (Southwest 1),42.184167,28.916667,42.184167,42.184167,28.916667,28.916667,Vascular plants,Quercus robur,7,NISP,pollen,,7672,,,Radiocarbon years BP,110,,pollen,6/30/2007,245,2.857142857
+2960,Black Sea (Southwest 1),42.184167,28.916667,42.184167,42.184167,28.916667,28.916667,Vascular plants,Quercus robur,8,NISP,pollen,,7939,,,Radiocarbon years BP,120,,pollen,6/30/2007,254,3.149606299
+2960,Black Sea (Southwest 1),42.184167,28.916667,42.184167,42.184167,28.916667,28.916667,Vascular plants,Quercus robur,12,NISP,pollen,,8207,,,Radiocarbon years BP,130,,pollen,6/30/2007,349,3.438395415
+2960,Black Sea (Southwest 1),42.184167,28.916667,42.184167,42.184167,28.916667,28.916667,Vascular plants,Quercus robur,10,NISP,pollen,,8474,,,Radiocarbon years BP,140,,pollen,6/30/2007,301,3.322259136
+2960,Black Sea (Southwest 1),42.184167,28.916667,42.184167,42.184167,28.916667,28.916667,Vascular plants,Quercus robur,16,NISP,pollen,,8742,,,Radiocarbon years BP,150,,pollen,6/30/2007,340,4.705882353
+2960,Black Sea (Southwest 1),42.184167,28.916667,42.184167,42.184167,28.916667,28.916667,Vascular plants,Quercus robur,10,NISP,pollen,,9009,,,Radiocarbon years BP,160,,pollen,6/30/2007,281,3.558718861
+2960,Black Sea (Southwest 1),42.184167,28.916667,42.184167,42.184167,28.916667,28.916667,Vascular plants,Quercus robur,10,NISP,pollen,,9544,,,Radiocarbon years BP,180,,pollen,6/30/2007,329,3.039513678
+2960,Black Sea (Southwest 1),42.184167,28.916667,42.184167,42.184167,28.916667,28.916667,Vascular plants,Quercus robur,2,NISP,pollen,,10079,,,Radiocarbon years BP,200,,pollen,6/30/2007,314,0.636942675
+2960,Black Sea (Southwest 1),42.184167,28.916667,42.184167,42.184167,28.916667,28.916667,Vascular plants,Quercus robur,2,NISP,pollen,,10347,,,Radiocarbon years BP,210,,pollen,6/30/2007,225,0.888888889
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,5,NISP,pollen,,2262,,,Radiocarbon years BP,100,21,pollen,6/30/2007,312,1.602564103
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,1,NISP,pollen,,2342,,,Radiocarbon years BP,125,21,pollen,6/30/2007,423,0.236406619
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,7,NISP,pollen,,2502,,,Radiocarbon years BP,175,21,pollen,6/30/2007,540,1.296296296
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,2,NISP,pollen,,2647,,,Radiocarbon years BP,220,21,pollen,6/30/2007,708,0.282485876
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,7,NISP,pollen,,2695,,,Radiocarbon years BP,235,21,pollen,6/30/2007,564,1.241134752
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,10,NISP,pollen,,2743,,,Radiocarbon years BP,250,21,pollen,6/30/2007,484,2.066115702
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,7,NISP,pollen,,2839,,,Radiocarbon years BP,280,21,pollen,6/30/2007,318,2.201257862
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,1,NISP,pollen,,2887,,,Radiocarbon years BP,295,21,pollen,6/30/2007,456,0.219298246
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,9,NISP,pollen,,2935,,,Radiocarbon years BP,310,21,pollen,6/30/2007,407,2.211302211
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,1,NISP,pollen,,3032,,,Radiocarbon years BP,340,21,pollen,6/30/2007,313,0.319488818
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,11,NISP,pollen,,3224,,,Radiocarbon years BP,400,21,pollen,6/30/2007,443,2.483069977
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,2,NISP,pollen,,3336,,,Radiocarbon years BP,435,21,pollen,6/30/2007,483,0.414078675
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,1,NISP,pollen,,3448,,,Radiocarbon years BP,470,21,pollen,6/30/2007,493,0.202839757
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,1,NISP,pollen,,3657,,,Radiocarbon years BP,535,21,pollen,6/30/2007,394,0.253807107
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,5,NISP,pollen,,3769,,,Radiocarbon years BP,570,21,pollen,6/30/2007,411,1.216545012
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,6,NISP,pollen,,3865,,,Radiocarbon years BP,600,21,pollen,6/30/2007,274,2.189781022
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,8,NISP,pollen,,3962,,,Radiocarbon years BP,630,21,pollen,6/30/2007,397,2.01511335
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,2,NISP,pollen,,3994,,,Radiocarbon years BP,640,21,pollen,6/30/2007,344,0.581395349
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,4,NISP,pollen,,4026,,,Radiocarbon years BP,650,21,pollen,6/30/2007,425,0.941176471
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,3,NISP,pollen,,4058,,,Radiocarbon years BP,660,21,pollen,6/30/2007,398,0.753768844
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,8,NISP,pollen,,4090,,,Radiocarbon years BP,670,21,pollen,6/30/2007,440,1.818181818
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,2,NISP,pollen,,4122,,,Radiocarbon years BP,680,21,pollen,6/30/2007,419,0.477326969
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,5,NISP,pollen,,4186,,,Radiocarbon years BP,700,21,pollen,6/30/2007,412,1.213592233
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,2,NISP,pollen,,4234,,,Radiocarbon years BP,715,21,pollen,6/30/2007,301,0.664451827
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,1,NISP,pollen,,4282,,,Radiocarbon years BP,730,21,pollen,6/30/2007,316,0.316455696
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,2,NISP,pollen,,4379,,,Radiocarbon years BP,760,21,pollen,6/30/2007,398,0.502512563
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,5,NISP,pollen,,4427,,,Radiocarbon years BP,775,21,pollen,6/30/2007,465,1.075268817
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,6,NISP,pollen,,4475,,,Radiocarbon years BP,790,21,pollen,6/30/2007,440,1.363636364
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,6,NISP,pollen,,4635,,,Radiocarbon years BP,840,21,pollen,6/30/2007,497,1.207243461
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,3,NISP,pollen,,4892,,,Radiocarbon years BP,920,21,pollen,6/30/2007,271,1.10701107
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,2,NISP,pollen,,4940,,,Radiocarbon years BP,935,21,pollen,6/30/2007,390,0.512820513
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,2,NISP,pollen,,5029,,,Radiocarbon years BP,980,21,pollen,6/30/2007,338,0.591715976
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,2,NISP,pollen,,5058,,,Radiocarbon years BP,995,21,pollen,6/30/2007,325,0.615384615
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,3,NISP,pollen,,5088,,,Radiocarbon years BP,1010,21,pollen,6/30/2007,302,0.993377483
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,2,NISP,pollen,,5117,,,Radiocarbon years BP,1025,21,pollen,6/30/2007,320,0.625
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,2,NISP,pollen,,5265,,,Radiocarbon years BP,1100,21,pollen,6/30/2007,389,0.514138817
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,4,NISP,pollen,,5294,,,Radiocarbon years BP,1115,21,pollen,6/30/2007,292,1.369863014
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,2,NISP,pollen,,5324,,,Radiocarbon years BP,1130,21,pollen,6/30/2007,258,0.775193798
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,2,NISP,pollen,,5353,,,Radiocarbon years BP,1145,21,pollen,6/30/2007,372,0.537634409
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,2,NISP,pollen,,5412,,,Radiocarbon years BP,1175,21,pollen,6/30/2007,363,0.550964187
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,4,NISP,pollen,,5442,,,Radiocarbon years BP,1190,21,pollen,6/30/2007,417,0.959232614
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,6,NISP,pollen,,5481,,,Radiocarbon years BP,1210,21,pollen,6/30/2007,505,1.188118812
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,1,NISP,pollen,,5525,,,Radiocarbon years BP,1232,21,pollen,6/30/2007,388,0.257731959
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,6,NISP,pollen,,5572,,,Radiocarbon years BP,1256,21,pollen,6/30/2007,313,1.916932907
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,1,NISP,pollen,,5619,,,Radiocarbon years BP,1280,21,pollen,6/30/2007,408,0.245098039
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,10,NISP,pollen,,5643,,,Radiocarbon years BP,1292,21,pollen,6/30/2007,414,2.415458937
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,2,NISP,pollen,,5666,,,Radiocarbon years BP,1304,21,pollen,6/30/2007,442,0.452488688
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,4,NISP,pollen,,5690,,,Radiocarbon years BP,1316,21,pollen,6/30/2007,385,1.038961039
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,1,NISP,pollen,,5713,,,Radiocarbon years BP,1328,21,pollen,6/30/2007,349,0.286532951
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,10,NISP,pollen,,5737,,,Radiocarbon years BP,1340,21,pollen,6/30/2007,627,1.594896332
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,2,NISP,pollen,,5761,,,Radiocarbon years BP,1352,21,pollen,6/30/2007,375,0.533333333
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,4,NISP,pollen,,5784,,,Radiocarbon years BP,1364,21,pollen,6/30/2007,561,0.713012478
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,5,NISP,pollen,,5808,,,Radiocarbon years BP,1376,21,pollen,6/30/2007,555,0.900900901
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,1,NISP,pollen,,5832,,,Radiocarbon years BP,1388,21,pollen,6/30/2007,387,0.258397933
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,3,NISP,pollen,,5855,,,Radiocarbon years BP,1400,21,pollen,6/30/2007,686,0.437317784
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,4,NISP,pollen,,5885,,,Radiocarbon years BP,1415,21,pollen,6/30/2007,991,0.403632694
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,2,NISP,pollen,,5914,,,Radiocarbon years BP,1430,21,pollen,6/30/2007,475,0.421052632
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,4,NISP,pollen,,5944,,,Radiocarbon years BP,1445,21,pollen,6/30/2007,644,0.621118012
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,6,NISP,pollen,,5973,,,Radiocarbon years BP,1460,21,pollen,6/30/2007,925,0.648648649
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,3,NISP,pollen,,6003,,,Radiocarbon years BP,1475,21,pollen,6/30/2007,616,0.487012987
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,4,NISP,pollen,,6032,,,Radiocarbon years BP,1490,21,pollen,6/30/2007,708,0.564971751
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,3,NISP,pollen,,6052,,,Radiocarbon years BP,1500,21,pollen,6/30/2007,735,0.408163265
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,3,NISP,pollen,,6111,,,Radiocarbon years BP,1530,21,pollen,6/30/2007,495,0.606060606
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,2,NISP,pollen,,6140,,,Radiocarbon years BP,1545,21,pollen,6/30/2007,383,0.522193211
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,9,NISP,pollen,,6170,,,Radiocarbon years BP,1560,21,pollen,6/30/2007,330,2.727272727
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,4,NISP,pollen,,6202,,,Radiocarbon years BP,1575,21,pollen,6/30/2007,290,1.379310345
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,7,NISP,pollen,,6233,,,Radiocarbon years BP,1590,21,pollen,6/30/2007,433,1.616628176
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,2,NISP,pollen,,6255,,,Radiocarbon years BP,1600,21,pollen,6/30/2007,309,0.647249191
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,2,NISP,pollen,,6350,,,Radiocarbon years BP,1645,21,pollen,6/30/2007,356,0.561797753
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,2,NISP,pollen,,6381,,,Radiocarbon years BP,1660,21,pollen,6/30/2007,337,0.59347181
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,2,NISP,pollen,,6413,,,Radiocarbon years BP,1675,21,pollen,6/30/2007,335,0.597014925
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,2,NISP,pollen,,6445,,,Radiocarbon years BP,1690,21,pollen,6/30/2007,382,0.523560209
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,1,NISP,pollen,,6466,,,Radiocarbon years BP,1700,21,pollen,6/30/2007,326,0.306748466
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,3,NISP,pollen,,6572,,,Radiocarbon years BP,1750,21,pollen,6/30/2007,288,1.041666667
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,1,NISP,pollen,,6593,,,Radiocarbon years BP,1760,21,pollen,6/30/2007,534,0.187265918
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,2,NISP,pollen,,6614,,,Radiocarbon years BP,1770,21,pollen,6/30/2007,483,0.414078675
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,3,NISP,pollen,,6752,,,Radiocarbon years BP,1835,21,pollen,6/30/2007,399,0.751879699
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,1,NISP,pollen,,6826,,,Radiocarbon years BP,1870,21,pollen,6/30/2007,308,0.324675325
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,1,NISP,pollen,,6900,,,Radiocarbon years BP,1905,21,pollen,6/30/2007,293,0.341296928
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,3,NISP,pollen,,7048,,,Radiocarbon years BP,1975,21,pollen,6/30/2007,302,0.993377483
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,1,NISP,pollen,,7122,,,Radiocarbon years BP,2010,21,pollen,6/30/2007,295,0.338983051
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,4,NISP,pollen,,7270,,,Radiocarbon years BP,2080,21,pollen,6/30/2007,323,1.238390093
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,1,NISP,pollen,,7301,,,Radiocarbon years BP,2095,21,pollen,6/30/2007,381,0.262467192
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,5,NISP,pollen,,7407,,,Radiocarbon years BP,2145,21,pollen,6/30/2007,326,1.533742331
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,1,NISP,pollen,,7460,,,Radiocarbon years BP,2170,21,pollen,6/30/2007,424,0.235849057
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,1,NISP,pollen,,7513,,,Radiocarbon years BP,2195,21,pollen,6/30/2007,316,0.316455696
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,3,NISP,pollen,,7566,,,Radiocarbon years BP,2220,21,pollen,6/30/2007,361,0.831024931
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,2,NISP,pollen,,7619,,,Radiocarbon years BP,2245,21,pollen,6/30/2007,303,0.660066007
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,2,NISP,pollen,,7671,,,Radiocarbon years BP,2270,21,pollen,6/30/2007,425,0.470588235
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,3,NISP,pollen,,7724,,,Radiocarbon years BP,2295,21,pollen,6/30/2007,504,0.595238095
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,3,NISP,pollen,,7777,,,Radiocarbon years BP,2320,21,pollen,6/30/2007,362,0.828729282
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,2,NISP,pollen,,7830,,,Radiocarbon years BP,2345,21,pollen,6/30/2007,310,0.64516129
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,2,NISP,pollen,,7883,,,Radiocarbon years BP,2370,21,pollen,6/30/2007,353,0.566572238
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,5,NISP,pollen,,8179,,,Radiocarbon years BP,2510,21,pollen,6/30/2007,318,1.572327044
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,6,NISP,pollen,,8348,,,Radiocarbon years BP,2590,21,pollen,6/30/2007,252,2.380952381
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,1,NISP,pollen,,8433,,,Radiocarbon years BP,2630,21,pollen,6/30/2007,301,0.332225914
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,1,NISP,pollen,,8517,,,Radiocarbon years BP,2670,21,pollen,6/30/2007,161,0.621118012
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,1,NISP,pollen,,8686,,,Radiocarbon years BP,2750,21,pollen,6/30/2007,256,0.390625
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,1,NISP,pollen,,8856,,,Radiocarbon years BP,2830,21,pollen,6/30/2007,290,0.344827586
+2968,Algendar,39.940556,3.958611,39.940556,39.940556,3.958611,3.958611,Vascular plants,Quercus robur,2,NISP,pollen,,8961,,,Radiocarbon years BP,2880,21,pollen,6/30/2007,249,0.803212851

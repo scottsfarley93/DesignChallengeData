@@ -1,168 +1,167 @@
 siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Fraxinus excelsior,1.0,NISP,pollen,,405.0,,,Radiocarbon years BP,30.0,350.0,pollen,6/30/2007,656.0,0.15243902439
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Fraxinus excelsior,5.0,NISP,pollen,,687.0,,,Radiocarbon years BP,50.0,350.0,pollen,6/30/2007,1209.0,0.413564929694
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Fraxinus excelsior,1.0,NISP,pollen,,2292.0,,,Radiocarbon years BP,160.0,350.0,pollen,6/30/2007,679.0,0.147275405007
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Fraxinus excelsior,2.0,NISP,pollen,,2739.0,,,Radiocarbon years BP,190.0,350.0,pollen,6/30/2007,622.0,0.32154340836
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Fraxinus excelsior,1.0,NISP,pollen,,3941.0,,,Radiocarbon years BP,270.0,350.0,pollen,6/30/2007,791.0,0.126422250316
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Fraxinus excelsior,2.0,NISP,pollen,,4244.0,,,Radiocarbon years BP,290.0,350.0,pollen,6/30/2007,2154.0,0.0928505106778
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Fraxinus excelsior,1.0,NISP,pollen,,4320.0,,,Radiocarbon years BP,295.0,350.0,pollen,6/30/2007,1315.0,0.0760456273764
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Fraxinus excelsior,5.0,NISP,pollen,,4700.0,,,Radiocarbon years BP,320.0,350.0,pollen,6/30/2007,885.0,0.564971751412
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Fraxinus excelsior,1.0,NISP,pollen,,4852.0,,,Radiocarbon years BP,330.0,350.0,pollen,6/30/2007,1170.0,0.0854700854701
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Fraxinus excelsior,3.0,NISP,pollen,,5462.0,,,Radiocarbon years BP,370.0,350.0,pollen,6/30/2007,1273.0,0.235663786332
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Fraxinus excelsior,2.0,NISP,pollen,,5768.0,,,Radiocarbon years BP,390.0,350.0,pollen,6/30/2007,677.0,0.295420974889
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Fraxinus excelsior,2.0,NISP,pollen,,5998.0,,,Radiocarbon years BP,405.0,350.0,pollen,6/30/2007,377.0,0.53050397878
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Fraxinus excelsior,4.0,NISP,pollen,,6382.0,,,Radiocarbon years BP,430.0,350.0,pollen,6/30/2007,727.0,0.550206327373
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Fraxinus excelsior,11.0,NISP,pollen,,6844.0,,,Radiocarbon years BP,460.0,350.0,pollen,6/30/2007,1406.0,0.782361308677
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Fraxinus excelsior,9.0,NISP,pollen,,7152.0,,,Radiocarbon years BP,480.0,350.0,pollen,6/30/2007,456.0,1.97368421053
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Fraxinus excelsior,14.0,NISP,pollen,,7538.0,,,Radiocarbon years BP,505.0,350.0,pollen,6/30/2007,2428.0,0.576606260297
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Fraxinus excelsior,2.0,NISP,pollen,,7925.0,,,Radiocarbon years BP,530.0,350.0,pollen,6/30/2007,540.0,0.37037037037
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Fraxinus excelsior,1.0,NISP,pollen,,8080.0,,,Radiocarbon years BP,540.0,350.0,pollen,6/30/2007,502.0,0.199203187251
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Fraxinus excelsior,3.0,NISP,pollen,,8390.0,,,Radiocarbon years BP,560.0,350.0,pollen,6/30/2007,269.0,1.11524163569
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Fraxinus excelsior,3.0,NISP,pollen,,8701.0,,,Radiocarbon years BP,580.0,350.0,pollen,6/30/2007,554.0,0.541516245487
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Fraxinus excelsior,1.0,NISP,pollen,,9090.0,,,Radiocarbon years BP,605.0,350.0,pollen,6/30/2007,671.0,0.149031296572
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Fraxinus excelsior,2.0,NISP,pollen,,9323.0,,,Radiocarbon years BP,620.0,350.0,pollen,6/30/2007,365.0,0.547945205479
-765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Fraxinus excelsior,1.0,NISP,pollen,,9947.0,,,Radiocarbon years BP,660.0,350.0,pollen,6/30/2007,283.0,0.353356890459
-siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
-2960,Black Sea (Southwest 1),42.184167,28.916667,42.184167,42.184167,28.916667,28.916667,Vascular plants,Fraxinus excelsior-type,1.0,NISP,pollen,,1366.0,,,Radiocarbon years BP,10.0,,pollen,6/30/2007,362.0,0.276243093923
-2960,Black Sea (Southwest 1),42.184167,28.916667,42.184167,42.184167,28.916667,28.916667,Vascular plants,Fraxinus excelsior-type,2.0,NISP,pollen,,2102.0,,,Radiocarbon years BP,20.0,,pollen,6/30/2007,476.0,0.420168067227
-2960,Black Sea (Southwest 1),42.184167,28.916667,42.184167,42.184167,28.916667,28.916667,Vascular plants,Fraxinus excelsior-type,1.0,NISP,pollen,,3574.0,,,Radiocarbon years BP,40.0,,pollen,6/30/2007,465.0,0.215053763441
-2960,Black Sea (Southwest 1),42.184167,28.916667,42.184167,42.184167,28.916667,28.916667,Vascular plants,Fraxinus excelsior-type,3.0,NISP,pollen,,4310.0,,,Radiocarbon years BP,50.0,,pollen,6/30/2007,680.0,0.441176470588
-2960,Black Sea (Southwest 1),42.184167,28.916667,42.184167,42.184167,28.916667,28.916667,Vascular plants,Fraxinus excelsior-type,10.0,NISP,pollen,,5046.0,,,Radiocarbon years BP,60.0,,pollen,6/30/2007,546.0,1.8315018315
-2960,Black Sea (Southwest 1),42.184167,28.916667,42.184167,42.184167,28.916667,28.916667,Vascular plants,Fraxinus excelsior-type,3.0,NISP,pollen,,5414.0,,,Radiocarbon years BP,65.0,,pollen,6/30/2007,548.0,0.547445255474
-2995,Balikh,36.516667,39.083333,36.516667,36.516667,39.083333,39.083333,Vascular plants,Fraxinus excelsior-type,1.0,NISP,pollen,,,,,,80.0,,pollen,6/30/2007,989.0,0.10111223458
-3012,Besbog,41.75,23.666667,41.75,41.75,23.666667,23.666667,Vascular plants,Fraxinus excelsior-type,1.0,NISP,pollen,,1904.0,,,Radiocarbon years BP,55.0,2240.0,pollen,6/30/2007,568.0,0.176056338028
-3012,Besbog,41.75,23.666667,41.75,41.75,23.666667,23.666667,Vascular plants,Fraxinus excelsior-type,1.0,NISP,pollen,,3157.0,,,Radiocarbon years BP,75.0,2240.0,pollen,6/30/2007,584.0,0.171232876712
-3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Fraxinus excelsior-type,1.0,NISP,pollen,,664.0,,,Radiocarbon years BP,40.0,,pollen,6/30/2007,1413.0,0.070771408351
-3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Fraxinus excelsior-type,2.0,NISP,pollen,,997.0,,,Radiocarbon years BP,60.0,,pollen,6/30/2007,1274.0,0.156985871272
-3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Fraxinus excelsior-type,3.0,NISP,pollen,,1163.0,,,Radiocarbon years BP,70.0,,pollen,6/30/2007,2667.0,0.112485939258
-3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Fraxinus excelsior-type,1.0,NISP,pollen,,1661.0,,,Radiocarbon years BP,100.0,,pollen,6/30/2007,1729.0,0.0578368999422
-3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Fraxinus excelsior-type,1.0,NISP,pollen,,1993.0,,,Radiocarbon years BP,120.0,,pollen,6/30/2007,2444.0,0.0409165302782
-3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Fraxinus excelsior-type,1.0,NISP,pollen,,2491.0,,,Radiocarbon years BP,150.0,,pollen,6/30/2007,2362.0,0.0423370025402
-3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Fraxinus excelsior-type,1.0,NISP,pollen,,2657.0,,,Radiocarbon years BP,160.0,,pollen,6/30/2007,3543.0,0.0282246683601
-3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Fraxinus excelsior-type,1.0,NISP,pollen,,2823.0,,,Radiocarbon years BP,170.0,,pollen,6/30/2007,1118.0,0.0894454382826
-3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Fraxinus excelsior-type,1.0,NISP,pollen,,3322.0,,,Radiocarbon years BP,200.0,,pollen,6/30/2007,4011.0,0.024931438544
-3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Fraxinus excelsior-type,1.0,NISP,pollen,,4152.0,,,Radiocarbon years BP,250.0,,pollen,6/30/2007,2306.0,0.0433651344319
-3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Fraxinus excelsior-type,2.0,NISP,pollen,,4817.0,,,Radiocarbon years BP,290.0,,pollen,6/30/2007,724.0,0.276243093923
-3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Fraxinus excelsior-type,4.0,NISP,pollen,,6145.0,,,Radiocarbon years BP,370.0,,pollen,6/30/2007,2754.0,0.145243282498
-3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior-type,1.0,NISP,pollen,,6114.0,,,Radiocarbon years BP,10.2,470.0,pollen,6/30/2007,341.0,0.293255131965
-3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior-type,2.0,NISP,pollen,,6743.0,,,Radiocarbon years BP,11.25,470.0,pollen,6/30/2007,294.0,0.680272108844
-3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior-type,1.0,NISP,pollen,,7792.0,,,Radiocarbon years BP,13.0,470.0,pollen,6/30/2007,346.0,0.28901734104
-3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior-type,1.0,NISP,pollen,,8092.0,,,Radiocarbon years BP,13.5,470.0,pollen,6/30/2007,350.0,0.285714285714
-3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior-type,3.0,NISP,pollen,,9591.0,,,Radiocarbon years BP,16.0,470.0,pollen,6/30/2007,365.0,0.821917808219
-3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior-type,1.0,NISP,pollen,,9890.0,,,Radiocarbon years BP,16.5,470.0,pollen,6/30/2007,397.0,0.251889168766
-3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior-type,5.0,NISP,pollen,,10190.0,,,Radiocarbon years BP,17.0,470.0,pollen,6/30/2007,426.0,1.17370892019
-3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior-type,2.0,NISP,pollen,,28577.0,,,Radiocarbon years BP,23.5,470.0,pollen,6/30/2007,246.0,0.813008130081
-3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior-type,1.0,NISP,pollen,,62523.0,,,Radiocarbon years BP,35.5,470.0,pollen,6/30/2007,373.0,0.268096514745
-3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior-type,1.0,NISP,pollen,,68181.0,,,Radiocarbon years BP,37.5,470.0,pollen,6/30/2007,311.0,0.32154340836
-3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior-type,1.0,NISP,pollen,,69595.0,,,Radiocarbon years BP,38.0,470.0,pollen,6/30/2007,304.0,0.328947368421
-3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior-type,2.0,NISP,pollen,,76667.0,,,Radiocarbon years BP,40.5,470.0,pollen,6/30/2007,412.0,0.485436893204
-3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior-type,1.0,NISP,pollen,,82325.0,,,Radiocarbon years BP,42.5,470.0,pollen,6/30/2007,312.0,0.320512820513
-3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior-type,1.0,NISP,pollen,,85154.0,,,Radiocarbon years BP,43.5,470.0,pollen,6/30/2007,358.0,0.279329608939
-3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior-type,2.0,NISP,pollen,,86568.0,,,Radiocarbon years BP,44.0,470.0,pollen,6/30/2007,348.0,0.574712643678
-3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior-type,1.0,NISP,pollen,,87982.0,,,Radiocarbon years BP,44.5,470.0,pollen,6/30/2007,388.0,0.257731958763
-3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior-type,1.0,NISP,pollen,,88690.0,,,Radiocarbon years BP,44.75,470.0,pollen,6/30/2007,395.0,0.253164556962
-3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior-type,2.0,NISP,pollen,,89397.0,,,Radiocarbon years BP,45.0,470.0,pollen,6/30/2007,426.0,0.469483568075
-3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior-type,1.0,NISP,pollen,,96469.0,,,Radiocarbon years BP,47.5,470.0,pollen,6/30/2007,449.0,0.22271714922
-3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior-type,1.0,NISP,pollen,,99298.0,,,Radiocarbon years BP,48.5,470.0,pollen,6/30/2007,409.0,0.244498777506
-3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior-type,4.0,NISP,pollen,,113442.0,,,Radiocarbon years BP,53.5,470.0,pollen,6/30/2007,969.0,0.412796697626
-3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior-type,1.0,NISP,pollen,,114856.0,,,Radiocarbon years BP,54.0,470.0,pollen,6/30/2007,853.0,0.117233294256
-3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior-type,6.0,NISP,pollen,,116270.0,,,Radiocarbon years BP,54.5,470.0,pollen,6/30/2007,942.0,0.636942675159
-3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior-type,8.0,NISP,pollen,,117685.0,,,Radiocarbon years BP,55.0,470.0,pollen,6/30/2007,1001.0,0.799200799201
-3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior-type,2.0,NISP,pollen,,119099.0,,,Radiocarbon years BP,55.5,470.0,pollen,6/30/2007,862.0,0.232018561485
-3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior-type,6.0,NISP,pollen,,121928.0,,,Radiocarbon years BP,56.5,470.0,pollen,6/30/2007,426.0,1.40845070423
-3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior-type,5.0,NISP,pollen,,124757.0,,,Radiocarbon years BP,57.5,470.0,pollen,6/30/2007,361.0,1.38504155125
-3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior-type,2.0,NISP,pollen,,151848.0,,,Radiocarbon years BP,65.5,470.0,pollen,6/30/2007,310.0,0.645161290323
-3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior-type,1.0,NISP,pollen,,165909.0,,,Radiocarbon years BP,69.5,470.0,pollen,6/30/2007,416.0,0.240384615385
-3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior-type,1.0,NISP,pollen,,208091.0,,,Radiocarbon years BP,81.5,470.0,pollen,6/30/2007,352.0,0.284090909091
-3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior-type,1.0,NISP,pollen,,211606.0,,,Radiocarbon years BP,82.5,470.0,pollen,6/30/2007,311.0,0.32154340836
-3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior-type,1.0,NISP,pollen,,218636.0,,,Radiocarbon years BP,84.5,470.0,pollen,6/30/2007,377.0,0.26525198939
-3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior-type,1.0,NISP,pollen,,220394.0,,,Radiocarbon years BP,85.0,470.0,pollen,6/30/2007,370.0,0.27027027027
-3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior-type,1.0,NISP,pollen,,223909.0,,,Radiocarbon years BP,86.0,470.0,pollen,6/30/2007,408.0,0.245098039216
-3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior-type,1.0,NISP,pollen,,225667.0,,,Radiocarbon years BP,86.5,470.0,pollen,6/30/2007,357.0,0.280112044818
-3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior-type,2.0,NISP,pollen,,229182.0,,,Radiocarbon years BP,87.5,470.0,pollen,6/30/2007,370.0,0.540540540541
-3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior-type,4.0,NISP,pollen,,230939.0,,,Radiocarbon years BP,88.0,470.0,pollen,6/30/2007,484.0,0.826446280992
-3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior-type,2.0,NISP,pollen,,232697.0,,,Radiocarbon years BP,88.5,470.0,pollen,6/30/2007,510.0,0.392156862745
-3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior-type,4.0,NISP,pollen,,234455.0,,,Radiocarbon years BP,89.0,470.0,pollen,6/30/2007,412.0,0.970873786408
-3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior-type,1.0,NISP,pollen,,249608.0,,,Radiocarbon years BP,94.5,470.0,pollen,6/30/2007,340.0,0.294117647059
-3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior-type,1.0,NISP,pollen,,253294.0,,,Radiocarbon years BP,96.5,470.0,pollen,6/30/2007,371.0,0.269541778976
-3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior-type,2.0,NISP,pollen,,258824.0,,,Radiocarbon years BP,99.5,470.0,pollen,6/30/2007,368.0,0.54347826087
-3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior-type,1.0,NISP,pollen,,282784.0,,,Radiocarbon years BP,112.5,470.0,pollen,6/30/2007,396.0,0.252525252525
-3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior-type,1.0,NISP,pollen,,286471.0,,,Radiocarbon years BP,114.5,470.0,pollen,6/30/2007,446.0,0.224215246637
-3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior-type,2.0,NISP,pollen,,304902.0,,,Radiocarbon years BP,124.5,470.0,pollen,6/30/2007,950.0,0.210526315789
-3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior-type,2.0,NISP,pollen,,308588.0,,,Radiocarbon years BP,126.5,470.0,pollen,6/30/2007,402.0,0.497512437811
-3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior-type,1.0,NISP,pollen,,312275.0,,,Radiocarbon years BP,128.5,470.0,pollen,6/30/2007,428.0,0.233644859813
-3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior-type,1.0,NISP,pollen,,314118.0,,,Radiocarbon years BP,129.5,470.0,pollen,6/30/2007,518.0,0.19305019305
-3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior-type,2.0,NISP,pollen,,319647.0,,,Radiocarbon years BP,132.5,470.0,pollen,6/30/2007,521.0,0.383877159309
-3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior-type,1.0,NISP,pollen,,330706.0,,,Radiocarbon years BP,138.5,470.0,pollen,6/30/2007,462.0,0.21645021645
-3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior-type,1.0,NISP,pollen,,332549.0,,,Radiocarbon years BP,139.5,470.0,pollen,6/30/2007,563.0,0.177619893428
-3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior-type,1.0,NISP,pollen,,345462.0,,,Radiocarbon years BP,144.5,470.0,pollen,6/30/2007,376.0,0.265957446809
-3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior-type,2.0,NISP,pollen,,349769.0,,,Radiocarbon years BP,145.5,470.0,pollen,6/30/2007,692.0,0.28901734104
-3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior-type,2.0,NISP,pollen,,354077.0,,,Radiocarbon years BP,146.5,470.0,pollen,6/30/2007,426.0,0.469483568075
-3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior-type,1.0,NISP,pollen,,379923.0,,,Radiocarbon years BP,152.5,470.0,pollen,6/30/2007,384.0,0.260416666667
-3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior-type,1.0,NISP,pollen,,388538.0,,,Radiocarbon years BP,154.5,470.0,pollen,6/30/2007,495.0,0.20202020202
-3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior-type,1.0,NISP,pollen,,392846.0,,,Radiocarbon years BP,155.5,470.0,pollen,6/30/2007,349.0,0.286532951289
-3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior-type,1.0,NISP,pollen,,397154.0,,,Radiocarbon years BP,156.5,470.0,pollen,6/30/2007,429.0,0.2331002331
-3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior-type,2.0,NISP,pollen,,401462.0,,,Radiocarbon years BP,157.5,470.0,pollen,6/30/2007,459.0,0.435729847495
-3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior-type,1.0,NISP,pollen,,403615.0,,,Radiocarbon years BP,158.0,470.0,pollen,6/30/2007,353.0,0.28328611898
-3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior-type,3.0,NISP,pollen,,407923.0,,,Radiocarbon years BP,159.0,470.0,pollen,6/30/2007,324.0,0.925925925926
-3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior-type,2.0,NISP,pollen,,412231.0,,,Radiocarbon years BP,160.0,470.0,pollen,6/30/2007,408.0,0.490196078431
-3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior-type,1.0,NISP,pollen,,414385.0,,,Radiocarbon years BP,160.5,470.0,pollen,6/30/2007,801.0,0.124843945069
-3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior-type,2.0,NISP,pollen,,418692.0,,,Radiocarbon years BP,161.5,470.0,pollen,6/30/2007,431.0,0.46403712297
-3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior-type,5.0,NISP,pollen,,420846.0,,,Radiocarbon years BP,162.0,470.0,pollen,6/30/2007,485.0,1.03092783505
-3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior-type,7.0,NISP,pollen,,423000.0,,,Radiocarbon years BP,162.5,470.0,pollen,6/30/2007,380.0,1.84210526316
-3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior-type,2.0,NISP,pollen,,425154.0,,,Radiocarbon years BP,163.0,470.0,pollen,6/30/2007,312.0,0.641025641026
-3224,Laguna de la Roya,42.216667,-6.766667,42.216667,42.216667,-6.766667,-6.766667,Vascular plants,Fraxinus excelsior-type,1.0,NISP,pollen,,239.0,,,Radiocarbon years BP,16.0,1608.0,pollen,6/30/2007,334.0,0.299401197605
-3224,Laguna de la Roya,42.216667,-6.766667,42.216667,42.216667,-6.766667,-6.766667,Vascular plants,Fraxinus excelsior-type,1.0,NISP,pollen,,1206.0,,,Radiocarbon years BP,88.0,1608.0,pollen,6/30/2007,364.0,0.274725274725
-3224,Laguna de la Roya,42.216667,-6.766667,42.216667,42.216667,-6.766667,-6.766667,Vascular plants,Fraxinus excelsior-type,3.0,NISP,pollen,,1260.0,,,Radiocarbon years BP,92.0,1608.0,pollen,6/30/2007,406.0,0.738916256158
-3224,Laguna de la Roya,42.216667,-6.766667,42.216667,42.216667,-6.766667,-6.766667,Vascular plants,Fraxinus excelsior-type,2.0,NISP,pollen,,1421.0,,,Radiocarbon years BP,104.0,1608.0,pollen,6/30/2007,392.0,0.510204081633
-3224,Laguna de la Roya,42.216667,-6.766667,42.216667,42.216667,-6.766667,-6.766667,Vascular plants,Fraxinus excelsior-type,1.0,NISP,pollen,,1636.0,,,Radiocarbon years BP,120.0,1608.0,pollen,6/30/2007,375.0,0.266666666667
-3224,Laguna de la Roya,42.216667,-6.766667,42.216667,42.216667,-6.766667,-6.766667,Vascular plants,Fraxinus excelsior-type,3.0,NISP,pollen,,1873.0,,,Radiocarbon years BP,136.0,1608.0,pollen,6/30/2007,345.0,0.869565217391
-3224,Laguna de la Roya,42.216667,-6.766667,42.216667,42.216667,-6.766667,-6.766667,Vascular plants,Fraxinus excelsior-type,2.0,NISP,pollen,,1995.0,,,Radiocarbon years BP,144.0,1608.0,pollen,6/30/2007,372.0,0.537634408602
-3224,Laguna de la Roya,42.216667,-6.766667,42.216667,42.216667,-6.766667,-6.766667,Vascular plants,Fraxinus excelsior-type,5.0,NISP,pollen,,2238.0,,,Radiocarbon years BP,160.0,1608.0,pollen,6/30/2007,393.0,1.27226463104
-3224,Laguna de la Roya,42.216667,-6.766667,42.216667,42.216667,-6.766667,-6.766667,Vascular plants,Fraxinus excelsior-type,1.0,NISP,pollen,,2482.0,,,Radiocarbon years BP,176.0,1608.0,pollen,6/30/2007,344.0,0.290697674419
-3224,Laguna de la Roya,42.216667,-6.766667,42.216667,42.216667,-6.766667,-6.766667,Vascular plants,Fraxinus excelsior-type,2.0,NISP,pollen,,2726.0,,,Radiocarbon years BP,192.0,1608.0,pollen,6/30/2007,361.0,0.554016620499
-3224,Laguna de la Roya,42.216667,-6.766667,42.216667,42.216667,-6.766667,-6.766667,Vascular plants,Fraxinus excelsior-type,2.0,NISP,pollen,,2848.0,,,Radiocarbon years BP,200.0,1608.0,pollen,6/30/2007,389.0,0.514138817481
-3224,Laguna de la Roya,42.216667,-6.766667,42.216667,42.216667,-6.766667,-6.766667,Vascular plants,Fraxinus excelsior-type,2.0,NISP,pollen,,2969.0,,,Radiocarbon years BP,208.0,1608.0,pollen,6/30/2007,353.0,0.56657223796
-3224,Laguna de la Roya,42.216667,-6.766667,42.216667,42.216667,-6.766667,-6.766667,Vascular plants,Fraxinus excelsior-type,1.0,NISP,pollen,,3457.0,,,Radiocarbon years BP,240.0,1608.0,pollen,6/30/2007,374.0,0.267379679144
-3224,Laguna de la Roya,42.216667,-6.766667,42.216667,42.216667,-6.766667,-6.766667,Vascular plants,Fraxinus excelsior-type,3.0,NISP,pollen,,3689.0,,,Radiocarbon years BP,256.0,1608.0,pollen,6/30/2007,419.0,0.715990453461
-3224,Laguna de la Roya,42.216667,-6.766667,42.216667,42.216667,-6.766667,-6.766667,Vascular plants,Fraxinus excelsior-type,1.0,NISP,pollen,,4283.0,,,Radiocarbon years BP,320.0,1608.0,pollen,6/30/2007,324.0,0.308641975309
-3224,Laguna de la Roya,42.216667,-6.766667,42.216667,42.216667,-6.766667,-6.766667,Vascular plants,Fraxinus excelsior-type,2.0,NISP,pollen,,4580.0,,,Radiocarbon years BP,352.0,1608.0,pollen,6/30/2007,360.0,0.555555555556
-3224,Laguna de la Roya,42.216667,-6.766667,42.216667,42.216667,-6.766667,-6.766667,Vascular plants,Fraxinus excelsior-type,2.0,NISP,pollen,,4729.0,,,Radiocarbon years BP,368.0,1608.0,pollen,6/30/2007,401.0,0.498753117207
-3224,Laguna de la Roya,42.216667,-6.766667,42.216667,42.216667,-6.766667,-6.766667,Vascular plants,Fraxinus excelsior-type,1.0,NISP,pollen,,4877.0,,,Radiocarbon years BP,384.0,1608.0,pollen,6/30/2007,379.0,0.263852242744
-3224,Laguna de la Roya,42.216667,-6.766667,42.216667,42.216667,-6.766667,-6.766667,Vascular plants,Fraxinus excelsior-type,1.0,NISP,pollen,,5026.0,,,Radiocarbon years BP,400.0,1608.0,pollen,6/30/2007,353.0,0.28328611898
-3224,Laguna de la Roya,42.216667,-6.766667,42.216667,42.216667,-6.766667,-6.766667,Vascular plants,Fraxinus excelsior-type,1.0,NISP,pollen,,5174.0,,,Radiocarbon years BP,416.0,1608.0,pollen,6/30/2007,445.0,0.224719101124
-3224,Laguna de la Roya,42.216667,-6.766667,42.216667,42.216667,-6.766667,-6.766667,Vascular plants,Fraxinus excelsior-type,1.0,NISP,pollen,,5412.0,,,Radiocarbon years BP,432.0,1608.0,pollen,6/30/2007,395.0,0.253164556962
-3224,Laguna de la Roya,42.216667,-6.766667,42.216667,42.216667,-6.766667,-6.766667,Vascular plants,Fraxinus excelsior-type,4.0,NISP,pollen,,5703.0,,,Radiocarbon years BP,448.0,1608.0,pollen,6/30/2007,357.0,1.12044817927
-3224,Laguna de la Roya,42.216667,-6.766667,42.216667,42.216667,-6.766667,-6.766667,Vascular plants,Fraxinus excelsior-type,2.0,NISP,pollen,,6286.0,,,Radiocarbon years BP,480.0,1608.0,pollen,6/30/2007,347.0,0.576368876081
-3224,Laguna de la Roya,42.216667,-6.766667,42.216667,42.216667,-6.766667,-6.766667,Vascular plants,Fraxinus excelsior-type,1.0,NISP,pollen,,6431.0,,,Radiocarbon years BP,488.0,1608.0,pollen,6/30/2007,466.0,0.214592274678
-3224,Laguna de la Roya,42.216667,-6.766667,42.216667,42.216667,-6.766667,-6.766667,Vascular plants,Fraxinus excelsior-type,3.0,NISP,pollen,,6577.0,,,Radiocarbon years BP,496.0,1608.0,pollen,6/30/2007,374.0,0.802139037433
-3224,Laguna de la Roya,42.216667,-6.766667,42.216667,42.216667,-6.766667,-6.766667,Vascular plants,Fraxinus excelsior-type,1.0,NISP,pollen,,6868.0,,,Radiocarbon years BP,512.0,1608.0,pollen,6/30/2007,468.0,0.213675213675
-3224,Laguna de la Roya,42.216667,-6.766667,42.216667,42.216667,-6.766667,-6.766667,Vascular plants,Fraxinus excelsior-type,3.0,NISP,pollen,,7742.0,,,Radiocarbon years BP,560.0,1608.0,pollen,6/30/2007,489.0,0.613496932515
-3224,Laguna de la Roya,42.216667,-6.766667,42.216667,42.216667,-6.766667,-6.766667,Vascular plants,Fraxinus excelsior-type,2.0,NISP,pollen,,8033.0,,,Radiocarbon years BP,576.0,1608.0,pollen,6/30/2007,441.0,0.453514739229
-3224,Laguna de la Roya,42.216667,-6.766667,42.216667,42.216667,-6.766667,-6.766667,Vascular plants,Fraxinus excelsior-type,2.0,NISP,pollen,,8543.0,,,Radiocarbon years BP,604.0,1608.0,pollen,6/30/2007,364.0,0.549450549451
-3224,Laguna de la Roya,42.216667,-6.766667,42.216667,42.216667,-6.766667,-6.766667,Vascular plants,Fraxinus excelsior-type,3.0,NISP,pollen,,8907.0,,,Radiocarbon years BP,624.0,1608.0,pollen,6/30/2007,346.0,0.867052023121
-3224,Laguna de la Roya,42.216667,-6.766667,42.216667,42.216667,-6.766667,-6.766667,Vascular plants,Fraxinus excelsior-type,2.0,NISP,pollen,,9198.0,,,Radiocarbon years BP,640.0,1608.0,pollen,6/30/2007,361.0,0.554016620499
-3224,Laguna de la Roya,42.216667,-6.766667,42.216667,42.216667,-6.766667,-6.766667,Vascular plants,Fraxinus excelsior-type,1.0,NISP,pollen,,9489.0,,,Radiocarbon years BP,656.0,1608.0,pollen,6/30/2007,488.0,0.204918032787
-3224,Laguna de la Roya,42.216667,-6.766667,42.216667,42.216667,-6.766667,-6.766667,Vascular plants,Fraxinus excelsior-type,2.0,NISP,pollen,,9926.0,,,Radiocarbon years BP,680.0,1608.0,pollen,6/30/2007,456.0,0.438596491228
-3276,Lago di Martignano,42.116667,12.333333,42.116667,42.116667,12.333333,12.333333,Vascular plants,Fraxinus excelsior-type,2.0,NISP,pollen,,1368.0,,,Radiocarbon years BP,13.0,,pollen,6/30/2007,330.0,0.606060606061
-3276,Lago di Martignano,42.116667,12.333333,42.116667,42.116667,12.333333,12.333333,Vascular plants,Fraxinus excelsior-type,2.0,NISP,pollen,,2118.0,,,Radiocarbon years BP,29.0,,pollen,6/30/2007,338.0,0.591715976331
-3276,Lago di Martignano,42.116667,12.333333,42.116667,42.116667,12.333333,12.333333,Vascular plants,Fraxinus excelsior-type,1.0,NISP,pollen,,3396.0,,,Radiocarbon years BP,69.0,,pollen,6/30/2007,318.0,0.314465408805
-3276,Lago di Martignano,42.116667,12.333333,42.116667,42.116667,12.333333,12.333333,Vascular plants,Fraxinus excelsior-type,2.0,NISP,pollen,,4695.0,,,Radiocarbon years BP,125.0,,pollen,6/30/2007,346.0,0.578034682081
-3276,Lago di Martignano,42.116667,12.333333,42.116667,42.116667,12.333333,12.333333,Vascular plants,Fraxinus excelsior-type,2.0,NISP,pollen,,5013.0,,,Radiocarbon years BP,141.0,,pollen,6/30/2007,339.0,0.589970501475
-3276,Lago di Martignano,42.116667,12.333333,42.116667,42.116667,12.333333,12.333333,Vascular plants,Fraxinus excelsior-type,3.0,NISP,pollen,,5604.0,,,Radiocarbon years BP,173.0,,pollen,6/30/2007,322.0,0.931677018634
-3276,Lago di Martignano,42.116667,12.333333,42.116667,42.116667,12.333333,12.333333,Vascular plants,Fraxinus excelsior-type,3.0,NISP,pollen,,6147.0,,,Radiocarbon years BP,205.0,,pollen,6/30/2007,316.0,0.949367088608
-3276,Lago di Martignano,42.116667,12.333333,42.116667,42.116667,12.333333,12.333333,Vascular plants,Fraxinus excelsior-type,1.0,NISP,pollen,,6276.0,,,Radiocarbon years BP,213.0,,pollen,6/30/2007,324.0,0.308641975309
-3276,Lago di Martignano,42.116667,12.333333,42.116667,42.116667,12.333333,12.333333,Vascular plants,Fraxinus excelsior-type,1.0,NISP,pollen,,6404.0,,,Radiocarbon years BP,221.0,,pollen,6/30/2007,324.0,0.308641975309
-3276,Lago di Martignano,42.116667,12.333333,42.116667,42.116667,12.333333,12.333333,Vascular plants,Fraxinus excelsior-type,1.0,NISP,pollen,,6606.0,,,Radiocarbon years BP,234.0,,pollen,6/30/2007,368.0,0.271739130435
-3276,Lago di Martignano,42.116667,12.333333,42.116667,42.116667,12.333333,12.333333,Vascular plants,Fraxinus excelsior-type,3.0,NISP,pollen,,7011.0,,,Radiocarbon years BP,261.0,,pollen,6/30/2007,324.0,0.925925925926
-3276,Lago di Martignano,42.116667,12.333333,42.116667,42.116667,12.333333,12.333333,Vascular plants,Fraxinus excelsior-type,4.0,NISP,pollen,,7128.0,,,Radiocarbon years BP,269.0,,pollen,6/30/2007,360.0,1.11111111111
-3276,Lago di Martignano,42.116667,12.333333,42.116667,42.116667,12.333333,12.333333,Vascular plants,Fraxinus excelsior-type,2.0,NISP,pollen,,7578.0,,,Radiocarbon years BP,301.0,,pollen,6/30/2007,317.0,0.630914826498
-3276,Lago di Martignano,42.116667,12.333333,42.116667,42.116667,12.333333,12.333333,Vascular plants,Fraxinus excelsior-type,1.0,NISP,pollen,,7901.0,,,Radiocarbon years BP,325.0,,pollen,6/30/2007,326.0,0.306748466258
-3276,Lago di Martignano,42.116667,12.333333,42.116667,42.116667,12.333333,12.333333,Vascular plants,Fraxinus excelsior-type,2.0,NISP,pollen,,8690.0,,,Radiocarbon years BP,387.0,,pollen,6/30/2007,651.0,0.307219662058
-3276,Lago di Martignano,42.116667,12.333333,42.116667,42.116667,12.333333,12.333333,Vascular plants,Fraxinus excelsior-type,4.0,NISP,pollen,,9074.0,,,Radiocarbon years BP,419.0,,pollen,6/30/2007,311.0,1.28617363344
-3276,Lago di Martignano,42.116667,12.333333,42.116667,42.116667,12.333333,12.333333,Vascular plants,Fraxinus excelsior-type,3.0,NISP,pollen,,10823.0,,,Radiocarbon years BP,579.0,,pollen,6/30/2007,307.0,0.977198697068
-3276,Lago di Martignano,42.116667,12.333333,42.116667,42.116667,12.333333,12.333333,Vascular plants,Fraxinus excelsior-type,2.0,NISP,pollen,,11224.0,,,Radiocarbon years BP,619.0,,pollen,6/30/2007,378.0,0.529100529101
-3276,Lago di Martignano,42.116667,12.333333,42.116667,42.116667,12.333333,12.333333,Vascular plants,Fraxinus excelsior-type,1.0,NISP,pollen,,11303.0,,,Radiocarbon years BP,627.0,,pollen,6/30/2007,301.0,0.332225913621
-3276,Lago di Martignano,42.116667,12.333333,42.116667,42.116667,12.333333,12.333333,Vascular plants,Fraxinus excelsior-type,2.0,NISP,pollen,,11459.0,,,Radiocarbon years BP,643.0,,pollen,6/30/2007,295.0,0.677966101695
-3276,Lago di Martignano,42.116667,12.333333,42.116667,42.116667,12.333333,12.333333,Vascular plants,Fraxinus excelsior-type,4.0,NISP,pollen,,11537.0,,,Radiocarbon years BP,651.0,,pollen,6/30/2007,314.0,1.27388535032
-3276,Lago di Martignano,42.116667,12.333333,42.116667,42.116667,12.333333,12.333333,Vascular plants,Fraxinus excelsior-type,3.0,NISP,pollen,,11614.0,,,Radiocarbon years BP,659.0,,pollen,6/30/2007,206.0,1.45631067961
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Fraxinus excelsior,1,NISP,pollen,,405,,,Radiocarbon years BP,30,350,pollen,6/30/2007,656,0.152439024
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Fraxinus excelsior,5,NISP,pollen,,687,,,Radiocarbon years BP,50,350,pollen,6/30/2007,1209,0.41356493
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Fraxinus excelsior,1,NISP,pollen,,2292,,,Radiocarbon years BP,160,350,pollen,6/30/2007,679,0.147275405
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Fraxinus excelsior,2,NISP,pollen,,2739,,,Radiocarbon years BP,190,350,pollen,6/30/2007,622,0.321543408
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Fraxinus excelsior,1,NISP,pollen,,3941,,,Radiocarbon years BP,270,350,pollen,6/30/2007,791,0.12642225
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Fraxinus excelsior,2,NISP,pollen,,4244,,,Radiocarbon years BP,290,350,pollen,6/30/2007,2154,0.092850511
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Fraxinus excelsior,1,NISP,pollen,,4320,,,Radiocarbon years BP,295,350,pollen,6/30/2007,1315,0.076045627
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Fraxinus excelsior,5,NISP,pollen,,4700,,,Radiocarbon years BP,320,350,pollen,6/30/2007,885,0.564971751
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Fraxinus excelsior,1,NISP,pollen,,4852,,,Radiocarbon years BP,330,350,pollen,6/30/2007,1170,0.085470085
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Fraxinus excelsior,3,NISP,pollen,,5462,,,Radiocarbon years BP,370,350,pollen,6/30/2007,1273,0.235663786
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Fraxinus excelsior,2,NISP,pollen,,5768,,,Radiocarbon years BP,390,350,pollen,6/30/2007,677,0.295420975
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Fraxinus excelsior,2,NISP,pollen,,5998,,,Radiocarbon years BP,405,350,pollen,6/30/2007,377,0.530503979
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Fraxinus excelsior,4,NISP,pollen,,6382,,,Radiocarbon years BP,430,350,pollen,6/30/2007,727,0.550206327
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Fraxinus excelsior,11,NISP,pollen,,6844,,,Radiocarbon years BP,460,350,pollen,6/30/2007,1406,0.782361309
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Fraxinus excelsior,9,NISP,pollen,,7152,,,Radiocarbon years BP,480,350,pollen,6/30/2007,456,1.973684211
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Fraxinus excelsior,14,NISP,pollen,,7538,,,Radiocarbon years BP,505,350,pollen,6/30/2007,2428,0.57660626
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Fraxinus excelsior,2,NISP,pollen,,7925,,,Radiocarbon years BP,530,350,pollen,6/30/2007,540,0.37037037
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Fraxinus excelsior,1,NISP,pollen,,8080,,,Radiocarbon years BP,540,350,pollen,6/30/2007,502,0.199203187
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Fraxinus excelsior,3,NISP,pollen,,8390,,,Radiocarbon years BP,560,350,pollen,6/30/2007,269,1.115241636
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Fraxinus excelsior,3,NISP,pollen,,8701,,,Radiocarbon years BP,580,350,pollen,6/30/2007,554,0.541516245
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Fraxinus excelsior,1,NISP,pollen,,9090,,,Radiocarbon years BP,605,350,pollen,6/30/2007,671,0.149031297
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Fraxinus excelsior,2,NISP,pollen,,9323,,,Radiocarbon years BP,620,350,pollen,6/30/2007,365,0.547945205
+765,Edessa,40.818056,21.9525,40.818056,40.818056,21.9525,21.9525,Vascular plants,Fraxinus excelsior,1,NISP,pollen,,9947,,,Radiocarbon years BP,660,350,pollen,6/30/2007,283,0.35335689
+2960,Black Sea (Southwest 1),42.184167,28.916667,42.184167,42.184167,28.916667,28.916667,Vascular plants,Fraxinus excelsior,1,NISP,pollen,,1366,,,Radiocarbon years BP,10,,pollen,6/30/2007,362,0.276243094
+2960,Black Sea (Southwest 1),42.184167,28.916667,42.184167,42.184167,28.916667,28.916667,Vascular plants,Fraxinus excelsior,2,NISP,pollen,,2102,,,Radiocarbon years BP,20,,pollen,6/30/2007,476,0.420168067
+2960,Black Sea (Southwest 1),42.184167,28.916667,42.184167,42.184167,28.916667,28.916667,Vascular plants,Fraxinus excelsior,1,NISP,pollen,,3574,,,Radiocarbon years BP,40,,pollen,6/30/2007,465,0.215053763
+2960,Black Sea (Southwest 1),42.184167,28.916667,42.184167,42.184167,28.916667,28.916667,Vascular plants,Fraxinus excelsior,3,NISP,pollen,,4310,,,Radiocarbon years BP,50,,pollen,6/30/2007,680,0.441176471
+2960,Black Sea (Southwest 1),42.184167,28.916667,42.184167,42.184167,28.916667,28.916667,Vascular plants,Fraxinus excelsior,10,NISP,pollen,,5046,,,Radiocarbon years BP,60,,pollen,6/30/2007,546,1.831501832
+2960,Black Sea (Southwest 1),42.184167,28.916667,42.184167,42.184167,28.916667,28.916667,Vascular plants,Fraxinus excelsior,3,NISP,pollen,,5414,,,Radiocarbon years BP,65,,pollen,6/30/2007,548,0.547445255
+2995,Balikh,36.516667,39.083333,36.516667,36.516667,39.083333,39.083333,Vascular plants,Fraxinus excelsior,1,NISP,pollen,,,,,,80,,pollen,6/30/2007,989,0.101112235
+3012,Besbog,41.75,23.666667,41.75,41.75,23.666667,23.666667,Vascular plants,Fraxinus excelsior,1,NISP,pollen,,1904,,,Radiocarbon years BP,55,2240,pollen,6/30/2007,568,0.176056338
+3012,Besbog,41.75,23.666667,41.75,41.75,23.666667,23.666667,Vascular plants,Fraxinus excelsior,1,NISP,pollen,,3157,,,Radiocarbon years BP,75,2240,pollen,6/30/2007,584,0.171232877
+3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Fraxinus excelsior,1,NISP,pollen,,664,,,Radiocarbon years BP,40,,pollen,6/30/2007,1413,0.070771408
+3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Fraxinus excelsior,2,NISP,pollen,,997,,,Radiocarbon years BP,60,,pollen,6/30/2007,1274,0.156985871
+3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Fraxinus excelsior,3,NISP,pollen,,1163,,,Radiocarbon years BP,70,,pollen,6/30/2007,2667,0.112485939
+3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Fraxinus excelsior,1,NISP,pollen,,1661,,,Radiocarbon years BP,100,,pollen,6/30/2007,1729,0.0578369
+3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Fraxinus excelsior,1,NISP,pollen,,1993,,,Radiocarbon years BP,120,,pollen,6/30/2007,2444,0.04091653
+3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Fraxinus excelsior,1,NISP,pollen,,2491,,,Radiocarbon years BP,150,,pollen,6/30/2007,2362,0.042337003
+3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Fraxinus excelsior,1,NISP,pollen,,2657,,,Radiocarbon years BP,160,,pollen,6/30/2007,3543,0.028224668
+3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Fraxinus excelsior,1,NISP,pollen,,2823,,,Radiocarbon years BP,170,,pollen,6/30/2007,1118,0.089445438
+3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Fraxinus excelsior,1,NISP,pollen,,3322,,,Radiocarbon years BP,200,,pollen,6/30/2007,4011,0.024931439
+3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Fraxinus excelsior,1,NISP,pollen,,4152,,,Radiocarbon years BP,250,,pollen,6/30/2007,2306,0.043365134
+3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Fraxinus excelsior,2,NISP,pollen,,4817,,,Radiocarbon years BP,290,,pollen,6/30/2007,724,0.276243094
+3032,Bouara,35.233333,41.183333,35.233333,35.233333,41.183333,41.183333,Vascular plants,Fraxinus excelsior,4,NISP,pollen,,6145,,,Radiocarbon years BP,370,,pollen,6/30/2007,2754,0.145243282
+3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior,1,NISP,pollen,,6114,,,Radiocarbon years BP,10.2,470,pollen,6/30/2007,341,0.293255132
+3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior,2,NISP,pollen,,6743,,,Radiocarbon years BP,11.25,470,pollen,6/30/2007,294,0.680272109
+3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior,1,NISP,pollen,,7792,,,Radiocarbon years BP,13,470,pollen,6/30/2007,346,0.289017341
+3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior,1,NISP,pollen,,8092,,,Radiocarbon years BP,13.5,470,pollen,6/30/2007,350,0.285714286
+3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior,3,NISP,pollen,,9591,,,Radiocarbon years BP,16,470,pollen,6/30/2007,365,0.821917808
+3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior,1,NISP,pollen,,9890,,,Radiocarbon years BP,16.5,470,pollen,6/30/2007,397,0.251889169
+3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior,5,NISP,pollen,,10190,,,Radiocarbon years BP,17,470,pollen,6/30/2007,426,1.17370892
+3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior,2,NISP,pollen,,28577,,,Radiocarbon years BP,23.5,470,pollen,6/30/2007,246,0.81300813
+3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior,1,NISP,pollen,,62523,,,Radiocarbon years BP,35.5,470,pollen,6/30/2007,373,0.268096515
+3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior,1,NISP,pollen,,68181,,,Radiocarbon years BP,37.5,470,pollen,6/30/2007,311,0.321543408
+3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior,1,NISP,pollen,,69595,,,Radiocarbon years BP,38,470,pollen,6/30/2007,304,0.328947368
+3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior,2,NISP,pollen,,76667,,,Radiocarbon years BP,40.5,470,pollen,6/30/2007,412,0.485436893
+3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior,1,NISP,pollen,,82325,,,Radiocarbon years BP,42.5,470,pollen,6/30/2007,312,0.320512821
+3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior,1,NISP,pollen,,85154,,,Radiocarbon years BP,43.5,470,pollen,6/30/2007,358,0.279329609
+3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior,2,NISP,pollen,,86568,,,Radiocarbon years BP,44,470,pollen,6/30/2007,348,0.574712644
+3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior,1,NISP,pollen,,87982,,,Radiocarbon years BP,44.5,470,pollen,6/30/2007,388,0.257731959
+3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior,1,NISP,pollen,,88690,,,Radiocarbon years BP,44.75,470,pollen,6/30/2007,395,0.253164557
+3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior,2,NISP,pollen,,89397,,,Radiocarbon years BP,45,470,pollen,6/30/2007,426,0.469483568
+3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior,1,NISP,pollen,,96469,,,Radiocarbon years BP,47.5,470,pollen,6/30/2007,449,0.222717149
+3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior,1,NISP,pollen,,99298,,,Radiocarbon years BP,48.5,470,pollen,6/30/2007,409,0.244498778
+3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior,4,NISP,pollen,,113442,,,Radiocarbon years BP,53.5,470,pollen,6/30/2007,969,0.412796698
+3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior,1,NISP,pollen,,114856,,,Radiocarbon years BP,54,470,pollen,6/30/2007,853,0.117233294
+3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior,6,NISP,pollen,,116270,,,Radiocarbon years BP,54.5,470,pollen,6/30/2007,942,0.636942675
+3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior,8,NISP,pollen,,117685,,,Radiocarbon years BP,55,470,pollen,6/30/2007,1001,0.799200799
+3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior,2,NISP,pollen,,119099,,,Radiocarbon years BP,55.5,470,pollen,6/30/2007,862,0.232018561
+3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior,6,NISP,pollen,,121928,,,Radiocarbon years BP,56.5,470,pollen,6/30/2007,426,1.408450704
+3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior,5,NISP,pollen,,124757,,,Radiocarbon years BP,57.5,470,pollen,6/30/2007,361,1.385041551
+3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior,2,NISP,pollen,,151848,,,Radiocarbon years BP,65.5,470,pollen,6/30/2007,310,0.64516129
+3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior,1,NISP,pollen,,165909,,,Radiocarbon years BP,69.5,470,pollen,6/30/2007,416,0.240384615
+3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior,1,NISP,pollen,,208091,,,Radiocarbon years BP,81.5,470,pollen,6/30/2007,352,0.284090909
+3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior,1,NISP,pollen,,211606,,,Radiocarbon years BP,82.5,470,pollen,6/30/2007,311,0.321543408
+3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior,1,NISP,pollen,,218636,,,Radiocarbon years BP,84.5,470,pollen,6/30/2007,377,0.265251989
+3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior,1,NISP,pollen,,220394,,,Radiocarbon years BP,85,470,pollen,6/30/2007,370,0.27027027
+3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior,1,NISP,pollen,,223909,,,Radiocarbon years BP,86,470,pollen,6/30/2007,408,0.245098039
+3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior,1,NISP,pollen,,225667,,,Radiocarbon years BP,86.5,470,pollen,6/30/2007,357,0.280112045
+3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior,2,NISP,pollen,,229182,,,Radiocarbon years BP,87.5,470,pollen,6/30/2007,370,0.540540541
+3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior,4,NISP,pollen,,230939,,,Radiocarbon years BP,88,470,pollen,6/30/2007,484,0.826446281
+3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior,2,NISP,pollen,,232697,,,Radiocarbon years BP,88.5,470,pollen,6/30/2007,510,0.392156863
+3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior,4,NISP,pollen,,234455,,,Radiocarbon years BP,89,470,pollen,6/30/2007,412,0.970873786
+3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior,1,NISP,pollen,,249608,,,Radiocarbon years BP,94.5,470,pollen,6/30/2007,340,0.294117647
+3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior,1,NISP,pollen,,253294,,,Radiocarbon years BP,96.5,470,pollen,6/30/2007,371,0.269541779
+3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior,2,NISP,pollen,,258824,,,Radiocarbon years BP,99.5,470,pollen,6/30/2007,368,0.543478261
+3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior,1,NISP,pollen,,282784,,,Radiocarbon years BP,112.5,470,pollen,6/30/2007,396,0.252525253
+3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior,1,NISP,pollen,,286471,,,Radiocarbon years BP,114.5,470,pollen,6/30/2007,446,0.224215247
+3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior,2,NISP,pollen,,304902,,,Radiocarbon years BP,124.5,470,pollen,6/30/2007,950,0.210526316
+3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior,2,NISP,pollen,,308588,,,Radiocarbon years BP,126.5,470,pollen,6/30/2007,402,0.497512438
+3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior,1,NISP,pollen,,312275,,,Radiocarbon years BP,128.5,470,pollen,6/30/2007,428,0.23364486
+3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior,1,NISP,pollen,,314118,,,Radiocarbon years BP,129.5,470,pollen,6/30/2007,518,0.193050193
+3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior,2,NISP,pollen,,319647,,,Radiocarbon years BP,132.5,470,pollen,6/30/2007,521,0.383877159
+3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior,1,NISP,pollen,,330706,,,Radiocarbon years BP,138.5,470,pollen,6/30/2007,462,0.216450216
+3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior,1,NISP,pollen,,332549,,,Radiocarbon years BP,139.5,470,pollen,6/30/2007,563,0.177619893
+3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior,1,NISP,pollen,,345462,,,Radiocarbon years BP,144.5,470,pollen,6/30/2007,376,0.265957447
+3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior,2,NISP,pollen,,349769,,,Radiocarbon years BP,145.5,470,pollen,6/30/2007,692,0.289017341
+3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior,2,NISP,pollen,,354077,,,Radiocarbon years BP,146.5,470,pollen,6/30/2007,426,0.469483568
+3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior,1,NISP,pollen,,379923,,,Radiocarbon years BP,152.5,470,pollen,6/30/2007,384,0.260416667
+3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior,1,NISP,pollen,,388538,,,Radiocarbon years BP,154.5,470,pollen,6/30/2007,495,0.202020202
+3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior,1,NISP,pollen,,392846,,,Radiocarbon years BP,155.5,470,pollen,6/30/2007,349,0.286532951
+3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior,1,NISP,pollen,,397154,,,Radiocarbon years BP,156.5,470,pollen,6/30/2007,429,0.233100233
+3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior,2,NISP,pollen,,401462,,,Radiocarbon years BP,157.5,470,pollen,6/30/2007,459,0.435729847
+3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior,1,NISP,pollen,,403615,,,Radiocarbon years BP,158,470,pollen,6/30/2007,353,0.283286119
+3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior,3,NISP,pollen,,407923,,,Radiocarbon years BP,159,470,pollen,6/30/2007,324,0.925925926
+3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior,2,NISP,pollen,,412231,,,Radiocarbon years BP,160,470,pollen,6/30/2007,408,0.490196078
+3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior,1,NISP,pollen,,414385,,,Radiocarbon years BP,160.5,470,pollen,6/30/2007,801,0.124843945
+3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior,2,NISP,pollen,,418692,,,Radiocarbon years BP,161.5,470,pollen,6/30/2007,431,0.464037123
+3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior,5,NISP,pollen,,420846,,,Radiocarbon years BP,162,470,pollen,6/30/2007,485,1.030927835
+3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior,7,NISP,pollen,,423000,,,Radiocarbon years BP,162.5,470,pollen,6/30/2007,380,1.842105263
+3162,Ioannina,39.65,20.916667,39.65,39.65,20.916667,20.916667,Vascular plants,Fraxinus excelsior,2,NISP,pollen,,425154,,,Radiocarbon years BP,163,470,pollen,6/30/2007,312,0.641025641
+3224,Laguna de la Roya,42.216667,-6.766667,42.216667,42.216667,-6.766667,-6.766667,Vascular plants,Fraxinus excelsior,1,NISP,pollen,,239,,,Radiocarbon years BP,16,1608,pollen,6/30/2007,334,0.299401198
+3224,Laguna de la Roya,42.216667,-6.766667,42.216667,42.216667,-6.766667,-6.766667,Vascular plants,Fraxinus excelsior,1,NISP,pollen,,1206,,,Radiocarbon years BP,88,1608,pollen,6/30/2007,364,0.274725275
+3224,Laguna de la Roya,42.216667,-6.766667,42.216667,42.216667,-6.766667,-6.766667,Vascular plants,Fraxinus excelsior,3,NISP,pollen,,1260,,,Radiocarbon years BP,92,1608,pollen,6/30/2007,406,0.738916256
+3224,Laguna de la Roya,42.216667,-6.766667,42.216667,42.216667,-6.766667,-6.766667,Vascular plants,Fraxinus excelsior,2,NISP,pollen,,1421,,,Radiocarbon years BP,104,1608,pollen,6/30/2007,392,0.510204082
+3224,Laguna de la Roya,42.216667,-6.766667,42.216667,42.216667,-6.766667,-6.766667,Vascular plants,Fraxinus excelsior,1,NISP,pollen,,1636,,,Radiocarbon years BP,120,1608,pollen,6/30/2007,375,0.266666667
+3224,Laguna de la Roya,42.216667,-6.766667,42.216667,42.216667,-6.766667,-6.766667,Vascular plants,Fraxinus excelsior,3,NISP,pollen,,1873,,,Radiocarbon years BP,136,1608,pollen,6/30/2007,345,0.869565217
+3224,Laguna de la Roya,42.216667,-6.766667,42.216667,42.216667,-6.766667,-6.766667,Vascular plants,Fraxinus excelsior,2,NISP,pollen,,1995,,,Radiocarbon years BP,144,1608,pollen,6/30/2007,372,0.537634409
+3224,Laguna de la Roya,42.216667,-6.766667,42.216667,42.216667,-6.766667,-6.766667,Vascular plants,Fraxinus excelsior,5,NISP,pollen,,2238,,,Radiocarbon years BP,160,1608,pollen,6/30/2007,393,1.272264631
+3224,Laguna de la Roya,42.216667,-6.766667,42.216667,42.216667,-6.766667,-6.766667,Vascular plants,Fraxinus excelsior,1,NISP,pollen,,2482,,,Radiocarbon years BP,176,1608,pollen,6/30/2007,344,0.290697674
+3224,Laguna de la Roya,42.216667,-6.766667,42.216667,42.216667,-6.766667,-6.766667,Vascular plants,Fraxinus excelsior,2,NISP,pollen,,2726,,,Radiocarbon years BP,192,1608,pollen,6/30/2007,361,0.55401662
+3224,Laguna de la Roya,42.216667,-6.766667,42.216667,42.216667,-6.766667,-6.766667,Vascular plants,Fraxinus excelsior,2,NISP,pollen,,2848,,,Radiocarbon years BP,200,1608,pollen,6/30/2007,389,0.514138817
+3224,Laguna de la Roya,42.216667,-6.766667,42.216667,42.216667,-6.766667,-6.766667,Vascular plants,Fraxinus excelsior,2,NISP,pollen,,2969,,,Radiocarbon years BP,208,1608,pollen,6/30/2007,353,0.566572238
+3224,Laguna de la Roya,42.216667,-6.766667,42.216667,42.216667,-6.766667,-6.766667,Vascular plants,Fraxinus excelsior,1,NISP,pollen,,3457,,,Radiocarbon years BP,240,1608,pollen,6/30/2007,374,0.267379679
+3224,Laguna de la Roya,42.216667,-6.766667,42.216667,42.216667,-6.766667,-6.766667,Vascular plants,Fraxinus excelsior,3,NISP,pollen,,3689,,,Radiocarbon years BP,256,1608,pollen,6/30/2007,419,0.715990453
+3224,Laguna de la Roya,42.216667,-6.766667,42.216667,42.216667,-6.766667,-6.766667,Vascular plants,Fraxinus excelsior,1,NISP,pollen,,4283,,,Radiocarbon years BP,320,1608,pollen,6/30/2007,324,0.308641975
+3224,Laguna de la Roya,42.216667,-6.766667,42.216667,42.216667,-6.766667,-6.766667,Vascular plants,Fraxinus excelsior,2,NISP,pollen,,4580,,,Radiocarbon years BP,352,1608,pollen,6/30/2007,360,0.555555556
+3224,Laguna de la Roya,42.216667,-6.766667,42.216667,42.216667,-6.766667,-6.766667,Vascular plants,Fraxinus excelsior,2,NISP,pollen,,4729,,,Radiocarbon years BP,368,1608,pollen,6/30/2007,401,0.498753117
+3224,Laguna de la Roya,42.216667,-6.766667,42.216667,42.216667,-6.766667,-6.766667,Vascular plants,Fraxinus excelsior,1,NISP,pollen,,4877,,,Radiocarbon years BP,384,1608,pollen,6/30/2007,379,0.263852243
+3224,Laguna de la Roya,42.216667,-6.766667,42.216667,42.216667,-6.766667,-6.766667,Vascular plants,Fraxinus excelsior,1,NISP,pollen,,5026,,,Radiocarbon years BP,400,1608,pollen,6/30/2007,353,0.283286119
+3224,Laguna de la Roya,42.216667,-6.766667,42.216667,42.216667,-6.766667,-6.766667,Vascular plants,Fraxinus excelsior,1,NISP,pollen,,5174,,,Radiocarbon years BP,416,1608,pollen,6/30/2007,445,0.224719101
+3224,Laguna de la Roya,42.216667,-6.766667,42.216667,42.216667,-6.766667,-6.766667,Vascular plants,Fraxinus excelsior,1,NISP,pollen,,5412,,,Radiocarbon years BP,432,1608,pollen,6/30/2007,395,0.253164557
+3224,Laguna de la Roya,42.216667,-6.766667,42.216667,42.216667,-6.766667,-6.766667,Vascular plants,Fraxinus excelsior,4,NISP,pollen,,5703,,,Radiocarbon years BP,448,1608,pollen,6/30/2007,357,1.120448179
+3224,Laguna de la Roya,42.216667,-6.766667,42.216667,42.216667,-6.766667,-6.766667,Vascular plants,Fraxinus excelsior,2,NISP,pollen,,6286,,,Radiocarbon years BP,480,1608,pollen,6/30/2007,347,0.576368876
+3224,Laguna de la Roya,42.216667,-6.766667,42.216667,42.216667,-6.766667,-6.766667,Vascular plants,Fraxinus excelsior,1,NISP,pollen,,6431,,,Radiocarbon years BP,488,1608,pollen,6/30/2007,466,0.214592275
+3224,Laguna de la Roya,42.216667,-6.766667,42.216667,42.216667,-6.766667,-6.766667,Vascular plants,Fraxinus excelsior,3,NISP,pollen,,6577,,,Radiocarbon years BP,496,1608,pollen,6/30/2007,374,0.802139037
+3224,Laguna de la Roya,42.216667,-6.766667,42.216667,42.216667,-6.766667,-6.766667,Vascular plants,Fraxinus excelsior,1,NISP,pollen,,6868,,,Radiocarbon years BP,512,1608,pollen,6/30/2007,468,0.213675214
+3224,Laguna de la Roya,42.216667,-6.766667,42.216667,42.216667,-6.766667,-6.766667,Vascular plants,Fraxinus excelsior,3,NISP,pollen,,7742,,,Radiocarbon years BP,560,1608,pollen,6/30/2007,489,0.613496933
+3224,Laguna de la Roya,42.216667,-6.766667,42.216667,42.216667,-6.766667,-6.766667,Vascular plants,Fraxinus excelsior,2,NISP,pollen,,8033,,,Radiocarbon years BP,576,1608,pollen,6/30/2007,441,0.453514739
+3224,Laguna de la Roya,42.216667,-6.766667,42.216667,42.216667,-6.766667,-6.766667,Vascular plants,Fraxinus excelsior,2,NISP,pollen,,8543,,,Radiocarbon years BP,604,1608,pollen,6/30/2007,364,0.549450549
+3224,Laguna de la Roya,42.216667,-6.766667,42.216667,42.216667,-6.766667,-6.766667,Vascular plants,Fraxinus excelsior,3,NISP,pollen,,8907,,,Radiocarbon years BP,624,1608,pollen,6/30/2007,346,0.867052023
+3224,Laguna de la Roya,42.216667,-6.766667,42.216667,42.216667,-6.766667,-6.766667,Vascular plants,Fraxinus excelsior,2,NISP,pollen,,9198,,,Radiocarbon years BP,640,1608,pollen,6/30/2007,361,0.55401662
+3224,Laguna de la Roya,42.216667,-6.766667,42.216667,42.216667,-6.766667,-6.766667,Vascular plants,Fraxinus excelsior,1,NISP,pollen,,9489,,,Radiocarbon years BP,656,1608,pollen,6/30/2007,488,0.204918033
+3224,Laguna de la Roya,42.216667,-6.766667,42.216667,42.216667,-6.766667,-6.766667,Vascular plants,Fraxinus excelsior,2,NISP,pollen,,9926,,,Radiocarbon years BP,680,1608,pollen,6/30/2007,456,0.438596491
+3276,Lago di Martignano,42.116667,12.333333,42.116667,42.116667,12.333333,12.333333,Vascular plants,Fraxinus excelsior,2,NISP,pollen,,1368,,,Radiocarbon years BP,13,,pollen,6/30/2007,330,0.606060606
+3276,Lago di Martignano,42.116667,12.333333,42.116667,42.116667,12.333333,12.333333,Vascular plants,Fraxinus excelsior,2,NISP,pollen,,2118,,,Radiocarbon years BP,29,,pollen,6/30/2007,338,0.591715976
+3276,Lago di Martignano,42.116667,12.333333,42.116667,42.116667,12.333333,12.333333,Vascular plants,Fraxinus excelsior,1,NISP,pollen,,3396,,,Radiocarbon years BP,69,,pollen,6/30/2007,318,0.314465409
+3276,Lago di Martignano,42.116667,12.333333,42.116667,42.116667,12.333333,12.333333,Vascular plants,Fraxinus excelsior,2,NISP,pollen,,4695,,,Radiocarbon years BP,125,,pollen,6/30/2007,346,0.578034682
+3276,Lago di Martignano,42.116667,12.333333,42.116667,42.116667,12.333333,12.333333,Vascular plants,Fraxinus excelsior,2,NISP,pollen,,5013,,,Radiocarbon years BP,141,,pollen,6/30/2007,339,0.589970501
+3276,Lago di Martignano,42.116667,12.333333,42.116667,42.116667,12.333333,12.333333,Vascular plants,Fraxinus excelsior,3,NISP,pollen,,5604,,,Radiocarbon years BP,173,,pollen,6/30/2007,322,0.931677019
+3276,Lago di Martignano,42.116667,12.333333,42.116667,42.116667,12.333333,12.333333,Vascular plants,Fraxinus excelsior,3,NISP,pollen,,6147,,,Radiocarbon years BP,205,,pollen,6/30/2007,316,0.949367089
+3276,Lago di Martignano,42.116667,12.333333,42.116667,42.116667,12.333333,12.333333,Vascular plants,Fraxinus excelsior,1,NISP,pollen,,6276,,,Radiocarbon years BP,213,,pollen,6/30/2007,324,0.308641975
+3276,Lago di Martignano,42.116667,12.333333,42.116667,42.116667,12.333333,12.333333,Vascular plants,Fraxinus excelsior,1,NISP,pollen,,6404,,,Radiocarbon years BP,221,,pollen,6/30/2007,324,0.308641975
+3276,Lago di Martignano,42.116667,12.333333,42.116667,42.116667,12.333333,12.333333,Vascular plants,Fraxinus excelsior,1,NISP,pollen,,6606,,,Radiocarbon years BP,234,,pollen,6/30/2007,368,0.27173913
+3276,Lago di Martignano,42.116667,12.333333,42.116667,42.116667,12.333333,12.333333,Vascular plants,Fraxinus excelsior,3,NISP,pollen,,7011,,,Radiocarbon years BP,261,,pollen,6/30/2007,324,0.925925926
+3276,Lago di Martignano,42.116667,12.333333,42.116667,42.116667,12.333333,12.333333,Vascular plants,Fraxinus excelsior,4,NISP,pollen,,7128,,,Radiocarbon years BP,269,,pollen,6/30/2007,360,1.111111111
+3276,Lago di Martignano,42.116667,12.333333,42.116667,42.116667,12.333333,12.333333,Vascular plants,Fraxinus excelsior,2,NISP,pollen,,7578,,,Radiocarbon years BP,301,,pollen,6/30/2007,317,0.630914826
+3276,Lago di Martignano,42.116667,12.333333,42.116667,42.116667,12.333333,12.333333,Vascular plants,Fraxinus excelsior,1,NISP,pollen,,7901,,,Radiocarbon years BP,325,,pollen,6/30/2007,326,0.306748466
+3276,Lago di Martignano,42.116667,12.333333,42.116667,42.116667,12.333333,12.333333,Vascular plants,Fraxinus excelsior,2,NISP,pollen,,8690,,,Radiocarbon years BP,387,,pollen,6/30/2007,651,0.307219662
+3276,Lago di Martignano,42.116667,12.333333,42.116667,42.116667,12.333333,12.333333,Vascular plants,Fraxinus excelsior,4,NISP,pollen,,9074,,,Radiocarbon years BP,419,,pollen,6/30/2007,311,1.286173633
+3276,Lago di Martignano,42.116667,12.333333,42.116667,42.116667,12.333333,12.333333,Vascular plants,Fraxinus excelsior,3,NISP,pollen,,10823,,,Radiocarbon years BP,579,,pollen,6/30/2007,307,0.977198697
+3276,Lago di Martignano,42.116667,12.333333,42.116667,42.116667,12.333333,12.333333,Vascular plants,Fraxinus excelsior,2,NISP,pollen,,11224,,,Radiocarbon years BP,619,,pollen,6/30/2007,378,0.529100529
+3276,Lago di Martignano,42.116667,12.333333,42.116667,42.116667,12.333333,12.333333,Vascular plants,Fraxinus excelsior,1,NISP,pollen,,11303,,,Radiocarbon years BP,627,,pollen,6/30/2007,301,0.332225914
+3276,Lago di Martignano,42.116667,12.333333,42.116667,42.116667,12.333333,12.333333,Vascular plants,Fraxinus excelsior,2,NISP,pollen,,11459,,,Radiocarbon years BP,643,,pollen,6/30/2007,295,0.677966102
+3276,Lago di Martignano,42.116667,12.333333,42.116667,42.116667,12.333333,12.333333,Vascular plants,Fraxinus excelsior,4,NISP,pollen,,11537,,,Radiocarbon years BP,651,,pollen,6/30/2007,314,1.27388535
+3276,Lago di Martignano,42.116667,12.333333,42.116667,42.116667,12.333333,12.333333,Vascular plants,Fraxinus excelsior,3,NISP,pollen,,11614,,,Radiocarbon years BP,659,,pollen,6/30/2007,206,1.45631068

@@ -1,26 +1,26 @@
 siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
-2965,Abernethy Forest,56.233333,-3.716667,56.233333,56.233333,-3.716667,-3.716667,Vascular plants,Rumex crispus-type,1.0,NISP,pollen,,0.0,,,Radiocarbon years BP,0.0,221.0,pollen,6/30/2007,364.0,0.274725274725
-2965,Abernethy Forest,56.233333,-3.716667,56.233333,56.233333,-3.716667,-3.716667,Vascular plants,Rumex crispus-type,1.0,NISP,pollen,,11631.0,,,Radiocarbon years BP,530.0,221.0,pollen,6/30/2007,577.0,0.173310225303
-3035,Brede Bridge,50.933333,-0.6,50.933333,50.933333,-0.6,-0.6,Vascular plants,Rumex crispus-type,2.0,NISP,pollen,,3300.0,,,Radiocarbon years BP,45.0,190.0,pollen,6/30/2007,1799.0,0.111172873819
-3035,Brede Bridge,50.933333,-0.6,50.933333,50.933333,-0.6,-0.6,Vascular plants,Rumex crispus-type,4.0,NISP,pollen,,3375.0,,,Radiocarbon years BP,64.0,190.0,pollen,6/30/2007,2960.0,0.135135135135
-3035,Brede Bridge,50.933333,-0.6,50.933333,50.933333,-0.6,-0.6,Vascular plants,Rumex crispus-type,1.0,NISP,pollen,,3407.0,,,Radiocarbon years BP,72.0,190.0,pollen,6/30/2007,719.0,0.139082058414
-3035,Brede Bridge,50.933333,-0.6,50.933333,50.933333,-0.6,-0.6,Vascular plants,Rumex crispus-type,2.0,NISP,pollen,,3501.0,,,Radiocarbon years BP,96.0,190.0,pollen,6/30/2007,1022.0,0.195694716243
-3035,Brede Bridge,50.933333,-0.6,50.933333,50.933333,-0.6,-0.6,Vascular plants,Rumex crispus-type,2.0,NISP,pollen,,3596.0,,,Radiocarbon years BP,120.0,190.0,pollen,6/30/2007,570.0,0.350877192982
-3035,Brede Bridge,50.933333,-0.6,50.933333,50.933333,-0.6,-0.6,Vascular plants,Rumex crispus-type,1.0,NISP,pollen,,4162.0,,,Radiocarbon years BP,264.0,190.0,pollen,6/30/2007,743.0,0.134589502019
-3035,Brede Bridge,50.933333,-0.6,50.933333,50.933333,-0.6,-0.6,Vascular plants,Rumex crispus-type,1.0,NISP,pollen,,5248.0,,,Radiocarbon years BP,540.0,190.0,pollen,6/30/2007,1155.0,0.0865800865801
-3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Rumex crispus-type,1.0,NISP,pollen,,,,,,355.0,20.0,pollen,6/30/2007,600.0,0.166666666667
-3125,Lochan coir a' Ghobhainn,57.183333,-6.3,57.183333,57.183333,-6.3,-6.3,Vascular plants,Rumex crispus-type,1.0,NISP,pollen,,8804.0,,,Radiocarbon years BP,320.0,82.0,pollen,6/30/2007,1273.0,0.0785545954438
-3147,Hockham Mere,52.5,0.833333,52.5,52.5,0.833333,0.833333,Vascular plants,Rumex crispus-type,1.0,NISP,pollen,,1625.0,,,Radiocarbon years BP,132.0,33.0,pollen,6/30/2007,2793.0,0.0358037952023
-3147,Hockham Mere,52.5,0.833333,52.5,52.5,0.833333,0.833333,Vascular plants,Rumex crispus-type,1.0,NISP,pollen,,2150.0,,,Radiocarbon years BP,268.0,33.0,pollen,6/30/2007,2203.0,0.0453926463913
-3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Rumex crispus-type,2.0,NISP,pollen,,2295.0,,,Radiocarbon years BP,280.0,175.0,pollen,6/30/2007,2082.0,0.0960614793468
-3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Rumex crispus-type,1.0,NISP,pollen,,2459.0,,,Radiocarbon years BP,300.0,175.0,pollen,6/30/2007,1937.0,0.0516262261229
-3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Rumex crispus-type,1.0,NISP,pollen,,3082.0,,,Radiocarbon years BP,376.0,175.0,pollen,6/30/2007,1982.0,0.050454086781
-3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Rumex crispus-type,2.0,NISP,pollen,,3115.0,,,Radiocarbon years BP,380.0,175.0,pollen,6/30/2007,1768.0,0.113122171946
-3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Rumex crispus-type,1.0,NISP,pollen,,3279.0,,,Radiocarbon years BP,400.0,175.0,pollen,6/30/2007,1613.0,0.0619962802232
-3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Rumex crispus-type,2.0,NISP,pollen,,3402.0,,,Radiocarbon years BP,415.0,175.0,pollen,6/30/2007,1721.0,0.116211504939
-3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Rumex crispus-type,1.0,NISP,pollen,,7462.0,,,Radiocarbon years BP,770.0,175.0,pollen,6/30/2007,1963.0,0.0509424350484
-3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Rumex crispus-type,1.0,NISP,pollen,,11308.0,,,Radiocarbon years BP,1020.0,175.0,pollen,6/30/2007,1437.0,0.0695894224078
-3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Rumex crispus-type,1.0,NISP,pollen,,11462.0,,,Radiocarbon years BP,1030.0,175.0,pollen,6/30/2007,1405.0,0.0711743772242
-3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Rumex crispus-type,1.0,NISP,pollen,,11923.0,,,Radiocarbon years BP,1060.0,175.0,pollen,6/30/2007,848.0,0.117924528302
-3272,Hobbs Lot March,52.583333,0.083333,52.583333,52.583333,0.083333,0.083333,Vascular plants,Rumex crispus-type,1.0,NISP,pollen,,2419.0,,,Radiocarbon years BP,135.0,1.0,pollen,6/30/2007,309.0,0.323624595469
-3296,Morrone Birkwoods,57.0,-3.433333,57.0,57.0,-3.433333,-3.433333,Vascular plants,Rumex crispus-type,1.0,NISP,pollen,,9788.0,,,Radiocarbon years BP,132.0,425.0,pollen,6/30/2007,810.0,0.123456790123
+2965,Abernethy Forest,56.233333,-3.716667,56.233333,56.233333,-3.716667,-3.716667,Vascular plants,Rumex crispus,1,NISP,pollen,,0,,,Radiocarbon years BP,0,221,pollen,6/30/2007,364,0.274725275
+2965,Abernethy Forest,56.233333,-3.716667,56.233333,56.233333,-3.716667,-3.716667,Vascular plants,Rumex crispus,1,NISP,pollen,,11631,,,Radiocarbon years BP,530,221,pollen,6/30/2007,577,0.173310225
+3035,Brede Bridge,50.933333,-0.6,50.933333,50.933333,-0.6,-0.6,Vascular plants,Rumex crispus,2,NISP,pollen,,3300,,,Radiocarbon years BP,45,190,pollen,6/30/2007,1799,0.111172874
+3035,Brede Bridge,50.933333,-0.6,50.933333,50.933333,-0.6,-0.6,Vascular plants,Rumex crispus,4,NISP,pollen,,3375,,,Radiocarbon years BP,64,190,pollen,6/30/2007,2960,0.135135135
+3035,Brede Bridge,50.933333,-0.6,50.933333,50.933333,-0.6,-0.6,Vascular plants,Rumex crispus,1,NISP,pollen,,3407,,,Radiocarbon years BP,72,190,pollen,6/30/2007,719,0.139082058
+3035,Brede Bridge,50.933333,-0.6,50.933333,50.933333,-0.6,-0.6,Vascular plants,Rumex crispus,2,NISP,pollen,,3501,,,Radiocarbon years BP,96,190,pollen,6/30/2007,1022,0.195694716
+3035,Brede Bridge,50.933333,-0.6,50.933333,50.933333,-0.6,-0.6,Vascular plants,Rumex crispus,2,NISP,pollen,,3596,,,Radiocarbon years BP,120,190,pollen,6/30/2007,570,0.350877193
+3035,Brede Bridge,50.933333,-0.6,50.933333,50.933333,-0.6,-0.6,Vascular plants,Rumex crispus,1,NISP,pollen,,4162,,,Radiocarbon years BP,264,190,pollen,6/30/2007,743,0.134589502
+3035,Brede Bridge,50.933333,-0.6,50.933333,50.933333,-0.6,-0.6,Vascular plants,Rumex crispus,1,NISP,pollen,,5248,,,Radiocarbon years BP,540,190,pollen,6/30/2007,1155,0.086580087
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Rumex crispus,1,NISP,pollen,,,,,,355,20,pollen,6/30/2007,600,0.166666667
+3125,Lochan coir a' Ghobhainn,57.183333,-6.3,57.183333,57.183333,-6.3,-6.3,Vascular plants,Rumex crispus,1,NISP,pollen,,8804,,,Radiocarbon years BP,320,82,pollen,6/30/2007,1273,0.078554595
+3147,Hockham Mere,52.5,0.833333,52.5,52.5,0.833333,0.833333,Vascular plants,Rumex crispus,1,NISP,pollen,,1625,,,Radiocarbon years BP,132,33,pollen,6/30/2007,2793,0.035803795
+3147,Hockham Mere,52.5,0.833333,52.5,52.5,0.833333,0.833333,Vascular plants,Rumex crispus,1,NISP,pollen,,2150,,,Radiocarbon years BP,268,33,pollen,6/30/2007,2203,0.045392646
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Rumex crispus,2,NISP,pollen,,2295,,,Radiocarbon years BP,280,175,pollen,6/30/2007,2082,0.096061479
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Rumex crispus,1,NISP,pollen,,2459,,,Radiocarbon years BP,300,175,pollen,6/30/2007,1937,0.051626226
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Rumex crispus,1,NISP,pollen,,3082,,,Radiocarbon years BP,376,175,pollen,6/30/2007,1982,0.050454087
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Rumex crispus,2,NISP,pollen,,3115,,,Radiocarbon years BP,380,175,pollen,6/30/2007,1768,0.113122172
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Rumex crispus,1,NISP,pollen,,3279,,,Radiocarbon years BP,400,175,pollen,6/30/2007,1613,0.06199628
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Rumex crispus,2,NISP,pollen,,3402,,,Radiocarbon years BP,415,175,pollen,6/30/2007,1721,0.116211505
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Rumex crispus,1,NISP,pollen,,7462,,,Radiocarbon years BP,770,175,pollen,6/30/2007,1963,0.050942435
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Rumex crispus,1,NISP,pollen,,11308,,,Radiocarbon years BP,1020,175,pollen,6/30/2007,1437,0.069589422
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Rumex crispus,1,NISP,pollen,,11462,,,Radiocarbon years BP,1030,175,pollen,6/30/2007,1405,0.071174377
+3160,Imbramowice,50.890278,16.580556,50.890278,50.890278,16.580556,16.580556,Vascular plants,Rumex crispus,1,NISP,pollen,,11923,,,Radiocarbon years BP,1060,175,pollen,6/30/2007,848,0.117924528
+3272,Hobbs Lot March,52.583333,0.083333,52.583333,52.583333,0.083333,0.083333,Vascular plants,Rumex crispus,1,NISP,pollen,,2419,,,Radiocarbon years BP,135,1,pollen,6/30/2007,309,0.323624595
+3296,Morrone Birkwoods,57,-3.433333,57,57,-3.433333,-3.433333,Vascular plants,Rumex crispus,1,NISP,pollen,,9788,,,Radiocarbon years BP,132,425,pollen,6/30/2007,810,0.12345679

@@ -1,99 +1,98 @@
 siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
-1399,Kamenicky,49.733333,15.966667,49.733333,49.733333,15.966667,15.966667,Vascular plants,Cerealia undiff.,1.0,NISP,pollen,,1077.0,,,Radiocarbon years BP,2.5,624.0,pollen,6/30/2007,787.0,0.12706480305
-1711,Moon Lake,46.85592,-98.15984,46.86123,46.85061,-98.15463,-98.16505,Vascular plants,Cerealia undiff.,2.0,NISP,pollen,,25.0,,,Radiocarbon years BP,1324.0,444.0,pollen,6/30/2007,627.5,0.318725099602
-1711,Moon Lake,46.85592,-98.15984,46.86123,46.85061,-98.15463,-98.16505,Vascular plants,Cerealia undiff.,1.0,NISP,pollen,,34.0,,,Radiocarbon years BP,1328.0,444.0,pollen,6/30/2007,419.5,0.238379022646
-1711,Moon Lake,46.85592,-98.15984,46.86123,46.85061,-98.15463,-98.16505,Vascular plants,Cerealia undiff.,1.0,NISP,pollen,,51.0,,,Radiocarbon years BP,1336.0,444.0,pollen,6/30/2007,564.0,0.177304964539
-1711,Moon Lake,46.85592,-98.15984,46.86123,46.85061,-98.15463,-98.16505,Vascular plants,Cerealia undiff.,1.0,NISP,pollen,,5500.0,,,Radiocarbon years BP,1896.0,444.0,pollen,6/30/2007,484.0,0.206611570248
-1711,Moon Lake,46.85592,-98.15984,46.86123,46.85061,-98.15463,-98.16505,Vascular plants,Cerealia undiff.,1.0,NISP,pollen,,6087.0,,,Radiocarbon years BP,1961.7,444.0,pollen,6/30/2007,564.5,0.177147918512
-1725,Muscotah Marsh,39.53,-95.513333,39.53,39.53,-95.513333,-95.513333,Vascular plants,Cerealia undiff.,1.0,NISP,pollen,,70.0,,,Radiocarbon years BP,28.0,280.0,pollen,6/30/2007,720.0,0.138888888889
-1725,Muscotah Marsh,39.53,-95.513333,39.53,39.53,-95.513333,-95.513333,Vascular plants,Cerealia undiff.,1.0,NISP,pollen,,83.0,,,Radiocarbon years BP,33.0,280.0,pollen,6/30/2007,401.0,0.249376558603
-1725,Muscotah Marsh,39.53,-95.513333,39.53,39.53,-95.513333,-95.513333,Vascular plants,Cerealia undiff.,2.0,NISP,pollen,,95.0,,,Radiocarbon years BP,38.0,280.0,pollen,6/30/2007,1000.0,0.2
-1725,Muscotah Marsh,39.53,-95.513333,39.53,39.53,-95.513333,-95.513333,Vascular plants,Cerealia undiff.,1.0,NISP,pollen,,736.0,,,Radiocarbon years BP,83.0,280.0,pollen,6/30/2007,511.0,0.195694716243
-2851,Wentzel's Pond,46.95,-94.95,46.95,46.95,-94.95,-94.95,Vascular plants,Cerealia undiff.,2.0,NISP,pollen,,98.0,,,Radiocarbon years BP,35.0,435.0,pollen,6/30/2007,245.0,0.816326530612
-2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Cerealia undiff.,15.0,NISP,pollen,,386.0,,,Radiocarbon years BP,15.0,1.0,pollen,6/30/2007,297.0,5.05050505051
-2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Cerealia undiff.,14.0,NISP,pollen,,514.0,,,Radiocarbon years BP,20.0,1.0,pollen,6/30/2007,260.0,5.38461538462
-2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Cerealia undiff.,2.0,NISP,pollen,,643.0,,,Radiocarbon years BP,25.0,1.0,pollen,6/30/2007,133.0,1.5037593985
-2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Cerealia undiff.,4.0,NISP,pollen,,771.0,,,Radiocarbon years BP,30.0,1.0,pollen,6/30/2007,324.0,1.23456790123
-2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Cerealia undiff.,3.0,NISP,pollen,,900.0,,,Radiocarbon years BP,35.0,1.0,pollen,6/30/2007,449.0,0.668151447661
-2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Cerealia undiff.,1.0,NISP,pollen,,1028.0,,,Radiocarbon years BP,40.0,1.0,pollen,6/30/2007,384.0,0.260416666667
-2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Cerealia undiff.,3.0,NISP,pollen,,1157.0,,,Radiocarbon years BP,45.0,1.0,pollen,6/30/2007,326.0,0.920245398773
-2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Cerealia undiff.,2.0,NISP,pollen,,1285.0,,,Radiocarbon years BP,50.0,1.0,pollen,6/30/2007,319.0,0.626959247649
-2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Cerealia undiff.,6.0,NISP,pollen,,1414.0,,,Radiocarbon years BP,55.0,1.0,pollen,6/30/2007,295.0,2.03389830508
-2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Cerealia undiff.,3.0,NISP,pollen,,1542.0,,,Radiocarbon years BP,60.0,1.0,pollen,6/30/2007,295.0,1.01694915254
-2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Cerealia undiff.,3.0,NISP,pollen,,1671.0,,,Radiocarbon years BP,65.0,1.0,pollen,6/30/2007,359.0,0.8356545961
-2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Cerealia undiff.,4.0,NISP,pollen,,1799.0,,,Radiocarbon years BP,70.0,1.0,pollen,6/30/2007,339.0,1.17994100295
-2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Cerealia undiff.,4.0,NISP,pollen,,1928.0,,,Radiocarbon years BP,75.0,1.0,pollen,6/30/2007,334.0,1.19760479042
-2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Cerealia undiff.,2.0,NISP,pollen,,2056.0,,,Radiocarbon years BP,80.0,1.0,pollen,6/30/2007,310.0,0.645161290323
-2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Cerealia undiff.,1.0,NISP,pollen,,2185.0,,,Radiocarbon years BP,85.0,1.0,pollen,6/30/2007,292.0,0.342465753425
-2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Cerealia undiff.,1.0,NISP,pollen,,2313.0,,,Radiocarbon years BP,90.0,1.0,pollen,6/30/2007,285.0,0.350877192982
-2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Cerealia undiff.,2.0,NISP,pollen,,2570.0,,,Radiocarbon years BP,100.0,1.0,pollen,6/30/2007,305.0,0.655737704918
-2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Cerealia undiff.,2.0,NISP,pollen,,2655.0,,,Radiocarbon years BP,105.0,1.0,pollen,6/30/2007,310.0,0.645161290323
-2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Cerealia undiff.,1.0,NISP,pollen,,2824.0,,,Radiocarbon years BP,115.0,1.0,pollen,6/30/2007,316.0,0.316455696203
-2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Cerealia undiff.,2.0,NISP,pollen,,3162.0,,,Radiocarbon years BP,135.0,1.0,pollen,6/30/2007,311.0,0.64308681672
-2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Cerealia undiff.,1.0,NISP,pollen,,3246.0,,,Radiocarbon years BP,140.0,1.0,pollen,6/30/2007,205.0,0.487804878049
-2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Cerealia undiff.,1.0,NISP,pollen,,3331.0,,,Radiocarbon years BP,145.0,1.0,pollen,6/30/2007,314.0,0.31847133758
-2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Cerealia undiff.,2.0,NISP,pollen,,3415.0,,,Radiocarbon years BP,150.0,1.0,pollen,6/30/2007,315.0,0.634920634921
-2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Cerealia undiff.,2.0,NISP,pollen,,3546.0,,,Radiocarbon years BP,160.0,1.0,pollen,6/30/2007,310.0,0.645161290323
-2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Cerealia undiff.,1.0,NISP,pollen,,3592.0,,,Radiocarbon years BP,165.0,1.0,pollen,6/30/2007,318.0,0.314465408805
-2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Cerealia undiff.,2.0,NISP,pollen,,3638.0,,,Radiocarbon years BP,170.0,1.0,pollen,6/30/2007,307.0,0.651465798046
-2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Cerealia undiff.,2.0,NISP,pollen,,3684.0,,,Radiocarbon years BP,175.0,1.0,pollen,6/30/2007,258.0,0.77519379845
-2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Cerealia undiff.,1.0,NISP,pollen,,3730.0,,,Radiocarbon years BP,180.0,1.0,pollen,6/30/2007,248.0,0.403225806452
-2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Cerealia undiff.,2.0,NISP,pollen,,3776.0,,,Radiocarbon years BP,185.0,1.0,pollen,6/30/2007,330.0,0.606060606061
-2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Cerealia undiff.,2.0,NISP,pollen,,3822.0,,,Radiocarbon years BP,190.0,1.0,pollen,6/30/2007,301.0,0.664451827243
-2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Cerealia undiff.,2.0,NISP,pollen,,3868.0,,,Radiocarbon years BP,195.0,1.0,pollen,6/30/2007,305.0,0.655737704918
-2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Cerealia undiff.,1.0,NISP,pollen,,4097.0,,,Radiocarbon years BP,220.0,1.0,pollen,6/30/2007,340.0,0.294117647059
-2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Cerealia undiff.,1.0,NISP,pollen,,4281.0,,,Radiocarbon years BP,240.0,1.0,pollen,6/30/2007,261.0,0.383141762452
-2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Cerealia undiff.,2.0,NISP,pollen,,4642.0,,,Radiocarbon years BP,305.0,1.0,pollen,6/30/2007,361.0,0.554016620499
-2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Cerealia undiff.,1.0,NISP,pollen,,4824.0,,,Radiocarbon years BP,345.0,1.0,pollen,6/30/2007,209.0,0.478468899522
-2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Cerealia undiff.,1.0,NISP,pollen,,4915.0,,,Radiocarbon years BP,365.0,1.0,pollen,6/30/2007,348.0,0.287356321839
-2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Cerealia undiff.,6.0,NISP,pollen,,5229.0,,,Radiocarbon years BP,425.0,1.0,pollen,6/30/2007,301.0,1.99335548173
-2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Cerealia undiff.,2.0,NISP,pollen,,5771.0,,,Radiocarbon years BP,515.0,1.0,pollen,6/30/2007,337.0,0.593471810089
-2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Cerealia undiff.,1.0,NISP,pollen,,6374.0,,,Radiocarbon years BP,615.0,1.0,pollen,6/30/2007,324.0,0.308641975309
-2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Cerealia undiff.,1.0,NISP,pollen,,6434.0,,,Radiocarbon years BP,625.0,1.0,pollen,6/30/2007,312.0,0.320512820513
-2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Cerealia undiff.,1.0,NISP,pollen,,6856.0,,,Radiocarbon years BP,695.0,1.0,pollen,6/30/2007,344.0,0.290697674419
-siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
-16,Ahlenmoor,53.7,8.733333,53.7,53.7,8.733333,8.733333,Vascular plants,Cerealia-type undiff.,4.0,NISP,pollen,,990.0,,,Radiocarbon years BP,6.0,2.0,pollen,6/30/2007,1005.0,0.398009950249
-16,Ahlenmoor,53.7,8.733333,53.7,53.7,8.733333,8.733333,Vascular plants,Cerealia-type undiff.,7.0,NISP,pollen,,1039.0,,,Radiocarbon years BP,11.0,2.0,pollen,6/30/2007,1511.0,0.463269358041
-16,Ahlenmoor,53.7,8.733333,53.7,53.7,8.733333,8.733333,Vascular plants,Cerealia-type undiff.,5.0,NISP,pollen,,1089.0,,,Radiocarbon years BP,16.0,2.0,pollen,6/30/2007,990.0,0.505050505051
-16,Ahlenmoor,53.7,8.733333,53.7,53.7,8.733333,8.733333,Vascular plants,Cerealia-type undiff.,2.0,NISP,pollen,,1287.0,,,Radiocarbon years BP,36.0,2.0,pollen,6/30/2007,770.0,0.25974025974
-16,Ahlenmoor,53.7,8.733333,53.7,53.7,8.733333,8.733333,Vascular plants,Cerealia-type undiff.,1.0,NISP,pollen,,1583.0,,,Radiocarbon years BP,66.0,2.0,pollen,6/30/2007,823.0,0.121506682868
-16,Ahlenmoor,53.7,8.733333,53.7,53.7,8.733333,8.733333,Vascular plants,Cerealia-type undiff.,1.0,NISP,pollen,,2326.0,,,Radiocarbon years BP,141.0,2.0,pollen,6/30/2007,886.0,0.112866817156
-363,Le Marais St Boetien,49.616667,3.816667,49.616667,49.616667,3.816667,3.816667,Vascular plants,Cerealia-type undiff.,46.0,NISP,pollen,,1136.0,,,Radiocarbon years BP,50.0,,pollen,6/30/2007,1506.0,3.05444887118
-363,Le Marais St Boetien,49.616667,3.816667,49.616667,49.616667,3.816667,3.816667,Vascular plants,Cerealia-type undiff.,46.0,NISP,pollen,,1259.0,,,Radiocarbon years BP,60.0,,pollen,6/30/2007,2039.0,2.25600784698
-363,Le Marais St Boetien,49.616667,3.816667,49.616667,49.616667,3.816667,3.816667,Vascular plants,Cerealia-type undiff.,23.0,NISP,pollen,,1381.0,,,Radiocarbon years BP,70.0,,pollen,6/30/2007,2209.0,1.04119511091
-363,Le Marais St Boetien,49.616667,3.816667,49.616667,49.616667,3.816667,3.816667,Vascular plants,Cerealia-type undiff.,5.0,NISP,pollen,,1504.0,,,Radiocarbon years BP,80.0,,pollen,6/30/2007,939.0,0.532481363152
-363,Le Marais St Boetien,49.616667,3.816667,49.616667,49.616667,3.816667,3.816667,Vascular plants,Cerealia-type undiff.,1.0,NISP,pollen,,1872.0,,,Radiocarbon years BP,110.0,,pollen,6/30/2007,1948.0,0.0513347022587
-363,Le Marais St Boetien,49.616667,3.816667,49.616667,49.616667,3.816667,3.816667,Vascular plants,Cerealia-type undiff.,19.0,NISP,pollen,,2117.0,,,Radiocarbon years BP,130.0,,pollen,6/30/2007,3162.0,0.600885515497
-363,Le Marais St Boetien,49.616667,3.816667,49.616667,49.616667,3.816667,3.816667,Vascular plants,Cerealia-type undiff.,16.0,NISP,pollen,,2240.0,,,Radiocarbon years BP,140.0,,pollen,6/30/2007,4064.0,0.393700787402
-363,Le Marais St Boetien,49.616667,3.816667,49.616667,49.616667,3.816667,3.816667,Vascular plants,Cerealia-type undiff.,1.0,NISP,pollen,,3099.0,,,Radiocarbon years BP,210.0,,pollen,6/30/2007,1465.0,0.0682593856655
-1401,Kansjon,57.633333,14.533333,57.633333,57.633333,14.533333,14.533333,Vascular plants,Cerealia-type undiff.,7.0,NISP,pollen,,83.0,,,Radiocarbon years BP,5.0,308.0,pollen,6/30/2007,1127.0,0.621118012422
-1401,Kansjon,57.633333,14.533333,57.633333,57.633333,14.533333,14.533333,Vascular plants,Cerealia-type undiff.,5.0,NISP,pollen,,374.0,,,Radiocarbon years BP,20.0,308.0,pollen,6/30/2007,1018.0,0.49115913556
-1401,Kansjon,57.633333,14.533333,57.633333,57.633333,14.533333,14.533333,Vascular plants,Cerealia-type undiff.,3.0,NISP,pollen,,684.0,,,Radiocarbon years BP,35.0,308.0,pollen,6/30/2007,1139.0,0.263388937665
-1401,Kansjon,57.633333,14.533333,57.633333,57.633333,14.533333,14.533333,Vascular plants,Cerealia-type undiff.,3.0,NISP,pollen,,1006.0,,,Radiocarbon years BP,50.0,308.0,pollen,6/30/2007,1030.0,0.291262135922
-1401,Kansjon,57.633333,14.533333,57.633333,57.633333,14.533333,14.533333,Vascular plants,Cerealia-type undiff.,2.0,NISP,pollen,,1336.0,,,Radiocarbon years BP,65.0,308.0,pollen,6/30/2007,1194.0,0.167504187605
-1401,Kansjon,57.633333,14.533333,57.633333,57.633333,14.533333,14.533333,Vascular plants,Cerealia-type undiff.,3.0,NISP,pollen,,1673.0,,,Radiocarbon years BP,80.0,308.0,pollen,6/30/2007,1111.0,0.2700270027
-1401,Kansjon,57.633333,14.533333,57.633333,57.633333,14.533333,14.533333,Vascular plants,Cerealia-type undiff.,6.0,NISP,pollen,,2014.0,,,Radiocarbon years BP,95.0,308.0,pollen,6/30/2007,1101.0,0.544959128065
-6511,Blomford Lake,45.4935,-93.1545,45.496,45.491,-93.152,-93.157,Vascular plants,Cerealia-type undiff.,2.0,NISP,pollen,,-20.0,,,Calendar years BP,1.0,291.0,pollen,12/11/2013,773.0,0.25873221216
-6511,Blomford Lake,45.4935,-93.1545,45.496,45.491,-93.152,-93.157,Vascular plants,Cerealia-type undiff.,2.0,NISP,pollen,,74.0,,,Calendar years BP,10.0,291.0,pollen,12/11/2013,775.0,0.258064516129
-6514,Goose Lake,44.99,-94.591,44.995,44.985,-94.586,-94.596,Vascular plants,Cerealia-type undiff.,2.0,NISP,pollen,,-17.0,,,Calendar years BP,5.0,334.0,pollen,12/12/2013,689.5,0.290065264685
-6514,Goose Lake,44.99,-94.591,44.995,44.985,-94.586,-94.596,Vascular plants,Cerealia-type undiff.,2.0,NISP,pollen,,68.0,,,Calendar years BP,45.0,334.0,pollen,12/12/2013,243.5,0.82135523614
-6521,Round Grove Lake,44.709,-94.4935,44.718,44.7,-94.487,-94.5,Vascular plants,Cerealia-type undiff.,2.0,NISP,pollen,,32.0,,,Calendar years BP,20.0,318.0,pollen,12/17/2013,514.0,0.389105058366
-6521,Round Grove Lake,44.709,-94.4935,44.718,44.7,-94.487,-94.5,Vascular plants,Cerealia-type undiff.,2.0,NISP,pollen,,62.0,,,Calendar years BP,30.0,318.0,pollen,12/17/2013,366.5,0.545702592087
-7538,Lake Rachel,45.80155,-95.55285,45.8078,45.7953,-95.5441,-95.5616,Vascular plants,Cerealia-type undiff.,1.0,NISP,pollen,,-30.0,,,Calendar years BP,0.0,415.0,pollen,2/14/2014,417.5,0.239520958084
-7538,Lake Rachel,45.80155,-95.55285,45.8078,45.7953,-95.5441,-95.5616,Vascular plants,Cerealia-type undiff.,1.0,NISP,pollen,,210.0,,,Calendar years BP,65.0,415.0,pollen,2/14/2014,517.5,0.193236714976
-7540,Mud Lake,45.8576,-95.4609,45.8607,45.8545,-95.4561,-95.4657,Vascular plants,Cerealia-type undiff.,3.0,NISP,pollen,,-21.0,,,Calendar years BP,5.0,415.0,pollen,2/15/2014,278.0,1.07913669065
-7540,Mud Lake,45.8576,-95.4609,45.8607,45.8545,-95.4561,-95.4657,Vascular plants,Cerealia-type undiff.,1.0,NISP,pollen,,-12.0,,,Calendar years BP,10.0,415.0,pollen,2/15/2014,602.5,0.165975103734
-7540,Mud Lake,45.8576,-95.4609,45.8607,45.8545,-95.4561,-95.4657,Vascular plants,Cerealia-type undiff.,1.0,NISP,pollen,,23.0,,,Calendar years BP,30.0,415.0,pollen,2/15/2014,374.5,0.267022696929
-7540,Mud Lake,45.8576,-95.4609,45.8607,45.8545,-95.4561,-95.4657,Vascular plants,Cerealia-type undiff.,2.0,NISP,pollen,,50.0,,,Calendar years BP,45.0,415.0,pollen,2/15/2014,426.0,0.469483568075
-7541,Lybeck Lake,45.6745,-95.7125,45.679,45.67,-95.708,-95.717,Vascular plants,Cerealia-type undiff.,5.0,NISP,pollen,,-32.0,,,Calendar years BP,0.0,356.0,pollen,2/15/2014,401.0,1.24688279302
-7541,Lybeck Lake,45.6745,-95.7125,45.679,45.67,-95.708,-95.717,Vascular plants,Cerealia-type undiff.,4.0,NISP,pollen,,-20.0,,,Calendar years BP,5.0,356.0,pollen,2/15/2014,336.0,1.19047619048
-7541,Lybeck Lake,45.6745,-95.7125,45.679,45.67,-95.708,-95.717,Vascular plants,Cerealia-type undiff.,8.0,NISP,pollen,,3.0,,,Calendar years BP,15.0,356.0,pollen,2/15/2014,469.5,1.70394036209
-7541,Lybeck Lake,45.6745,-95.7125,45.679,45.67,-95.708,-95.717,Vascular plants,Cerealia-type undiff.,6.0,NISP,pollen,,14.0,,,Calendar years BP,20.0,356.0,pollen,2/15/2014,354.5,1.69252468265
-7541,Lybeck Lake,45.6745,-95.7125,45.679,45.67,-95.708,-95.717,Vascular plants,Cerealia-type undiff.,5.0,NISP,pollen,,38.0,,,Calendar years BP,30.0,356.0,pollen,2/15/2014,493.0,1.01419878296
-7541,Lybeck Lake,45.6745,-95.7125,45.679,45.67,-95.708,-95.717,Vascular plants,Cerealia-type undiff.,5.0,NISP,pollen,,49.0,,,Calendar years BP,35.0,356.0,pollen,2/15/2014,356.5,1.40252454418
-7541,Lybeck Lake,45.6745,-95.7125,45.679,45.67,-95.708,-95.717,Vascular plants,Cerealia-type undiff.,1.0,NISP,pollen,,154.0,,,Calendar years BP,80.0,356.0,pollen,2/15/2014,326.5,0.306278713629
-7543,Albert Lea Lake,43.65255,-93.284,43.6582,43.6469,-93.2786,-93.2894,Vascular plants,Cerealia-type undiff.,1.0,NISP,pollen,,-27.0,,,Calendar years BP,1.0,369.0,pollen,2/16/2014,644.5,0.155159038014
-7543,Albert Lea Lake,43.65255,-93.284,43.6582,43.6469,-93.2786,-93.2894,Vascular plants,Cerealia-type undiff.,1.0,NISP,pollen,,14.0,,,Calendar years BP,20.0,369.0,pollen,2/16/2014,388.5,0.2574002574
-7543,Albert Lea Lake,43.65255,-93.284,43.6582,43.6469,-93.2786,-93.2894,Vascular plants,Cerealia-type undiff.,1.0,NISP,pollen,,58.0,,,Calendar years BP,40.0,369.0,pollen,2/16/2014,310.0,0.322580645161
-8566,Camp Lake,45.40595,-95.39015,45.4133,45.3986,-95.3823,-95.398,Vascular plants,Cerealia-type undiff.,3.0,NISP,pollen,,39.0,,,Calendar years BP,20.0,344.0,pollen,4/30/2014,505.0,0.594059405941
-8566,Camp Lake,45.40595,-95.39015,45.4133,45.3986,-95.3823,-95.398,Vascular plants,Cerealia-type undiff.,2.0,NISP,pollen,,73.0,,,Calendar years BP,30.0,344.0,pollen,4/30/2014,574.5,0.348128807659
+1399,Kamenicky,49.733333,15.966667,49.733333,49.733333,15.966667,15.966667,Vascular plants,Cerealia undiff.,1,NISP,pollen,,1077,,,Radiocarbon years BP,2.5,624,pollen,6/30/2007,787,0.127064803
+1711,Moon Lake,46.85592,-98.15984,46.86123,46.85061,-98.15463,-98.16505,Vascular plants,Cerealia undiff.,2,NISP,pollen,,25,,,Radiocarbon years BP,1324,444,pollen,6/30/2007,627.5,0.3187251
+1711,Moon Lake,46.85592,-98.15984,46.86123,46.85061,-98.15463,-98.16505,Vascular plants,Cerealia undiff.,1,NISP,pollen,,34,,,Radiocarbon years BP,1328,444,pollen,6/30/2007,419.5,0.238379023
+1711,Moon Lake,46.85592,-98.15984,46.86123,46.85061,-98.15463,-98.16505,Vascular plants,Cerealia undiff.,1,NISP,pollen,,51,,,Radiocarbon years BP,1336,444,pollen,6/30/2007,564,0.177304965
+1711,Moon Lake,46.85592,-98.15984,46.86123,46.85061,-98.15463,-98.16505,Vascular plants,Cerealia undiff.,1,NISP,pollen,,5500,,,Radiocarbon years BP,1896,444,pollen,6/30/2007,484,0.20661157
+1711,Moon Lake,46.85592,-98.15984,46.86123,46.85061,-98.15463,-98.16505,Vascular plants,Cerealia undiff.,1,NISP,pollen,,6087,,,Radiocarbon years BP,1961.7,444,pollen,6/30/2007,564.5,0.177147919
+1725,Muscotah Marsh,39.53,-95.513333,39.53,39.53,-95.513333,-95.513333,Vascular plants,Cerealia undiff.,1,NISP,pollen,,70,,,Radiocarbon years BP,28,280,pollen,6/30/2007,720,0.138888889
+1725,Muscotah Marsh,39.53,-95.513333,39.53,39.53,-95.513333,-95.513333,Vascular plants,Cerealia undiff.,1,NISP,pollen,,83,,,Radiocarbon years BP,33,280,pollen,6/30/2007,401,0.249376559
+1725,Muscotah Marsh,39.53,-95.513333,39.53,39.53,-95.513333,-95.513333,Vascular plants,Cerealia undiff.,2,NISP,pollen,,95,,,Radiocarbon years BP,38,280,pollen,6/30/2007,1000,0.2
+1725,Muscotah Marsh,39.53,-95.513333,39.53,39.53,-95.513333,-95.513333,Vascular plants,Cerealia undiff.,1,NISP,pollen,,736,,,Radiocarbon years BP,83,280,pollen,6/30/2007,511,0.195694716
+2851,Wentzel's Pond,46.95,-94.95,46.95,46.95,-94.95,-94.95,Vascular plants,Cerealia undiff.,2,NISP,pollen,,98,,,Radiocarbon years BP,35,435,pollen,6/30/2007,245,0.816326531
+2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Cerealia undiff.,15,NISP,pollen,,386,,,Radiocarbon years BP,15,1,pollen,6/30/2007,297,5.050505051
+2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Cerealia undiff.,14,NISP,pollen,,514,,,Radiocarbon years BP,20,1,pollen,6/30/2007,260,5.384615385
+2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Cerealia undiff.,2,NISP,pollen,,643,,,Radiocarbon years BP,25,1,pollen,6/30/2007,133,1.503759399
+2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Cerealia undiff.,4,NISP,pollen,,771,,,Radiocarbon years BP,30,1,pollen,6/30/2007,324,1.234567901
+2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Cerealia undiff.,3,NISP,pollen,,900,,,Radiocarbon years BP,35,1,pollen,6/30/2007,449,0.668151448
+2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Cerealia undiff.,1,NISP,pollen,,1028,,,Radiocarbon years BP,40,1,pollen,6/30/2007,384,0.260416667
+2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Cerealia undiff.,3,NISP,pollen,,1157,,,Radiocarbon years BP,45,1,pollen,6/30/2007,326,0.920245399
+2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Cerealia undiff.,2,NISP,pollen,,1285,,,Radiocarbon years BP,50,1,pollen,6/30/2007,319,0.626959248
+2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Cerealia undiff.,6,NISP,pollen,,1414,,,Radiocarbon years BP,55,1,pollen,6/30/2007,295,2.033898305
+2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Cerealia undiff.,3,NISP,pollen,,1542,,,Radiocarbon years BP,60,1,pollen,6/30/2007,295,1.016949153
+2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Cerealia undiff.,3,NISP,pollen,,1671,,,Radiocarbon years BP,65,1,pollen,6/30/2007,359,0.835654596
+2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Cerealia undiff.,4,NISP,pollen,,1799,,,Radiocarbon years BP,70,1,pollen,6/30/2007,339,1.179941003
+2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Cerealia undiff.,4,NISP,pollen,,1928,,,Radiocarbon years BP,75,1,pollen,6/30/2007,334,1.19760479
+2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Cerealia undiff.,2,NISP,pollen,,2056,,,Radiocarbon years BP,80,1,pollen,6/30/2007,310,0.64516129
+2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Cerealia undiff.,1,NISP,pollen,,2185,,,Radiocarbon years BP,85,1,pollen,6/30/2007,292,0.342465753
+2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Cerealia undiff.,1,NISP,pollen,,2313,,,Radiocarbon years BP,90,1,pollen,6/30/2007,285,0.350877193
+2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Cerealia undiff.,2,NISP,pollen,,2570,,,Radiocarbon years BP,100,1,pollen,6/30/2007,305,0.655737705
+2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Cerealia undiff.,2,NISP,pollen,,2655,,,Radiocarbon years BP,105,1,pollen,6/30/2007,310,0.64516129
+2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Cerealia undiff.,1,NISP,pollen,,2824,,,Radiocarbon years BP,115,1,pollen,6/30/2007,316,0.316455696
+2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Cerealia undiff.,2,NISP,pollen,,3162,,,Radiocarbon years BP,135,1,pollen,6/30/2007,311,0.643086817
+2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Cerealia undiff.,1,NISP,pollen,,3246,,,Radiocarbon years BP,140,1,pollen,6/30/2007,205,0.487804878
+2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Cerealia undiff.,1,NISP,pollen,,3331,,,Radiocarbon years BP,145,1,pollen,6/30/2007,314,0.318471338
+2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Cerealia undiff.,2,NISP,pollen,,3415,,,Radiocarbon years BP,150,1,pollen,6/30/2007,315,0.634920635
+2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Cerealia undiff.,2,NISP,pollen,,3546,,,Radiocarbon years BP,160,1,pollen,6/30/2007,310,0.64516129
+2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Cerealia undiff.,1,NISP,pollen,,3592,,,Radiocarbon years BP,165,1,pollen,6/30/2007,318,0.314465409
+2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Cerealia undiff.,2,NISP,pollen,,3638,,,Radiocarbon years BP,170,1,pollen,6/30/2007,307,0.651465798
+2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Cerealia undiff.,2,NISP,pollen,,3684,,,Radiocarbon years BP,175,1,pollen,6/30/2007,258,0.775193798
+2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Cerealia undiff.,1,NISP,pollen,,3730,,,Radiocarbon years BP,180,1,pollen,6/30/2007,248,0.403225806
+2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Cerealia undiff.,2,NISP,pollen,,3776,,,Radiocarbon years BP,185,1,pollen,6/30/2007,330,0.606060606
+2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Cerealia undiff.,2,NISP,pollen,,3822,,,Radiocarbon years BP,190,1,pollen,6/30/2007,301,0.664451827
+2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Cerealia undiff.,2,NISP,pollen,,3868,,,Radiocarbon years BP,195,1,pollen,6/30/2007,305,0.655737705
+2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Cerealia undiff.,1,NISP,pollen,,4097,,,Radiocarbon years BP,220,1,pollen,6/30/2007,340,0.294117647
+2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Cerealia undiff.,1,NISP,pollen,,4281,,,Radiocarbon years BP,240,1,pollen,6/30/2007,261,0.383141762
+2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Cerealia undiff.,2,NISP,pollen,,4642,,,Radiocarbon years BP,305,1,pollen,6/30/2007,361,0.55401662
+2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Cerealia undiff.,1,NISP,pollen,,4824,,,Radiocarbon years BP,345,1,pollen,6/30/2007,209,0.4784689
+2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Cerealia undiff.,1,NISP,pollen,,4915,,,Radiocarbon years BP,365,1,pollen,6/30/2007,348,0.287356322
+2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Cerealia undiff.,6,NISP,pollen,,5229,,,Radiocarbon years BP,425,1,pollen,6/30/2007,301,1.993355482
+2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Cerealia undiff.,2,NISP,pollen,,5771,,,Radiocarbon years BP,515,1,pollen,6/30/2007,337,0.59347181
+2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Cerealia undiff.,1,NISP,pollen,,6374,,,Radiocarbon years BP,615,1,pollen,6/30/2007,324,0.308641975
+2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Cerealia undiff.,1,NISP,pollen,,6434,,,Radiocarbon years BP,625,1,pollen,6/30/2007,312,0.320512821
+2996,Basse-Ville,47.186111,-1.858056,47.186111,47.186111,-1.858056,-1.858056,Vascular plants,Cerealia undiff.,1,NISP,pollen,,6856,,,Radiocarbon years BP,695,1,pollen,6/30/2007,344,0.290697674
+16,Ahlenmoor,53.7,8.733333,53.7,53.7,8.733333,8.733333,Vascular plants,Cerealia undiff.,4,NISP,pollen,,990,,,Radiocarbon years BP,6,2,pollen,6/30/2007,1005,0.39800995
+16,Ahlenmoor,53.7,8.733333,53.7,53.7,8.733333,8.733333,Vascular plants,Cerealia undiff.,7,NISP,pollen,,1039,,,Radiocarbon years BP,11,2,pollen,6/30/2007,1511,0.463269358
+16,Ahlenmoor,53.7,8.733333,53.7,53.7,8.733333,8.733333,Vascular plants,Cerealia undiff.,5,NISP,pollen,,1089,,,Radiocarbon years BP,16,2,pollen,6/30/2007,990,0.505050505
+16,Ahlenmoor,53.7,8.733333,53.7,53.7,8.733333,8.733333,Vascular plants,Cerealia undiff.,2,NISP,pollen,,1287,,,Radiocarbon years BP,36,2,pollen,6/30/2007,770,0.25974026
+16,Ahlenmoor,53.7,8.733333,53.7,53.7,8.733333,8.733333,Vascular plants,Cerealia undiff.,1,NISP,pollen,,1583,,,Radiocarbon years BP,66,2,pollen,6/30/2007,823,0.121506683
+16,Ahlenmoor,53.7,8.733333,53.7,53.7,8.733333,8.733333,Vascular plants,Cerealia undiff.,1,NISP,pollen,,2326,,,Radiocarbon years BP,141,2,pollen,6/30/2007,886,0.112866817
+363,Le Marais St Boetien,49.616667,3.816667,49.616667,49.616667,3.816667,3.816667,Vascular plants,Cerealia undiff.,46,NISP,pollen,,1136,,,Radiocarbon years BP,50,,pollen,6/30/2007,1506,3.054448871
+363,Le Marais St Boetien,49.616667,3.816667,49.616667,49.616667,3.816667,3.816667,Vascular plants,Cerealia undiff.,46,NISP,pollen,,1259,,,Radiocarbon years BP,60,,pollen,6/30/2007,2039,2.256007847
+363,Le Marais St Boetien,49.616667,3.816667,49.616667,49.616667,3.816667,3.816667,Vascular plants,Cerealia undiff.,23,NISP,pollen,,1381,,,Radiocarbon years BP,70,,pollen,6/30/2007,2209,1.041195111
+363,Le Marais St Boetien,49.616667,3.816667,49.616667,49.616667,3.816667,3.816667,Vascular plants,Cerealia undiff.,5,NISP,pollen,,1504,,,Radiocarbon years BP,80,,pollen,6/30/2007,939,0.532481363
+363,Le Marais St Boetien,49.616667,3.816667,49.616667,49.616667,3.816667,3.816667,Vascular plants,Cerealia undiff.,1,NISP,pollen,,1872,,,Radiocarbon years BP,110,,pollen,6/30/2007,1948,0.051334702
+363,Le Marais St Boetien,49.616667,3.816667,49.616667,49.616667,3.816667,3.816667,Vascular plants,Cerealia undiff.,19,NISP,pollen,,2117,,,Radiocarbon years BP,130,,pollen,6/30/2007,3162,0.600885515
+363,Le Marais St Boetien,49.616667,3.816667,49.616667,49.616667,3.816667,3.816667,Vascular plants,Cerealia undiff.,16,NISP,pollen,,2240,,,Radiocarbon years BP,140,,pollen,6/30/2007,4064,0.393700787
+363,Le Marais St Boetien,49.616667,3.816667,49.616667,49.616667,3.816667,3.816667,Vascular plants,Cerealia undiff.,1,NISP,pollen,,3099,,,Radiocarbon years BP,210,,pollen,6/30/2007,1465,0.068259386
+1401,Kansjon,57.633333,14.533333,57.633333,57.633333,14.533333,14.533333,Vascular plants,Cerealia undiff.,7,NISP,pollen,,83,,,Radiocarbon years BP,5,308,pollen,6/30/2007,1127,0.621118012
+1401,Kansjon,57.633333,14.533333,57.633333,57.633333,14.533333,14.533333,Vascular plants,Cerealia undiff.,5,NISP,pollen,,374,,,Radiocarbon years BP,20,308,pollen,6/30/2007,1018,0.491159136
+1401,Kansjon,57.633333,14.533333,57.633333,57.633333,14.533333,14.533333,Vascular plants,Cerealia undiff.,3,NISP,pollen,,684,,,Radiocarbon years BP,35,308,pollen,6/30/2007,1139,0.263388938
+1401,Kansjon,57.633333,14.533333,57.633333,57.633333,14.533333,14.533333,Vascular plants,Cerealia undiff.,3,NISP,pollen,,1006,,,Radiocarbon years BP,50,308,pollen,6/30/2007,1030,0.291262136
+1401,Kansjon,57.633333,14.533333,57.633333,57.633333,14.533333,14.533333,Vascular plants,Cerealia undiff.,2,NISP,pollen,,1336,,,Radiocarbon years BP,65,308,pollen,6/30/2007,1194,0.167504188
+1401,Kansjon,57.633333,14.533333,57.633333,57.633333,14.533333,14.533333,Vascular plants,Cerealia undiff.,3,NISP,pollen,,1673,,,Radiocarbon years BP,80,308,pollen,6/30/2007,1111,0.270027003
+1401,Kansjon,57.633333,14.533333,57.633333,57.633333,14.533333,14.533333,Vascular plants,Cerealia undiff.,6,NISP,pollen,,2014,,,Radiocarbon years BP,95,308,pollen,6/30/2007,1101,0.544959128
+6511,Blomford Lake,45.4935,-93.1545,45.496,45.491,-93.152,-93.157,Vascular plants,Cerealia undiff.,2,NISP,pollen,,-20,,,Calendar years BP,1,291,pollen,12/11/2013,773,0.258732212
+6511,Blomford Lake,45.4935,-93.1545,45.496,45.491,-93.152,-93.157,Vascular plants,Cerealia undiff.,2,NISP,pollen,,74,,,Calendar years BP,10,291,pollen,12/11/2013,775,0.258064516
+6514,Goose Lake,44.99,-94.591,44.995,44.985,-94.586,-94.596,Vascular plants,Cerealia undiff.,2,NISP,pollen,,-17,,,Calendar years BP,5,334,pollen,12/12/2013,689.5,0.290065265
+6514,Goose Lake,44.99,-94.591,44.995,44.985,-94.586,-94.596,Vascular plants,Cerealia undiff.,2,NISP,pollen,,68,,,Calendar years BP,45,334,pollen,12/12/2013,243.5,0.821355236
+6521,Round Grove Lake,44.709,-94.4935,44.718,44.7,-94.487,-94.5,Vascular plants,Cerealia undiff.,2,NISP,pollen,,32,,,Calendar years BP,20,318,pollen,12/17/2013,514,0.389105058
+6521,Round Grove Lake,44.709,-94.4935,44.718,44.7,-94.487,-94.5,Vascular plants,Cerealia undiff.,2,NISP,pollen,,62,,,Calendar years BP,30,318,pollen,12/17/2013,366.5,0.545702592
+7538,Lake Rachel,45.80155,-95.55285,45.8078,45.7953,-95.5441,-95.5616,Vascular plants,Cerealia undiff.,1,NISP,pollen,,-30,,,Calendar years BP,0,415,pollen,2/14/2014,417.5,0.239520958
+7538,Lake Rachel,45.80155,-95.55285,45.8078,45.7953,-95.5441,-95.5616,Vascular plants,Cerealia undiff.,1,NISP,pollen,,210,,,Calendar years BP,65,415,pollen,2/14/2014,517.5,0.193236715
+7540,Mud Lake,45.8576,-95.4609,45.8607,45.8545,-95.4561,-95.4657,Vascular plants,Cerealia undiff.,3,NISP,pollen,,-21,,,Calendar years BP,5,415,pollen,2/15/2014,278,1.079136691
+7540,Mud Lake,45.8576,-95.4609,45.8607,45.8545,-95.4561,-95.4657,Vascular plants,Cerealia undiff.,1,NISP,pollen,,-12,,,Calendar years BP,10,415,pollen,2/15/2014,602.5,0.165975104
+7540,Mud Lake,45.8576,-95.4609,45.8607,45.8545,-95.4561,-95.4657,Vascular plants,Cerealia undiff.,1,NISP,pollen,,23,,,Calendar years BP,30,415,pollen,2/15/2014,374.5,0.267022697
+7540,Mud Lake,45.8576,-95.4609,45.8607,45.8545,-95.4561,-95.4657,Vascular plants,Cerealia undiff.,2,NISP,pollen,,50,,,Calendar years BP,45,415,pollen,2/15/2014,426,0.469483568
+7541,Lybeck Lake,45.6745,-95.7125,45.679,45.67,-95.708,-95.717,Vascular plants,Cerealia undiff.,5,NISP,pollen,,-32,,,Calendar years BP,0,356,pollen,2/15/2014,401,1.246882793
+7541,Lybeck Lake,45.6745,-95.7125,45.679,45.67,-95.708,-95.717,Vascular plants,Cerealia undiff.,4,NISP,pollen,,-20,,,Calendar years BP,5,356,pollen,2/15/2014,336,1.19047619
+7541,Lybeck Lake,45.6745,-95.7125,45.679,45.67,-95.708,-95.717,Vascular plants,Cerealia undiff.,8,NISP,pollen,,3,,,Calendar years BP,15,356,pollen,2/15/2014,469.5,1.703940362
+7541,Lybeck Lake,45.6745,-95.7125,45.679,45.67,-95.708,-95.717,Vascular plants,Cerealia undiff.,6,NISP,pollen,,14,,,Calendar years BP,20,356,pollen,2/15/2014,354.5,1.692524683
+7541,Lybeck Lake,45.6745,-95.7125,45.679,45.67,-95.708,-95.717,Vascular plants,Cerealia undiff.,5,NISP,pollen,,38,,,Calendar years BP,30,356,pollen,2/15/2014,493,1.014198783
+7541,Lybeck Lake,45.6745,-95.7125,45.679,45.67,-95.708,-95.717,Vascular plants,Cerealia undiff.,5,NISP,pollen,,49,,,Calendar years BP,35,356,pollen,2/15/2014,356.5,1.402524544
+7541,Lybeck Lake,45.6745,-95.7125,45.679,45.67,-95.708,-95.717,Vascular plants,Cerealia undiff.,1,NISP,pollen,,154,,,Calendar years BP,80,356,pollen,2/15/2014,326.5,0.306278714
+7543,Albert Lea Lake,43.65255,-93.284,43.6582,43.6469,-93.2786,-93.2894,Vascular plants,Cerealia undiff.,1,NISP,pollen,,-27,,,Calendar years BP,1,369,pollen,2/16/2014,644.5,0.155159038
+7543,Albert Lea Lake,43.65255,-93.284,43.6582,43.6469,-93.2786,-93.2894,Vascular plants,Cerealia undiff.,1,NISP,pollen,,14,,,Calendar years BP,20,369,pollen,2/16/2014,388.5,0.257400257
+7543,Albert Lea Lake,43.65255,-93.284,43.6582,43.6469,-93.2786,-93.2894,Vascular plants,Cerealia undiff.,1,NISP,pollen,,58,,,Calendar years BP,40,369,pollen,2/16/2014,310,0.322580645
+8566,Camp Lake,45.40595,-95.39015,45.4133,45.3986,-95.3823,-95.398,Vascular plants,Cerealia undiff.,3,NISP,pollen,,39,,,Calendar years BP,20,344,pollen,4/30/2014,505,0.594059406
+8566,Camp Lake,45.40595,-95.39015,45.4133,45.3986,-95.3823,-95.398,Vascular plants,Cerealia undiff.,2,NISP,pollen,,73,,,Calendar years BP,30,344,pollen,4/30/2014,574.5,0.348128808

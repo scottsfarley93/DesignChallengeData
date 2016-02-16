@@ -1,177 +1,176 @@
 siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
-947,Grasvatn,63.7,8.7,63.7,63.7,8.7,8.7,Vascular plants,Ranunculus acris,2.0,NISP,pollen,,922.0,,,Radiocarbon years BP,30.0,45.0,pollen,6/30/2007,626.0,0.319488817891
-947,Grasvatn,63.7,8.7,63.7,63.7,8.7,8.7,Vascular plants,Ranunculus acris,1.0,NISP,pollen,,1477.0,,,Radiocarbon years BP,50.0,45.0,pollen,6/30/2007,701.0,0.142653352354
-947,Grasvatn,63.7,8.7,63.7,63.7,8.7,8.7,Vascular plants,Ranunculus acris,4.0,NISP,pollen,,1748.0,,,Radiocarbon years BP,60.0,45.0,pollen,6/30/2007,942.0,0.424628450106
-947,Grasvatn,63.7,8.7,63.7,63.7,8.7,8.7,Vascular plants,Ranunculus acris,4.0,NISP,pollen,,2015.0,,,Radiocarbon years BP,70.0,45.0,pollen,6/30/2007,627.0,0.637958532695
-947,Grasvatn,63.7,8.7,63.7,63.7,8.7,8.7,Vascular plants,Ranunculus acris,1.0,NISP,pollen,,2280.0,,,Radiocarbon years BP,80.0,45.0,pollen,6/30/2007,757.0,0.132100396301
-947,Grasvatn,63.7,8.7,63.7,63.7,8.7,8.7,Vascular plants,Ranunculus acris,7.0,NISP,pollen,,2542.0,,,Radiocarbon years BP,90.0,45.0,pollen,6/30/2007,672.0,1.04166666667
-947,Grasvatn,63.7,8.7,63.7,63.7,8.7,8.7,Vascular plants,Ranunculus acris,1.0,NISP,pollen,,2801.0,,,Radiocarbon years BP,100.0,45.0,pollen,6/30/2007,636.0,0.157232704403
-947,Grasvatn,63.7,8.7,63.7,63.7,8.7,8.7,Vascular plants,Ranunculus acris,4.0,NISP,pollen,,3059.0,,,Radiocarbon years BP,110.0,45.0,pollen,6/30/2007,631.0,0.633914421553
-947,Grasvatn,63.7,8.7,63.7,63.7,8.7,8.7,Vascular plants,Ranunculus acris,1.0,NISP,pollen,,3569.0,,,Radiocarbon years BP,130.0,45.0,pollen,6/30/2007,592.0,0.168918918919
-947,Grasvatn,63.7,8.7,63.7,63.7,8.7,8.7,Vascular plants,Ranunculus acris,2.0,NISP,pollen,,4073.0,,,Radiocarbon years BP,150.0,45.0,pollen,6/30/2007,645.0,0.31007751938
-947,Grasvatn,63.7,8.7,63.7,63.7,8.7,8.7,Vascular plants,Ranunculus acris,2.0,NISP,pollen,,4198.0,,,Radiocarbon years BP,155.0,45.0,pollen,6/30/2007,644.0,0.310559006211
-947,Grasvatn,63.7,8.7,63.7,63.7,8.7,8.7,Vascular plants,Ranunculus acris,5.0,NISP,pollen,,4448.0,,,Radiocarbon years BP,165.0,45.0,pollen,6/30/2007,846.0,0.591016548463
-947,Grasvatn,63.7,8.7,63.7,63.7,8.7,8.7,Vascular plants,Ranunculus acris,5.0,NISP,pollen,,4820.0,,,Radiocarbon years BP,180.0,45.0,pollen,6/30/2007,624.0,0.801282051282
-947,Grasvatn,63.7,8.7,63.7,63.7,8.7,8.7,Vascular plants,Ranunculus acris,1.0,NISP,pollen,,5066.0,,,Radiocarbon years BP,190.0,45.0,pollen,6/30/2007,4801.0,0.0208289939596
-947,Grasvatn,63.7,8.7,63.7,63.7,8.7,8.7,Vascular plants,Ranunculus acris,2.0,NISP,pollen,,7008.0,,,Radiocarbon years BP,270.0,45.0,pollen,6/30/2007,998.0,0.200400801603
-947,Grasvatn,63.7,8.7,63.7,63.7,8.7,8.7,Vascular plants,Ranunculus acris,1.0,NISP,pollen,,7128.0,,,Radiocarbon years BP,275.0,45.0,pollen,6/30/2007,723.0,0.138312586445
-947,Grasvatn,63.7,8.7,63.7,63.7,8.7,8.7,Vascular plants,Ranunculus acris,1.0,NISP,pollen,,8198.0,,,Radiocarbon years BP,320.0,45.0,pollen,6/30/2007,796.0,0.125628140704
-947,Grasvatn,63.7,8.7,63.7,63.7,8.7,8.7,Vascular plants,Ranunculus acris,2.0,NISP,pollen,,8670.0,,,Radiocarbon years BP,340.0,45.0,pollen,6/30/2007,865.0,0.231213872832
-947,Grasvatn,63.7,8.7,63.7,63.7,8.7,8.7,Vascular plants,Ranunculus acris,2.0,NISP,pollen,,9140.0,,,Radiocarbon years BP,360.0,45.0,pollen,6/30/2007,811.0,0.246609124538
-947,Grasvatn,63.7,8.7,63.7,63.7,8.7,8.7,Vascular plants,Ranunculus acris,1.0,NISP,pollen,,9374.0,,,Radiocarbon years BP,370.0,45.0,pollen,6/30/2007,768.0,0.130208333333
-947,Grasvatn,63.7,8.7,63.7,63.7,8.7,8.7,Vascular plants,Ranunculus acris,5.0,NISP,pollen,,9841.0,,,Radiocarbon years BP,390.0,45.0,pollen,6/30/2007,1404.0,0.356125356125
-947,Grasvatn,63.7,8.7,63.7,63.7,8.7,8.7,Vascular plants,Ranunculus acris,6.0,NISP,pollen,,10073.0,,,Radiocarbon years BP,400.0,45.0,pollen,6/30/2007,1282.0,0.468018720749
-947,Grasvatn,63.7,8.7,63.7,63.7,8.7,8.7,Vascular plants,Ranunculus acris,3.0,NISP,pollen,,10306.0,,,Radiocarbon years BP,410.0,45.0,pollen,6/30/2007,1511.0,0.198544010589
-947,Grasvatn,63.7,8.7,63.7,63.7,8.7,8.7,Vascular plants,Ranunculus acris,7.0,NISP,pollen,,10537.0,,,Radiocarbon years BP,420.0,45.0,pollen,6/30/2007,1059.0,0.661000944287
-1537,Lago de Ajo,43.05,-6.15,43.05,43.05,-6.15,-6.15,Vascular plants,Ranunculus acris,6.0,NISP,pollen,,15235.0,,,Radiocarbon years BP,2770.0,1570.0,pollen,6/30/2007,222.0,2.7027027027
-1537,Lago de Ajo,43.05,-6.15,43.05,43.05,-6.15,-6.15,Vascular plants,Ranunculus acris,3.0,NISP,pollen,,15733.0,,,Radiocarbon years BP,2785.0,1570.0,pollen,6/30/2007,165.0,1.81818181818
-1537,Lago de Ajo,43.05,-6.15,43.05,43.05,-6.15,-6.15,Vascular plants,Ranunculus acris,2.0,NISP,pollen,,16729.0,,,Radiocarbon years BP,2815.0,1570.0,pollen,6/30/2007,242.0,0.826446280992
-1537,Lago de Ajo,43.05,-6.15,43.05,43.05,-6.15,-6.15,Vascular plants,Ranunculus acris,1.0,NISP,pollen,,18721.0,,,Radiocarbon years BP,2875.0,1570.0,pollen,6/30/2007,195.0,0.512820512821
-2966,Aholami,61.883333,25.216667,61.883333,61.883333,25.216667,25.216667,Vascular plants,Ranunculus acris,1.0,NISP,pollen,,2305.0,,,Radiocarbon years BP,1062.5,114.0,pollen,6/30/2007,1057.0,0.0946073793756
-3022,Blavasstjonn,64.916667,11.666667,64.916667,64.916667,11.666667,11.666667,Vascular plants,Ranunculus acris,2.0,NISP,pollen,,772.0,,,Radiocarbon years BP,230.0,92.0,pollen,6/30/2007,612.0,0.326797385621
-3022,Blavasstjonn,64.916667,11.666667,64.916667,64.916667,11.666667,11.666667,Vascular plants,Ranunculus acris,2.0,NISP,pollen,,1016.0,,,Radiocarbon years BP,235.0,92.0,pollen,6/30/2007,682.0,0.293255131965
-3022,Blavasstjonn,64.916667,11.666667,64.916667,64.916667,11.666667,11.666667,Vascular plants,Ranunculus acris,3.0,NISP,pollen,,1259.0,,,Radiocarbon years BP,240.0,92.0,pollen,6/30/2007,657.0,0.456621004566
-3022,Blavasstjonn,64.916667,11.666667,64.916667,64.916667,11.666667,11.666667,Vascular plants,Ranunculus acris,1.0,NISP,pollen,,1991.0,,,Radiocarbon years BP,255.0,92.0,pollen,6/30/2007,646.0,0.15479876161
-3022,Blavasstjonn,64.916667,11.666667,64.916667,64.916667,11.666667,11.666667,Vascular plants,Ranunculus acris,1.0,NISP,pollen,,2234.0,,,Radiocarbon years BP,260.0,92.0,pollen,6/30/2007,581.0,0.172117039587
-3022,Blavasstjonn,64.916667,11.666667,64.916667,64.916667,11.666667,11.666667,Vascular plants,Ranunculus acris,8.0,NISP,pollen,,2478.0,,,Radiocarbon years BP,265.0,92.0,pollen,6/30/2007,652.0,1.22699386503
-3022,Blavasstjonn,64.916667,11.666667,64.916667,64.916667,11.666667,11.666667,Vascular plants,Ranunculus acris,1.0,NISP,pollen,,2722.0,,,Radiocarbon years BP,270.0,92.0,pollen,6/30/2007,580.0,0.172413793103
-3022,Blavasstjonn,64.916667,11.666667,64.916667,64.916667,11.666667,11.666667,Vascular plants,Ranunculus acris,3.0,NISP,pollen,,2966.0,,,Radiocarbon years BP,275.0,92.0,pollen,6/30/2007,981.0,0.305810397554
-3022,Blavasstjonn,64.916667,11.666667,64.916667,64.916667,11.666667,11.666667,Vascular plants,Ranunculus acris,2.0,NISP,pollen,,3697.0,,,Radiocarbon years BP,290.0,92.0,pollen,6/30/2007,562.0,0.355871886121
-3022,Blavasstjonn,64.916667,11.666667,64.916667,64.916667,11.666667,11.666667,Vascular plants,Ranunculus acris,7.0,NISP,pollen,,4428.0,,,Radiocarbon years BP,305.0,92.0,pollen,6/30/2007,596.0,1.1744966443
-3022,Blavasstjonn,64.916667,11.666667,64.916667,64.916667,11.666667,11.666667,Vascular plants,Ranunculus acris,2.0,NISP,pollen,,4916.0,,,Radiocarbon years BP,315.0,92.0,pollen,6/30/2007,562.0,0.355871886121
-3022,Blavasstjonn,64.916667,11.666667,64.916667,64.916667,11.666667,11.666667,Vascular plants,Ranunculus acris,1.0,NISP,pollen,,5159.0,,,Radiocarbon years BP,320.0,92.0,pollen,6/30/2007,585.0,0.17094017094
-3022,Blavasstjonn,64.916667,11.666667,64.916667,64.916667,11.666667,11.666667,Vascular plants,Ranunculus acris,2.0,NISP,pollen,,5647.0,,,Radiocarbon years BP,330.0,92.0,pollen,6/30/2007,624.0,0.320512820513
-3022,Blavasstjonn,64.916667,11.666667,64.916667,64.916667,11.666667,11.666667,Vascular plants,Ranunculus acris,2.0,NISP,pollen,,6306.0,,,Radiocarbon years BP,345.0,92.0,pollen,6/30/2007,547.0,0.36563071298
-3022,Blavasstjonn,64.916667,11.666667,64.916667,64.916667,11.666667,11.666667,Vascular plants,Ranunculus acris,1.0,NISP,pollen,,6484.0,,,Radiocarbon years BP,350.0,92.0,pollen,6/30/2007,564.0,0.177304964539
-3022,Blavasstjonn,64.916667,11.666667,64.916667,64.916667,11.666667,11.666667,Vascular plants,Ranunculus acris,2.0,NISP,pollen,,6663.0,,,Radiocarbon years BP,355.0,92.0,pollen,6/30/2007,620.0,0.322580645161
-3022,Blavasstjonn,64.916667,11.666667,64.916667,64.916667,11.666667,11.666667,Vascular plants,Ranunculus acris,1.0,NISP,pollen,,7376.0,,,Radiocarbon years BP,375.0,92.0,pollen,6/30/2007,525.0,0.190476190476
-3022,Blavasstjonn,64.916667,11.666667,64.916667,64.916667,11.666667,11.666667,Vascular plants,Ranunculus acris,1.0,NISP,pollen,,7911.0,,,Radiocarbon years BP,390.0,92.0,pollen,6/30/2007,580.0,0.172413793103
-3022,Blavasstjonn,64.916667,11.666667,64.916667,64.916667,11.666667,11.666667,Vascular plants,Ranunculus acris,3.0,NISP,pollen,,8264.0,,,Radiocarbon years BP,405.0,92.0,pollen,6/30/2007,511.0,0.587084148728
-3022,Blavasstjonn,64.916667,11.666667,64.916667,64.916667,11.666667,11.666667,Vascular plants,Ranunculus acris,3.0,NISP,pollen,,8369.0,,,Radiocarbon years BP,410.0,92.0,pollen,6/30/2007,564.0,0.531914893617
-3022,Blavasstjonn,64.916667,11.666667,64.916667,64.916667,11.666667,11.666667,Vascular plants,Ranunculus acris,2.0,NISP,pollen,,8475.0,,,Radiocarbon years BP,415.0,92.0,pollen,6/30/2007,528.0,0.378787878788
-3022,Blavasstjonn,64.916667,11.666667,64.916667,64.916667,11.666667,11.666667,Vascular plants,Ranunculus acris,5.0,NISP,pollen,,8581.0,,,Radiocarbon years BP,420.0,92.0,pollen,6/30/2007,554.0,0.902527075812
-3022,Blavasstjonn,64.916667,11.666667,64.916667,64.916667,11.666667,11.666667,Vascular plants,Ranunculus acris,7.0,NISP,pollen,,8792.0,,,Radiocarbon years BP,430.0,92.0,pollen,6/30/2007,663.0,1.05580693816
-3022,Blavasstjonn,64.916667,11.666667,64.916667,64.916667,11.666667,11.666667,Vascular plants,Ranunculus acris,6.0,NISP,pollen,,8897.0,,,Radiocarbon years BP,435.0,92.0,pollen,6/30/2007,636.0,0.943396226415
-3022,Blavasstjonn,64.916667,11.666667,64.916667,64.916667,11.666667,11.666667,Vascular plants,Ranunculus acris,4.0,NISP,pollen,,9003.0,,,Radiocarbon years BP,440.0,92.0,pollen,6/30/2007,725.0,0.551724137931
-siteID,siteName,lat,lng,latN,latS,lngE,lngW,taxaGroup,taxonName,value,variableUnits,element,context,Age,minAge,maxAge,ageType,unitDepth,altitude,datasetType,submittedToDB,pollenSum,pollenPct
-214,Arts Lough,52.95,-6.433333,52.95,52.95,-6.433333,-6.433333,Vascular plants,Ranunculus acris-type,3.0,NISP,pollen,,13050.0,,,Radiocarbon years BP,165.0,490.0,pollen,6/30/2007,227.5,1.31868131868
-2308,Sinkhole Pond,43.966667,-70.35,43.966667,43.966667,-70.35,-70.35,Vascular plants,Ranunculus acris-type,1.0,NISP,pollen,,138.0,,,Radiocarbon years BP,1219.75,95.0,pollen,6/30/2007,414.0,0.24154589372
-2977,Allt na Feithe Sheilich,57.316667,-3.9,57.316667,57.316667,-3.9,-3.9,Vascular plants,Ranunculus acris-type,1.0,NISP,pollen,,4278.0,,,Radiocarbon years BP,145.0,595.0,pollen,6/30/2007,551.0,0.181488203267
-2977,Allt na Feithe Sheilich,57.316667,-3.9,57.316667,57.316667,-3.9,-3.9,Vascular plants,Ranunculus acris-type,1.0,NISP,pollen,,4425.0,,,Radiocarbon years BP,150.0,595.0,pollen,6/30/2007,372.0,0.268817204301
-2977,Allt na Feithe Sheilich,57.316667,-3.9,57.316667,57.316667,-3.9,-3.9,Vascular plants,Ranunculus acris-type,1.0,NISP,pollen,,5270.0,,,Radiocarbon years BP,160.0,595.0,pollen,6/30/2007,359.0,0.278551532033
-2977,Allt na Feithe Sheilich,57.316667,-3.9,57.316667,57.316667,-3.9,-3.9,Vascular plants,Ranunculus acris-type,4.0,NISP,pollen,,6115.0,,,Radiocarbon years BP,170.0,595.0,pollen,6/30/2007,348.0,1.14942528736
-2977,Allt na Feithe Sheilich,57.316667,-3.9,57.316667,57.316667,-3.9,-3.9,Vascular plants,Ranunculus acris-type,5.0,NISP,pollen,,6960.0,,,Radiocarbon years BP,180.0,595.0,pollen,6/30/2007,543.0,0.920810313076
-2977,Allt na Feithe Sheilich,57.316667,-3.9,57.316667,57.316667,-3.9,-3.9,Vascular plants,Ranunculus acris-type,1.0,NISP,pollen,,7051.0,,,Radiocarbon years BP,185.0,595.0,pollen,6/30/2007,348.0,0.287356321839
-2977,Allt na Feithe Sheilich,57.316667,-3.9,57.316667,57.316667,-3.9,-3.9,Vascular plants,Ranunculus acris-type,2.0,NISP,pollen,,7234.0,,,Radiocarbon years BP,195.0,595.0,pollen,6/30/2007,321.0,0.623052959502
-2977,Allt na Feithe Sheilich,57.316667,-3.9,57.316667,57.316667,-3.9,-3.9,Vascular plants,Ranunculus acris-type,1.0,NISP,pollen,,7417.0,,,Radiocarbon years BP,205.0,595.0,pollen,6/30/2007,517.0,0.193423597679
-2977,Allt na Feithe Sheilich,57.316667,-3.9,57.316667,57.316667,-3.9,-3.9,Vascular plants,Ranunculus acris-type,1.0,NISP,pollen,,7599.0,,,Radiocarbon years BP,215.0,595.0,pollen,6/30/2007,322.0,0.310559006211
-2977,Allt na Feithe Sheilich,57.316667,-3.9,57.316667,57.316667,-3.9,-3.9,Vascular plants,Ranunculus acris-type,2.0,NISP,pollen,,7691.0,,,Radiocarbon years BP,220.0,595.0,pollen,6/30/2007,329.0,0.607902735562
-2977,Allt na Feithe Sheilich,57.316667,-3.9,57.316667,57.316667,-3.9,-3.9,Vascular plants,Ranunculus acris-type,1.0,NISP,pollen,,7782.0,,,Radiocarbon years BP,225.0,595.0,pollen,6/30/2007,495.0,0.20202020202
-2977,Allt na Feithe Sheilich,57.316667,-3.9,57.316667,57.316667,-3.9,-3.9,Vascular plants,Ranunculus acris-type,1.0,NISP,pollen,,8056.0,,,Radiocarbon years BP,240.0,595.0,pollen,6/30/2007,605.0,0.165289256198
-2977,Allt na Feithe Sheilich,57.316667,-3.9,57.316667,57.316667,-3.9,-3.9,Vascular plants,Ranunculus acris-type,2.0,NISP,pollen,,8239.0,,,Radiocarbon years BP,250.0,595.0,pollen,6/30/2007,603.0,0.331674958541
-2977,Allt na Feithe Sheilich,57.316667,-3.9,57.316667,57.316667,-3.9,-3.9,Vascular plants,Ranunculus acris-type,1.0,NISP,pollen,,8330.0,,,Radiocarbon years BP,255.0,595.0,pollen,6/30/2007,467.0,0.214132762313
-2977,Allt na Feithe Sheilich,57.316667,-3.9,57.316667,57.316667,-3.9,-3.9,Vascular plants,Ranunculus acris-type,1.0,NISP,pollen,,9335.0,,,Radiocarbon years BP,310.0,595.0,pollen,6/30/2007,417.0,0.239808153477
-2977,Allt na Feithe Sheilich,57.316667,-3.9,57.316667,57.316667,-3.9,-3.9,Vascular plants,Ranunculus acris-type,8.0,NISP,pollen,,9517.0,,,Radiocarbon years BP,320.0,595.0,pollen,6/30/2007,720.0,1.11111111111
-2977,Allt na Feithe Sheilich,57.316667,-3.9,57.316667,57.316667,-3.9,-3.9,Vascular plants,Ranunculus acris-type,8.0,NISP,pollen,,9609.0,,,Radiocarbon years BP,325.0,595.0,pollen,6/30/2007,511.0,1.56555772994
-3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris-type,1.0,NISP,pollen,,109.0,,,Radiocarbon years BP,5.0,78.0,pollen,6/30/2007,713.0,0.140252454418
-3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris-type,1.0,NISP,pollen,,192.0,,,Radiocarbon years BP,10.0,78.0,pollen,6/30/2007,937.0,0.106723585912
-3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris-type,1.0,NISP,pollen,,336.0,,,Radiocarbon years BP,20.0,78.0,pollen,6/30/2007,920.0,0.108695652174
-3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris-type,1.0,NISP,pollen,,589.0,,,Radiocarbon years BP,40.0,78.0,pollen,6/30/2007,783.0,0.127713920817
-3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris-type,1.0,NISP,pollen,,648.0,,,Radiocarbon years BP,45.0,78.0,pollen,6/30/2007,814.0,0.12285012285
-3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris-type,1.0,NISP,pollen,,706.0,,,Radiocarbon years BP,50.0,78.0,pollen,6/30/2007,984.0,0.10162601626
-3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris-type,1.0,NISP,pollen,,818.0,,,Radiocarbon years BP,60.0,78.0,pollen,6/30/2007,1060.0,0.0943396226415
-3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris-type,1.0,NISP,pollen,,873.0,,,Radiocarbon years BP,65.0,78.0,pollen,6/30/2007,735.0,0.136054421769
-3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris-type,1.0,NISP,pollen,,1033.0,,,Radiocarbon years BP,80.0,78.0,pollen,6/30/2007,672.0,0.14880952381
-3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris-type,1.0,NISP,pollen,,1187.0,,,Radiocarbon years BP,95.0,78.0,pollen,6/30/2007,671.0,0.149031296572
-3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris-type,1.0,NISP,pollen,,1238.0,,,Radiocarbon years BP,100.0,78.0,pollen,6/30/2007,792.0,0.126262626263
-3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris-type,1.0,NISP,pollen,,1386.0,,,Radiocarbon years BP,115.0,78.0,pollen,6/30/2007,865.0,0.115606936416
-3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris-type,1.0,NISP,pollen,,1483.0,,,Radiocarbon years BP,125.0,78.0,pollen,6/30/2007,779.0,0.12836970475
-3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris-type,2.0,NISP,pollen,,1531.0,,,Radiocarbon years BP,130.0,78.0,pollen,6/30/2007,714.0,0.280112044818
-3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris-type,2.0,NISP,pollen,,1578.0,,,Radiocarbon years BP,135.0,78.0,pollen,6/30/2007,880.0,0.227272727273
-3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris-type,2.0,NISP,pollen,,1625.0,,,Radiocarbon years BP,140.0,78.0,pollen,6/30/2007,1141.0,0.175284837862
-3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris-type,2.0,NISP,pollen,,1672.0,,,Radiocarbon years BP,145.0,78.0,pollen,6/30/2007,1227.0,0.162999185004
-3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris-type,1.0,NISP,pollen,,1765.0,,,Radiocarbon years BP,155.0,78.0,pollen,6/30/2007,1120.0,0.0892857142857
-3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris-type,1.0,NISP,pollen,,1902.0,,,Radiocarbon years BP,170.0,78.0,pollen,6/30/2007,1146.0,0.087260034904
-3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris-type,1.0,NISP,pollen,,1947.0,,,Radiocarbon years BP,175.0,78.0,pollen,6/30/2007,1009.0,0.0991080277502
-3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris-type,1.0,NISP,pollen,,2213.0,,,Radiocarbon years BP,205.0,78.0,pollen,6/30/2007,1103.0,0.090661831369
-3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris-type,1.0,NISP,pollen,,2641.0,,,Radiocarbon years BP,255.0,78.0,pollen,6/30/2007,1471.0,0.0679809653297
-3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris-type,1.0,NISP,pollen,,2890.0,,,Radiocarbon years BP,285.0,78.0,pollen,6/30/2007,1042.0,0.0959692898273
-3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris-type,1.0,NISP,pollen,,2972.0,,,Radiocarbon years BP,295.0,78.0,pollen,6/30/2007,1048.0,0.0954198473282
-3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris-type,1.0,NISP,pollen,,3093.0,,,Radiocarbon years BP,310.0,78.0,pollen,6/30/2007,1247.0,0.0801924619086
-3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris-type,1.0,NISP,pollen,,3294.0,,,Radiocarbon years BP,335.0,78.0,pollen,6/30/2007,1168.0,0.0856164383562
-3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris-type,1.0,NISP,pollen,,3373.0,,,Radiocarbon years BP,345.0,78.0,pollen,6/30/2007,1103.0,0.090661831369
-3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris-type,1.0,NISP,pollen,,3452.0,,,Radiocarbon years BP,355.0,78.0,pollen,6/30/2007,1267.0,0.0789265982636
-3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris-type,1.0,NISP,pollen,,3491.0,,,Radiocarbon years BP,360.0,78.0,pollen,6/30/2007,1070.0,0.0934579439252
-3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris-type,1.0,NISP,pollen,,3531.0,,,Radiocarbon years BP,365.0,78.0,pollen,6/30/2007,1076.0,0.092936802974
-3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris-type,1.0,NISP,pollen,,3570.0,,,Radiocarbon years BP,370.0,78.0,pollen,6/30/2007,1034.0,0.0967117988395
-3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris-type,1.0,NISP,pollen,,3609.0,,,Radiocarbon years BP,375.0,78.0,pollen,6/30/2007,1202.0,0.0831946755408
-3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris-type,1.0,NISP,pollen,,3841.0,,,Radiocarbon years BP,405.0,78.0,pollen,6/30/2007,1345.0,0.0743494423792
-3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris-type,2.0,NISP,pollen,,3879.0,,,Radiocarbon years BP,410.0,78.0,pollen,6/30/2007,1240.0,0.161290322581
-3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris-type,1.0,NISP,pollen,,4145.0,,,Radiocarbon years BP,445.0,78.0,pollen,6/30/2007,1039.0,0.0962463907603
-3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris-type,1.0,NISP,pollen,,4702.0,,,Radiocarbon years BP,520.0,78.0,pollen,6/30/2007,1054.0,0.0948766603416
-3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris-type,1.0,NISP,pollen,,6495.0,,,Radiocarbon years BP,775.0,78.0,pollen,6/30/2007,1026.0,0.0974658869396
-3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris-type,1.0,NISP,pollen,,7232.0,,,Radiocarbon years BP,885.0,78.0,pollen,6/30/2007,1041.0,0.0960614793468
-3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris-type,1.0,NISP,pollen,,8529.0,,,Radiocarbon years BP,1085.0,78.0,pollen,6/30/2007,1163.0,0.0859845227859
-3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris-type,1.0,NISP,pollen,,8752.0,,,Radiocarbon years BP,1120.0,78.0,pollen,6/30/2007,1411.0,0.0708717221828
-3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris-type,1.0,NISP,pollen,,9843.0,,,Radiocarbon years BP,1295.0,78.0,pollen,6/30/2007,1439.0,0.0694927032662
-3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris-type,1.0,NISP,pollen,,10333.0,,,Radiocarbon years BP,1375.0,78.0,pollen,6/30/2007,1504.0,0.0664893617021
-3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris-type,1.0,NISP,pollen,,10485.0,,,Radiocarbon years BP,1400.0,78.0,pollen,6/30/2007,561.0,0.17825311943
-3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris-type,1.0,NISP,pollen,,10696.0,,,Radiocarbon years BP,1435.0,78.0,pollen,6/30/2007,1038.0,0.0963391136802
-3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris-type,1.0,NISP,pollen,,10757.0,,,Radiocarbon years BP,1445.0,78.0,pollen,6/30/2007,1152.0,0.0868055555556
-3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Ranunculus acris-type,4.0,NISP,pollen,,,,,,355.0,20.0,pollen,6/30/2007,600.0,0.666666666667
-3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Ranunculus acris-type,1.0,NISP,pollen,,,,,,365.0,20.0,pollen,6/30/2007,651.0,0.153609831029
-3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Ranunculus acris-type,2.0,NISP,pollen,,,,,,375.0,20.0,pollen,6/30/2007,463.0,0.431965442765
-3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Ranunculus acris-type,6.0,NISP,pollen,,,,,,385.0,20.0,pollen,6/30/2007,741.0,0.80971659919
-3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Ranunculus acris-type,2.0,NISP,pollen,,,,,,395.0,20.0,pollen,6/30/2007,486.0,0.411522633745
-3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Ranunculus acris-type,1.0,NISP,pollen,,,,,,400.0,20.0,pollen,6/30/2007,409.0,0.244498777506
-3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Ranunculus acris-type,3.0,NISP,pollen,,,,,,410.0,20.0,pollen,6/30/2007,396.0,0.757575757576
-3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Ranunculus acris-type,1.0,NISP,pollen,,,,,,420.0,20.0,pollen,6/30/2007,254.0,0.393700787402
-3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Ranunculus acris-type,1.0,NISP,pollen,,,,,,430.0,20.0,pollen,6/30/2007,174.0,0.574712643678
-3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Ranunculus acris-type,1.0,NISP,pollen,,,,,,450.0,20.0,pollen,6/30/2007,125.0,0.8
-3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Ranunculus acris-type,1.0,NISP,pollen,,,,,,475.0,20.0,pollen,6/30/2007,272.0,0.367647058824
-3087,Loch Dungeon,55.116667,-4.316667,55.116667,55.116667,-4.316667,-4.316667,Vascular plants,Ranunculus acris-type,1.0,NISP,pollen,,,,,,20.0,396.0,pollen,6/30/2007,596.0,0.167785234899
-3087,Loch Dungeon,55.116667,-4.316667,55.116667,55.116667,-4.316667,-4.316667,Vascular plants,Ranunculus acris-type,1.0,NISP,pollen,,,,,,30.0,396.0,pollen,6/30/2007,552.0,0.18115942029
-3087,Loch Dungeon,55.116667,-4.316667,55.116667,55.116667,-4.316667,-4.316667,Vascular plants,Ranunculus acris-type,1.0,NISP,pollen,,,,,,50.0,396.0,pollen,6/30/2007,373.5,0.267737617135
-3087,Loch Dungeon,55.116667,-4.316667,55.116667,55.116667,-4.316667,-4.316667,Vascular plants,Ranunculus acris-type,1.0,NISP,pollen,,,,,,110.0,396.0,pollen,6/30/2007,659.0,0.151745068285
-3087,Loch Dungeon,55.116667,-4.316667,55.116667,55.116667,-4.316667,-4.316667,Vascular plants,Ranunculus acris-type,1.0,NISP,pollen,,,,,,140.0,396.0,pollen,6/30/2007,732.0,0.136612021858
-3087,Loch Dungeon,55.116667,-4.316667,55.116667,55.116667,-4.316667,-4.316667,Vascular plants,Ranunculus acris-type,1.0,NISP,pollen,,,,,,184.0,396.0,pollen,6/30/2007,1269.0,0.0788022064618
-3087,Loch Dungeon,55.116667,-4.316667,55.116667,55.116667,-4.316667,-4.316667,Vascular plants,Ranunculus acris-type,3.0,NISP,pollen,,,,,,190.0,396.0,pollen,6/30/2007,672.5,0.446096654275
-3087,Loch Dungeon,55.116667,-4.316667,55.116667,55.116667,-4.316667,-4.316667,Vascular plants,Ranunculus acris-type,1.0,NISP,pollen,,,,,,205.0,396.0,pollen,6/30/2007,745.5,0.134138162307
-3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Ranunculus acris-type,2.0,NISP,pollen,,7444.0,,,Radiocarbon years BP,440.0,135.0,pollen,6/30/2007,327.0,0.611620795107
-3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Ranunculus acris-type,1.0,NISP,pollen,,7556.0,,,Radiocarbon years BP,450.0,135.0,pollen,6/30/2007,229.0,0.436681222707
-3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Ranunculus acris-type,2.0,NISP,pollen,,7669.0,,,Radiocarbon years BP,460.0,135.0,pollen,6/30/2007,340.0,0.588235294118
-3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Ranunculus acris-type,4.0,NISP,pollen,,7781.0,,,Radiocarbon years BP,470.0,135.0,pollen,6/30/2007,210.0,1.90476190476
-3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Ranunculus acris-type,1.0,NISP,pollen,,7837.0,,,Radiocarbon years BP,475.0,135.0,pollen,6/30/2007,216.0,0.462962962963
-3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Ranunculus acris-type,2.0,NISP,pollen,,7893.0,,,Radiocarbon years BP,480.0,135.0,pollen,6/30/2007,275.0,0.727272727273
-3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Ranunculus acris-type,2.0,NISP,pollen,,7949.0,,,Radiocarbon years BP,485.0,135.0,pollen,6/30/2007,219.0,0.913242009132
-3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Ranunculus acris-type,1.0,NISP,pollen,,8006.0,,,Radiocarbon years BP,490.0,135.0,pollen,6/30/2007,267.0,0.374531835206
-3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Ranunculus acris-type,1.0,NISP,pollen,,8062.0,,,Radiocarbon years BP,495.0,135.0,pollen,6/30/2007,257.0,0.389105058366
-3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Ranunculus acris-type,1.0,NISP,pollen,,8118.0,,,Radiocarbon years BP,500.0,135.0,pollen,6/30/2007,201.0,0.497512437811
-3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Ranunculus acris-type,3.0,NISP,pollen,,8174.0,,,Radiocarbon years BP,505.0,135.0,pollen,6/30/2007,210.0,1.42857142857
-3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Ranunculus acris-type,1.0,NISP,pollen,,8230.0,,,Radiocarbon years BP,510.0,135.0,pollen,6/30/2007,220.0,0.454545454545
-3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Ranunculus acris-type,2.0,NISP,pollen,,8399.0,,,Radiocarbon years BP,525.0,135.0,pollen,6/30/2007,285.0,0.701754385965
-3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Ranunculus acris-type,1.0,NISP,pollen,,8455.0,,,Radiocarbon years BP,530.0,135.0,pollen,6/30/2007,290.0,0.344827586207
-3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Ranunculus acris-type,5.0,NISP,pollen,,8567.0,,,Radiocarbon years BP,540.0,135.0,pollen,6/30/2007,230.0,2.17391304348
-3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Ranunculus acris-type,6.0,NISP,pollen,,8624.0,,,Radiocarbon years BP,545.0,135.0,pollen,6/30/2007,304.0,1.97368421053
-3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Ranunculus acris-type,2.0,NISP,pollen,,8680.0,,,Radiocarbon years BP,550.0,135.0,pollen,6/30/2007,220.0,0.909090909091
-3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Ranunculus acris-type,1.0,NISP,pollen,,8736.0,,,Radiocarbon years BP,555.0,135.0,pollen,6/30/2007,213.0,0.469483568075
-3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Ranunculus acris-type,5.0,NISP,pollen,,8792.0,,,Radiocarbon years BP,560.0,135.0,pollen,6/30/2007,222.0,2.25225225225
-3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Ranunculus acris-type,5.0,NISP,pollen,,8848.0,,,Radiocarbon years BP,565.0,135.0,pollen,6/30/2007,350.0,1.42857142857
-3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Ranunculus acris-type,4.0,NISP,pollen,,8904.0,,,Radiocarbon years BP,570.0,135.0,pollen,6/30/2007,165.0,2.42424242424
-3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Ranunculus acris-type,3.0,NISP,pollen,,8961.0,,,Radiocarbon years BP,575.0,135.0,pollen,6/30/2007,231.0,1.2987012987
-3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Ranunculus acris-type,1.0,NISP,pollen,,9017.0,,,Radiocarbon years BP,580.0,135.0,pollen,6/30/2007,147.0,0.680272108844
-3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Ranunculus acris-type,1.0,NISP,pollen,,9073.0,,,Radiocarbon years BP,585.0,135.0,pollen,6/30/2007,103.0,0.970873786408
-3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Ranunculus acris-type,1.0,NISP,pollen,,9129.0,,,Radiocarbon years BP,590.0,135.0,pollen,6/30/2007,106.0,0.943396226415
-3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Ranunculus acris-type,2.0,NISP,pollen,,9185.0,,,Radiocarbon years BP,595.0,135.0,pollen,6/30/2007,112.0,1.78571428571
-3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Ranunculus acris-type,6.0,NISP,pollen,,9242.0,,,Radiocarbon years BP,600.0,135.0,pollen,6/30/2007,252.0,2.38095238095
-3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Ranunculus acris-type,2.0,NISP,pollen,,9298.0,,,Radiocarbon years BP,605.0,135.0,pollen,6/30/2007,89.0,2.24719101124
-3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Ranunculus acris-type,3.0,NISP,pollen,,9354.0,,,Radiocarbon years BP,610.0,135.0,pollen,6/30/2007,164.0,1.82926829268
-3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Ranunculus acris-type,2.0,NISP,pollen,,9410.0,,,Radiocarbon years BP,615.0,135.0,pollen,6/30/2007,86.0,2.32558139535
-3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Ranunculus acris-type,4.0,NISP,pollen,,9466.0,,,Radiocarbon years BP,620.0,135.0,pollen,6/30/2007,273.0,1.4652014652
-3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Ranunculus acris-type,1.0,NISP,pollen,,9522.0,,,Radiocarbon years BP,625.0,135.0,pollen,6/30/2007,107.0,0.934579439252
-3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Ranunculus acris-type,2.0,NISP,pollen,,9635.0,,,Radiocarbon years BP,635.0,135.0,pollen,6/30/2007,114.0,1.75438596491
-3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Ranunculus acris-type,2.0,NISP,pollen,,9691.0,,,Radiocarbon years BP,640.0,135.0,pollen,6/30/2007,128.0,1.5625
-3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Ranunculus acris-type,2.0,NISP,pollen,,9747.0,,,Radiocarbon years BP,645.0,135.0,pollen,6/30/2007,123.0,1.62601626016
-3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Ranunculus acris-type,3.0,NISP,pollen,,9803.0,,,Radiocarbon years BP,650.0,135.0,pollen,6/30/2007,220.0,1.36363636364
-3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Ranunculus acris-type,1.0,NISP,pollen,,9860.0,,,Radiocarbon years BP,655.0,135.0,pollen,6/30/2007,63.0,1.5873015873
-3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Ranunculus acris-type,2.0,NISP,pollen,,9916.0,,,Radiocarbon years BP,660.0,135.0,pollen,6/30/2007,167.0,1.19760479042
+947,Grasvatn,63.7,8.7,63.7,63.7,8.7,8.7,Vascular plants,Ranunculus acris,2,NISP,pollen,,922,,,Radiocarbon years BP,30,45,pollen,6/30/2007,626,0.319488818
+947,Grasvatn,63.7,8.7,63.7,63.7,8.7,8.7,Vascular plants,Ranunculus acris,1,NISP,pollen,,1477,,,Radiocarbon years BP,50,45,pollen,6/30/2007,701,0.142653352
+947,Grasvatn,63.7,8.7,63.7,63.7,8.7,8.7,Vascular plants,Ranunculus acris,4,NISP,pollen,,1748,,,Radiocarbon years BP,60,45,pollen,6/30/2007,942,0.42462845
+947,Grasvatn,63.7,8.7,63.7,63.7,8.7,8.7,Vascular plants,Ranunculus acris,4,NISP,pollen,,2015,,,Radiocarbon years BP,70,45,pollen,6/30/2007,627,0.637958533
+947,Grasvatn,63.7,8.7,63.7,63.7,8.7,8.7,Vascular plants,Ranunculus acris,1,NISP,pollen,,2280,,,Radiocarbon years BP,80,45,pollen,6/30/2007,757,0.132100396
+947,Grasvatn,63.7,8.7,63.7,63.7,8.7,8.7,Vascular plants,Ranunculus acris,7,NISP,pollen,,2542,,,Radiocarbon years BP,90,45,pollen,6/30/2007,672,1.041666667
+947,Grasvatn,63.7,8.7,63.7,63.7,8.7,8.7,Vascular plants,Ranunculus acris,1,NISP,pollen,,2801,,,Radiocarbon years BP,100,45,pollen,6/30/2007,636,0.157232704
+947,Grasvatn,63.7,8.7,63.7,63.7,8.7,8.7,Vascular plants,Ranunculus acris,4,NISP,pollen,,3059,,,Radiocarbon years BP,110,45,pollen,6/30/2007,631,0.633914422
+947,Grasvatn,63.7,8.7,63.7,63.7,8.7,8.7,Vascular plants,Ranunculus acris,1,NISP,pollen,,3569,,,Radiocarbon years BP,130,45,pollen,6/30/2007,592,0.168918919
+947,Grasvatn,63.7,8.7,63.7,63.7,8.7,8.7,Vascular plants,Ranunculus acris,2,NISP,pollen,,4073,,,Radiocarbon years BP,150,45,pollen,6/30/2007,645,0.310077519
+947,Grasvatn,63.7,8.7,63.7,63.7,8.7,8.7,Vascular plants,Ranunculus acris,2,NISP,pollen,,4198,,,Radiocarbon years BP,155,45,pollen,6/30/2007,644,0.310559006
+947,Grasvatn,63.7,8.7,63.7,63.7,8.7,8.7,Vascular plants,Ranunculus acris,5,NISP,pollen,,4448,,,Radiocarbon years BP,165,45,pollen,6/30/2007,846,0.591016548
+947,Grasvatn,63.7,8.7,63.7,63.7,8.7,8.7,Vascular plants,Ranunculus acris,5,NISP,pollen,,4820,,,Radiocarbon years BP,180,45,pollen,6/30/2007,624,0.801282051
+947,Grasvatn,63.7,8.7,63.7,63.7,8.7,8.7,Vascular plants,Ranunculus acris,1,NISP,pollen,,5066,,,Radiocarbon years BP,190,45,pollen,6/30/2007,4801,0.020828994
+947,Grasvatn,63.7,8.7,63.7,63.7,8.7,8.7,Vascular plants,Ranunculus acris,2,NISP,pollen,,7008,,,Radiocarbon years BP,270,45,pollen,6/30/2007,998,0.200400802
+947,Grasvatn,63.7,8.7,63.7,63.7,8.7,8.7,Vascular plants,Ranunculus acris,1,NISP,pollen,,7128,,,Radiocarbon years BP,275,45,pollen,6/30/2007,723,0.138312586
+947,Grasvatn,63.7,8.7,63.7,63.7,8.7,8.7,Vascular plants,Ranunculus acris,1,NISP,pollen,,8198,,,Radiocarbon years BP,320,45,pollen,6/30/2007,796,0.125628141
+947,Grasvatn,63.7,8.7,63.7,63.7,8.7,8.7,Vascular plants,Ranunculus acris,2,NISP,pollen,,8670,,,Radiocarbon years BP,340,45,pollen,6/30/2007,865,0.231213873
+947,Grasvatn,63.7,8.7,63.7,63.7,8.7,8.7,Vascular plants,Ranunculus acris,2,NISP,pollen,,9140,,,Radiocarbon years BP,360,45,pollen,6/30/2007,811,0.246609125
+947,Grasvatn,63.7,8.7,63.7,63.7,8.7,8.7,Vascular plants,Ranunculus acris,1,NISP,pollen,,9374,,,Radiocarbon years BP,370,45,pollen,6/30/2007,768,0.130208333
+947,Grasvatn,63.7,8.7,63.7,63.7,8.7,8.7,Vascular plants,Ranunculus acris,5,NISP,pollen,,9841,,,Radiocarbon years BP,390,45,pollen,6/30/2007,1404,0.356125356
+947,Grasvatn,63.7,8.7,63.7,63.7,8.7,8.7,Vascular plants,Ranunculus acris,6,NISP,pollen,,10073,,,Radiocarbon years BP,400,45,pollen,6/30/2007,1282,0.468018721
+947,Grasvatn,63.7,8.7,63.7,63.7,8.7,8.7,Vascular plants,Ranunculus acris,3,NISP,pollen,,10306,,,Radiocarbon years BP,410,45,pollen,6/30/2007,1511,0.198544011
+947,Grasvatn,63.7,8.7,63.7,63.7,8.7,8.7,Vascular plants,Ranunculus acris,7,NISP,pollen,,10537,,,Radiocarbon years BP,420,45,pollen,6/30/2007,1059,0.661000944
+1537,Lago de Ajo,43.05,-6.15,43.05,43.05,-6.15,-6.15,Vascular plants,Ranunculus acris,6,NISP,pollen,,15235,,,Radiocarbon years BP,2770,1570,pollen,6/30/2007,222,2.702702703
+1537,Lago de Ajo,43.05,-6.15,43.05,43.05,-6.15,-6.15,Vascular plants,Ranunculus acris,3,NISP,pollen,,15733,,,Radiocarbon years BP,2785,1570,pollen,6/30/2007,165,1.818181818
+1537,Lago de Ajo,43.05,-6.15,43.05,43.05,-6.15,-6.15,Vascular plants,Ranunculus acris,2,NISP,pollen,,16729,,,Radiocarbon years BP,2815,1570,pollen,6/30/2007,242,0.826446281
+1537,Lago de Ajo,43.05,-6.15,43.05,43.05,-6.15,-6.15,Vascular plants,Ranunculus acris,1,NISP,pollen,,18721,,,Radiocarbon years BP,2875,1570,pollen,6/30/2007,195,0.512820513
+2966,Aholami,61.883333,25.216667,61.883333,61.883333,25.216667,25.216667,Vascular plants,Ranunculus acris,1,NISP,pollen,,2305,,,Radiocarbon years BP,1062.5,114,pollen,6/30/2007,1057,0.094607379
+3022,Blavasstjonn,64.916667,11.666667,64.916667,64.916667,11.666667,11.666667,Vascular plants,Ranunculus acris,2,NISP,pollen,,772,,,Radiocarbon years BP,230,92,pollen,6/30/2007,612,0.326797386
+3022,Blavasstjonn,64.916667,11.666667,64.916667,64.916667,11.666667,11.666667,Vascular plants,Ranunculus acris,2,NISP,pollen,,1016,,,Radiocarbon years BP,235,92,pollen,6/30/2007,682,0.293255132
+3022,Blavasstjonn,64.916667,11.666667,64.916667,64.916667,11.666667,11.666667,Vascular plants,Ranunculus acris,3,NISP,pollen,,1259,,,Radiocarbon years BP,240,92,pollen,6/30/2007,657,0.456621005
+3022,Blavasstjonn,64.916667,11.666667,64.916667,64.916667,11.666667,11.666667,Vascular plants,Ranunculus acris,1,NISP,pollen,,1991,,,Radiocarbon years BP,255,92,pollen,6/30/2007,646,0.154798762
+3022,Blavasstjonn,64.916667,11.666667,64.916667,64.916667,11.666667,11.666667,Vascular plants,Ranunculus acris,1,NISP,pollen,,2234,,,Radiocarbon years BP,260,92,pollen,6/30/2007,581,0.17211704
+3022,Blavasstjonn,64.916667,11.666667,64.916667,64.916667,11.666667,11.666667,Vascular plants,Ranunculus acris,8,NISP,pollen,,2478,,,Radiocarbon years BP,265,92,pollen,6/30/2007,652,1.226993865
+3022,Blavasstjonn,64.916667,11.666667,64.916667,64.916667,11.666667,11.666667,Vascular plants,Ranunculus acris,1,NISP,pollen,,2722,,,Radiocarbon years BP,270,92,pollen,6/30/2007,580,0.172413793
+3022,Blavasstjonn,64.916667,11.666667,64.916667,64.916667,11.666667,11.666667,Vascular plants,Ranunculus acris,3,NISP,pollen,,2966,,,Radiocarbon years BP,275,92,pollen,6/30/2007,981,0.305810398
+3022,Blavasstjonn,64.916667,11.666667,64.916667,64.916667,11.666667,11.666667,Vascular plants,Ranunculus acris,2,NISP,pollen,,3697,,,Radiocarbon years BP,290,92,pollen,6/30/2007,562,0.355871886
+3022,Blavasstjonn,64.916667,11.666667,64.916667,64.916667,11.666667,11.666667,Vascular plants,Ranunculus acris,7,NISP,pollen,,4428,,,Radiocarbon years BP,305,92,pollen,6/30/2007,596,1.174496644
+3022,Blavasstjonn,64.916667,11.666667,64.916667,64.916667,11.666667,11.666667,Vascular plants,Ranunculus acris,2,NISP,pollen,,4916,,,Radiocarbon years BP,315,92,pollen,6/30/2007,562,0.355871886
+3022,Blavasstjonn,64.916667,11.666667,64.916667,64.916667,11.666667,11.666667,Vascular plants,Ranunculus acris,1,NISP,pollen,,5159,,,Radiocarbon years BP,320,92,pollen,6/30/2007,585,0.170940171
+3022,Blavasstjonn,64.916667,11.666667,64.916667,64.916667,11.666667,11.666667,Vascular plants,Ranunculus acris,2,NISP,pollen,,5647,,,Radiocarbon years BP,330,92,pollen,6/30/2007,624,0.320512821
+3022,Blavasstjonn,64.916667,11.666667,64.916667,64.916667,11.666667,11.666667,Vascular plants,Ranunculus acris,2,NISP,pollen,,6306,,,Radiocarbon years BP,345,92,pollen,6/30/2007,547,0.365630713
+3022,Blavasstjonn,64.916667,11.666667,64.916667,64.916667,11.666667,11.666667,Vascular plants,Ranunculus acris,1,NISP,pollen,,6484,,,Radiocarbon years BP,350,92,pollen,6/30/2007,564,0.177304965
+3022,Blavasstjonn,64.916667,11.666667,64.916667,64.916667,11.666667,11.666667,Vascular plants,Ranunculus acris,2,NISP,pollen,,6663,,,Radiocarbon years BP,355,92,pollen,6/30/2007,620,0.322580645
+3022,Blavasstjonn,64.916667,11.666667,64.916667,64.916667,11.666667,11.666667,Vascular plants,Ranunculus acris,1,NISP,pollen,,7376,,,Radiocarbon years BP,375,92,pollen,6/30/2007,525,0.19047619
+3022,Blavasstjonn,64.916667,11.666667,64.916667,64.916667,11.666667,11.666667,Vascular plants,Ranunculus acris,1,NISP,pollen,,7911,,,Radiocarbon years BP,390,92,pollen,6/30/2007,580,0.172413793
+3022,Blavasstjonn,64.916667,11.666667,64.916667,64.916667,11.666667,11.666667,Vascular plants,Ranunculus acris,3,NISP,pollen,,8264,,,Radiocarbon years BP,405,92,pollen,6/30/2007,511,0.587084149
+3022,Blavasstjonn,64.916667,11.666667,64.916667,64.916667,11.666667,11.666667,Vascular plants,Ranunculus acris,3,NISP,pollen,,8369,,,Radiocarbon years BP,410,92,pollen,6/30/2007,564,0.531914894
+3022,Blavasstjonn,64.916667,11.666667,64.916667,64.916667,11.666667,11.666667,Vascular plants,Ranunculus acris,2,NISP,pollen,,8475,,,Radiocarbon years BP,415,92,pollen,6/30/2007,528,0.378787879
+3022,Blavasstjonn,64.916667,11.666667,64.916667,64.916667,11.666667,11.666667,Vascular plants,Ranunculus acris,5,NISP,pollen,,8581,,,Radiocarbon years BP,420,92,pollen,6/30/2007,554,0.902527076
+3022,Blavasstjonn,64.916667,11.666667,64.916667,64.916667,11.666667,11.666667,Vascular plants,Ranunculus acris,7,NISP,pollen,,8792,,,Radiocarbon years BP,430,92,pollen,6/30/2007,663,1.055806938
+3022,Blavasstjonn,64.916667,11.666667,64.916667,64.916667,11.666667,11.666667,Vascular plants,Ranunculus acris,6,NISP,pollen,,8897,,,Radiocarbon years BP,435,92,pollen,6/30/2007,636,0.943396226
+3022,Blavasstjonn,64.916667,11.666667,64.916667,64.916667,11.666667,11.666667,Vascular plants,Ranunculus acris,4,NISP,pollen,,9003,,,Radiocarbon years BP,440,92,pollen,6/30/2007,725,0.551724138
+214,Arts Lough,52.95,-6.433333,52.95,52.95,-6.433333,-6.433333,Vascular plants,Ranunculus acris,3,NISP,pollen,,13050,,,Radiocarbon years BP,165,490,pollen,6/30/2007,227.5,1.318681319
+2308,Sinkhole Pond,43.966667,-70.35,43.966667,43.966667,-70.35,-70.35,Vascular plants,Ranunculus acris,1,NISP,pollen,,138,,,Radiocarbon years BP,1219.75,95,pollen,6/30/2007,414,0.241545894
+2977,Allt na Feithe Sheilich,57.316667,-3.9,57.316667,57.316667,-3.9,-3.9,Vascular plants,Ranunculus acris,1,NISP,pollen,,4278,,,Radiocarbon years BP,145,595,pollen,6/30/2007,551,0.181488203
+2977,Allt na Feithe Sheilich,57.316667,-3.9,57.316667,57.316667,-3.9,-3.9,Vascular plants,Ranunculus acris,1,NISP,pollen,,4425,,,Radiocarbon years BP,150,595,pollen,6/30/2007,372,0.268817204
+2977,Allt na Feithe Sheilich,57.316667,-3.9,57.316667,57.316667,-3.9,-3.9,Vascular plants,Ranunculus acris,1,NISP,pollen,,5270,,,Radiocarbon years BP,160,595,pollen,6/30/2007,359,0.278551532
+2977,Allt na Feithe Sheilich,57.316667,-3.9,57.316667,57.316667,-3.9,-3.9,Vascular plants,Ranunculus acris,4,NISP,pollen,,6115,,,Radiocarbon years BP,170,595,pollen,6/30/2007,348,1.149425287
+2977,Allt na Feithe Sheilich,57.316667,-3.9,57.316667,57.316667,-3.9,-3.9,Vascular plants,Ranunculus acris,5,NISP,pollen,,6960,,,Radiocarbon years BP,180,595,pollen,6/30/2007,543,0.920810313
+2977,Allt na Feithe Sheilich,57.316667,-3.9,57.316667,57.316667,-3.9,-3.9,Vascular plants,Ranunculus acris,1,NISP,pollen,,7051,,,Radiocarbon years BP,185,595,pollen,6/30/2007,348,0.287356322
+2977,Allt na Feithe Sheilich,57.316667,-3.9,57.316667,57.316667,-3.9,-3.9,Vascular plants,Ranunculus acris,2,NISP,pollen,,7234,,,Radiocarbon years BP,195,595,pollen,6/30/2007,321,0.62305296
+2977,Allt na Feithe Sheilich,57.316667,-3.9,57.316667,57.316667,-3.9,-3.9,Vascular plants,Ranunculus acris,1,NISP,pollen,,7417,,,Radiocarbon years BP,205,595,pollen,6/30/2007,517,0.193423598
+2977,Allt na Feithe Sheilich,57.316667,-3.9,57.316667,57.316667,-3.9,-3.9,Vascular plants,Ranunculus acris,1,NISP,pollen,,7599,,,Radiocarbon years BP,215,595,pollen,6/30/2007,322,0.310559006
+2977,Allt na Feithe Sheilich,57.316667,-3.9,57.316667,57.316667,-3.9,-3.9,Vascular plants,Ranunculus acris,2,NISP,pollen,,7691,,,Radiocarbon years BP,220,595,pollen,6/30/2007,329,0.607902736
+2977,Allt na Feithe Sheilich,57.316667,-3.9,57.316667,57.316667,-3.9,-3.9,Vascular plants,Ranunculus acris,1,NISP,pollen,,7782,,,Radiocarbon years BP,225,595,pollen,6/30/2007,495,0.202020202
+2977,Allt na Feithe Sheilich,57.316667,-3.9,57.316667,57.316667,-3.9,-3.9,Vascular plants,Ranunculus acris,1,NISP,pollen,,8056,,,Radiocarbon years BP,240,595,pollen,6/30/2007,605,0.165289256
+2977,Allt na Feithe Sheilich,57.316667,-3.9,57.316667,57.316667,-3.9,-3.9,Vascular plants,Ranunculus acris,2,NISP,pollen,,8239,,,Radiocarbon years BP,250,595,pollen,6/30/2007,603,0.331674959
+2977,Allt na Feithe Sheilich,57.316667,-3.9,57.316667,57.316667,-3.9,-3.9,Vascular plants,Ranunculus acris,1,NISP,pollen,,8330,,,Radiocarbon years BP,255,595,pollen,6/30/2007,467,0.214132762
+2977,Allt na Feithe Sheilich,57.316667,-3.9,57.316667,57.316667,-3.9,-3.9,Vascular plants,Ranunculus acris,1,NISP,pollen,,9335,,,Radiocarbon years BP,310,595,pollen,6/30/2007,417,0.239808153
+2977,Allt na Feithe Sheilich,57.316667,-3.9,57.316667,57.316667,-3.9,-3.9,Vascular plants,Ranunculus acris,8,NISP,pollen,,9517,,,Radiocarbon years BP,320,595,pollen,6/30/2007,720,1.111111111
+2977,Allt na Feithe Sheilich,57.316667,-3.9,57.316667,57.316667,-3.9,-3.9,Vascular plants,Ranunculus acris,8,NISP,pollen,,9609,,,Radiocarbon years BP,325,595,pollen,6/30/2007,511,1.56555773
+3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris,1,NISP,pollen,,109,,,Radiocarbon years BP,5,78,pollen,6/30/2007,713,0.140252454
+3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris,1,NISP,pollen,,192,,,Radiocarbon years BP,10,78,pollen,6/30/2007,937,0.106723586
+3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris,1,NISP,pollen,,336,,,Radiocarbon years BP,20,78,pollen,6/30/2007,920,0.108695652
+3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris,1,NISP,pollen,,589,,,Radiocarbon years BP,40,78,pollen,6/30/2007,783,0.127713921
+3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris,1,NISP,pollen,,648,,,Radiocarbon years BP,45,78,pollen,6/30/2007,814,0.122850123
+3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris,1,NISP,pollen,,706,,,Radiocarbon years BP,50,78,pollen,6/30/2007,984,0.101626016
+3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris,1,NISP,pollen,,818,,,Radiocarbon years BP,60,78,pollen,6/30/2007,1060,0.094339623
+3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris,1,NISP,pollen,,873,,,Radiocarbon years BP,65,78,pollen,6/30/2007,735,0.136054422
+3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris,1,NISP,pollen,,1033,,,Radiocarbon years BP,80,78,pollen,6/30/2007,672,0.148809524
+3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris,1,NISP,pollen,,1187,,,Radiocarbon years BP,95,78,pollen,6/30/2007,671,0.149031297
+3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris,1,NISP,pollen,,1238,,,Radiocarbon years BP,100,78,pollen,6/30/2007,792,0.126262626
+3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris,1,NISP,pollen,,1386,,,Radiocarbon years BP,115,78,pollen,6/30/2007,865,0.115606936
+3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris,1,NISP,pollen,,1483,,,Radiocarbon years BP,125,78,pollen,6/30/2007,779,0.128369705
+3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris,2,NISP,pollen,,1531,,,Radiocarbon years BP,130,78,pollen,6/30/2007,714,0.280112045
+3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris,2,NISP,pollen,,1578,,,Radiocarbon years BP,135,78,pollen,6/30/2007,880,0.227272727
+3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris,2,NISP,pollen,,1625,,,Radiocarbon years BP,140,78,pollen,6/30/2007,1141,0.175284838
+3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris,2,NISP,pollen,,1672,,,Radiocarbon years BP,145,78,pollen,6/30/2007,1227,0.162999185
+3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris,1,NISP,pollen,,1765,,,Radiocarbon years BP,155,78,pollen,6/30/2007,1120,0.089285714
+3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris,1,NISP,pollen,,1902,,,Radiocarbon years BP,170,78,pollen,6/30/2007,1146,0.087260035
+3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris,1,NISP,pollen,,1947,,,Radiocarbon years BP,175,78,pollen,6/30/2007,1009,0.099108028
+3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris,1,NISP,pollen,,2213,,,Radiocarbon years BP,205,78,pollen,6/30/2007,1103,0.090661831
+3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris,1,NISP,pollen,,2641,,,Radiocarbon years BP,255,78,pollen,6/30/2007,1471,0.067980965
+3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris,1,NISP,pollen,,2890,,,Radiocarbon years BP,285,78,pollen,6/30/2007,1042,0.09596929
+3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris,1,NISP,pollen,,2972,,,Radiocarbon years BP,295,78,pollen,6/30/2007,1048,0.095419847
+3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris,1,NISP,pollen,,3093,,,Radiocarbon years BP,310,78,pollen,6/30/2007,1247,0.080192462
+3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris,1,NISP,pollen,,3294,,,Radiocarbon years BP,335,78,pollen,6/30/2007,1168,0.085616438
+3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris,1,NISP,pollen,,3373,,,Radiocarbon years BP,345,78,pollen,6/30/2007,1103,0.090661831
+3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris,1,NISP,pollen,,3452,,,Radiocarbon years BP,355,78,pollen,6/30/2007,1267,0.078926598
+3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris,1,NISP,pollen,,3491,,,Radiocarbon years BP,360,78,pollen,6/30/2007,1070,0.093457944
+3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris,1,NISP,pollen,,3531,,,Radiocarbon years BP,365,78,pollen,6/30/2007,1076,0.092936803
+3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris,1,NISP,pollen,,3570,,,Radiocarbon years BP,370,78,pollen,6/30/2007,1034,0.096711799
+3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris,1,NISP,pollen,,3609,,,Radiocarbon years BP,375,78,pollen,6/30/2007,1202,0.083194676
+3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris,1,NISP,pollen,,3841,,,Radiocarbon years BP,405,78,pollen,6/30/2007,1345,0.074349442
+3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris,2,NISP,pollen,,3879,,,Radiocarbon years BP,410,78,pollen,6/30/2007,1240,0.161290323
+3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris,1,NISP,pollen,,4145,,,Radiocarbon years BP,445,78,pollen,6/30/2007,1039,0.096246391
+3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris,1,NISP,pollen,,4702,,,Radiocarbon years BP,520,78,pollen,6/30/2007,1054,0.09487666
+3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris,1,NISP,pollen,,6495,,,Radiocarbon years BP,775,78,pollen,6/30/2007,1026,0.097465887
+3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris,1,NISP,pollen,,7232,,,Radiocarbon years BP,885,78,pollen,6/30/2007,1041,0.096061479
+3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris,1,NISP,pollen,,8529,,,Radiocarbon years BP,1085,78,pollen,6/30/2007,1163,0.085984523
+3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris,1,NISP,pollen,,8752,,,Radiocarbon years BP,1120,78,pollen,6/30/2007,1411,0.070871722
+3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris,1,NISP,pollen,,9843,,,Radiocarbon years BP,1295,78,pollen,6/30/2007,1439,0.069492703
+3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris,1,NISP,pollen,,10333,,,Radiocarbon years BP,1375,78,pollen,6/30/2007,1504,0.066489362
+3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris,1,NISP,pollen,,10485,,,Radiocarbon years BP,1400,78,pollen,6/30/2007,561,0.178253119
+3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris,1,NISP,pollen,,10696,,,Radiocarbon years BP,1435,78,pollen,6/30/2007,1038,0.096339114
+3023,Bledowo Lake,52.55,20.666667,52.55,52.55,20.666667,20.666667,Vascular plants,Ranunculus acris,1,NISP,pollen,,10757,,,Radiocarbon years BP,1445,78,pollen,6/30/2007,1152,0.086805556
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Ranunculus acris,4,NISP,pollen,,,,,,355,20,pollen,6/30/2007,600,0.666666667
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Ranunculus acris,1,NISP,pollen,,,,,,365,20,pollen,6/30/2007,651,0.153609831
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Ranunculus acris,2,NISP,pollen,,,,,,375,20,pollen,6/30/2007,463,0.431965443
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Ranunculus acris,6,NISP,pollen,,,,,,385,20,pollen,6/30/2007,741,0.809716599
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Ranunculus acris,2,NISP,pollen,,,,,,395,20,pollen,6/30/2007,486,0.411522634
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Ranunculus acris,1,NISP,pollen,,,,,,400,20,pollen,6/30/2007,409,0.244498778
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Ranunculus acris,3,NISP,pollen,,,,,,410,20,pollen,6/30/2007,396,0.757575758
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Ranunculus acris,1,NISP,pollen,,,,,,420,20,pollen,6/30/2007,254,0.393700787
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Ranunculus acris,1,NISP,pollen,,,,,,430,20,pollen,6/30/2007,174,0.574712644
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Ranunculus acris,1,NISP,pollen,,,,,,450,20,pollen,6/30/2007,125,0.8
+3057,Loch Cill Chriosd,57.2,-5.966667,57.2,57.2,-5.966667,-5.966667,Vascular plants,Ranunculus acris,1,NISP,pollen,,,,,,475,20,pollen,6/30/2007,272,0.367647059
+3087,Loch Dungeon,55.116667,-4.316667,55.116667,55.116667,-4.316667,-4.316667,Vascular plants,Ranunculus acris,1,NISP,pollen,,,,,,20,396,pollen,6/30/2007,596,0.167785235
+3087,Loch Dungeon,55.116667,-4.316667,55.116667,55.116667,-4.316667,-4.316667,Vascular plants,Ranunculus acris,1,NISP,pollen,,,,,,30,396,pollen,6/30/2007,552,0.18115942
+3087,Loch Dungeon,55.116667,-4.316667,55.116667,55.116667,-4.316667,-4.316667,Vascular plants,Ranunculus acris,1,NISP,pollen,,,,,,50,396,pollen,6/30/2007,373.5,0.267737617
+3087,Loch Dungeon,55.116667,-4.316667,55.116667,55.116667,-4.316667,-4.316667,Vascular plants,Ranunculus acris,1,NISP,pollen,,,,,,110,396,pollen,6/30/2007,659,0.151745068
+3087,Loch Dungeon,55.116667,-4.316667,55.116667,55.116667,-4.316667,-4.316667,Vascular plants,Ranunculus acris,1,NISP,pollen,,,,,,140,396,pollen,6/30/2007,732,0.136612022
+3087,Loch Dungeon,55.116667,-4.316667,55.116667,55.116667,-4.316667,-4.316667,Vascular plants,Ranunculus acris,1,NISP,pollen,,,,,,184,396,pollen,6/30/2007,1269,0.078802206
+3087,Loch Dungeon,55.116667,-4.316667,55.116667,55.116667,-4.316667,-4.316667,Vascular plants,Ranunculus acris,3,NISP,pollen,,,,,,190,396,pollen,6/30/2007,672.5,0.446096654
+3087,Loch Dungeon,55.116667,-4.316667,55.116667,55.116667,-4.316667,-4.316667,Vascular plants,Ranunculus acris,1,NISP,pollen,,,,,,205,396,pollen,6/30/2007,745.5,0.134138162
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Ranunculus acris,2,NISP,pollen,,7444,,,Radiocarbon years BP,440,135,pollen,6/30/2007,327,0.611620795
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Ranunculus acris,1,NISP,pollen,,7556,,,Radiocarbon years BP,450,135,pollen,6/30/2007,229,0.436681223
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Ranunculus acris,2,NISP,pollen,,7669,,,Radiocarbon years BP,460,135,pollen,6/30/2007,340,0.588235294
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Ranunculus acris,4,NISP,pollen,,7781,,,Radiocarbon years BP,470,135,pollen,6/30/2007,210,1.904761905
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Ranunculus acris,1,NISP,pollen,,7837,,,Radiocarbon years BP,475,135,pollen,6/30/2007,216,0.462962963
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Ranunculus acris,2,NISP,pollen,,7893,,,Radiocarbon years BP,480,135,pollen,6/30/2007,275,0.727272727
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Ranunculus acris,2,NISP,pollen,,7949,,,Radiocarbon years BP,485,135,pollen,6/30/2007,219,0.913242009
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Ranunculus acris,1,NISP,pollen,,8006,,,Radiocarbon years BP,490,135,pollen,6/30/2007,267,0.374531835
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Ranunculus acris,1,NISP,pollen,,8062,,,Radiocarbon years BP,495,135,pollen,6/30/2007,257,0.389105058
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Ranunculus acris,1,NISP,pollen,,8118,,,Radiocarbon years BP,500,135,pollen,6/30/2007,201,0.497512438
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Ranunculus acris,3,NISP,pollen,,8174,,,Radiocarbon years BP,505,135,pollen,6/30/2007,210,1.428571429
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Ranunculus acris,1,NISP,pollen,,8230,,,Radiocarbon years BP,510,135,pollen,6/30/2007,220,0.454545455
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Ranunculus acris,2,NISP,pollen,,8399,,,Radiocarbon years BP,525,135,pollen,6/30/2007,285,0.701754386
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Ranunculus acris,1,NISP,pollen,,8455,,,Radiocarbon years BP,530,135,pollen,6/30/2007,290,0.344827586
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Ranunculus acris,5,NISP,pollen,,8567,,,Radiocarbon years BP,540,135,pollen,6/30/2007,230,2.173913043
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Ranunculus acris,6,NISP,pollen,,8624,,,Radiocarbon years BP,545,135,pollen,6/30/2007,304,1.973684211
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Ranunculus acris,2,NISP,pollen,,8680,,,Radiocarbon years BP,550,135,pollen,6/30/2007,220,0.909090909
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Ranunculus acris,1,NISP,pollen,,8736,,,Radiocarbon years BP,555,135,pollen,6/30/2007,213,0.469483568
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Ranunculus acris,5,NISP,pollen,,8792,,,Radiocarbon years BP,560,135,pollen,6/30/2007,222,2.252252252
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Ranunculus acris,5,NISP,pollen,,8848,,,Radiocarbon years BP,565,135,pollen,6/30/2007,350,1.428571429
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Ranunculus acris,4,NISP,pollen,,8904,,,Radiocarbon years BP,570,135,pollen,6/30/2007,165,2.424242424
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Ranunculus acris,3,NISP,pollen,,8961,,,Radiocarbon years BP,575,135,pollen,6/30/2007,231,1.298701299
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Ranunculus acris,1,NISP,pollen,,9017,,,Radiocarbon years BP,580,135,pollen,6/30/2007,147,0.680272109
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Ranunculus acris,1,NISP,pollen,,9073,,,Radiocarbon years BP,585,135,pollen,6/30/2007,103,0.970873786
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Ranunculus acris,1,NISP,pollen,,9129,,,Radiocarbon years BP,590,135,pollen,6/30/2007,106,0.943396226
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Ranunculus acris,2,NISP,pollen,,9185,,,Radiocarbon years BP,595,135,pollen,6/30/2007,112,1.785714286
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Ranunculus acris,6,NISP,pollen,,9242,,,Radiocarbon years BP,600,135,pollen,6/30/2007,252,2.380952381
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Ranunculus acris,2,NISP,pollen,,9298,,,Radiocarbon years BP,605,135,pollen,6/30/2007,89,2.247191011
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Ranunculus acris,3,NISP,pollen,,9354,,,Radiocarbon years BP,610,135,pollen,6/30/2007,164,1.829268293
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Ranunculus acris,2,NISP,pollen,,9410,,,Radiocarbon years BP,615,135,pollen,6/30/2007,86,2.325581395
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Ranunculus acris,4,NISP,pollen,,9466,,,Radiocarbon years BP,620,135,pollen,6/30/2007,273,1.465201465
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Ranunculus acris,1,NISP,pollen,,9522,,,Radiocarbon years BP,625,135,pollen,6/30/2007,107,0.934579439
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Ranunculus acris,2,NISP,pollen,,9635,,,Radiocarbon years BP,635,135,pollen,6/30/2007,114,1.754385965
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Ranunculus acris,2,NISP,pollen,,9691,,,Radiocarbon years BP,640,135,pollen,6/30/2007,128,1.5625
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Ranunculus acris,2,NISP,pollen,,9747,,,Radiocarbon years BP,645,135,pollen,6/30/2007,123,1.62601626
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Ranunculus acris,3,NISP,pollen,,9803,,,Radiocarbon years BP,650,135,pollen,6/30/2007,220,1.363636364
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Ranunculus acris,1,NISP,pollen,,9860,,,Radiocarbon years BP,655,135,pollen,6/30/2007,63,1.587301587
+3100,Loch Fada,57.45,-6.2,57.45,57.45,-6.2,-6.2,Vascular plants,Ranunculus acris,2,NISP,pollen,,9916,,,Radiocarbon years BP,660,135,pollen,6/30/2007,167,1.19760479
