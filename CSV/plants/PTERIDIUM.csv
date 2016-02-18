@@ -1,2 +1,3 @@
 SiteName,Latitude,Longitude,ageYounger,AgeOlder,Age,AgeType,Taxon,Value,Pct,Depth,Handle
-Cora Lake,46.165285,-95.32412,,,158.0,Calendar years BP,PTERIDIUM,1.0,0.29806259314456035,60.0,MNOTCL
+Roberts Creek CCEH-1A,42.986111,-91.500278,,,5470,Radiocarbon years BP,PTERIDIUM,4,0.819672131,13,RCCCEH1A
+Cora Lake,46.165285,-95.32412,,,158,Calendar years BP,PTERIDIUM,1,0.298062593,60,MNOTCL

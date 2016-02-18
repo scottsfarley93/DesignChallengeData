@@ -1,2 +1,2 @@
 SiteName,Latitude,Longitude,ageYounger,AgeOlder,Age,AgeType,Taxon,Value,Pct,Depth,Handle
-Patricia Bay Lake,70.46194444444444,-68.50277777777775,2571.0,3883.0,3355.0,Calibrated radiocarbon years BP,ARMERIA,1.0,0.26455026455026454,25.0,PATBAY
+Patricia Bay Lake,70.46194444,-68.50277778,2571,3883,3355,Calibrated radiocarbon years BP,ARMERIA,1,0.264550265,25,PATBAY
