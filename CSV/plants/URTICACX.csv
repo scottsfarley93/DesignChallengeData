@@ -1,0 +1,6 @@
+SiteName,Latitude,Longitude,ageYounger,AgeOlder,Age,AgeType,Taxon,Value,Pct,Depth,Handle
+Crawford Lake,43.5,-79.83,,,939.0,Varve years BP,URTICACX,1.0,0.24813895781637718,960.0,CRAWFORD
+Perch Lake,46.03,-77.34,168.0,625.0,365.0,Calibrated radiocarbon years BP,URTICACX,1.0,0.2890173410404624,47.5,PERCHON
+Lake Site South Burin Peninsula,46.919444,-55.6125,12761,13133,12955,Calibrated Radiocarbon Years BP (Blois),URTICACX,8.0,2.416918429003021,461.5,SBURIN
+Lovesick Lake,44.55680555555555,-78.22479722222221,3959.0,7170.0,5603.0,Calibrated radiocarbon years BP,URTICACX,1.0,100.0,76.0,LOVESIC3
+Lovesick Lake,44.55680555555555,-78.22479722222221,6560.0,9317.0,8075.0,Calibrated radiocarbon years BP,URTICACX,1.0,100.0,109.0,LOVESIC3

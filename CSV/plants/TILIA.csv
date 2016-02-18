@@ -1,0 +1,7 @@
+SiteName,Latitude,Longitude,ageYounger,AgeOlder,Age,AgeType,Taxon,Value,Pct,Depth,Handle
+Perch Lake,46.03,-77.34,-8.0,158.0,52.0,Calibrated radiocarbon years BP,TILIA,2.0,0.6825938566552902,12.5,PERCHON
+Perch Lake,46.03,-77.34,366.0,992.0,663.0,Calibrated radiocarbon years BP,TILIA,1.0,0.2932551319648094,67.5,PERCHON
+Perch Lake,46.03,-77.34,1203.0,1900.0,1542.0,Calibrated radiocarbon years BP,TILIA,1.0,0.26041666666666663,127.5,PERCHON
+Perch Lake,46.03,-77.34,1414.0,2185.0,1792.0,Calibrated radiocarbon years BP,TILIA,2.0,0.6825938566552902,145.5,PERCHON
+Perch Lake,46.03,-77.34,1980.0,2752.0,2363.0,Calibrated radiocarbon years BP,TILIA,1.0,0.3731343283582089,186.5,PERCHON
+Kilbride Swamp,43.46458333333335,-79.9154166666667,8718.0,47509.0,21088.0,Calibrated radiocarbon years BP,TILIA,1.0,0.4975124378109453,102.0,KILBRIDE

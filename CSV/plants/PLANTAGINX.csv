@@ -1,0 +1,4 @@
+SiteName,Latitude,Longitude,ageYounger,AgeOlder,Age,AgeType,Taxon,Value,Pct,Depth,Handle
+Bates Marsh,42.342715,-81.84467000000001,-52.0,71.0,-12.0,Calibrated radiocarbon years BP,PLANTAGINX,4.0,0.8602150537634409,5.0,BATESON
+Collins Pond Site (PL-86-56),45.42715,-61.3427,13465.0,13915.0,13679.0,Calibrated radiocarbon years BP,PLANTAGINX,1.0,0.05998800239952009,15.0,COLPNDNS
+South Lake,69.080765,-121.42854,12552.0,14413.0,13648.0,Calibrated radiocarbon years BP,PLANTAGINX,1.0,0.49627791563275436,84.0,SOUTHMEL

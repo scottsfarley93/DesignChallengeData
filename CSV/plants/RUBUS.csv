@@ -1,0 +1,9 @@
+SiteName,Latitude,Longitude,ageYounger,AgeOlder,Age,AgeType,Taxon,Value,Pct,Depth,Handle
+Watana Triangle Pond,62.842885,-148.24701,-31.0,387.0,117.0,Calibrated radiocarbon years BP,RUBUS,1.0,0.17006802721088435,1.0,WATANA
+Watana Triangle Pond,62.842885,-148.24701,2854.0,5753.0,4797.0,Calibrated radiocarbon years BP,RUBUS,1.0,0.26455026455026454,30.0,WATANA
+Watana Triangle Pond,62.842885,-148.24701,3515.0,6260.0,5288.0,Calibrated radiocarbon years BP,RUBUS,1.0,0.26666666666666666,40.0,WATANA
+Watana Triangle Pond,62.842885,-148.24701,9156.0,10886.0,10035.0,Calibrated radiocarbon years BP,RUBUS,1.0,0.20533880903490762,130.0,WATANA
+Watana Triangle Pond,62.842885,-148.24701,9803.0,11394.0,10621.0,Calibrated radiocarbon years BP,RUBUS,1.0,0.27932960893854747,140.0,WATANA
+Zagoskin Lake,63.44847,-162.10838,14.0,2263.0,739.0,Calibrated radiocarbon years BP,RUBUS,1.0,0.3115264797507788,20.0,ZAGOSKIN
+Zagoskin Lake,63.44847,-162.10838,29129.0,30815.0,29965.0,Calibrated radiocarbon years BP,RUBUS,1.0,0.2881844380403458,1100.0,ZAGOSKIN
+Mitkof Island,56.81157,-132.93624,7151.0,7648.0,7416.0,Calibrated radiocarbon years BP,RUBUS,5.0,1.5432098765432098,150.0,MITKOF

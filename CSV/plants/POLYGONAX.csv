@@ -1,0 +1,4 @@
+SiteName,Latitude,Longitude,ageYounger,AgeOlder,Age,AgeType,Taxon,Value,Pct,Depth,Handle
+Roulston Lake (MS-78-15),46.89451,-67.4,11285.0,12549.0,11936.0,Calibrated radiocarbon years BP,POLYGONAX,2.0,0.468384074941452,421.0,MS-78-15
+Roulston Lake (MS-78-15),46.89451,-67.4,12084.0,13165.0,12731.0,Calibrated radiocarbon years BP,POLYGONAX,1.0,0.2824858757062147,441.0,MS-78-15
+Patricia Bay Lake,70.46194444444444,-68.50277777777775,840.0,3127.0,1991.0,Calibrated radiocarbon years BP,POLYGONAX,3.0,0.9375,15.0,PATBAY
