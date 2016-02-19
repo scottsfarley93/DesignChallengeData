@@ -29,6 +29,7 @@ Conceptual description vascular plant dataset:
 	* The core is then split into small samples (1 CM)
 	* Each of these samples is linked to an age by using an empirical function that links each depth to an age (called an age to depth model)
 	* Each sample is then subjected to lab analyses that include identifying the species of each pollen grain within the sample
+	* Pollen counts are turned into relative abundances by comparing the number of pollen grains of a single taxa to the total of all found in that portion of the core. 
 	* Ecological implications are published in the scientific literature and the pollen counts uploaded to NeotomaDB
 
 Conceptual description of mammal dataset:  
@@ -45,18 +46,20 @@ Data is provided as esri shapefiles and as csv text files. The attributes and fi
 
 Metadata
 --------
-Several files are provided to help you contextualize the given dataset.  These include a general reference list, and lookup table of common names and a lookup table given the taxonomic hierarchy for each taxon.
+Several files are provided to help you contextualize the given dataset.  Mammals are more often able to be identified down to the species level, while most plant species, identified through pollen analysis are reported to the genus or even the family level.  Thus, the datasets and associated metadata differ for each group.
 
 ## Main.csv
-This file gives a listing of the taxa included within the given data sets. 
+Given for both plants and mammals, this file provides a general overview of the taxa provided in each group, the relative number of records for each taxa within the group, and a pointer to the files that contain the taxa's data.
 Fields: 
  
 	* Taxon Name:  The scientific (Latin) name of the taxon
-	* numOccurrences:  The number of records each taxon has (and that you can expect to find within that data file).  This can be used to prioritize "important" species.
-	* fileName: A relative path to the file from either the shapefile or the csv data directory.
+	* numSites:  The number of x/y locations for this taxon.  
+	* numRecords: The raw number of data points (in x, y, and z) for this taxon.  The number of sites and the number of records can bbe helpful in determining "important" taxa.
+	* csv: The relative path to the csv file containing this dataset.
+	* shapefile: The relative path to the shapefile containing this dataset.
 
 ##Common.csv
-This file provides a bridge between the scientific and common/english name of a taxon.
+Provided only for mammals, this table provides a lookup for the common names of taxa to the English common name.  This file is provided to help you contextualize the dataset and the included taxa.  Plants are sometimes grouped to levels (like family) that do not have standard common names.  Simple google searches may yield informative common names for some plant taxa.
 Fields:
 
 	* Taxon  Name: The scientific name of the species (as can be found in main.csv)
@@ -64,7 +67,7 @@ Fields:
 	
 	
 ##Taxonomy.csv
-This file enables finding patterns between higher groups of taxa (families, orders, etc).  Some taxa have more detailed hierarchies (i.e., sub-orders) however, most are complete down to the family level, and some go all the way from kingdom to species.  Again, a trip to wikipedia may be helpful here.  T
+Provded only for mammals, this file enables finding patterns between higher groups of taxa (families, orders, etc).  Some taxa have more detailed hierarchies (i.e., sub-orders) however, most are complete down to the family level, and some go all the way from kingdom to species.  Again, a trip to wikipedia may be helpful here.  
 Fields:
 
 	* Taxon Name: The scientific name of the the taxon
@@ -80,27 +83,33 @@ Most mammal species have this general structure:
 	* Genus
 	* Extra -- an extra taxonomic field that describes another layer of hierarchy (e.g., sub-phylum, sub-class) at some point in the taxonomy
 
-Because plant species have multiple taxonomies based on which literature they are published in, and due to variations in extinct species, the raw hierarchy (as listed in the database) is given for the plant species.  
+##PollenMap.csv
+Designed only for the plant species, this file shows the method of aggregation to get to the higher taxa given in this dataset.  While there is no way to deconstruct (go to a higher level of identification in the taxonomic tree), this data may be interesting to those working with the plant data.
+Fields:  
+
+	* ID: The taxa id (not useful)
+	* taxon: The taxon that has been subsumed
+	* MappedTaxon: The new name for the higher level taxa given in the dataset.
 
 
 Data Fields
 -----------
-Both the csv and the shapefiles contain the same fields.  Both the mammal and plant taxa have the same field names.  Not all fields will be populated for each taxon, however, every taxon should have, at a minimum, spatial (x/y) coordinates and a value for that taxon at that location.  Most records also include an age (or min/max ages given dating uncertainty) and some include the depth where the species was found.  
+Both the csv and the shapefiles contain the same fields.   Not all fields will be populated for each taxon, however, every taxon should have, at a minimum, spatial (x/y) coordinates and a value for that taxon at that location.  Most records also include an age (or min/max ages given dating uncertainty) and some include the depth where the species was found.  
 NOT ALL RECORDS IN A SINGLE TAXA FILE CONTAIN THE SAME VARIABLES.  This is especially important for mammal species, where some records report the presence/absence of a species, while other report the minimum number of individuals (MNI) found at that site, while still others report the number of specimens present (NISP).  It is recommended that you ensure that you are using the same variable unit when comparing across taxa.
-Other attributes that may be difficult to compare across are different [age types] (https://en.wikipedia.org/wiki/Before_Present): Radiocarbon Years B.P., Calendar years B.P, etc.  
+Other attributes that may be difficult to compare across are different [age types] (https://en.wikipedia.org/wiki/Before_Present): Radiocarbon Years B.P., Calendar years B.P, etc. however, for this exercise you may assume that all ages are comparable.  
 
 
-Fields:
+Mammal Fields:
 
 	* siteID:  This is an integer field that represents the site identifier as specified by the database we used to obtain the data.  It is not essential, however, for the intrepid data explorer, it can be used to link specimens at single sites in a more exact way than say, a spatial join.
-	* siteName: The textual name of the site where the specimen was found or the core taken.
+	* siteName: The textual name of the site where the specimen was found.
 	* lng: The longitude (x-coordinate in WGS1984) of the specimen).  This is the mean of the bounding box longitudes.
 	* lat: The latitude (y-coordinate in WGS1984) of the specimen.  This is the mean of the bounding box latitudes.
 	* latN: The northern coordinate of the bounding box of the site
 	* latS: The southern coordinate of the bounding box of the site
 	* lngE: The eastern coordinate of the bounding box of the site
 	* lngW: The western coordinate of the bounding box of the site
-	* taxaGroup:  The group to which this taxa belongs, either vascular plants or mammals
+	* taxaGroup:  The group to which this taxa belongs
 	* taxonName: the scientific name of the taxon
 	* value: The value of the record for that taxon at that space-time location
 	* variableUnit: The unit in which the value is measured
@@ -111,8 +120,6 @@ Fields:
 	* element:  The type of material used to generate the value 
 		** Possible Values:
 		* Bone/Tooth -- for most mammals
-		* Spore -- for pollen
-		* macrofossil -- for plant macrofossils
 	* context: The taphonomic context of the record (few records have this attribute)
 	* age: The age of this record.  Most plant taxa have this attribute, as generated by an age-depth model.  Most mammal species use the uncertainty bounds.  
 	* minAge: The minimum age (young) of the record as generated by uncertainty in the dating procedure
@@ -122,11 +129,20 @@ Fields:
 	* altitude: The altitude of the site.  Again, most plant species have this attribute, while fewer mammal species contain this field.  This field could be easily generated in GIS too.
 	* datasetType: A textual description of the type of data contained in that record
 	** Possible values
-		* pollen
-		* Pollen surface sample
-		* plant macrofossil
 		* vertebrate fauna	
 	* submitted: The date that the record was integrated into the database.  Generally not a useful field.
-	For plant taxa only:
-	* pollenSum: The summation of all pollen in that level of the specimen unit. 
-	* pollen Pct: The percentage of this taxon in relation to all other taxa in that level, calculated using the pollenSum attribute.  This attribute is more directly comparable across taxa than the value attribute due to counting procedures as is typically used in the paleoecological literature.
+
+Plant Fields:  
+
+	* siteName: The textual name of the site where the pollen core was taken.
+	* lng: The longitude (x-coordinate in WGS1984) of the core.  
+	* lat: The latitude (y-coordinate in WGS1984) of the core.  
+	* ageYouner: The minimum age (young) of the record as generated by uncertainty in the dating procedure
+	* ageolder: The maximum age (old) of the record as generated by uncertainty in the dating procedure
+	* age: The best dated age of this record. Some species may only have this field, others may only use the min/max ages
+	* ageType: The type of date used.  This can be calendar years ad/BC, calendar years BP,  calibrated radiocarbon years BP, radiocarbon years BP, or varve years BP.  
+	* taxonName: the scientific name of the taxonomic grouping. Refer to pollenMap if you want to know what this grouping is made up of.
+	* value: The raw value of the record for that taxon at that space-time location
+	* Pct: The relative abundance of this taxon compared to all others found at that space-time location.  This is a much more meaningful field than the raw value, because it is directly comparable across records.
+	* Depth: The depth below the surface that the record was taken.  Most plant taxa have this attribute.  The depth attribute is less meaningful than the age attribute because ages can be compared across sites.
+	* handle: The dataset identifier for the site's age basis.  Used in data preparation, generally not a useful field for this exercise.
